@@ -26,22 +26,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230925T22:25:12Z | cve-2023-29360 | Exploit for CVE-2023-29360 targeting MSKSSRV.SYS driver | https://github.com/Nero22k/cve-2023-29360 | | 
+| 20230925T22:10:32Z | CVE-2023-4863 | BAD-WEBP-CVE-2023-4863 | https://github.com/talbeerysec/BAD-WEBP-CVE-2023-4863 | | 
+| 20230925T19:05:17Z | CVE-2023-20887 | VMWare vRealize Network Insight Pre-Authenticated RCE (CVE-2023-20887) | https://github.com/Malwareman007/CVE-2023-20887 | | 
+| 20230925T17:19:35Z | CVE-2023-2523 | Null | https://github.com/Any3ite/CVE-2023-2523 | | 
+| 20230925T14:03:12Z | CVE-2023-32560 | Ivanti Avalanche v6.4.0.0 RCE POC | https://github.com/x0rb3l/CVE-2023-32560 | | 
 | 20230925T10:33:10Z | CVE-2023-4863 | Null | https://github.com/bbaranoff/CVE-2023-4863 | | 
-| 20230925T08:25:12Z | CVE-2023-2523 | Null | https://github.com/Any3ite/CVE-2023-2523 | | 
-| 20230925T08:21:28Z | CVE-2023-20887 | VMWare vRealize Network Insight Pre-Authenticated RCE (CVE-2023-20887) | https://github.com/Malwareman007/CVE-2023-20887 | | 
 | 20230925T03:05:55Z | CVE-2023-31419 | Elasticsearch Stack Overflow Vulnerability | https://github.com/sqrtZeroKnowledge/Elasticsearch-Exploit-CVE-2023-31419 | | 
-| 20230925T02:22:40Z | cve-2023-29360 | Exploit for CVE-2023-29360 targeting MSKSSRV.SYS driver | https://github.com/Nero22k/cve-2023-29360 | | 
 | 20230924T13:33:43Z | CVE-2023-36844 | A Proof of Concept for chaining the CVEs [CVE-2023-36844, CVE-2023-36845, CVE-2023-36846, CVE-2023-36847] to achieve Remote Code Execution (phpinfo) in Juniper JunOS within SRX and EX Series products.Modified from original exploit developed by @watchTowr . | https://github.com/r3dcl1ff/CVE-2023-36844_Juniper_RCE | | 
 | 20230924T12:21:19Z | CVE-2023-4281 | Repository for CVE-2023-4281 vulnerability.  | https://github.com/b0marek/CVE-2023-4281 | | 
 | 20230924T12:19:28Z | CVE-2023-4863 | Null | https://github.com/mistymntncop/CVE-2023-4863 | | 
-| 20230924T12:11:59Z | CVE-2023-4800 | Repository for CVE-2023-4800 vulnerability.  | https://github.com/b0marek/CVE-2023-4800 | | 
-| 20230924T11:57:47Z | CVE-2023-4549 | Repository for CVE-2023-4549 vulnerability.  | https://github.com/b0marek/CVE-2023-4549 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230925T10:54:15Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13899 | 423| 
+| 20230925T19:22:28Z | Null | https://github.com/vikram9725/Kleen_Shine | 0 | 0| 
+| 20230925T16:31:46Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13900 | 423| 
 | 20230925T04:11:21Z | Null | https://github.com/Klee-Klee/Klee-Klee.github.io | 0 | 0| 
 | 20230925T02:42:21Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 91 | 20| 
 | 20230924T07:39:08Z | 可莉是一个喜欢用小炸弹摧毁东西的蒙德小女孩，努力为这个小孩子买一些原石吧！ | https://github.com/v-idol/vidol-agent-klee | 0 | 0| 
@@ -50,7 +51,6 @@
 | 20230922T23:02:07Z | Null | https://github.com/smaurin/perl_kleenex | 0 | 0| 
 | 20230919T11:32:45Z | TracerX Symbolic Virtual Machine | https://github.com/tracer-x/TracerX | 23 | 10| 
 | 20230918T21:27:15Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 29 | 2| 
-| 20230918T02:22:21Z | Null | https://github.com/kleekev/kleekev | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -69,23 +69,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230925T23:58:42Z | Bookmarklet hacks, exploits, and games. Unblocked, in one place. | https://github.com/car-axle-client/car-axle-client | 8 | 6| 
+| 20230925T23:53:22Z | Trident Exploit Chain | https://github.com/gkarchemsky/trident | 0 | 0| 
+| 20230925T23:18:19Z | Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions! | https://github.com/3kh0/ext-remover | 257 | 271| 
+| 20230925T22:02:53Z | Null | https://github.com/IdanBanani/Chromium-Browser-exploitation | 0 | 0| 
+| 20230925T21:53:15Z | qb inventory with zero exploits | https://github.com/arsh939/arsh-inventory | 0 | 0| 
+| 20230925T20:11:24Z | Null | https://github.com/fxiis/exploits | 0 | 0| 
+| 20230925T19:30:48Z | :exclamation: This is a read-only mirror of the CRAN R package repository.  topologyGSA — Gene Set Analysis Exploiting Pathway Topology   | https://github.com/cran/topologyGSA | 0 | 1| 
+| 20230925T19:29:40Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 3669 | 621| 
+| 20230925T17:25:53Z | AutoHotkey script exploiting the Bungee Zombie glitch in the I, Zombie puzzle game mode in Plants vs. Zombies: Game of the Year Edition. | https://github.com/thoresonjd/pvz-izombie-bungee-glitch-autohotkey | 0 | 0| 
 | 20230925T12:57:26Z | Exploit Reasearch | https://github.com/PwnEverything/exploitresearch | 0 | 0| 
-| 20230925T12:56:04Z | AUXT (Advanced USB Exploitation Toolkit), is a USB Exploitation Tool which you can use to exploit connected USB devices to your computer (And also manage) | https://github.com/G00Dway/AUXT | 1 | 0| 
-| 20230925T12:52:44Z | https://www.youtube.com/watch?v=tEM5Ds-gigY | https://github.com/Security88/Reg-Exploit-Private | 0 | 0| 
-| 20230925T12:49:34Z | this crack will give you access to malware bytes premium. the premium version of this anti virus will give you access to so many protective features like web, malware, ransomware, and exploit protection. | https://github.com/Up4Download/Malwarebytes-premium-cracked-2023 | 0 | 0| 
-| 20230925T12:48:03Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-e694584b-f582-4880-a98c-b3ba505c8959-XuxGy-exploit-explore | 0 | 0| 
-| 20230925T12:47:45Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-786-0100-0096-app-dnZlG-exploit-reduce | 0 | 0| 
-| 20230925T12:47:38Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-f14e6bbf-c45b-404a-9b08-c66dea6def1e-TjttY-exploit-cost | 0 | 0| 
-| 20230925T12:41:05Z | Selling private FUD Reg Exploit for Bypass Windows Defender | https://github.com/Security88/Reg-Exploit- | 0 | 0| 
-| 20230925T12:22:58Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-786-0050-0018-app-DBBvl-wash-exploit | 0 | 0| 
-| 20230925T12:21:22Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-786-0050-0028-app-dwJ38-enhance-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230925T23:45:57Z | Gecko Backdoor is a most powerful web php backdoor. | https://github.com/MadExploits/Gecko | 44 | 20| 
+| 20230925T23:26:28Z | PHP shell backdoors list  ( collection ) | https://github.com/1337r0j4n/php-backdoors | 35 | 12| 
 | 20230925T12:40:06Z | this tools backdoor  | https://github.com/VanMork/BUFT | 0 | 0| 
-| 20230925T10:40:47Z | Gecko Backdoor is a most powerful web php backdoor. | https://github.com/MadExploits/Gecko | 41 | 20| 
 | 20230925T05:11:23Z | An Opensource Windows Antivirus Tool to detect ransomware , viruses  , backdoors , payloads and  completely removes it from system  | https://github.com/Whitecat18/Mavoc-Antivirus | 3 | 1| 
 | 20230925T04:04:54Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 840 | 146| 
 | 20230925T03:07:40Z | Minecraft mod aimed to anarchy servers | https://github.com/accessmodifier364/LeuxBackdoor | 18 | 6| 
@@ -93,7 +94,6 @@
 | 20230924T23:06:48Z | open this file in vpsbecause is full of backdoors | https://github.com/DrChronics/Low-Orbit-Cannon-Tool | 0 | 0| 
 | 20230924T16:58:20Z | Backdoor poisoning attacks using ResNet-18 and MNIST dataset | https://github.com/sujeethrv/BackdoorPoisoning | 0 | 0| 
 | 20230924T12:06:36Z | A backdoor framework with a diversity of features. | https://github.com/hxrshdeepsingh/Aurora-Framework | 1 | 0| 
-| 20230924T10:36:06Z | no1seAndroRAT is a remote access tool that utilizes msfvenom and apktool, all in one script for your convenience. | https://github.com/no1se2/no1seAndroRAT---Android-Remote-Administration-Tool-RAT | 2 | 1| 
 
 
 # symbolic execution on Github 推荐
@@ -129,16 +129,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230925T22:51:52Z | Null | https://github.com/vasilev-dimaz/fuzzy-moon | 0 | 0| 
+| 20230925T21:56:46Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2869 | 536| 
+| 20230925T21:54:34Z | Implementation of a brake system with fuzzy logic: Mamdani inference | https://github.com/JonasFortes12/Logic-Fuzzy_Brake-System | 0 | 0| 
+| 20230925T19:45:26Z | Firebase backend shoppinglist | https://github.com/Abiel101/TheFuzzyShopList | 0 | 0| 
+| 20230925T19:40:38Z | C++ Fuzzer Example | https://github.com/vladiant/CppFuzzerExample | 0 | 0| 
+| 20230925T19:16:25Z | MaidSecLists Comprehensive Cybersecurity Resource for DNS Subdomains, Malware Hash Samples, Common Files, and Web Fuzzing | https://github.com/th3maid/MaidSecLists | 1 | 0| 
+| 20230925T19:00:58Z | Null | https://github.com/djnn24/fuzzy-octo-system | 0 | 0| 
 | 20230925T12:50:04Z | fuzzy 🔍 | https://github.com/ynqa/fuzzy-search | 3 | 0| 
 | 20230925T12:47:53Z | :exclamation: This is a read-only mirror of the CRAN R package repository.  FuzzyResampling — Resampling Methods for Triangular and Trapezoidal Fuzzy Numbers. Homepage: https://github.com/mroman-ibs/FuzzyResampling  Report bugs for this package: https://github.com/mroman-ibs/FuzzyResampling/issues | https://github.com/cran/FuzzyResampling | 0 | 0| 
 | 20230925T12:40:47Z | Null | https://github.com/voltboy13/fuzzy-spork | 0 | 0| 
-| 20230925T12:39:06Z | Null | https://github.com/IlyaSevastyanov/fuzzy-train | 0 | 0| 
-| 20230925T11:42:15Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9046 | 2002| 
-| 20230925T10:42:19Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 977 | 240| 
-| 20230925T10:08:23Z | framework flask, ESP32, ph-meter, ds18b20 | https://github.com/ahmadzulfadli/ControllerAquariumUsingFuzzyandIoTSystem | 0 | 0| 
-| 20230925T08:57:36Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1552 | 222| 
-| 20230925T08:50:44Z | protocol analysis and fuzzing | https://github.com/MirRoR4s/protocol | 0 | 0| 
-| 20230925T07:54:33Z | Null | https://github.com/JoanhuiChiu/fuzzexample | 0 | 0| 
 
 
 
