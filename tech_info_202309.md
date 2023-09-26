@@ -69,6 +69,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230926T01:52:13Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0012-app-ccJy9-exploit-shall | 0 | 0| 
+| 20230926T01:52:02Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0047-app-vVoOb-match-exploit | 0 | 0| 
 | 20230926T01:25:26Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWl | 1 | 0| 
 | 20230926T01:24:26Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANlm | 1 | 0| 
 | 20230926T01:23:23Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANlm | 1 | 0| 
@@ -77,8 +79,6 @@
 | 20230926T00:51:30Z | An exploit which lets you disable most admin-installed Chrome extensions from any webpage. | https://github.com/ading2210/dextensify | 9 | 21| 
 | 20230925T23:58:42Z | Bookmarklet hacks, exploits, and games. Unblocked, in one place. | https://github.com/car-axle-client/car-axle-client | 8 | 6| 
 | 20230925T23:53:22Z | Trident Exploit Chain | https://github.com/gkarchemsky/trident | 0 | 0| 
-| 20230925T23:18:19Z | Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions! | https://github.com/3kh0/ext-remover | 257 | 271| 
-| 20230925T22:02:53Z | Null | https://github.com/IdanBanani/Chromium-Browser-exploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
