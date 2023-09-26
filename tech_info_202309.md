@@ -129,6 +129,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230926T01:06:02Z | cryptofuzz python package for generated fast and easy wallet private key hex bytes mnemonic convert | https://github.com/Pymmdrza/cryptoFuzz | 0 | 0| 
 | 20230926T00:47:13Z | Firebase backend shoppinglist | https://github.com/Abiel101/TheFuzzyShopList | 0 | 0| 
 | 20230926T00:43:28Z | Atividade de Inteligência artificial. Trabalhando com a hipótese de criação de um sistema de controle ambiental para uma estufa. | https://github.com/Luan-S4ntana/Fuzzy-Training | 0 | 0| 
 | 20230925T22:51:52Z | Null | https://github.com/vasilev-dimaz/fuzzy-moon | 0 | 0| 
@@ -138,7 +139,6 @@
 | 20230925T19:16:25Z | MaidSecLists Comprehensive Cybersecurity Resource for DNS Subdomains, Malware Hash Samples, Common Files, and Web Fuzzing | https://github.com/th3maid/MaidSecLists | 1 | 0| 
 | 20230925T19:00:58Z | Null | https://github.com/djnn24/fuzzy-octo-system | 0 | 0| 
 | 20230925T12:50:04Z | fuzzy 🔍 | https://github.com/ynqa/fuzzy-search | 3 | 0| 
-| 20230925T12:47:53Z | :exclamation: This is a read-only mirror of the CRAN R package repository.  FuzzyResampling — Resampling Methods for Triangular and Trapezoidal Fuzzy Numbers. Homepage: https://github.com/mroman-ibs/FuzzyResampling  Report bugs for this package: https://github.com/mroman-ibs/FuzzyResampling/issues | https://github.com/cran/FuzzyResampling | 0 | 0| 
 
 
 
