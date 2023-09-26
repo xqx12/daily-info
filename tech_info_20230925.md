@@ -86,13 +86,13 @@
 | 20230925T22:51:52Z | Null | https://github.com/vasilev-dimaz/fuzzy-moon | 0 | 0| 
 | 20230925T21:56:46Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2869 | 536| 
 | 20230925T21:54:34Z | Implementation of a brake system with fuzzy logic: Mamdani inference | https://github.com/JonasFortes12/Logic-Fuzzy_Brake-System | 0 | 0| 
-| 20230925T19:45:26Z | Firebase backend shoppinglist | https://github.com/Abiel101/TheFuzzyShopList | 0 | 0| 
 | 20230925T19:40:38Z | C++ Fuzzer Example | https://github.com/vladiant/CppFuzzerExample | 0 | 0| 
 | 20230925T19:16:25Z | MaidSecLists Comprehensive Cybersecurity Resource for DNS Subdomains, Malware Hash Samples, Common Files, and Web Fuzzing | https://github.com/th3maid/MaidSecLists | 1 | 0| 
 | 20230925T19:00:58Z | Null | https://github.com/djnn24/fuzzy-octo-system | 0 | 0| 
 | 20230925T12:50:04Z | fuzzy 🔍 | https://github.com/ynqa/fuzzy-search | 3 | 0| 
 | 20230925T12:47:53Z | :exclamation: This is a read-only mirror of the CRAN R package repository.  FuzzyResampling — Resampling Methods for Triangular and Trapezoidal Fuzzy Numbers. Homepage: https://github.com/mroman-ibs/FuzzyResampling  Report bugs for this package: https://github.com/mroman-ibs/FuzzyResampling/issues | https://github.com/cran/FuzzyResampling | 0 | 0| 
 | 20230925T12:40:47Z | Null | https://github.com/voltboy13/fuzzy-spork | 0 | 0| 
+| 20230925T12:39:06Z | Null | https://github.com/IlyaSevastyanov/fuzzy-train | 0 | 0| 
 
 
 
