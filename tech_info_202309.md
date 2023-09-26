@@ -69,8 +69,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230926T01:04:10Z | A exploit library | https://github.com/Aluben-Services/Xbloit | 1 | 0| 
 | 20230926T00:51:30Z | An exploit which lets you disable most admin-installed Chrome extensions from any webpage. | https://github.com/ading2210/dextensify | 9 | 21| 
-| 20230926T00:37:31Z | A exploit library | https://github.com/Aluben-Services/Xbloit | 0 | 0| 
 | 20230925T23:58:42Z | Bookmarklet hacks, exploits, and games. Unblocked, in one place. | https://github.com/car-axle-client/car-axle-client | 8 | 6| 
 | 20230925T23:53:22Z | Trident Exploit Chain | https://github.com/gkarchemsky/trident | 0 | 0| 
 | 20230925T23:18:19Z | Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions! | https://github.com/3kh0/ext-remover | 257 | 271| 
