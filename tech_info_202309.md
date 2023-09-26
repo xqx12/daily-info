@@ -129,7 +129,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230926T00:36:45Z | Atividade de Inteligência artificial. Trabalhando com a hipótese de criação de um sistema de controle ambiental para uma estufa. | https://github.com/Luan-S4ntana/Fuzzy-Training | 0 | 0| 
+| 20230926T00:43:28Z | Atividade de Inteligência artificial. Trabalhando com a hipótese de criação de um sistema de controle ambiental para uma estufa. | https://github.com/Luan-S4ntana/Fuzzy-Training | 0 | 0| 
 | 20230925T22:51:52Z | Null | https://github.com/vasilev-dimaz/fuzzy-moon | 0 | 0| 
 | 20230925T21:56:46Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2869 | 536| 
 | 20230925T21:54:34Z | Implementation of a brake system with fuzzy logic: Mamdani inference | https://github.com/JonasFortes12/Logic-Fuzzy_Brake-System | 0 | 0| 
