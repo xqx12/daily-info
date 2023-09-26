@@ -40,9 +40,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230926T12:14:55Z | Exploit for CVE-2023-29360 targeting MSKSSRV.SYS driver | https://github.com/Nero22k/cve-2023-29360 | 6 | 0| 
 | 20230926T11:49:54Z | Darksplitz Exploit Framework | https://github.com/darksplitz/darksplitz | 0 | 0| 
 | 20230926T11:36:04Z | Null | https://github.com/NoorahSmith/Exploit-DB-offsec | 0 | 0| 
-| 20230926T11:20:38Z | Exploit for CVE-2023-29360 targeting MSKSSRV.SYS driver | https://github.com/Nero22k/cve-2023-29360 | 6 | 0| 
 | 20230926T11:14:17Z | PendingIntent exploit | https://github.com/wrlu/PendingIntentExp | 5 | 5| 
 | 20230926T10:37:54Z | Exploitation of vigenere encryption with known key size | https://github.com/Neaje/vigenere_exploit_key_length | 0 | 0| 
 | 20230926T10:15:26Z | My landing page | https://github.com/Exploit89/exploit89.github.io | 0 | 0| 
