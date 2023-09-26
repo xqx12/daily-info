@@ -16,8 +16,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230926T12:14:55Z | cve-2023-29360 | Exploit for CVE-2023-29360 targeting MSKSSRV.SYS driver | https://github.com/Nero22k/cve-2023-29360 | | 
 | 20230926T11:39:05Z | CVE-2023-35793 | Repository contains description for CVE-2023-35793 | https://github.com/Dodge-MPTC/CVE-2023-35793-CSRF-On-Web-SSH | | 
-| 20230926T11:20:38Z | cve-2023-29360 | Exploit for CVE-2023-29360 targeting MSKSSRV.SYS driver | https://github.com/Nero22k/cve-2023-29360 | | 
 | 20230926T10:36:04Z | CVE-2023-21272 | Null | https://github.com/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272 | | 
 | 20230926T08:24:16Z | CVE-2023-43263 | Repository for CVE-2023-43263 vulnerability.  | https://github.com/b0marek/CVE-2023-43263 | | 
 | 20230926T08:08:27Z | CVE-2023-20887 | VMWare vRealize Network Insight Pre-Authenticated RCE (CVE-2023-20887) | https://github.com/Malwareman007/CVE-2023-20887 | | 
