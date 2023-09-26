@@ -84,6 +84,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230926T12:39:09Z | A Python framework for building remote control, botnet , trojan or backdoor with Telegram or other control panels. #redteamao #offensive #pentesting | https://github.com/Keidi16/PYBONET | 3 | 0| 
 | 20230926T11:09:44Z | C# Basic Backdoor - Win 10-11 | https://github.com/nomad231/csharp.backdoor | 0 | 0| 
 | 20230926T04:48:44Z | PHP shell backdoors list  ( collection ) | https://github.com/1337r0j4n/php-backdoors | 35 | 12| 
 | 20230926T04:19:11Z | BackDoor Wordpress | https://github.com/unclecatvn/backdooradminwordpress | 0 | 0| 
@@ -93,7 +94,6 @@
 | 20230925T04:04:54Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 840 | 146| 
 | 20230925T03:07:40Z | Minecraft mod aimed to anarchy servers | https://github.com/accessmodifier364/LeuxBackdoor | 18 | 6| 
 | 20230924T23:07:05Z | Digital Forensics and Incident Response (DFIR) | https://github.com/RENANZG/My-Forensics | 49 | 7| 
-| 20230924T23:06:48Z | open this file in vpsbecause is full of backdoors | https://github.com/DrChronics/Low-Orbit-Cannon-Tool | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
