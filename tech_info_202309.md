@@ -69,6 +69,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230926T00:51:30Z | An exploit which lets you disable most admin-installed Chrome extensions from any webpage. | https://github.com/ading2210/dextensify | 9 | 21| 
 | 20230926T00:37:31Z | A exploit library | https://github.com/Aluben-Services/Xbloit | 0 | 0| 
 | 20230925T23:58:42Z | Bookmarklet hacks, exploits, and games. Unblocked, in one place. | https://github.com/car-axle-client/car-axle-client | 8 | 6| 
 | 20230925T23:53:22Z | Trident Exploit Chain | https://github.com/gkarchemsky/trident | 0 | 0| 
@@ -78,7 +79,6 @@
 | 20230925T20:11:24Z | Null | https://github.com/fxiis/exploits | 0 | 0| 
 | 20230925T19:35:45Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 568 | 111| 
 | 20230925T19:30:48Z | :exclamation: This is a read-only mirror of the CRAN R package repository.  topologyGSA — Gene Set Analysis Exploiting Pathway Topology   | https://github.com/cran/topologyGSA | 0 | 1| 
-| 20230925T19:29:40Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 3669 | 621| 
 
 
 # backdoor on Github 推荐
