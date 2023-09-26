@@ -69,6 +69,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230926T01:25:26Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWl | 1 | 0| 
 | 20230926T01:24:26Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANlm | 1 | 0| 
 | 20230926T01:23:23Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANlm | 1 | 0| 
 | 20230926T01:22:33Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANlm | 1 | 0| 
@@ -78,7 +79,6 @@
 | 20230925T23:53:22Z | Trident Exploit Chain | https://github.com/gkarchemsky/trident | 0 | 0| 
 | 20230925T23:18:19Z | Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions! | https://github.com/3kh0/ext-remover | 257 | 271| 
 | 20230925T22:02:53Z | Null | https://github.com/IdanBanani/Chromium-Browser-exploitation | 0 | 0| 
-| 20230925T21:53:15Z | qb inventory with zero exploits | https://github.com/arsh939/arsh-inventory | 0 | 0| 
 
 
 # backdoor on Github 推荐
