@@ -11,6 +11,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20230927 | 软件开发设计安全性的检查 | https://mp.weixin.qq.com/s/IdNkQf4Y5xJECVZrlG2xjg| 
 | 20230926 | Cuttlefish：新一代云端 Android 模拟器 | https://juejin.cn/post/7160930401844723720| 
 | 20230925 | 钓鱼文件应急溯源：方法篇 | https://www.sec-in.com/article/2262| 
 | 20230925 | SecWiki周刊（第499期) | https://www.sec-wiki.com/weekly/499| 
@@ -20,28 +21,27 @@
 | 20230924 | 反编译原理控制流分析 | https://mp.weixin.qq.com/s/swnTxas1wYWhaMgcq4fv-A| 
 | 20230923 | 关于 IR 在程序分析和优化中应用的一些思考 | https://mp.weixin.qq.com/s/qqojOakSX7EyqX2DNn4HZQ| 
 | 20230923 | 我国当前面临的主要网络认知威胁分析 | https://mp.weixin.qq.com/s/6E0esw99esAQu8YP9i4F-A| 
-| 20230923 | MDR如何开展？以CrowdStrike为例 | https://mp.weixin.qq.com/s/l9sGQxWxil_tUtTCUK745w| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230927T01:58:25Z | CVE-2023-29357 | Microsoft SharePoint Server Elevation of Privilege Vulnerability | https://github.com/Chocapikk/CVE-2023-29357 | | 
-| 20230927T01:38:18Z | CVE-2023-32364 | Exploit for CVE-2023-32364 | https://github.com/gergelykalman/CVE-2023-32364-macos-app-sandbox-escape | | 
-| 20230927T01:21:52Z | cve-2023-29360 | Exploit for CVE-2023-29360 targeting MSKSSRV.SYS driver | https://github.com/Nero22k/cve-2023-29360 | | 
-| 20230926T20:03:28Z | CVE-2023-36845 | Juniper Firewalls CVE-2023-36845 - RCE | https://github.com/kljunowsky/CVE-2023-36845 | | 
-| 20230926T16:13:12Z | CVE-2023-43326 | mooSocial v3.1.8 is vulnerable to cross-site scripting on Multiple URLs. | https://github.com/ahrixia/CVE-2023-43326 | | 
-| 20230926T11:39:05Z | CVE-2023-35793 | Repository contains description for CVE-2023-35793 | https://github.com/Dodge-MPTC/CVE-2023-35793-CSRF-On-Web-SSH | | 
-| 20230926T10:36:04Z | CVE-2023-21272 | Null | https://github.com/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272 | | 
-| 20230926T08:24:16Z | CVE-2023-43263 | Repository for CVE-2023-43263 vulnerability.  | https://github.com/b0marek/CVE-2023-43263 | | 
-| 20230926T08:08:27Z | CVE-2023-20887 | VMWare vRealize Network Insight Pre-Authenticated RCE (CVE-2023-20887) | https://github.com/Malwareman007/CVE-2023-20887 | | 
-| 20230926T07:27:10Z | CVE-2022-1040 | New exploitation of 2020 Sophos vuln | https://github.com/Cyb3rEnthusiast/CVE-2022-1040 | | 
+| 20230927T11:51:50Z | CVE-2023-29357 | Microsoft SharePoint Server Elevation of Privilege Vulnerability | https://github.com/Chocapikk/CVE-2023-29357 | | 
+| 20230927T11:48:01Z | cve-2023-29360 | Exploit for CVE-2023-29360 targeting MSKSSRV.SYS driver | https://github.com/Nero22k/cve-2023-29360 | | 
+| 20230927T11:35:48Z | CVE-2023-4762 | Null | https://github.com/buptsb/CVE-2023-4762 | | 
+| 20230927T10:14:25Z | CVE-2023-42442 | Null | https://github.com/HolyGu/CVE-2023-42442 | | 
+| 20230927T09:50:56Z | CVE-2023-36845 | PoC CVE-2023-36845 on Juniper Device | https://github.com/toanln-cov/CVE-2023-36845 | | 
+| 20230927T09:41:13Z | CVE-2023-20209 | Null | https://github.com/0x41-Researcher/CVE-2023-20209 | | 
+| 20230927T08:06:28Z | CVE-2023-42820 | CVE-2023-42820 | https://github.com/wh-gov/CVE-2023-42820 | | 
+| 20230927T06:23:40Z | CVE-2022-26134 | Null | https://github.com/yTxZx/CVE-2022-26134 | | 
+| 20230927T04:05:49Z | CVE-2023-32364 | Exploit for CVE-2023-32364 | https://github.com/gergelykalman/CVE-2023-32364-macos-app-sandbox-escape | | 
+| 20230927T03:41:33Z | CVE-2023-34152 | CVE-2023-34152 | https://github.com/overgrowncarrot1/ImageTragick_CVE-2023-34152 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230927T01:37:10Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13902 | 423| 
+| 20230927T09:36:58Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13906 | 424| 
 | 20230925T19:22:28Z | Null | https://github.com/vikram9725/Kleen_Shine | 0 | 0| 
 | 20230925T04:11:21Z | Null | https://github.com/Klee-Klee/Klee-Klee.github.io | 0 | 0| 
 | 20230925T02:42:21Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 91 | 20| 
@@ -56,44 +56,44 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230924T03:46:36Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 355 | 82| 
+| 20230927T11:46:19Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 357 | 82| 
+| 20230927T09:13:12Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 34 | 15| 
 | 20230922T13:59:27Z | An example of user settings repository for s2e-aobc | https://github.com/ut-issl/s2e-aobc-example | 1 | 0| 
 | 20230921T10:55:43Z | Null | https://github.com/MetadataGitTesting/s2elgWnP | 0 | 0| 
 | 20230918T21:33:09Z | Null | https://github.com/eavithefteo1982/s2e56vq0 | 0 | 0| 
 | 20230916T21:51:16Z | C2A CoreにあるC2A sampleでSILSを組むためのS2E user | https://github.com/ut-issl/s2e-user-for-c2a-core | 3 | 1| 
 | 20230916T21:49:49Z | Documents for Spacecraft Simulation Environment | https://github.com/ut-issl/s2e-documents | 7 | 6| 
 | 20230915T05:32:09Z | Null | https://github.com/MetadataGitTesting/S2E7bkHy | 0 | 0| 
-| 20230911T14:06:59Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 34 | 15| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230927T01:36:36Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0069-app-DWxRz-differ-exploit | 0 | 0| 
-| 20230927T01:29:39Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0050-0036-app-XMv_c-belong-exploit | 0 | 0| 
-| 20230927T01:08:05Z | A repository where i learn how to exploit computers | https://github.com/maxcai314/ctf-practice | 0 | 0| 
-| 20230927T00:57:30Z | USE AT YOUR OWN RISK. - This resperatory gives you cheats and exploits for all kinds of things. Educational purposes only. Will update when asked for something. I check this every week | https://github.com/Spideyboyjk2/Student-helpers | 0 | 0| 
-| 20230926T23:33:59Z | Null | https://github.com/Exooxq/Silent-Excel-Exploit-2023 | 0 | 0| 
-| 20230926T23:33:27Z | Null | https://github.com/Exooxq/Silent-Word-Office-Exploit-2023 | 0 | 0| 
-| 20230926T23:32:09Z | Null | https://github.com/Exooxq/Silent-PDF-Exploit-2023 | 0 | 0| 
-| 20230926T23:24:59Z | Null | https://github.com/Exooxq/JPG-Silent-Exploit-Builder-2023 | 0 | 0| 
-| 20230926T23:21:59Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWvt | 0 | 0| 
-| 20230926T23:20:49Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANvt | 0 | 0| 
+| 20230927T11:34:28Z | Null | https://github.com/backendGuru88/End-exploitation-website | 0 | 0| 
+| 20230927T10:33:12Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-ZFl43-exploit-voice | 0 | 0| 
+| 20230927T10:31:32Z | Terramaster chained exploit to privileges access vulnerable code execution | https://github.com/VarmaKollu/terra-rce | 0 | 0| 
+| 20230927T09:03:32Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5359 | 690| 
+| 20230927T09:02:18Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 737 | 179| 
+| 20230927T08:51:34Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5544 | 759| 
+| 20230927T08:06:27Z | GitOps Repository | https://github.com/redhat-appstudio-qe/integ-app-oeva-Vc-v8-qualify-exploit | 0 | 0| 
+| 20230927T07:42:54Z | Null | https://github.com/exploitsys/SystemExploitBlog | 0 | 0| 
+| 20230927T07:07:51Z | Exploiting a small loophole in a BurgerKing marketing campaign | https://github.com/mgloc/freefood | 0 | 0| 
+| 20230927T07:03:56Z | A simple library to easily exploit the PokeAPI. | https://github.com/Tykok/PokeAPI-Kotlin | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230927T09:07:35Z | Metinfo Collecting user information through backdoor code auditing | https://github.com/FromAmericanJack/aboutMetinfo | 1 | 0| 
+| 20230927T06:18:06Z |  BEAST a backdoor generator and backdoor generating tools. | https://github.com/sohamjuhin/BEAST | 0 | 0| 
+| 20230927T06:03:16Z | Backdoor script to editing files and browsing server. | https://github.com/JK-Python-Instructor/PHP-Backdoor | 0 | 0| 
 | 20230927T00:29:51Z | PHP shell backdoors list  ( collection ) | https://github.com/1337r0j4n/php-backdoors | 36 | 13| 
 | 20230926T19:05:22Z | Educational project of the academy %Start_IT% student | https://github.com/davydtovstyj/Backdoors | 0 | 0| 
 | 20230926T18:06:15Z | listen backdoor (windows backdoor) | https://github.com/FizzAndCookies/EvilPyrate-II | 0 | 0| 
-| 20230926T14:31:02Z | A Python framework for building remote control, botnet , trojan or backdoor with Telegram or other control panels. #redteamao #offensive #pentesting | https://github.com/Keidi16/PYBOTNET | 4 | 0| 
+| 20230926T14:31:02Z | A Python framework for building remote control, botnet , trojan or backdoor with Telegram or other control panels. #redteamao #offensive #pentesting | https://github.com/Keidi16/PYBOTNET | 4 | 1| 
 | 20230926T14:22:41Z | Like memcached, but also backdoors your data | https://github.com/ConAcademy/petty-cache | 0 | 0| 
 | 20230926T12:39:09Z | A Python framework for building remote control, botnet , trojan or backdoor with Telegram or other control panels. #redteamao #offensive #pentesting | https://github.com/Keidi16/PYBONET | 3 | 0| 
 | 20230926T11:09:44Z | C# Basic Backdoor - Win 10-11 | https://github.com/nomad231/csharp.backdoor | 0 | 0| 
-| 20230926T04:19:11Z | BackDoor Wordpress | https://github.com/unclecatvn/backdooradminwordpress | 0 | 0| 
-| 20230925T23:45:57Z | Gecko Backdoor is a most powerful web php backdoor. | https://github.com/MadExploits/Gecko | 44 | 20| 
-| 20230925T12:40:06Z | this tools backdoor  | https://github.com/VanMork/BUFT | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -129,16 +129,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230927T01:37:52Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1559 | 222| 
+| 20230927T11:56:39Z | Null | https://github.com/dengchaoguoke/fuzzy-system | 0 | 0| 
+| 20230927T11:55:57Z | Null | https://github.com/0xdak/go-fuzzer | 0 | 0| 
+| 20230927T11:37:52Z | Null | https://github.com/Fuzziegoon/fuzz-mailsystem | 0 | 0| 
+| 20230927T08:44:54Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4842 | 1161| 
+| 20230927T03:37:20Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1560 | 222| 
 | 20230927T01:31:23Z | Null | https://github.com/harleybrackley/GA-Project-2---FuzzFeed | 0 | 0| 
 | 20230927T00:23:06Z | Basics of Fuzzing in GO | https://github.com/Unearthlyglow/Go-Fuzzing-Tutorial | 0 | 0| 
 | 20230927T00:15:41Z | Null | https://github.com/wangch64/fuzzapp | 0 | 0| 
 | 20230926T22:55:42Z | Null | https://github.com/incredible-phoenix246/URL-Fuzz | 0 | 0| 
 | 20230926T22:22:09Z | Null | https://github.com/FuzzySpuffy1/FuzzySpuffy | 0 | 0| 
-| 20230926T21:07:51Z | Null | https://github.com/IsadoraPrevitalle/Logica_Fuzzy | 0 | 0| 
-| 20230926T20:25:47Z | Code Quiz | https://github.com/GoodK-G/fuzzy-octo-barnacle | 0 | 0| 
-| 20230926T12:10:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9049 | 2005| 
-| 20230926T09:25:35Z | A WebGL implementation of generalization of Conway’s ”Game of Life” to a continuous domain | https://github.com/breadloafsky/fuzzy-life | 0 | 0| 
 
 
 
