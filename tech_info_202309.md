@@ -26,10 +26,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230927T01:38:18Z | CVE-2023-32364 | Exploit for CVE-2023-32364 | https://github.com/gergelykalman/CVE-2023-32364-macos-app-sandbox-escape | | 
 | 20230927T01:25:15Z | CVE-2023-29357 | Microsoft SharePoint Server Elevation of Privilege Vulnerability | https://github.com/Chocapikk/CVE-2023-29357 | | 
 | 20230927T01:21:52Z | cve-2023-29360 | Exploit for CVE-2023-29360 targeting MSKSSRV.SYS driver | https://github.com/Nero22k/cve-2023-29360 | | 
 | 20230926T20:03:28Z | CVE-2023-36845 | Juniper Firewalls CVE-2023-36845 - RCE | https://github.com/kljunowsky/CVE-2023-36845 | | 
-| 20230926T19:28:36Z | CVE-2023-32364 | Exploit for CVE-2023-32364 | https://github.com/gergelykalman/CVE-2023-32364-macos-app-sandbox-escape | | 
 | 20230926T16:13:12Z | CVE-2023-43326 | mooSocial v3.1.8 is vulnerable to cross-site scripting on Multiple URLs. | https://github.com/ahrixia/CVE-2023-43326 | | 
 | 20230926T11:39:05Z | CVE-2023-35793 | Repository contains description for CVE-2023-35793 | https://github.com/Dodge-MPTC/CVE-2023-35793-CSRF-On-Web-SSH | | 
 | 20230926T10:36:04Z | CVE-2023-21272 | Null | https://github.com/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272 | | 
