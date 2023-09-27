@@ -129,6 +129,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230927T01:31:23Z | Null | https://github.com/harleybrackley/GA-Project-2---FuzzFeed | 0 | 0| 
 | 20230927T01:11:53Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1558 | 222| 
 | 20230927T00:23:06Z | Basics of Fuzzing in GO | https://github.com/Unearthlyglow/Go-Fuzzing-Tutorial | 0 | 0| 
 | 20230927T00:15:41Z | Null | https://github.com/wangch64/fuzzapp | 0 | 0| 
@@ -138,7 +139,6 @@
 | 20230926T20:25:47Z | Code Quiz | https://github.com/GoodK-G/fuzzy-octo-barnacle | 0 | 0| 
 | 20230926T12:10:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9049 | 2005| 
 | 20230926T09:25:35Z | A WebGL implementation of generalization of Conway’s ”Game of Life” to a continuous domain | https://github.com/breadloafsky/fuzzy-life | 0 | 0| 
-| 20230926T08:49:47Z | Null | https://github.com/gxh191/fuzzer_crash | 0 | 0| 
 
 
 
