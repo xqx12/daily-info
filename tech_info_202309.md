@@ -69,6 +69,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230927T01:29:39Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0050-0036-app-XMv_c-belong-exploit | 0 | 0| 
 | 20230927T01:08:05Z | A repository where i learn how to exploit computers | https://github.com/maxcai314/ctf-practice | 0 | 0| 
 | 20230927T00:57:30Z | USE AT YOUR OWN RISK. - This resperatory gives you cheats and exploits for all kinds of things. Educational purposes only. Will update when asked for something. I check this every week | https://github.com/Spideyboyjk2/Student-helpers | 0 | 0| 
 | 20230926T23:33:59Z | Null | https://github.com/Exooxq/Silent-Excel-Exploit-2023 | 0 | 0| 
@@ -78,7 +79,6 @@
 | 20230926T23:21:59Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWvt | 0 | 0| 
 | 20230926T23:20:49Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANvt | 0 | 0| 
 | 20230926T23:20:12Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANvt | 0 | 0| 
-| 20230926T23:19:34Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANvt | 0 | 0| 
 
 
 # backdoor on Github 推荐
