@@ -17,8 +17,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230927T12:10:19Z | CVE-2023-29357 | Microsoft SharePoint Server Elevation of Privilege Vulnerability | https://github.com/Chocapikk/CVE-2023-29357 | | 
 | 20230927T12:02:14Z | CVE-2023-43323 | mooSocial v3.1.8 is vulnerable to external service interaction on post function. | https://github.com/ahrixia/CVE-2023-43323 | | 
-| 20230927T11:51:50Z | CVE-2023-29357 | Microsoft SharePoint Server Elevation of Privilege Vulnerability | https://github.com/Chocapikk/CVE-2023-29357 | | 
 | 20230927T11:48:01Z | cve-2023-29360 | Exploit for CVE-2023-29360 targeting MSKSSRV.SYS driver | https://github.com/Nero22k/cve-2023-29360 | | 
 | 20230927T11:35:48Z | CVE-2023-4762 | Null | https://github.com/buptsb/CVE-2023-4762 | | 
 | 20230927T10:14:25Z | CVE-2023-42442 | Null | https://github.com/HolyGu/CVE-2023-42442 | | 
