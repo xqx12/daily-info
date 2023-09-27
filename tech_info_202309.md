@@ -129,8 +129,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230927T01:37:52Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1559 | 222| 
 | 20230927T01:31:23Z | Null | https://github.com/harleybrackley/GA-Project-2---FuzzFeed | 0 | 0| 
-| 20230927T01:11:53Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1558 | 222| 
 | 20230927T00:23:06Z | Basics of Fuzzing in GO | https://github.com/Unearthlyglow/Go-Fuzzing-Tutorial | 0 | 0| 
 | 20230927T00:15:41Z | Null | https://github.com/wangch64/fuzzapp | 0 | 0| 
 | 20230926T22:55:42Z | Null | https://github.com/incredible-phoenix246/URL-Fuzz | 0 | 0| 
