@@ -129,9 +129,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230927T11:56:39Z | Null | https://github.com/dengchaoguoke/fuzzy-system | 0 | 0| 
+| 20230927T12:03:43Z | Null | https://github.com/dengchaoguoke/fuzzy-system | 0 | 0| 
+| 20230927T12:01:33Z | Mailman/Mailtheft Script for QBCore Framework | https://github.com/Fuzziegoon/fuzz-mailsystem | 0 | 0| 
 | 20230927T11:55:57Z | Null | https://github.com/0xdak/go-fuzzer | 0 | 0| 
-| 20230927T11:37:52Z | Null | https://github.com/Fuzziegoon/fuzz-mailsystem | 0 | 0| 
 | 20230927T08:44:54Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4842 | 1161| 
 | 20230927T03:37:20Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1560 | 222| 
 | 20230927T01:31:23Z | Null | https://github.com/harleybrackley/GA-Project-2---FuzzFeed | 0 | 0| 
