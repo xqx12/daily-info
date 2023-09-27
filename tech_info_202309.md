@@ -41,7 +41,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230926T14:35:39Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13903 | 423| 
+| 20230927T01:37:10Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13902 | 423| 
 | 20230925T19:22:28Z | Null | https://github.com/vikram9725/Kleen_Shine | 0 | 0| 
 | 20230925T04:11:21Z | Null | https://github.com/Klee-Klee/Klee-Klee.github.io | 0 | 0| 
 | 20230925T02:42:21Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 91 | 20| 
@@ -69,6 +69,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230927T01:36:36Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0069-app-DWxRz-differ-exploit | 0 | 0| 
 | 20230927T01:29:39Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0050-0036-app-XMv_c-belong-exploit | 0 | 0| 
 | 20230927T01:08:05Z | A repository where i learn how to exploit computers | https://github.com/maxcai314/ctf-practice | 0 | 0| 
 | 20230927T00:57:30Z | USE AT YOUR OWN RISK. - This resperatory gives you cheats and exploits for all kinds of things. Educational purposes only. Will update when asked for something. I check this every week | https://github.com/Spideyboyjk2/Student-helpers | 0 | 0| 
@@ -78,7 +79,6 @@
 | 20230926T23:24:59Z | Null | https://github.com/Exooxq/JPG-Silent-Exploit-Builder-2023 | 0 | 0| 
 | 20230926T23:21:59Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWvt | 0 | 0| 
 | 20230926T23:20:49Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANvt | 0 | 0| 
-| 20230926T23:20:12Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANvt | 0 | 0| 
 
 
 # backdoor on Github 推荐
