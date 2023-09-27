@@ -17,9 +17,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230927T12:55:15Z | CVE-2023-4762 | Null | https://github.com/buptsb/CVE-2023-4762 | | 
 | 20230927T12:46:42Z | CVE-2023-29357 | Microsoft SharePoint Server Elevation of Privilege Vulnerability | https://github.com/Chocapikk/CVE-2023-29357 | | 
 | 20230927T12:41:36Z | CVE-2023-32364 | Exploit for CVE-2023-32364 | https://github.com/gergelykalman/CVE-2023-32364-macos-app-sandbox-escape | | 
-| 20230927T12:36:43Z | CVE-2023-4762 | Null | https://github.com/buptsb/CVE-2023-4762 | | 
 | 20230927T12:27:44Z | CVE-2023-21282 | Null | https://github.com/nidhi7598/external_aac_AOSP04-r1_CVE-2023-21282 | | 
 | 20230927T12:23:12Z | cve-2023-29360 | Exploit for CVE-2023-29360 targeting MSKSSRV.SYS driver | https://github.com/Nero22k/cve-2023-29360 | | 
 | 20230927T12:02:14Z | CVE-2023-43323 | mooSocial v3.1.8 is vulnerable to external service interaction on post function. | https://github.com/ahrixia/CVE-2023-43323 | | 
