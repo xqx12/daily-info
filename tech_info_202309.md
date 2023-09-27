@@ -129,7 +129,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230927T00:11:47Z | Basics of Fuzzing in GO | https://github.com/Unearthlyglow/Go-Fuzzing-Tutorial | 0 | 0| 
+| 20230927T00:23:06Z | Basics of Fuzzing in GO | https://github.com/Unearthlyglow/Go-Fuzzing-Tutorial | 0 | 0| 
+| 20230927T00:15:41Z | Null | https://github.com/wangch64/fuzzapp | 0 | 0| 
 | 20230926T22:55:42Z | Null | https://github.com/incredible-phoenix246/URL-Fuzz | 0 | 0| 
 | 20230926T22:22:09Z | Null | https://github.com/FuzzySpuffy1/FuzzySpuffy | 0 | 0| 
 | 20230926T21:07:51Z | Null | https://github.com/IsadoraPrevitalle/Logica_Fuzzy | 0 | 0| 
@@ -138,7 +139,6 @@
 | 20230926T09:25:35Z | A WebGL implementation of generalization of Conway’s ”Game of Life” to a continuous domain | https://github.com/breadloafsky/fuzzy-life | 0 | 0| 
 | 20230926T08:49:47Z | Null | https://github.com/gxh191/fuzzer_crash | 0 | 0| 
 | 20230926T08:11:06Z | Null | https://github.com/koltiradw/suricata_fuzz_corpus | 0 | 0| 
-| 20230926T08:05:25Z | fuzzy 🔍 | https://github.com/ynqa/fuzzy-search | 8 | 0| 
 
 
 
