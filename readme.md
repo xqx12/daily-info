@@ -87,6 +87,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230927T12:42:54Z | Designing a PID Fuzzy controller for a Wind Turbine system Using MATLAB & Simulink | https://github.com/Sajad-Ghadiri/Wind-Turbine-PID-Fuzzy-Controller | 0 | 0| 
 | 20230927T12:33:06Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1561 | 222| 
 | 20230927T12:03:43Z | Null | https://github.com/dengchaoguoke/fuzzy-system | 0 | 0| 
 | 20230927T12:01:33Z | Mailman/Mailtheft Script for QBCore Framework | https://github.com/Fuzziegoon/fuzz-mailsystem | 0 | 0| 
