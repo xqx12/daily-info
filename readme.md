@@ -17,6 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230927T12:02:14Z | CVE-2023-43323 | mooSocial v3.1.8 is vulnerable to external service interaction on post function. | https://github.com/ahrixia/CVE-2023-43323 | | 
 | 20230927T11:51:50Z | CVE-2023-29357 | Microsoft SharePoint Server Elevation of Privilege Vulnerability | https://github.com/Chocapikk/CVE-2023-29357 | | 
 | 20230927T11:48:01Z | cve-2023-29360 | Exploit for CVE-2023-29360 targeting MSKSSRV.SYS driver | https://github.com/Nero22k/cve-2023-29360 | | 
 | 20230927T11:35:48Z | CVE-2023-4762 | Null | https://github.com/buptsb/CVE-2023-4762 | | 
@@ -26,7 +27,6 @@
 | 20230927T08:06:28Z | CVE-2023-42820 | CVE-2023-42820 | https://github.com/wh-gov/CVE-2023-42820 | | 
 | 20230927T06:23:40Z | CVE-2022-26134 | Null | https://github.com/yTxZx/CVE-2022-26134 | | 
 | 20230927T04:05:49Z | CVE-2023-32364 | Exploit for CVE-2023-32364 | https://github.com/gergelykalman/CVE-2023-32364-macos-app-sandbox-escape | | 
-| 20230927T03:41:33Z | CVE-2023-34152 | CVE-2023-34152 | https://github.com/overgrowncarrot1/ImageTragick_CVE-2023-34152 | | 
 
 
 # klee on Github 推荐
@@ -69,6 +69,12 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230927T11:46:19Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 357 | 82| 
+| 20230927T09:07:33Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2323 | 636| 
+| 20230927T07:19:07Z | A Dynamic Symbolic Execution (DSE) engine for JavaScript. ExpoSE is highly scalable, compatible with recent JavaScript standards, and supports symbolic modelling of strings and regular expressions. | https://github.com/ExpoSEJS/ExpoSE | 164 | 28| 
+| 20230927T07:18:07Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3542 | 490| 
+| 20230927T02:39:17Z | Symbolic execution of LLVM IR with an engine written in Rust | https://github.com/PLSysSec/haybale | 455 | 22| 
+| 20230927T02:08:49Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 202 | 42| 
 
 
 # big4 on Github 推荐
