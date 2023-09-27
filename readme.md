@@ -45,12 +45,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230927T12:41:05Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5545 | 759| 
 | 20230927T11:34:28Z | Null | https://github.com/backendGuru88/End-exploitation-website | 0 | 0| 
 | 20230927T10:33:12Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-ZFl43-exploit-voice | 0 | 0| 
 | 20230927T10:31:32Z | Terramaster chained exploit to privileges access vulnerable code execution | https://github.com/VarmaKollu/terra-rce | 0 | 0| 
 | 20230927T09:03:32Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5359 | 690| 
 | 20230927T09:02:18Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 737 | 179| 
-| 20230927T08:51:34Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5544 | 759| 
 | 20230927T08:06:27Z | GitOps Repository | https://github.com/redhat-appstudio-qe/integ-app-oeva-Vc-v8-qualify-exploit | 0 | 0| 
 | 20230927T07:42:54Z | Null | https://github.com/exploitsys/SystemExploitBlog | 0 | 0| 
 | 20230927T07:07:51Z | Exploiting a small loophole in a BurgerKing marketing campaign | https://github.com/mgloc/freefood | 0 | 0| 
