@@ -17,7 +17,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230926T22:06:45Z | cve-2023-29360 | Exploit for CVE-2023-29360 targeting MSKSSRV.SYS driver | https://github.com/Nero22k/cve-2023-29360 | | 
 | 20230926T20:03:28Z | CVE-2023-36845 | Juniper Firewalls CVE-2023-36845 - RCE | https://github.com/kljunowsky/CVE-2023-36845 | | 
 | 20230926T19:28:36Z | CVE-2023-32364 | Exploit for CVE-2023-32364 | https://github.com/gergelykalman/CVE-2023-32364-macos-app-sandbox-escape | | 
 | 20230926T16:13:12Z | CVE-2023-43326 | mooSocial v3.1.8 is vulnerable to cross-site scripting on Multiple URLs. | https://github.com/ahrixia/CVE-2023-43326 | | 
@@ -27,6 +26,7 @@
 | 20230926T08:08:27Z | CVE-2023-20887 | VMWare vRealize Network Insight Pre-Authenticated RCE (CVE-2023-20887) | https://github.com/Malwareman007/CVE-2023-20887 | | 
 | 20230926T07:27:10Z | CVE-2022-1040 | New exploitation of 2020 Sophos vuln | https://github.com/Cyb3rEnthusiast/CVE-2022-1040 | | 
 | 20230926T05:52:49Z | CVE-2022-21894 | Null | https://github.com/nova-master/CVE-2022-21894 | | 
+| 20230926T02:27:47Z | CVE-2023-43323 | mooSocial v3.1.8 is vulnerable to external service interaction on post function. | https://github.com/ahrixia/CVE-2023-43323 | | 
 
 
 # klee on Github 推荐
