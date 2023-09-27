@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230927T12:41:36Z | CVE-2023-32364 | Exploit for CVE-2023-32364 | https://github.com/gergelykalman/CVE-2023-32364-macos-app-sandbox-escape | | 
 | 20230927T12:36:43Z | CVE-2023-4762 | Null | https://github.com/buptsb/CVE-2023-4762 | | 
 | 20230927T12:27:44Z | CVE-2023-21282 | Null | https://github.com/nidhi7598/external_aac_AOSP04-r1_CVE-2023-21282 | | 
 | 20230927T12:23:12Z | cve-2023-29360 | Exploit for CVE-2023-29360 targeting MSKSSRV.SYS driver | https://github.com/Nero22k/cve-2023-29360 | | 
@@ -35,7 +36,6 @@
 | 20230927T09:50:56Z | CVE-2023-36845 | PoC CVE-2023-36845 on Juniper Device | https://github.com/toanln-cov/CVE-2023-36845 | | 
 | 20230927T09:41:13Z | CVE-2023-20209 | Null | https://github.com/0x41-Researcher/CVE-2023-20209 | | 
 | 20230927T08:06:28Z | CVE-2023-42820 | CVE-2023-42820 | https://github.com/wh-gov/CVE-2023-42820 | | 
-| 20230927T06:23:40Z | CVE-2022-26134 | Null | https://github.com/yTxZx/CVE-2022-26134 | | 
 
 
 # klee on Github 推荐
@@ -84,6 +84,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230927T12:43:26Z | CLEAN FRESHLY CODED DRAINER, NO BACKDOOR | https://github.com/godfather9916/drainer | 0 | 0| 
 | 20230927T09:07:35Z | Metinfo Collecting user information through backdoor code auditing | https://github.com/FromAmericanJack/aboutMetinfo | 1 | 0| 
 | 20230927T06:18:06Z |  BEAST a backdoor generator and backdoor generating tools. | https://github.com/sohamjuhin/BEAST | 0 | 0| 
 | 20230927T06:03:16Z | Backdoor script to editing files and browsing server. | https://github.com/JK-Python-Instructor/PHP-Backdoor | 0 | 0| 
@@ -93,7 +94,6 @@
 | 20230926T14:31:02Z | A Python framework for building remote control, botnet , trojan or backdoor with Telegram or other control panels. #redteamao #offensive #pentesting | https://github.com/Keidi16/PYBOTNET | 4 | 1| 
 | 20230926T14:22:41Z | Like memcached, but also backdoors your data | https://github.com/ConAcademy/petty-cache | 0 | 0| 
 | 20230926T12:39:09Z | A Python framework for building remote control, botnet , trojan or backdoor with Telegram or other control panels. #redteamao #offensive #pentesting | https://github.com/Keidi16/PYBONET | 3 | 0| 
-| 20230926T11:09:44Z | C# Basic Backdoor - Win 10-11 | https://github.com/nomad231/csharp.backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -114,11 +114,11 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230927T12:43:19Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 19 | 2| 
 | 20230925T07:10:52Z | https://marsvillager.github.io/PaperWorkflowAutomation/summary/visualize.html (Safari, Firefox ✓ Edge, Chrome ✗) 论文爬虫+概述: IEEE Symposium on Security and Privacy (S&P), USENIX Security Symposium, Network and Distributed System Security Symposium (NDSS)  | https://github.com/marsvillager/PaperWorkflowAutomation | 3 | 0| 
 | 20230921T20:30:46Z | Source code for the paper %SLMIA-SR: Speaker-Level Membership Inference Attacks against Speaker Recognition Systems% accepted by NDSS 2024 | https://github.com/S3L-official/SLMIA-SR | 2 | 0| 
 | 20230921T09:17:21Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 28 | 4| 
 | 20230920T18:56:40Z | ICS attack simulator for the Tennessee Eastman Process. From the NDSS 2024 paper: %Attributions for ML-based ICS anomaly detection: From theory to practice%  | https://github.com/pwwl/tep-attack-simulator | 8 | 1| 
-| 20230920T15:20:03Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 18 | 2| 
 | 20230919T20:54:07Z | Plugin for EPICS areaDetector to apply SSCPimega geometric restoration to PiMega acquired images. | https://github.com/cnpem/NDSSCPimega | 0 | 0| 
 | 20230915T08:37:23Z | damn that%s cwazy | https://github.com/Furdox/ndssaves | 1 | 0| 
 | 20230915T06:51:16Z | 论文爬虫+概述: IEEE Symposium on Security and Privacy (S&P), USENIX Security Symposium, Network and Distributed System Security Symposium (NDSS)  | https://github.com/marsvillager/PaperSpider | 1 | 0| 
