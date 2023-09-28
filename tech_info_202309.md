@@ -41,7 +41,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230928T11:24:29Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13914 | 424| 
+| 20230928T12:04:27Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13915 | 424| 
 | 20230928T10:27:00Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 275 | 53| 
 | 20230925T19:22:28Z | Null | https://github.com/vikram9725/Kleen_Shine | 0 | 0| 
 | 20230925T04:11:21Z | Null | https://github.com/Klee-Klee/Klee-Klee.github.io | 0 | 0| 
@@ -129,12 +129,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230928T12:07:13Z | C library to monitor the state coverage of your stateful fuzzer. | https://github.com/cristiandaniele/state-coverage-monitor | 0 | 0| 
 | 20230928T11:40:13Z | Coverage-guided, in-process fuzzing for Node.js | https://github.com/CodeIntelligenceTesting/jazzer.js | 231 | 8| 
 | 20230928T11:37:55Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 227 | 34| 
 | 20230928T11:36:08Z | A FAULT DETECTION SYSTEM USING BLACKBOARD AND FUZZI LOGIC | https://github.com/dabirideji/FaultDetection_FuzziLogic_BlackBoard | 0 | 0| 
 | 20230928T11:28:11Z | Null | https://github.com/abubakar471/python-api-fuzzer | 0 | 0| 
 | 20230928T11:21:27Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1563 | 222| 
-| 20230928T11:13:42Z | C library to dynamically link to the SUTs (Software Under Test) to monitor the state coverage of your fuzzer. | https://github.com/cristiandaniele/state-coverage-monitor | 0 | 0| 
 | 20230928T11:08:57Z | Null | https://github.com/sagaryadav99/fuzzy-barnacle | 0 | 0| 
 | 20230928T10:51:33Z | Fuzzing based grammar learning demo | https://github.com/software-competence-center-hagenberg/fbgl | 0 | 0| 
 | 20230928T10:30:51Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4842 | 1161| 
