@@ -62,6 +62,10 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230928T11:44:24Z | Venom is a library that meant to perform evasive communication using stolen browser socket | https://github.com/Idov31/Venom | 344 | 45| 
+| 20230928T11:42:05Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 671 | 89| 
+| 20230928T10:26:42Z | Simple Admin is a remote administration tool written in C# for the stub and PHP for the front-end control server. | https://github.com/rykergogo/Simple-Admin | 8 | 2| 
+| 20230928T04:56:04Z | A learning project Start_IT academy student. This game made with unity. She is about backrooms. There is an entity and big map. Explore the maze! | https://github.com/davydtovstyj/Backdoors | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
