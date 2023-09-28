@@ -47,6 +47,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230928T12:09:48Z | A community-maintained collection of bugs, vulnerabilities, and exploits in apps using ZK crypto. | https://github.com/0xPARC/zk-bug-tracker | 421 | 33| 
 | 20230928T11:56:29Z | MS Office and Windows HTML RCE (CVE-2023-36884) - PoC and exploit | https://github.com/jakabakos/CVE-2023-36884-MS-Office-HTML-RCE | 0 | 0| 
 | 20230928T11:54:43Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 59 | 18| 
 | 20230928T11:35:31Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5363 | 690| 
@@ -55,16 +56,15 @@
 | 20230928T10:45:58Z | Null | https://github.com/navehJF/GoModExploitation | 0 | 0| 
 | 20230928T10:34:30Z | BSI-PT algorithm in the paper %Opponent Exploitation Based on Bayesian Strategy Inference and Policy Tracking% | https://github.com/jerry871002/bsi-pt | 0 | 0| 
 | 20230928T09:55:57Z | Collection of python exploitation scripts and techniques for trying to get good shells and stuff | https://github.com/gemini-15/dragonclaw | 0 | 0| 
-| 20230928T09:47:45Z | A community-maintained collection of bugs, vulnerabilities, and exploits in apps using ZK crypto. | https://github.com/0xPARC/zk-bug-tracker | 420 | 33| 
 | 20230928T09:09:03Z | This Lua Docs From Many Exploits | https://github.com/Meyshuu/LuaDocs-Growtopia | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230928T12:08:48Z | Simple Admin is a remote administration tool written in C# for the stub and PHP for the front-end control server. | https://github.com/rykergogo/Simple-Admin | 9 | 2| 
 | 20230928T11:44:24Z | Venom is a library that meant to perform evasive communication using stolen browser socket | https://github.com/Idov31/Venom | 344 | 45| 
 | 20230928T11:42:05Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 671 | 89| 
-| 20230928T10:26:42Z | Simple Admin is a remote administration tool written in C# for the stub and PHP for the front-end control server. | https://github.com/rykergogo/Simple-Admin | 8 | 2| 
 | 20230928T04:56:04Z | A learning project Start_IT academy student. This game made with unity. She is about backrooms. There is an entity and big map. Explore the maze! | https://github.com/davydtovstyj/Backdoors | 0 | 0| 
 
 
