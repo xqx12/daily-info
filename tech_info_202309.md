@@ -26,8 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230928T01:21:27Z | CVE-2023-29357 | Microsoft SharePoint Server Elevation of Privilege Vulnerability | https://github.com/Chocapikk/CVE-2023-29357 | | 
 | 20230928T01:12:11Z | CVE-2023-4762 | Null | https://github.com/buptsb/CVE-2023-4762 | | 
-| 20230928T01:08:32Z | CVE-2023-29357 | Microsoft SharePoint Server Elevation of Privilege Vulnerability | https://github.com/Chocapikk/CVE-2023-29357 | | 
 | 20230928T00:12:56Z | CVE-2023-36845 | Null | https://github.com/halencarjunior/CVE-2023-36845 | | 
 | 20230927T20:03:29Z | CVE-2023-38571 | Exploit for CVE-2023-38571 | https://github.com/gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV | | 
 | 20230927T20:00:19Z | CVE-2020-15778 | Null | https://github.com/Evan-Zhangyf/CVE-2020-15778 | | 
@@ -69,6 +69,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230928T01:22:25Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0050-0032-app-29RRe-exploit-push | 0 | 0| 
 | 20230928T01:17:33Z | Learning Binary Exploitation with Anish! | https://github.com/flamma1234232/Learning-BE | 0 | 0| 
 | 20230927T23:56:41Z | IRC botnet, that%s mainly used to launch denial-of-service attacks. | https://github.com/boz3r/fatebot | 24 | 7| 
 | 20230927T22:13:19Z | This tool Auto Exploit Domain Wordpress | https://github.com/CapitosKamalOfficial/Bot-Exploit-Wordpress | 0 | 0| 
@@ -78,7 +79,6 @@
 | 20230927T19:06:10Z | This tool extracts SMTPS, TWILLIO, SHELLS, ........ | https://github.com/CapitosKamalOfficial/Laravel-Exploit | 0 | 0| 
 | 20230927T17:58:25Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 165 | 13| 
 | 20230927T13:11:51Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5381 | 1052| 
-| 20230927T12:41:05Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5545 | 759| 
 
 
 # backdoor on Github 推荐
