@@ -98,10 +98,10 @@
 | 20230927T22:27:10Z | Null | https://github.com/exiach/TestFizzFuzz | 0 | 0| 
 | 20230927T21:28:25Z | A public repository for analyses concerning the What The Fuzz Manuscript by Park et al | https://github.com/JPark93/WhatTheFuzz | 0 | 0| 
 | 20230927T21:21:11Z | simple search utility for creating fuzzy search contexts from a defined collection that can then be queried by properties | https://github.com/Ultradent/upi-fuzzy-search | 0 | 0| 
+| 20230927T19:40:11Z | Quick tool to create custom wordlists like how fuzzers work | https://github.com/YouGina/wordlistweaver | 0 | 1| 
 | 20230927T17:33:41Z | Null | https://github.com/google/fuzztest | 406 | 29| 
 | 20230927T13:12:14Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1561 | 222| 
 | 20230927T12:47:28Z | Mailman/Mailtheft Script for QBCore Framework | https://github.com/Fuzziegoon/fuzz-mailsystem | 1 | 0| 
-| 20230927T12:42:54Z | Designing a PID Fuzzy controller for a Wind Turbine system Using MATLAB & Simulink | https://github.com/Sajad-Ghadiri/Wind-Turbine-PID-Fuzzy-Controller | 0 | 0| 
 
 
 
