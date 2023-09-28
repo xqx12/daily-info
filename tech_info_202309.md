@@ -69,7 +69,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230928T01:50:37Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANie | 0 | 0| 
+| 20230928T01:51:37Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWie | 1 | 0| 
+| 20230928T01:50:44Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANie | 1 | 0| 
 | 20230928T01:49:52Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANie | 1 | 0| 
 | 20230928T01:48:58Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANie | 1 | 0| 
 | 20230928T01:33:09Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5382 | 1052| 
@@ -78,7 +79,6 @@
 | 20230927T23:56:41Z | IRC botnet, that%s mainly used to launch denial-of-service attacks. | https://github.com/boz3r/fatebot | 24 | 7| 
 | 20230927T22:13:19Z | This tool Auto Exploit Domain Wordpress | https://github.com/CapitosKamalOfficial/Bot-Exploit-Wordpress | 0 | 0| 
 | 20230927T21:03:57Z |  Educational SQL Injection Exploit v2 | https://github.com/pacanowsky/-Educational-SQL-Exploit-v2 | 0 | 0| 
-| 20230927T20:40:08Z |  Educational SQL Injection Exploit | https://github.com/pacanowsky/-Educational-SQL-Exploit-v1 | 0 | 0| 
 
 
 # backdoor on Github 推荐
