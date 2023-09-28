@@ -69,6 +69,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230928T01:33:09Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5382 | 1052| 
 | 20230928T01:22:25Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0050-0032-app-29RRe-exploit-push | 0 | 0| 
 | 20230928T01:17:33Z | Learning Binary Exploitation with Anish! | https://github.com/flamma1234232/Learning-BE | 0 | 0| 
 | 20230927T23:56:41Z | IRC botnet, that%s mainly used to launch denial-of-service attacks. | https://github.com/boz3r/fatebot | 24 | 7| 
@@ -78,7 +79,6 @@
 | 20230927T20:13:56Z | Here is a very simple GitHub version of my E-Book %Introduction to Bug Bounty Hunting% in which we discuss how to get into this world, how to discover targets, and find vulnerabilities and exploit them! Then we follow up with writting proper reviews and much more! | https://github.com/C3lt1cHacker/Introduction_To_Bug_Bounty_Hunting | 0 | 0| 
 | 20230927T19:06:10Z | This tool extracts SMTPS, TWILLIO, SHELLS, ........ | https://github.com/CapitosKamalOfficial/Laravel-Exploit | 0 | 0| 
 | 20230927T17:58:25Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 165 | 13| 
-| 20230927T13:11:51Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5381 | 1052| 
 
 
 # backdoor on Github 推荐
