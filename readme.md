@@ -16,13 +16,13 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230928T12:46:04Z | CVE-2023-4762 | Null | https://github.com/buptsb/CVE-2023-4762 | | 
 | 20230928T11:56:29Z | CVE-2023-36884 | MS Office and Windows HTML RCE (CVE-2023-36884) - PoC and exploit | https://github.com/jakabakos/CVE-2023-36884-MS-Office-HTML-RCE | | 
 | 20230928T11:56:08Z | CVE-2022-1386 | Null | https://github.com/zycoder0day/CVE-2022-1386-Mass_Vulnerability | | 
 | 20230928T11:41:42Z | CVE-2022-21894 | baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability | https://github.com/Wack0/CVE-2022-21894 | | 
 | 20230928T11:39:50Z | CVE-2023-42442 | Null | https://github.com/HolyGu/CVE-2023-42442 | | 
 | 20230928T11:34:11Z | CVE-2023-34040 | Spring-Kafka-Deserialization-Remote-Code-Execution | https://github.com/pyn3rd/CVE-2023-34040 | | 
 | 20230928T11:22:51Z | CVE-2020-29254 | TikiWiki 21.2 allows to edit templates without the use of a CSRF protection.  | https://github.com/S1lkys/CVE-2020-29254 | | 
-| 20230928T09:24:15Z | CVE-2023-4762 | Null | https://github.com/buptsb/CVE-2023-4762 | | 
 | 20230928T08:13:16Z | CVE-2023-43770 | A Proof-Of-Concept for the CVE-2023-43770 vulnerability.  | https://github.com/s3cb0y/CVE-2023-43770-POC | | 
 | 20230928T04:30:37Z | CVE-2023-20209 | Null | https://github.com/0x41-Researcher/CVE-2023-20209 | | 
 | 20230928T01:21:27Z | CVE-2023-29357 | Microsoft SharePoint Server Elevation of Privilege Vulnerability | https://github.com/Chocapikk/CVE-2023-29357 | | 
