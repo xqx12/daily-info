@@ -17,7 +17,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230927T23:22:10Z | CVE-2023-29357 | Microsoft SharePoint Server Elevation of Privilege Vulnerability | https://github.com/Chocapikk/CVE-2023-29357 | | 
 | 20230927T20:03:29Z | CVE-2023-38571 | Exploit for CVE-2023-38571 | https://github.com/gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV | | 
 | 20230927T20:00:19Z | CVE-2020-15778 | Null | https://github.com/Evan-Zhangyf/CVE-2020-15778 | | 
 | 20230927T18:28:43Z | CVE-2023-20209 | Null | https://github.com/0x41-Researcher/CVE-2023-20209 | | 
@@ -27,6 +26,7 @@
 | 20230927T15:13:59Z | CVE-2023-4762 | Null | https://github.com/sherlocksecurity/CVE-2023-4762-Code-Review | | 
 | 20230927T12:41:36Z | CVE-2023-32364 | Exploit for CVE-2023-32364 | https://github.com/gergelykalman/CVE-2023-32364-macos-app-sandbox-escape | | 
 | 20230927T12:27:44Z | CVE-2023-21282 | Null | https://github.com/nidhi7598/external_aac_AOSP04-r1_CVE-2023-21282 | | 
+| 20230927T12:23:12Z | cve-2023-29360 | Exploit for CVE-2023-29360 targeting MSKSSRV.SYS driver | https://github.com/Nero22k/cve-2023-29360 | | 
 
 
 # klee on Github 推荐
