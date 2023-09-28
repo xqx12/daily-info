@@ -129,6 +129,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230928T00:37:40Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9049 | 2006| 
 | 20230927T23:15:56Z | Null | https://github.com/damarisfregoso/fuzzyfriends | 0 | 2| 
 | 20230927T23:13:14Z | Python3 audo file fuzzer based on pysox | https://github.com/gglessner/soxfuzz | 0 | 0| 
 | 20230927T22:27:57Z | Schematics etc. for the %Spitter Fuzz%, a fuzz pedal based heavily on the Buzzbox and Bazz Fuss Deluxe designs provided by home-wrecker.com | https://github.com/urx1/Spitter-Fuzz | 0 | 0| 
@@ -138,7 +139,6 @@
 | 20230927T19:40:11Z | Quick tool to create custom wordlists like how fuzzers work | https://github.com/YouGina/wordlistweaver | 0 | 1| 
 | 20230927T17:33:41Z | Null | https://github.com/google/fuzztest | 406 | 29| 
 | 20230927T13:12:14Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1561 | 222| 
-| 20230927T12:47:28Z | Mailman/Mailtheft Script for QBCore Framework | https://github.com/Fuzziegoon/fuzz-mailsystem | 1 | 0| 
 
 
 
