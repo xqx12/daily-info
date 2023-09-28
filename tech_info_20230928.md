@@ -53,10 +53,10 @@
 | 20230928T11:35:31Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5363 | 690| 
 | 20230928T11:26:45Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 739 | 179| 
 | 20230928T11:23:00Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 85 | 31| 
+| 20230928T11:09:09Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 58 | 30| 
 | 20230928T10:45:58Z | Null | https://github.com/navehJF/GoModExploitation | 0 | 0| 
 | 20230928T10:34:30Z | BSI-PT algorithm in the paper %Opponent Exploitation Based on Bayesian Strategy Inference and Policy Tracking% | https://github.com/jerry871002/bsi-pt | 0 | 0| 
 | 20230928T09:55:57Z | Collection of python exploitation scripts and techniques for trying to get good shells and stuff | https://github.com/gemini-15/dragonclaw | 0 | 0| 
-| 20230928T09:09:03Z | This Lua Docs From Many Exploits | https://github.com/Meyshuu/LuaDocs-Growtopia | 0 | 0| 
 
 
 # backdoor on Github 推荐
