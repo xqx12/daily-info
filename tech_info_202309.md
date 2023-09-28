@@ -69,6 +69,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230928T01:17:33Z | Learning Binary Exploitation with Anish! | https://github.com/flamma1234232/Learning-BE | 0 | 0| 
 | 20230927T23:56:41Z | IRC botnet, that%s mainly used to launch denial-of-service attacks. | https://github.com/boz3r/fatebot | 24 | 7| 
 | 20230927T22:13:19Z | This tool Auto Exploit Domain Wordpress | https://github.com/CapitosKamalOfficial/Bot-Exploit-Wordpress | 0 | 0| 
 | 20230927T21:03:57Z |  Educational SQL Injection Exploit v2 | https://github.com/pacanowsky/-Educational-SQL-Exploit-v2 | 0 | 0| 
@@ -78,7 +79,6 @@
 | 20230927T17:58:25Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 165 | 13| 
 | 20230927T13:11:51Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5381 | 1052| 
 | 20230927T12:41:05Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5545 | 759| 
-| 20230927T12:37:14Z | Demo videos and trials for check channel... | https://github.com/Solorat2/APK-TO-JPG-EXPLOIT | 3 | 0| 
 
 
 # backdoor on Github 推荐
