@@ -69,6 +69,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230928T01:54:01Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0021-app-A5Pix-record-exploit | 0 | 0| 
 | 20230928T01:51:37Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWie | 1 | 0| 
 | 20230928T01:50:44Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANie | 1 | 0| 
 | 20230928T01:49:52Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANie | 1 | 0| 
@@ -78,7 +79,6 @@
 | 20230928T01:17:33Z | Learning Binary Exploitation with Anish! | https://github.com/flamma1234232/Learning-BE | 0 | 0| 
 | 20230927T23:56:41Z | IRC botnet, that%s mainly used to launch denial-of-service attacks. | https://github.com/boz3r/fatebot | 24 | 7| 
 | 20230927T22:13:19Z | This tool Auto Exploit Domain Wordpress | https://github.com/CapitosKamalOfficial/Bot-Exploit-Wordpress | 0 | 0| 
-| 20230927T21:03:57Z |  Educational SQL Injection Exploit v2 | https://github.com/pacanowsky/-Educational-SQL-Exploit-v2 | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -129,6 +129,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230928T01:54:59Z | Null | https://github.com/gpt-fuzz/gpt-fuzz.github.io | 0 | 0| 
 | 20230928T00:37:40Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9049 | 2006| 
 | 20230927T23:15:56Z | Null | https://github.com/damarisfregoso/fuzzyfriends | 0 | 2| 
 | 20230927T23:13:14Z | Python3 audo file fuzzer based on pysox | https://github.com/gglessner/soxfuzz | 0 | 0| 
@@ -138,7 +139,6 @@
 | 20230927T21:21:11Z | simple search utility for creating fuzzy search contexts from a defined collection that can then be queried by properties | https://github.com/Ultradent/upi-fuzzy-search | 0 | 0| 
 | 20230927T19:40:11Z | Quick tool to create custom wordlists like how fuzzers work | https://github.com/YouGina/wordlistweaver | 0 | 1| 
 | 20230927T17:33:41Z | Null | https://github.com/google/fuzztest | 406 | 29| 
-| 20230927T13:12:14Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1561 | 222| 
 
 
 
