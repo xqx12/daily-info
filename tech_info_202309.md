@@ -26,11 +26,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230928T00:10:50Z | CVE-2023-4762 | Null | https://github.com/buptsb/CVE-2023-4762 | | 
 | 20230927T23:57:16Z | CVE-2023-36845 | Null | https://github.com/halencarjunior/CVE-2023-36845 | | 
 | 20230927T23:22:10Z | CVE-2023-29357 | Microsoft SharePoint Server Elevation of Privilege Vulnerability | https://github.com/Chocapikk/CVE-2023-29357 | | 
 | 20230927T20:03:29Z | CVE-2023-38571 | Exploit for CVE-2023-38571 | https://github.com/gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV | | 
 | 20230927T20:00:19Z | CVE-2020-15778 | Null | https://github.com/Evan-Zhangyf/CVE-2020-15778 | | 
-| 20230927T19:30:44Z | CVE-2023-4762 | Null | https://github.com/buptsb/CVE-2023-4762 | | 
 | 20230927T18:28:43Z | CVE-2023-20209 | Null | https://github.com/0x41-Researcher/CVE-2023-20209 | | 
 | 20230927T17:45:03Z | CVE-2023-43770 | A Proof-Of-Concept for the CVE-2023-43770 vulnerability.  | https://github.com/s3cb0y/CVE-2023-43770-POC | | 
 | 20230927T17:36:30Z | CVE-2023-42222 | Null | https://github.com/itssixtyn3in/CVE-2023-42222 | | 
