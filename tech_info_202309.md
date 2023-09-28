@@ -26,22 +26,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230928T11:56:29Z | CVE-2023-36884 | MS Office and Windows HTML RCE (CVE-2023-36884) - PoC and exploit | https://github.com/jakabakos/CVE-2023-36884-MS-Office-HTML-RCE | | 
+| 20230928T11:56:08Z | CVE-2022-1386 | Null | https://github.com/zycoder0day/CVE-2022-1386-Mass_Vulnerability | | 
+| 20230928T11:41:42Z | CVE-2022-21894 | baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability | https://github.com/Wack0/CVE-2022-21894 | | 
+| 20230928T11:39:50Z | CVE-2023-42442 | Null | https://github.com/HolyGu/CVE-2023-42442 | | 
+| 20230928T11:34:11Z | CVE-2023-34040 | Spring-Kafka-Deserialization-Remote-Code-Execution | https://github.com/pyn3rd/CVE-2023-34040 | | 
+| 20230928T11:22:51Z | CVE-2020-29254 | TikiWiki 21.2 allows to edit templates without the use of a CSRF protection.  | https://github.com/S1lkys/CVE-2020-29254 | | 
+| 20230928T09:24:15Z | CVE-2023-4762 | Null | https://github.com/buptsb/CVE-2023-4762 | | 
+| 20230928T08:13:16Z | CVE-2023-43770 | A Proof-Of-Concept for the CVE-2023-43770 vulnerability.  | https://github.com/s3cb0y/CVE-2023-43770-POC | | 
+| 20230928T04:30:37Z | CVE-2023-20209 | Null | https://github.com/0x41-Researcher/CVE-2023-20209 | | 
 | 20230928T01:21:27Z | CVE-2023-29357 | Microsoft SharePoint Server Elevation of Privilege Vulnerability | https://github.com/Chocapikk/CVE-2023-29357 | | 
-| 20230928T01:12:11Z | CVE-2023-4762 | Null | https://github.com/buptsb/CVE-2023-4762 | | 
-| 20230928T00:12:56Z | CVE-2023-36845 | Null | https://github.com/halencarjunior/CVE-2023-36845 | | 
-| 20230927T20:03:29Z | CVE-2023-38571 | Exploit for CVE-2023-38571 | https://github.com/gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV | | 
-| 20230927T20:00:19Z | CVE-2020-15778 | Null | https://github.com/Evan-Zhangyf/CVE-2020-15778 | | 
-| 20230927T18:28:43Z | CVE-2023-20209 | Null | https://github.com/0x41-Researcher/CVE-2023-20209 | | 
-| 20230927T17:45:03Z | CVE-2023-43770 | A Proof-Of-Concept for the CVE-2023-43770 vulnerability.  | https://github.com/s3cb0y/CVE-2023-43770-POC | | 
-| 20230927T17:36:30Z | CVE-2023-42222 | Null | https://github.com/itssixtyn3in/CVE-2023-42222 | | 
-| 20230927T16:36:27Z | CVE-2023-42442 | Null | https://github.com/HolyGu/CVE-2023-42442 | | 
-| 20230927T15:13:59Z | CVE-2023-4762 | Null | https://github.com/sherlocksecurity/CVE-2023-4762-Code-Review | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230927T19:01:37Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13911 | 424| 
+| 20230928T11:24:29Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13914 | 424| 
+| 20230928T10:27:00Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 275 | 53| 
 | 20230925T19:22:28Z | Null | https://github.com/vikram9725/Kleen_Shine | 0 | 0| 
 | 20230925T04:11:21Z | Null | https://github.com/Klee-Klee/Klee-Klee.github.io | 0 | 0| 
 | 20230925T02:42:21Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 91 | 20| 
@@ -50,35 +51,34 @@
 | 20230923T12:51:57Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2322 | 636| 
 | 20230922T23:02:07Z | Null | https://github.com/smaurin/perl_kleenex | 0 | 0| 
 | 20230919T11:32:45Z | TracerX Symbolic Virtual Machine | https://github.com/tracer-x/TracerX | 23 | 10| 
-| 20230918T21:27:15Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 29 | 2| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230927T11:46:19Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 357 | 82| 
-| 20230927T09:13:12Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 34 | 15| 
+| 20230928T11:36:01Z | C2A CoreにあるC2A sampleでSILSを組むためのS2E user | https://github.com/ut-issl/s2e-user-for-c2a-core | 4 | 1| 
+| 20230928T11:34:16Z | Documents for Spacecraft Simulation Environment | https://github.com/ut-issl/s2e-documents | 8 | 6| 
+| 20230928T11:09:48Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 358 | 82| 
+| 20230928T06:18:27Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 34 | 15| 
 | 20230922T13:59:27Z | An example of user settings repository for s2e-aobc | https://github.com/ut-issl/s2e-aobc-example | 1 | 0| 
 | 20230921T10:55:43Z | Null | https://github.com/MetadataGitTesting/s2elgWnP | 0 | 0| 
 | 20230918T21:33:09Z | Null | https://github.com/eavithefteo1982/s2e56vq0 | 0 | 0| 
-| 20230916T21:51:16Z | C2A CoreにあるC2A sampleでSILSを組むためのS2E user | https://github.com/ut-issl/s2e-user-for-c2a-core | 3 | 1| 
-| 20230916T21:49:49Z | Documents for Spacecraft Simulation Environment | https://github.com/ut-issl/s2e-documents | 7 | 6| 
 | 20230915T05:32:09Z | Null | https://github.com/MetadataGitTesting/S2E7bkHy | 0 | 0| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230928T01:54:01Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0021-app-A5Pix-record-exploit | 0 | 0| 
-| 20230928T01:51:37Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWie | 1 | 0| 
-| 20230928T01:50:44Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANie | 1 | 0| 
-| 20230928T01:49:52Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANie | 1 | 0| 
-| 20230928T01:48:58Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANie | 1 | 0| 
-| 20230928T01:33:09Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5382 | 1052| 
-| 20230928T01:22:25Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0050-0032-app-29RRe-exploit-push | 0 | 0| 
-| 20230928T01:17:33Z | Learning Binary Exploitation with Anish! | https://github.com/flamma1234232/Learning-BE | 0 | 0| 
-| 20230927T23:56:41Z | IRC botnet, that%s mainly used to launch denial-of-service attacks. | https://github.com/boz3r/fatebot | 24 | 7| 
-| 20230927T22:13:19Z | This tool Auto Exploit Domain Wordpress | https://github.com/CapitosKamalOfficial/Bot-Exploit-Wordpress | 0 | 0| 
+| 20230928T11:56:29Z | MS Office and Windows HTML RCE (CVE-2023-36884) - PoC and exploit | https://github.com/jakabakos/CVE-2023-36884-MS-Office-HTML-RCE | 0 | 0| 
+| 20230928T11:54:43Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 59 | 18| 
+| 20230928T11:35:31Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5363 | 690| 
+| 20230928T11:26:45Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 739 | 179| 
+| 20230928T11:23:00Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 85 | 31| 
+| 20230928T10:45:58Z | Null | https://github.com/navehJF/GoModExploitation | 0 | 0| 
+| 20230928T10:34:30Z | BSI-PT algorithm in the paper %Opponent Exploitation Based on Bayesian Strategy Inference and Policy Tracking% | https://github.com/jerry871002/bsi-pt | 0 | 0| 
+| 20230928T09:55:57Z | Collection of python exploitation scripts and techniques for trying to get good shells and stuff | https://github.com/gemini-15/dragonclaw | 0 | 0| 
+| 20230928T09:47:45Z | A community-maintained collection of bugs, vulnerabilities, and exploits in apps using ZK crypto. | https://github.com/0xPARC/zk-bug-tracker | 420 | 33| 
+| 20230928T09:09:03Z | This Lua Docs From Many Exploits | https://github.com/Meyshuu/LuaDocs-Growtopia | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -114,11 +114,11 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230928T11:46:33Z | ICS attack simulator for the Tennessee Eastman Process. From the NDSS 2024 paper: %Attributions for ML-based ICS anomaly detection: From theory to practice%  | https://github.com/pwwl/tep-attack-simulator | 9 | 1| 
 | 20230927T12:43:19Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 19 | 2| 
 | 20230925T07:10:52Z | https://marsvillager.github.io/PaperWorkflowAutomation/summary/visualize.html (Safari, Firefox ✓ Edge, Chrome ✗) 论文爬虫+概述: IEEE Symposium on Security and Privacy (S&P), USENIX Security Symposium, Network and Distributed System Security Symposium (NDSS)  | https://github.com/marsvillager/PaperWorkflowAutomation | 3 | 0| 
 | 20230921T20:30:46Z | Source code for the paper %SLMIA-SR: Speaker-Level Membership Inference Attacks against Speaker Recognition Systems% accepted by NDSS 2024 | https://github.com/S3L-official/SLMIA-SR | 2 | 0| 
 | 20230921T09:17:21Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 28 | 4| 
-| 20230920T18:56:40Z | ICS attack simulator for the Tennessee Eastman Process. From the NDSS 2024 paper: %Attributions for ML-based ICS anomaly detection: From theory to practice%  | https://github.com/pwwl/tep-attack-simulator | 8 | 1| 
 | 20230919T20:54:07Z | Plugin for EPICS areaDetector to apply SSCPimega geometric restoration to PiMega acquired images. | https://github.com/cnpem/NDSSCPimega | 0 | 0| 
 | 20230915T08:37:23Z | damn that%s cwazy | https://github.com/Furdox/ndssaves | 1 | 0| 
 | 20230915T06:51:16Z | 论文爬虫+概述: IEEE Symposium on Security and Privacy (S&P), USENIX Security Symposium, Network and Distributed System Security Symposium (NDSS)  | https://github.com/marsvillager/PaperSpider | 1 | 0| 
@@ -129,16 +129,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230928T01:54:59Z | Null | https://github.com/gpt-fuzz/gpt-fuzz.github.io | 0 | 0| 
-| 20230928T00:37:40Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9049 | 2006| 
-| 20230927T23:15:56Z | Null | https://github.com/damarisfregoso/fuzzyfriends | 0 | 2| 
-| 20230927T23:13:14Z | Python3 audo file fuzzer based on pysox | https://github.com/gglessner/soxfuzz | 0 | 0| 
-| 20230927T22:27:57Z | Schematics etc. for the %Spitter Fuzz%, a fuzz pedal based heavily on the Buzzbox and Bazz Fuss Deluxe designs provided by home-wrecker.com | https://github.com/urx1/Spitter-Fuzz | 0 | 0| 
-| 20230927T22:27:10Z | Null | https://github.com/exiach/TestFizzFuzz | 0 | 0| 
-| 20230927T21:28:25Z | A public repository for analyses concerning the What The Fuzz Manuscript by Park et al | https://github.com/JPark93/WhatTheFuzz | 0 | 0| 
-| 20230927T21:21:11Z | simple search utility for creating fuzzy search contexts from a defined collection that can then be queried by properties | https://github.com/Ultradent/upi-fuzzy-search | 0 | 0| 
-| 20230927T19:40:11Z | Quick tool to create custom wordlists like how fuzzers work | https://github.com/YouGina/wordlistweaver | 0 | 1| 
-| 20230927T17:33:41Z | Null | https://github.com/google/fuzztest | 406 | 29| 
+| 20230928T11:40:13Z | Coverage-guided, in-process fuzzing for Node.js | https://github.com/CodeIntelligenceTesting/jazzer.js | 231 | 8| 
+| 20230928T11:37:55Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 227 | 34| 
+| 20230928T11:36:08Z | A FAULT DETECTION SYSTEM USING BLACKBOARD AND FUZZI LOGIC | https://github.com/dabirideji/FaultDetection_FuzziLogic_BlackBoard | 0 | 0| 
+| 20230928T11:28:11Z | Null | https://github.com/abubakar471/python-api-fuzzer | 0 | 0| 
+| 20230928T11:21:27Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1563 | 222| 
+| 20230928T11:13:42Z | C library to dynamically link to the SUTs (Software Under Test) to monitor the state coverage of your fuzzer. | https://github.com/cristiandaniele/state-coverage-monitor | 0 | 0| 
+| 20230928T11:08:57Z | Null | https://github.com/sagaryadav99/fuzzy-barnacle | 0 | 0| 
+| 20230928T10:51:33Z | Fuzzing based grammar learning demo | https://github.com/software-competence-center-hagenberg/fbgl | 0 | 0| 
+| 20230928T10:30:51Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4842 | 1161| 
+| 20230928T10:30:45Z | Fuzz testing framework for Solana programs written in Anchor | https://github.com/Ackee-Blockchain/trdelnik | 90 | 7| 
 
 
 
