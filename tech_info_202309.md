@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230928T00:21:49Z | CVE-2023-29357 | Microsoft SharePoint Server Elevation of Privilege Vulnerability | https://github.com/Chocapikk/CVE-2023-29357 | | 
+| 20230928T00:38:20Z | CVE-2023-29357 | Microsoft SharePoint Server Elevation of Privilege Vulnerability | https://github.com/Chocapikk/CVE-2023-29357 | | 
 | 20230928T00:12:56Z | CVE-2023-36845 | Null | https://github.com/halencarjunior/CVE-2023-36845 | | 
 | 20230928T00:10:50Z | CVE-2023-4762 | Null | https://github.com/buptsb/CVE-2023-4762 | | 
 | 20230927T20:03:29Z | CVE-2023-38571 | Exploit for CVE-2023-38571 | https://github.com/gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV | | 
