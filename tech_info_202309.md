@@ -69,6 +69,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230928T01:50:37Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANie | 0 | 0| 
+| 20230928T01:49:52Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANie | 1 | 0| 
 | 20230928T01:48:58Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANie | 1 | 0| 
 | 20230928T01:33:09Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5382 | 1052| 
 | 20230928T01:22:25Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0050-0032-app-29RRe-exploit-push | 0 | 0| 
@@ -77,8 +79,6 @@
 | 20230927T22:13:19Z | This tool Auto Exploit Domain Wordpress | https://github.com/CapitosKamalOfficial/Bot-Exploit-Wordpress | 0 | 0| 
 | 20230927T21:03:57Z |  Educational SQL Injection Exploit v2 | https://github.com/pacanowsky/-Educational-SQL-Exploit-v2 | 0 | 0| 
 | 20230927T20:40:08Z |  Educational SQL Injection Exploit | https://github.com/pacanowsky/-Educational-SQL-Exploit-v1 | 0 | 0| 
-| 20230927T20:13:56Z | Here is a very simple GitHub version of my E-Book %Introduction to Bug Bounty Hunting% in which we discuss how to get into this world, how to discover targets, and find vulnerabilities and exploit them! Then we follow up with writting proper reviews and much more! | https://github.com/C3lt1cHacker/Introduction_To_Bug_Bounty_Hunting | 0 | 0| 
-| 20230927T19:06:10Z | This tool extracts SMTPS, TWILLIO, SHELLS, ........ | https://github.com/CapitosKamalOfficial/Laravel-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
