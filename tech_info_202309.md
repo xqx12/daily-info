@@ -76,9 +76,9 @@
 | 20230927T20:13:56Z | Here is a very simple GitHub version of my E-Book %Introduction to Bug Bounty Hunting% in which we discuss how to get into this world, how to discover targets, and find vulnerabilities and exploit them! Then we follow up with writting proper reviews and much more! | https://github.com/C3lt1cHacker/Introduction_To_Bug_Bounty_Hunting | 0 | 0| 
 | 20230927T19:06:10Z | This tool extracts SMTPS, TWILLIO, SHELLS, ........ | https://github.com/CapitosKamalOfficial/Laravel-Exploit | 0 | 0| 
 | 20230927T17:58:25Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 165 | 13| 
+| 20230927T13:11:51Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5381 | 1052| 
 | 20230927T12:41:05Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5545 | 759| 
 | 20230927T12:37:14Z | Demo videos and trials for check channel... | https://github.com/Solorat2/APK-TO-JPG-EXPLOIT | 3 | 0| 
-| 20230927T11:34:28Z | Null | https://github.com/backendGuru88/End-exploitation-website | 0 | 0| 
 
 
 # backdoor on Github 推荐
