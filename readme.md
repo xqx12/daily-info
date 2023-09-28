@@ -67,6 +67,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230928T11:09:48Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 358 | 82| 
+| 20230928T10:41:10Z | A Dynamic Symbolic Execution (DSE) engine for JavaScript. ExpoSE is highly scalable, compatible with recent JavaScript standards, and supports symbolic modelling of strings and regular expressions. | https://github.com/ExpoSEJS/ExpoSE | 165 | 28| 
 
 
 # big4 on Github 推荐
