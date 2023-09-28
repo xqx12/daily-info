@@ -135,10 +135,10 @@
 | 20230928T11:36:08Z | A FAULT DETECTION SYSTEM USING BLACKBOARD AND FUZZI LOGIC | https://github.com/dabirideji/FaultDetection_FuzziLogic_BlackBoard | 0 | 0| 
 | 20230928T11:28:11Z | Null | https://github.com/abubakar471/python-api-fuzzer | 0 | 0| 
 | 20230928T11:21:27Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1563 | 222| 
+| 20230928T11:18:24Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2774 | 197| 
 | 20230928T11:08:57Z | Null | https://github.com/sagaryadav99/fuzzy-barnacle | 0 | 0| 
 | 20230928T10:51:33Z | Fuzzing based grammar learning demo | https://github.com/software-competence-center-hagenberg/fbgl | 0 | 0| 
 | 20230928T10:30:51Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4842 | 1161| 
-| 20230928T10:30:45Z | Fuzz testing framework for Solana programs written in Anchor | https://github.com/Ackee-Blockchain/trdelnik | 90 | 7| 
 
 
 
