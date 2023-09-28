@@ -69,6 +69,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230928T12:53:57Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-nodejs-1fYvs-exploit-lead | 0 | 0| 
 | 20230928T12:09:48Z | A community-maintained collection of bugs, vulnerabilities, and exploits in apps using ZK crypto. | https://github.com/0xPARC/zk-bug-tracker | 421 | 33| 
 | 20230928T11:56:29Z | MS Office and Windows HTML RCE (CVE-2023-36884) - PoC and exploit | https://github.com/jakabakos/CVE-2023-36884-MS-Office-HTML-RCE | 0 | 0| 
 | 20230928T11:54:43Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 59 | 18| 
@@ -76,9 +77,8 @@
 | 20230928T11:26:45Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 739 | 179| 
 | 20230928T11:23:00Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 85 | 31| 
 | 20230928T11:09:09Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 58 | 30| 
+| 20230928T11:08:52Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5382 | 1052| 
 | 20230928T10:45:58Z | Null | https://github.com/navehJF/GoModExploitation | 0 | 0| 
-| 20230928T10:34:30Z | BSI-PT algorithm in the paper %Opponent Exploitation Based on Bayesian Strategy Inference and Policy Tracking% | https://github.com/jerry871002/bsi-pt | 0 | 0| 
-| 20230928T09:55:57Z | Collection of python exploitation scripts and techniques for trying to get good shells and stuff | https://github.com/gemini-15/dragonclaw | 0 | 0| 
 
 
 # backdoor on Github 推荐
