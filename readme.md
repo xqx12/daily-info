@@ -91,12 +91,12 @@
 | 20230928T21:24:50Z | some dlp tests | https://github.com/SSCsecurity/fuzzy-pancake | 0 | 0| 
 | 20230928T21:13:42Z | gdb scripts | https://github.com/hyuunnn/fuzzing-helper | 0 | 0| 
 | 20230928T19:17:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9054 | 2007| 
+| 20230928T16:31:22Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2774 | 197| 
 | 20230928T14:52:56Z | Null | https://github.com/tobhe/fuzzpfkey | 0 | 0| 
 | 20230928T13:24:26Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 404 | 53| 
 | 20230928T12:07:13Z | C library to monitor the state coverage of your stateful fuzzer. | https://github.com/cristiandaniele/state-coverage-monitor | 0 | 0| 
 | 20230928T11:40:13Z | Coverage-guided, in-process fuzzing for Node.js | https://github.com/CodeIntelligenceTesting/jazzer.js | 231 | 8| 
 | 20230928T11:37:55Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 227 | 34| 
-| 20230928T11:36:08Z | A FAULT DETECTION SYSTEM USING BLACKBOARD AND FUZZI LOGIC | https://github.com/dabirideji/FaultDetection_FuzziLogic_BlackBoard | 0 | 0| 
 
 
 
