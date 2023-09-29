@@ -26,22 +26,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20230928T12:46:04Z | CVE-2023-4762 | Null | https://github.com/buptsb/CVE-2023-4762 | | 
-| 20230928T11:56:29Z | CVE-2023-36884 | MS Office and Windows HTML RCE (CVE-2023-36884) - PoC and exploit | https://github.com/jakabakos/CVE-2023-36884-MS-Office-HTML-RCE | | 
-| 20230928T11:56:08Z | CVE-2022-1386 | Null | https://github.com/zycoder0day/CVE-2022-1386-Mass_Vulnerability | | 
-| 20230928T11:41:42Z | CVE-2022-21894 | baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability | https://github.com/Wack0/CVE-2022-21894 | | 
-| 20230928T11:39:50Z | CVE-2023-42442 | Null | https://github.com/HolyGu/CVE-2023-42442 | | 
-| 20230928T11:34:11Z | CVE-2023-34040 | Spring-Kafka-Deserialization-Remote-Code-Execution | https://github.com/pyn3rd/CVE-2023-34040 | | 
-| 20230928T11:22:51Z | CVE-2020-29254 | TikiWiki 21.2 allows to edit templates without the use of a CSRF protection.  | https://github.com/S1lkys/CVE-2020-29254 | | 
-| 20230928T08:13:16Z | CVE-2023-43770 | A Proof-Of-Concept for the CVE-2023-43770 vulnerability.  | https://github.com/s3cb0y/CVE-2023-43770-POC | | 
-| 20230928T04:30:37Z | CVE-2023-20209 | Null | https://github.com/0x41-Researcher/CVE-2023-20209 | | 
-| 20230928T01:21:27Z | CVE-2023-29357 | Microsoft SharePoint Server Elevation of Privilege Vulnerability | https://github.com/Chocapikk/CVE-2023-29357 | | 
+| 20230928T21:31:28Z | CVE-2023-43115 | A small write-up with examples to understand CVE-2023-43115 | https://github.com/jostaub/ghostscript-CVE-2023-43115 | | 
+| 20230928T20:51:43Z | CVE-2023-4683 | CVE-2023-4683 - Test | https://github.com/Songg45/CVE-2023-4683-Test | | 
+| 20230928T20:37:11Z | CVE-2023-43770 | A Proof-Of-Concept for the CVE-2023-43770 vulnerability.  | https://github.com/s3cb0y/CVE-2023-43770-POC | | 
+| 20230928T20:05:45Z | CVE-2023-4762 | Null | https://github.com/buptsb/CVE-2023-4762 | | 
+| 20230928T19:49:37Z | CVE-2023-42222 | Null | https://github.com/itssixtyn3in/CVE-2023-42222 | | 
+| 20230928T19:29:27Z | CVE-2023-38571 | Exploit for CVE-2023-38571 | https://github.com/gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV | | 
+| 20230928T19:28:33Z | CVE-2023-36845 | Null | https://github.com/halencarjunior/CVE-2023-36845 | | 
+| 20230928T19:26:34Z | CVE-2023-37073 | Telnet default credentials can lead to information disclosure and denial-of-service (DoS) attacks. | https://github.com/Hamza0X/CVE-2023-37073 | | 
+| 20230928T17:30:07Z | CVE-2022-1386 | Null | https://github.com/zycoder0day/CVE-2022-1386-Mass_Vulnerability | | 
+| 20230928T17:16:47Z | CVE-2023-42820 | Null | https://github.com/h4m5t/CVE-2023-42820 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230928T12:04:27Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13915 | 424| 
+| 20230928T21:15:08Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13917 | 424| 
 | 20230928T10:27:00Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 275 | 53| 
 | 20230925T19:22:28Z | Null | https://github.com/vikram9725/Kleen_Shine | 0 | 0| 
 | 20230925T04:11:21Z | Null | https://github.com/Klee-Klee/Klee-Klee.github.io | 0 | 0| 
@@ -69,31 +69,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230928T23:59:38Z | Providing the best undetected FiveM cheat never before seen exploits and more multiplayer game cheats. | https://github.com/BirteGZX/FVM-SKRIPT.GG-PREMIUM-LEAKED | 1 | 0| 
+| 20230928T23:47:28Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWaq | 1 | 0| 
+| 20230928T23:46:39Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANaq | 1 | 0| 
+| 20230928T23:45:44Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANaq | 1 | 0| 
+| 20230928T23:44:59Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANaq | 1 | 0| 
+| 20230928T23:24:21Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5998 | 793| 
+| 20230928T22:04:08Z | Null | https://github.com/schoto/THM-Network-Exploitation-Basics | 0 | 0| 
+| 20230928T20:52:21Z | GitOps Repository | https://github.com/redhat-appstudio-qe/private-devfile-YjUPM-exploit-disappear | 0 | 0| 
+| 20230928T17:09:31Z | Discord Remote Administration Tool fully written in c#, stub size of ~75kb, over 40 post exploitations modules - GitHub - moom825/Discord-RAT-2.0: Discord Remote Administration Tool fully written in c#, stub size of ~75kb, over 40 post exploitations modules | https://github.com/lee-1980-jun/Discord-RAT-2.0 | 0 | 0| 
 | 20230928T12:53:57Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-nodejs-1fYvs-exploit-lead | 0 | 0| 
-| 20230928T12:09:48Z | A community-maintained collection of bugs, vulnerabilities, and exploits in apps using ZK crypto. | https://github.com/0xPARC/zk-bug-tracker | 421 | 33| 
-| 20230928T11:56:29Z | MS Office and Windows HTML RCE (CVE-2023-36884) - PoC and exploit | https://github.com/jakabakos/CVE-2023-36884-MS-Office-HTML-RCE | 0 | 0| 
-| 20230928T11:54:43Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 59 | 18| 
-| 20230928T11:35:31Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5363 | 690| 
-| 20230928T11:26:45Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 739 | 179| 
-| 20230928T11:23:00Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 85 | 31| 
-| 20230928T11:09:09Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 58 | 30| 
-| 20230928T11:08:52Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5382 | 1052| 
-| 20230928T10:45:58Z | Null | https://github.com/navehJF/GoModExploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230928T22:28:39Z | A script to stop backdoors from functioning and log them. | https://github.com/ShadowIsReal/LockedDoor | 0 | 0| 
+| 20230928T20:54:52Z | KIZAGAN is a python computer backdoor(RAT) and it can take camera pictures,screenshot,browser datas and cookies etc... | https://github.com/st4inl3s5/kizagan | 70 | 15| 
 | 20230928T12:08:48Z | Simple Admin is a remote administration tool written in C# for the stub and PHP for the front-end control server. | https://github.com/rykergogo/Simple-Admin | 9 | 2| 
+| 20230928T11:46:49Z | Digital Forensics and Incident Response (DFIR) | https://github.com/RENANZG/My-Forensics | 51 | 7| 
 | 20230928T11:44:24Z | Venom is a library that meant to perform evasive communication using stolen browser socket | https://github.com/Idov31/Venom | 344 | 45| 
 | 20230928T11:42:05Z | Sandman is a NTP based backdoor for red team engagements in hardened networks. | https://github.com/Idov31/Sandman | 671 | 89| 
 | 20230928T04:56:04Z | A learning project Start_IT academy student. This game made with unity. She is about backrooms. There is an entity and big map. Explore the maze! | https://github.com/davydtovstyj/Backdoors | 0 | 0| 
 | 20230927T15:17:36Z | Encrypted Interactive Session based Command and Control Server (C2) Written in Python | https://github.com/Lionskey/HeadHunter-Python | 2 | 1| 
 | 20230927T14:53:17Z | Null | https://github.com/Karroat/backdoor | 0 | 0| 
 | 20230927T14:37:35Z | This repository contains codes and scripts belonging to the term project of CSE6801 (Distributed Computing Systems) course. | https://github.com/FromSaffronCity/backdoor-detection-in-FL | 0 | 0| 
-| 20230927T14:34:10Z | Null | https://github.com/aviv320i/python_backdoor | 0 | 0| 
-| 20230927T12:43:26Z | CLEAN FRESHLY CODED DRAINER, NO BACKDOOR | https://github.com/godfather9916/drainer | 0 | 0| 
-| 20230927T09:07:35Z | Metinfo Collecting user information through backdoor code auditing | https://github.com/FromAmericanJack/aboutMetinfo | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
