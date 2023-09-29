@@ -47,7 +47,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230928T23:59:38Z | Providing the best undetected FiveM cheat never before seen exploits and more multiplayer game cheats. | https://github.com/BirteGZX/FVM-SKRIPT.GG-PREMIUM-LEAKED | 1 | 0| 
 | 20230928T23:47:28Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWaq | 1 | 0| 
 | 20230928T23:46:39Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANaq | 1 | 0| 
 | 20230928T23:45:44Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANaq | 1 | 0| 
@@ -57,6 +56,7 @@
 | 20230928T20:52:21Z | GitOps Repository | https://github.com/redhat-appstudio-qe/private-devfile-YjUPM-exploit-disappear | 0 | 0| 
 | 20230928T17:09:31Z | Discord Remote Administration Tool fully written in c#, stub size of ~75kb, over 40 post exploitations modules - GitHub - moom825/Discord-RAT-2.0: Discord Remote Administration Tool fully written in c#, stub size of ~75kb, over 40 post exploitations modules | https://github.com/lee-1980-jun/Discord-RAT-2.0 | 0 | 0| 
 | 20230928T12:53:57Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-nodejs-1fYvs-exploit-lead | 0 | 0| 
+| 20230928T12:09:48Z | A community-maintained collection of bugs, vulnerabilities, and exploits in apps using ZK crypto. | https://github.com/0xPARC/zk-bug-tracker | 421 | 33| 
 
 
 # backdoor on Github 推荐
@@ -87,16 +87,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230928T21:54:16Z | fuzzy-octo-winner | https://github.com/armin12126/fuzzy-octo-winner | 0 | 0| 
+| 20230928T21:24:50Z | some dlp tests | https://github.com/SSCsecurity/fuzzy-pancake | 0 | 0| 
+| 20230928T21:13:42Z | gdb scripts | https://github.com/hyuunnn/fuzzing-helper | 0 | 0| 
+| 20230928T19:17:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9054 | 2007| 
+| 20230928T14:52:56Z | Null | https://github.com/tobhe/fuzzpfkey | 0 | 0| 
+| 20230928T13:24:26Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 404 | 53| 
 | 20230928T12:07:13Z | C library to monitor the state coverage of your stateful fuzzer. | https://github.com/cristiandaniele/state-coverage-monitor | 0 | 0| 
 | 20230928T11:40:13Z | Coverage-guided, in-process fuzzing for Node.js | https://github.com/CodeIntelligenceTesting/jazzer.js | 231 | 8| 
 | 20230928T11:37:55Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 227 | 34| 
 | 20230928T11:36:08Z | A FAULT DETECTION SYSTEM USING BLACKBOARD AND FUZZI LOGIC | https://github.com/dabirideji/FaultDetection_FuzziLogic_BlackBoard | 0 | 0| 
-| 20230928T11:28:11Z | Null | https://github.com/abubakar471/python-api-fuzzer | 0 | 0| 
-| 20230928T11:21:27Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1563 | 222| 
-| 20230928T11:18:24Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2774 | 197| 
-| 20230928T11:08:57Z | Null | https://github.com/sagaryadav99/fuzzy-barnacle | 0 | 0| 
-| 20230928T10:51:33Z | Fuzzing based grammar learning demo | https://github.com/software-competence-center-hagenberg/fbgl | 0 | 0| 
-| 20230928T10:30:51Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4842 | 1161| 
 
 
 
