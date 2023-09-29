@@ -18,7 +18,6 @@
 | --- | --- | --- | --- | ---| 
 | 20230928T21:31:28Z | CVE-2023-43115 | A small write-up with examples to understand CVE-2023-43115 | https://github.com/jostaub/ghostscript-CVE-2023-43115 | | 
 | 20230928T20:51:43Z | CVE-2023-4683 | CVE-2023-4683 - Test | https://github.com/Songg45/CVE-2023-4683-Test | | 
-| 20230928T20:37:11Z | CVE-2023-43770 | A Proof-Of-Concept for the CVE-2023-43770 vulnerability.  | https://github.com/s3cb0y/CVE-2023-43770-POC | | 
 | 20230928T20:05:45Z | CVE-2023-4762 | Null | https://github.com/buptsb/CVE-2023-4762 | | 
 | 20230928T19:49:37Z | CVE-2023-42222 | Null | https://github.com/itssixtyn3in/CVE-2023-42222 | | 
 | 20230928T19:29:27Z | CVE-2023-38571 | Exploit for CVE-2023-38571 | https://github.com/gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV | | 
@@ -26,6 +25,7 @@
 | 20230928T19:26:34Z | CVE-2023-37073 | Telnet default credentials can lead to information disclosure and denial-of-service (DoS) attacks. | https://github.com/Hamza0X/CVE-2023-37073 | | 
 | 20230928T17:30:07Z | CVE-2022-1386 | Null | https://github.com/zycoder0day/CVE-2022-1386-Mass_Vulnerability | | 
 | 20230928T17:16:47Z | CVE-2023-42820 | Null | https://github.com/h4m5t/CVE-2023-42820 | | 
+| 20230928T16:16:14Z | CVE-2023-34040 | Spring-Kafka-Deserialization-Remote-Code-Execution | https://github.com/pyn3rd/CVE-2023-34040 | | 
 
 
 # klee on Github 推荐
