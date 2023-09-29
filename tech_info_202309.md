@@ -135,10 +135,10 @@
 | 20230929T09:52:25Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4847 | 1161| 
 | 20230929T09:43:05Z | C library to monitor the state coverage of your stateful fuzzer. | https://github.com/cristiandaniele/state-coverage-monitor | 0 | 0| 
 | 20230929T09:29:29Z | A tool to help developers to test out the fuzzy search options provided by Fuse.js for their own project | https://github.com/jesscrees/fuzzy-search-builder | 0 | 0| 
+| 20230929T05:10:30Z | Quick tool to create custom wordlists like how fuzzers work | https://github.com/YouGina/wordlistweaver | 3 | 2| 
 | 20230929T01:30:55Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 95 | 13| 
 | 20230928T21:54:16Z | fuzzy-octo-winner | https://github.com/armin12126/fuzzy-octo-winner | 0 | 0| 
 | 20230928T21:24:50Z | some dlp tests | https://github.com/SSCsecurity/fuzzy-pancake | 0 | 0| 
-| 20230928T21:13:42Z | gdb scripts | https://github.com/hyuunnn/fuzzing-helper | 0 | 0| 
 
 
 
