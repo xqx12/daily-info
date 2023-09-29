@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230929T12:43:04Z | CVE-2023-38571 | Exploit for CVE-2023-38571 | https://github.com/gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV | | 
 | 20230929T09:24:49Z | CVE-2023-43770 | A Proof-Of-Concept for the CVE-2023-43770 vulnerability.  | https://github.com/s3cb0y/CVE-2023-43770-POC | | 
 | 20230929T09:05:57Z | CVE-2023-36845 | Mass check CVE-2023-36845  | https://github.com/zaenhaxor/CVE-2023-36845 | | 
 | 20230929T06:45:35Z | CVE-2023-42793 | CVE-2023-42793 | https://github.com/H454NSec/CVE-2023-42793 | | 
@@ -34,7 +35,6 @@
 | 20230928T20:51:43Z | CVE-2023-4683 | CVE-2023-4683 - Test | https://github.com/Songg45/CVE-2023-4683-Test | | 
 | 20230928T20:05:45Z | CVE-2023-4762 | Null | https://github.com/buptsb/CVE-2023-4762 | | 
 | 20230928T19:49:37Z | CVE-2023-42222 | Null | https://github.com/itssixtyn3in/CVE-2023-42222 | | 
-| 20230928T19:29:27Z | CVE-2023-38571 | Exploit for CVE-2023-38571 | https://github.com/gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV | | 
 | 20230928T19:28:33Z | CVE-2023-36845 | Null | https://github.com/halencarjunior/CVE-2023-36845 | | 
 
 
