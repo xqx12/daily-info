@@ -69,6 +69,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230929T00:53:32Z | Analysis of vulnerabilty for the CVE list available on NIST database. | https://github.com/Gauravsbin/Exploitation-of-Vulnerability-for-NIST-Database-1999-2021- | 1 | 0| 
 | 20230929T00:01:22Z | Providing the best undetected FiveM cheat never before seen exploits and more multiplayer game cheats. | https://github.com/BirteGZX/FVM-SKRIPT.GG-PREMIUM-LEAKED | 1 | 0| 
 | 20230928T23:47:28Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWaq | 1 | 0| 
 | 20230928T23:46:39Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANaq | 1 | 0| 
@@ -78,7 +79,6 @@
 | 20230928T22:04:08Z | Null | https://github.com/schoto/THM-Network-Exploitation-Basics | 0 | 0| 
 | 20230928T20:52:21Z | GitOps Repository | https://github.com/redhat-appstudio-qe/private-devfile-YjUPM-exploit-disappear | 0 | 0| 
 | 20230928T18:40:05Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5383 | 1052| 
-| 20230928T17:09:31Z | Discord Remote Administration Tool fully written in c#, stub size of ~75kb, over 40 post exploitations modules - GitHub - moom825/Discord-RAT-2.0: Discord Remote Administration Tool fully written in c#, stub size of ~75kb, over 40 post exploitations modules | https://github.com/lee-1980-jun/Discord-RAT-2.0 | 0 | 0| 
 
 
 # backdoor on Github 推荐
