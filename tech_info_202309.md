@@ -69,6 +69,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230929T01:21:49Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0050-0020-app-9v8n6-exploit-read | 0 | 0| 
 | 20230929T01:00:43Z | GitOps Repository | https://github.com/redhat-appstudio-qe/quarkus-lPV6b-exploit-jump | 0 | 0| 
 | 20230929T01:00:41Z | GitOps Repository | https://github.com/redhat-appstudio-qe/integ-app-aumk-mKDCd-exploit-like | 0 | 0| 
 | 20230929T00:53:32Z | Analysis of vulnerabilty for the CVE list available on NIST database. | https://github.com/Gauravsbin/Exploitation-of-Vulnerability-for-NIST-Database-1999-2021- | 1 | 0| 
@@ -78,7 +79,6 @@
 | 20230928T23:45:44Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANaq | 1 | 0| 
 | 20230928T23:44:59Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANaq | 1 | 0| 
 | 20230928T23:24:21Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5998 | 793| 
-| 20230928T22:04:08Z | Null | https://github.com/schoto/THM-Network-Exploitation-Basics | 0 | 0| 
 
 
 # backdoor on Github 推荐
