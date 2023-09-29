@@ -77,8 +77,8 @@
 | 20230928T23:24:21Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 5998 | 793| 
 | 20230928T22:04:08Z | Null | https://github.com/schoto/THM-Network-Exploitation-Basics | 0 | 0| 
 | 20230928T20:52:21Z | GitOps Repository | https://github.com/redhat-appstudio-qe/private-devfile-YjUPM-exploit-disappear | 0 | 0| 
+| 20230928T18:40:05Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5383 | 1052| 
 | 20230928T17:09:31Z | Discord Remote Administration Tool fully written in c#, stub size of ~75kb, over 40 post exploitations modules - GitHub - moom825/Discord-RAT-2.0: Discord Remote Administration Tool fully written in c#, stub size of ~75kb, over 40 post exploitations modules | https://github.com/lee-1980-jun/Discord-RAT-2.0 | 0 | 0| 
-| 20230928T12:53:57Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-nodejs-1fYvs-exploit-lead | 0 | 0| 
 
 
 # backdoor on Github 推荐
