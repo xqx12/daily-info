@@ -132,13 +132,13 @@
 | 20230929T11:03:12Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9055 | 2007| 
 | 20230929T10:04:29Z | Python Script for Fuzzing in APIs The Directory List is not Provided Please Change the Code According to Your Directory List. | https://github.com/muhammadharoon26/fizzFuzz | 0 | 0| 
 | 20230929T09:57:37Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST and GraphQL. | https://github.com/EMResearch/EvoMaster | 360 | 67| 
+| 20230929T09:52:25Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4847 | 1161| 
 | 20230929T09:43:05Z | C library to monitor the state coverage of your stateful fuzzer. | https://github.com/cristiandaniele/state-coverage-monitor | 0 | 0| 
 | 20230929T09:29:29Z | A tool to help developers to test out the fuzzy search options provided by Fuse.js for their own project | https://github.com/jesscrees/fuzzy-search-builder | 0 | 0| 
 | 20230929T01:30:55Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 95 | 13| 
 | 20230928T21:54:16Z | fuzzy-octo-winner | https://github.com/armin12126/fuzzy-octo-winner | 0 | 0| 
 | 20230928T21:24:50Z | some dlp tests | https://github.com/SSCsecurity/fuzzy-pancake | 0 | 0| 
 | 20230928T21:13:42Z | gdb scripts | https://github.com/hyuunnn/fuzzing-helper | 0 | 0| 
-| 20230928T16:31:22Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2774 | 197| 
 
 
 
