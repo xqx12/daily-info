@@ -70,7 +70,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230930T12:36:20Z | script for post exploitation | https://github.com/srimanth94/zerocopter | 0 | 0| 
+| 20230930T12:38:01Z | script for post exploitation | https://github.com/srimanth94/zerocopter | 0 | 0| 
 | 20230930T12:22:13Z | not made by me | https://github.com/HairBaconGamming/PNG-Reader-Roblox-Exploit | 0 | 0| 
 | 20230930T12:01:31Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10629 | 1634| 
 | 20230930T11:40:34Z | This is a Roblox Exploit. | https://github.com/Streikin/PX | 0 | 0| 
