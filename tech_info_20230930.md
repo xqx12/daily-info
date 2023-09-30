@@ -37,6 +37,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230930T12:01:31Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10629 | 1634| 
 | 20230930T11:40:34Z | This is a Roblox Exploit. | https://github.com/Streikin/PX | 0 | 0| 
 | 20230930T11:36:39Z | The goal is to fix 11 PHP webpages that can be exploited by Cross-Site Scripting (XSS). | https://github.com/nigeldouglas-itcarlow/pentesting-xss | 0 | 0| 
 | 20230930T10:06:13Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6005 | 794| 
@@ -46,7 +47,6 @@
 | 20230930T08:22:04Z | Classic code from 1999+ I am fairly sure this is the first public polymorphic shellcode ever (best IMHO and others http://ids.cs.columbia.edu/sites/default/files/ccs07poly.pdf  :)  If I ever port this to 64 or implement a few other suggestions (sorry I lost ppc code version contributed) it will be orders of magnitude more difficult to spot, so I hope nobody uses signatures for anything (virus / malware scanners included). | https://github.com/K2/ADMMutate | 74 | 18| 
 | 20230930T08:09:20Z | Null | https://github.com/Fa1c0n35/ExploitFarm | 0 | 0| 
 | 20230930T08:07:18Z | Exploit tools developed by me  | https://github.com/Wizardwa/pentest | 0 | 0| 
-| 20230930T07:37:48Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5368 | 691| 
 
 
 # backdoor on Github 推荐
