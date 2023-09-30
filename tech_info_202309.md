@@ -84,6 +84,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230930T00:29:34Z | Null | https://github.com/K1R4-H4CK3R/Pyenu-backdoor | 0 | 0| 
 | 20230929T19:57:15Z | Example RAT is a remote administration tool written in C# for the stub and PHP for the front-end control server. | https://github.com/rykergogo/Example-RAT | 10 | 2| 
 | 20230929T16:18:34Z | Backdoor plugin (PL) | https://github.com/xGabrielll/LPXBackdoor | 0 | 0| 
 | 20230929T13:47:41Z | Null | https://github.com/Alex-Andrv/backdoor-producer | 0 | 0| 
@@ -93,7 +94,6 @@
 | 20230929T07:29:15Z | research work for using fuzzing to detect backdoors in CNN models | https://github.com/rajguru7/fuzz-backdoor-cnn | 0 | 0| 
 | 20230928T22:28:39Z | A script to stop backdoors from functioning and log them. | https://github.com/ShadowIsReal/LockedDoor | 0 | 0| 
 | 20230928T20:54:52Z | KIZAGAN is a python computer backdoor(RAT) and it can take camera pictures,screenshot,browser datas and cookies etc... | https://github.com/st4inl3s5/kizagan | 70 | 15| 
-| 20230928T12:08:48Z | Simple Admin is a remote administration tool written in C# for the stub and PHP for the front-end control server. | https://github.com/rykergogo/Simple-Admin | 9 | 2| 
 
 
 # symbolic execution on Github 推荐
