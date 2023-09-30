@@ -69,6 +69,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230930T01:42:00Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0075-0054-app-hkQHl-send-exploit | 0 | 0| 
 | 20230930T01:23:34Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0050-0020-app-9v8n6-lie-exploit | 0 | 0| 
 | 20230930T01:21:47Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0075-0067-app-PKUts-exploit-touch | 0 | 0| 
 | 20230930T01:21:39Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWbt | 1 | 0| 
@@ -78,7 +79,6 @@
 | 20230930T01:17:25Z | Mass Exploit -  CVE-2023-5074 / D-Link D-View < Authentication Bypass | https://github.com/codeb0ss/CVE-2023-5074-PoC | 0 | 0| 
 | 20230930T00:37:27Z | My landing page | https://github.com/Exploit89/exploit89.github.io | 0 | 0| 
 | 20230930T00:13:43Z | Null | https://github.com/ultros/Exploits | 0 | 0| 
-| 20230929T23:15:13Z | G3nius Tools Sploit is a penetration testing tool with a lot of plugins for advanced cybersecurity attacks. User-friendly, Easy and modular! | https://github.com/witblack/G3nius-Tools-Sploit | 15 | 6| 
 
 
 # backdoor on Github 推荐
