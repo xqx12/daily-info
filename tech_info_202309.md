@@ -70,6 +70,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230930T12:22:13Z | not made by me | https://github.com/HairBaconGamming/PNG-Reader-Roblox-Exploit | 0 | 0| 
 | 20230930T12:01:31Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10629 | 1634| 
 | 20230930T11:40:34Z | This is a Roblox Exploit. | https://github.com/Streikin/PX | 0 | 0| 
 | 20230930T11:36:39Z | The goal is to fix 11 PHP webpages that can be exploited by Cross-Site Scripting (XSS). | https://github.com/nigeldouglas-itcarlow/pentesting-xss | 0 | 0| 
@@ -79,7 +80,6 @@
 | 20230930T09:06:02Z | 👽 Metasploit is the most widely used open-source exploitation framework. Learn how to use it and unlock its full potential.  | https://github.com/ShubhamJagtap2000/Metasploit-Tutorial | 13 | 0| 
 | 20230930T08:22:04Z | Classic code from 1999+ I am fairly sure this is the first public polymorphic shellcode ever (best IMHO and others http://ids.cs.columbia.edu/sites/default/files/ccs07poly.pdf  :)  If I ever port this to 64 or implement a few other suggestions (sorry I lost ppc code version contributed) it will be orders of magnitude more difficult to spot, so I hope nobody uses signatures for anything (virus / malware scanners included). | https://github.com/K2/ADMMutate | 74 | 18| 
 | 20230930T08:09:20Z | Null | https://github.com/Fa1c0n35/ExploitFarm | 0 | 0| 
-| 20230930T08:07:18Z | Exploit tools developed by me  | https://github.com/Wizardwa/pentest | 0 | 0| 
 
 
 # backdoor on Github 推荐
