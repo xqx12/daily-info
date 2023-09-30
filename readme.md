@@ -31,7 +31,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230930T10:59:55Z | Null | https://github.com/MingoAk/S1-S2exercices | 0 | 0| 
+| 20230930T12:39:41Z | Null | https://github.com/MingoAk/S1-S2exercices | 0 | 0| 
 
 
 # exploit on Github 推荐
