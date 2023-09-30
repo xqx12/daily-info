@@ -129,6 +129,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230930T00:58:37Z | A simple script written in python to automate the process of website fuzzing | https://github.com/Rheno001/Automated-fuzzing-script | 0 | 0| 
 | 20230930T00:21:22Z | Null | https://github.com/xAstralMars/fuzzy-octo-goggles | 0 | 0| 
 | 20230930T00:11:11Z | Null | https://github.com/LoperaUr/fuzzy-broccoli | 0 | 0| 
 | 20230929T23:04:17Z | Null | https://github.com/FuzzyGrimParmatr/FuzzyGrimParmatr | 0 | 0| 
@@ -138,7 +139,6 @@
 | 20230929T17:48:31Z | Null | https://github.com/damarisfregoso/fuzzyfriends | 0 | 2| 
 | 20230929T13:05:21Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1566 | 222| 
 | 20230929T11:03:12Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9055 | 2007| 
-| 20230929T10:04:29Z | Python Script for Fuzzing in APIs The Directory List is not Provided Please Change the Code According to Your Directory List. | https://github.com/muhammadharoon26/fizzFuzz | 0 | 0| 
 
 
 
