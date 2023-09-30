@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230930T01:03:22Z | CVE-2023-36884 | MS Office and Windows HTML RCE (CVE-2023-36884) - PoC and exploit | https://github.com/jakabakos/CVE-2023-36884-MS-Office-HTML-RCE | | 
 | 20230930T00:07:53Z | CVE-2023-5074 | Mass Exploit -  CVE-2023-5074 / D-Link D-View < Authentication Bypass | https://github.com/codeb0ss/CVE-2023-5074-PoC | | 
 | 20230929T15:27:51Z | CVE-2023-43770 | A Proof-Of-Concept for the CVE-2023-43770 vulnerability.  | https://github.com/s3cb0y/CVE-2023-43770-POC | | 
 | 20230929T14:53:18Z | CVE-2023-43325 | mooSocial v3.1.8 is vulnerable to cross-site scripting on user login function. | https://github.com/ahrixia/CVE-2023-43325 | | 
@@ -35,7 +36,6 @@
 | 20230929T04:54:46Z | CVE-2021-24499 | Null | https://github.com/jytmX/CVE-2021-24499 | | 
 | 20230928T21:31:28Z | CVE-2023-43115 | A small write-up with examples to understand CVE-2023-43115 | https://github.com/jostaub/ghostscript-CVE-2023-43115 | | 
 | 20230928T20:51:43Z | CVE-2023-4683 | CVE-2023-4683 - Test | https://github.com/Songg45/CVE-2023-4683-Test | | 
-| 20230928T20:05:45Z | CVE-2023-4762 | Null | https://github.com/buptsb/CVE-2023-4762 | | 
 
 
 # klee on Github 推荐
