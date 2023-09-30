@@ -85,6 +85,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230930T12:30:22Z | Digital Forensics and Incident Response (DFIR) | https://github.com/RENANZG/My-Forensics | 52 | 7| 
 | 20230930T10:03:14Z | Introducing backdoors in neural networks through parameter-level manipulation. | https://github.com/ElianBelot/handcrafted-backdoors | 0 | 0| 
 | 20230930T06:46:53Z | Example RAT is a remote administration tool written in C# for the stub and PHP for the front-end control server. | https://github.com/rykergogo/Example-RAT | 12 | 2| 
 | 20230930T00:29:34Z | Null | https://github.com/K1R4-H4CK3R/Pyenu-backdoor | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20230929T10:18:40Z | Backdoor Collection 👾 | https://github.com/adilhyz/WebShell | 4 | 0| 
 | 20230929T07:29:15Z | research work for using fuzzing to detect backdoors in CNN models | https://github.com/rajguru7/fuzz-backdoor-cnn | 0 | 0| 
 | 20230928T22:28:39Z | A script to stop backdoors from functioning and log them. | https://github.com/ShadowIsReal/LockedDoor | 0 | 0| 
-| 20230928T20:54:52Z | KIZAGAN is a python computer backdoor(RAT) and it can take camera pictures,screenshot,browser datas and cookies etc... | https://github.com/st4inl3s5/kizagan | 70 | 15| 
 
 
 # symbolic execution on Github 推荐
