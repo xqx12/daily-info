@@ -70,8 +70,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230929T21:02:31Z | Prof. Subhajit Roy(CS639) Oct’22‑Nov’22 | https://github.com/ekonpathak/Program-Synthesis-using-Symbolic-Execution | 0 | 0| 
+| 20230929T20:57:28Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3545 | 490| 
 | 20230929T02:14:23Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 100 | 3| 
-| 20230929T01:01:21Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3545 | 490| 
 
 
 # big4 on Github 推荐

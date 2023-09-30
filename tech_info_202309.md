@@ -99,8 +99,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230929T21:02:31Z | Prof. Subhajit Roy(CS639) Oct’22‑Nov’22 | https://github.com/ekonpathak/Program-Synthesis-using-Symbolic-Execution | 0 | 0| 
+| 20230929T20:57:28Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3545 | 490| 
 | 20230929T02:14:23Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 100 | 3| 
-| 20230929T01:01:21Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3545 | 490| 
 | 20230928T11:09:48Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 358 | 82| 
 | 20230928T10:41:10Z | A Dynamic Symbolic Execution (DSE) engine for JavaScript. ExpoSE is highly scalable, compatible with recent JavaScript standards, and supports symbolic modelling of strings and regular expressions. | https://github.com/ExpoSEJS/ExpoSE | 165 | 28| 
 | 20230927T13:02:21Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2324 | 636| 
@@ -108,7 +109,6 @@
 | 20230927T02:08:49Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 202 | 42| 
 | 20230926T13:33:16Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 44 | 7| 
 | 20230924T09:26:07Z | Symbolic execution engine written for the OOX language in Rust | https://github.com/tjausm/Jip | 1 | 0| 
-| 20230921T17:03:52Z | dynamic symbolic execution of PISE | https://github.com/liordror/PISE_DSE | 0 | 0| 
 
 
 # big4 on Github 推荐
