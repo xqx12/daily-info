@@ -69,6 +69,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230930T00:37:27Z | My landing page | https://github.com/Exploit89/exploit89.github.io | 0 | 0| 
 | 20230930T00:13:43Z | Null | https://github.com/ultros/Exploits | 0 | 0| 
 | 20230930T00:07:53Z | Mass Exploit -  CVE-2023-5074 / D-Link D-View < Authentication Bypass | https://github.com/codeb0ss/CVE-2023-5074-PoC | 0 | 0| 
 | 20230929T23:15:13Z | G3nius Tools Sploit is a penetration testing tool with a lot of plugins for advanced cybersecurity attacks. User-friendly, Easy and modular! | https://github.com/witblack/G3nius-Tools-Sploit | 15 | 6| 
@@ -78,7 +79,6 @@
 | 20230929T21:11:41Z | Null | https://github.com/XUnlockNetwork-SRLC-Channel/HB_DIRTY_JS-EXPLOIT-TEST | 0 | 0| 
 | 20230929T20:13:12Z | nysm is a stealth post-exploitation container. | https://github.com/eeriedusk/nysm | 28 | 3| 
 | 20230929T19:57:12Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6004 | 794| 
-| 20230929T19:53:31Z | Null | https://github.com/Nirmalkumar-Geek/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
