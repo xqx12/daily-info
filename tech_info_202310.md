@@ -72,6 +72,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231001T12:30:52Z | Null | https://github.com/ErodedElk/AFL-CRIU-Fuzzer | 0 | 0| 
 | 20231001T12:23:28Z | Null | https://github.com/alfianadhaaa/monitoring-server-electricity-consumption-using-fuzzy-logic-algorithm | 0 | 0| 
 | 20231001T10:30:54Z | Python3 scripts for AFL/AFL++ based fuzzers to deploy fuzzing with docker / monitor / triage. | https://github.com/Eterniter/fuzzdeploy | 2 | 0| 
 | 20231001T09:22:57Z | Null | https://github.com/alexb7711/fuzzy-lp-paper | 0 | 0| 
