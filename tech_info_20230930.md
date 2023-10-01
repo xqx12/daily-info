@@ -16,6 +16,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20230930T23:47:17Z | CVE-2023-29357 | Null | https://github.com/LuemmelSec/CVE-2023-29357 | | 
+| 20230930T21:39:39Z | CVE-2023-42793 | CVE-2023-42793 | https://github.com/H454NSec/CVE-2023-42793 | | 
+| 20230930T14:36:58Z | CVE-2021-34621 | Null | https://github.com/navreet1425/CVE-2021-34621 | | 
 | 20230930T07:19:50Z | CVE-2023-30845 | Explore CVE 2023-30845 automatically across multiple subdomains | https://github.com/himori123/-CVE-2023-30845 | | 
 | 20230930T01:43:48Z | CVE-2023-34040 | Spring-Kafka-Deserialization-Remote-Code-Execution | https://github.com/pyn3rd/CVE-2023-34040 | | 
 | 20230930T01:17:25Z | CVE-2023-5074 | Mass Exploit -  CVE-2023-5074 / D-Link D-View < Authentication Bypass | https://github.com/codeb0ss/CVE-2023-5074-PoC | | 
@@ -25,7 +28,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20230930T10:34:34Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13921 | 424| 
+| 20230930T18:05:26Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13922 | 424| 
+| 20230930T13:37:34Z | An open-source font for Unified Ideographic Extension derived from Fontworks% Klee One. | https://github.com/Des-Magmeta/PlanKai | 9 | 0| 
 
 
 # s2e on Github 推荐
@@ -37,21 +41,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230930T23:50:00Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWnu | 1 | 0| 
+| 20230930T23:48:02Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANnu | 1 | 0| 
+| 20230930T23:47:00Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANnu | 1 | 0| 
+| 20230930T23:45:53Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANnu | 1 | 0| 
+| 20230930T22:41:15Z | Null | https://github.com/oAtBfEf/exploits | 0 | 0| 
+| 20230930T20:28:11Z | Given an image, this project algorithmically simulates corruption and exploits the sparsity in natural images to reconstruct the original image via compressed sensing signal processing. | https://github.com/elliothha/Compressed-Sensing-Image-Recovery-Algorithm | 1 | 0| 
+| 20230930T15:11:58Z | The official SubZero Roblox Exploit Repository | https://github.com/paysonism/SubZero-RBLX | 0 | 0| 
 | 20230930T12:38:01Z | script for post exploitation | https://github.com/srimanth94/zerocopter | 0 | 0| 
 | 20230930T12:22:13Z | not made by me | https://github.com/HairBaconGamming/PNG-Reader-Roblox-Exploit | 0 | 0| 
 | 20230930T12:01:31Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10629 | 1634| 
-| 20230930T11:40:34Z | This is a Roblox Exploit. | https://github.com/Streikin/PX | 0 | 0| 
-| 20230930T11:36:39Z | The goal is to fix 11 PHP webpages that can be exploited by Cross-Site Scripting (XSS). | https://github.com/nigeldouglas-itcarlow/pentesting-xss | 0 | 0| 
-| 20230930T10:06:13Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6005 | 794| 
-| 20230930T09:36:25Z | To exploit the wonders of the brain, we explore creating an adaptive neural network that grows in magnitude as the amount of inputs increase.This resembles neurogenesis where the brain%s folds increase as new neurons are formed by the increase in gyri and sulci. | https://github.com/perpendicularai/AdaptiveNeuralNet | 0 | 0| 
-| 20230930T09:29:29Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8788 | 2022| 
-| 20230930T09:06:02Z | 👽 Metasploit is the most widely used open-source exploitation framework. Learn how to use it and unlock its full potential.  | https://github.com/ShubhamJagtap2000/Metasploit-Tutorial | 13 | 0| 
-| 20230930T08:22:04Z | Classic code from 1999+ I am fairly sure this is the first public polymorphic shellcode ever (best IMHO and others http://ids.cs.columbia.edu/sites/default/files/ccs07poly.pdf  :)  If I ever port this to 64 or implement a few other suggestions (sorry I lost ppc code version contributed) it will be orders of magnitude more difficult to spot, so I hope nobody uses signatures for anything (virus / malware scanners included). | https://github.com/K2/ADMMutate | 74 | 18| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230930T16:30:28Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 203 | 22| 
+| 20230930T16:18:38Z | A learning project Start_IT academy student. This game made with unity. She is about backrooms. There is an entity and big map. Explore the maze! | https://github.com/davydtovstyj/Backdoors | 0 | 0| 
 | 20230930T12:30:22Z | Digital Forensics and Incident Response (DFIR) | https://github.com/RENANZG/My-Forensics | 52 | 7| 
 | 20230930T10:03:14Z | Introducing backdoors in neural networks through parameter-level manipulation. | https://github.com/ElianBelot/handcrafted-backdoors | 0 | 0| 
 | 20230930T06:46:53Z | Example RAT is a remote administration tool written in C# for the stub and PHP for the front-end control server. | https://github.com/rykergogo/Example-RAT | 12 | 2| 
@@ -71,6 +77,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20230930T19:21:31Z | Repo for å teste deplyment av frontend til Vercel og bruke proxyapi mot AZF | https://github.com/fuzzbin/fuzzinfo | 0 | 0| 
+| 20230930T18:22:01Z | Implementation of a quantum Algorithm for building a fuzzy system of control for an inverse pendulum. It is used the library QFIE implemented by the Quantum laboratory: %QUASAR% of the %University of Study of Naples Federico II%  | https://github.com/mrz1999/quantum_fuzzy_system | 0 | 0| 
+| 20230930T16:42:43Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9057 | 2008| 
 | 20230930T10:26:56Z | Null | https://github.com/ProtasSemyon/DirectFuzzyInference | 0 | 0| 
 | 20230930T10:13:35Z | Null | https://github.com/Puneethgm/fuzzy-lamp | 0 | 0| 
 | 20230930T10:09:47Z | Null | https://github.com/reewardius/bbFuzzing.txt | 187 | 40| 
