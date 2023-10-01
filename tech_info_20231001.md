@@ -27,7 +27,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231001T09:33:02Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13925 | 424| 
+| 20231001T12:45:12Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13926 | 424| 
 
 
 # s2e on Github 推荐
@@ -52,6 +52,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231001T12:43:08Z | This repository contains my Trustworthy AI projects around fairness, explainability, backdoor-attack and robustness. | https://github.com/farzaneh-hatami/Trustworthy-AI | 0 | 0| 
 | 20231001T10:27:26Z | This is an ethical hacking project done with the intention of penetrating a system by running a python file which is actually a backdoor to access the contents of the system. Corelating to the backdoor program, a server program is activated remotely on another system to access the contents of the host. | https://github.com/shri-the-tree/Basic-Backdoor-Breacher | 0 | 0| 
 | 20231001T08:16:20Z | A Discord Bot for Backdoors and Breaches. Pre-Alpha State Is Not Fully Functional | https://github.com/simeononsecurity/discord-backdoors-and-breaches | 6 | 2| 
 | 20231001T03:20:24Z | Introducing backdoors in neural networks through parameter-level manipulation. | https://github.com/ElianBelot/handcrafted-backdoors | 1 | 0| 
