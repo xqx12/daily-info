@@ -11,13 +11,20 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20231002 | 白宫生成式人工智能评估计划 | https://mp.weixin.qq.com/s/8rWfeLkC19NgILP5-lnoUg| 
+| 20231002 | OneWeb星座及相关技术详细分析 | https://mp.weixin.qq.com/s/UXahtY8Jtxo4-rfO8i3Dvw| 
+| 20231002 | ​加密C2框架Mythic流量分析 | https://mp.weixin.qq.com/s/wOGnab3yRDaHnHC7VmEXEw| 
+| 20231002 | 反恶意软件扫描接口(AMSI)如何帮助您防御恶意软件 | https://mp.weixin.qq.com/s/bmlRcx8rRYC_6J-4e5U26A| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231002T01:32:45Z | CVE-2023-29357 | Null | https://github.com/LuemmelSec/CVE-2023-29357 | | 
-| 20231002T01:13:17Z | CVE-2023-43261 | CVE-2023-43261 - Credential Leakage Through Unprotected System Logs and Weak Password Encryption | https://github.com/win3zz/CVE-2023-43261 | | 
+| 20231002T11:36:50Z | cve-2023-21768 | Null | https://github.com/Rosayxy/Recreate-cve-2023-21768 | | 
+| 20231002T10:50:24Z | CVE-2023-29357 | Null | https://github.com/LuemmelSec/CVE-2023-29357 | | 
+| 20231002T10:21:53Z | 未知编号 | This the Best Cross-Border Fintech Solution of Fintech Olympiad 2022. Cverify provides a blockchain-based credit information system used in the education and employment industry to solve the problems of high cost and low efficiency when verifying the information of employees, which in turn promotes the flow of employees in Greater Bay Area. | https://github.com/LI-Jialu/CVerify_Fintech-Olympiad-2022 | | 
+| 20231002T09:06:17Z | CVE-2023-38743 | ManageEngine ADManager Command Injection | https://github.com/PetrusViet/CVE-2023-38743 | | 
+| 20231002T08:11:32Z | CVE-2023-43261 | CVE-2023-43261 - Credential Leakage Through Unprotected System Logs and Weak Password Encryption | https://github.com/win3zz/CVE-2023-43261 | | 
 | 20231001T19:00:36Z | CVE-2023-34040 | Spring-Kafka-Deserialization-Remote-Code-Execution | https://github.com/pyn3rd/CVE-2023-34040 | | 
 | 20231001T11:18:48Z | CVE-2022-1015 | Null | https://github.com/0range1337/CVE-2022-1015 | | 
 | 20231001T07:15:40Z | CVE-2023-5074 | Mass Exploit -  CVE-2023-5074 / D-Link D-View < Authentication Bypass | https://github.com/codeb0ss/CVE-2023-5074-PoC | | 
@@ -27,8 +34,10 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231002T11:27:43Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13933 | 424| 
+| 20231002T07:20:00Z | 本字体基于Klee one字体及其衍生的霞鹜文楷系列字体进行改做，基于文楷TC修改的字体 | https://github.com/Steve-Yuu/YshiShuti | 15 | 0| 
+| 20231002T05:55:32Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 360 | 7| 
 | 20231001T23:10:07Z | Null | https://github.com/ovcharov2v/kleewish | 0 | 0| 
-| 20231001T18:27:06Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13928 | 424| 
 | 20231001T12:53:56Z | Kleek - An Android App for Creating KakaoTalk Bots using Xposed API | https://github.com/naijun0403/kleek | 5 | 2| 
 
 
@@ -40,22 +49,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231002T01:42:40Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0075-0012-app-E3jxK-exploit-monitor | 0 | 0| 
-| 20231001T23:14:24Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWiu | 1 | 0| 
-| 20231001T23:13:03Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANui | 1 | 0| 
-| 20231001T23:11:42Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANui | 1 | 0| 
-| 20231001T23:10:51Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANui | 1 | 0| 
-| 20231001T22:11:25Z | Features : Fully functional ESP - Lines aligned to target hitbox allowing for easier auto-aim. | https://github.com/TakishoVision/Fortnite-Hack-Esp-Exploits-With-Menu | 0 | 0| 
-| 20231001T20:58:53Z | iOS 15-17,18,19… Customization Toolbox (No Exploits, No PC, Untethered) | https://github.com/Broco8Dev/Flux | 1 | 0| 
-| 20231001T20:23:50Z | TheHive is made based on the old bot from SmokeeBee%s server. This version has many updates and 0 exploits from the last one. | https://github.com/WaterMeloDev/TheHive | 0 | 0| 
-| 20231001T19:30:06Z | A vulnerable driver exploited by me (BYOVD) that is capable of terminating several EDRs and antivirus software in the market, rendering them ineffective, working for both x32 and x64. | https://github.com/keowu/BadRentdrv2 | 1 | 1| 
-| 20231001T19:21:03Z | Dump read-out protected STM32F1%s with a Pi Pico - A Pi Pico implementation of @JohannesObermaier%s, Marc Schink%s and Kosma Moczek%s Glitch and FPB attack to bypass RDP (read-out protection) level 1 on STM32F1 chips | https://github.com/CTXz/stm32f1-picopwner | 97 | 8| 
+| 20231002T12:00:01Z | After the Virus is ran it hides itself in the victims computer and deletes the server so they cant find the file. Exodus Stealer Has A Microsoft Excel Exploit Built in along with a File pumper which boosts the file size to any specific size such as kb mb gb. Along with Exodus Stealer Reborn you will get Exodus Crypter And File Spoofer The File | https://github.com/SuccesTeam/Exodus-Exploit-Stealer-Login-Bypass-Hack-Any-Account | 0 | 0| 
+| 20231002T11:53:15Z | Null | https://github.com/HKTB2804/Lua-Roblox-Exploit | 0 | 0| 
+| 20231002T11:44:32Z | создан | https://github.com/DanyPankrat/exploit-extensible-paradigms | 0 | 0| 
+| 20231002T11:06:07Z | Python Prototype Scripts to Exploit or Discover Network vulnerabilities and misconfiguration.  | https://github.com/aaaalmassri/Network_Hacking_Scripts | 0 | 0| 
+| 20231002T10:50:07Z | Null | https://github.com/hassaney08/Information-and-Software-Security---Vulnerability-Assessment-and-Exploitation | 0 | 0| 
+| 20231002T10:44:37Z | Null | https://github.com/VadimSoft32/Roblox-Exploit-Hydrogen-V75-PC | 0 | 0| 
+| 20231002T10:22:19Z | A heap exploitation tutorial | https://github.com/hehirm/heapexploitation | 0 | 0| 
+| 20231002T08:57:57Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5370 | 691| 
+| 20231002T03:56:20Z | kernel-pwn and writeup collection | https://github.com/smallkirby/kernelpwn | 432 | 30| 
+| 20231002T03:25:21Z | Collection of one-liners to bypass User Account Control (UAC) in Windows. These techniques exploit certain behavior in Windows applications to elevate privileges. | https://github.com/blue0x1/uac-bypass-oneliners | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231001T21:14:21Z | Towards Stable Backdoor Purification with Feature Shift Tuning | https://github.com/AISafety-HKUST/stable_backdoor_purification | 0 | 0| 
+| 20231002T09:14:59Z | An Opensource Windows Antivirus Tool to detect ransomware , viruses  , backdoors , payloads and  completely removes it from system  | https://github.com/Smukx/Mavoc-Antivirus | 3 | 1| 
+| 20231002T05:59:03Z | Towards Stable Backdoor Purification through Feature Shift Tuning (NeurIPS 2023) | https://github.com/AISafety-HKUST/stable_backdoor_purification | 1 | 0| 
 | 20231001T16:16:27Z | Ethical hacking project featuring a Python backdoor for system access. Activates a remote server to retrieve host contents securely. | https://github.com/shri-the-tree/Basic-Backdoor-Breacher | 0 | 0| 
 | 20231001T12:43:08Z | This repository contains my Trustworthy AI projects around fairness, explainability, backdoor-attack and robustness. | https://github.com/farzaneh-hatami/Trustworthy-AI | 0 | 0| 
 | 20231001T08:16:20Z | A Discord Bot for Backdoors and Breaches. Pre-Alpha State Is Not Fully Functional | https://github.com/simeononsecurity/discord-backdoors-and-breaches | 6 | 2| 
@@ -77,16 +87,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231002T11:42:24Z | it is a fuzzy lamp? | https://github.com/kernelmonents/fuzzy-lamp | 0 | 0| 
+| 20231002T11:11:23Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1569 | 223| 
+| 20231002T10:28:56Z | Null | https://github.com/BorisBad/discipline-fuzzy | 0 | 0| 
+| 20231002T10:01:19Z | Burp extension for fuzzing raw bytes and their encoded forms. | https://github.com/APenderGH/Hex-Fuzzer | 0 | 0| 
+| 20231002T09:17:57Z | Null | https://github.com/AfnanCSE98/Protocol-State-Fuzzing-of-4G-LTE-devices | 0 | 0| 
+| 20231002T07:34:02Z | Null | https://github.com/wangch64/fuzzapp | 0 | 0| 
+| 20231002T06:54:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9060 | 2007| 
 | 20231002T01:55:47Z | implementação de um sistema de autenticação baseado no algoritmo %fuzzy vault% (cofre fuzzy)  | https://github.com/IsaakProg/fuzzy_vault-master | 0 | 0| 
 | 20231002T01:27:31Z | Null | https://github.com/hyfshishen/ISSRE23-FUZZYB-CELER | 0 | 0| 
 | 20231002T01:02:03Z | A Ruby library for generating, mutating, and fuzzing data | https://github.com/ronin-rb/ronin-fuzzer | 11 | 2| 
-| 20231002T00:56:02Z | linux tool that uses Machine Learning/Natural Language Processing to generate tailored password lists | https://github.com/suffs811/fuzzler | 0 | 0| 
-| 20231002T00:49:59Z | Run upper  | https://github.com/Hawa176/Fuzzy | 0 | 0| 
-| 20231001T22:22:32Z | Null | https://github.com/mikaelfranca/fuzzy-system | 0 | 0| 
-| 20231001T22:12:33Z | Null | https://github.com/hadron-sclang/fuzzer | 0 | 1| 
-| 20231001T21:50:19Z | Golang powered API endpoints fuzzer! Enjoy the fast fuzzing. | https://github.com/ShashankKumarSaxena/GoAPIFuzz | 0 | 0| 
-| 20231001T21:18:09Z | Null | https://github.com/MolaBach/fuzzy-waddle | 0 | 0| 
-| 20231001T21:13:31Z | Null | https://github.com/Mem2019/LibFuzzer2AFL | 1 | 0| 
 
 
 
