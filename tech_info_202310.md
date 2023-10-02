@@ -40,6 +40,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231002T01:42:40Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0075-0012-app-E3jxK-exploit-monitor | 0 | 0| 
 | 20231001T23:14:24Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWiu | 1 | 0| 
 | 20231001T23:13:03Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANui | 1 | 0| 
 | 20231001T23:11:42Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANui | 1 | 0| 
@@ -49,7 +50,6 @@
 | 20231001T20:23:50Z | TheHive is made based on the old bot from SmokeeBee%s server. This version has many updates and 0 exploits from the last one. | https://github.com/WaterMeloDev/TheHive | 0 | 0| 
 | 20231001T19:30:06Z | A vulnerable driver exploited by me (BYOVD) that is capable of terminating several EDRs and antivirus software in the market, rendering them ineffective, working for both x32 and x64. | https://github.com/keowu/BadRentdrv2 | 1 | 1| 
 | 20231001T19:21:03Z | Dump read-out protected STM32F1%s with a Pi Pico - A Pi Pico implementation of @JohannesObermaier%s, Marc Schink%s and Kosma Moczek%s Glitch and FPB attack to bypass RDP (read-out protection) level 1 on STM32F1 chips | https://github.com/CTXz/stm32f1-picopwner | 97 | 8| 
-| 20231001T18:36:03Z | The goal is to fix 11 PHP webpages that can be exploited by Cross-Site Scripting (XSS). | https://github.com/nigeldouglas-itcarlow/pentesting-xss | 0 | 0| 
 
 
 # backdoor on Github 推荐
