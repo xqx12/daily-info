@@ -77,6 +77,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231002T01:02:03Z | A Ruby library for generating, mutating, and fuzzing data | https://github.com/ronin-rb/ronin-fuzzer | 11 | 2| 
 | 20231002T00:56:02Z | linux tool that uses Machine Learning/Natural Language Processing to generate tailored password lists | https://github.com/suffs811/fuzzler | 0 | 0| 
 | 20231002T00:49:59Z | Run upper  | https://github.com/Hawa176/Fuzzy | 0 | 0| 
 | 20231001T22:22:32Z | Null | https://github.com/mikaelfranca/fuzzy-system | 0 | 0| 
@@ -86,7 +87,6 @@
 | 20231001T21:13:31Z | Null | https://github.com/Mem2019/LibFuzzer2AFL | 1 | 0| 
 | 20231001T21:04:35Z | Null | https://github.com/AfnanCSE98/Protocol-State-Fuzzing-of-4G-LTE-devices | 0 | 0| 
 | 20231001T20:58:23Z | PAGINA DE PRODUCTOS PARA MASCOTA | https://github.com/josefaperalta27/fuzzy-octo-adventure | 0 | 0| 
-| 20231001T20:35:53Z | My clone repository | https://github.com/psychoticfrogfarts/fuzzy-fishstick | 0 | 0| 
 
 
 
