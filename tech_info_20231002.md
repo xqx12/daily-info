@@ -44,6 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231002T12:21:16Z | Not only logs rbx cookies but cookies for every website and discord token | https://github.com/Dannicrufti/Image-Logger-Everything | 0 | 0| 
 | 20231002T12:08:39Z | Here you will find Roblox Exploits Created By King Exploit On Youtube | https://github.com/KingImanSlayer05/Roblox-Exploits | 1 | 0| 
 | 20231002T12:00:01Z | After the Virus is ran it hides itself in the victims computer and deletes the server so they cant find the file. Exodus Stealer Has A Microsoft Excel Exploit Built in along with a File pumper which boosts the file size to any specific size such as kb mb gb. Along with Exodus Stealer Reborn you will get Exodus Crypter And File Spoofer The File | https://github.com/SuccesTeam/Exodus-Exploit-Stealer-Login-Bypass-Hack-Any-Account | 0 | 0| 
 | 20231002T11:53:15Z | Null | https://github.com/HKTB2804/Lua-Roblox-Exploit | 0 | 0| 
@@ -53,7 +54,6 @@
 | 20231002T10:44:37Z | Null | https://github.com/VadimSoft32/Roblox-Exploit-Hydrogen-V75-PC | 0 | 0| 
 | 20231002T10:22:19Z | A heap exploitation tutorial | https://github.com/hehirm/heapexploitation | 0 | 0| 
 | 20231002T08:57:57Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5370 | 691| 
-| 20231002T03:56:20Z | kernel-pwn and writeup collection | https://github.com/smallkirby/kernelpwn | 432 | 30| 
 
 
 # backdoor on Github 推荐
