@@ -16,19 +16,20 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231001T11:48:05Z | CVE-2023-29357 | Null | https://github.com/LuemmelSec/CVE-2023-29357 | | 
+| 20231001T23:19:52Z | CVE-2023-43261 | CVE-2023-43261 - Credential Leakage Through Unprotected System Logs and Weak Password Encryption | https://github.com/win3zz/CVE-2023-43261 | | 
+| 20231001T22:41:08Z | CVE-2023-29357 | Null | https://github.com/LuemmelSec/CVE-2023-29357 | | 
+| 20231001T19:00:36Z | CVE-2023-34040 | Spring-Kafka-Deserialization-Remote-Code-Execution | https://github.com/pyn3rd/CVE-2023-34040 | | 
 | 20231001T11:18:48Z | CVE-2022-1015 | Null | https://github.com/0range1337/CVE-2022-1015 | | 
-| 20231001T07:51:34Z | CVE-2023-43261 | CVE-2023-43261 - Credential Leakage Through Unprotected System Logs and Weak Password Encryption | https://github.com/win3zz/CVE-2023-43261 | | 
 | 20231001T07:15:40Z | CVE-2023-5074 | Mass Exploit -  CVE-2023-5074 / D-Link D-View < Authentication Bypass | https://github.com/codeb0ss/CVE-2023-5074-PoC | | 
 | 20231001T03:41:41Z | CVE-2023-36845 | Null | https://github.com/simrotion13/CVE-2023-36845 | | 
-| 20231001T02:42:55Z | CVE-2023-34040 | Spring-Kafka-Deserialization-Remote-Code-Execution | https://github.com/pyn3rd/CVE-2023-34040 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231001T12:53:56Z | Kleek - An Android App for Creating KakaoTalk Bots using Xposed API | https://github.com/naijun0403/kleek | 5 | 1| 
-| 20231001T12:45:12Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13926 | 424| 
+| 20231001T23:10:07Z | Null | https://github.com/ovcharov2v/kleewish | 0 | 0| 
+| 20231001T18:27:06Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13928 | 424| 
+| 20231001T12:53:56Z | Kleek - An Android App for Creating KakaoTalk Bots using Xposed API | https://github.com/naijun0403/kleek | 5 | 2| 
 
 
 # s2e on Github 推荐
@@ -39,23 +40,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231001T12:45:02Z | Null | https://github.com/rumaiiis/AmazonExploit | 0 | 0| 
-| 20231001T11:35:58Z | A Roblox Exploit | https://github.com/Streikin/Power-Ware | 0 | 0| 
-| 20231001T11:33:06Z | Null | https://github.com/MinusFrost/Exploiting-Warfare-Script | 0 | 0| 
-| 20231001T10:06:07Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10632 | 1634| 
-| 20231001T08:48:59Z | This repository implements a simplified PoC that demonstrates how signature malleability attacks using compact signatures can be executed. | https://github.com/pcaversaccio/malleable-signatures | 99 | 7| 
-| 20231001T08:43:11Z | Null | https://github.com/ItsIronicIInsist/scudo_exploits | 0 | 0| 
-| 20231001T01:47:12Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0037-app-wAqri-exploit-maintain | 0 | 0| 
-| 20231001T01:45:10Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0003-app-mI_Wn-express-exploit | 0 | 0| 
-| 20231001T01:39:49Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0075-0069-app-LBvuV-exploit-wake | 0 | 0| 
-| 20231001T01:13:18Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0050-0049-app-rbDqO-account-exploit | 0 | 0| 
+| 20231001T23:14:24Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWiu | 1 | 0| 
+| 20231001T23:13:03Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANui | 1 | 0| 
+| 20231001T23:11:42Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANui | 1 | 0| 
+| 20231001T23:10:51Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANui | 1 | 0| 
+| 20231001T22:11:25Z | Features : Fully functional ESP - Lines aligned to target hitbox allowing for easier auto-aim. | https://github.com/TakishoVision/Fortnite-Hack-Esp-Exploits-With-Menu | 0 | 0| 
+| 20231001T20:58:53Z | iOS 15-17,18,19… Customization Toolbox (No Exploits, No PC, Untethered) | https://github.com/Broco8Dev/Flux | 1 | 0| 
+| 20231001T20:23:50Z | TheHive is made based on the old bot from SmokeeBee%s server. This version has many updates and 0 exploits from the last one. | https://github.com/WaterMeloDev/TheHive | 0 | 0| 
+| 20231001T19:30:06Z | A vulnerable driver exploited by me (BYOVD) that is capable of terminating several EDRs and antivirus software in the market, rendering them ineffective, working for both x32 and x64. | https://github.com/keowu/BadRentdrv2 | 1 | 1| 
+| 20231001T19:21:03Z | Dump read-out protected STM32F1%s with a Pi Pico - A Pi Pico implementation of @JohannesObermaier%s, Marc Schink%s and Kosma Moczek%s Glitch and FPB attack to bypass RDP (read-out protection) level 1 on STM32F1 chips | https://github.com/CTXz/stm32f1-picopwner | 97 | 8| 
+| 20231001T18:36:03Z | The goal is to fix 11 PHP webpages that can be exploited by Cross-Site Scripting (XSS). | https://github.com/nigeldouglas-itcarlow/pentesting-xss | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231001T21:14:21Z | Towards Stable Backdoor Purification with Feature Shift Tuning | https://github.com/AISafety-HKUST/stable_backdoor_purification | 0 | 0| 
+| 20231001T16:16:27Z | Ethical hacking project featuring a Python backdoor for system access. Activates a remote server to retrieve host contents securely. | https://github.com/shri-the-tree/Basic-Backdoor-Breacher | 0 | 0| 
 | 20231001T12:43:08Z | This repository contains my Trustworthy AI projects around fairness, explainability, backdoor-attack and robustness. | https://github.com/farzaneh-hatami/Trustworthy-AI | 0 | 0| 
-| 20231001T10:27:26Z | This is an ethical hacking project done with the intention of penetrating a system by running a python file which is actually a backdoor to access the contents of the system. Corelating to the backdoor program, a server program is activated remotely on another system to access the contents of the host. | https://github.com/shri-the-tree/Basic-Backdoor-Breacher | 0 | 0| 
 | 20231001T08:16:20Z | A Discord Bot for Backdoors and Breaches. Pre-Alpha State Is Not Fully Functional | https://github.com/simeononsecurity/discord-backdoors-and-breaches | 6 | 2| 
 | 20231001T03:20:24Z | Introducing backdoors in neural networks through parameter-level manipulation. | https://github.com/ElianBelot/handcrafted-backdoors | 1 | 0| 
 | 20231001T00:09:27Z | A backdoor made entirely from batch, tested for windows | https://github.com/Hecker-Belu/Batch-Backdoor | 0 | 0| 
@@ -75,16 +77,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231001T12:45:52Z | AFL-CRIU-Fuzzer demo | https://github.com/ErodedElk/AFL-CRIU-Fuzzer | 0 | 0| 
-| 20231001T12:23:28Z | Null | https://github.com/alfianadhaaa/monitoring-server-electricity-consumption-using-fuzzy-logic-algorithm | 0 | 0| 
-| 20231001T10:30:54Z | Python3 scripts for AFL/AFL++ based fuzzers to deploy fuzzing with docker / monitor / triage. | https://github.com/Eterniter/fuzzdeploy | 2 | 0| 
-| 20231001T09:22:57Z | Null | https://github.com/alexb7711/fuzzy-lp-paper | 0 | 0| 
-| 20231001T08:53:40Z | Null | https://github.com/keshav263/fuzzy-search | 0 | 0| 
-| 20231001T08:43:26Z | My github page | https://github.com/vuhp/fuzzy-fortnight | 0 | 0| 
-| 20231001T06:56:28Z | Nodejs Framework Fuzzer | https://github.com/d3ng03/nodejs-fuzzer | 0 | 0| 
-| 20231001T05:52:38Z | Null | https://github.com/Doinf-123/fuzzy-chainsaw | 0 | 1| 
-| 20231001T01:26:20Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 2295 | 40| 
-| 20231001T00:29:18Z | I thought this would be a cool idea to make a fuzzy circle that turns within its-self infinitely. | https://github.com/EylonC/Spinning-Fuzzy-Circle | 0 | 0| 
+| 20231001T22:22:32Z | Null | https://github.com/mikaelfranca/fuzzy-system | 0 | 0| 
+| 20231001T22:12:33Z | Null | https://github.com/hadron-sclang/fuzzer | 0 | 1| 
+| 20231001T21:50:19Z | Golang powered API endpoints fuzzer! Enjoy the fast fuzzing. | https://github.com/ShashankKumarSaxena/GoAPIFuzz | 0 | 0| 
+| 20231001T21:18:09Z | Null | https://github.com/MolaBach/fuzzy-waddle | 0 | 0| 
+| 20231001T21:13:31Z | Null | https://github.com/Mem2019/LibFuzzer2AFL | 1 | 0| 
+| 20231001T21:04:35Z | Null | https://github.com/AfnanCSE98/Protocol-State-Fuzzing-of-4G-LTE-devices | 0 | 0| 
+| 20231001T20:58:23Z | PAGINA DE PRODUCTOS PARA MASCOTA | https://github.com/josefaperalta27/fuzzy-octo-adventure | 0 | 0| 
+| 20231001T20:35:53Z | My clone repository | https://github.com/psychoticfrogfarts/fuzzy-fishstick | 0 | 0| 
+| 20231001T19:49:56Z | Differential Fuzz Testing with Foundry for the purpose of Gas Optimization | https://github.com/anna-carroll/differential-fuzzing | 0 | 0| 
+| 20231001T15:17:18Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9059 | 2007| 
 
 
 
