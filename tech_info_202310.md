@@ -77,6 +77,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231002T00:49:59Z | Run upper  | https://github.com/Hawa176/Fuzzy | 0 | 0| 
 | 20231001T22:22:32Z | Null | https://github.com/mikaelfranca/fuzzy-system | 0 | 0| 
 | 20231001T22:12:33Z | Null | https://github.com/hadron-sclang/fuzzer | 0 | 1| 
 | 20231001T21:50:19Z | Golang powered API endpoints fuzzer! Enjoy the fast fuzzing. | https://github.com/ShashankKumarSaxena/GoAPIFuzz | 0 | 0| 
@@ -86,7 +87,6 @@
 | 20231001T20:58:23Z | PAGINA DE PRODUCTOS PARA MASCOTA | https://github.com/josefaperalta27/fuzzy-octo-adventure | 0 | 0| 
 | 20231001T20:35:53Z | My clone repository | https://github.com/psychoticfrogfarts/fuzzy-fishstick | 0 | 0| 
 | 20231001T19:49:56Z | Differential Fuzz Testing with Foundry for the purpose of Gas Optimization | https://github.com/anna-carroll/differential-fuzzing | 0 | 0| 
-| 20231001T15:17:18Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9059 | 2007| 
 
 
 
