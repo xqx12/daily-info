@@ -20,8 +20,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231002T12:45:25Z | CVE-2023-43261 | CVE-2023-43261 - Credential Leakage Through Unprotected System Logs and Weak Password Encryption | https://github.com/win3zz/CVE-2023-43261 | | 
 | 20231002T12:44:58Z | CVE-2023-5074 | Mass Exploit -  CVE-2023-5074 / D-Link D-View < Authentication Bypass | https://github.com/codeb0ss/CVE-2023-5074-PoC | | 
-| 20231002T12:17:12Z | CVE-2023-43261 | CVE-2023-43261 - Credential Leakage Through Unprotected System Logs and Weak Password Encryption | https://github.com/win3zz/CVE-2023-43261 | | 
 | 20231002T12:09:42Z | cve-2023-21768 | recreating exp for cve-2023-21768. | https://github.com/Rosayxy/Recreate-cve-2023-21768 | | 
 | 20231002T10:50:24Z | CVE-2023-29357 | Null | https://github.com/LuemmelSec/CVE-2023-29357 | | 
 | 20231002T10:21:53Z | 未知编号 | This the Best Cross-Border Fintech Solution of Fintech Olympiad 2022. Cverify provides a blockchain-based credit information system used in the education and employment industry to solve the problems of high cost and low efficiency when verifying the information of employees, which in turn promotes the flow of employees in Greater Bay Area. | https://github.com/LI-Jialu/CVerify_Fintech-Olympiad-2022 | | 
@@ -80,16 +80,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231002T12:42:33Z | Null | https://github.com/hbbalamsyah/Crime-Area-Clustering-Using-Kmeans-and-FuzzyCmeans | 0 | 0| 
+| 20231002T12:39:42Z | Car Scrapping script for QBcore | https://github.com/Fuzziegoon/fuzz-scrapyard | 0 | 0| 
+| 20231002T12:38:14Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9059 | 2007| 
 | 20231002T11:42:24Z | it is a fuzzy lamp? | https://github.com/kernelmonents/fuzzy-lamp | 0 | 0| 
 | 20231002T11:11:23Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1569 | 223| 
 | 20231002T10:28:56Z | Null | https://github.com/BorisBad/discipline-fuzzy | 0 | 0| 
 | 20231002T10:01:19Z | Burp extension for fuzzing raw bytes and their encoded forms. | https://github.com/APenderGH/Hex-Fuzzer | 0 | 0| 
 | 20231002T09:17:57Z | Null | https://github.com/AfnanCSE98/Protocol-State-Fuzzing-of-4G-LTE-devices | 0 | 0| 
 | 20231002T07:34:02Z | Null | https://github.com/wangch64/fuzzapp | 0 | 0| 
-| 20231002T06:54:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9060 | 2007| 
-| 20231002T01:55:47Z | implementação de um sistema de autenticação baseado no algoritmo %fuzzy vault% (cofre fuzzy)  | https://github.com/IsaakProg/fuzzy_vault-master | 0 | 0| 
-| 20231002T01:27:31Z | Null | https://github.com/hyfshishen/ISSRE23-FUZZYB-CELER | 0 | 0| 
-| 20231002T01:02:03Z | A Ruby library for generating, mutating, and fuzzing data | https://github.com/ronin-rb/ronin-fuzzer | 11 | 2| 
+| 20231002T03:54:37Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 408 | 54| 
 
 
 
