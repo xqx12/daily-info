@@ -20,7 +20,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231002T11:36:50Z | cve-2023-21768 | Null | https://github.com/Rosayxy/Recreate-cve-2023-21768 | | 
+| 20231002T12:08:19Z | cve-2023-21768 | recreating exp for cve-2023-21768. | https://github.com/Rosayxy/Recreate-cve-2023-21768 | | 
 | 20231002T10:50:24Z | CVE-2023-29357 | Null | https://github.com/LuemmelSec/CVE-2023-29357 | | 
 | 20231002T10:21:53Z | 未知编号 | This the Best Cross-Border Fintech Solution of Fintech Olympiad 2022. Cverify provides a blockchain-based credit information system used in the education and employment industry to solve the problems of high cost and low efficiency when verifying the information of employees, which in turn promotes the flow of employees in Greater Bay Area. | https://github.com/LI-Jialu/CVerify_Fintech-Olympiad-2022 | | 
 | 20231002T09:06:17Z | CVE-2023-38743 | ManageEngine ADManager Command Injection | https://github.com/PetrusViet/CVE-2023-38743 | | 
@@ -30,6 +30,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231002T12:08:18Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2323 | 636| 
 | 20231002T11:27:43Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13933 | 424| 
 | 20231002T07:20:00Z | 本字体基于Klee one字体及其衍生的霞鹜文楷系列字体进行改做，基于文楷TC修改的字体 | https://github.com/Steve-Yuu/YshiShuti | 15 | 0| 
 | 20231002T05:55:32Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 360 | 7| 
@@ -43,6 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231002T12:08:39Z | Here you will find Roblox Exploits Created By King Exploit On Youtube | https://github.com/KingImanSlayer05/Roblox-Exploits | 1 | 0| 
 | 20231002T12:00:01Z | After the Virus is ran it hides itself in the victims computer and deletes the server so they cant find the file. Exodus Stealer Has A Microsoft Excel Exploit Built in along with a File pumper which boosts the file size to any specific size such as kb mb gb. Along with Exodus Stealer Reborn you will get Exodus Crypter And File Spoofer The File | https://github.com/SuccesTeam/Exodus-Exploit-Stealer-Login-Bypass-Hack-Any-Account | 0 | 0| 
 | 20231002T11:53:15Z | Null | https://github.com/HKTB2804/Lua-Roblox-Exploit | 0 | 0| 
 | 20231002T11:44:32Z | создан | https://github.com/DanyPankrat/exploit-extensible-paradigms | 0 | 0| 
@@ -52,7 +54,6 @@
 | 20231002T10:22:19Z | A heap exploitation tutorial | https://github.com/hehirm/heapexploitation | 0 | 0| 
 | 20231002T08:57:57Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5370 | 691| 
 | 20231002T03:56:20Z | kernel-pwn and writeup collection | https://github.com/smallkirby/kernelpwn | 432 | 30| 
-| 20231002T03:25:21Z | Collection of one-liners to bypass User Account Control (UAC) in Windows. These techniques exploit certain behavior in Windows applications to elevate privileges. | https://github.com/blue0x1/uac-bypass-oneliners | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -65,6 +66,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231002T12:08:18Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2323 | 636| 
 
 
 # big4 on Github 推荐
