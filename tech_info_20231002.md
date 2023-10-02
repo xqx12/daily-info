@@ -20,7 +20,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231002T12:08:19Z | cve-2023-21768 | recreating exp for cve-2023-21768. | https://github.com/Rosayxy/Recreate-cve-2023-21768 | | 
+| 20231002T12:09:42Z | cve-2023-21768 | recreating exp for cve-2023-21768. | https://github.com/Rosayxy/Recreate-cve-2023-21768 | | 
 | 20231002T10:50:24Z | CVE-2023-29357 | Null | https://github.com/LuemmelSec/CVE-2023-29357 | | 
 | 20231002T10:21:53Z | 未知编号 | This the Best Cross-Border Fintech Solution of Fintech Olympiad 2022. Cverify provides a blockchain-based credit information system used in the education and employment industry to solve the problems of high cost and low efficiency when verifying the information of employees, which in turn promotes the flow of employees in Greater Bay Area. | https://github.com/LI-Jialu/CVerify_Fintech-Olympiad-2022 | | 
 | 20231002T09:06:17Z | CVE-2023-38743 | ManageEngine ADManager Command Injection | https://github.com/PetrusViet/CVE-2023-38743 | | 
