@@ -51,6 +51,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231002T12:51:29Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-springboot-4z07g-exploit-serve | 0 | 0| 
 | 20231002T12:42:33Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-three-scenarios-LRgZx-exploit-talk | 0 | 0| 
 | 20231002T12:21:16Z | Not only logs rbx cookies but cookies for every website and discord token | https://github.com/Dannicrufti/Image-Logger-Everything | 0 | 0| 
 | 20231002T12:08:39Z | Here you will find Roblox Exploits Created By King Exploit On Youtube | https://github.com/KingImanSlayer05/Roblox-Exploits | 1 | 0| 
@@ -60,7 +61,6 @@
 | 20231002T11:06:07Z | Python Prototype Scripts to Exploit or Discover Network vulnerabilities and misconfiguration.  | https://github.com/aaaalmassri/Network_Hacking_Scripts | 0 | 0| 
 | 20231002T10:50:07Z | Null | https://github.com/hassaney08/Information-and-Software-Security---Vulnerability-Assessment-and-Exploitation | 0 | 0| 
 | 20231002T10:44:37Z | Null | https://github.com/VadimSoft32/Roblox-Exploit-Hydrogen-V75-PC | 0 | 0| 
-| 20231002T10:22:19Z | A heap exploitation tutorial | https://github.com/hehirm/heapexploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
