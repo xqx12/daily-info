@@ -16,8 +16,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231002T01:08:18Z | CVE-2023-43261 | CVE-2023-43261 - Credential Leakage Through Unprotected System Logs and Weak Password Encryption | https://github.com/win3zz/CVE-2023-43261 | | 
-| 20231001T22:41:08Z | CVE-2023-29357 | Null | https://github.com/LuemmelSec/CVE-2023-29357 | | 
+| 20231002T01:13:24Z | CVE-2023-29357 | Null | https://github.com/LuemmelSec/CVE-2023-29357 | | 
+| 20231002T01:13:17Z | CVE-2023-43261 | CVE-2023-43261 - Credential Leakage Through Unprotected System Logs and Weak Password Encryption | https://github.com/win3zz/CVE-2023-43261 | | 
 | 20231001T19:00:36Z | CVE-2023-34040 | Spring-Kafka-Deserialization-Remote-Code-Execution | https://github.com/pyn3rd/CVE-2023-34040 | | 
 | 20231001T11:18:48Z | CVE-2022-1015 | Null | https://github.com/0range1337/CVE-2022-1015 | | 
 | 20231001T07:15:40Z | CVE-2023-5074 | Mass Exploit -  CVE-2023-5074 / D-Link D-View < Authentication Bypass | https://github.com/codeb0ss/CVE-2023-5074-PoC | | 
