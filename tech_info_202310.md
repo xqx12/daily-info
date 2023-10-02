@@ -20,7 +20,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231002T12:26:41Z | CVE-2023-5074 | Mass Exploit -  CVE-2023-5074 / D-Link D-View < Authentication Bypass | https://github.com/codeb0ss/CVE-2023-5074-PoC | | 
+| 20231002T12:44:58Z | CVE-2023-5074 | Mass Exploit -  CVE-2023-5074 / D-Link D-View < Authentication Bypass | https://github.com/codeb0ss/CVE-2023-5074-PoC | | 
 | 20231002T12:17:12Z | CVE-2023-43261 | CVE-2023-43261 - Credential Leakage Through Unprotected System Logs and Weak Password Encryption | https://github.com/win3zz/CVE-2023-43261 | | 
 | 20231002T12:09:42Z | cve-2023-21768 | recreating exp for cve-2023-21768. | https://github.com/Rosayxy/Recreate-cve-2023-21768 | | 
 | 20231002T10:50:24Z | CVE-2023-29357 | Null | https://github.com/LuemmelSec/CVE-2023-29357 | | 
