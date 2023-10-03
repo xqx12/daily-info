@@ -62,7 +62,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231003T12:48:18Z | Image logger. Exploit for discord. Grabbs user cookies and passwords. [ PRIVATE ] | https://github.com/RobloxCoding/roblox-discord-image-cookie-logger1 | 0 | 0| 
+| 20231003T12:50:37Z | Image logger. Exploit for discord. Grabbs user cookies and passwords. [ PRIVATE ] | https://github.com/RobloxCoding/roblox-discord-image-cookie-logger1 | 0 | 0| 
 | 20231003T12:47:12Z | This repo is used to exploit the Hack-The-Box Visual Seasonal machine | https://github.com/MGreif/htb-visual-exploit-repo | 0 | 0| 
 | 20231003T12:36:09Z | A Python-based tool to create zip, tar and cpio archives to exploit common archive library issues and developer mistakes | https://github.com/pentagridsec/archive_pwn | 0 | 0| 
 | 20231003T12:19:11Z | Kubernetes Attack Graph | https://github.com/DataDog/KubeHound | 106 | 4| 
