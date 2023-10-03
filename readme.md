@@ -50,6 +50,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231003T12:47:12Z | This repo is used to exploit the Hack-The-Box Visual Seasonal machine | https://github.com/MGreif/htb-visual-exploit-repo | 0 | 0| 
 | 20231003T12:42:47Z | Image logger. Exploit for discord. Grabbs user cookies and passwords. [ PRIVATE ] | https://github.com/RobloxCoding/roblox-discord-image-cookie-logger1 | 0 | 0| 
 | 20231003T12:36:09Z | A Python-based tool to create zip, tar and cpio archives to exploit common archive library issues and developer mistakes | https://github.com/pentagridsec/archive_pwn | 0 | 0| 
 | 20231003T12:19:11Z | Kubernetes Attack Graph | https://github.com/DataDog/KubeHound | 106 | 4| 
@@ -59,13 +60,13 @@
 | 20231003T10:45:47Z | Null | https://github.com/yazan225/exploit.exe | 0 | 0| 
 | 20231003T10:39:51Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5372 | 691| 
 | 20231003T01:32:38Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0075-0042-app-9P8OB-telephone-exploit | 0 | 0| 
-| 20231003T00:59:20Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0005-0002-app-I132h-exploit-present | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231003T12:42:46Z | Null | https://github.com/listentomi/RL-backdoor-detection | 0 | 0| 
+| 20231003T12:47:45Z | Null | https://github.com/listentomi/FL-backdoor-defense-mechanism | 0 | 0| 
+| 20231003T12:45:17Z | Null | https://github.com/listentomi/RL-backdoor-detection | 0 | 0| 
 | 20231003T12:06:13Z | Null | https://github.com/ramos13935/TestBackdoorCHTB | 0 | 0| 
 | 20231003T10:56:55Z | Towards Stable Backdoor Purification through Feature Shift Tuning (NeurIPS 2023) | https://github.com/AISafety-HKUST/stable_backdoor_purification | 4 | 0| 
 | 20231003T09:24:52Z | An Opensource Windows Antivirus Tool to detect ransomware , viruses  , backdoors , payloads and  completely removes it from system  | https://github.com/Whitecat18/Mavoc-Antivirus | 3 | 2| 
