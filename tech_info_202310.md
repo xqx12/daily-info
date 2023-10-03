@@ -20,8 +20,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231003T00:42:51Z | CVE-2023-43261 | CVE-2023-43261 - Credential Leakage Through Unprotected System Logs and Weak Password Encryption | https://github.com/win3zz/CVE-2023-43261 | | 
 | 20231002T22:23:49Z | CVE-2023-29357 | Null | https://github.com/LuemmelSec/CVE-2023-29357 | | 
-| 20231002T22:23:47Z | CVE-2023-43261 | CVE-2023-43261 - Credential Leakage Through Unprotected System Logs and Weak Password Encryption | https://github.com/win3zz/CVE-2023-43261 | | 
 | 20231002T19:56:34Z | CVE-2022-24716 | CVE-2022-24716 , Arbitrary File Disclosure Icingaweb2 | https://github.com/joaoviictorti/CVE-2022-24716 | | 
 | 20231002T16:21:43Z | CVE-2023-42793 | CVE-2023-42793 | https://github.com/H454NSec/CVE-2023-42793 | | 
 | 20231002T15:27:08Z | CVE-2023-43838 | Public disclosure for CVE-2023-31584. | https://github.com/rootd4ddy/CVE-2023-43838 | | 

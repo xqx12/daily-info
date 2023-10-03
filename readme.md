@@ -21,7 +21,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20231002T22:23:49Z | CVE-2023-29357 | Null | https://github.com/LuemmelSec/CVE-2023-29357 | | 
-| 20231002T22:23:47Z | CVE-2023-43261 | CVE-2023-43261 - Credential Leakage Through Unprotected System Logs and Weak Password Encryption | https://github.com/win3zz/CVE-2023-43261 | | 
 | 20231002T19:56:34Z | CVE-2022-24716 | CVE-2022-24716 , Arbitrary File Disclosure Icingaweb2 | https://github.com/joaoviictorti/CVE-2022-24716 | | 
 | 20231002T16:21:43Z | CVE-2023-42793 | CVE-2023-42793 | https://github.com/H454NSec/CVE-2023-42793 | | 
 | 20231002T15:27:08Z | CVE-2023-43838 | Public disclosure for CVE-2023-31584. | https://github.com/rootd4ddy/CVE-2023-43838 | | 
@@ -30,6 +29,7 @@
 | 20231002T14:55:39Z | CVE-2023-40044 | Analysis of WS_FTP CVE | https://github.com/kenbuckler/WS_FTP-CVE-2023-40044 | | 
 | 20231002T13:58:53Z | cve-2023-21768 | recreating exp for cve-2023-21768. | https://github.com/Rosayxy/Recreate-cve-2023-21768 | | 
 | 20231002T13:14:42Z | CVE-2023-33831 | Description and exploit of CVE-2023-33831 affecting FUXA web-based Process Visualization (SCADA/HMI/Dashboard) software. | https://github.com/rodolfomarianocy/Unauthenticated-RCE-FUXA-CVE-2023-33831 | | 
+| 20231002T10:21:53Z | 未知编号 | This the Best Cross-Border Fintech Solution of Fintech Olympiad 2022. Cverify provides a blockchain-based credit information system used in the education and employment industry to solve the problems of high cost and low efficiency when verifying the information of employees, which in turn promotes the flow of employees in Greater Bay Area. | https://github.com/LI-Jialu/CVerify_Fintech-Olympiad-2022 | | 
 
 
 # klee on Github 推荐
