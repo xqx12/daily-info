@@ -53,16 +53,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231002T22:55:17Z | Null | https://github.com/codeb0ss/galaxy-exploitdb | 0 | 0| 
+| 20231002T21:49:03Z | Ronin is a Free and Open Source Ruby Toolkit for Security Research and Development. Ronin also allows for the rapid development and distribution of code, exploits, payloads, etc, via 3rd party git repositories. | https://github.com/ronin-rb/ronin | 574 | 50| 
+| 20231002T21:24:12Z | A simple 2-layer neural network for digit recognition using the MNIST data set coded just using basic Linear Algebra exploiting Gradient Descent formulas. | https://github.com/Lounes78/Digit-Recognition-model-without-using-TensorFlow | 0 | 0| 
+| 20231002T20:38:14Z | Null | https://github.com/ErikLearningSec/Exploits | 0 | 0| 
+| 20231002T20:20:44Z | Your Can Down All WordPress Site With CRON_EXPLOIT!  Working On All WordPress Version! | https://github.com/mr-r0ot/WordPress_CRON_Exploit__DownSite | 1 | 0| 
+| 20231002T19:51:59Z | Statically Enforce Privacy and Security Policies on Rust code using dataflow analysis enhanced by exploiting ownership types. You can signup for our official release at the link below | https://github.com/brownsys/paralegal | 3 | 0| 
 | 20231002T12:51:29Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-springboot-4z07g-exploit-serve | 0 | 0| 
 | 20231002T12:42:33Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-three-scenarios-LRgZx-exploit-talk | 0 | 0| 
 | 20231002T12:21:16Z | Not only logs rbx cookies but cookies for every website and discord token | https://github.com/Dannicrufti/Image-Logger-Everything | 0 | 0| 
 | 20231002T12:08:39Z | Here you will find Roblox Exploits Created By King Exploit On Youtube | https://github.com/KingImanSlayer05/Roblox-Exploits | 1 | 0| 
-| 20231002T12:00:01Z | After the Virus is ran it hides itself in the victims computer and deletes the server so they cant find the file. Exodus Stealer Has A Microsoft Excel Exploit Built in along with a File pumper which boosts the file size to any specific size such as kb mb gb. Along with Exodus Stealer Reborn you will get Exodus Crypter And File Spoofer The File | https://github.com/SuccesTeam/Exodus-Exploit-Stealer-Login-Bypass-Hack-Any-Account | 0 | 0| 
-| 20231002T11:53:15Z | Null | https://github.com/HKTB2804/Lua-Roblox-Exploit | 0 | 0| 
-| 20231002T11:44:32Z | создан | https://github.com/DanyPankrat/exploit-extensible-paradigms | 0 | 0| 
-| 20231002T11:06:07Z | Python Prototype Scripts to Exploit or Discover Network vulnerabilities and misconfiguration.  | https://github.com/aaaalmassri/Network_Hacking_Scripts | 0 | 0| 
-| 20231002T10:50:07Z | Null | https://github.com/hassaney08/Information-and-Software-Security---Vulnerability-Assessment-and-Exploitation | 0 | 0| 
-| 20231002T10:44:37Z | Null | https://github.com/VadimSoft32/Roblox-Exploit-Hydrogen-V75-PC | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -82,6 +82,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231002T14:02:45Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3545 | 490| 
 | 20231002T12:32:55Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 357 | 82| 
 | 20231002T12:08:18Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2323 | 636| 
 | 20231001T03:20:58Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 203 | 19| 
