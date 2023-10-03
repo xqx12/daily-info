@@ -83,6 +83,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231003T12:11:58Z | Black-box fuzzer that fuzzes APIs based on OpenAPI specification. Find bugs for free! | https://github.com/matusf/openapi-fuzzer | 467 | 19| 
 | 20231003T10:09:55Z | Null | https://github.com/YQ0922/fuzzexample2 | 0 | 0| 
 | 20231003T09:20:29Z | my simple pilot project to implement fuzzy logic using jupyter notebook | https://github.com/rzzaike/pilot-fuzzy | 0 | 0| 
 | 20231003T08:28:55Z | Null | https://github.com/AndreaLeopardi/fuzzy-meme | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20231003T03:50:59Z | F+: Fuzzing plus Large Language Models for Automated Software Testing and Repair | https://github.com/ZhuTaohong/Fplus | 1 | 0| 
 | 20231003T01:18:59Z | Null | https://github.com/yakov-aleksey/fuzzy-stream | 0 | 0| 
 | 20231003T00:52:34Z | Null | https://github.com/davidtauscher/fuzzy-fiesta | 0 | 0| 
-| 20231003T00:07:03Z | Fuzzy Logic Mamdani di gunkan untuk mengbil keputusan durasi penyiraman. menggunan input suhu udara, kelembapan udara, dan kelebapan tanah. | https://github.com/A-Sutisna/Fuzzy-Mamdani-Penyiraman-Otomatis | 0 | 0| 
 
 
 
