@@ -50,7 +50,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231003T12:06:29Z | Kubernetes Attack Graph | https://github.com/DataDog/KubeHound | 105 | 4| 
+| 20231003T12:19:11Z | Kubernetes Attack Graph | https://github.com/DataDog/KubeHound | 106 | 4| 
 | 20231003T12:06:25Z | Full credit to @ovid. Hosting here for personal use. | https://github.com/d3ndr1t30x/exploit-dev-cheat-sheet | 0 | 0| 
 | 20231003T12:00:09Z | Null | https://github.com/Yukjed/VisualExploit | 0 | 0| 
 | 20231003T11:44:51Z | Uses a Exploit found by @Willy-JL and @ECTO-1A to crash IOS17 devices over bluetooth. | https://github.com/RapierXbox/ESP32-Sour-Apple | 2 | 0| 
