@@ -62,8 +62,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231003T12:06:29Z | Kubernetes Attack Graph | https://github.com/DataDog/KubeHound | 105 | 4| 
+| 20231003T12:06:25Z | Full credit to @ovid. Hosting here for personal use. | https://github.com/d3ndr1t30x/exploit-dev-cheat-sheet | 0 | 0| 
 | 20231003T12:00:09Z | Null | https://github.com/Yukjed/VisualExploit | 0 | 0| 
-| 20231003T11:59:32Z | Kubernetes Attack Graph | https://github.com/DataDog/KubeHound | 104 | 4| 
 | 20231003T11:44:51Z | Uses a Exploit found by @Willy-JL and @ECTO-1A to crash IOS17 devices over bluetooth. | https://github.com/RapierXbox/ESP32-Sour-Apple | 2 | 0| 
 | 20231003T10:45:47Z | Null | https://github.com/yazan225/exploit.exe | 0 | 0| 
 | 20231003T10:39:51Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5372 | 691| 
@@ -71,7 +72,6 @@
 | 20231003T00:59:20Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0005-0002-app-I132h-exploit-present | 0 | 0| 
 | 20231003T00:31:36Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWhe | 1 | 0| 
 | 20231003T00:30:35Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANhe | 1 | 0| 
-| 20231003T00:29:08Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANhe | 1 | 0| 
 
 
 # backdoor on Github 推荐
