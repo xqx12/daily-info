@@ -53,6 +53,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231003T00:29:08Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANhe | 1 | 0| 
 | 20231003T00:28:27Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANhe | 1 | 0| 
 | 20231002T22:55:17Z | Null | https://github.com/codeb0ss/galaxy-exploitdb | 0 | 0| 
 | 20231002T21:49:03Z | Ronin is a Free and Open Source Ruby Toolkit for Security Research and Development. Ronin also allows for the rapid development and distribution of code, exploits, payloads, etc, via 3rd party git repositories. | https://github.com/ronin-rb/ronin | 574 | 50| 
@@ -62,7 +63,6 @@
 | 20231002T19:51:59Z | Statically Enforce Privacy and Security Policies on Rust code using dataflow analysis enhanced by exploiting ownership types. You can signup for our official release at the link below | https://github.com/brownsys/paralegal | 3 | 0| 
 | 20231002T12:51:29Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-springboot-4z07g-exploit-serve | 0 | 0| 
 | 20231002T12:42:33Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-three-scenarios-LRgZx-exploit-talk | 0 | 0| 
-| 20231002T12:21:16Z | Not only logs rbx cookies but cookies for every website and discord token | https://github.com/Dannicrufti/Image-Logger-Everything | 0 | 0| 
 
 
 # backdoor on Github 推荐
