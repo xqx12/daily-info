@@ -41,7 +41,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231003T10:07:14Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13936 | 424| 
+| 20231003T12:41:31Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13937 | 424| 
 | 20231003T07:00:41Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 30 | 2| 
 | 20231003T03:41:12Z | Null | https://github.com/KleeKitz/kleekitz.github.io | 0 | 0| 
 | 20231003T01:58:27Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 42 | 0| 
@@ -77,6 +77,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231003T12:42:46Z | Null | https://github.com/listentomi/RL-backdoor-detection | 0 | 0| 
 | 20231003T12:06:13Z | Null | https://github.com/ramos13935/TestBackdoorCHTB | 0 | 0| 
 | 20231003T10:56:55Z | Towards Stable Backdoor Purification through Feature Shift Tuning (NeurIPS 2023) | https://github.com/AISafety-HKUST/stable_backdoor_purification | 4 | 0| 
 | 20231003T09:24:52Z | An Opensource Windows Antivirus Tool to detect ransomware , viruses  , backdoors , payloads and  completely removes it from system  | https://github.com/Whitecat18/Mavoc-Antivirus | 3 | 2| 
@@ -86,7 +87,6 @@
 | 20231001T16:16:27Z | Ethical hacking project featuring a Python backdoor for system access. Activates a remote server to retrieve host contents securely. | https://github.com/shri-the-tree/Basic-Backdoor-Breacher | 0 | 0| 
 | 20231001T12:43:08Z | This repository contains my Trustworthy AI projects around fairness, explainability, backdoor-attack and robustness. | https://github.com/farzaneh-hatami/Trustworthy-AI | 0 | 0| 
 | 20231001T08:16:20Z | A Discord Bot for Backdoors and Breaches. Pre-Alpha State Is Not Fully Functional | https://github.com/simeononsecurity/discord-backdoors-and-breaches | 6 | 2| 
-| 20231001T03:20:24Z | Introducing backdoors in neural networks through parameter-level manipulation. | https://github.com/ElianBelot/handcrafted-backdoors | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
