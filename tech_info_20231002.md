@@ -94,11 +94,11 @@
 | 20231002T21:36:34Z | Code Quiz | https://github.com/GoodK-G/fuzzy-octo-barnacle | 0 | 0| 
 | 20231002T20:42:37Z | Design pattern Cos, bridge, and adapter | https://github.com/ivananassar/fuzzy-doodle | 0 | 0| 
 | 20231002T20:42:24Z | Fuzztastic | https://github.com/yrezehi/Fuzztastic | 0 | 0| 
+| 20231002T19:56:31Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 408 | 54| 
 | 20231002T14:38:57Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5096 | 543| 
 | 20231002T12:42:33Z | Null | https://github.com/hbbalamsyah/Crime-Area-Clustering-Using-Kmeans-and-FuzzyCmeans | 0 | 0| 
 | 20231002T12:39:42Z | Car Scrapping script for QBcore | https://github.com/Fuzziegoon/fuzz-scrapyard | 0 | 0| 
 | 20231002T12:38:14Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9059 | 2007| 
-| 20231002T11:42:24Z | it is a fuzzy lamp? | https://github.com/kernelmonents/fuzzy-lamp | 0 | 0| 
 
 
 
