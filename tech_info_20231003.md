@@ -36,6 +36,10 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231003T10:07:14Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13936 | 424| 
+| 20231003T07:00:41Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 30 | 2| 
+| 20231003T03:41:12Z | Null | https://github.com/KleeKitz/kleekitz.github.io | 0 | 0| 
+| 20231003T01:58:27Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 42 | 0| 
 
 
 # s2e on Github 推荐
@@ -46,12 +50,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231003T12:00:09Z | Null | https://github.com/Yukjed/VisualExploit | 0 | 0| 
+| 20231003T11:59:32Z | Kubernetes Attack Graph | https://github.com/DataDog/KubeHound | 104 | 4| 
+| 20231003T11:44:51Z | Uses a Exploit found by @Willy-JL and @ECTO-1A to crash IOS17 devices over bluetooth. | https://github.com/RapierXbox/ESP32-Sour-Apple | 2 | 0| 
+| 20231003T10:45:47Z | Null | https://github.com/yazan225/exploit.exe | 0 | 0| 
+| 20231003T10:39:51Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5372 | 691| 
 | 20231003T01:32:38Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0075-0042-app-9P8OB-telephone-exploit | 0 | 0| 
 | 20231003T00:59:20Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0005-0002-app-I132h-exploit-present | 0 | 0| 
 | 20231003T00:31:36Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWhe | 1 | 0| 
 | 20231003T00:30:35Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANhe | 1 | 0| 
 | 20231003T00:29:08Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANhe | 1 | 0| 
-| 20231003T00:28:27Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANhe | 1 | 0| 
 
 
 # backdoor on Github 推荐

@@ -41,10 +41,13 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231003T10:07:14Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13936 | 424| 
+| 20231003T07:00:41Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 30 | 2| 
+| 20231003T03:41:12Z | Null | https://github.com/KleeKitz/kleekitz.github.io | 0 | 0| 
+| 20231003T01:58:27Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 42 | 0| 
 | 20231002T23:23:53Z | SD card mounted on kleemann Lift Floor indicator display%s Control Circuitry | https://github.com/RobinNakamoto/Kleemann-KMDisp | 0 | 0| 
 | 20231002T21:03:39Z | Null | https://github.com/ovcharov2v/kleewish | 0 | 0| 
 | 20231002T15:06:07Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 361 | 7| 
-| 20231002T13:01:52Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13934 | 424| 
 | 20231002T12:08:18Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2323 | 636| 
 | 20231002T07:20:00Z | 本字体基于Klee one字体及其衍生的霞鹜文楷系列字体进行改做，基于文楷TC修改的字体 | https://github.com/Steve-Yuu/YshiShuti | 15 | 0| 
 | 20231001T12:53:56Z | Kleek - An Android App for Creating KakaoTalk Bots using Xposed API | https://github.com/naijun0403/kleek | 5 | 2| 
@@ -59,16 +62,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231003T12:00:09Z | Null | https://github.com/Yukjed/VisualExploit | 0 | 0| 
+| 20231003T11:59:32Z | Kubernetes Attack Graph | https://github.com/DataDog/KubeHound | 104 | 4| 
+| 20231003T11:44:51Z | Uses a Exploit found by @Willy-JL and @ECTO-1A to crash IOS17 devices over bluetooth. | https://github.com/RapierXbox/ESP32-Sour-Apple | 2 | 0| 
+| 20231003T10:45:47Z | Null | https://github.com/yazan225/exploit.exe | 0 | 0| 
+| 20231003T10:39:51Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5372 | 691| 
 | 20231003T01:32:38Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0075-0042-app-9P8OB-telephone-exploit | 0 | 0| 
 | 20231003T00:59:20Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0005-0002-app-I132h-exploit-present | 0 | 0| 
 | 20231003T00:31:36Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWhe | 1 | 0| 
 | 20231003T00:30:35Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANhe | 1 | 0| 
 | 20231003T00:29:08Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANhe | 1 | 0| 
-| 20231003T00:28:27Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANhe | 1 | 0| 
-| 20231002T22:55:17Z | Null | https://github.com/codeb0ss/galaxy-exploitdb | 0 | 0| 
-| 20231002T21:49:03Z | Ronin is a Free and Open Source Ruby Toolkit for Security Research and Development. Ronin also allows for the rapid development and distribution of code, exploits, payloads, etc, via 3rd party git repositories. | https://github.com/ronin-rb/ronin | 574 | 50| 
-| 20231002T21:24:12Z | A simple 2-layer neural network for digit recognition using the MNIST data set coded just using basic Linear Algebra exploiting Gradient Descent formulas. | https://github.com/Lounes78/Digit-Recognition-model-without-using-TensorFlow | 0 | 0| 
-| 20231002T20:38:14Z | Null | https://github.com/ErikLearningSec/Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
