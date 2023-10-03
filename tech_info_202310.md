@@ -53,6 +53,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231003T01:32:38Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0075-0042-app-9P8OB-telephone-exploit | 0 | 0| 
 | 20231003T00:59:20Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0005-0002-app-I132h-exploit-present | 0 | 0| 
 | 20231003T00:31:36Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWhe | 1 | 0| 
 | 20231003T00:30:35Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANhe | 1 | 0| 
@@ -62,7 +63,6 @@
 | 20231002T21:49:03Z | Ronin is a Free and Open Source Ruby Toolkit for Security Research and Development. Ronin also allows for the rapid development and distribution of code, exploits, payloads, etc, via 3rd party git repositories. | https://github.com/ronin-rb/ronin | 574 | 50| 
 | 20231002T21:24:12Z | A simple 2-layer neural network for digit recognition using the MNIST data set coded just using basic Linear Algebra exploiting Gradient Descent formulas. | https://github.com/Lounes78/Digit-Recognition-model-without-using-TensorFlow | 0 | 0| 
 | 20231002T20:38:14Z | Null | https://github.com/ErikLearningSec/Exploits | 0 | 0| 
-| 20231002T20:20:44Z | Your Can Down All WordPress Site With CRON_EXPLOIT!  Working On All WordPress Version! | https://github.com/mr-r0ot/WordPress_CRON_Exploit__DownSite | 1 | 0| 
 
 
 # backdoor on Github 推荐
