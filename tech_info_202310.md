@@ -96,6 +96,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231003T00:01:49Z | Fuzzy Logic Mamdani di gunkan untuk mengbil keputusan durasi penyiraman. menggunan input suhu udara, kelembapan udara, dan kelebapan tanah. | https://github.com/A-Sutisna/Fuzzy-Mamdani-Penyiraman-Otomatis | 0 | 0| 
 | 20231002T22:52:57Z | Null | https://github.com/google/fuzztest | 415 | 29| 
 | 20231002T21:49:03Z | F+: Fuzzing plus Large Language Models for Automated Software Testing and Repair | https://github.com/ZhuTaohong/Fplus | 0 | 0| 
 | 20231002T21:36:34Z | Code Quiz | https://github.com/GoodK-G/fuzzy-octo-barnacle | 0 | 0| 
@@ -105,7 +106,6 @@
 | 20231002T12:42:33Z | Null | https://github.com/hbbalamsyah/Crime-Area-Clustering-Using-Kmeans-and-FuzzyCmeans | 0 | 0| 
 | 20231002T12:39:42Z | Car Scrapping script for QBcore | https://github.com/Fuzziegoon/fuzz-scrapyard | 0 | 0| 
 | 20231002T12:38:14Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9059 | 2007| 
-| 20231002T11:42:24Z | it is a fuzzy lamp? | https://github.com/kernelmonents/fuzzy-lamp | 0 | 0| 
 
 
 
