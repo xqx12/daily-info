@@ -62,6 +62,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231003T12:36:09Z | A Python-based tool to create zip, tar and cpio archives to exploit common archive library issues and developer mistakes | https://github.com/pentagridsec/archive_pwn | 0 | 0| 
 | 20231003T12:19:11Z | Kubernetes Attack Graph | https://github.com/DataDog/KubeHound | 106 | 4| 
 | 20231003T12:06:25Z | Full credit to @ovid. Hosting here for personal use. | https://github.com/d3ndr1t30x/exploit-dev-cheat-sheet | 0 | 0| 
 | 20231003T12:00:09Z | Null | https://github.com/Yukjed/VisualExploit | 0 | 0| 
@@ -71,7 +72,6 @@
 | 20231003T01:32:38Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0075-0042-app-9P8OB-telephone-exploit | 0 | 0| 
 | 20231003T00:59:20Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0005-0002-app-I132h-exploit-present | 0 | 0| 
 | 20231003T00:31:36Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWhe | 1 | 0| 
-| 20231003T00:30:35Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANhe | 1 | 0| 
 
 
 # backdoor on Github 推荐
