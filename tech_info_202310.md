@@ -77,7 +77,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231003T12:00:47Z | Null | https://github.com/ramos13935/TestBackdoorCHTB | 0 | 0| 
+| 20231003T12:06:13Z | Null | https://github.com/ramos13935/TestBackdoorCHTB | 0 | 0| 
 | 20231003T10:56:55Z | Towards Stable Backdoor Purification through Feature Shift Tuning (NeurIPS 2023) | https://github.com/AISafety-HKUST/stable_backdoor_purification | 4 | 0| 
 | 20231003T09:24:52Z | An Opensource Windows Antivirus Tool to detect ransomware , viruses  , backdoors , payloads and  completely removes it from system  | https://github.com/Whitecat18/Mavoc-Antivirus | 3 | 2| 
 | 20231002T19:50:13Z | Backdoor реализованный через телеграм бота | https://github.com/Rub1dium/Python-BackDoor-Telebot | 1 | 0| 
