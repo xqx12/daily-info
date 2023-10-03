@@ -96,7 +96,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231003T00:01:49Z | Fuzzy Logic Mamdani di gunkan untuk mengbil keputusan durasi penyiraman. menggunan input suhu udara, kelembapan udara, dan kelebapan tanah. | https://github.com/A-Sutisna/Fuzzy-Mamdani-Penyiraman-Otomatis | 0 | 0| 
+| 20231003T00:07:03Z | Fuzzy Logic Mamdani di gunkan untuk mengbil keputusan durasi penyiraman. menggunan input suhu udara, kelembapan udara, dan kelebapan tanah. | https://github.com/A-Sutisna/Fuzzy-Mamdani-Penyiraman-Otomatis | 0 | 0| 
 | 20231002T22:52:57Z | Null | https://github.com/google/fuzztest | 415 | 29| 
 | 20231002T21:49:03Z | F+: Fuzzing plus Large Language Models for Automated Software Testing and Repair | https://github.com/ZhuTaohong/Fplus | 0 | 0| 
 | 20231002T21:36:34Z | Code Quiz | https://github.com/GoodK-G/fuzzy-octo-barnacle | 0 | 0| 
