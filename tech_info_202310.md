@@ -53,6 +53,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231003T00:31:36Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWhe | 1 | 0| 
+| 20231003T00:30:35Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANhe | 1 | 0| 
 | 20231003T00:29:08Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANhe | 1 | 0| 
 | 20231003T00:28:27Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANhe | 1 | 0| 
 | 20231002T22:55:17Z | Null | https://github.com/codeb0ss/galaxy-exploitdb | 0 | 0| 
@@ -61,8 +63,6 @@
 | 20231002T20:38:14Z | Null | https://github.com/ErikLearningSec/Exploits | 0 | 0| 
 | 20231002T20:20:44Z | Your Can Down All WordPress Site With CRON_EXPLOIT!  Working On All WordPress Version! | https://github.com/mr-r0ot/WordPress_CRON_Exploit__DownSite | 1 | 0| 
 | 20231002T19:51:59Z | Statically Enforce Privacy and Security Policies on Rust code using dataflow analysis enhanced by exploiting ownership types. You can signup for our official release at the link below | https://github.com/brownsys/paralegal | 3 | 0| 
-| 20231002T12:51:29Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-springboot-4z07g-exploit-serve | 0 | 0| 
-| 20231002T12:42:33Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-three-scenarios-LRgZx-exploit-talk | 0 | 0| 
 
 
 # backdoor on Github 推荐

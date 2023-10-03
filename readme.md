@@ -58,10 +58,10 @@
 | 20231002T20:38:14Z | Null | https://github.com/ErikLearningSec/Exploits | 0 | 0| 
 | 20231002T20:20:44Z | Your Can Down All WordPress Site With CRON_EXPLOIT!  Working On All WordPress Version! | https://github.com/mr-r0ot/WordPress_CRON_Exploit__DownSite | 1 | 0| 
 | 20231002T19:51:59Z | Statically Enforce Privacy and Security Policies on Rust code using dataflow analysis enhanced by exploiting ownership types. You can signup for our official release at the link below | https://github.com/brownsys/paralegal | 3 | 0| 
+| 20231002T17:38:47Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5389 | 1053| 
 | 20231002T12:51:29Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-springboot-4z07g-exploit-serve | 0 | 0| 
 | 20231002T12:42:33Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-three-scenarios-LRgZx-exploit-talk | 0 | 0| 
 | 20231002T12:21:16Z | Not only logs rbx cookies but cookies for every website and discord token | https://github.com/Dannicrufti/Image-Logger-Everything | 0 | 0| 
-| 20231002T12:08:39Z | Here you will find Roblox Exploits Created By King Exploit On Youtube | https://github.com/KingImanSlayer05/Roblox-Exploits | 1 | 0| 
 
 
 # backdoor on Github 推荐
