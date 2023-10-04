@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231004T01:12:10Z | CVE-2023-33831 | CVE-2023-33831 - FUXA < Unauthenticated Remote Code Execution [RCE] | https://github.com/codeb0ss/CVE-2023-33831-PoC | | 
+| 20231004T01:12:39Z | CVE-2023-33831 | CVE-2023-33831 - FUXA < Unauthenticated Remote Code Execution [RCE] | https://github.com/codeb0ss/CVE-2023-33831-PoC | | 
 | 20231003T22:23:58Z | CVE-2023-43261 | CVE-2023-43261 - Credential Leakage Through Unprotected System Logs and Weak Password Encryption | https://github.com/win3zz/CVE-2023-43261 | | 
 | 20231003T21:56:54Z | CVE-2023-29357 | Null | https://github.com/LuemmelSec/CVE-2023-29357 | | 
 | 20231003T17:17:11Z | CVE-2023-43770 | A Proof-Of-Concept for the CVE-2023-43770 vulnerability.  | https://github.com/s3cb0y/CVE-2023-43770-POC | | 
