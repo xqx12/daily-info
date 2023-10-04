@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231004T11:58:58Z | CVE-2023-4911 | https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt | https://github.com/Green-Avocado/CVE-2023-4911-PoC | | 
+| 20231004T12:01:04Z | CVE-2023-4911 | https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt | https://github.com/Green-Avocado/CVE-2023-4911-PoC | | 
 | 20231004T08:33:06Z | CVE-2023-21282 | Null | https://github.com/Trinadh465/external_aac_AOSP10_r33_CVE-2023-21282 | | 
 | 20231004T06:48:34Z | CVE-2023-21288 | Null | https://github.com/Trinadh465/platform_frameworks_base_CVE-2023-21288 | | 
 | 20231004T01:34:47Z | CVE-2023-25573 | CVE-2023-25573 - Metersphere < Arbitrary File Read | https://github.com/codeb0ss/CVE-2023-25573-PoC | | 
