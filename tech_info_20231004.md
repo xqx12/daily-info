@@ -42,10 +42,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231004T12:23:46Z | Uses a Exploit found by @Willy-JL and @ECTO-1A to crash IOS17 devices over bluetooth. | https://github.com/RapierXbox/ESP32-Sour-Apple | 13 | 2| 
 | 20231004T11:57:53Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-nodejs-DYB-T-exploit-go | 0 | 0| 
 | 20231004T11:57:11Z | Rex provides a variety of classes useful for security testing and exploit development. | https://github.com/rapid7/rex | 49 | 25| 
 | 20231004T11:53:13Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-ZFl43-read-exploit | 0 | 0| 
-| 20231004T11:10:54Z | Uses a Exploit found by @Willy-JL and @ECTO-1A to crash IOS17 devices over bluetooth. | https://github.com/RapierXbox/ESP32-Sour-Apple | 11 | 2| 
 | 20231004T10:26:25Z | Convertisseur des log pour exploitation graphique | https://github.com/kroogy/Waterkotte_EasyCon_log_view | 0 | 0| 
 | 20231004T10:14:07Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5375 | 692| 
 | 20231004T08:53:34Z | A tool for generating Cross-Site Request Forgery (CSRF) exploit HTML for security testing | https://github.com/haqqibrahim/Project-Forgery | 0 | 0| 
