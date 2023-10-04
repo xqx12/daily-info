@@ -60,7 +60,7 @@
 | 20231003T19:49:36Z | Data Parallel framework for Hyperdimensional Computing (DPHDC) is developed with the aim of efficiently and robustly running classification tasks based on HDC across devices of different architectures while fully exploiting their processing capabilities. It uses C++ programming language and the cross-platform SYCL abstraction layer (2020) | https://github.com/PedroSAndre/DPHDC | 0 | 0| 
 | 20231003T19:23:18Z | bishbash is retarded pveer | https://github.com/PveTeam/ExploitFixer-dump | 0 | 0| 
 | 20231003T18:56:00Z | An implementation of some SQL exploits and command execution for the Web for Pentesters server ISO image.   | https://github.com/jctassin/webpentestsql | 0 | 0| 
-| 20231003T13:13:55Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5885 | 507| 
+| 20231003T13:49:49Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5389 | 1053| 
 
 
 # backdoor on Github 推荐
