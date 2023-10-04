@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231004T01:34:47Z | CVE-2023-25573 | CVE-2023-25573 - Metersphere < Arbitrary File Read | https://github.com/codeb0ss/CVE-2023-25573-PoC | | 
 | 20231004T01:16:12Z | CVE-2023-33831 | CVE-2023-33831 - FUXA < Unauthenticated Remote Code Execution [RCE] | https://github.com/codeb0ss/CVE-2023-33831-PoC | | 
 | 20231003T22:23:58Z | CVE-2023-43261 | CVE-2023-43261 - Credential Leakage Through Unprotected System Logs and Weak Password Encryption | https://github.com/win3zz/CVE-2023-43261 | | 
 | 20231003T21:56:54Z | CVE-2023-29357 | Null | https://github.com/LuemmelSec/CVE-2023-29357 | | 
@@ -35,13 +36,12 @@
 | 20231003T13:23:53Z | CVE-2022-24716 | CVE-2022-24716 , Arbitrary File Disclosure Icingaweb2 | https://github.com/joaoviictorti/CVE-2022-24716 | | 
 | 20231003T11:59:03Z | CVE-2023-20918 | Null | https://github.com/Trinadh465/platform_frameworks_base_CVE-2023-20918 | | 
 | 20231003T11:29:10Z | CVE-2023-20918 | Null | https://github.com/pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-20918 | | 
-| 20231003T11:06:54Z | CVE-2023-21286 | Null | https://github.com/Trinadh465/platform_frameworks_base_CVE-2023-21286 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231004T00:48:39Z | Null | https://github.com/KleeKitz/kleekitz.github.io | 0 | 0| 
+| 20231004T01:35:14Z | Null | https://github.com/KleeKitz/kleekitz.github.io | 0 | 0| 
 | 20231003T19:38:46Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13940 | 423| 
 | 20231003T07:00:41Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 30 | 2| 
 | 20231003T01:58:27Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 42 | 0| 
