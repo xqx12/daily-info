@@ -48,10 +48,10 @@
 | 20231004T11:10:54Z | Uses a Exploit found by @Willy-JL and @ECTO-1A to crash IOS17 devices over bluetooth. | https://github.com/RapierXbox/ESP32-Sour-Apple | 11 | 2| 
 | 20231004T10:26:25Z | Convertisseur des log pour exploitation graphique | https://github.com/kroogy/Waterkotte_EasyCon_log_view | 0 | 0| 
 | 20231004T10:14:07Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5375 | 692| 
+| 20231004T08:53:34Z | A tool for generating Cross-Site Request Forgery (CSRF) exploit HTML for security testing | https://github.com/haqqibrahim/Project-Forgery | 0 | 0| 
 | 20231004T06:34:42Z | bishbash is retarded pveer | https://github.com/PveTeam/ExploitFixer-dump | 1 | 0| 
 | 20231004T06:32:51Z | Tool to create payload for exploiting zipslip vulnerability | https://github.com/sickuritywizard/zipslip-007 | 1 | 0| 
 | 20231004T01:20:02Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0050-0017-app-IRIeb-exploit-hurt | 0 | 0| 
-| 20231004T01:16:26Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-b7a1f83d-02da-4513-bb7d-f0afa1d107ef-BsFOW-exploit-excuse | 0 | 0| 
 
 
 # backdoor on Github 推荐
