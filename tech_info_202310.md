@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231004T12:55:34Z | Creating a file in HTML and Javascript that exploits the %Cross Site Request Forgery (CSRF)% vulnerability. | https://github.com/xBMCode/CsrfPoc | 0 | 0| 
 | 20231004T12:27:43Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5374 | 692| 
 | 20231004T12:23:46Z | Uses a Exploit found by @Willy-JL and @ECTO-1A to crash IOS17 devices over bluetooth. | https://github.com/RapierXbox/ESP32-Sour-Apple | 13 | 2| 
 | 20231004T11:57:53Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-nodejs-DYB-T-exploit-go | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20231004T08:53:34Z | A tool for generating Cross-Site Request Forgery (CSRF) exploit HTML for security testing | https://github.com/haqqibrahim/Project-Forgery | 0 | 0| 
 | 20231004T06:34:42Z | bishbash is retarded pveer | https://github.com/PveTeam/ExploitFixer-dump | 1 | 0| 
 | 20231004T06:32:51Z | Tool to create payload for exploiting zipslip vulnerability | https://github.com/sickuritywizard/zipslip-007 | 1 | 0| 
-| 20231004T01:20:02Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0050-0017-app-IRIeb-exploit-hurt | 0 | 0| 
 
 
 # backdoor on Github 推荐
