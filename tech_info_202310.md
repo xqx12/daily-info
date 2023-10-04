@@ -62,6 +62,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231004T00:55:30Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0005-0003-app-CsZHI-interpret-exploit | 0 | 0| 
+| 20231004T00:53:32Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-f270e0ed-9816-41ad-8036-43b982251892-jSYiQ-open-exploit | 0 | 0| 
 | 20231004T00:37:00Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-3792b811-3681-4c03-9e5a-ae672fe2226c-cWvxJ-exploit-predict | 0 | 0| 
 | 20231004T00:06:40Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWaf | 1 | 0| 
 | 20231004T00:05:53Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANaf | 1 | 0| 
@@ -70,8 +72,6 @@
 | 20231003T23:55:08Z | Windows Exploit Protection Settings (Ultimate) | https://github.com/neohiro/exploitprotection | 1 | 0| 
 | 20231003T23:41:49Z | Kubernetes Attack Graph | https://github.com/DataDog/KubeHound | 140 | 7| 
 | 20231003T23:40:23Z | LOAM: Exploiting Polygon Metadata to Understand Raster Maps - Accurate Polygonal Feature Extraction | https://github.com/Fandel-Lin/LOAM | 0 | 0| 
-| 20231003T23:15:38Z | Code examples from the book Hacking: The Art of Exploitation by Jon Erickson | https://github.com/jajbuchanan/hackingTheArtOfExploitation | 0 | 0| 
-| 20231003T22:43:14Z | Uses a Exploit found by @Willy-JL and @ECTO-1A to crash IOS17 devices over bluetooth. | https://github.com/RapierXbox/ESP32-Sour-Apple | 5 | 1| 
 
 
 # backdoor on Github 推荐
