@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231004T01:12:39Z | CVE-2023-33831 | CVE-2023-33831 - FUXA < Unauthenticated Remote Code Execution [RCE] | https://github.com/codeb0ss/CVE-2023-33831-PoC | | 
+| 20231004T01:16:12Z | CVE-2023-33831 | CVE-2023-33831 - FUXA < Unauthenticated Remote Code Execution [RCE] | https://github.com/codeb0ss/CVE-2023-33831-PoC | | 
 | 20231003T22:23:58Z | CVE-2023-43261 | CVE-2023-43261 - Credential Leakage Through Unprotected System Logs and Weak Password Encryption | https://github.com/win3zz/CVE-2023-43261 | | 
 | 20231003T21:56:54Z | CVE-2023-29357 | Null | https://github.com/LuemmelSec/CVE-2023-29357 | | 
 | 20231003T17:17:11Z | CVE-2023-43770 | A Proof-Of-Concept for the CVE-2023-43770 vulnerability.  | https://github.com/s3cb0y/CVE-2023-43770-POC | | 
@@ -62,6 +62,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231004T01:16:26Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-b7a1f83d-02da-4513-bb7d-f0afa1d107ef-BsFOW-exploit-excuse | 0 | 0| 
 | 20231004T01:09:41Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-ad05339d-2218-47ad-aabe-ba033ca7f2a1-1htcp-meet-exploit | 0 | 0| 
 | 20231004T01:09:38Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0025-0003-app-OSeFl-exploit-engage | 0 | 0| 
 | 20231004T00:55:30Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0005-0003-app-CsZHI-interpret-exploit | 0 | 0| 
@@ -71,7 +72,6 @@
 | 20231004T00:05:53Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANaf | 1 | 0| 
 | 20231004T00:04:51Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANaf | 1 | 0| 
 | 20231004T00:03:40Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANaf | 1 | 0| 
-| 20231003T23:55:08Z | Windows Exploit Protection Settings (Ultimate) | https://github.com/neohiro/exploitprotection | 1 | 0| 
 
 
 # backdoor on Github 推荐
