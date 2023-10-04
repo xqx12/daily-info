@@ -62,6 +62,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231004T01:20:02Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0050-0017-app-IRIeb-exploit-hurt | 0 | 0| 
 | 20231004T01:16:26Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-b7a1f83d-02da-4513-bb7d-f0afa1d107ef-BsFOW-exploit-excuse | 0 | 0| 
 | 20231004T01:09:41Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-ad05339d-2218-47ad-aabe-ba033ca7f2a1-1htcp-meet-exploit | 0 | 0| 
 | 20231004T01:09:38Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0025-0003-app-OSeFl-exploit-engage | 0 | 0| 
@@ -71,7 +72,6 @@
 | 20231004T00:06:40Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWaf | 1 | 0| 
 | 20231004T00:05:53Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANaf | 1 | 0| 
 | 20231004T00:04:51Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANaf | 1 | 0| 
-| 20231004T00:03:40Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANaf | 1 | 0| 
 
 
 # backdoor on Github 推荐
