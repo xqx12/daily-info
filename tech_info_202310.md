@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231004T01:12:10Z | CVE-2023-33831 | CVE-2023-33831 - FUXA < Unauthenticated Remote Code Execution [RCE] | https://github.com/codeb0ss/CVE-2023-33831-PoC | | 
 | 20231003T22:23:58Z | CVE-2023-43261 | CVE-2023-43261 - Credential Leakage Through Unprotected System Logs and Weak Password Encryption | https://github.com/win3zz/CVE-2023-43261 | | 
 | 20231003T21:56:54Z | CVE-2023-29357 | Null | https://github.com/LuemmelSec/CVE-2023-29357 | | 
 | 20231003T17:17:11Z | CVE-2023-43770 | A Proof-Of-Concept for the CVE-2023-43770 vulnerability.  | https://github.com/s3cb0y/CVE-2023-43770-POC | | 
@@ -35,7 +36,6 @@
 | 20231003T11:59:03Z | CVE-2023-20918 | Null | https://github.com/Trinadh465/platform_frameworks_base_CVE-2023-20918 | | 
 | 20231003T11:29:10Z | CVE-2023-20918 | Null | https://github.com/pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-20918 | | 
 | 20231003T11:06:54Z | CVE-2023-21286 | Null | https://github.com/Trinadh465/platform_frameworks_base_CVE-2023-21286 | | 
-| 20231003T10:32:15Z | CVE-2023-21281 | Null | https://github.com/Trinadh465/platform_frameworks_base_CVE-2023-21281 | | 
 
 
 # klee on Github 推荐
@@ -62,6 +62,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231004T01:09:41Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-ad05339d-2218-47ad-aabe-ba033ca7f2a1-1htcp-meet-exploit | 0 | 0| 
+| 20231004T01:09:38Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0025-0003-app-OSeFl-exploit-engage | 0 | 0| 
 | 20231004T00:55:30Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0005-0003-app-CsZHI-interpret-exploit | 0 | 0| 
 | 20231004T00:53:32Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-f270e0ed-9816-41ad-8036-43b982251892-jSYiQ-open-exploit | 0 | 0| 
 | 20231004T00:37:00Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-3792b811-3681-4c03-9e5a-ae672fe2226c-cWvxJ-exploit-predict | 0 | 0| 
@@ -70,8 +72,6 @@
 | 20231004T00:04:51Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANaf | 1 | 0| 
 | 20231004T00:03:40Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANaf | 1 | 0| 
 | 20231003T23:55:08Z | Windows Exploit Protection Settings (Ultimate) | https://github.com/neohiro/exploitprotection | 1 | 0| 
-| 20231003T23:41:49Z | Kubernetes Attack Graph | https://github.com/DataDog/KubeHound | 140 | 7| 
-| 20231003T23:40:23Z | LOAM: Exploiting Polygon Metadata to Understand Raster Maps - Accurate Polygonal Feature Extraction | https://github.com/Fandel-Lin/LOAM | 0 | 0| 
 
 
 # backdoor on Github 推荐
