@@ -62,6 +62,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231004T00:04:43Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANaf | 0 | 0| 
+| 20231004T00:03:40Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANaf | 1 | 0| 
 | 20231003T23:55:08Z | Windows Exploit Protection Settings (Ultimate) | https://github.com/neohiro/exploitprotection | 1 | 0| 
 | 20231003T23:41:49Z | Kubernetes Attack Graph | https://github.com/DataDog/KubeHound | 140 | 7| 
 | 20231003T23:40:23Z | LOAM: Exploiting Polygon Metadata to Understand Raster Maps - Accurate Polygonal Feature Extraction | https://github.com/Fandel-Lin/LOAM | 0 | 0| 
@@ -70,8 +72,6 @@
 | 20231003T21:27:47Z | Null | https://github.com/robbiestewartdev/exploits | 0 | 0| 
 | 20231003T19:49:36Z | Data Parallel framework for Hyperdimensional Computing (DPHDC) is developed with the aim of efficiently and robustly running classification tasks based on HDC across devices of different architectures while fully exploiting their processing capabilities. It uses C++ programming language and the cross-platform SYCL abstraction layer (2020) | https://github.com/PedroSAndre/DPHDC | 0 | 0| 
 | 20231003T19:23:18Z | bishbash is retarded pveer | https://github.com/PveTeam/ExploitFixer-dump | 0 | 0| 
-| 20231003T18:56:00Z | An implementation of some SQL exploits and command execution for the Web for Pentesters server ISO image.   | https://github.com/jctassin/webpentestsql | 0 | 0| 
-| 20231003T13:13:55Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5885 | 507| 
 
 
 # backdoor on Github 推荐
