@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231005T01:33:10Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0075-0045-app-MueZj-should-exploit | 0 | 0| 
 | 20231005T01:29:50Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0050-0018-app-LSSXW-exploit-raise | 0 | 0| 
 | 20231005T01:12:42Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0025-0006-app--2DJX-comply-exploit | 0 | 0| 
 | 20231005T01:12:39Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0025-0015-app-aoAd8-exploit-wonder | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20231005T00:27:20Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANcr | 1 | 0| 
 | 20231005T00:26:29Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANcr | 1 | 0| 
 | 20231005T00:25:44Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANcr | 1 | 0| 
-| 20231004T23:12:01Z | A Solana arbitrage bot operating on various decentralized exchanges (DEXs) to exploit price differences. | https://github.com/gemhunterheh/solana-arbitrage-bot | 1 | 0| 
 
 
 # backdoor on Github 推荐
