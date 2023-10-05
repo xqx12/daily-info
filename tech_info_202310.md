@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231005T01:26:07Z | CVE-2023-4911 | PoC for CVE-2023-4911 | https://github.com/leesh3288/CVE-2023-4911 | | 
+| 20231005T01:29:10Z | CVE-2023-4911 | PoC for CVE-2023-4911 | https://github.com/leesh3288/CVE-2023-4911 | | 
 | 20231005T01:26:04Z | CVE-2023-4911 | CVE-2023-4911 proof of concept | https://github.com/RickdeJager/CVE-2023-4911 | | 
 | 20231005T01:11:46Z | CVE-2023-4911 | https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt | https://github.com/Green-Avocado/CVE-2023-4911 | | 
 | 20231005T00:32:53Z | CVE-2023-41105 | Example of CVE-2023-41105 | https://github.com/JawadPy/CVE-2023-41105 | | 
@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231005T01:29:50Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0050-0018-app-LSSXW-exploit-raise | 0 | 0| 
 | 20231005T01:12:42Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0025-0006-app--2DJX-comply-exploit | 0 | 0| 
 | 20231005T01:12:39Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0025-0015-app-aoAd8-exploit-wonder | 0 | 0| 
 | 20231005T01:00:09Z | Best BloxFlip Predictor which is updated (works currently at October 2023) which support many games like as: Cases, Upgrader, Crash, Mines, Towers | https://github.com/elannepyu/Roblox-BloxFlip-Predictor-Exploit-October-2023 | 1 | 0| 
@@ -72,7 +73,6 @@
 | 20231005T00:26:29Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANcr | 1 | 0| 
 | 20231005T00:25:44Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANcr | 1 | 0| 
 | 20231004T23:12:01Z | A Solana arbitrage bot operating on various decentralized exchanges (DEXs) to exploit price differences. | https://github.com/gemhunterheh/solana-arbitrage-bot | 1 | 0| 
-| 20231004T23:05:47Z | Windows Exploit Protection Settings (Ultimate) | https://github.com/neohiro/ExploitProtection | 2 | 0| 
 
 
 # backdoor on Github 推荐
