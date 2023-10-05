@@ -26,10 +26,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231005T00:59:57Z | CVE-2023-4911 | PoC for CVE-2023-4911 | https://github.com/leesh3288/CVE-2023-4911 | | 
+| 20231005T01:11:46Z | CVE-2023-4911 | https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt | https://github.com/Green-Avocado/CVE-2023-4911 | | 
+| 20231005T01:11:24Z | CVE-2023-4911 | PoC for CVE-2023-4911 | https://github.com/leesh3288/CVE-2023-4911 | | 
+| 20231005T01:10:32Z | CVE-2023-4911 | CVE-2023-4911 proof of concept | https://github.com/RickdeJager/CVE-2023-4911 | | 
 | 20231005T00:32:53Z | CVE-2023-41105 | Example of CVE-2023-41105 | https://github.com/JawadPy/CVE-2023-41105 | | 
-| 20231004T21:37:30Z | CVE-2023-4911 | https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt | https://github.com/Green-Avocado/CVE-2023-4911 | | 
-| 20231004T19:34:05Z | CVE-2023-4911 | CVE-2023-4911 proof of concept | https://github.com/RickdeJager/CVE-2023-4911 | | 
 | 20231004T16:29:03Z | CVE-2023-40044 | Analysis of WS_FTP CVE | https://github.com/kenbuckler/WS_FTP-CVE-2023-40044 | | 
 | 20231004T13:32:03Z | CVE-2023-43284 | DLink DIR-846 Authenticated Remote Code Execution | https://github.com/MateusTesser/CVE-2023-43284 | | 
 | 20231004T12:01:04Z | CVE-2023-4911 | https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt | https://github.com/Green-Avocado/CVE-2023-4911-PoC | | 
@@ -63,6 +63,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231005T01:12:42Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0025-0006-app--2DJX-comply-exploit | 0 | 0| 
+| 20231005T01:12:39Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0025-0015-app-aoAd8-exploit-wonder | 0 | 0| 
 | 20231005T01:00:09Z | Best BloxFlip Predictor which is updated (works currently at October 2023) which support many games like as: Cases, Upgrader, Crash, Mines, Towers | https://github.com/elannepyu/Roblox-BloxFlip-Predictor-Exploit-October-2023 | 1 | 0| 
 | 20231005T00:59:25Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0005-0003-app-CsZHI-exploit-vary | 0 | 0| 
 | 20231005T00:28:35Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWcr | 1 | 0| 
@@ -71,8 +73,6 @@
 | 20231005T00:25:44Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANcr | 1 | 0| 
 | 20231004T23:12:01Z | A Solana arbitrage bot operating on various decentralized exchanges (DEXs) to exploit price differences. | https://github.com/gemhunterheh/solana-arbitrage-bot | 1 | 0| 
 | 20231004T23:05:47Z | Windows Exploit Protection Settings (Ultimate) | https://github.com/neohiro/ExploitProtection | 2 | 0| 
-| 20231004T22:08:09Z | random pwnable solutions from various CTFs I have played | https://github.com/hegzploit/pwn-exploits | 0 | 0| 
-| 20231004T21:31:21Z | Null | https://github.com/0x90pkt/exploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
