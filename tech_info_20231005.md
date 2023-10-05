@@ -16,9 +16,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231005T12:46:06Z | CVE-2023-43284 | DLink DIR-846 Authenticated Remote Code Execution | https://github.com/MateusTesser/CVE-2023-43284 | | 
 | 20231005T12:40:51Z | CVE-2023-4911 | PoC for CVE-2023-4911 | https://github.com/leesh3288/CVE-2023-4911 | | 
 | 20231005T12:11:37Z | CVE-2023-4911 | CVE-2023-4911 proof of concept | https://github.com/RickdeJager/CVE-2023-4911 | | 
-| 20231005T12:11:22Z | CVE-2023-43284 | DLink DIR-846 Authenticated Remote Code Execution | https://github.com/MateusTesser/CVE-2023-43284 | | 
 | 20231005T10:32:25Z | CVE-2023-21275 | Null | https://github.com/Trinadh465/packages_apps_ManagedProvisioning_AOSP10_r33_CVE-2023-21275 | | 
 | 20231005T09:22:59Z | CVE-2023-21284 | Null | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21284 | | 
 | 20231005T08:22:24Z | CVE-2022-2414 | CVE-2022-2414 POC | https://github.com/strikersatya/CVE-2022-2414 | | 
@@ -45,11 +45,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231005T12:47:06Z | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | 59 | 16| 
 | 20231005T12:36:37Z | DarkCool ~ Exploiter Lookup Checker | https://github.com/DarkSkull777/DarkCool | 0 | 0| 
 | 20231005T11:29:10Z | Uses a Exploit found by @Willy-JL and @ECTO-1A to crash IOS17 devices over bluetooth. | https://github.com/RapierXbox/ESP32-Sour-Apple | 45 | 3| 
 | 20231005T10:43:16Z | Null | https://github.com/chris576/WebDevExploiter | 0 | 0| 
 | 20231005T10:13:10Z | Many different Roblox Exploita | https://github.com/peer-pri/Roblox-Exploits | 1 | 0| 
-| 20231005T10:03:49Z | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | 59 | 16| 
 | 20231005T09:38:56Z | WConsole Extractor is a python library which automatically exploits a Werkzeug development server in debug mode. You just have to write a python function that leaks a file content and you have your shell :) | https://github.com/Ruulian/wconsole-extractor | 0 | 0| 
 | 20231005T09:14:02Z | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | 10 | 2| 
 | 20231005T07:21:21Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5392 | 1053| 
