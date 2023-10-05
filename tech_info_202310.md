@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231005T00:11:48Z | CVE-2023-4911 | PoC for CVE-2023-4911 | https://github.com/leesh3288/CVE-2023-4911 | | 
+| 20231005T00:17:29Z | CVE-2023-4911 | PoC for CVE-2023-4911 | https://github.com/leesh3288/CVE-2023-4911 | | 
 | 20231004T21:37:30Z | CVE-2023-4911 | https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt | https://github.com/Green-Avocado/CVE-2023-4911 | | 
 | 20231004T19:34:05Z | CVE-2023-4911 | CVE-2023-4911 proof of concept | https://github.com/RickdeJager/CVE-2023-4911 | | 
 | 20231004T16:29:03Z | CVE-2023-40044 | Analysis of WS_FTP CVE | https://github.com/kenbuckler/WS_FTP-CVE-2023-40044 | | 
