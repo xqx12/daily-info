@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231005T00:28:35Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWcr | 1 | 0| 
 | 20231005T00:27:20Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANcr | 1 | 0| 
 | 20231005T00:26:29Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANcr | 1 | 0| 
 | 20231005T00:25:44Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANcr | 1 | 0| 
@@ -72,7 +73,6 @@
 | 20231004T21:31:21Z | Null | https://github.com/0x90pkt/exploitation | 0 | 0| 
 | 20231004T21:20:09Z | Null | https://github.com/wendell916/Word-press-Exploitation | 0 | 0| 
 | 20231004T20:51:07Z | Various techniques for exploiting Windows | https://github.com/billchaison/Windows-Trix | 9 | 1| 
-| 20231004T20:46:50Z | bin exploits and re stuff | https://github.com/kewmine/pwnpwnpwn | 0 | 0| 
 
 
 # backdoor on Github 推荐
