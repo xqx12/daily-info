@@ -66,13 +66,13 @@
 | 20231005T11:29:10Z | Uses a Exploit found by @Willy-JL and @ECTO-1A to crash IOS17 devices over bluetooth. | https://github.com/RapierXbox/ESP32-Sour-Apple | 45 | 3| 
 | 20231005T10:43:16Z | Null | https://github.com/chris576/WebDevExploiter | 0 | 0| 
 | 20231005T10:13:10Z | Many different Roblox Exploita | https://github.com/peer-pri/Roblox-Exploits | 1 | 0| 
+| 20231005T10:03:49Z | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | 59 | 16| 
 | 20231005T09:38:56Z | WConsole Extractor is a python library which automatically exploits a Werkzeug development server in debug mode. You just have to write a python function that leaks a file content and you have your shell :) | https://github.com/Ruulian/wconsole-extractor | 0 | 0| 
+| 20231005T09:14:02Z | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | 10 | 2| 
 | 20231005T07:02:02Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5895 | 509| 
 | 20231005T03:35:59Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5376 | 693| 
 | 20231005T01:48:10Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0073-app-3uNgL-clean-exploit | 0 | 0| 
 | 20231005T01:42:12Z | Block game exploit | https://github.com/hacks570/Custom | 0 | 0| 
-| 20231005T01:33:10Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0075-0045-app-MueZj-should-exploit | 0 | 0| 
-| 20231005T01:29:50Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0050-0018-app-LSSXW-exploit-raise | 0 | 0| 
 
 
 # backdoor on Github 推荐
