@@ -26,30 +26,30 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231005T01:56:48Z | CVE-2023-4911 | PoC for CVE-2023-4911 | https://github.com/leesh3288/CVE-2023-4911 | | 
-| 20231005T01:55:30Z | CVE-2023-24329 | Example of CVE-2023-24329  | https://github.com/JawadPy/CVE-2023-24329 | | 
-| 20231005T01:26:04Z | CVE-2023-4911 | CVE-2023-4911 proof of concept | https://github.com/RickdeJager/CVE-2023-4911 | | 
-| 20231005T01:11:46Z | CVE-2023-4911 | https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt | https://github.com/Green-Avocado/CVE-2023-4911 | | 
-| 20231005T00:32:53Z | CVE-2023-41105 | Example of CVE-2023-41105 | https://github.com/JawadPy/CVE-2023-41105 | | 
-| 20231004T16:29:03Z | CVE-2023-40044 | Analysis of WS_FTP CVE | https://github.com/kenbuckler/WS_FTP-CVE-2023-40044 | | 
-| 20231004T13:32:03Z | CVE-2023-43284 | DLink DIR-846 Authenticated Remote Code Execution | https://github.com/MateusTesser/CVE-2023-43284 | | 
-| 20231004T12:01:04Z | CVE-2023-4911 | https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt | https://github.com/Green-Avocado/CVE-2023-4911-PoC | | 
-| 20231004T08:33:06Z | CVE-2023-21282 | Null | https://github.com/Trinadh465/external_aac_AOSP10_r33_CVE-2023-21282 | | 
-| 20231004T06:48:34Z | CVE-2023-21288 | Null | https://github.com/Trinadh465/platform_frameworks_base_CVE-2023-21288 | | 
+| 20231005T11:57:14Z | CVE-2023-4911 | CVE-2023-4911 proof of concept | https://github.com/RickdeJager/CVE-2023-4911 | | 
+| 20231005T11:05:43Z | CVE-2023-4911 | PoC for CVE-2023-4911 | https://github.com/leesh3288/CVE-2023-4911 | | 
+| 20231005T10:32:25Z | CVE-2023-21275 | Null | https://github.com/Trinadh465/packages_apps_ManagedProvisioning_AOSP10_r33_CVE-2023-21275 | | 
+| 20231005T09:22:59Z | CVE-2023-21284 | Null | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21284 | | 
+| 20231005T08:22:24Z | CVE-2022-2414 | CVE-2022-2414 POC | https://github.com/strikersatya/CVE-2022-2414 | | 
+| 20231005T08:21:14Z | CVE-2023-21272 | Null | https://github.com/pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-21272 | | 
+| 20231005T07:46:27Z | CVE-2023-44961 | PoC for CVE-2023-44961 | https://github.com/ggb0n/CVE-2023-44961 | | 
+| 20231005T07:43:07Z | CVE-2023-44962 | PoC for CVE-2023-44962 | https://github.com/ggb0n/CVE-2023-44962 | | 
+| 20231005T07:37:59Z | CVE-2023-4911 | https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt | https://github.com/Green-Avocado/CVE-2023-4911 | | 
+| 20231005T07:15:36Z | CVE-2021-3060 | CVE-2021-3060 | https://github.com/anmolksachan/CVE-2021-3060 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231004T22:07:53Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2324 | 636| 
-| 20231004T20:40:32Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13949 | 423| 
+| 20231005T10:43:54Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13953 | 423| 
+| 20231005T08:02:46Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 44 | 0| 
+| 20231005T05:25:08Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2325 | 636| 
+| 20231005T03:28:56Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 362 | 7| 
 | 20231004T07:54:10Z | A concolic testing engine for RISC-V embedded software with support for SystemC peripherals | https://github.com/agra-uni-bremen/symex-vp | 14 | 3| 
 | 20231004T01:35:14Z | Null | https://github.com/KleeKitz/kleekitz.github.io | 0 | 0| 
 | 20231003T07:00:41Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 30 | 2| 
-| 20231003T01:58:27Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 42 | 0| 
 | 20231002T23:23:53Z | SD card mounted on kleemann Lift Floor indicator display%s Control Circuitry | https://github.com/RobinNakamoto/Kleemann-KMDisp | 0 | 0| 
 | 20231002T21:03:39Z | Null | https://github.com/ovcharov2v/kleewish | 0 | 0| 
-| 20231002T15:06:07Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 361 | 7| 
 | 20231002T07:20:00Z | 本字体基于Klee one字体及其衍生的霞鹜文楷系列字体进行改做，基于文楷TC修改的字体 | https://github.com/Steve-Yuu/YshiShuti | 15 | 0| 
 
 
@@ -63,21 +63,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231005T11:29:10Z | Uses a Exploit found by @Willy-JL and @ECTO-1A to crash IOS17 devices over bluetooth. | https://github.com/RapierXbox/ESP32-Sour-Apple | 45 | 3| 
+| 20231005T10:43:16Z | Null | https://github.com/chris576/WebDevExploiter | 0 | 0| 
+| 20231005T10:13:10Z | Many different Roblox Exploita | https://github.com/peer-pri/Roblox-Exploits | 1 | 0| 
+| 20231005T09:38:56Z | WConsole Extractor is a python library which automatically exploits a Werkzeug development server in debug mode. You just have to write a python function that leaks a file content and you have your shell :) | https://github.com/Ruulian/wconsole-extractor | 0 | 0| 
+| 20231005T07:02:02Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5895 | 509| 
+| 20231005T03:35:59Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5376 | 693| 
 | 20231005T01:48:10Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0073-app-3uNgL-clean-exploit | 0 | 0| 
 | 20231005T01:42:12Z | Block game exploit | https://github.com/hacks570/Custom | 0 | 0| 
 | 20231005T01:33:10Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0075-0045-app-MueZj-should-exploit | 0 | 0| 
 | 20231005T01:29:50Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0050-0018-app-LSSXW-exploit-raise | 0 | 0| 
-| 20231005T01:12:42Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0025-0006-app--2DJX-comply-exploit | 0 | 0| 
-| 20231005T01:12:39Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0025-0015-app-aoAd8-exploit-wonder | 0 | 0| 
-| 20231005T01:00:09Z | Best BloxFlip Predictor which is updated (works currently at October 2023) which support many games like as: Cases, Upgrader, Crash, Mines, Towers | https://github.com/elannepyu/Roblox-BloxFlip-Predictor-Exploit-October-2023 | 1 | 0| 
-| 20231005T00:59:25Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0005-0003-app-CsZHI-exploit-vary | 0 | 0| 
-| 20231005T00:28:35Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWcr | 1 | 0| 
-| 20231005T00:27:20Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANcr | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231005T04:17:28Z | The open-sourced Python toolbox for backdoor attacks and defenses. | https://github.com/THUYimingLi/BackdoorBox | 293 | 55| 
 | 20231004T22:54:26Z | Telegram backdoor bot to manually update the Activity Indicator in case of internet outages or other failures | https://github.com/TU-DO-Makerspace/Activity-Indicator-Backdoor | 0 | 0| 
 | 20231004T21:53:34Z | Null | https://github.com/Nicke-code/backdoor | 0 | 0| 
 | 20231004T21:48:09Z | Null | https://github.com/swatmode/Backdoor-FInder | 0 | 0| 
@@ -85,7 +86,6 @@
 | 20231004T19:57:41Z | Null | https://github.com/phannduongg12/backdoor | 0 | 0| 
 | 20231004T19:53:41Z | Null | https://github.com/itnunu751/backdoor | 0 | 0| 
 | 20231004T14:38:40Z | educational purposes | https://github.com/Zetsumeii/backdoorctf | 0 | 0| 
-| 20231004T10:04:35Z | The open-sourced Python toolbox for backdoor attacks and defenses. | https://github.com/THUYimingLi/BackdoorBox | 292 | 55| 
 | 20231004T06:20:16Z | This is a backdoor which is under development process | https://github.com/Abhijeet-Linux/backdoor | 0 | 0| 
 | 20231004T06:08:27Z |  Implementation of ICCV%23 paper on Multimodal Backdoor Defense Technique: TIJO (Trigger Inversion using Joint Optimization) | https://github.com/indranil-sri/TIJO | 0 | 0| 
 
@@ -110,16 +110,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231005T11:27:16Z |  Fuzzy logic for brake control under a fictitious condition | https://github.com/ohananoshi/fuzzy_brake_controller | 0 | 0| 
+| 20231005T11:27:13Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 49219 | 23243| 
+| 20231005T10:58:16Z | Merges two DataFrames using fuzzy matching on specified columns | https://github.com/hansalemaos/a_pandas_ex_fuzzymerge | 0 | 0| 
+| 20231005T10:49:53Z | An implementation of some examples of Fuzzy Logic | https://github.com/geeksloth/fuzzy-logic-examples | 0 | 0| 
+| 20231005T09:22:16Z | Null | https://github.com/surajsawant26/fuzzy-waffle | 0 | 0| 
+| 20231005T07:58:20Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 410 | 54| 
 | 20231005T01:23:24Z | Getting started with fuzzing | https://github.com/clebsonsh/fuzz-go | 0 | 0| 
 | 20231005T01:19:53Z | Null | https://github.com/enyquist/fuzzylogic | 0 | 0| 
 | 20231005T00:48:02Z | Null | https://github.com/jparker13/fuzzy-succotash-FOXTROT | 0 | 0| 
 | 20231004T23:54:36Z | A duckyscript v1 generator for fuzzing locked down kiosks/systems BadUSB style. | https://github.com/ryarmst/FuzzyDuckling | 0 | 0| 
-| 20231004T22:14:26Z | Null | https://github.com/apacific/Cast-Iron-Fuzz | 0 | 0| 
-| 20231004T21:32:24Z | Automatic DNN generation for fuzzing and more | https://github.com/ise-uiuc/nnsmith | 94 | 19| 
-| 20231004T21:02:24Z | Null | https://github.com/felipetunesVader/fuzzySearch | 0 | 0| 
-| 20231004T20:12:15Z | Null | https://github.com/itnunu751/fuzzer | 0 | 0| 
-| 20231004T18:37:23Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 104 | 37| 
-| 20231004T18:27:08Z | Null | https://github.com/google/fuzztest | 419 | 29| 
 
 
 
