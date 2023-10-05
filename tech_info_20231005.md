@@ -16,7 +16,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231005T11:57:14Z | CVE-2023-4911 | CVE-2023-4911 proof of concept | https://github.com/RickdeJager/CVE-2023-4911 | | 
+| 20231005T12:11:37Z | CVE-2023-4911 | CVE-2023-4911 proof of concept | https://github.com/RickdeJager/CVE-2023-4911 | | 
+| 20231005T12:11:22Z | CVE-2023-43284 | DLink DIR-846 Authenticated Remote Code Execution | https://github.com/MateusTesser/CVE-2023-43284 | | 
 | 20231005T11:05:43Z | CVE-2023-4911 | PoC for CVE-2023-4911 | https://github.com/leesh3288/CVE-2023-4911 | | 
 | 20231005T10:32:25Z | CVE-2023-21275 | Null | https://github.com/Trinadh465/packages_apps_ManagedProvisioning_AOSP10_r33_CVE-2023-21275 | | 
 | 20231005T09:22:59Z | CVE-2023-21284 | Null | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21284 | | 
@@ -25,7 +26,6 @@
 | 20231005T07:46:27Z | CVE-2023-44961 | PoC for CVE-2023-44961 | https://github.com/ggb0n/CVE-2023-44961 | | 
 | 20231005T07:43:07Z | CVE-2023-44962 | PoC for CVE-2023-44962 | https://github.com/ggb0n/CVE-2023-44962 | | 
 | 20231005T07:37:59Z | CVE-2023-4911 | https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt | https://github.com/Green-Avocado/CVE-2023-4911 | | 
-| 20231005T07:15:36Z | CVE-2021-3060 | CVE-2021-3060 | https://github.com/anmolksachan/CVE-2021-3060 | | 
 
 
 # klee on Github 推荐
