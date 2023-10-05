@@ -110,16 +110,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231005T01:15:20Z | Null | https://github.com/enyquist/fuzzylogic | 0 | 0| 
 | 20231005T00:48:02Z | Null | https://github.com/jparker13/fuzzy-succotash-FOXTROT | 0 | 0| 
 | 20231004T23:54:36Z | A duckyscript v1 generator for fuzzing locked down kiosks/systems BadUSB style. | https://github.com/ryarmst/FuzzyDuckling | 0 | 0| 
 | 20231004T22:14:26Z | Null | https://github.com/apacific/Cast-Iron-Fuzz | 0 | 0| 
 | 20231004T21:32:24Z | Automatic DNN generation for fuzzing and more | https://github.com/ise-uiuc/nnsmith | 94 | 19| 
 | 20231004T21:02:24Z | Null | https://github.com/felipetunesVader/fuzzySearch | 0 | 0| 
 | 20231004T20:12:15Z | Null | https://github.com/itnunu751/fuzzer | 0 | 0| 
+| 20231004T18:37:23Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 104 | 37| 
 | 20231004T18:27:08Z | Null | https://github.com/google/fuzztest | 419 | 29| 
 | 20231004T16:52:20Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9061 | 2010| 
-| 20231004T10:50:02Z | Null | https://github.com/Amank1234/Fuzzy | 0 | 0| 
-| 20231004T10:43:47Z | This is the minor project for DAA Lab in collaboration with Adwaith PJ | https://github.com/adityasubham03/fuzzy-spork | 1 | 0| 
 
 
 
