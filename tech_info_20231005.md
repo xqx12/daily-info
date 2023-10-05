@@ -45,6 +45,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231005T12:36:37Z | DarkCool ~ Exploiter Lookup Checker | https://github.com/DarkSkull777/DarkCool | 0 | 0| 
 | 20231005T11:29:10Z | Uses a Exploit found by @Willy-JL and @ECTO-1A to crash IOS17 devices over bluetooth. | https://github.com/RapierXbox/ESP32-Sour-Apple | 45 | 3| 
 | 20231005T10:43:16Z | Null | https://github.com/chris576/WebDevExploiter | 0 | 0| 
 | 20231005T10:13:10Z | Many different Roblox Exploita | https://github.com/peer-pri/Roblox-Exploits | 1 | 0| 
@@ -54,12 +55,12 @@
 | 20231005T07:02:02Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5895 | 509| 
 | 20231005T03:35:59Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5376 | 693| 
 | 20231005T01:48:10Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0073-app-3uNgL-clean-exploit | 0 | 0| 
-| 20231005T01:42:12Z | Block game exploit | https://github.com/hacks570/Custom | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231005T12:37:08Z | Null | https://github.com/automatefreely/Backdoor-CLI | 0 | 0| 
 | 20231005T04:17:28Z | The open-sourced Python toolbox for backdoor attacks and defenses. | https://github.com/THUYimingLi/BackdoorBox | 293 | 55| 
 
 
