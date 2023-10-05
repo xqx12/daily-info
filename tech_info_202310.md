@@ -63,8 +63,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231005T01:00:09Z | Best BloxFlip Predictor which is updated (works currently at October 2023) which support many games like as: Cases, Upgrader, Crash, Mines, Towers | https://github.com/elannepyu/Roblox-BloxFlip-Predictor-Exploit-October-2023 | 1 | 0| 
 | 20231005T00:59:25Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0005-0003-app-CsZHI-exploit-vary | 0 | 0| 
-| 20231005T00:58:10Z | Best BloxFlip Predictor which is updated (works currently at October 2023) which support many games like as: Cases, Upgrader, Crash, Mines, Towers | https://github.com/elannepyu/Roblox-BloxFlip-Predictor-Exploit-October-2023 | 1 | 0| 
 | 20231005T00:28:35Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWcr | 1 | 0| 
 | 20231005T00:27:20Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANcr | 1 | 0| 
 | 20231005T00:26:29Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANcr | 1 | 0| 
