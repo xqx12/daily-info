@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231005T01:48:10Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0073-app-3uNgL-clean-exploit | 0 | 0| 
 | 20231005T01:42:12Z | Block game exploit | https://github.com/hacks570/Custom | 0 | 0| 
 | 20231005T01:33:10Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0075-0045-app-MueZj-should-exploit | 0 | 0| 
 | 20231005T01:29:50Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0050-0018-app-LSSXW-exploit-raise | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20231005T00:59:25Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0005-0003-app-CsZHI-exploit-vary | 0 | 0| 
 | 20231005T00:28:35Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWcr | 1 | 0| 
 | 20231005T00:27:20Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANcr | 1 | 0| 
-| 20231005T00:26:29Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANcr | 1 | 0| 
 
 
 # backdoor on Github 推荐
