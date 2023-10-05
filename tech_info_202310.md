@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231005T12:21:46Z | CVE-2023-4911 | PoC for CVE-2023-4911 | https://github.com/leesh3288/CVE-2023-4911 | | 
+| 20231005T12:38:17Z | CVE-2023-4911 | PoC for CVE-2023-4911 | https://github.com/leesh3288/CVE-2023-4911 | | 
 | 20231005T12:11:37Z | CVE-2023-4911 | CVE-2023-4911 proof of concept | https://github.com/RickdeJager/CVE-2023-4911 | | 
 | 20231005T12:11:22Z | CVE-2023-43284 | DLink DIR-846 Authenticated Remote Code Execution | https://github.com/MateusTesser/CVE-2023-43284 | | 
 | 20231005T10:32:25Z | CVE-2023-21275 | Null | https://github.com/Trinadh465/packages_apps_ManagedProvisioning_AOSP10_r33_CVE-2023-21275 | | 
@@ -78,7 +78,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231005T12:37:08Z | Null | https://github.com/automatefreely/Backdoor-CLI | 0 | 0| 
+| 20231005T12:39:38Z | Null | https://github.com/automatefreely/Backdoor-CLI | 0 | 0| 
 | 20231005T04:17:28Z | The open-sourced Python toolbox for backdoor attacks and defenses. | https://github.com/THUYimingLi/BackdoorBox | 293 | 55| 
 | 20231004T22:54:26Z | Telegram backdoor bot to manually update the Activity Indicator in case of internet outages or other failures | https://github.com/TU-DO-Makerspace/Activity-Indicator-Backdoor | 0 | 0| 
 | 20231004T21:53:34Z | Null | https://github.com/Nicke-code/backdoor | 0 | 0| 
