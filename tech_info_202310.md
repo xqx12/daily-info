@@ -26,8 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231005T01:24:45Z | CVE-2023-4911 | CVE-2023-4911 proof of concept | https://github.com/RickdeJager/CVE-2023-4911 | | 
-| 20231005T01:13:58Z | CVE-2023-4911 | PoC for CVE-2023-4911 | https://github.com/leesh3288/CVE-2023-4911 | | 
+| 20231005T01:26:07Z | CVE-2023-4911 | PoC for CVE-2023-4911 | https://github.com/leesh3288/CVE-2023-4911 | | 
+| 20231005T01:26:04Z | CVE-2023-4911 | CVE-2023-4911 proof of concept | https://github.com/RickdeJager/CVE-2023-4911 | | 
 | 20231005T01:11:46Z | CVE-2023-4911 | https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt | https://github.com/Green-Avocado/CVE-2023-4911 | | 
 | 20231005T00:32:53Z | CVE-2023-41105 | Example of CVE-2023-41105 | https://github.com/JawadPy/CVE-2023-41105 | | 
 | 20231004T16:29:03Z | CVE-2023-40044 | Analysis of WS_FTP CVE | https://github.com/kenbuckler/WS_FTP-CVE-2023-40044 | | 
@@ -110,6 +110,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231005T01:23:24Z | Getting started with fuzzing | https://github.com/clebsonsh/fuzz-go | 0 | 0| 
 | 20231005T01:19:53Z | Null | https://github.com/enyquist/fuzzylogic | 0 | 0| 
 | 20231005T00:48:02Z | Null | https://github.com/jparker13/fuzzy-succotash-FOXTROT | 0 | 0| 
 | 20231004T23:54:36Z | A duckyscript v1 generator for fuzzing locked down kiosks/systems BadUSB style. | https://github.com/ryarmst/FuzzyDuckling | 0 | 0| 
@@ -119,7 +120,6 @@
 | 20231004T20:12:15Z | Null | https://github.com/itnunu751/fuzzer | 0 | 0| 
 | 20231004T18:37:23Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 104 | 37| 
 | 20231004T18:27:08Z | Null | https://github.com/google/fuzztest | 419 | 29| 
-| 20231004T16:52:20Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9061 | 2010| 
 
 
 
