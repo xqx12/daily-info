@@ -64,6 +64,14 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231004T22:54:26Z | Telegram backdoor bot to manually update the Activity Indicator in case of internet outages or other failures | https://github.com/TU-DO-Makerspace/Activity-Indicator-Backdoor | 0 | 0| 
+| 20231004T21:53:34Z | Null | https://github.com/Nicke-code/backdoor | 0 | 0| 
+| 20231004T21:48:09Z | Null | https://github.com/swatmode/Backdoor-FInder | 0 | 0| 
+| 20231004T21:44:17Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 204 | 22| 
+| 20231004T19:57:41Z | Null | https://github.com/phannduongg12/backdoor | 0 | 0| 
+| 20231004T19:53:41Z | Null | https://github.com/itnunu751/backdoor | 0 | 0| 
+| 20231004T14:38:40Z | educational purposes | https://github.com/Zetsumeii/backdoorctf | 0 | 0| 
+| 20231004T10:04:35Z | The open-sourced Python toolbox for backdoor attacks and defenses. | https://github.com/THUYimingLi/BackdoorBox | 292 | 55| 
 | 20231004T06:20:16Z | This is a backdoor which is under development process | https://github.com/Abhijeet-Linux/backdoor | 0 | 0| 
 | 20231004T06:08:27Z |  Implementation of ICCV%23 paper on Multimodal Backdoor Defense Technique: TIJO (Trigger Inversion using Joint Optimization) | https://github.com/indranil-sri/TIJO | 0 | 0| 
 

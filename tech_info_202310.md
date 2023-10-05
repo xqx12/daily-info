@@ -78,16 +78,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231004T22:54:26Z | Telegram backdoor bot to manually update the Activity Indicator in case of internet outages or other failures | https://github.com/TU-DO-Makerspace/Activity-Indicator-Backdoor | 0 | 0| 
+| 20231004T21:53:34Z | Null | https://github.com/Nicke-code/backdoor | 0 | 0| 
+| 20231004T21:48:09Z | Null | https://github.com/swatmode/Backdoor-FInder | 0 | 0| 
+| 20231004T21:44:17Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 204 | 22| 
+| 20231004T19:57:41Z | Null | https://github.com/phannduongg12/backdoor | 0 | 0| 
+| 20231004T19:53:41Z | Null | https://github.com/itnunu751/backdoor | 0 | 0| 
+| 20231004T14:38:40Z | educational purposes | https://github.com/Zetsumeii/backdoorctf | 0 | 0| 
+| 20231004T10:04:35Z | The open-sourced Python toolbox for backdoor attacks and defenses. | https://github.com/THUYimingLi/BackdoorBox | 292 | 55| 
 | 20231004T06:20:16Z | This is a backdoor which is under development process | https://github.com/Abhijeet-Linux/backdoor | 0 | 0| 
 | 20231004T06:08:27Z |  Implementation of ICCV%23 paper on Multimodal Backdoor Defense Technique: TIJO (Trigger Inversion using Joint Optimization) | https://github.com/indranil-sri/TIJO | 0 | 0| 
-| 20231003T12:49:29Z | Null | https://github.com/listentomi/FL-backdoor-defense-mechanism | 0 | 0| 
-| 20231003T12:45:17Z | Null | https://github.com/listentomi/RL-backdoor-detection | 0 | 0| 
-| 20231003T12:06:13Z | Null | https://github.com/ramos13935/TestBackdoorCHTB | 0 | 0| 
-| 20231003T11:19:30Z | Digital Forensics and Incident Response (DFIR) | https://github.com/RENANZG/My-Forensics | 53 | 7| 
-| 20231003T10:56:55Z | Towards Stable Backdoor Purification through Feature Shift Tuning (NeurIPS 2023) | https://github.com/AISafety-HKUST/stable_backdoor_purification | 4 | 0| 
-| 20231003T09:24:52Z | An Opensource Windows Antivirus Tool to detect ransomware , viruses  , backdoors , payloads and  completely removes it from system  | https://github.com/Whitecat18/Mavoc-Antivirus | 3 | 2| 
-| 20231002T19:50:13Z | Backdoor реализованный через телеграм бота | https://github.com/Rub1dium/Python-BackDoor-Telebot | 1 | 0| 
-| 20231002T13:54:46Z | Kernel  rk | https://github.com/carloslack/KoviD | 152 | 34| 
 
 
 # symbolic execution on Github 推荐
