@@ -13,6 +13,7 @@
 | --- | --- | ---| 
 | 20231004 | 部分中间人攻击手法简介 | https://xz.aliyun.com/t/12880| 
 | 20231004 | tvt固件加解密分析 | https://xz.aliyun.com/t/12850| 
+| 20231004 | 基于前后端数据相关性的嵌入式系统漏洞挖掘方法 | https://mp.weixin.qq.com/s/Lv3b84fwqH914ia9e47Aag| 
 | 20231003 | 获取Telegram的用户IP地址 | https://mp.weixin.qq.com/s/YVthE8_jCQGRz23C0pa4oQ| 
 | 20231003 | jumpserver最新re-auth复现（伪随机经典案例） | https://mp.weixin.qq.com/s/VShjaDI1McerX843YyOENw| 
 | 20231003 | GSE协议封装解析 | https://blog.minhal.me/2021/11/19/fe1a016ca798/| 
@@ -20,28 +21,28 @@
 | 20231003 | SecWiki周刊（第500期) | https://www.sec-wiki.com/weekly/500| 
 | 20231003 | 通过WIZ IAM挑战赛熟悉云IAM漏洞及工具 | https://mp.weixin.qq.com/s/fqskQL-hmMxqTX9TnbX-Kg| 
 | 20231002 | 白宫生成式人工智能评估计划 | https://mp.weixin.qq.com/s/8rWfeLkC19NgILP5-lnoUg| 
-| 20231002 | OneWeb星座及相关技术详细分析 | https://mp.weixin.qq.com/s/UXahtY8Jtxo4-rfO8i3Dvw| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231004T23:32:40Z | CVE-2023-4911 | PoC for CVE-2023-4911 | https://github.com/leesh3288/CVE-2023-4911 | | 
+| 20231004T21:37:30Z | CVE-2023-4911 | https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt | https://github.com/Green-Avocado/CVE-2023-4911 | | 
+| 20231004T19:34:05Z | CVE-2023-4911 | CVE-2023-4911 proof of concept | https://github.com/RickdeJager/CVE-2023-4911 | | 
+| 20231004T16:29:03Z | CVE-2023-40044 | Analysis of WS_FTP CVE | https://github.com/kenbuckler/WS_FTP-CVE-2023-40044 | | 
+| 20231004T13:32:03Z | CVE-2023-43284 | DLink DIR-846 Authenticated Remote Code Execution | https://github.com/MateusTesser/CVE-2023-43284 | | 
 | 20231004T12:01:04Z | CVE-2023-4911 | https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt | https://github.com/Green-Avocado/CVE-2023-4911-PoC | | 
 | 20231004T08:33:06Z | CVE-2023-21282 | Null | https://github.com/Trinadh465/external_aac_AOSP10_r33_CVE-2023-21282 | | 
 | 20231004T06:48:34Z | CVE-2023-21288 | Null | https://github.com/Trinadh465/platform_frameworks_base_CVE-2023-21288 | | 
 | 20231004T01:34:47Z | CVE-2023-25573 | CVE-2023-25573 - Metersphere < Arbitrary File Read | https://github.com/codeb0ss/CVE-2023-25573-PoC | | 
 | 20231004T01:16:12Z | CVE-2023-33831 | CVE-2023-33831 - FUXA < Unauthenticated Remote Code Execution [RCE] | https://github.com/codeb0ss/CVE-2023-33831-PoC | | 
-| 20231003T22:23:58Z | CVE-2023-43261 | CVE-2023-43261 - Credential Leakage Through Unprotected System Logs and Weak Password Encryption | https://github.com/win3zz/CVE-2023-43261 | | 
-| 20231003T21:56:54Z | CVE-2023-29357 | Null | https://github.com/LuemmelSec/CVE-2023-29357 | | 
-| 20231003T17:17:11Z | CVE-2023-43770 | A Proof-Of-Concept for the CVE-2023-43770 vulnerability.  | https://github.com/s3cb0y/CVE-2023-43770-POC | | 
-| 20231003T14:39:26Z | CVE-2023-38743 | ManageEngine ADManager Command Injection | https://github.com/PetrusViet/CVE-2023-38743 | | 
-| 20231003T13:57:41Z | CVE-2023-31419 | Elasticsearch DoS CVE-2023-31419 exploit | https://github.com/u238/Elasticsearch-CVE-2023-31419 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231004T09:01:15Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13944 | 423| 
+| 20231004T22:07:53Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2324 | 636| 
+| 20231004T20:40:32Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13949 | 423| 
 | 20231004T07:54:10Z | A concolic testing engine for RISC-V embedded software with support for SystemC peripherals | https://github.com/agra-uni-bremen/symex-vp | 14 | 3| 
 | 20231004T01:35:14Z | Null | https://github.com/KleeKitz/kleekitz.github.io | 0 | 0| 
 | 20231003T07:00:41Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 30 | 2| 
@@ -49,7 +50,6 @@
 | 20231002T23:23:53Z | SD card mounted on kleemann Lift Floor indicator display%s Control Circuitry | https://github.com/RobinNakamoto/Kleemann-KMDisp | 0 | 0| 
 | 20231002T21:03:39Z | Null | https://github.com/ovcharov2v/kleewish | 0 | 0| 
 | 20231002T15:06:07Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 361 | 7| 
-| 20231002T12:08:18Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2323 | 636| 
 | 20231002T07:20:00Z | 本字体基于Klee one字体及其衍生的霞鹜文楷系列字体进行改做，基于文楷TC修改的字体 | https://github.com/Steve-Yuu/YshiShuti | 15 | 0| 
 
 
@@ -63,16 +63,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231004T12:55:34Z | Creating a file in HTML and Javascript that exploits the %Cross Site Request Forgery (CSRF)% vulnerability. | https://github.com/xBMCode/CsrfPoc | 0 | 0| 
-| 20231004T12:27:43Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5374 | 692| 
-| 20231004T12:23:46Z | Uses a Exploit found by @Willy-JL and @ECTO-1A to crash IOS17 devices over bluetooth. | https://github.com/RapierXbox/ESP32-Sour-Apple | 13 | 2| 
-| 20231004T11:57:53Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-nodejs-DYB-T-exploit-go | 0 | 0| 
-| 20231004T11:57:11Z | Rex provides a variety of classes useful for security testing and exploit development. | https://github.com/rapid7/rex | 49 | 25| 
-| 20231004T11:53:13Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-ZFl43-read-exploit | 0 | 0| 
-| 20231004T10:26:25Z | Convertisseur des log pour exploitation graphique | https://github.com/kroogy/Waterkotte_EasyCon_log_view | 0 | 0| 
-| 20231004T08:53:34Z | A tool for generating Cross-Site Request Forgery (CSRF) exploit HTML for security testing | https://github.com/haqqibrahim/Project-Forgery | 0 | 0| 
-| 20231004T06:34:42Z | bishbash is retarded pveer | https://github.com/PveTeam/ExploitFixer-dump | 1 | 0| 
-| 20231004T06:32:51Z | Tool to create payload for exploiting zipslip vulnerability | https://github.com/sickuritywizard/zipslip-007 | 1 | 0| 
+| 20231004T23:12:01Z | A Solana arbitrage bot operating on various decentralized exchanges (DEXs) to exploit price differences. | https://github.com/gemhunterheh/solana-arbitrage-bot | 1 | 0| 
+| 20231004T23:05:47Z | Windows Exploit Protection Settings (Ultimate) | https://github.com/neohiro/ExploitProtection | 2 | 0| 
+| 20231004T22:08:09Z | random pwnable solutions from various CTFs I have played | https://github.com/hegzploit/pwn-exploits | 0 | 0| 
+| 20231004T21:31:21Z | Null | https://github.com/0x90pkt/exploitation | 0 | 0| 
+| 20231004T21:20:09Z | Null | https://github.com/wendell916/Word-press-Exploitation | 0 | 0| 
+| 20231004T20:51:07Z | Various techniques for exploiting Windows | https://github.com/billchaison/Windows-Trix | 9 | 1| 
+| 20231004T20:46:50Z | bin exploits and re stuff | https://github.com/kewmine/pwnpwnpwn | 0 | 0| 
+| 20231004T20:46:43Z | HackME is an interactive web platform designed to offer a safe and legal environment for aspiring ethical hackers to hone their skills. The platform features a range of challenges that simulate real-world vulnerabilities, providing users with the opportunity to explore and exploit these weaknesses in a controlled setting. | https://github.com/GuillaumeDorschner/HackMe | 0 | 0| 
+| 20231004T18:41:58Z | learning  binary exploitation | https://github.com/grimm-65/Binary-Exploitation | 0 | 0| 
+| 20231004T17:44:29Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 86 | 31| 
 
 
 # backdoor on Github 推荐
@@ -93,9 +93,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231004T22:07:53Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2324 | 636| 
+| 20231004T21:21:25Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 64 | 26| 
 | 20231002T14:02:45Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3545 | 490| 
 | 20231002T12:32:55Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 357 | 82| 
-| 20231002T12:08:18Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2323 | 636| 
 | 20231001T03:20:58Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 203 | 19| 
 
 
@@ -107,16 +108,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231004T23:54:36Z | A duckyscript v1 generator for fuzzing locked down kiosks/systems BadUSB style. | https://github.com/ryarmst/FuzzyDuckling | 0 | 0| 
+| 20231004T22:14:26Z | Null | https://github.com/apacific/Cast-Iron-Fuzz | 0 | 0| 
+| 20231004T21:32:24Z | Automatic DNN generation for fuzzing and more | https://github.com/ise-uiuc/nnsmith | 94 | 19| 
+| 20231004T21:02:24Z | Null | https://github.com/felipetunesVader/fuzzySearch | 0 | 0| 
+| 20231004T20:12:15Z | Null | https://github.com/itnunu751/fuzzer | 0 | 0| 
+| 20231004T18:27:08Z | Null | https://github.com/google/fuzztest | 419 | 29| 
+| 20231004T16:52:20Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9061 | 2010| 
 | 20231004T10:50:02Z | Null | https://github.com/Amank1234/Fuzzy | 0 | 0| 
 | 20231004T10:43:47Z | This is the minor project for DAA Lab in collaboration with Adwaith PJ | https://github.com/adityasubham03/fuzzy-spork | 1 | 0| 
 | 20231004T10:34:04Z | Null | https://github.com/feixiangdejiahao/ProfileFuzz | 0 | 0| 
-| 20231004T10:03:51Z | this repo contains my solution for striver sde sheet challenge  | https://github.com/tusharxoxoxo/Strivers-SDE-Sheet-Challenge---fuZzy-guide | 0 | 1| 
-| 20231004T09:52:43Z | Null | https://github.com/rithikarajkumar640/fuzzy-broccoli | 0 | 0| 
-| 20231004T09:40:20Z | Null | https://github.com/Aditya1711-tech/FuzzyCloud-ConferenceTrackManagement | 0 | 0| 
-| 20231004T09:35:54Z | Null | https://github.com/Aditya1711-tech/Fuzzy-cloud-ConferenceTrackManagement | 0 | 0| 
-| 20231004T09:10:06Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4853 | 1162| 
-| 20231004T09:02:48Z | Null | https://github.com/fuzzy-boiii23a/oss-fuzz-corpus | 0 | 0| 
-| 20231004T08:30:08Z | Null | https://github.com/google/fuzztest | 418 | 29| 
 
 
 
