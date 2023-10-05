@@ -63,6 +63,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231005T00:27:20Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANcr | 1 | 0| 
+| 20231005T00:26:29Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANcr | 1 | 0| 
+| 20231005T00:25:44Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANcr | 1 | 0| 
 | 20231004T23:12:01Z | A Solana arbitrage bot operating on various decentralized exchanges (DEXs) to exploit price differences. | https://github.com/gemhunterheh/solana-arbitrage-bot | 1 | 0| 
 | 20231004T23:05:47Z | Windows Exploit Protection Settings (Ultimate) | https://github.com/neohiro/ExploitProtection | 2 | 0| 
 | 20231004T22:08:09Z | random pwnable solutions from various CTFs I have played | https://github.com/hegzploit/pwn-exploits | 0 | 0| 
@@ -70,9 +73,6 @@
 | 20231004T21:20:09Z | Null | https://github.com/wendell916/Word-press-Exploitation | 0 | 0| 
 | 20231004T20:51:07Z | Various techniques for exploiting Windows | https://github.com/billchaison/Windows-Trix | 9 | 1| 
 | 20231004T20:46:50Z | bin exploits and re stuff | https://github.com/kewmine/pwnpwnpwn | 0 | 0| 
-| 20231004T20:46:43Z | HackME is an interactive web platform designed to offer a safe and legal environment for aspiring ethical hackers to hone their skills. The platform features a range of challenges that simulate real-world vulnerabilities, providing users with the opportunity to explore and exploit these weaknesses in a controlled setting. | https://github.com/GuillaumeDorschner/HackMe | 0 | 0| 
-| 20231004T18:41:58Z | learning  binary exploitation | https://github.com/grimm-65/Binary-Exploitation | 0 | 0| 
-| 20231004T17:44:29Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 86 | 31| 
 
 
 # backdoor on Github 推荐
@@ -93,6 +93,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231005T00:26:08Z | A symbolic execution engine for peephole optimization | https://github.com/skberkeley/sepo | 0 | 0| 
 | 20231004T22:07:53Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2324 | 636| 
 | 20231004T21:21:25Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 64 | 26| 
 | 20231002T14:02:45Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3545 | 490| 
