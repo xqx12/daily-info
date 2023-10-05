@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231005T00:32:53Z | CVE-2023-41105 | Example of CVE-2023-41105 | https://github.com/JawadPy/CVE-2023-41105 | | 
 | 20231005T00:17:29Z | CVE-2023-4911 | PoC for CVE-2023-4911 | https://github.com/leesh3288/CVE-2023-4911 | | 
 | 20231004T21:37:30Z | CVE-2023-4911 | https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt | https://github.com/Green-Avocado/CVE-2023-4911 | | 
 | 20231004T19:34:05Z | CVE-2023-4911 | CVE-2023-4911 proof of concept | https://github.com/RickdeJager/CVE-2023-4911 | | 
@@ -35,7 +36,6 @@
 | 20231004T08:33:06Z | CVE-2023-21282 | Null | https://github.com/Trinadh465/external_aac_AOSP10_r33_CVE-2023-21282 | | 
 | 20231004T06:48:34Z | CVE-2023-21288 | Null | https://github.com/Trinadh465/platform_frameworks_base_CVE-2023-21288 | | 
 | 20231004T01:34:47Z | CVE-2023-25573 | CVE-2023-25573 - Metersphere < Arbitrary File Read | https://github.com/codeb0ss/CVE-2023-25573-PoC | | 
-| 20231004T01:16:12Z | CVE-2023-33831 | CVE-2023-33831 - FUXA < Unauthenticated Remote Code Execution [RCE] | https://github.com/codeb0ss/CVE-2023-33831-PoC | | 
 
 
 # klee on Github 推荐
