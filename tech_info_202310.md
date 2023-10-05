@@ -110,7 +110,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231005T01:15:20Z | Null | https://github.com/enyquist/fuzzylogic | 0 | 0| 
+| 20231005T01:19:53Z | Null | https://github.com/enyquist/fuzzylogic | 0 | 0| 
 | 20231005T00:48:02Z | Null | https://github.com/jparker13/fuzzy-succotash-FOXTROT | 0 | 0| 
 | 20231004T23:54:36Z | A duckyscript v1 generator for fuzzing locked down kiosks/systems BadUSB style. | https://github.com/ryarmst/FuzzyDuckling | 0 | 0| 
 | 20231004T22:14:26Z | Null | https://github.com/apacific/Cast-Iron-Fuzz | 0 | 0| 
