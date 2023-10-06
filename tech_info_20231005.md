@@ -21,11 +21,11 @@
 | 20231005T19:21:12Z | CVE-2023-42793 | PoC of CVE-2023-42793 | https://github.com/Zenmovie/CVE-2023-42793 | | 
 | 20231005T17:08:10Z | CVE-2023-43284 | DLink DIR-846 Authenticated Remote Code Execution | https://github.com/MateusTesser/CVE-2023-43284 | | 
 | 20231005T15:39:05Z | CVE-2021-39475 | Found multiple XSS vulnerabilities within PhoenixCart 1.0.8.0 | https://github.com/W4RCL0UD/CVE-2021-39475 | | 
-| 20231005T14:40:12Z | CVE-2023-4863 | Null | https://github.com/mistymntncop/CVE-2023-4863 | | 
 | 20231005T10:32:25Z | CVE-2023-21275 | Null | https://github.com/Trinadh465/packages_apps_ManagedProvisioning_AOSP10_r33_CVE-2023-21275 | | 
 | 20231005T09:22:59Z | CVE-2023-21284 | Null | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21284 | | 
 | 20231005T08:22:24Z | CVE-2022-2414 | CVE-2022-2414 POC | https://github.com/strikersatya/CVE-2022-2414 | | 
 | 20231005T08:21:14Z | CVE-2023-21272 | Null | https://github.com/pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-21272 | | 
+| 20231005T07:46:27Z | CVE-2023-44961 | PoC for CVE-2023-44961 | https://github.com/ggb0n/CVE-2023-44961 | | 
 
 
 # klee on Github 推荐
