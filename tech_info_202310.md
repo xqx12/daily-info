@@ -112,14 +112,14 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231006T12:08:25Z | Potentially dangerous files | https://github.com/Bo0oM/fuzz.txt | 2670 | 479| 
+| 20231006T12:07:29Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 4117 | 496| 
 | 20231006T11:20:36Z | A slide puzzle game in flutter | https://github.com/0xapurv/Fuzzle | 0 | 0| 
 | 20231006T10:44:37Z | Fuzzy support vector machine with graph for classifying imbalanced datasets | https://github.com/ChenBHXMU/Fuzzy-support-vector-machine-with-graph-for-classifying-imbalanced-datasets | 0 | 0| 
-| 20231006T10:36:57Z | Potentially dangerous files | https://github.com/Bo0oM/fuzz.txt | 2670 | 479| 
 | 20231006T10:35:23Z | Null | https://github.com/Murthysagi/fuzzy-octo | 0 | 0| 
 | 20231006T10:02:55Z | Null | https://github.com/heyyyvaibh/fuzzy-vaccum | 0 | 0| 
 | 20231006T09:54:11Z | Null | https://github.com/heyyyvaibh/Fuzzy-logic-based-vaccum-cleaner | 0 | 0| 
 | 20231006T09:31:20Z | Null | https://github.com/Dev-180Memes/fuzzy-recommender-frontend | 0 | 0| 
-| 20231006T09:22:08Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 4116 | 496| 
 | 20231006T02:49:41Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 411 | 54| 
 | 20231006T01:49:43Z | Fuzz Testing using Jazzer | https://github.com/M-Faheem-Khan/PasswordManager | 0 | 0| 
 
