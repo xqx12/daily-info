@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231006T00:09:34Z | Subiré todo lo que voy aprendiendo para poder progresar en este rubro, tanto exploits a puertos, informes de lo que hago, utilización de Python e Bash, destacar mi entendimiento en Redes y manejo de diferentes SO (Kali Linux, Parrot, Windows Server, Windows 10) | https://github.com/FranAlc/RutaHacking | 0 | 0| 
 | 20231005T23:58:47Z | GitOps Repository | https://github.com/redhat-appstudio-qe/byoc-app-ypjz-Nib2o-measure-exploit | 0 | 0| 
 | 20231005T22:46:22Z | Null | https://github.com/fantasy0x1/symfony-exploits | 0 | 0| 
 | 20231005T22:16:15Z | Roblox Exploit works on UWP And Web Version Bypassed antiban | https://github.com/purpshopfn/RobloxExploitByfronBypass2023 | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20231005T20:57:18Z | HackME is an interactive web platform designed to offer a safe and legal environment for aspiring ethical hackers to hone their skills. The platform features a range of challenges that simulate real-world vulnerabilities, providing users with the opportunity to explore and exploit these weaknesses in a controlled setting. | https://github.com/GuillaumeDorschner/HackMe | 0 | 0| 
 | 20231005T12:47:56Z | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | 59 | 16| 
 | 20231005T12:36:37Z | DarkCool ~ Exploiter Lookup Checker | https://github.com/DarkSkull777/DarkCool | 0 | 0| 
-| 20231005T11:29:10Z | Uses a Exploit found by @Willy-JL and @ECTO-1A to crash IOS17 devices over bluetooth. | https://github.com/RapierXbox/ESP32-Sour-Apple | 45 | 3| 
 
 
 # backdoor on Github 推荐
