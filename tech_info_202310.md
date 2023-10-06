@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231006T12:20:01Z | CVE-2023-44962 | PoC for CVE-2023-44962 | https://github.com/ggb0n/CVE-2023-44962 | | 
 | 20231006T12:11:40Z | CVE-2020-0022 | A fully public exploit of the CVE-2020-0022 BlueFrag Android RCE Vulnerability (tested on Pixel 3 XL) | https://github.com/themmokhtar/CVE-2020-0022 | | 
 | 20231006T11:04:35Z | CVE-2023-5217 | Null | https://github.com/Trinadh465/platform_external_libvpx_v1.4.0_CVE-2023-5217 | | 
 | 20231006T10:45:57Z | CVE-2023-5217 | Null | https://github.com/Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217 | | 
@@ -35,7 +36,6 @@
 | 20231006T06:32:33Z | CVE-2022-42703 | Null | https://github.com/Satheesh575555/linux-4.1.15_CVE-2022-42703 | | 
 | 20231006T02:57:31Z | CVE-2023-38501 | Mass exploit - CVE-2023-38501 - Copyparty < Cross-Site Scripting [XSS] | https://github.com/codeb0ss/CVE-2023-38501-Exploit | | 
 | 20231006T01:42:52Z | CVE-2023-4911 | PoC for CVE-2023-4911 | https://github.com/leesh3288/CVE-2023-4911 | | 
-| 20231006T01:41:26Z | CVE-2023-41892 | Mass check CVE-2023-41892 - Craft CMS Remote Code Execution (RCE) | https://github.com/zaenhaxor/CVE-2023-41892 | | 
 
 
 # klee on Github 推荐
