@@ -113,6 +113,7 @@
 | --- | --- | --- | --- | ---| 
 | 20231005T23:44:54Z | Your predefined text, inserted instantly | https://github.com/johmsalas/tmux-fuzzy-typer | 0 | 0| 
 | 20231005T22:44:27Z | Hardware build - audio signal boost/distortion/fuzz | https://github.com/apacific/Scrambler-Fuzz | 0 | 0| 
+| 20231005T20:10:14Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9062 | 2011| 
 | 20231005T12:38:53Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 49220 | 23243| 
 | 20231005T11:27:16Z |  Fuzzy logic for brake control under a fictitious condition | https://github.com/ohananoshi/fuzzy_brake_controller | 0 | 0| 
 | 20231005T10:58:16Z | Merges two DataFrames using fuzzy matching on specified columns | https://github.com/hansalemaos/a_pandas_ex_fuzzymerge | 0 | 0| 
@@ -120,7 +121,6 @@
 | 20231005T09:22:16Z | Null | https://github.com/surajsawant26/fuzzy-waffle | 0 | 0| 
 | 20231005T07:58:20Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 410 | 54| 
 | 20231005T01:23:24Z | Getting started with fuzzing | https://github.com/clebsonsh/fuzz-go | 0 | 0| 
-| 20231005T01:19:53Z | Null | https://github.com/enyquist/fuzzylogic | 0 | 0| 
 
 
 
