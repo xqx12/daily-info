@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231006T12:18:12Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-806-0090-0062-app-Beatl-exploit-find | 0 | 0| 
 | 20231006T12:13:11Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-806-0090-0007-app-1BUMJ-exploit-shut | 0 | 0| 
 | 20231006T12:11:40Z | A fully public exploit of the CVE-2020-0022 BlueFrag Android RCE Vulnerability (tested on Pixel 3 XL) | https://github.com/themmokhtar/CVE-2020-0022 | 0 | 1| 
 | 20231006T11:07:51Z | Kubernetes Attack Graph | https://github.com/DataDog/KubeHound | 224 | 10| 
@@ -72,7 +73,6 @@
 | 20231006T04:51:09Z | Empowering Farmers and Consumers in India by Ensuring Transparent Supply Chains that Guard Against Middlemen Exploitation. | https://github.com/Srik04/clear_trade | 0 | 1| 
 | 20231006T01:36:20Z | In this project, the various technologies used in Nextjs are exploited as well as the server and client side approaches to any project implementation. | https://github.com/Emmanuel-Dominic/nextjs-moment | 0 | 0| 
 | 20231006T00:13:41Z | Exploit for Hacking Roblox, Support multiples Api | https://github.com/itachicoders/Solidity-Sploit | 0 | 0| 
-| 20231006T00:09:34Z | Subiré todo lo que voy aprendiendo para poder progresar en este rubro, tanto exploits a puertos, informes de lo que hago, utilización de Python e Bash, destacar mi entendimiento en Redes y manejo de diferentes SO (Kali Linux, Parrot, Windows Server, Windows 10) | https://github.com/FranAlc/RutaHacking | 0 | 0| 
 
 
 # backdoor on Github 推荐
