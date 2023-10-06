@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231006T12:11:40Z | CVE-2020-0022 | A fully public exploit of the CVE-2020-0022 BlueFrag Android RCE Vulnerability (tested on Pixel 3 XL) | https://github.com/themmokhtar/CVE-2020-0022 | | 
 | 20231006T11:04:35Z | CVE-2023-5217 | Null | https://github.com/Trinadh465/platform_external_libvpx_v1.4.0_CVE-2023-5217 | | 
 | 20231006T10:45:57Z | CVE-2023-5217 | Null | https://github.com/Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217 | | 
 | 20231006T10:17:22Z | CVE-2023-4863 | Null | https://github.com/mistymntncop/CVE-2023-4863 | | 
@@ -35,7 +36,6 @@
 | 20231006T02:57:31Z | CVE-2023-38501 | Mass exploit - CVE-2023-38501 - Copyparty < Cross-Site Scripting [XSS] | https://github.com/codeb0ss/CVE-2023-38501-Exploit | | 
 | 20231006T01:42:52Z | CVE-2023-4911 | PoC for CVE-2023-4911 | https://github.com/leesh3288/CVE-2023-4911 | | 
 | 20231006T01:41:26Z | CVE-2023-41892 | Mass check CVE-2023-41892 - Craft CMS Remote Code Execution (RCE) | https://github.com/zaenhaxor/CVE-2023-41892 | | 
-| 20231006T01:40:42Z | CVE-2023-4911 | CVE-2023-4911 proof of concept | https://github.com/RickdeJager/CVE-2023-4911 | | 
 
 
 # klee on Github 推荐
@@ -63,6 +63,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231006T12:13:11Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-806-0090-0007-app-1BUMJ-exploit-shut | 0 | 0| 
+| 20231006T12:11:40Z | A fully public exploit of the CVE-2020-0022 BlueFrag Android RCE Vulnerability (tested on Pixel 3 XL) | https://github.com/themmokhtar/CVE-2020-0022 | 0 | 1| 
 | 20231006T11:07:51Z | Kubernetes Attack Graph | https://github.com/DataDog/KubeHound | 224 | 10| 
 | 20231006T10:39:22Z | MESEN: Exploit Multimodal Data to Design Unimodal Human Activity Recognition with Few Labels  | https://github.com/initxu/MESEN | 0 | 0| 
 | 20231006T07:46:02Z | Kernel Exploit Assistance Tools | https://github.com/Cheshire1225/KEAT | 0 | 0| 
@@ -71,8 +73,6 @@
 | 20231006T01:36:20Z | In this project, the various technologies used in Nextjs are exploited as well as the server and client side approaches to any project implementation. | https://github.com/Emmanuel-Dominic/nextjs-moment | 0 | 0| 
 | 20231006T00:13:41Z | Exploit for Hacking Roblox, Support multiples Api | https://github.com/itachicoders/Solidity-Sploit | 0 | 0| 
 | 20231006T00:09:34Z | Subiré todo lo que voy aprendiendo para poder progresar en este rubro, tanto exploits a puertos, informes de lo que hago, utilización de Python e Bash, destacar mi entendimiento en Redes y manejo de diferentes SO (Kali Linux, Parrot, Windows Server, Windows 10) | https://github.com/FranAlc/RutaHacking | 0 | 0| 
-| 20231005T23:58:47Z | GitOps Repository | https://github.com/redhat-appstudio-qe/byoc-app-ypjz-Nib2o-measure-exploit | 0 | 0| 
-| 20231005T22:46:22Z | Null | https://github.com/fantasy0x1/symfony-exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
