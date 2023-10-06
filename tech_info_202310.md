@@ -26,9 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231006T01:42:52Z | CVE-2023-4911 | PoC for CVE-2023-4911 | https://github.com/leesh3288/CVE-2023-4911 | | 
 | 20231006T01:41:26Z | CVE-2023-41892 | Mass check CVE-2023-41892 - Craft CMS Remote Code Execution (RCE) | https://github.com/zaenhaxor/CVE-2023-41892 | | 
 | 20231006T01:40:42Z | CVE-2023-4911 | CVE-2023-4911 proof of concept | https://github.com/RickdeJager/CVE-2023-4911 | | 
-| 20231006T01:16:51Z | CVE-2023-4911 | PoC for CVE-2023-4911 | https://github.com/leesh3288/CVE-2023-4911 | | 
 | 20231006T01:14:44Z | CVE-2023-4863 | Null | https://github.com/mistymntncop/CVE-2023-4863 | | 
 | 20231005T22:57:38Z | CVE-2022-22817 | Example of CVE-2022-22817  | https://github.com/JawadPy/CVE-2022-22817 | | 
 | 20231005T22:00:39Z | CVE-2023-33831 | Description and exploit of CVE-2023-33831 affecting FUXA web-based Process Visualization (SCADA/HMI/Dashboard) software. | https://github.com/rodolfomarianocy/Unauthenticated-RCE-FUXA-CVE-2023-33831 | | 
@@ -112,6 +112,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231006T01:45:05Z | Fuzz Testing using Jazzer | https://github.com/M-Faheem-Khan/PasswordManager | 0 | 0| 
 | 20231006T01:08:39Z | Null | https://github.com/Nanang32/fuzzy-Disaster-Landslide-case-onmajene | 0 | 0| 
 | 20231006T00:54:48Z | Website testing | https://github.com/fuzzy-singularity/fuzzy-singularity.github.io | 0 | 0| 
 | 20231006T00:22:54Z | Desenvolva um controlador fuzzy para um sistema | https://github.com/eduardosatiro/controlador-fuzzy | 0 | 0| 
@@ -121,7 +122,6 @@
 | 20231005T12:38:53Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 49220 | 23243| 
 | 20231005T11:27:16Z |  Fuzzy logic for brake control under a fictitious condition | https://github.com/ohananoshi/fuzzy_brake_controller | 0 | 0| 
 | 20231005T10:58:16Z | Merges two DataFrames using fuzzy matching on specified columns | https://github.com/hansalemaos/a_pandas_ex_fuzzymerge | 0 | 0| 
-| 20231005T10:49:53Z | An implementation of some examples of Fuzzy Logic | https://github.com/geeksloth/fuzzy-logic-examples | 0 | 0| 
 
 
 
