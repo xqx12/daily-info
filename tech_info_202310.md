@@ -112,6 +112,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231006T00:54:48Z | Website testing | https://github.com/fuzzy-singularity/fuzzy-singularity.github.io | 0 | 0| 
 | 20231006T00:36:42Z | Null | https://github.com/Nanang32/fuzzy-Disaster-Landslide-case-onmajene | 0 | 0| 
 | 20231006T00:22:54Z | Desenvolva um controlador fuzzy para um sistema | https://github.com/eduardosatiro/controlador-fuzzy | 0 | 0| 
 | 20231005T23:44:54Z | Your predefined text, inserted instantly | https://github.com/johmsalas/tmux-fuzzy-typer | 0 | 0| 
@@ -121,7 +122,6 @@
 | 20231005T11:27:16Z |  Fuzzy logic for brake control under a fictitious condition | https://github.com/ohananoshi/fuzzy_brake_controller | 0 | 0| 
 | 20231005T10:58:16Z | Merges two DataFrames using fuzzy matching on specified columns | https://github.com/hansalemaos/a_pandas_ex_fuzzymerge | 0 | 0| 
 | 20231005T10:49:53Z | An implementation of some examples of Fuzzy Logic | https://github.com/geeksloth/fuzzy-logic-examples | 0 | 0| 
-| 20231005T09:22:16Z | Null | https://github.com/surajsawant26/fuzzy-waffle | 0 | 0| 
 
 
 
