@@ -50,11 +50,11 @@
 | 20231006T12:11:40Z | A fully public exploit of the CVE-2020-0022 BlueFrag Android RCE Vulnerability (tested on Pixel 3 XL) | https://github.com/themmokhtar/CVE-2020-0022 | 0 | 1| 
 | 20231006T11:07:51Z | Kubernetes Attack Graph | https://github.com/DataDog/KubeHound | 224 | 10| 
 | 20231006T10:39:22Z | MESEN: Exploit Multimodal Data to Design Unimodal Human Activity Recognition with Few Labels  | https://github.com/initxu/MESEN | 0 | 0| 
+| 20231006T08:45:18Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5394 | 1053| 
 | 20231006T07:46:02Z | Kernel Exploit Assistance Tools | https://github.com/Cheshire1225/KEAT | 0 | 0| 
 | 20231006T07:06:45Z | Windows Exploit Protection Settings (Ultimate) | https://github.com/neohiro/ExploitProtection | 11 | 1| 
 | 20231006T04:51:09Z | Empowering Farmers and Consumers in India by Ensuring Transparent Supply Chains that Guard Against Middlemen Exploitation. | https://github.com/Srik04/clear_trade | 0 | 1| 
 | 20231006T01:36:20Z | In this project, the various technologies used in Nextjs are exploited as well as the server and client side approaches to any project implementation. | https://github.com/Emmanuel-Dominic/nextjs-moment | 0 | 0| 
-| 20231006T00:13:41Z | Exploit for Hacking Roblox, Support multiples Api | https://github.com/itachicoders/Solidity-Sploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
