@@ -112,8 +112,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231006T01:08:39Z | Null | https://github.com/Nanang32/fuzzy-Disaster-Landslide-case-onmajene | 0 | 0| 
 | 20231006T00:54:48Z | Website testing | https://github.com/fuzzy-singularity/fuzzy-singularity.github.io | 0 | 0| 
-| 20231006T00:36:42Z | Null | https://github.com/Nanang32/fuzzy-Disaster-Landslide-case-onmajene | 0 | 0| 
 | 20231006T00:22:54Z | Desenvolva um controlador fuzzy para um sistema | https://github.com/eduardosatiro/controlador-fuzzy | 0 | 0| 
 | 20231005T23:44:54Z | Your predefined text, inserted instantly | https://github.com/johmsalas/tmux-fuzzy-typer | 0 | 0| 
 | 20231005T22:44:27Z | Hardware build - audio signal boost/distortion/fuzz | https://github.com/apacific/Scrambler-Fuzz | 0 | 0| 
