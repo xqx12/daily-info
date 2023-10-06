@@ -16,7 +16,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231005T23:18:24Z | CVE-2023-4911 | CVE-2023-4911 proof of concept | https://github.com/RickdeJager/CVE-2023-4911 | | 
 | 20231005T22:57:38Z | CVE-2022-22817 | Example of CVE-2022-22817  | https://github.com/JawadPy/CVE-2022-22817 | | 
 | 20231005T22:46:43Z | CVE-2023-4911 | PoC for CVE-2023-4911 | https://github.com/leesh3288/CVE-2023-4911 | | 
 | 20231005T22:00:39Z | CVE-2023-33831 | Description and exploit of CVE-2023-33831 affecting FUXA web-based Process Visualization (SCADA/HMI/Dashboard) software. | https://github.com/rodolfomarianocy/Unauthenticated-RCE-FUXA-CVE-2023-33831 | | 
@@ -26,6 +25,7 @@
 | 20231005T14:40:12Z | CVE-2023-4863 | Null | https://github.com/mistymntncop/CVE-2023-4863 | | 
 | 20231005T10:32:25Z | CVE-2023-21275 | Null | https://github.com/Trinadh465/packages_apps_ManagedProvisioning_AOSP10_r33_CVE-2023-21275 | | 
 | 20231005T09:22:59Z | CVE-2023-21284 | Null | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21284 | | 
+| 20231005T08:22:24Z | CVE-2022-2414 | CVE-2022-2414 POC | https://github.com/strikersatya/CVE-2022-2414 | | 
 
 
 # klee on Github 推荐
@@ -69,7 +69,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231005T05:25:08Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2325 | 636| 
+| 20231005T14:30:40Z | Bottom-up memory-safety for assembly language using symbolic execution | https://github.com/scaspin/memory-safe-assembly | 1 | 0| 
+| 20231005T13:39:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2326 | 636| 
 | 20231005T01:06:38Z | A Dynamic Symbolic Execution (DSE) engine for JavaScript. ExpoSE is highly scalable, compatible with recent JavaScript standards, and supports symbolic modelling of strings and regular expressions. | https://github.com/ExpoSEJS/ExpoSE | 166 | 28| 
 | 20231005T00:26:08Z | A symbolic execution engine for peephole optimization | https://github.com/skberkeley/sepo | 0 | 0| 
 

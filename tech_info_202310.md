@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231005T23:18:24Z | CVE-2023-4911 | CVE-2023-4911 proof of concept | https://github.com/RickdeJager/CVE-2023-4911 | | 
+| 20231006T00:00:18Z | CVE-2023-4911 | CVE-2023-4911 proof of concept | https://github.com/RickdeJager/CVE-2023-4911 | | 
 | 20231005T22:57:38Z | CVE-2022-22817 | Example of CVE-2022-22817  | https://github.com/JawadPy/CVE-2022-22817 | | 
 | 20231005T22:46:43Z | CVE-2023-4911 | PoC for CVE-2023-4911 | https://github.com/leesh3288/CVE-2023-4911 | | 
 | 20231005T22:00:39Z | CVE-2023-33831 | Description and exploit of CVE-2023-33831 affecting FUXA web-based Process Visualization (SCADA/HMI/Dashboard) software. | https://github.com/rodolfomarianocy/Unauthenticated-RCE-FUXA-CVE-2023-33831 | | 
@@ -93,10 +93,11 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231005T05:25:08Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2325 | 636| 
+| 20231005T14:30:40Z | Bottom-up memory-safety for assembly language using symbolic execution | https://github.com/scaspin/memory-safe-assembly | 1 | 0| 
+| 20231005T13:39:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2326 | 636| 
 | 20231005T01:06:38Z | A Dynamic Symbolic Execution (DSE) engine for JavaScript. ExpoSE is highly scalable, compatible with recent JavaScript standards, and supports symbolic modelling of strings and regular expressions. | https://github.com/ExpoSEJS/ExpoSE | 166 | 28| 
 | 20231005T00:26:08Z | A symbolic execution engine for peephole optimization | https://github.com/skberkeley/sepo | 0 | 0| 
-| 20231004T21:21:25Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 64 | 26| 
+| 20231004T21:21:25Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 64 | 27| 
 | 20231002T14:02:45Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3545 | 490| 
 | 20231002T12:32:55Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 357 | 82| 
 | 20231001T03:20:58Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 203 | 19| 
