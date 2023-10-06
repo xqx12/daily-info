@@ -112,7 +112,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231006T01:45:05Z | Fuzz Testing using Jazzer | https://github.com/M-Faheem-Khan/PasswordManager | 0 | 0| 
+| 20231006T01:49:43Z | Fuzz Testing using Jazzer | https://github.com/M-Faheem-Khan/PasswordManager | 0 | 0| 
 | 20231006T01:08:39Z | Null | https://github.com/Nanang32/fuzzy-Disaster-Landslide-case-onmajene | 0 | 0| 
 | 20231006T00:54:48Z | Website testing | https://github.com/fuzzy-singularity/fuzzy-singularity.github.io | 0 | 0| 
 | 20231006T00:22:54Z | Desenvolva um controlador fuzzy para um sistema | https://github.com/eduardosatiro/controlador-fuzzy | 0 | 0| 
