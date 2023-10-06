@@ -26,9 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231006T01:14:50Z | CVE-2023-41892 | Mass check CVE-2023-41892 - Craft CMS Remote Code Execution (RCE) | https://github.com/zaenhaxor/CVE-2023-41892 | | 
+| 20231006T01:16:51Z | CVE-2023-4911 | PoC for CVE-2023-4911 | https://github.com/leesh3288/CVE-2023-4911 | | 
+| 20231006T01:16:28Z | CVE-2023-41892 | Mass check CVE-2023-41892 - Craft CMS Remote Code Execution (RCE) | https://github.com/zaenhaxor/CVE-2023-41892 | | 
 | 20231006T01:14:44Z | CVE-2023-4863 | Null | https://github.com/mistymntncop/CVE-2023-4863 | | 
-| 20231006T00:51:21Z | CVE-2023-4911 | PoC for CVE-2023-4911 | https://github.com/leesh3288/CVE-2023-4911 | | 
 | 20231006T00:00:18Z | CVE-2023-4911 | CVE-2023-4911 proof of concept | https://github.com/RickdeJager/CVE-2023-4911 | | 
 | 20231005T22:57:38Z | CVE-2022-22817 | Example of CVE-2022-22817  | https://github.com/JawadPy/CVE-2022-22817 | | 
 | 20231005T22:00:39Z | CVE-2023-33831 | Description and exploit of CVE-2023-33831 affecting FUXA web-based Process Visualization (SCADA/HMI/Dashboard) software. | https://github.com/rodolfomarianocy/Unauthenticated-RCE-FUXA-CVE-2023-33831 | | 
