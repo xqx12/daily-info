@@ -112,6 +112,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231006T00:22:54Z | Desenvolva um controlador fuzzy para um sistema | https://github.com/eduardosatiro/controlador-fuzzy | 0 | 0| 
 | 20231005T23:44:54Z | Your predefined text, inserted instantly | https://github.com/johmsalas/tmux-fuzzy-typer | 0 | 0| 
 | 20231005T22:44:27Z | Hardware build - audio signal boost/distortion/fuzz | https://github.com/apacific/Scrambler-Fuzz | 0 | 0| 
 | 20231005T20:10:14Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9062 | 2011| 
@@ -121,7 +122,6 @@
 | 20231005T10:49:53Z | An implementation of some examples of Fuzzy Logic | https://github.com/geeksloth/fuzzy-logic-examples | 0 | 0| 
 | 20231005T09:22:16Z | Null | https://github.com/surajsawant26/fuzzy-waffle | 0 | 0| 
 | 20231005T07:58:20Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 410 | 54| 
-| 20231005T01:23:24Z | Getting started with fuzzing | https://github.com/clebsonsh/fuzz-go | 0 | 0| 
 
 
 
