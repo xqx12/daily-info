@@ -12,6 +12,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20231007 | 优化ChatGPT代码生成的提示词 | https://mp.weixin.qq.com/s/jc-kPX15HKxK7HFQZFsjXQ| 
+| 20231007 | Jumpserver安全一窥：Sep系列漏洞深度解析 | https://www.leavesongs.com/PENETRATION/jumpserver-sep-2023-multiple-vulnerabilities-go-through.html| 
 
 
 # CVE Github 推荐
