@@ -19,6 +19,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231007T12:56:35Z | CVE-2022-32548 | Null | https://github.com/gl3s7/CVE-2022-32548-PoC | | 
 | 20231007T10:46:23Z | CVE-2023-4863 | Null | https://github.com/mistymntncop/CVE-2023-4863 | | 
 | 20231007T09:38:45Z | CVE-2023-22515 | Scanner for CVE-2023-22515 - Broken Access Control Vulnerability in Atlassian Confluence | https://github.com/ErikWynter/CVE-2023-22515-Scan | | 
 | 20231007T07:59:39Z | CVE-2023-38501 | Mass exploit - CVE-2023-38501 - Copyparty < Cross-Site Scripting [XSS] | https://github.com/codeb0ss/CVE-2023-38501-Exploit | | 
@@ -28,7 +29,6 @@
 | 20231007T02:30:13Z | CVE-2023-34040 | Spring-Kafka-Deserialization-Remote-Code-Execution | https://github.com/pyn3rd/CVE-2023-34040 | | 
 | 20231007T01:36:02Z | CVE-2023-44813 | mooSocial v3.1.8 is vulnerable to cross-site scripting on Invite Friend function. | https://github.com/ahrixia/CVE-2023-44813 | | 
 | 20231007T01:33:21Z | CVE-2023-44812 | mooSocial v3.1.8 is vulnerable to cross-site scripting on Admin redirect function. | https://github.com/ahrixia/CVE-2023-44812 | | 
-| 20231007T01:28:43Z | CVE-2023-44811 | mooSocial v3.1.8 is vulnerable to Cross Site Request Forgery (CSRF) which allows attacker to change admin password. | https://github.com/ahrixia/CVE-2023-44811 | | 
 
 
 # klee on Github 推荐
