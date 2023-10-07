@@ -78,7 +78,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231007T00:59:43Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 13 | 2| 
+| 20231007T01:15:49Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 14 | 2| 
+| 20231007T01:15:06Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 240 | 57| 
 | 20231006T19:20:17Z | You should never use malware to infiltrate a target system. With the skill of writing and exploiting technical codes, you can do the best ways of penetration. This is done in order to test and increase the security of the open sourcecode. | https://github.com/AiGptCode/ANYDESK-BACKDOOR | 1 | 0| 
 | 20231006T15:51:34Z | PlugManX remake <3 anti add backdoor and v.v | https://github.com/learnjavalorant/PlugGay | 0 | 0| 
 | 20231006T14:40:37Z | Null | https://github.com/zacharimayer/MOO-Backdoor | 0 | 0| 
@@ -87,7 +88,6 @@
 | 20231005T12:40:03Z | Null | https://github.com/automatefreely/Backdoor-CLI | 1 | 0| 
 | 20231005T11:45:48Z | PCI Express DIY hacking toolkit for Xilinx SP605. This repository is also home of Hyper-V Backdoor and Boot Backdoor, check readme for links and info | https://github.com/Cr4sh/s6_pcie_microblaze | 627 | 139| 
 | 20231004T22:54:26Z | Telegram backdoor bot to manually update the Activity Indicator in case of internet outages or other failures | https://github.com/TU-DO-Makerspace/Activity-Indicator-Backdoor | 0 | 0| 
-| 20231004T21:53:34Z | Null | https://github.com/Nicke-code/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
