@@ -30,12 +30,12 @@
 | 20231007T01:33:21Z | CVE-2023-44812 | mooSocial v3.1.8 is vulnerable to cross-site scripting on Admin redirect function. | https://github.com/ahrixia/CVE-2023-44812 | | 
 | 20231007T01:31:23Z | CVE-2023-22515 | Scanner for CVE-2023-22515 - Broken Access Control Vulnerability in Atlassian Confluence | https://github.com/ErikWynter/CVE-2023-22515-Scan | | 
 | 20231007T01:28:43Z | CVE-2023-44811 | mooSocial v3.1.8 is vulnerable to Cross Site Request Forgery (CSRF) which allows attacker to change admin password. | https://github.com/ahrixia/CVE-2023-44811 | | 
+| 20231007T01:17:35Z | CVE-2023-34040 | Spring-Kafka-Deserialization-Remote-Code-Execution | https://github.com/pyn3rd/CVE-2023-34040 | | 
 | 20231006T23:23:07Z | CVE-2023-4911 | CVE-2023-4911 proof of concept | https://github.com/RickdeJager/CVE-2023-4911 | | 
 | 20231006T15:34:33Z | CVE-2021-3560 | CVE-2021-3560 Bypass su - root | https://github.com/TieuLong21Prosper/CVE-2021-3560 | | 
 | 20231006T12:20:01Z | CVE-2023-44962 | PoC for CVE-2023-44962 | https://github.com/ggb0n/CVE-2023-44962 | | 
 | 20231006T12:11:40Z | CVE-2020-0022 | A fully public exploit of the CVE-2020-0022 BlueFrag Android RCE Vulnerability (tested on Pixel 3 XL) | https://github.com/themmokhtar/CVE-2020-0022 | | 
 | 20231006T11:04:35Z | CVE-2023-5217 | Null | https://github.com/Trinadh465/platform_external_libvpx_v1.4.0_CVE-2023-5217 | | 
-| 20231006T10:45:57Z | CVE-2023-5217 | Null | https://github.com/Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217 | | 
 
 
 # klee on Github 推荐
