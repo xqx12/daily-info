@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231007T01:28:43Z | CVE-2023-44811 | mooSocial v3.1.8 is vulnerable to Cross Site Request Forgery (CSRF) which allows attacker to change admin password. | https://github.com/ahrixia/CVE-2023-44811 | | 
 | 20231007T00:48:40Z | CVE-2023-22515 | Scanner for CVE-2023-22515 - Broken Access Control Vulnerability in Atlassian Confluence | https://github.com/ErikWynter/CVE-2023-22515-Scan | | 
 | 20231006T23:23:07Z | CVE-2023-4911 | CVE-2023-4911 proof of concept | https://github.com/RickdeJager/CVE-2023-4911 | | 
 | 20231006T15:34:33Z | CVE-2021-3560 | CVE-2021-3560 Bypass su - root | https://github.com/TieuLong21Prosper/CVE-2021-3560 | | 
@@ -35,7 +36,6 @@
 | 20231006T10:45:57Z | CVE-2023-5217 | Null | https://github.com/Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217 | | 
 | 20231006T10:17:22Z | CVE-2023-4863 | Null | https://github.com/mistymntncop/CVE-2023-4863 | | 
 | 20231006T10:00:00Z | CVE-2021-44228 | Utilize Tai-e to identify the Log4shell (a.k.a. CVE-2021-44228) Vulnerability | https://github.com/Tai-e/CVE-2021-44228 | | 
-| 20231006T08:19:03Z | CVE-2023-4911 | https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt | https://github.com/Green-Avocado/CVE-2023-4911 | | 
 
 
 # klee on Github 推荐
@@ -63,6 +63,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231007T01:29:32Z | Official code for ICASSP 2023 paper, %Exploiting Semantic Attributes for Transductive Zero-Shot Learning% | https://github.com/mrflogs/icassp23 | 0 | 0| 
+| 20231007T01:27:41Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-ed2b76e5-f39e-41b7-920c-49aa304039e3-tThYA-wan-exploit | 0 | 0| 
 | 20231007T01:08:31Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-lo | 1 | 0| 
 | 20231007T01:07:39Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0050-0048-app-elo4a-exploit-behave | 0 | 0| 
 | 20231007T01:07:37Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-lo | 1 | 0| 
@@ -71,8 +73,6 @@
 | 20231007T00:47:02Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-368ca834-fdd2-4a80-b3cc-4c09028591a6-eQDRK-hope-exploit | 0 | 0| 
 | 20231007T00:00:36Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-f78fd2e6-e436-41cd-a9c1-f9a485c15fe8-wRgBy-behave-exploit | 0 | 0| 
 | 20231006T23:40:20Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 11 | 2| 
-| 20231006T23:38:08Z | Uses a Exploit found by @Willy-JL and @ECTO-1A to crash IOS17 devices over bluetooth. | https://github.com/RapierXbox/ESP32-Sour-Apple | 82 | 5| 
-| 20231006T21:52:00Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 221 | 14| 
 
 
 # backdoor on Github 推荐
