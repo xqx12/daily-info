@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231007T00:47:02Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-368ca834-fdd2-4a80-b3cc-4c09028591a6-eQDRK-hope-exploit | 0 | 0| 
 | 20231007T00:00:36Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-f78fd2e6-e436-41cd-a9c1-f9a485c15fe8-wRgBy-behave-exploit | 0 | 0| 
 | 20231006T23:40:20Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 11 | 2| 
 | 20231006T23:38:08Z | Uses a Exploit found by @Willy-JL and @ECTO-1A to crash IOS17 devices over bluetooth. | https://github.com/RapierXbox/ESP32-Sour-Apple | 82 | 5| 
@@ -72,7 +73,6 @@
 | 20231006T18:58:37Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 573 | 111| 
 | 20231006T12:18:12Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-806-0090-0062-app-Beatl-exploit-find | 0 | 0| 
 | 20231006T12:13:11Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-806-0090-0007-app-1BUMJ-exploit-shut | 0 | 0| 
-| 20231006T12:11:40Z | A fully public exploit of the CVE-2020-0022 BlueFrag Android RCE Vulnerability (tested on Pixel 3 XL) | https://github.com/themmokhtar/CVE-2020-0022 | 0 | 1| 
 
 
 # backdoor on Github 推荐
