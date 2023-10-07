@@ -60,7 +60,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231007T09:03:41Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 22 | 2| 
+| 20231007T12:34:56Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 23 | 2| 
 | 20231007T08:02:42Z | Null | https://github.com/MELVIN10101/PYTHON-REVERSE_SHELL-BACKDOOR | 0 | 0| 
 | 20231007T07:58:05Z | PlugManX remake <3 anti add backdoor ,... | https://github.com/learnjavalorant/PlugGay | 0 | 0| 
 | 20231007T02:16:09Z | You should never use malware to infiltrate a target system. With the skill of writing and exploiting technical codes, you can do the best ways of penetration. This is done in order to test and increase the security of the open sourcecode. | https://github.com/AiGptCode/ANYDESK-BACKDOOR | 2 | 0| 
