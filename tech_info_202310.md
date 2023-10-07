@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231007T01:36:02Z | CVE-2023-44813 | mooSocial v3.1.8 is vulnerable to cross-site scripting on Invite Friend function. | https://github.com/ahrixia/CVE-2023-44813 | | 
 | 20231007T01:33:21Z | CVE-2023-44812 | mooSocial v3.1.8 is vulnerable to cross-site scripting on Admin redirect function. | https://github.com/ahrixia/CVE-2023-44812 | | 
 | 20231007T01:31:23Z | CVE-2023-22515 | Scanner for CVE-2023-22515 - Broken Access Control Vulnerability in Atlassian Confluence | https://github.com/ErikWynter/CVE-2023-22515-Scan | | 
 | 20231007T01:28:43Z | CVE-2023-44811 | mooSocial v3.1.8 is vulnerable to Cross Site Request Forgery (CSRF) which allows attacker to change admin password. | https://github.com/ahrixia/CVE-2023-44811 | | 
@@ -35,7 +36,6 @@
 | 20231006T12:11:40Z | CVE-2020-0022 | A fully public exploit of the CVE-2020-0022 BlueFrag Android RCE Vulnerability (tested on Pixel 3 XL) | https://github.com/themmokhtar/CVE-2020-0022 | | 
 | 20231006T11:04:35Z | CVE-2023-5217 | Null | https://github.com/Trinadh465/platform_external_libvpx_v1.4.0_CVE-2023-5217 | | 
 | 20231006T10:45:57Z | CVE-2023-5217 | Null | https://github.com/Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217 | | 
-| 20231006T10:17:22Z | CVE-2023-4863 | Null | https://github.com/mistymntncop/CVE-2023-4863 | | 
 
 
 # klee on Github 推荐
@@ -112,6 +112,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231007T01:37:09Z | Null | https://github.com/58215821/fuzzy-barnacle | 0 | 0| 
 | 20231007T00:40:01Z | Null | https://github.com/Matteusxa/fuzzy-invention | 0 | 0| 
 | 20231006T22:54:43Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9062 | 2013| 
 | 20231006T22:37:50Z | Creditos @ElPinguinoDeMario (Creador ) | https://github.com/FrankoSav/PYTHON-FUZZER | 0 | 0| 
@@ -121,7 +122,6 @@
 | 20231006T17:07:17Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4854 | 1164| 
 | 20231006T12:08:25Z | Potentially dangerous files | https://github.com/Bo0oM/fuzz.txt | 2670 | 479| 
 | 20231006T12:07:29Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 4117 | 496| 
-| 20231006T11:20:36Z | A slide puzzle game in flutter | https://github.com/0xapurv/Fuzzle | 0 | 0| 
 
 
 
