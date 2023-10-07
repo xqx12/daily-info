@@ -26,8 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231007T01:31:23Z | CVE-2023-22515 | Scanner for CVE-2023-22515 - Broken Access Control Vulnerability in Atlassian Confluence | https://github.com/ErikWynter/CVE-2023-22515-Scan | | 
 | 20231007T01:28:43Z | CVE-2023-44811 | mooSocial v3.1.8 is vulnerable to Cross Site Request Forgery (CSRF) which allows attacker to change admin password. | https://github.com/ahrixia/CVE-2023-44811 | | 
-| 20231007T00:48:40Z | CVE-2023-22515 | Scanner for CVE-2023-22515 - Broken Access Control Vulnerability in Atlassian Confluence | https://github.com/ErikWynter/CVE-2023-22515-Scan | | 
 | 20231006T23:23:07Z | CVE-2023-4911 | CVE-2023-4911 proof of concept | https://github.com/RickdeJager/CVE-2023-4911 | | 
 | 20231006T15:34:33Z | CVE-2021-3560 | CVE-2021-3560 Bypass su - root | https://github.com/TieuLong21Prosper/CVE-2021-3560 | | 
 | 20231006T12:20:01Z | CVE-2023-44962 | PoC for CVE-2023-44962 | https://github.com/ggb0n/CVE-2023-44962 | | 
@@ -78,7 +78,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231007T01:15:49Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 14 | 2| 
+| 20231007T01:30:21Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 15 | 2| 
 | 20231007T01:15:06Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 240 | 57| 
 | 20231006T19:20:17Z | You should never use malware to infiltrate a target system. With the skill of writing and exploiting technical codes, you can do the best ways of penetration. This is done in order to test and increase the security of the open sourcecode. | https://github.com/AiGptCode/ANYDESK-BACKDOOR | 1 | 0| 
 | 20231006T15:51:34Z | PlugManX remake <3 anti add backdoor and v.v | https://github.com/learnjavalorant/PlugGay | 0 | 0| 
