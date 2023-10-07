@@ -44,6 +44,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231007T12:22:38Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-e942582b-4323-4b7c-9020-0a5fcd8c728b-kMVKu-exploit-refuse | 0 | 0| 
+| 20231007T12:21:31Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-d3a7807f-fc48-479c-b857-ac7e22d44c85-lcMpU-exploit-divide | 0 | 0| 
 | 20231007T10:50:42Z | say some random shit when they say %hacker%, %hack% or %exploiter% | https://github.com/luktpro/random-say | 0 | 0| 
 | 20231007T10:28:33Z | Hybrid Spatial-Angular Exploitation Network | https://github.com/chenxzhen/HSAENet | 3 | 0| 
 | 20231007T10:27:18Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5557 | 760| 
@@ -52,8 +54,6 @@
 | 20231007T08:08:27Z | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 3632 | 535| 
 | 20231007T07:46:01Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5381 | 694| 
 | 20231007T03:23:52Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6012 | 795| 
-| 20231007T01:46:37Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-2f80e9c5-2683-4821-85a1-585ebf9494da-Q464F-see-exploit | 0 | 0| 
-| 20231007T01:43:21Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-40c2763e-c5f7-4d50-88a8-1b79c83065d3-9Y72g-accept-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
