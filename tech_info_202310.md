@@ -112,6 +112,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231007T12:09:48Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 983 | 242| 
 | 20231007T10:44:38Z | Full stack fuzzer? | https://github.com/yrezehi/Fuzztastic | 0 | 0| 
 | 20231007T09:11:45Z | Null | https://github.com/HenriqueDavidis/Trabalho-l-gica-fuzzy | 0 | 0| 
 | 20231007T02:52:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9064 | 2014| 
@@ -121,7 +122,6 @@
 | 20231006T19:02:15Z | Использование AFL++ для тестирования вашей программы на C++ | https://github.com/mishbanya/AFL-Cplusplus-fuzzing | 0 | 0| 
 | 20231006T18:45:50Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1838 | 325| 
 | 20231006T17:23:49Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2774 | 198| 
-| 20231006T17:07:17Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4854 | 1164| 
 
 
 
