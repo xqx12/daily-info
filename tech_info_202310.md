@@ -63,7 +63,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231007T01:07:24Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-lo | 0 | 0| 
+| 20231007T01:08:31Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-lo | 1 | 0| 
+| 20231007T01:07:39Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0050-0048-app-elo4a-exploit-behave | 0 | 0| 
+| 20231007T01:07:37Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-lo | 1 | 0| 
 | 20231007T01:06:25Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-l | 1 | 0| 
 | 20231007T01:04:55Z | Null | https://github.com/codingcore12/-SILENT-EXCEL-XLS-EXPLOIT-CLEAN-l | 1 | 0| 
 | 20231007T00:47:02Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-368ca834-fdd2-4a80-b3cc-4c09028591a6-eQDRK-hope-exploit | 0 | 0| 
@@ -71,8 +73,6 @@
 | 20231006T23:40:20Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 11 | 2| 
 | 20231006T23:38:08Z | Uses a Exploit found by @Willy-JL and @ECTO-1A to crash IOS17 devices over bluetooth. | https://github.com/RapierXbox/ESP32-Sour-Apple | 82 | 5| 
 | 20231006T21:37:12Z | A ChatGPT exploit developed by me. Working so far. Will keep you updated. | https://github.com/rainstech/BotGPT | 0 | 0| 
-| 20231006T20:30:29Z | Windows Exploit Protection Settings (Ultimate) | https://github.com/neohiro/ExploitProtection | 13 | 1| 
-| 20231006T19:20:17Z | You should never use malware to infiltrate a target system. With the skill of writing and exploiting technical codes, you can do the best ways of penetration. This is done in order to test and increase the security of the open sourcecode. | https://github.com/AiGptCode/ANYDESK-BACKDOOR | 1 | 0| 
 
 
 # backdoor on Github 推荐
