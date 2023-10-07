@@ -45,6 +45,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231007T12:48:23Z | This is a little thing I made for roblox islands, that will have all of my macro scripts (Not exploits, just macros and even a boss recognization and fighting script) | https://github.com/BellaHere/RobloxIslandsMacros | 0 | 0| 
+| 20231007T12:47:14Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-8878bbea-8f1d-44a1-a0c1-9e29173eb08f-8x9Yz-survive-exploit | 0 | 0| 
 | 20231007T12:36:54Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-fc57316c-6f14-428a-a69f-991bf9d8c7d2-3RyLU-laugh-exploit | 0 | 0| 
 | 20231007T12:22:38Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-e942582b-4323-4b7c-9020-0a5fcd8c728b-kMVKu-exploit-refuse | 0 | 0| 
 | 20231007T12:21:31Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-d3a7807f-fc48-479c-b857-ac7e22d44c85-lcMpU-exploit-divide | 0 | 0| 
@@ -53,8 +55,6 @@
 | 20231007T10:27:18Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5557 | 760| 
 | 20231007T08:25:31Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 742 | 179| 
 | 20231007T08:20:00Z | Voidware is a program that sets security to your batch program, stopping it from getting exploited (note: Big exploits will get patched later) | https://github.com/petruliviuadetu/Voidware-Batch-Security | 0 | 0| 
-| 20231007T08:08:27Z | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 3632 | 535| 
-| 20231007T07:46:01Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5381 | 694| 
 
 
 # backdoor on Github 推荐
