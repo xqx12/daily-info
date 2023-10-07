@@ -32,8 +32,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231007T12:41:05Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13967 | 423| 
 | 20231007T12:24:13Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 363 | 7| 
-| 20231007T08:17:26Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13966 | 423| 
 
 
 # s2e on Github 推荐
@@ -45,6 +45,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231007T12:36:54Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-fc57316c-6f14-428a-a69f-991bf9d8c7d2-3RyLU-laugh-exploit | 0 | 0| 
 | 20231007T12:22:38Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-e942582b-4323-4b7c-9020-0a5fcd8c728b-kMVKu-exploit-refuse | 0 | 0| 
 | 20231007T12:21:31Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-d3a7807f-fc48-479c-b857-ac7e22d44c85-lcMpU-exploit-divide | 0 | 0| 
 | 20231007T10:50:42Z | say some random shit when they say %hacker%, %hack% or %exploiter% | https://github.com/luktpro/random-say | 0 | 0| 
@@ -54,7 +55,6 @@
 | 20231007T08:20:00Z | Voidware is a program that sets security to your batch program, stopping it from getting exploited (note: Big exploits will get patched later) | https://github.com/petruliviuadetu/Voidware-Batch-Security | 0 | 0| 
 | 20231007T08:08:27Z | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 3632 | 535| 
 | 20231007T07:46:01Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5381 | 694| 
-| 20231007T03:23:52Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6012 | 795| 
 
 
 # backdoor on Github 推荐
