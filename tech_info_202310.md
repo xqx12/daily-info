@@ -11,6 +11,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20231007 | 优化ChatGPT代码生成的提示词 | https://mp.weixin.qq.com/s/jc-kPX15HKxK7HFQZFsjXQ| 
 | 20231006 | 浅析MITRE ATT&CK第5轮评估 | https://mp.weixin.qq.com/s/Q4AFOSCnjwV-cWkMnOV63w| 
 | 20231006 | GPTFUZZER：红队方式自动生成大型语言模型越狱提示词 | https://mp.weixin.qq.com/s/hcj1qIxwfHRuJ7rMpqfLxA| 
 | 20231004 | 部分中间人攻击手法简介 | https://xz.aliyun.com/t/12880| 
@@ -20,28 +21,27 @@
 | 20231003 | jumpserver最新re-auth复现（伪随机经典案例） | https://mp.weixin.qq.com/s/VShjaDI1McerX843YyOENw| 
 | 20231003 | GSE协议封装解析 | https://blog.minhal.me/2021/11/19/fe1a016ca798/| 
 | 20231003 | 跨GitHub和StackOverflow平台间的用户识别 | https://mp.weixin.qq.com/s/ZqFY9PTl207pCf0q1y75Vw| 
-| 20231003 | SecWiki周刊（第500期) | https://www.sec-wiki.com/weekly/500| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231007T10:46:23Z | CVE-2023-4863 | Null | https://github.com/mistymntncop/CVE-2023-4863 | | 
+| 20231007T09:38:45Z | CVE-2023-22515 | Scanner for CVE-2023-22515 - Broken Access Control Vulnerability in Atlassian Confluence | https://github.com/ErikWynter/CVE-2023-22515-Scan | | 
+| 20231007T07:59:39Z | CVE-2023-38501 | Mass exploit - CVE-2023-38501 - Copyparty < Cross-Site Scripting [XSS] | https://github.com/codeb0ss/CVE-2023-38501-Exploit | | 
+| 20231007T07:56:52Z | CVE-2020-0022 | A fully public exploit of the CVE-2020-0022 BlueFrag Android RCE Vulnerability (tested on Pixel 3 XL) | https://github.com/themmokhtar/CVE-2020-0022 | | 
+| 20231007T03:24:45Z | CVE-2023-36845 | CVE-2023-36845  | https://github.com/zaenhaxor/CVE-2023-36845 | | 
+| 20231007T03:22:41Z | CVE-2023-41892 | CVE-2023-41892 - Craft CMS Remote Code Execution (RCE) | https://github.com/zaenhaxor/CVE-2023-41892 | | 
+| 20231007T02:30:13Z | CVE-2023-34040 | Spring-Kafka-Deserialization-Remote-Code-Execution | https://github.com/pyn3rd/CVE-2023-34040 | | 
 | 20231007T01:36:02Z | CVE-2023-44813 | mooSocial v3.1.8 is vulnerable to cross-site scripting on Invite Friend function. | https://github.com/ahrixia/CVE-2023-44813 | | 
 | 20231007T01:33:21Z | CVE-2023-44812 | mooSocial v3.1.8 is vulnerable to cross-site scripting on Admin redirect function. | https://github.com/ahrixia/CVE-2023-44812 | | 
-| 20231007T01:31:23Z | CVE-2023-22515 | Scanner for CVE-2023-22515 - Broken Access Control Vulnerability in Atlassian Confluence | https://github.com/ErikWynter/CVE-2023-22515-Scan | | 
 | 20231007T01:28:43Z | CVE-2023-44811 | mooSocial v3.1.8 is vulnerable to Cross Site Request Forgery (CSRF) which allows attacker to change admin password. | https://github.com/ahrixia/CVE-2023-44811 | | 
-| 20231007T01:17:35Z | CVE-2023-34040 | Spring-Kafka-Deserialization-Remote-Code-Execution | https://github.com/pyn3rd/CVE-2023-34040 | | 
-| 20231006T23:23:07Z | CVE-2023-4911 | CVE-2023-4911 proof of concept | https://github.com/RickdeJager/CVE-2023-4911 | | 
-| 20231006T15:34:33Z | CVE-2021-3560 | CVE-2021-3560 Bypass su - root | https://github.com/TieuLong21Prosper/CVE-2021-3560 | | 
-| 20231006T12:20:01Z | CVE-2023-44962 | PoC for CVE-2023-44962 | https://github.com/ggb0n/CVE-2023-44962 | | 
-| 20231006T12:11:40Z | CVE-2020-0022 | A fully public exploit of the CVE-2020-0022 BlueFrag Android RCE Vulnerability (tested on Pixel 3 XL) | https://github.com/themmokhtar/CVE-2020-0022 | | 
-| 20231006T11:04:35Z | CVE-2023-5217 | Null | https://github.com/Trinadh465/platform_external_libvpx_v1.4.0_CVE-2023-5217 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231007T00:52:59Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13960 | 423| 
+| 20231007T08:17:26Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13966 | 423| 
 | 20231006T07:44:57Z | Null | https://github.com/mm7274a00/klee231006 | 0 | 0| 
 | 20231005T22:56:18Z | klee muter | https://github.com/sponskun/klee | 0 | 0| 
 | 20231005T13:39:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2326 | 636| 
@@ -63,31 +63,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231007T10:50:42Z | say some random shit when they say %hacker%, %hack% or %exploiter% | https://github.com/luktpro/random-say | 0 | 0| 
+| 20231007T10:28:33Z | Hybrid Spatial-Angular Exploitation Network | https://github.com/chenxzhen/HSAENet | 3 | 0| 
+| 20231007T10:27:18Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5557 | 760| 
+| 20231007T08:25:31Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 742 | 179| 
+| 20231007T08:20:00Z | Voidware is a program that sets security to your batch program, stopping it from getting exploited (note: Big exploits will get patched later) | https://github.com/petruliviuadetu/Voidware-Batch-Security | 0 | 0| 
+| 20231007T08:08:27Z | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/AzeemIdrisi/PhoneSploit-Pro | 3632 | 535| 
+| 20231007T07:46:01Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5381 | 694| 
+| 20231007T03:23:52Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6012 | 795| 
 | 20231007T01:46:37Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-2f80e9c5-2683-4821-85a1-585ebf9494da-Q464F-see-exploit | 0 | 0| 
 | 20231007T01:43:21Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-40c2763e-c5f7-4d50-88a8-1b79c83065d3-9Y72g-accept-exploit | 0 | 0| 
-| 20231007T01:29:32Z | Official code for ICASSP 2023 paper, %Exploiting Semantic Attributes for Transductive Zero-Shot Learning% | https://github.com/mrflogs/icassp23 | 0 | 0| 
-| 20231007T01:27:41Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-ed2b76e5-f39e-41b7-920c-49aa304039e3-tThYA-wan-exploit | 0 | 0| 
-| 20231007T01:08:31Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-lo | 1 | 0| 
-| 20231007T01:07:39Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0050-0048-app-elo4a-exploit-behave | 0 | 0| 
-| 20231007T01:07:37Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-lo | 1 | 0| 
-| 20231007T01:06:25Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-l | 1 | 0| 
-| 20231007T01:04:55Z | Null | https://github.com/codingcore12/-SILENT-EXCEL-XLS-EXPLOIT-CLEAN-l | 1 | 0| 
-| 20231007T00:47:02Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-368ca834-fdd2-4a80-b3cc-4c09028591a6-eQDRK-hope-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231007T01:30:21Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 15 | 2| 
+| 20231007T09:03:41Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 22 | 2| 
+| 20231007T08:02:42Z | Null | https://github.com/MELVIN10101/PYTHON-REVERSE_SHELL-BACKDOOR | 0 | 0| 
+| 20231007T07:58:05Z | PlugManX remake <3 anti add backdoor ,... | https://github.com/learnjavalorant/PlugGay | 0 | 0| 
+| 20231007T02:16:09Z | You should never use malware to infiltrate a target system. With the skill of writing and exploiting technical codes, you can do the best ways of penetration. This is done in order to test and increase the security of the open sourcecode. | https://github.com/AiGptCode/ANYDESK-BACKDOOR | 2 | 0| 
 | 20231007T01:15:06Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 240 | 57| 
-| 20231006T19:20:17Z | You should never use malware to infiltrate a target system. With the skill of writing and exploiting technical codes, you can do the best ways of penetration. This is done in order to test and increase the security of the open sourcecode. | https://github.com/AiGptCode/ANYDESK-BACKDOOR | 1 | 0| 
-| 20231006T15:51:34Z | PlugManX remake <3 anti add backdoor and v.v | https://github.com/learnjavalorant/PlugGay | 0 | 0| 
 | 20231006T14:40:37Z | Null | https://github.com/zacharimayer/MOO-Backdoor | 0 | 0| 
 | 20231006T07:38:40Z | The open-sourced Python toolbox for backdoor attacks and defenses. | https://github.com/THUYimingLi/BackdoorBox | 294 | 55| 
 | 20231005T20:07:05Z | A simple backdoor made with python. Ability to run any system commands, upload or download any files from the victim. | https://github.com/ronnie-1947/python_backdoor | 0 | 0| 
 | 20231005T12:40:03Z | Null | https://github.com/automatefreely/Backdoor-CLI | 1 | 0| 
 | 20231005T11:45:48Z | PCI Express DIY hacking toolkit for Xilinx SP605. This repository is also home of Hyper-V Backdoor and Boot Backdoor, check readme for links and info | https://github.com/Cr4sh/s6_pcie_microblaze | 627 | 139| 
-| 20231004T22:54:26Z | Telegram backdoor bot to manually update the Activity Indicator in case of internet outages or other failures | https://github.com/TU-DO-Makerspace/Activity-Indicator-Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -112,16 +112,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231007T10:44:38Z | Full stack fuzzer? | https://github.com/yrezehi/Fuzztastic | 0 | 0| 
+| 20231007T09:11:45Z | Null | https://github.com/HenriqueDavidis/Trabalho-l-gica-fuzzy | 0 | 0| 
+| 20231007T02:52:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9064 | 2014| 
 | 20231007T01:37:09Z | Null | https://github.com/58215821/fuzzy-barnacle | 0 | 0| 
 | 20231007T00:40:01Z | Null | https://github.com/Matteusxa/fuzzy-invention | 0 | 0| 
-| 20231006T22:54:43Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9062 | 2013| 
 | 20231006T22:37:50Z | Creditos @ElPinguinoDeMario (Creador ) | https://github.com/FrankoSav/PYTHON-FUZZER | 0 | 0| 
 | 20231006T19:02:15Z | Использование AFL++ для тестирования вашей программы на C++ | https://github.com/mishbanya/AFL-Cplusplus-fuzzing | 0 | 0| 
 | 20231006T18:45:50Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1838 | 325| 
 | 20231006T17:23:49Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2774 | 198| 
 | 20231006T17:07:17Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4854 | 1164| 
-| 20231006T12:08:25Z | Potentially dangerous files | https://github.com/Bo0oM/fuzz.txt | 2670 | 479| 
-| 20231006T12:07:29Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 4117 | 496| 
 
 
 
