@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231007T01:06:25Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-l | 1 | 0| 
 | 20231007T01:04:55Z | Null | https://github.com/codingcore12/-SILENT-EXCEL-XLS-EXPLOIT-CLEAN-l | 1 | 0| 
 | 20231007T00:47:02Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-368ca834-fdd2-4a80-b3cc-4c09028591a6-eQDRK-hope-exploit | 0 | 0| 
 | 20231007T00:00:36Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-f78fd2e6-e436-41cd-a9c1-f9a485c15fe8-wRgBy-behave-exploit | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20231006T20:30:29Z | Windows Exploit Protection Settings (Ultimate) | https://github.com/neohiro/ExploitProtection | 13 | 1| 
 | 20231006T19:20:17Z | You should never use malware to infiltrate a target system. With the skill of writing and exploiting technical codes, you can do the best ways of penetration. This is done in order to test and increase the security of the open sourcecode. | https://github.com/AiGptCode/ANYDESK-BACKDOOR | 1 | 0| 
 | 20231006T18:58:37Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 573 | 111| 
-| 20231006T12:18:12Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-806-0090-0062-app-Beatl-exploit-find | 0 | 0| 
 
 
 # backdoor on Github 推荐
