@@ -112,6 +112,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231007T00:40:01Z | Null | https://github.com/Matteusxa/fuzzy-invention | 0 | 0| 
 | 20231006T22:54:43Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9062 | 2013| 
 | 20231006T22:37:50Z | Creditos @ElPinguinoDeMario (Creador ) | https://github.com/FrankoSav/PYTHON-FUZZER | 0 | 0| 
 | 20231006T19:02:15Z | Использование AFL++ для тестирования вашей программы на C++ | https://github.com/mishbanya/AFL-Cplusplus-fuzzing | 0 | 0| 
@@ -121,7 +122,6 @@
 | 20231006T12:08:25Z | Potentially dangerous files | https://github.com/Bo0oM/fuzz.txt | 2670 | 479| 
 | 20231006T12:07:29Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 4117 | 496| 
 | 20231006T11:20:36Z | A slide puzzle game in flutter | https://github.com/0xapurv/Fuzzle | 0 | 0| 
-| 20231006T10:44:37Z | Fuzzy support vector machine with graph for classifying imbalanced datasets | https://github.com/ChenBHXMU/Fuzzy-support-vector-machine-with-graph-for-classifying-imbalanced-datasets | 0 | 0| 
 
 
 
