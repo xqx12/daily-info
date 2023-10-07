@@ -72,7 +72,7 @@
 | 20231007T00:00:36Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-f78fd2e6-e436-41cd-a9c1-f9a485c15fe8-wRgBy-behave-exploit | 0 | 0| 
 | 20231006T23:40:20Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 11 | 2| 
 | 20231006T23:38:08Z | Uses a Exploit found by @Willy-JL and @ECTO-1A to crash IOS17 devices over bluetooth. | https://github.com/RapierXbox/ESP32-Sour-Apple | 82 | 5| 
-| 20231006T21:37:12Z | A ChatGPT exploit developed by me. Working so far. Will keep you updated. | https://github.com/rainstech/BotGPT | 0 | 0| 
+| 20231006T21:52:00Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 221 | 14| 
 
 
 # backdoor on Github 推荐
