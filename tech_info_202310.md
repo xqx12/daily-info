@@ -69,10 +69,10 @@
 | 20231006T21:37:12Z | A ChatGPT exploit developed by me. Working so far. Will keep you updated. | https://github.com/rainstech/BotGPT | 0 | 0| 
 | 20231006T20:30:29Z | Windows Exploit Protection Settings (Ultimate) | https://github.com/neohiro/ExploitProtection | 13 | 1| 
 | 20231006T19:20:17Z | You should never use malware to infiltrate a target system. With the skill of writing and exploiting technical codes, you can do the best ways of penetration. This is done in order to test and increase the security of the open sourcecode. | https://github.com/AiGptCode/ANYDESK-BACKDOOR | 1 | 0| 
+| 20231006T18:58:37Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 573 | 111| 
 | 20231006T12:18:12Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-806-0090-0062-app-Beatl-exploit-find | 0 | 0| 
 | 20231006T12:13:11Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-806-0090-0007-app-1BUMJ-exploit-shut | 0 | 0| 
 | 20231006T12:11:40Z | A fully public exploit of the CVE-2020-0022 BlueFrag Android RCE Vulnerability (tested on Pixel 3 XL) | https://github.com/themmokhtar/CVE-2020-0022 | 0 | 1| 
-| 20231006T11:07:51Z | Kubernetes Attack Graph | https://github.com/DataDog/KubeHound | 224 | 10| 
 
 
 # backdoor on Github 推荐
