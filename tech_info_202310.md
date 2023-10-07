@@ -13,6 +13,7 @@
 | --- | --- | ---| 
 | 20231007 | 优化ChatGPT代码生成的提示词 | https://mp.weixin.qq.com/s/jc-kPX15HKxK7HFQZFsjXQ| 
 | 20231007 | Jumpserver安全一窥：Sep系列漏洞深度解析 | https://www.leavesongs.com/PENETRATION/jumpserver-sep-2023-multiple-vulnerabilities-go-through.html| 
+| 20231007 | Your printer is not your printer ! - Hacking Printers at P... | https://devco.re/blog/2023/10/05/your-printer-is-not-your-printer-hacking-printers-pwn2own-part1/| 
 | 20231006 | 浅析MITRE ATT&CK第5轮评估 | https://mp.weixin.qq.com/s/Q4AFOSCnjwV-cWkMnOV63w| 
 | 20231006 | GPTFUZZER：红队方式自动生成大型语言模型越狱提示词 | https://mp.weixin.qq.com/s/hcj1qIxwfHRuJ7rMpqfLxA| 
 | 20231004 | 部分中间人攻击手法简介 | https://xz.aliyun.com/t/12880| 
@@ -20,7 +21,6 @@
 | 20231004 | 基于前后端数据相关性的嵌入式系统漏洞挖掘方法 | https://mp.weixin.qq.com/s/Lv3b84fwqH914ia9e47Aag| 
 | 20231003 | 获取Telegram的用户IP地址 | https://mp.weixin.qq.com/s/YVthE8_jCQGRz23C0pa4oQ| 
 | 20231003 | jumpserver最新re-auth复现（伪随机经典案例） | https://mp.weixin.qq.com/s/VShjaDI1McerX843YyOENw| 
-| 20231003 | GSE协议封装解析 | https://blog.minhal.me/2021/11/19/fe1a016ca798/| 
 
 
 # CVE Github 推荐
