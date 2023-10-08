@@ -112,6 +112,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231008T00:24:49Z | snipah | https://github.com/MrPoroto/fuzzy-guacamole | 0 | 0| 
 | 20231007T22:58:03Z | DX friendly OpenAPI API Fuzzer + Roslyn for MVC | https://github.com/yrezehi/Fuzztastic | 0 | 0| 
 | 20231007T21:25:50Z | Null | https://github.com/0658161155/fuzzy-space-robot | 1 | 0| 
 | 20231007T21:04:44Z | Minimal application for fuzzy-testing of Java code via the Jazzer fuzzer | https://github.com/centic9/demo-fuzz | 2 | 0| 
@@ -121,7 +122,6 @@
 | 20231007T01:37:09Z | Null | https://github.com/58215821/fuzzy-barnacle | 0 | 0| 
 | 20231007T00:40:01Z | Null | https://github.com/Matteusxa/fuzzy-invention | 0 | 0| 
 | 20231006T22:37:50Z | Creditos @ElPinguinoDeMario (Creador ) | https://github.com/FrankoSav/PYTHON-FUZZER | 0 | 0| 
-| 20231006T19:02:15Z | Использование AFL++ для тестирования вашей программы на C++ | https://github.com/mishbanya/AFL-Cplusplus-fuzzing | 0 | 0| 
 
 
 
