@@ -90,6 +90,7 @@
 | 20231007T22:58:03Z | DX friendly OpenAPI API Fuzzer + Roslyn for MVC | https://github.com/yrezehi/Fuzztastic | 0 | 0| 
 | 20231007T21:25:50Z | Null | https://github.com/0658161155/fuzzy-space-robot | 1 | 0| 
 | 20231007T21:04:44Z | Minimal application for fuzzy-testing of Java code via the Jazzer fuzzer | https://github.com/centic9/demo-fuzz | 2 | 0| 
+| 20231007T13:05:43Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 414 | 55| 
 | 20231007T12:09:48Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 983 | 242| 
 | 20231007T09:11:45Z | Null | https://github.com/HenriqueDavidis/Trabalho-l-gica-fuzzy | 0 | 0| 
 | 20231007T04:12:38Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 97 | 13| 
