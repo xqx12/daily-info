@@ -28,7 +28,7 @@
 | 20231007T07:59:39Z | CVE-2023-38501 | Mass exploit - CVE-2023-38501 - Copyparty < Cross-Site Scripting [XSS] | https://github.com/codeb0ss/CVE-2023-38501-Exploit | | 
 | 20231007T07:56:52Z | CVE-2020-0022 | A fully public exploit of the CVE-2020-0022 BlueFrag Android RCE Vulnerability (tested on Pixel 3 XL) | https://github.com/themmokhtar/CVE-2020-0022 | | 
 | 20231007T03:24:45Z | CVE-2023-36845 | CVE-2023-36845  | https://github.com/zaenhaxor/CVE-2023-36845 | | 
-| 20231007T02:30:13Z | CVE-2023-34040 | Spring-Kafka-Deserialization-Remote-Code-Execution | https://github.com/pyn3rd/CVE-2023-34040 | | 
+| 20231007T01:36:02Z | CVE-2023-44813 | mooSocial v3.1.8 is vulnerable to cross-site scripting on Invite Friend function. | https://github.com/ahrixia/CVE-2023-44813 | | 
 
 
 # klee on Github 推荐
