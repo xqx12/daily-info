@@ -63,7 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231008T01:54:34Z | AI smart vacuum algorithm that brings data structures to life. Breath first search and depth first search are exploited to produce an agent with the illusion of a mind of its own | https://github.com/bfagiolo/AI-Vacuum-Cleaner | 0 | 0| 
+| 20231008T01:55:43Z | AI smart vacuum algorithm that brings data structures to life. Breath first search and depth first search are exploited to produce an agent with the illusion of a mind of its own. | https://github.com/bfagiolo/AI-Vacuum-Cleaner | 0 | 0| 
 | 20231008T01:45:05Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-e9767de0-91c9-47e7-b745-814423f877b6-Duu0J-exploit-doubt | 0 | 0| 
 | 20231008T01:15:39Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0060-0015-app-f171Z-clean-exploit | 0 | 0| 
 | 20231008T01:06:36Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0050-0017-app-6-DnJ-exploit-concentrate | 0 | 0| 
