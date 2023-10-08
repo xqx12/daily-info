@@ -119,9 +119,9 @@
 | 20231007T21:04:44Z | Minimal application for fuzzy-testing of Java code via the Jazzer fuzzer | https://github.com/centic9/demo-fuzz | 2 | 0| 
 | 20231007T12:09:48Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 983 | 242| 
 | 20231007T09:11:45Z | Null | https://github.com/HenriqueDavidis/Trabalho-l-gica-fuzzy | 0 | 0| 
+| 20231007T04:12:38Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 97 | 13| 
 | 20231007T02:52:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9064 | 2014| 
 | 20231007T01:37:09Z | Null | https://github.com/58215821/fuzzy-barnacle | 0 | 0| 
-| 20231007T00:40:01Z | Null | https://github.com/Matteusxa/fuzzy-invention | 0 | 0| 
 
 
 
