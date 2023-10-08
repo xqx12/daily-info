@@ -112,6 +112,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231008T01:00:10Z | Null | https://github.com/Hemanth0924/fuzzy-guide | 0 | 0| 
 | 20231008T00:35:03Z | My clone repository | https://github.com/AMANDAESCAPE/fuzzy-broccoli | 0 | 0| 
 | 20231008T00:24:49Z | snipah | https://github.com/MrPoroto/fuzzy-guacamole | 0 | 0| 
 | 20231007T22:58:03Z | DX friendly OpenAPI API Fuzzer + Roslyn for MVC | https://github.com/yrezehi/Fuzztastic | 0 | 0| 
@@ -121,7 +122,6 @@
 | 20231007T09:11:45Z | Null | https://github.com/HenriqueDavidis/Trabalho-l-gica-fuzzy | 0 | 0| 
 | 20231007T04:12:38Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 97 | 13| 
 | 20231007T02:52:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9064 | 2014| 
-| 20231007T01:37:09Z | Null | https://github.com/58215821/fuzzy-barnacle | 0 | 0| 
 
 
 
