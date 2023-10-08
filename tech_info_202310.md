@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231008T01:45:05Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-e9767de0-91c9-47e7-b745-814423f877b6-Duu0J-exploit-doubt | 0 | 0| 
 | 20231008T01:15:39Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0060-0015-app-f171Z-clean-exploit | 0 | 0| 
 | 20231008T01:06:36Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0050-0017-app-6-DnJ-exploit-concentrate | 0 | 0| 
 | 20231007T21:52:07Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 30 | 4| 
@@ -72,7 +73,6 @@
 | 20231007T12:48:23Z | This is a little thing I made for roblox islands, that will have all of my macro scripts (Not exploits, just macros and even a boss recognization and fighting script) | https://github.com/BellaHere/RobloxIslandsMacros | 0 | 0| 
 | 20231007T12:47:14Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-8878bbea-8f1d-44a1-a0c1-9e29173eb08f-8x9Yz-survive-exploit | 0 | 0| 
 | 20231007T12:36:54Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-fc57316c-6f14-428a-a69f-991bf9d8c7d2-3RyLU-laugh-exploit | 0 | 0| 
-| 20231007T12:22:38Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-e942582b-4323-4b7c-9020-0a5fcd8c728b-kMVKu-exploit-refuse | 0 | 0| 
 
 
 # backdoor on Github 推荐
