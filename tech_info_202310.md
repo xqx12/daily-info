@@ -63,16 +63,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231008T11:28:53Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5558 | 760| 
+| 20231008T11:25:35Z | Keep historical data and show a basic web page to exploit alternc-metrics data | https://github.com/AlternC/alternc-metrics-basic | 0 | 0| 
+| 20231008T10:14:31Z | Exploration and Exploitation in multi-agent reinforcement learning | https://github.com/Manoj-vbm/Multi-agent-systems | 0 | 0| 
+| 20231008T10:03:29Z | Contructed a Fantasy soccer league in C++ exploiting the object oriented programming. Each team has players that have personal skill and health, which can vary. Teams can buy and sell players. Matches are simulated through an algorith that takes into account tha overall quality of a team and unpredictable events. Simulation ran at the end. | https://github.com/AndreaScale/Fantasy-Soccer-in-C-environment | 0 | 0| 
+| 20231008T09:56:41Z | Scripts I made for Roblox (exploit) | https://github.com/zildjibian/scripts | 0 | 0| 
+| 20231008T09:23:12Z | Taipan is an opensource, cross-platform C2 post exploitation framework written in nim an python. | https://github.com/axelhd/Taipan | 1 | 0| 
+| 20231008T07:36:28Z | Windows Exploit Protection Settings (Ultimate) | https://github.com/neohiro/ExploitProtection | 16 | 2| 
+| 20231008T06:36:45Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5384 | 694| 
 | 20231008T01:55:43Z | AI smart vacuum algorithm that brings data structures to life. Breath first search and depth first search are exploited to produce an agent with the illusion of a mind of its own. | https://github.com/bfagiolo/AI-Vacuum-Cleaner | 0 | 0| 
 | 20231008T01:45:05Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-e9767de0-91c9-47e7-b745-814423f877b6-Duu0J-exploit-doubt | 0 | 0| 
-| 20231008T01:15:39Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0060-0015-app-f171Z-clean-exploit | 0 | 0| 
-| 20231008T01:06:36Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0050-0017-app-6-DnJ-exploit-concentrate | 0 | 0| 
-| 20231007T21:52:07Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 30 | 4| 
-| 20231007T20:31:06Z | Two methods for exploiting API keys to retrieve data from videos of different Youtube channels. | https://github.com/DavidAlexanderMoe/Web-Scraping-from-Youtube | 0 | 0| 
-| 20231007T17:12:45Z | a multilanguages version of the french autorisation for %exploitation de l%image% | https://github.com/newtondotcom/autorisation-exploitation-image | 0 | 0| 
-| 20231007T15:52:12Z | Windows Exploit Protection Settings (Ultimate) | https://github.com/neohiro/ExploitProtection | 16 | 2| 
-| 20231007T12:48:23Z | This is a little thing I made for roblox islands, that will have all of my macro scripts (Not exploits, just macros and even a boss recognization and fighting script) | https://github.com/BellaHere/RobloxIslandsMacros | 0 | 0| 
-| 20231007T12:47:14Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-8878bbea-8f1d-44a1-a0c1-9e29173eb08f-8x9Yz-survive-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -93,7 +93,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231007T03:35:23Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 356 | 82| 
+| 20231008T02:26:19Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 357 | 82| 
 | 20231005T14:30:40Z | Bottom-up memory-safety for assembly language using symbolic execution | https://github.com/scaspin/memory-safe-assembly | 1 | 0| 
 | 20231005T13:39:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2326 | 636| 
 | 20231005T01:06:38Z | A Dynamic Symbolic Execution (DSE) engine for JavaScript. ExpoSE is highly scalable, compatible with recent JavaScript standards, and supports symbolic modelling of strings and regular expressions. | https://github.com/ExpoSEJS/ExpoSE | 166 | 28| 
