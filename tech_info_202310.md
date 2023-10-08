@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231008T00:11:56Z | CVE-2023-38646 | CVE-2023-38646 (Pre-Auth RCE in Metabase) | https://github.com/joaoviictorti/CVE-2023-38646 | | 
+| 20231008T00:17:22Z | CVE-2023-38646 | CVE-2023-38646 (Pre-Auth RCE in Metabase) | https://github.com/joaoviictorti/CVE-2023-38646 | | 
 | 20231007T23:43:22Z | CVE-2023-37988 | CVE-2023-37988 - Wordpress/Plugin - Contact Form Generator < Reflected Cross-Site Scripting [RXSS] | https://github.com/codeb0ss/CVE-2023-37988-PoC | | 
 | 20231007T20:28:35Z | CVE-2022-24716 | CVE-2022-24716 (Arbitrary File Disclosure Icingaweb2) | https://github.com/joaoviictorti/CVE-2022-24716 | | 
 | 20231007T19:57:17Z | CVE-2023-41892 | CVE-2023-41892 - Craft CMS Remote Code Execution (RCE) | https://github.com/zaenhaxor/CVE-2023-41892 | | 
