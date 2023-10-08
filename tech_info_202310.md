@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231008T01:54:34Z | AI smart vacuum algorithm that brings data structures to life. Breath first search and depth first search are exploited to produce an agent with the illusion of a mind of its own | https://github.com/bfagiolo/AI-Vacuum-Cleaner | 0 | 0| 
 | 20231008T01:45:05Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-e9767de0-91c9-47e7-b745-814423f877b6-Duu0J-exploit-doubt | 0 | 0| 
 | 20231008T01:15:39Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0060-0015-app-f171Z-clean-exploit | 0 | 0| 
 | 20231008T01:06:36Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0050-0017-app-6-DnJ-exploit-concentrate | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20231007T15:52:12Z | Windows Exploit Protection Settings (Ultimate) | https://github.com/neohiro/ExploitProtection | 16 | 2| 
 | 20231007T12:48:23Z | This is a little thing I made for roblox islands, that will have all of my macro scripts (Not exploits, just macros and even a boss recognization and fighting script) | https://github.com/BellaHere/RobloxIslandsMacros | 0 | 0| 
 | 20231007T12:47:14Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-8878bbea-8f1d-44a1-a0c1-9e29173eb08f-8x9Yz-survive-exploit | 0 | 0| 
-| 20231007T12:36:54Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-fc57316c-6f14-428a-a69f-991bf9d8c7d2-3RyLU-laugh-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
