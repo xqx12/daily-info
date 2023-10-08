@@ -11,6 +11,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20231008 | 利用 ChatGPT 生成漏洞利用代码 | https://mp.weixin.qq.com/s/nLXZAo9zc0GekORyg1qj-g| 
+| 20231008 | 规范和促进数据跨境流动规定（征求意见稿） | http://www.cac.gov.cn/2023-09/28/c_1697558914242877.htm| 
 | 20231007 | 优化ChatGPT代码生成的提示词 | https://mp.weixin.qq.com/s/jc-kPX15HKxK7HFQZFsjXQ| 
 | 20231007 | Jumpserver安全一窥：Sep系列漏洞深度解析 | https://www.leavesongs.com/PENETRATION/jumpserver-sep-2023-multiple-vulnerabilities-go-through.html| 
 | 20231007 | Your printer is not your printer ! - Hacking Printers at P... | https://devco.re/blog/2023/10/05/your-printer-is-not-your-printer-hacking-printers-pwn2own-part1/| 
@@ -19,29 +21,28 @@
 | 20231004 | 部分中间人攻击手法简介 | https://xz.aliyun.com/t/12880| 
 | 20231004 | tvt固件加解密分析 | https://xz.aliyun.com/t/12850| 
 | 20231004 | 基于前后端数据相关性的嵌入式系统漏洞挖掘方法 | https://mp.weixin.qq.com/s/Lv3b84fwqH914ia9e47Aag| 
-| 20231003 | 获取Telegram的用户IP地址 | https://mp.weixin.qq.com/s/YVthE8_jCQGRz23C0pa4oQ| 
-| 20231003 | jumpserver最新re-auth复现（伪随机经典案例） | https://mp.weixin.qq.com/s/VShjaDI1McerX843YyOENw| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231008T00:57:37Z | CVE-2023-34040 | Spring-Kafka-Deserialization-Remote-Code-Execution | https://github.com/pyn3rd/CVE-2023-34040 | | 
+| 20231008T09:11:22Z | CVE-2023-34040 | Spring-Kafka-Deserialization-Remote-Code-Execution | https://github.com/pyn3rd/CVE-2023-34040 | | 
+| 20231008T08:23:30Z | CVE-2023-22515 | Scanner for CVE-2023-22515 - Broken Access Control Vulnerability in Atlassian Confluence | https://github.com/ErikWynter/CVE-2023-22515-Scan | | 
+| 20231008T07:47:59Z | CVE-2023-38646 | Null | https://github.com/yxl2001/CVE-2023-38646 | | 
+| 20231008T03:30:00Z | CVE-2023-4911 | Null | https://github.com/xiaoQ1z/CVE-2023-4911 | | 
 | 20231008T00:22:25Z | CVE-2023-38646 | CVE-2023-38646 (Pre-Auth RCE in Metabase) | https://github.com/joaoviictorti/CVE-2023-38646 | | 
 | 20231007T23:43:22Z | CVE-2023-37988 | CVE-2023-37988 - Wordpress/Plugin - Contact Form Generator < Reflected Cross-Site Scripting [RXSS] | https://github.com/codeb0ss/CVE-2023-37988-PoC | | 
 | 20231007T20:28:35Z | CVE-2022-24716 | CVE-2022-24716 (Arbitrary File Disclosure Icingaweb2) | https://github.com/joaoviictorti/CVE-2022-24716 | | 
 | 20231007T19:57:17Z | CVE-2023-41892 | CVE-2023-41892 - Craft CMS Remote Code Execution (RCE) | https://github.com/zaenhaxor/CVE-2023-41892 | | 
-| 20231007T18:59:29Z | CVE-2023-22515 | Scanner for CVE-2023-22515 - Broken Access Control Vulnerability in Atlassian Confluence | https://github.com/ErikWynter/CVE-2023-22515-Scan | | 
 | 20231007T12:56:35Z | CVE-2022-32548 | Null | https://github.com/gl3s7/CVE-2022-32548-PoC | | 
 | 20231007T10:46:23Z | CVE-2023-4863 | Null | https://github.com/mistymntncop/CVE-2023-4863 | | 
-| 20231007T07:59:39Z | CVE-2023-38501 | Mass exploit - CVE-2023-38501 - Copyparty < Cross-Site Scripting [XSS] | https://github.com/codeb0ss/CVE-2023-38501-Exploit | | 
-| 20231007T07:56:52Z | CVE-2020-0022 | A fully public exploit of the CVE-2020-0022 BlueFrag Android RCE Vulnerability (tested on Pixel 3 XL) | https://github.com/themmokhtar/CVE-2020-0022 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231007T18:15:27Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13968 | 423| 
+| 20231008T10:33:20Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13975 | 423| 
+| 20231008T05:48:32Z | 本字体基于Klee one字体及其衍生的霞鹜文楷系列字体进行改做，基于文楷TC修改的字体 | https://github.com/Steve-Yuu/YshiShuti | 16 | 0| 
 | 20231007T15:37:28Z | Null | https://github.com/KleeKitz/kleekitz.github.io | 0 | 0| 
 | 20231007T12:24:13Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 363 | 8| 
 | 20231006T07:44:57Z | Null | https://github.com/mm7274a00/klee231006 | 0 | 0| 
@@ -50,13 +51,12 @@
 | 20231005T08:02:46Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 44 | 0| 
 | 20231004T07:54:10Z | A concolic testing engine for RISC-V embedded software with support for SystemC peripherals | https://github.com/agra-uni-bremen/symex-vp | 14 | 3| 
 | 20231003T07:00:41Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 30 | 2| 
-| 20231002T23:23:53Z | SD card mounted on kleemann Lift Floor indicator display%s Control Circuitry | https://github.com/RobinNakamoto/Kleemann-KMDisp | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231007T03:35:23Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 356 | 82| 
+| 20231008T02:26:19Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 357 | 82| 
 | 20231004T05:46:10Z | GUI Configuration tool for WIZnet serial to ethernet devices. | https://github.com/Wiznet/WIZnet-S2E-Tool-GUI | 20 | 10| 
 
 
@@ -78,8 +78,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231008T11:17:12Z | Null | https://github.com/FakeScript0/Backdoor | 0 | 0| 
+| 20231008T08:49:22Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 34 | 4| 
 | 20231007T23:34:33Z | Windows Hacking FrameWork using Reverse Shell | https://github.com/canarddu38/DUCKSPLOIT | 82 | 13| 
-| 20231007T21:52:07Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 30 | 4| 
 | 20231007T16:56:37Z | You should never use malware to infiltrate a target system. With the skill of writing and exploiting technical codes, you can do the best ways of penetration. This is done in order to test and increase the security of the open sourcecode. | https://github.com/AiGptCode/ANYDESK-BACKDOOR | 3 | 0| 
 | 20231007T15:44:55Z | Towards Stable Backdoor Purification through Feature Shift Tuning (NeurIPS 2023) | https://github.com/AISafety-HKUST/stable_backdoor_purification | 5 | 0| 
 | 20231007T15:14:52Z | This repository contains two scripts one to represent an attacker and another to represent the victim. This whole project demonstrates how powerful an attacker can be with just a single python file being in the victim%s laptop/desktop. | https://github.com/clumpstar/BackDoor | 0 | 0| 
@@ -87,7 +88,6 @@
 | 20231007T07:58:05Z | PlugManX remake <3 anti add backdoor ,... | https://github.com/learnjavalorant/PlugGay | 0 | 0| 
 | 20231007T01:15:06Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 240 | 57| 
 | 20231006T14:40:37Z | Null | https://github.com/zacharimayer/MOO-Backdoor | 0 | 0| 
-| 20231006T07:38:40Z | The open-sourced Python toolbox for backdoor attacks and defenses. | https://github.com/THUYimingLi/BackdoorBox | 294 | 55| 
 
 
 # symbolic execution on Github 推荐
@@ -112,16 +112,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231008T11:48:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9070 | 2015| 
+| 20231008T11:25:54Z | Python fuzzy toolbox. | https://github.com/is4tecnico/fuzzypy | 0 | 0| 
+| 20231008T11:25:09Z | Fuzzy toolbox | https://github.com/rventura-97/fuzzy | 0 | 0| 
+| 20231008T09:48:24Z | fuzzy finder for projects, servers to quickstart tmux sessions | https://github.com/PhilippHeuer/fuzzmux | 1 | 0| 
+| 20231008T08:53:07Z | Multi-purpose extensible self-adaptive optimizer and fuzzer | https://github.com/cad-polito-it/byron | 2 | 0| 
+| 20231008T03:54:19Z | Mining URLs from Wayback Machine for bug hunting/fuzzing/further probing | https://github.com/Maryoux/furl | 0 | 0| 
+| 20231008T03:31:03Z | Null | https://github.com/lazyloong/obsidian-fuzzy-chinese | 24 | 1| 
 | 20231008T01:00:10Z | Null | https://github.com/Hemanth0924/fuzzy-guide | 0 | 0| 
 | 20231008T00:35:03Z | My clone repository | https://github.com/AMANDAESCAPE/fuzzy-broccoli | 0 | 0| 
 | 20231008T00:24:49Z | snipah | https://github.com/MrPoroto/fuzzy-guacamole | 0 | 0| 
-| 20231007T22:58:03Z | DX friendly OpenAPI API Fuzzer + Roslyn for MVC | https://github.com/yrezehi/Fuzztastic | 0 | 0| 
-| 20231007T21:25:50Z | Null | https://github.com/0658161155/fuzzy-space-robot | 1 | 0| 
-| 20231007T21:04:44Z | Minimal application for fuzzy-testing of Java code via the Jazzer fuzzer | https://github.com/centic9/demo-fuzz | 2 | 0| 
-| 20231007T13:05:43Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 414 | 55| 
-| 20231007T12:09:48Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 983 | 242| 
-| 20231007T09:11:45Z | Null | https://github.com/HenriqueDavidis/Trabalho-l-gica-fuzzy | 0 | 0| 
-| 20231007T04:12:38Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 97 | 13| 
 
 
 
