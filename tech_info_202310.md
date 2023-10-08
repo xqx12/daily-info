@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231008T12:41:47Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-73ac8159-44d9-4809-aa72-0fd9e40868af-P5X57-acknowledge-exploit | 0 | 0| 
 | 20231008T11:28:53Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5558 | 760| 
 | 20231008T11:25:35Z | Keep historical data and show a basic web page to exploit alternc-metrics data | https://github.com/AlternC/alternc-metrics-basic | 0 | 0| 
 | 20231008T10:14:31Z | Exploration and Exploitation in multi-agent reinforcement learning | https://github.com/Manoj-vbm/Multi-agent-systems | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20231008T09:19:00Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5396 | 1053| 
 | 20231008T07:36:28Z | Windows Exploit Protection Settings (Ultimate) | https://github.com/neohiro/ExploitProtection | 16 | 2| 
 | 20231008T06:36:45Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5384 | 694| 
-| 20231008T01:55:43Z | AI smart vacuum algorithm that brings data structures to life. Breath first search and depth first search are exploited to produce an agent with the illusion of a mind of its own. | https://github.com/bfagiolo/AI-Vacuum-Cleaner | 0 | 0| 
 
 
 # backdoor on Github 推荐
