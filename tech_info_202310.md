@@ -112,6 +112,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231008T12:33:08Z | Trabalho feito em logica fuzzy de IC2 | https://github.com/papelada/Fuzzy | 0 | 0| 
 | 20231008T12:23:50Z | Null | https://github.com/1nisabas/fuzzy-octo-train | 0 | 0| 
 | 20231008T12:21:50Z | Services for fuzzklang.net | https://github.com/fuzzklang/fuzzklang.net | 0 | 0| 
 | 20231008T12:12:45Z | Null | https://github.com/48-FuzzyGrim/48-FuzzyGrim | 0 | 0| 
@@ -121,7 +122,6 @@
 | 20231008T09:48:24Z | fuzzy finder for projects, servers to quickstart tmux sessions | https://github.com/PhilippHeuer/fuzzmux | 1 | 0| 
 | 20231008T08:53:07Z | Multi-purpose extensible self-adaptive optimizer and fuzzer | https://github.com/cad-polito-it/byron | 2 | 0| 
 | 20231008T03:54:19Z | Mining URLs from Wayback Machine for bug hunting/fuzzing/further probing | https://github.com/Maryoux/furl | 0 | 0| 
-| 20231008T03:31:03Z | Null | https://github.com/lazyloong/obsidian-fuzzy-chinese | 24 | 1| 
 
 
 
