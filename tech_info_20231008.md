@@ -18,8 +18,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231008T12:30:28Z | CVE-2023-22515 | Scanner for CVE-2023-22515 - Broken Access Control Vulnerability in Atlassian Confluence | https://github.com/ErikWynter/CVE-2023-22515-Scan | | 
 | 20231008T09:11:22Z | CVE-2023-34040 | Spring-Kafka-Deserialization-Remote-Code-Execution | https://github.com/pyn3rd/CVE-2023-34040 | | 
-| 20231008T08:23:30Z | CVE-2023-22515 | Scanner for CVE-2023-22515 - Broken Access Control Vulnerability in Atlassian Confluence | https://github.com/ErikWynter/CVE-2023-22515-Scan | | 
 | 20231008T07:47:59Z | CVE-2023-38646 | Null | https://github.com/yxl2001/CVE-2023-38646 | | 
 | 20231008T03:30:00Z | CVE-2023-4911 | Null | https://github.com/xiaoQ1z/CVE-2023-4911 | | 
 | 20231008T00:22:25Z | CVE-2023-38646 | CVE-2023-38646 (Pre-Auth RCE in Metabase) | https://github.com/joaoviictorti/CVE-2023-38646 | | 
