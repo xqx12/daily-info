@@ -47,10 +47,10 @@
 | 20231008T10:03:29Z | Contructed a Fantasy soccer league in C++ exploiting the object oriented programming. Each team has players that have personal skill and health, which can vary. Teams can buy and sell players. Matches are simulated through an algorith that takes into account tha overall quality of a team and unpredictable events. Simulation ran at the end. | https://github.com/AndreaScale/Fantasy-Soccer-in-C-environment | 0 | 0| 
 | 20231008T09:56:41Z | Scripts I made for Roblox (exploit) | https://github.com/zildjibian/scripts | 0 | 0| 
 | 20231008T09:23:12Z | Taipan is an opensource, cross-platform C2 post exploitation framework written in nim an python. | https://github.com/axelhd/Taipan | 1 | 0| 
+| 20231008T09:19:00Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5396 | 1053| 
 | 20231008T07:36:28Z | Windows Exploit Protection Settings (Ultimate) | https://github.com/neohiro/ExploitProtection | 16 | 2| 
 | 20231008T06:36:45Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5384 | 694| 
 | 20231008T01:55:43Z | AI smart vacuum algorithm that brings data structures to life. Breath first search and depth first search are exploited to produce an agent with the illusion of a mind of its own. | https://github.com/bfagiolo/AI-Vacuum-Cleaner | 0 | 0| 
-| 20231008T01:45:05Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-e9767de0-91c9-47e7-b745-814423f877b6-Duu0J-exploit-doubt | 0 | 0| 
 
 
 # backdoor on Github 推荐
