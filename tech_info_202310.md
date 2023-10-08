@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231008T01:06:36Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0050-0017-app-6-DnJ-exploit-concentrate | 0 | 0| 
 | 20231007T21:52:07Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 30 | 4| 
 | 20231007T20:31:06Z | Two methods for exploiting API keys to retrieve data from videos of different Youtube channels. | https://github.com/DavidAlexanderMoe/Web-Scraping-from-Youtube | 0 | 0| 
 | 20231007T17:12:45Z | a multilanguages version of the french autorisation for %exploitation de l%image% | https://github.com/newtondotcom/autorisation-exploitation-image | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20231007T12:36:54Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-fc57316c-6f14-428a-a69f-991bf9d8c7d2-3RyLU-laugh-exploit | 0 | 0| 
 | 20231007T12:22:38Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-e942582b-4323-4b7c-9020-0a5fcd8c728b-kMVKu-exploit-refuse | 0 | 0| 
 | 20231007T12:21:31Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-d3a7807f-fc48-479c-b857-ac7e22d44c85-lcMpU-exploit-divide | 0 | 0| 
-| 20231007T10:50:42Z | say some random shit when they say %hacker%, %hack% or %exploiter% | https://github.com/luktpro/random-say | 0 | 0| 
 
 
 # backdoor on Github 推荐
