@@ -78,6 +78,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231009T00:11:46Z | Kernel  rk | https://github.com/carloslack/KoviD | 154 | 35| 
 | 20231008T22:58:32Z | 2 Python programmes used for detecting and preventing backdoor attacks in LLMs. | https://github.com/AceMegalodon/Mitigating_Backdoor_Attacks_in_LLMs | 0 | 0| 
 | 20231008T22:13:10Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 37 | 4| 
 | 20231008T21:01:11Z | Security testing tool for Arch Linux | https://github.com/scriptkidsensei/AUDO-SCANNER | 1 | 0| 
@@ -87,7 +88,6 @@
 | 20231008T14:28:25Z | Null | https://github.com/sameershaik-sudo/Backdoor_Py | 0 | 0| 
 | 20231008T11:17:12Z | Null | https://github.com/FakeScript0/Backdoor | 0 | 0| 
 | 20231007T23:34:33Z | Windows Hacking FrameWork using Reverse Shell | https://github.com/canarddu38/DUCKSPLOIT | 82 | 13| 
-| 20231007T16:56:37Z | You should never use malware to infiltrate a target system. With the skill of writing and exploiting technical codes, you can do the best ways of penetration. This is done in order to test and increase the security of the open sourcecode. | https://github.com/AiGptCode/ANYDESK-BACKDOOR | 3 | 0| 
 
 
 # symbolic execution on Github 推荐
