@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231009T12:55:06Z | Official code for EMNLP-2023 paper %Interpreting and Exploiting Functional Specialization in Multi-Head Attention under Multi-task Learning% | https://github.com/ZNLP/FunctionalSpecializationInMHA | 0 | 0| 
 | 20231009T12:10:21Z | Null | https://github.com/malvika-thakur/Metasploitable2-FTP-Exploit | 1 | 0| 
 | 20231009T10:44:46Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5400 | 1053| 
 | 20231009T10:34:50Z | This repository is a treasure trove of my coding exploits, from the first %Hello, World!% to conquering complex challenges.  | https://github.com/feiryrej/java-practice | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20231009T07:23:51Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 60 | 19| 
 | 20231009T03:03:54Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 169 | 14| 
 | 20231009T01:31:43Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0044-app-2rQSB-throw-exploit | 0 | 0| 
-| 20231009T01:15:34Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0060-0030-app-gbdKM-construct-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
