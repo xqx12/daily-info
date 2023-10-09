@@ -26,12 +26,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231009T12:46:37Z | CVE-2022-38694 | User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20231009T11:45:33Z | CVE-2023-4911 | A Critical glibc Vulnerability | https://github.com/0xtrace/CVE-2023-4911-Looney-Tunables- | | 
 | 20231009T11:32:26Z | CVE-2023-4911 | CVE-2023-4911 proof of concept | https://github.com/RickdeJager/CVE-2023-4911 | | 
 | 20231009T09:32:08Z | CVE-2023-22515 | Scanner for CVE-2023-22515 - Broken Access Control Vulnerability in Atlassian Confluence | https://github.com/ErikWynter/CVE-2023-22515-Scan | | 
 | 20231009T07:40:15Z | CVE-2023-34040 | Spring-Kafka-Deserialization-Remote-Code-Execution | https://github.com/pyn3rd/CVE-2023-34040 | | 
 | 20231009T07:39:52Z | CVE-2023-21246 | Null | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21246 | | 
-| 20231009T05:19:01Z | CVE-2022-38694 | User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20231008T15:21:22Z | CVE-2023-38646 | CVE-2023-38646 Pre-Auth RCE in Metabase | https://github.com/alexandre-pecorilla/CVE-2023-38646 | | 
 | 20231008T07:47:59Z | CVE-2023-38646 | Null | https://github.com/yxl2001/CVE-2023-38646 | | 
 | 20231008T03:30:00Z | CVE-2023-4911 | Null | https://github.com/xiaoQ1z/CVE-2023-4911 | | 
