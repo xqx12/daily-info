@@ -78,7 +78,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231009T00:11:46Z | Kernel  rk | https://github.com/carloslack/KoviD | 154 | 35| 
+| 20231009T00:53:54Z | Kernel  rk | https://github.com/carloslack/KoviD | 155 | 36| 
 | 20231008T22:58:32Z | 2 Python programmes used for detecting and preventing backdoor attacks in LLMs. | https://github.com/AceMegalodon/Mitigating_Backdoor_Attacks_in_LLMs | 0 | 0| 
 | 20231008T22:13:10Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 37 | 4| 
 | 20231008T21:01:11Z | Security testing tool for Arch Linux | https://github.com/scriptkidsensei/AUDO-SCANNER | 1 | 0| 
