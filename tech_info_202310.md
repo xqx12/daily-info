@@ -63,7 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231009T11:32:23Z | Null | https://github.com/malvika-thakur/Metasploitable2-FTP-Exploit | 0 | 0| 
+| 20231009T12:10:21Z | Null | https://github.com/malvika-thakur/Metasploitable2-FTP-Exploit | 1 | 0| 
 | 20231009T10:34:50Z | This repository is a treasure trove of my coding exploits, from the first %Hello, World!% to conquering complex challenges.  | https://github.com/feiryrej/java-practice | 0 | 0| 
 | 20231009T09:38:23Z | simple python script to automate the local file inclusion exploit on the zipping machine from hack the box | https://github.com/b3rt1ng/HTB_zipping_lfi_exploit | 0 | 0| 
 | 20231009T09:31:08Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5384 | 694| 
@@ -112,6 +112,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231009T12:10:58Z | Null | https://github.com/jadorks/fuzzy-winner | 0 | 0| 
 | 20231009T12:02:06Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 420 | 56| 
 | 20231009T11:52:25Z | This repo is provide for fuzzy Matching Malware Static Analysising via floss or strings sysinternal tools to match every malicious founction is found in malapi.io for detect easy and save your time in best practice | https://github.com/Sohrabian/fuzzyMatchMalware | 0 | 0| 
 | 20231009T11:03:42Z | Null | https://github.com/AyandaDon/fuzzy-octo-disco | 0 | 0| 
@@ -121,7 +122,6 @@
 | 20231008T20:56:05Z | Null | https://github.com/BroadcastAutFuzzyfo/BroadcastAutFuzzyfo | 0 | 0| 
 | 20231008T19:56:14Z | Fuzzing framework for unusual targets | https://github.com/u91738/ecf | 0 | 0| 
 | 20231008T19:45:22Z | Fix issues caused by inkwell upgrading | https://github.com/andrelee98/symsan_for_fuzzbench | 0 | 0| 
-| 20231008T19:23:50Z | Twitter Clone | https://github.com/ChristopherHoganJr/fuzzy-broccoli | 0 | 0| 
 
 
 
