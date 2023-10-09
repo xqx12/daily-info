@@ -13,6 +13,7 @@
 | --- | --- | ---| 
 | 20231008 | 利用 ChatGPT 生成漏洞利用代码 | https://mp.weixin.qq.com/s/nLXZAo9zc0GekORyg1qj-g| 
 | 20231008 | 规范和促进数据跨境流动规定（征求意见稿） | http://www.cac.gov.cn/2023-09/28/c_1697558914242877.htm| 
+| 20231008 | 未知模式加密恶意流量实时检测 | https://mp.weixin.qq.com/s/X4EHEg3JpofxKMWtehpipg| 
 | 20231007 | 优化ChatGPT代码生成的提示词 | https://mp.weixin.qq.com/s/jc-kPX15HKxK7HFQZFsjXQ| 
 | 20231007 | Jumpserver安全一窥：Sep系列漏洞深度解析 | https://www.leavesongs.com/PENETRATION/jumpserver-sep-2023-multiple-vulnerabilities-go-through.html| 
 | 20231007 | Your printer is not your printer ! - Hacking Printers at P... | https://devco.re/blog/2023/10/05/your-printer-is-not-your-printer-hacking-printers-pwn2own-part1/| 
@@ -20,22 +21,21 @@
 | 20231006 | GPTFUZZER：红队方式自动生成大型语言模型越狱提示词 | https://mp.weixin.qq.com/s/hcj1qIxwfHRuJ7rMpqfLxA| 
 | 20231004 | 部分中间人攻击手法简介 | https://xz.aliyun.com/t/12880| 
 | 20231004 | tvt固件加解密分析 | https://xz.aliyun.com/t/12850| 
-| 20231004 | 基于前后端数据相关性的嵌入式系统漏洞挖掘方法 | https://mp.weixin.qq.com/s/Lv3b84fwqH914ia9e47Aag| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231008T12:53:08Z | CVE-2023-22515 | Scanner for CVE-2023-22515 - Broken Access Control Vulnerability in Atlassian Confluence | https://github.com/ErikWynter/CVE-2023-22515-Scan | | 
+| 20231008T23:47:57Z | CVE-2023-4911 | CVE-2023-4911 proof of concept | https://github.com/RickdeJager/CVE-2023-4911 | | 
+| 20231008T22:08:31Z | CVE-2023-22515 | Scanner for CVE-2023-22515 - Broken Access Control Vulnerability in Atlassian Confluence | https://github.com/ErikWynter/CVE-2023-22515-Scan | | 
+| 20231008T15:21:22Z | CVE-2023-38646 | CVE-2023-38646 Pre-Auth RCE in Metabase | https://github.com/alexandre-pecorilla/CVE-2023-38646 | | 
+| 20231008T14:33:11Z | CVE-2022-38694 | User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20231008T09:11:22Z | CVE-2023-34040 | Spring-Kafka-Deserialization-Remote-Code-Execution | https://github.com/pyn3rd/CVE-2023-34040 | | 
 | 20231008T07:47:59Z | CVE-2023-38646 | Null | https://github.com/yxl2001/CVE-2023-38646 | | 
 | 20231008T03:30:00Z | CVE-2023-4911 | Null | https://github.com/xiaoQ1z/CVE-2023-4911 | | 
 | 20231008T00:22:25Z | CVE-2023-38646 | CVE-2023-38646 (Pre-Auth RCE in Metabase) | https://github.com/joaoviictorti/CVE-2023-38646 | | 
 | 20231007T23:43:22Z | CVE-2023-37988 | CVE-2023-37988 - Wordpress/Plugin - Contact Form Generator < Reflected Cross-Site Scripting [RXSS] | https://github.com/codeb0ss/CVE-2023-37988-PoC | | 
 | 20231007T20:28:35Z | CVE-2022-24716 | CVE-2022-24716 (Arbitrary File Disclosure Icingaweb2) | https://github.com/joaoviictorti/CVE-2022-24716 | | 
-| 20231007T19:57:17Z | CVE-2023-41892 | CVE-2023-41892 - Craft CMS Remote Code Execution (RCE) | https://github.com/zaenhaxor/CVE-2023-41892 | | 
-| 20231007T12:56:35Z | CVE-2022-32548 | Null | https://github.com/gl3s7/CVE-2022-32548-PoC | | 
-| 20231007T10:46:23Z | CVE-2023-4863 | Null | https://github.com/mistymntncop/CVE-2023-4863 | | 
 
 
 # klee on Github 推荐
@@ -63,31 +63,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231008T12:54:30Z | Windows Exploit Protection Settings (Ultimate) | https://github.com/neohiro/ExploitProtection | 18 | 2| 
+| 20231008T23:02:05Z | Helps to not keep too many old tabs open by exploiting the human reward system after closing one that has been open for a long time. | https://github.com/Eiernase/NeverGonnaCloseATab | 1 | 0| 
+| 20231008T22:13:10Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 37 | 4| 
+| 20231008T21:19:22Z | Provide a collection of deliberately vulnerable APIs along with corresponding challenges to help enhancing their skills in identifying, exploiting, and securing API vulnerabilities. | https://github.com/cerberauth/api-vulns-challenges | 0 | 0| 
+| 20231008T21:10:05Z | Lion Admin is a roblox exploit script for all games | https://github.com/WCodesEz/Lion-Admin | 0 | 0| 
+| 20231008T19:59:25Z | Windows Exploit Protection Settings (Ultimate) | https://github.com/neohiro/ExploitProtection | 19 | 2| 
+| 20231008T19:39:03Z | a exploit for roblox but for the specific game called choas | https://github.com/Wronggames/XDclient | 0 | 0| 
+| 20231008T19:32:47Z | Just some basic Assault Cube Infinite Jump exploit | https://github.com/SophiaNhya/Assault-Cube---Infinite-Jump | 0 | 0| 
 | 20231008T12:41:47Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-73ac8159-44d9-4809-aa72-0fd9e40868af-P5X57-acknowledge-exploit | 0 | 0| 
 | 20231008T11:28:53Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5558 | 760| 
 | 20231008T11:25:35Z | Keep historical data and show a basic web page to exploit alternc-metrics data | https://github.com/AlternC/alternc-metrics-basic | 0 | 0| 
-| 20231008T10:14:31Z | Exploration and Exploitation in multi-agent reinforcement learning | https://github.com/Manoj-vbm/Multi-agent-systems | 0 | 0| 
-| 20231008T10:03:29Z | Contructed a Fantasy soccer league in C++ exploiting the object oriented programming. Each team has players that have personal skill and health, which can vary. Teams can buy and sell players. Matches are simulated through an algorith that takes into account tha overall quality of a team and unpredictable events. Simulation ran at the end. | https://github.com/AndreaScale/Fantasy-Soccer-in-C-environment | 0 | 0| 
-| 20231008T09:56:41Z | Scripts I made for Roblox (exploit) | https://github.com/zildjibian/scripts | 0 | 0| 
-| 20231008T09:23:12Z | Taipan is an opensource, cross-platform C2 post exploitation framework written in nim an python. | https://github.com/axelhd/Taipan | 1 | 0| 
-| 20231008T09:19:00Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5396 | 1053| 
-| 20231008T06:36:45Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5384 | 694| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231008T22:58:32Z | 2 Python programmes used for detecting and preventing backdoor attacks in LLMs. | https://github.com/AceMegalodon/Mitigating_Backdoor_Attacks_in_LLMs | 0 | 0| 
+| 20231008T22:13:10Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 37 | 4| 
+| 20231008T21:01:11Z | Security testing tool for Arch Linux | https://github.com/scriptkidsensei/AUDO-SCANNER | 1 | 0| 
+| 20231008T20:48:11Z | Null | https://github.com/S3Curiosity/backdoorPy | 0 | 0| 
+| 20231008T17:27:43Z | this is just a reverse powershell backdoor script ill mostly be using for pentesting, please dont download or use this | https://github.com/morty21245/pentesting-IGNORETHISREPO | 0 | 0| 
+| 20231008T16:34:03Z | Null | https://github.com/Kotno557/Implementation-of-Backdoor-Programs | 0 | 0| 
+| 20231008T14:28:25Z | Null | https://github.com/sameershaik-sudo/Backdoor_Py | 0 | 0| 
 | 20231008T11:17:12Z | Null | https://github.com/FakeScript0/Backdoor | 0 | 0| 
-| 20231008T08:49:22Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 34 | 4| 
 | 20231007T23:34:33Z | Windows Hacking FrameWork using Reverse Shell | https://github.com/canarddu38/DUCKSPLOIT | 82 | 13| 
 | 20231007T16:56:37Z | You should never use malware to infiltrate a target system. With the skill of writing and exploiting technical codes, you can do the best ways of penetration. This is done in order to test and increase the security of the open sourcecode. | https://github.com/AiGptCode/ANYDESK-BACKDOOR | 3 | 0| 
-| 20231007T15:44:55Z | Towards Stable Backdoor Purification through Feature Shift Tuning (NeurIPS 2023) | https://github.com/AISafety-HKUST/stable_backdoor_purification | 5 | 0| 
-| 20231007T15:14:52Z | This repository contains two scripts one to represent an attacker and another to represent the victim. This whole project demonstrates how powerful an attacker can be with just a single python file being in the victim%s laptop/desktop. | https://github.com/clumpstar/BackDoor | 0 | 0| 
-| 20231007T08:02:42Z | Null | https://github.com/MELVIN10101/PYTHON-REVERSE_SHELL-BACKDOOR | 0 | 0| 
-| 20231007T07:58:05Z | PlugManX remake <3 anti add backdoor ,... | https://github.com/learnjavalorant/PlugGay | 0 | 0| 
-| 20231007T01:15:06Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 240 | 57| 
-| 20231006T14:40:37Z | Null | https://github.com/zacharimayer/MOO-Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -112,16 +112,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231008T22:23:21Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9073 | 2015| 
+| 20231008T21:02:36Z | Null | https://github.com/Habeeb200/fuzzy-potato | 0 | 0| 
+| 20231008T20:56:05Z | Null | https://github.com/BroadcastAutFuzzyfo/BroadcastAutFuzzyfo | 0 | 0| 
+| 20231008T19:56:14Z | Fuzzing framework for unusual targets | https://github.com/u91738/ecf | 0 | 0| 
+| 20231008T19:45:22Z | Fix issues caused by inkwell upgrading | https://github.com/andrelee98/symsan_for_fuzzbench | 0 | 0| 
+| 20231008T19:23:50Z | Twitter Clone | https://github.com/ChristopherHoganJr/fuzzy-broccoli | 0 | 0| 
+| 20231008T19:12:22Z | Null | https://github.com/21reyesm/fuzzy-giggle | 0 | 0| 
 | 20231008T12:33:08Z | Trabalho feito em logica fuzzy de IC2 | https://github.com/papelada/Fuzzy | 0 | 0| 
 | 20231008T12:23:50Z | Null | https://github.com/1nisabas/fuzzy-octo-train | 0 | 0| 
 | 20231008T12:21:50Z | Services for fuzzklang.net | https://github.com/fuzzklang/fuzzklang.net | 0 | 0| 
-| 20231008T12:12:45Z | Null | https://github.com/48-FuzzyGrim/48-FuzzyGrim | 0 | 0| 
-| 20231008T11:48:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9070 | 2015| 
-| 20231008T11:25:54Z | Python fuzzy toolbox. | https://github.com/is4tecnico/fuzzypy | 0 | 0| 
-| 20231008T11:25:09Z | Fuzzy toolbox | https://github.com/rventura-97/fuzzy | 0 | 0| 
-| 20231008T09:48:24Z | fuzzy finder for projects, servers to quickstart tmux sessions | https://github.com/PhilippHeuer/fuzzmux | 1 | 0| 
-| 20231008T08:53:07Z | Multi-purpose extensible self-adaptive optimizer and fuzzer | https://github.com/cad-polito-it/byron | 2 | 0| 
-| 20231008T03:54:19Z | Mining URLs from Wayback Machine for bug hunting/fuzzing/further probing | https://github.com/Maryoux/furl | 0 | 0| 
 
 
 
