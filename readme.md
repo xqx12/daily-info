@@ -79,7 +79,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231009T12:10:58Z | Null | https://github.com/jadorks/fuzzy-winner | 0 | 0| 
+| 20231009T12:11:48Z | Null | https://github.com/jadorks/fuzzy-winner | 0 | 0| 
 | 20231009T12:02:06Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 420 | 56| 
 | 20231009T11:52:25Z | This repo is provide for fuzzy Matching Malware Static Analysising via floss or strings sysinternal tools to match every malicious founction is found in malapi.io for detect easy and save your time in best practice | https://github.com/Sohrabian/fuzzyMatchMalware | 0 | 0| 
 | 20231009T11:03:42Z | Null | https://github.com/AyandaDon/fuzzy-octo-disco | 0 | 0| 
