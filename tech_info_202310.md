@@ -41,15 +41,15 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231008T23:43:26Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13976 | 423| 
-| 20231008T23:37:05Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 364 | 8| 
+| 20231009T01:31:44Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 43 | 0| 
+| 20231009T01:31:32Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13975 | 423| 
+| 20231009T01:31:25Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 363 | 8| 
 | 20231008T14:16:55Z | Kleek - An Android App for Creating KakaoTalk Bots using Xposed API | https://github.com/naijun0403/kleek | 4 | 2| 
 | 20231008T05:48:32Z | 本字体基于Klee one字体及其衍生的霞鹜文楷系列字体进行改做，基于文楷TC修改的字体 | https://github.com/Steve-Yuu/YshiShuti | 16 | 0| 
 | 20231007T15:37:28Z | Null | https://github.com/KleeKitz/kleekitz.github.io | 0 | 0| 
 | 20231006T07:44:57Z | Null | https://github.com/mm7274a00/klee231006 | 0 | 0| 
 | 20231005T22:56:18Z | klee muter | https://github.com/sponskun/klee | 0 | 0| 
 | 20231005T13:39:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2326 | 636| 
-| 20231005T08:02:46Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 44 | 0| 
 | 20231004T07:54:10Z | A concolic testing engine for RISC-V embedded software with support for SystemC peripherals | https://github.com/agra-uni-bremen/symex-vp | 14 | 3| 
 
 
@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231009T01:31:43Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0044-app-2rQSB-throw-exploit | 0 | 0| 
 | 20231009T01:15:34Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0060-0030-app-gbdKM-construct-exploit | 0 | 0| 
 | 20231008T23:02:05Z | Helps to not keep too many old tabs open by exploiting the human reward system after closing one that has been open for a long time. | https://github.com/Eiernase/NeverGonnaCloseATab | 1 | 0| 
 | 20231008T22:13:10Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 37 | 4| 
@@ -72,7 +73,6 @@
 | 20231008T19:59:25Z | Windows Exploit Protection Settings (Ultimate) | https://github.com/neohiro/ExploitProtection | 19 | 2| 
 | 20231008T19:39:03Z | a exploit for roblox but for the specific game called choas | https://github.com/Wronggames/XDclient | 0 | 0| 
 | 20231008T19:32:47Z | Just some basic Assault Cube Infinite Jump exploit | https://github.com/SophiaNhya/Assault-Cube---Infinite-Jump | 0 | 0| 
-| 20231008T12:41:47Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-73ac8159-44d9-4809-aa72-0fd9e40868af-P5X57-acknowledge-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
