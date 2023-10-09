@@ -50,13 +50,13 @@
 | 20231008T23:02:05Z | Helps to not keep too many old tabs open by exploiting the human reward system after closing one that has been open for a long time. | https://github.com/Eiernase/NeverGonnaCloseATab | 1 | 0| 
 | 20231008T22:13:10Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 37 | 4| 
 | 20231008T21:19:22Z | Provide a collection of deliberately vulnerable APIs along with corresponding challenges to help enhancing their skills in identifying, exploiting, and securing API vulnerabilities. | https://github.com/cerberauth/api-vulns-challenges | 0 | 0| 
+| 20231008T21:16:12Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5397 | 1053| 
 | 20231008T21:10:05Z | Lion Admin is a roblox exploit script for all games | https://github.com/WCodesEz/Lion-Admin | 0 | 0| 
 | 20231008T19:59:25Z | Windows Exploit Protection Settings (Ultimate) | https://github.com/neohiro/ExploitProtection | 19 | 2| 
 | 20231008T19:39:03Z | a exploit for roblox but for the specific game called choas | https://github.com/Wronggames/XDclient | 0 | 0| 
 | 20231008T19:32:47Z | Just some basic Assault Cube Infinite Jump exploit | https://github.com/SophiaNhya/Assault-Cube---Infinite-Jump | 0 | 0| 
 | 20231008T12:41:47Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-73ac8159-44d9-4809-aa72-0fd9e40868af-P5X57-acknowledge-exploit | 0 | 0| 
 | 20231008T11:28:53Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5558 | 760| 
-| 20231008T11:25:35Z | Keep historical data and show a basic web page to exploit alternc-metrics data | https://github.com/AlternC/alternc-metrics-basic | 0 | 0| 
 
 
 # backdoor on Github 推荐
