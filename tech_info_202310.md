@@ -112,6 +112,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231009T00:10:22Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 418 | 56| 
 | 20231008T22:23:21Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9073 | 2015| 
 | 20231008T21:02:36Z | Null | https://github.com/Habeeb200/fuzzy-potato | 0 | 0| 
 | 20231008T20:56:05Z | Null | https://github.com/BroadcastAutFuzzyfo/BroadcastAutFuzzyfo | 0 | 0| 
@@ -121,7 +122,6 @@
 | 20231008T19:12:22Z | Null | https://github.com/21reyesm/fuzzy-giggle | 0 | 0| 
 | 20231008T12:33:08Z | Trabalho feito em logica fuzzy de IC2 | https://github.com/papelada/Fuzzy | 0 | 0| 
 | 20231008T12:23:50Z | Null | https://github.com/1nisabas/fuzzy-octo-train | 0 | 0| 
-| 20231008T12:21:50Z | Services for fuzzklang.net | https://github.com/fuzzklang/fuzzklang.net | 0 | 0| 
 
 
 
