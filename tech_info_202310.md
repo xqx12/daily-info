@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231010T00:52:19Z | cve-2023- | cve-2023-test | https://github.com/iceberg-N/cve-2023-test11 | | 
 | 20231009T22:44:24Z | CVE-2023-2640 | GameOver(lay) Ubuntu Privilege Escalation | https://github.com/g1vi/CVE-2023-2640-CVE-2023-32629 | | 
 | 20231009T22:29:46Z | CVE-2023-4911 | CVE-2023-4911 proof of concept | https://github.com/RickdeJager/CVE-2023-4911 | | 
 | 20231009T22:23:11Z | cve-2023-40429 | CVE-2023-40429: An app may be able to access sensitive user data. | https://github.com/biscuitehh/cve-2023-40429-ez-device-name | | 
@@ -35,7 +36,6 @@
 | 20231009T17:13:58Z | CVE-2023-22515 | Null | https://github.com/w33ys/CVE-2023-22515-RCE | | 
 | 20231009T16:46:26Z | CVE-2023-4911 | A Critical glibc Vulnerability | https://github.com/0xtrace/CVE-2023-4911-Looney-Tunables- | | 
 | 20231009T14:33:05Z | CVE-2022-38694 | User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
-| 20231009T14:17:47Z | CVE-2023-21238 | Null | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21238 | | 
 
 
 # klee on Github 推荐
