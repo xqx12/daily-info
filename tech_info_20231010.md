@@ -44,6 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231010T12:49:13Z | Nuclei AI - Browser Extension for Rapid Nuclei Template Generation | https://github.com/projectdiscovery/nuclei-ai-extension | 15 | 0| 
 | 20231010T12:38:07Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-782-0050-0012-app-Cr1aV-fulfil-exploit | 0 | 0| 
 | 20231010T12:24:10Z | GitOps Repository | https://github.com/pmacik-testing/wip-test-0016-app-UJmRc-reduce-exploit | 0 | 0| 
 | 20231010T11:42:51Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 1466 | 177| 
@@ -53,7 +54,6 @@
 | 20231010T09:15:43Z | mim (multimodal single-cell data integration metrics): package of evaluation metrics for the integration of multimodal single-cell data, exploiting the presence of doppelgaenger cells | https://github.com/ariannaaalami/mim | 0 | 0| 
 | 20231010T08:27:30Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5387 | 694| 
 | 20231010T01:21:39Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0060-0056-app-XRAHs-re-exploit | 0 | 0| 
-| 20231010T01:16:16Z | Track Your friends | https://github.com/Vibe999/Grim-Exploit | 1 | 0| 
 
 
 # backdoor on Github 推荐
