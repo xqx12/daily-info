@@ -26,22 +26,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231009T12:46:37Z | CVE-2022-38694 | User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
-| 20231009T11:45:33Z | CVE-2023-4911 | A Critical glibc Vulnerability | https://github.com/0xtrace/CVE-2023-4911-Looney-Tunables- | | 
-| 20231009T11:32:26Z | CVE-2023-4911 | CVE-2023-4911 proof of concept | https://github.com/RickdeJager/CVE-2023-4911 | | 
-| 20231009T09:32:08Z | CVE-2023-22515 | Scanner for CVE-2023-22515 - Broken Access Control Vulnerability in Atlassian Confluence | https://github.com/ErikWynter/CVE-2023-22515-Scan | | 
-| 20231009T07:40:15Z | CVE-2023-34040 | Spring-Kafka-Deserialization-Remote-Code-Execution | https://github.com/pyn3rd/CVE-2023-34040 | | 
-| 20231009T07:39:52Z | CVE-2023-21246 | Null | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21246 | | 
-| 20231008T15:21:22Z | CVE-2023-38646 | CVE-2023-38646 Pre-Auth RCE in Metabase | https://github.com/alexandre-pecorilla/CVE-2023-38646 | | 
-| 20231008T07:47:59Z | CVE-2023-38646 | Null | https://github.com/yxl2001/CVE-2023-38646 | | 
-| 20231008T03:30:00Z | CVE-2023-4911 | Null | https://github.com/xiaoQ1z/CVE-2023-4911 | | 
-| 20231008T00:22:25Z | CVE-2023-38646 | CVE-2023-38646 (Pre-Auth RCE in Metabase) | https://github.com/joaoviictorti/CVE-2023-38646 | | 
+| 20231009T22:44:24Z | CVE-2023-2640 | GameOver(lay) Ubuntu Privilege Escalation | https://github.com/g1vi/CVE-2023-2640-CVE-2023-32629 | | 
+| 20231009T22:29:46Z | CVE-2023-4911 | CVE-2023-4911 proof of concept | https://github.com/RickdeJager/CVE-2023-4911 | | 
+| 20231009T22:23:11Z | cve-2023-40429 | CVE-2023-40429: An app may be able to access sensitive user data. | https://github.com/biscuitehh/cve-2023-40429-ez-device-name | | 
+| 20231009T21:26:19Z | CVE-2023-37988 | CVE-2023-37988 - Wordpress/Plugin - Contact Form Generator < Reflected Cross-Site Scripting [RXSS] | https://github.com/codeb0ss/CVE-2023-37988-PoC | | 
+| 20231009T20:46:05Z | CVE-2023-41892 | CVE-2023-41892 - Craft CMS Remote Code Execution (RCE) | https://github.com/zaenhaxor/CVE-2023-41892 | | 
+| 20231009T20:44:22Z | CVE-2023-36845 | CVE-2023-36845  | https://github.com/zaenhaxor/CVE-2023-36845 | | 
+| 20231009T17:13:58Z | CVE-2023-22515 | Null | https://github.com/w33ys/CVE-2023-22515-RCE | | 
+| 20231009T16:46:26Z | CVE-2023-4911 | A Critical glibc Vulnerability | https://github.com/0xtrace/CVE-2023-4911-Looney-Tunables- | | 
+| 20231009T14:33:05Z | CVE-2022-38694 | User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
+| 20231009T14:17:47Z | CVE-2023-21238 | Null | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21238 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231009T12:52:42Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13985 | 423| 
+| 20231009T20:00:21Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13987 | 423| 
+| 20231009T14:44:01Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 277 | 53| 
 | 20231009T11:36:39Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 44 | 0| 
 | 20231009T07:33:23Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 364 | 8| 
 | 20231009T02:55:06Z | Kleek - An Android App for Creating KakaoTalk Bots using Xposed API | https://github.com/naijun0403/kleek | 6 | 2| 
@@ -50,12 +51,13 @@
 | 20231006T07:44:57Z | Null | https://github.com/mm7274a00/klee231006 | 0 | 0| 
 | 20231005T22:56:18Z | klee muter | https://github.com/sponskun/klee | 0 | 0| 
 | 20231005T13:39:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2326 | 636| 
-| 20231004T07:54:10Z | A concolic testing engine for RISC-V embedded software with support for SystemC peripherals | https://github.com/agra-uni-bremen/symex-vp | 14 | 3| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231009T22:11:55Z | This is the scratch 2.0 editor in github. | https://github.com/Thecartoondude/s2editor | 0 | 0| 
+| 20231009T14:45:03Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 35 | 15| 
 | 20231008T02:26:19Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 357 | 82| 
 | 20231004T05:46:10Z | GUI Configuration tool for WIZnet serial to ethernet devices. | https://github.com/Wiznet/WIZnet-S2E-Tool-GUI | 20 | 10| 
 
@@ -78,16 +80,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231009T13:01:25Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 43 | 5| 
-| 20231009T12:57:19Z | Security testing tool for Arch Linux | https://github.com/scriptkidsensei/AUDO-SCANNER | 0 | 0| 
+| 20231009T23:31:19Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 66 | 8| 
+| 20231009T23:26:22Z | PCI Express DIY hacking toolkit for Xilinx SP605. This repository is also home of Hyper-V Backdoor and Boot Backdoor, check readme for links and info | https://github.com/Cr4sh/s6_pcie_microblaze | 630 | 139| 
+| 20231009T21:22:43Z | First open source and publicly available System Management Mode backdoor for UEFI based platforms. Good as general purpose playground for various SMM experiments. | https://github.com/Cr4sh/SmmBackdoor | 538 | 168| 
+| 20231009T15:51:27Z | backdoor creation | https://github.com/Davide-L90/Ex-S3L2 | 0 | 0| 
+| 20231009T15:36:45Z | SBC Persistent backdoor managed via telegram bot | https://github.com/ethanlacerenza/SBC-RAT | 0 | 0| 
+| 20231009T14:14:51Z | Security testing tool for Arch Linux | https://github.com/scriptkidsensei/AUDO-SCANNER | 2 | 0| 
 | 20231009T11:06:52Z | Django restapi server allows communication between 2 computer. | https://github.com/Aliefe02/Backdoor_with_Django_Backend | 0 | 0| 
 | 20231009T10:18:06Z | JustStoneTransferProtocol&Backdoor | https://github.com/projectlonginus/JustStone | 0 | 0| 
 | 20231009T07:34:58Z | IBA: Towards Irreversible Backdoor Attacks in Federated Learning (Poster at NeurIPS 2023) | https://github.com/sail-research/iba | 0 | 0| 
-| 20231009T07:21:43Z | PCI Express DIY hacking toolkit for Xilinx SP605. This repository is also home of Hyper-V Backdoor and Boot Backdoor, check readme for links and info | https://github.com/Cr4sh/s6_pcie_microblaze | 628 | 139| 
 | 20231009T07:18:30Z | Kernel  rk | https://github.com/carloslack/KoviD | 156 | 36| 
-| 20231009T04:11:43Z | some experiments about backdoor attack in federated learning | https://github.com/tomatoChenBM/durable-backdoor | 0 | 0| 
-| 20231008T22:58:32Z | 2 Python programmes used for detecting and preventing backdoor attacks in LLMs. | https://github.com/AceMegalodon/Mitigating_Backdoor_Attacks_in_LLMs | 0 | 0| 
-| 20231008T20:48:11Z | Null | https://github.com/S3Curiosity/backdoorPy | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
