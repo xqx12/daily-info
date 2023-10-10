@@ -18,7 +18,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20231009T22:44:24Z | CVE-2023-2640 | GameOver(lay) Ubuntu Privilege Escalation | https://github.com/g1vi/CVE-2023-2640-CVE-2023-32629 | | 
-| 20231009T22:29:46Z | CVE-2023-4911 | CVE-2023-4911 proof of concept | https://github.com/RickdeJager/CVE-2023-4911 | | 
 | 20231009T22:23:11Z | cve-2023-40429 | CVE-2023-40429: An app may be able to access sensitive user data. | https://github.com/biscuitehh/cve-2023-40429-ez-device-name | | 
 | 20231009T21:26:19Z | CVE-2023-37988 | CVE-2023-37988 - Wordpress/Plugin - Contact Form Generator < Reflected Cross-Site Scripting [RXSS] | https://github.com/codeb0ss/CVE-2023-37988-PoC | | 
 | 20231009T20:46:05Z | CVE-2023-41892 | CVE-2023-41892 - Craft CMS Remote Code Execution (RCE) | https://github.com/zaenhaxor/CVE-2023-41892 | | 
@@ -27,6 +26,7 @@
 | 20231009T16:46:26Z | CVE-2023-4911 | A Critical glibc Vulnerability | https://github.com/0xtrace/CVE-2023-4911-Looney-Tunables- | | 
 | 20231009T14:33:05Z | CVE-2022-38694 | User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20231009T14:17:47Z | CVE-2023-21238 | Null | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21238 | | 
+| 20231009T14:08:08Z | CVE-2020-12124 | An implementation of a proof-of-concept for CVE-2020-12124 (https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-12124) | https://github.com/db44k/CVE-2020-12124 | | 
 
 
 # klee on Github 推荐

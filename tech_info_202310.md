@@ -26,9 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231010T01:08:56Z | CVE-2023-4911 | CVE-2023-4911 proof of concept | https://github.com/RickdeJager/CVE-2023-4911 | | 
 | 20231010T00:52:19Z | cve-2023- | cve-2023-test | https://github.com/iceberg-N/cve-2023-test11 | | 
 | 20231009T22:44:24Z | CVE-2023-2640 | GameOver(lay) Ubuntu Privilege Escalation | https://github.com/g1vi/CVE-2023-2640-CVE-2023-32629 | | 
-| 20231009T22:29:46Z | CVE-2023-4911 | CVE-2023-4911 proof of concept | https://github.com/RickdeJager/CVE-2023-4911 | | 
 | 20231009T22:23:11Z | cve-2023-40429 | CVE-2023-40429: An app may be able to access sensitive user data. | https://github.com/biscuitehh/cve-2023-40429-ez-device-name | | 
 | 20231009T21:26:19Z | CVE-2023-37988 | CVE-2023-37988 - Wordpress/Plugin - Contact Form Generator < Reflected Cross-Site Scripting [RXSS] | https://github.com/codeb0ss/CVE-2023-37988-PoC | | 
 | 20231009T20:46:05Z | CVE-2023-41892 | CVE-2023-41892 - Craft CMS Remote Code Execution (RCE) | https://github.com/zaenhaxor/CVE-2023-41892 | | 
