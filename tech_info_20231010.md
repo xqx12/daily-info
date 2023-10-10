@@ -83,6 +83,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231010T12:12:11Z | Null | https://github.com/asyamirsyad/DDMR_fuzzy | 0 | 0| 
 | 20231010T11:20:17Z | TestFuzzer for Nodejs | https://github.com/BoB-WebFuzzing/TestFuzzer-Nodejs | 0 | 0| 
 | 20231010T11:18:54Z | Null | https://github.com/huythai1106/fuzzingTest | 0 | 0| 
 | 20231010T11:11:26Z | TestFuzzer for PHP | https://github.com/BoB-WebFuzzing/TestFuzzer-PHP | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20231010T08:42:20Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4855 | 1164| 
 | 20231010T06:50:16Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9076 | 2017| 
 | 20231010T01:53:46Z | Null | https://github.com/Fertive/fuzzy-goggles | 0 | 0| 
-| 20231010T01:31:10Z | Null | https://github.com/jonathanhus/fuzzy-goofballs | 0 | 0| 
 
 
 
