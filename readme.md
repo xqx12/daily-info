@@ -59,7 +59,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231010T11:30:56Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 91 | 14| 
+| 20231010T12:04:26Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 92 | 14| 
 | 20231010T10:32:24Z | Null | https://github.com/gktirkha/backdoor | 0 | 0| 
 | 20231010T09:13:08Z | PHP shell backdoors list  ( collection ) | https://github.com/1337r0j4n/php-backdoors | 45 | 13| 
 | 20231010T07:04:06Z | Null | https://github.com/jeongjin-shin/RMA-backdoor | 0 | 0| 
