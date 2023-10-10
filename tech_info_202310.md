@@ -116,16 +116,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231009T23:38:13Z | State of the sensor nodes using fuzzy logic | https://github.com/m-samadi/State-sensor-fuzzy | 0 | 0| 
+| 20231009T22:35:56Z | Null | https://github.com/Fuzzyfo78/Fuzzyfo78 | 0 | 0| 
+| 20231009T22:29:12Z | Null | https://github.com/Chesewip/FuzzyBuddiesDesktopClient | 0 | 0| 
+| 20231009T22:10:50Z | %Fuzz% Generative AI LLMs with various inputs to detect vulnerabilities, test their responses, or ensure they function correctly under different conditions. | https://github.com/xsankar/gptFuzzer | 0 | 0| 
+| 20231009T21:49:53Z | Atropos: Effective Fuzzing of Web Applications for Server-Side Vulnerabilities | https://github.com/CISPA-SysSec/atropos-legacy | 0 | 0| 
+| 20231009T21:20:57Z | temporary file holder | https://github.com/CommanderTortilla/fuzzy-octo-train | 0 | 0| 
+| 20231009T21:03:10Z | Null | https://github.com/sathishjayapal/fuzzy-logic | 0 | 0| 
+| 20231009T15:28:58Z | Null | https://github.com/IoT-Fuzz/IoT-Fuzz | 0 | 0| 
 | 20231009T12:19:30Z | Null | https://github.com/jadorks/fuzzy-winner | 0 | 0| 
 | 20231009T12:02:06Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 420 | 56| 
-| 20231009T11:52:25Z | This repo is provide for fuzzy Matching Malware Static Analysising via floss or strings sysinternal tools to match every malicious founction is found in malapi.io for detect easy and save your time in best practice | https://github.com/Sohrabian/fuzzyMatchMalware | 0 | 0| 
-| 20231009T11:03:42Z | Null | https://github.com/AyandaDon/fuzzy-octo-disco | 0 | 0| 
-| 20231009T08:27:59Z | Null | https://github.com/cpython-projects/fuzzy_controller | 0 | 0| 
-| 20231008T22:23:21Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9073 | 2015| 
-| 20231008T21:02:36Z | Null | https://github.com/Habeeb200/fuzzy-potato | 0 | 0| 
-| 20231008T20:56:05Z | Null | https://github.com/BroadcastAutFuzzyfo/BroadcastAutFuzzyfo | 0 | 0| 
-| 20231008T19:56:14Z | Fuzzing framework for unusual targets | https://github.com/u91738/ecf | 0 | 0| 
-| 20231008T19:45:22Z | Fix issues caused by inkwell upgrading | https://github.com/andrelee98/symsan_for_fuzzbench | 0 | 0| 
 
 
 
