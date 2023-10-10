@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231010T01:21:39Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0060-0056-app-XRAHs-re-exploit | 0 | 0| 
 | 20231010T01:16:16Z | Track Your friends | https://github.com/Vibe999/Grim-Exploit | 1 | 0| 
 | 20231010T01:13:12Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 3698 | 626| 
 | 20231010T01:10:51Z | Google%s Isolated American Sign Language Recognition(GISLR) is sign language recognition task posted by google as a competition in Kaggle. Our solution to this problem exploits the sequence structure of the data by using sequence models like transformer, gru, lstm. We also tried with vanilla ML models, although they yielded suboptimal results.  | https://github.com/Pranavbp525/Google-Isolated-American-Sign-Language-Recognition | 0 | 0| 
@@ -74,7 +75,6 @@
 | 20231009T21:10:41Z | Windows Exploit Protection Settings (Ultimate) | https://github.com/neohiro/ExploitProtection | 22 | 2| 
 | 20231009T20:58:15Z | Exploiting 2 machines using scripts made by me, | https://github.com/Mayyhin/Exploit-Development | 0 | 0| 
 | 20231009T20:21:40Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5401 | 1054| 
-| 20231009T20:02:29Z | Null | https://github.com/instriq/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
