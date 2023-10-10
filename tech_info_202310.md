@@ -65,7 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231010T00:55:10Z | Exploits | https://github.com/cont3mpt/exploitsPMJ | 0 | 0| 
+| 20231010T00:57:01Z | Exploits | https://github.com/cont3mpt/exploitsPMJ | 0 | 0| 
 | 20231010T00:31:22Z | shitty stuff from roblox exploit scripts i make | https://github.com/mogolicoo/techware | 0 | 0| 
 | 20231009T23:31:19Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 66 | 9| 
 | 20231009T21:10:41Z | Windows Exploit Protection Settings (Ultimate) | https://github.com/neohiro/ExploitProtection | 22 | 2| 
