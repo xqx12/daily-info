@@ -44,6 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231010T12:38:07Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-782-0050-0012-app-Cr1aV-fulfil-exploit | 0 | 0| 
 | 20231010T12:24:10Z | GitOps Repository | https://github.com/pmacik-testing/wip-test-0016-app-UJmRc-reduce-exploit | 0 | 0| 
 | 20231010T11:42:51Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 1466 | 177| 
 | 20231010T11:29:10Z | Cyber Project-r is an application designed to probe a server or host for open ports. Such an application may be used by administrators to verify security policies of their networks and by attackers to identify network services running on a host and exploit vulnerabilities. | https://github.com/YushaKAHN/Port_scanner-Python | 0 | 0| 
@@ -53,7 +54,6 @@
 | 20231010T08:27:30Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5387 | 694| 
 | 20231010T01:21:39Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0060-0056-app-XRAHs-re-exploit | 0 | 0| 
 | 20231010T01:16:16Z | Track Your friends | https://github.com/Vibe999/Grim-Exploit | 1 | 0| 
-| 20231010T01:13:12Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 3698 | 626| 
 
 
 # backdoor on Github 推荐
