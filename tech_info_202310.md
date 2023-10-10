@@ -11,6 +11,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20231010 | MITRE ATT&CK Enterprise 第五轮评估结果发布 | https://mp.weixin.qq.com/s/KlBpwesdfEqy1IrRT2W4tA| 
 | 20231009 | SecWiki周刊（第501期) | https://www.sec-wiki.com/weekly/501| 
 | 20231008 | 利用 ChatGPT 生成漏洞利用代码 | https://mp.weixin.qq.com/s/nLXZAo9zc0GekORyg1qj-g| 
 | 20231008 | 规范和促进数据跨境流动规定（征求意见稿） | http://www.cac.gov.cn/2023-09/28/c_1697558914242877.htm| 
@@ -20,28 +21,28 @@
 | 20231007 | Your printer is not your printer ! - Hacking Printers at P... | https://devco.re/blog/2023/10/05/your-printer-is-not-your-printer-hacking-printers-pwn2own-part1/| 
 | 20231006 | 浅析MITRE ATT&CK第5轮评估 | https://mp.weixin.qq.com/s/Q4AFOSCnjwV-cWkMnOV63w| 
 | 20231006 | GPTFUZZER：红队方式自动生成大型语言模型越狱提示词 | https://mp.weixin.qq.com/s/hcj1qIxwfHRuJ7rMpqfLxA| 
-| 20231004 | 部分中间人攻击手法简介 | https://xz.aliyun.com/t/12880| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231010T01:08:56Z | CVE-2023-4911 | CVE-2023-4911 proof of concept | https://github.com/RickdeJager/CVE-2023-4911 | | 
-| 20231010T00:52:19Z | cve-2023- | cve-2023-test | https://github.com/iceberg-N/cve-2023-test11 | | 
-| 20231009T22:44:24Z | CVE-2023-2640 | GameOver(lay) Ubuntu Privilege Escalation | https://github.com/g1vi/CVE-2023-2640-CVE-2023-32629 | | 
-| 20231009T22:23:11Z | cve-2023-40429 | CVE-2023-40429: An app may be able to access sensitive user data. | https://github.com/biscuitehh/cve-2023-40429-ez-device-name | | 
-| 20231009T21:26:19Z | CVE-2023-37988 | CVE-2023-37988 - Wordpress/Plugin - Contact Form Generator < Reflected Cross-Site Scripting [RXSS] | https://github.com/codeb0ss/CVE-2023-37988-PoC | | 
-| 20231009T20:46:05Z | CVE-2023-41892 | CVE-2023-41892 - Craft CMS Remote Code Execution (RCE) | https://github.com/zaenhaxor/CVE-2023-41892 | | 
-| 20231009T20:44:22Z | CVE-2023-36845 | CVE-2023-36845  | https://github.com/zaenhaxor/CVE-2023-36845 | | 
-| 20231009T17:13:58Z | CVE-2023-22515 | Null | https://github.com/w33ys/CVE-2023-22515-RCE | | 
-| 20231009T16:46:26Z | CVE-2023-4911 | A Critical glibc Vulnerability | https://github.com/0xtrace/CVE-2023-4911-Looney-Tunables- | | 
-| 20231009T14:33:05Z | CVE-2022-38694 | User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
+| 20231010T08:52:09Z | CVE-2023-27363 | 福昕Foxit PDF远程代码执行漏洞(CVE-2023-27363) | https://github.com/CN016/-Foxit-PDF-CVE-2023-27363- | | 
+| 20231010T08:48:42Z | CVE-2023-32315 | Openfire未授权到RCE(CVE-2023-32315)复现 | https://github.com/CN016/Openfire-RCE-CVE-2023-32315- | | 
+| 20231010T08:46:18Z | CVE-2023-2928 | DedeCMS文件包含漏洞导致后台getshell(CVE-2023-2928)复现 | https://github.com/CN016/DedeCMS-getshell-CVE-2023-2928- | | 
+| 20231010T08:45:57Z | CVE-2023-38646 | Metabase H2 远程代码执行漏洞(CVE-2023-38646) | https://github.com/CN016/Metabase-H2-CVE-2023-38646- | | 
+| 20231010T08:44:39Z | CVE-2020-11444 | Nexus Repository Manager 3 远程命令执行漏洞(CVE-2020-11444) | https://github.com/CN016/Nexus-Repository-Manager-3-CVE-2020-11444- | | 
+| 20231010T08:43:24Z | CVE-2021-37580 | Apache ShenYu Admin JWT认证绕过漏洞(CVE-2021-37580) | https://github.com/CN016/Apache-ShenYu-Admin-JWT-CVE-2021-37580- | | 
+| 20231010T08:42:19Z | CVE-2023-42820 | CVE-2023-42820 POC | https://github.com/C1ph3rX13/CVE-2023-42820 | | 
+| 20231010T08:41:21Z | CVE-2023-29922 | Powerjob 未授权访问漏洞(CVE-2023-29922) | https://github.com/CN016/Powerjob-CVE-2023-29922- | | 
+| 20231010T08:34:01Z | CVE-2023-27524 | Apache Superset 默认SECRET_KEY 漏洞(CVE-2023-27524) | https://github.com/CN016/Apache-Superset-SECRET_KEY-CVE-2023-27524- | | 
+| 20231010T07:04:02Z | CVE-2023-4911 | CVE-2023-4911 proof of concept | https://github.com/RickdeJager/CVE-2023-4911 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231010T00:54:49Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13986 | 423| 
+| 20231010T11:41:31Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13992 | 423| 
+| 20231010T09:51:46Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2328 | 637| 
 | 20231009T14:44:01Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 277 | 53| 
 | 20231009T11:36:39Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 44 | 0| 
 | 20231009T07:33:23Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 364 | 8| 
@@ -50,7 +51,6 @@
 | 20231007T15:37:28Z | Null | https://github.com/KleeKitz/kleekitz.github.io | 0 | 0| 
 | 20231006T07:44:57Z | Null | https://github.com/mm7274a00/klee231006 | 0 | 0| 
 | 20231005T22:56:18Z | klee muter | https://github.com/sponskun/klee | 0 | 0| 
-| 20231005T13:39:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2326 | 636| 
 
 
 # s2e on Github 推荐
@@ -65,31 +65,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231010T11:42:51Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 1466 | 177| 
+| 20231010T11:29:10Z | Cyber Project-r is an application designed to probe a server or host for open ports. Such an application may be used by administrators to verify security policies of their networks and by attackers to identify network services running on a host and exploit vulnerabilities. | https://github.com/YushaKAHN/Port_scanner-Python | 0 | 0| 
+| 20231010T09:51:30Z | projet test pour exploiter la bibliotheque calendar | https://github.com/Hazrody/printCalendar | 0 | 0| 
+| 20231010T09:32:29Z | A Python-based tool to create zip, tar and cpio archives to exploit common archive library issues and developer mistakes | https://github.com/pentagridsec/archive_pwn | 2 | 1| 
+| 20231010T09:15:43Z | mim (multimodal single-cell data integration metrics): package of evaluation metrics for the integration of multimodal single-cell data, exploiting the presence of doppelgaenger cells | https://github.com/ariannaaalami/mim | 0 | 0| 
+| 20231010T08:27:30Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5387 | 694| 
 | 20231010T01:21:39Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0060-0056-app-XRAHs-re-exploit | 0 | 0| 
 | 20231010T01:16:16Z | Track Your friends | https://github.com/Vibe999/Grim-Exploit | 1 | 0| 
 | 20231010T01:13:12Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 3698 | 626| 
 | 20231010T01:10:51Z | Google%s Isolated American Sign Language Recognition(GISLR) is sign language recognition task posted by google as a competition in Kaggle. Our solution to this problem exploits the sequence structure of the data by using sequence models like transformer, gru, lstm. We also tried with vanilla ML models, although they yielded suboptimal results.  | https://github.com/Pranavbp525/Google-Isolated-American-Sign-Language-Recognition | 0 | 0| 
-| 20231010T01:03:48Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 68 | 9| 
-| 20231010T00:57:01Z | Exploits | https://github.com/cont3mpt/exploitsPMJ | 0 | 0| 
-| 20231010T00:31:22Z | shitty stuff from roblox exploit scripts i make | https://github.com/mogolicoo/techware | 0 | 0| 
-| 20231009T21:10:41Z | Windows Exploit Protection Settings (Ultimate) | https://github.com/neohiro/ExploitProtection | 22 | 2| 
-| 20231009T20:58:15Z | Exploiting 2 machines using scripts made by me, | https://github.com/Mayyhin/Exploit-Development | 0 | 0| 
-| 20231009T20:21:40Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5401 | 1054| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231010T01:23:15Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 69 | 10| 
+| 20231010T11:30:56Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 91 | 14| 
+| 20231010T10:32:24Z | Null | https://github.com/gktirkha/backdoor | 0 | 0| 
+| 20231010T09:13:08Z | PHP shell backdoors list  ( collection ) | https://github.com/1337r0j4n/php-backdoors | 45 | 13| 
+| 20231010T07:04:06Z | Null | https://github.com/jeongjin-shin/RMA-backdoor | 0 | 0| 
+| 20231010T01:23:47Z | Source code for our ICCV 2023 paper %Rickrolling the Artist: Injecting Invisible Backdoors into Text-Guided Image Generation Models%. | https://github.com/LukasStruppek/Rickrolling-the-Artist | 30 | 4| 
 | 20231010T01:02:38Z | The backdoor code for the GUI on the Nerf or Nothing Project | https://github.com/carbolizer/Project-Nerf-Gui | 0 | 0| 
 | 20231009T23:26:22Z | PCI Express DIY hacking toolkit for Xilinx SP605. This repository is also home of Hyper-V Backdoor and Boot Backdoor, check readme for links and info | https://github.com/Cr4sh/s6_pcie_microblaze | 630 | 139| 
 | 20231009T21:22:43Z | First open source and publicly available System Management Mode backdoor for UEFI based platforms. Good as general purpose playground for various SMM experiments. | https://github.com/Cr4sh/SmmBackdoor | 538 | 168| 
 | 20231009T15:51:27Z | backdoor creation | https://github.com/Davide-L90/Ex-S3L2 | 0 | 0| 
 | 20231009T15:36:45Z | SBC Persistent backdoor managed via telegram bot | https://github.com/ethanlacerenza/SBC-RAT | 0 | 0| 
-| 20231009T14:14:51Z | Security testing tool for Arch Linux | https://github.com/scriptkidsensei/AUDO-SCANNER | 2 | 0| 
-| 20231009T11:06:52Z | Django restapi server allows communication between 2 computer. | https://github.com/Aliefe02/Backdoor_with_Django_Backend | 0 | 0| 
-| 20231009T10:18:06Z | JustStoneTransferProtocol&Backdoor | https://github.com/projectlonginus/JustStone | 0 | 0| 
-| 20231009T07:34:58Z | IBA: Towards Irreversible Backdoor Attacks in Federated Learning (Poster at NeurIPS 2023) | https://github.com/sail-research/iba | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -116,16 +116,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231010T11:20:17Z | TestFuzzer for Nodejs | https://github.com/BoB-WebFuzzing/TestFuzzer-Nodejs | 0 | 0| 
+| 20231010T11:18:54Z | Null | https://github.com/huythai1106/fuzzingTest | 0 | 0| 
+| 20231010T11:11:26Z | TestFuzzer for PHP | https://github.com/BoB-WebFuzzing/TestFuzzer-PHP | 0 | 0| 
+| 20231010T11:07:43Z | TestFuzzer for Ruby | https://github.com/BoB-WebFuzzing/TestFuzzer-Ruby | 0 | 0| 
+| 20231010T11:03:10Z | SSL and TLS protocol test suite and fuzzer | https://github.com/tlsfuzzer/tlsfuzzer | 500 | 106| 
+| 20231010T09:10:55Z | Null | https://github.com/murugan22/fuzzingsample | 0 | 0| 
+| 20231010T08:42:20Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4855 | 1164| 
+| 20231010T06:50:16Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9076 | 2017| 
 | 20231010T01:53:46Z | Null | https://github.com/Fertive/fuzzy-goggles | 0 | 0| 
 | 20231010T01:31:10Z | Null | https://github.com/jonathanhus/fuzzy-goofballs | 0 | 0| 
-| 20231010T00:31:39Z | Null | https://github.com/acquittement/fuzzy-octo-sniffle | 0 | 0| 
-| 20231009T23:38:13Z | State of the sensor nodes using fuzzy logic | https://github.com/m-samadi/State-sensor-fuzzy | 0 | 0| 
-| 20231009T22:35:56Z | Null | https://github.com/Fuzzyfo78/Fuzzyfo78 | 0 | 0| 
-| 20231009T22:29:12Z | Null | https://github.com/Chesewip/FuzzyBuddiesDesktopClient | 0 | 0| 
-| 20231009T22:10:50Z | %Fuzz% Generative AI LLMs with various inputs to detect vulnerabilities, test their responses, or ensure they function correctly under different conditions. | https://github.com/xsankar/gptFuzzer | 0 | 0| 
-| 20231009T21:49:53Z | Atropos: Effective Fuzzing of Web Applications for Server-Side Vulnerabilities | https://github.com/CISPA-SysSec/atropos-legacy | 0 | 0| 
-| 20231009T21:20:57Z | temporary file holder | https://github.com/CommanderTortilla/fuzzy-octo-train | 0 | 0| 
-| 20231009T21:03:10Z | Null | https://github.com/sathishjayapal/fuzzy-logic | 0 | 0| 
 
 
 
