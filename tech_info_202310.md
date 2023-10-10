@@ -65,16 +65,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231010T00:31:22Z | shitty stuff from roblox exploit scripts i make | https://github.com/mogolicoo/techware | 0 | 0| 
 | 20231009T23:31:19Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 66 | 8| 
 | 20231009T21:10:41Z | Windows Exploit Protection Settings (Ultimate) | https://github.com/neohiro/ExploitProtection | 22 | 2| 
 | 20231009T20:58:15Z | Exploiting 2 machines using scripts made by me, | https://github.com/Mayyhin/Exploit-Development | 0 | 0| 
+| 20231009T20:21:40Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5401 | 1054| 
 | 20231009T20:02:29Z | Null | https://github.com/instriq/exploits | 0 | 0| 
 | 20231009T18:46:53Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 3697 | 626| 
 | 20231009T16:23:07Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 575 | 112| 
 | 20231009T16:10:31Z | Gsploit is an exploit framework written in Go (Golang). It allows users to easily exploit vulnerabilities, create and encode payloads, and post exploits to networks. It offers a wide range of exploits to effectively penetrate target systems and access sensitive data. | https://github.com/dev-bittu/gsploit | 0 | 0| 
 | 20231009T13:10:55Z | Null | https://github.com/hazae41/wc-exploit-1 | 0 | 0| 
-| 20231009T12:55:06Z | Official code for EMNLP-2023 paper %Interpreting and Exploiting Functional Specialization in Multi-Head Attention under Multi-task Learning% | https://github.com/ZNLP/FunctionalSpecializationInMHA | 0 | 0| 
-| 20231009T12:10:21Z | Null | https://github.com/malvika-thakur/Metasploitable2-FTP-Exploit | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -116,6 +116,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231010T00:31:39Z | Null | https://github.com/acquittement/fuzzy-octo-sniffle | 0 | 0| 
 | 20231009T23:38:13Z | State of the sensor nodes using fuzzy logic | https://github.com/m-samadi/State-sensor-fuzzy | 0 | 0| 
 | 20231009T22:35:56Z | Null | https://github.com/Fuzzyfo78/Fuzzyfo78 | 0 | 0| 
 | 20231009T22:29:12Z | Null | https://github.com/Chesewip/FuzzyBuddiesDesktopClient | 0 | 0| 
@@ -125,7 +126,6 @@
 | 20231009T21:03:10Z | Null | https://github.com/sathishjayapal/fuzzy-logic | 0 | 0| 
 | 20231009T15:28:58Z | Null | https://github.com/IoT-Fuzz/IoT-Fuzz | 0 | 0| 
 | 20231009T12:19:30Z | Null | https://github.com/jadorks/fuzzy-winner | 0 | 0| 
-| 20231009T12:02:06Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 420 | 56| 
 
 
 
