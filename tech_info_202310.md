@@ -65,9 +65,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231010T01:01:34Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 67 | 9| 
 | 20231010T00:57:01Z | Exploits | https://github.com/cont3mpt/exploitsPMJ | 0 | 0| 
 | 20231010T00:31:22Z | shitty stuff from roblox exploit scripts i make | https://github.com/mogolicoo/techware | 0 | 0| 
-| 20231009T23:31:19Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 66 | 9| 
 | 20231009T21:10:41Z | Windows Exploit Protection Settings (Ultimate) | https://github.com/neohiro/ExploitProtection | 22 | 2| 
 | 20231009T20:58:15Z | Exploiting 2 machines using scripts made by me, | https://github.com/Mayyhin/Exploit-Development | 0 | 0| 
 | 20231009T20:21:40Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5401 | 1054| 
@@ -80,7 +80,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231009T23:31:19Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 66 | 9| 
+| 20231010T01:02:38Z | The backdoor code for the GUI on the Nerf or Nothing Project | https://github.com/carbolizer/Project-Nerf-Gui | 0 | 0| 
+| 20231010T01:01:34Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 67 | 9| 
 | 20231009T23:26:22Z | PCI Express DIY hacking toolkit for Xilinx SP605. This repository is also home of Hyper-V Backdoor and Boot Backdoor, check readme for links and info | https://github.com/Cr4sh/s6_pcie_microblaze | 630 | 139| 
 | 20231009T21:22:43Z | First open source and publicly available System Management Mode backdoor for UEFI based platforms. Good as general purpose playground for various SMM experiments. | https://github.com/Cr4sh/SmmBackdoor | 538 | 168| 
 | 20231009T15:51:27Z | backdoor creation | https://github.com/Davide-L90/Ex-S3L2 | 0 | 0| 
@@ -89,7 +90,6 @@
 | 20231009T11:06:52Z | Django restapi server allows communication between 2 computer. | https://github.com/Aliefe02/Backdoor_with_Django_Backend | 0 | 0| 
 | 20231009T10:18:06Z | JustStoneTransferProtocol&Backdoor | https://github.com/projectlonginus/JustStone | 0 | 0| 
 | 20231009T07:34:58Z | IBA: Towards Irreversible Backdoor Attacks in Federated Learning (Poster at NeurIPS 2023) | https://github.com/sail-research/iba | 0 | 0| 
-| 20231009T07:18:30Z | Kernel  rk | https://github.com/carloslack/KoviD | 156 | 36| 
 
 
 # symbolic execution on Github 推荐
