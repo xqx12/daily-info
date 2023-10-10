@@ -80,7 +80,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231010T01:03:48Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 68 | 9| 
+| 20231010T01:23:15Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 69 | 10| 
 | 20231010T01:02:38Z | The backdoor code for the GUI on the Nerf or Nothing Project | https://github.com/carbolizer/Project-Nerf-Gui | 0 | 0| 
 | 20231009T23:26:22Z | PCI Express DIY hacking toolkit for Xilinx SP605. This repository is also home of Hyper-V Backdoor and Boot Backdoor, check readme for links and info | https://github.com/Cr4sh/s6_pcie_microblaze | 630 | 139| 
 | 20231009T21:22:43Z | First open source and publicly available System Management Mode backdoor for UEFI based platforms. Good as general purpose playground for various SMM experiments. | https://github.com/Cr4sh/SmmBackdoor | 538 | 168| 
