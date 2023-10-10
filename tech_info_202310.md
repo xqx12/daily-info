@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231010T00:55:10Z | Exploits | https://github.com/cont3mpt/exploitsPMJ | 0 | 0| 
 | 20231010T00:31:22Z | shitty stuff from roblox exploit scripts i make | https://github.com/mogolicoo/techware | 0 | 0| 
 | 20231009T23:31:19Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 66 | 9| 
 | 20231009T21:10:41Z | Windows Exploit Protection Settings (Ultimate) | https://github.com/neohiro/ExploitProtection | 22 | 2| 
@@ -74,7 +75,6 @@
 | 20231009T18:46:53Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 3697 | 626| 
 | 20231009T16:23:07Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 575 | 112| 
 | 20231009T16:10:31Z | Gsploit is an exploit framework written in Go (Golang). It allows users to easily exploit vulnerabilities, create and encode payloads, and post exploits to networks. It offers a wide range of exploits to effectively penetrate target systems and access sensitive data. | https://github.com/dev-bittu/gsploit | 0 | 0| 
-| 20231009T13:10:55Z | Null | https://github.com/hazae41/wc-exploit-1 | 0 | 0| 
 
 
 # backdoor on Github 推荐
