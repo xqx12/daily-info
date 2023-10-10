@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231010T12:42:19Z | CVE-2023-22515 | metasploit module for CVE-2023-22515 | https://github.com/r4p70rs/CVE-2023-22515-PoC | | 
 | 20231010T12:40:54Z | CVE-2023-4911 | CVE-2023-4911 proof of concept | https://github.com/RickdeJager/CVE-2023-4911 | | 
 | 20231010T08:52:09Z | CVE-2023-27363 | 福昕Foxit PDF远程代码执行漏洞(CVE-2023-27363) | https://github.com/CN016/-Foxit-PDF-CVE-2023-27363- | | 
 | 20231010T08:48:42Z | CVE-2023-32315 | Openfire未授权到RCE(CVE-2023-32315)复现 | https://github.com/CN016/Openfire-RCE-CVE-2023-32315- | | 
@@ -35,7 +36,6 @@
 | 20231010T08:43:24Z | CVE-2021-37580 | Apache ShenYu Admin JWT认证绕过漏洞(CVE-2021-37580) | https://github.com/CN016/Apache-ShenYu-Admin-JWT-CVE-2021-37580- | | 
 | 20231010T08:42:19Z | CVE-2023-42820 | CVE-2023-42820 POC | https://github.com/C1ph3rX13/CVE-2023-42820 | | 
 | 20231010T08:41:21Z | CVE-2023-29922 | Powerjob 未授权访问漏洞(CVE-2023-29922) | https://github.com/CN016/Powerjob-CVE-2023-29922- | | 
-| 20231010T08:34:01Z | CVE-2023-27524 | Apache Superset 默认SECRET_KEY 漏洞(CVE-2023-27524) | https://github.com/CN016/Apache-Superset-SECRET_KEY-CVE-2023-27524- | | 
 
 
 # klee on Github 推荐
