@@ -65,16 +65,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231009T23:31:19Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 66 | 8| 
+| 20231009T21:10:41Z | Windows Exploit Protection Settings (Ultimate) | https://github.com/neohiro/ExploitProtection | 22 | 2| 
+| 20231009T20:58:15Z | Exploiting 2 machines using scripts made by me, | https://github.com/Mayyhin/Exploit-Development | 0 | 0| 
+| 20231009T20:02:29Z | Null | https://github.com/instriq/exploits | 0 | 0| 
+| 20231009T18:46:53Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 3697 | 626| 
+| 20231009T16:10:31Z | Gsploit is an exploit framework written in Go (Golang). It allows users to easily exploit vulnerabilities, create and encode payloads, and post exploits to networks. It offers a wide range of exploits to effectively penetrate target systems and access sensitive data. | https://github.com/dev-bittu/gsploit | 0 | 0| 
 | 20231009T13:10:55Z | Null | https://github.com/hazae41/wc-exploit-1 | 0 | 0| 
 | 20231009T12:55:06Z | Official code for EMNLP-2023 paper %Interpreting and Exploiting Functional Specialization in Multi-Head Attention under Multi-task Learning% | https://github.com/ZNLP/FunctionalSpecializationInMHA | 0 | 0| 
 | 20231009T12:10:21Z | Null | https://github.com/malvika-thakur/Metasploitable2-FTP-Exploit | 1 | 0| 
 | 20231009T10:44:46Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5400 | 1053| 
-| 20231009T10:34:50Z | This repository is a treasure trove of my coding exploits, from the first %Hello, World!% to conquering complex challenges.  | https://github.com/feiryrej/java-practice | 0 | 0| 
-| 20231009T09:38:23Z | simple python script to automate the local file inclusion exploit on the zipping machine from hack the box | https://github.com/b3rt1ng/HTB_zipping_lfi_exploit | 0 | 0| 
-| 20231009T09:31:08Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5384 | 694| 
-| 20231009T07:55:59Z | Null | https://github.com/ImranTheThirdEye/WinboxExploit | 0 | 0| 
-| 20231009T07:23:51Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 60 | 19| 
-| 20231009T03:03:54Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 169 | 14| 
 
 
 # backdoor on Github 推荐
@@ -95,7 +95,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231008T17:19:47Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 204 | 19| 
+| 20231009T22:42:21Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 205 | 19| 
 | 20231008T02:26:19Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 357 | 82| 
 | 20231005T14:30:40Z | Bottom-up memory-safety for assembly language using symbolic execution | https://github.com/scaspin/memory-safe-assembly | 1 | 0| 
 | 20231005T13:39:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2326 | 636| 
@@ -108,6 +108,8 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231009T15:06:42Z | Source code for the paper %SLMIA-SR: Speaker-Level Membership Inference Attacks against Speaker Recognition Systems% accepted by NDSS 2024 | https://github.com/S3L-official/SLMIA-SR | 2 | 0| 
+| 20231009T03:10:33Z | Source code for our NDSS%18 paper %Automated Website Fingerprinting through Deep Learning% | https://github.com/DistriNet/DLWF | 81 | 39| 
 | 20231005T16:39:36Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 20 | 2| 
 
 
