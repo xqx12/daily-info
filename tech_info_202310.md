@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231010T12:24:10Z | GitOps Repository | https://github.com/pmacik-testing/wip-test-0016-app-UJmRc-reduce-exploit | 0 | 0| 
 | 20231010T11:42:51Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 1466 | 177| 
 | 20231010T11:29:10Z | Cyber Project-r is an application designed to probe a server or host for open ports. Such an application may be used by administrators to verify security policies of their networks and by attackers to identify network services running on a host and exploit vulnerabilities. | https://github.com/YushaKAHN/Port_scanner-Python | 0 | 0| 
 | 20231010T09:51:30Z | projet test pour exploiter la bibliotheque calendar | https://github.com/Hazrody/printCalendar | 0 | 0| 
@@ -74,13 +75,12 @@
 | 20231010T01:21:39Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0060-0056-app-XRAHs-re-exploit | 0 | 0| 
 | 20231010T01:16:16Z | Track Your friends | https://github.com/Vibe999/Grim-Exploit | 1 | 0| 
 | 20231010T01:13:12Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 3698 | 626| 
-| 20231010T01:10:51Z | Google%s Isolated American Sign Language Recognition(GISLR) is sign language recognition task posted by google as a competition in Kaggle. Our solution to this problem exploits the sequence structure of the data by using sequence models like transformer, gru, lstm. We also tried with vanilla ML models, although they yielded suboptimal results.  | https://github.com/Pranavbp525/Google-Isolated-American-Sign-Language-Recognition | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231010T12:07:27Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 93 | 14| 
+| 20231010T12:21:58Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 94 | 14| 
 | 20231010T10:32:24Z | Null | https://github.com/gktirkha/backdoor | 0 | 0| 
 | 20231010T09:13:08Z | PHP shell backdoors list  ( collection ) | https://github.com/1337r0j4n/php-backdoors | 45 | 13| 
 | 20231010T07:04:06Z | Null | https://github.com/jeongjin-shin/RMA-backdoor | 0 | 0| 
