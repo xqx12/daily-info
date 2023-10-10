@@ -116,6 +116,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231010T01:31:10Z | Null | https://github.com/jonathanhus/fuzzy-goofballs | 0 | 0| 
 | 20231010T00:31:39Z | Null | https://github.com/acquittement/fuzzy-octo-sniffle | 0 | 0| 
 | 20231009T23:38:13Z | State of the sensor nodes using fuzzy logic | https://github.com/m-samadi/State-sensor-fuzzy | 0 | 0| 
 | 20231009T22:35:56Z | Null | https://github.com/Fuzzyfo78/Fuzzyfo78 | 0 | 0| 
@@ -125,7 +126,6 @@
 | 20231009T21:20:57Z | temporary file holder | https://github.com/CommanderTortilla/fuzzy-octo-train | 0 | 0| 
 | 20231009T21:03:10Z | Null | https://github.com/sathishjayapal/fuzzy-logic | 0 | 0| 
 | 20231009T15:28:58Z | Null | https://github.com/IoT-Fuzz/IoT-Fuzz | 0 | 0| 
-| 20231009T12:19:30Z | Null | https://github.com/jadorks/fuzzy-winner | 0 | 0| 
 
 
 
