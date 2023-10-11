@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231011T00:22:37Z | Null | https://github.com/yelmokht/Exploitation-agricole | 0 | 0| 
 | 20231011T00:01:56Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 107 | 15| 
 | 20231010T22:26:12Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5919 | 515| 
 | 20231010T22:13:20Z | https://raw.githubusercontent.com/x0581/Iris-Exploit-Bundle/2.0.4/bundle.lua | https://github.com/aurascene/roblox-imgui | 0 | 0| 
@@ -74,7 +75,6 @@
 | 20231010T17:27:09Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 743 | 179| 
 | 20231010T15:45:06Z | My Binary Exploitation / PWN Journey | https://github.com/miraicantsleep/pwn-journey | 0 | 0| 
 | 20231010T12:49:13Z | Nuclei AI - Browser Extension for Rapid Nuclei Template Generation | https://github.com/projectdiscovery/nuclei-ai-extension | 15 | 0| 
-| 20231010T12:38:07Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-782-0050-0012-app-Cr1aV-fulfil-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
