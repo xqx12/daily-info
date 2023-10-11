@@ -118,6 +118,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231011T01:54:07Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1576 | 229| 
 | 20231011T01:43:33Z | Research paper and project for JHU class: Reasoning Under Uncertainty - EN.605.745 | https://github.com/cvaisnor/abc-fuzzing | 0 | 0| 
 | 20231011T01:27:09Z | Null | https://github.com/enyquist/fuzzylogic | 0 | 0| 
 | 20231011T01:22:21Z | Null | https://github.com/VinRodrigues/LogicaFuzzy | 0 | 0| 
@@ -127,7 +128,6 @@
 | 20231010T22:29:01Z | Fuzzy - MacOS Keyboard Cleaning tool | https://github.com/ClarkTheCoder/Fuzzy | 0 | 0| 
 | 20231010T20:59:33Z | Fuzz 401/403/404 pages for bypasses | https://github.com/intrudir/BypassFuzzer | 67 | 3| 
 | 20231010T20:47:11Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 430 | 57| 
-| 20231010T20:35:47Z | Null | https://github.com/hysa99/fuzzy-octo-waffle | 0 | 0| 
 
 
 
