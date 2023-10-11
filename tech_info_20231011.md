@@ -17,6 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231011T12:28:56Z | CVE-2023-38545 | Simple PoC causing overflow | https://github.com/UTsweetyfish/CVE-2023-38545 | | 
 | 20231011T12:23:24Z | CVE-2023-36802 | LPE exploit for CVE-2023-36802 | https://github.com/chompie1337/Windows_MSKSSRV_LPE_CVE-2023-36802 | | 
 | 20231011T12:22:13Z | CVE-2023-5521 | Root takeover via signature spoofing in KernelSU | https://github.com/Ylarod/CVE-2023-5521 | | 
 | 20231011T12:17:19Z | CVE-2023-22515 | CVE-2023-22515 - Broken Access Control Vulnerability in Confluence Data Center and Server | https://github.com/kh4sh3i/CVE-2023-22515 | | 
@@ -25,7 +26,6 @@
 | 20231011T11:58:01Z | CVE-2023-22515 | Confluence未授权添加管理员用户(CVE-2023-22515)漏洞利用工具 | https://github.com/ad-calcium/CVE-2023-22515 | | 
 | 20231011T11:22:22Z | CVE-2023-44487 | Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487 | https://github.com/bcdannyboy/CVE-2023-44487 | | 
 | 20231011T11:11:59Z | CVE-2023-22515 | CVE-2023-22515: Confluence Broken Access Control Exploit | https://github.com/Chocapikk/CVE-2023-22515 | | 
-| 20231011T10:59:27Z | CVE-2023-38545 | Simple PoC causing overflow | https://github.com/UTsweetyfish/CVE-2023-38545 | | 
 | 20231011T07:40:55Z | CVE-2023-22515 | Poc for CVE-2023-22515 | https://github.com/j3seer/CVE-2023-22515-POC | | 
 
 
@@ -79,6 +79,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231011T12:30:28Z | Config files for my GitHub profile. | https://github.com/FuzzyMatrix18/FuzzyMatrix18 | 0 | 0| 
 | 20231011T11:09:17Z | TestFuzzer for Ruby | https://github.com/BoB-WebFuzzing/TestFuzzer-Ruby | 0 | 0| 
 | 20231011T10:04:12Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1577 | 229| 
 | 20231011T07:46:45Z | TestFuzzer for Nodejs | https://github.com/BoB-WebFuzzing/TestFuzzer-Nodejs | 0 | 0| 
