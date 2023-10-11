@@ -119,7 +119,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231011T12:54:43Z | Null | https://github.com/Harsh055Raj/Clustering_Model_FUZZYCMEAN | 0 | 0| 
+| 20231011T12:56:05Z | Null | https://github.com/Harsh055Raj/Clustering_Model_FUZZYCMEAN | 0 | 0| 
 | 20231011T12:30:28Z | Config files for my GitHub profile. | https://github.com/FuzzyMatrix18/FuzzyMatrix18 | 0 | 0| 
 | 20231011T11:09:17Z | TestFuzzer for Ruby | https://github.com/BoB-WebFuzzing/TestFuzzer-Ruby | 0 | 0| 
 | 20231011T10:04:12Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1577 | 229| 
