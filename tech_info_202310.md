@@ -26,8 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231011T12:34:46Z | CVE-2023-5521 | Root takeover via signature spoofing in KernelSU | https://github.com/Ylarod/CVE-2023-5521 | | 
-| 20231011T12:28:56Z | CVE-2023-38545 | Simple PoC causing overflow | https://github.com/UTsweetyfish/CVE-2023-38545 | | 
+| 20231011T12:37:56Z | CVE-2023-5521 | Root takeover via signature spoofing in KernelSU | https://github.com/Ylarod/CVE-2023-5521 | | 
+| 20231011T12:36:00Z | CVE-2023-38545 | Simple PoC causing overflow | https://github.com/UTsweetyfish/CVE-2023-38545 | | 
 | 20231011T12:23:24Z | CVE-2023-36802 | LPE exploit for CVE-2023-36802 | https://github.com/chompie1337/Windows_MSKSSRV_LPE_CVE-2023-36802 | | 
 | 20231011T12:17:19Z | CVE-2023-22515 | CVE-2023-22515 - Broken Access Control Vulnerability in Confluence Data Center and Server | https://github.com/kh4sh3i/CVE-2023-22515 | | 
 | 20231011T12:15:35Z | CVE-2023-36723 | Null | https://github.com/Wh04m1001/CVE-2023-36723 | | 
