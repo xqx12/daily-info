@@ -74,7 +74,7 @@
 | 20231010T20:12:57Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5404 | 1054| 
 | 20231010T17:53:53Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 577 | 112| 
 | 20231010T17:27:09Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 743 | 179| 
-| 20231010T15:45:06Z | My Binary Exploitation / PWN Journey | https://github.com/miraicantsleep/pwn-journey | 0 | 0| 
+| 20231010T16:17:39Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 224 | 15| 
 
 
 # backdoor on Github 推荐
