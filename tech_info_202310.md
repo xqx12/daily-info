@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231011T12:17:19Z | CVE-2023-22515 - Broken Access Control Vulnerability in Confluence Data Center and Server | https://github.com/kh4sh3i/CVE-2023-22515 | 0 | 0| 
 | 20231011T12:01:26Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 62 | 19| 
 | 20231011T10:21:23Z | Null | https://github.com/f0ns1reviewed/Azure_exploits | 0 | 0| 
 | 20231011T10:21:19Z | PoC. Severity critical. | https://github.com/getdrive/PoC | 14 | 8| 
@@ -74,7 +75,6 @@
 | 20231011T01:51:09Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANcv | 1 | 0| 
 | 20231011T01:50:25Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANcv | 1 | 0| 
 | 20231011T01:49:46Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANcv | 1 | 0| 
-| 20231011T01:33:09Z | Entendimento de conceitos básicos de Cloud (Multicloud) e fator de exploração. | https://github.com/Viniciusbrz/CloudSec-exploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
