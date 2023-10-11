@@ -119,6 +119,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231011T12:54:43Z | Null | https://github.com/Harsh055Raj/Clustering_Model_FUZZYCMEAN | 0 | 0| 
 | 20231011T12:30:28Z | Config files for my GitHub profile. | https://github.com/FuzzyMatrix18/FuzzyMatrix18 | 0 | 0| 
 | 20231011T11:09:17Z | TestFuzzer for Ruby | https://github.com/BoB-WebFuzzing/TestFuzzer-Ruby | 0 | 0| 
 | 20231011T10:04:12Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1577 | 229| 
@@ -128,7 +129,6 @@
 | 20231011T01:43:33Z | Research paper and project for JHU class: Reasoning Under Uncertainty - EN.605.745 | https://github.com/cvaisnor/abc-fuzzing | 0 | 0| 
 | 20231011T01:27:09Z | Null | https://github.com/enyquist/fuzzylogic | 0 | 0| 
 | 20231011T01:22:21Z | Null | https://github.com/VinRodrigues/LogicaFuzzy | 0 | 0| 
-| 20231011T01:07:02Z | Research artifact for Oakland (S&P) 2022, %BEACON: Directed Grey-Box Fuzzing with Provable Path Pruning% | https://github.com/5hadowblad3/Beacon_artifact | 18 | 1| 
 
 
 
