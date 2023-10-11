@@ -118,6 +118,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231011T01:06:31Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 49320 | 23238| 
 | 20231010T23:19:22Z | Research paper and project for JHU class: Reasoning Under Uncertainty - EN.605.745 | https://github.com/cvaisnor/abc-fuzzing | 0 | 0| 
 | 20231010T23:11:19Z | Null | https://github.com/molokovcw1/fuzzy-tribble | 0 | 0| 
 | 20231010T22:54:37Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 291 | 37| 
@@ -127,7 +128,6 @@
 | 20231010T20:31:36Z | Null | https://github.com/teamconfx/ConfFuzz | 0 | 0| 
 | 20231010T19:34:17Z | Testing fuzzy hashes | https://github.com/edmcman/fuzzyhash-test | 0 | 0| 
 | 20231010T12:12:11Z | Null | https://github.com/asyamirsyad/DDMR_fuzzy | 0 | 0| 
-| 20231010T11:20:17Z | TestFuzzer for Nodejs | https://github.com/BoB-WebFuzzing/TestFuzzer-Nodejs | 0 | 0| 
 
 
 
