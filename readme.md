@@ -95,11 +95,11 @@
 | 20231010T22:54:37Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 291 | 37| 
 | 20231010T22:29:01Z | Fuzzy - MacOS Keyboard Cleaning tool | https://github.com/ClarkTheCoder/Fuzzy | 0 | 0| 
 | 20231010T20:59:33Z | Fuzz 401/403/404 pages for bypasses | https://github.com/intrudir/BypassFuzzer | 67 | 3| 
+| 20231010T20:47:11Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 430 | 57| 
 | 20231010T20:35:47Z | Null | https://github.com/hysa99/fuzzy-octo-waffle | 0 | 0| 
 | 20231010T20:31:36Z | Null | https://github.com/teamconfx/ConfFuzz | 0 | 0| 
 | 20231010T19:34:17Z | Testing fuzzy hashes | https://github.com/edmcman/fuzzyhash-test | 0 | 0| 
 | 20231010T12:12:11Z | Null | https://github.com/asyamirsyad/DDMR_fuzzy | 0 | 0| 
-| 20231010T11:20:17Z | TestFuzzer for Nodejs | https://github.com/BoB-WebFuzzing/TestFuzzer-Nodejs | 0 | 0| 
 
 
 

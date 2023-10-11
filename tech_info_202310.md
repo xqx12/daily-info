@@ -118,6 +118,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231011T01:27:09Z | Null | https://github.com/enyquist/fuzzylogic | 0 | 0| 
 | 20231011T01:22:21Z | Null | https://github.com/VinRodrigues/LogicaFuzzy | 0 | 0| 
 | 20231011T01:21:15Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 49321 | 23238| 
 | 20231010T23:19:22Z | Research paper and project for JHU class: Reasoning Under Uncertainty - EN.605.745 | https://github.com/cvaisnor/abc-fuzzing | 0 | 0| 
@@ -125,9 +126,8 @@
 | 20231010T22:54:37Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 291 | 37| 
 | 20231010T22:29:01Z | Fuzzy - MacOS Keyboard Cleaning tool | https://github.com/ClarkTheCoder/Fuzzy | 0 | 0| 
 | 20231010T20:59:33Z | Fuzz 401/403/404 pages for bypasses | https://github.com/intrudir/BypassFuzzer | 67 | 3| 
+| 20231010T20:47:11Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 430 | 57| 
 | 20231010T20:35:47Z | Null | https://github.com/hysa99/fuzzy-octo-waffle | 0 | 0| 
-| 20231010T20:31:36Z | Null | https://github.com/teamconfx/ConfFuzz | 0 | 0| 
-| 20231010T19:34:17Z | Testing fuzzy hashes | https://github.com/edmcman/fuzzyhash-test | 0 | 0| 
 
 
 
