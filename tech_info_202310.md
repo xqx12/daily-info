@@ -65,11 +65,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231011T12:01:26Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 62 | 19| 
 | 20231011T10:21:23Z | Null | https://github.com/f0ns1reviewed/Azure_exploits | 0 | 0| 
 | 20231011T10:21:19Z | PoC. Severity critical. | https://github.com/getdrive/PoC | 14 | 8| 
 | 20231011T10:20:26Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5391 | 696| 
 | 20231011T09:51:53Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 87 | 31| 
-| 20231011T08:14:43Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 61 | 19| 
 | 20231011T01:51:59Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWcv | 1 | 0| 
 | 20231011T01:51:09Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANcv | 1 | 0| 
 | 20231011T01:50:25Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANcv | 1 | 0| 
@@ -95,6 +95,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231011T04:25:49Z | Null | https://github.com/acheron2302/SymbolicExecution | 0 | 0| 
 | 20231010T21:53:16Z | Bottom-up memory-safety for assembly language using symbolic execution | https://github.com/scaspin/memory-safe-assembly | 1 | 0| 
 | 20231010T19:55:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2329 | 637| 
 | 20231009T22:42:21Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 205 | 19| 
