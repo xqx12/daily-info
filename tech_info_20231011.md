@@ -17,7 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231011T12:08:31Z | CVE-2023-5521 | Root takeover via signature spoofing in KernelSU | https://github.com/Ylarod/CVE-2023-5521 | | 
+| 20231011T12:10:20Z | CVE-2023-5521 | Root takeover via signature spoofing in KernelSU | https://github.com/Ylarod/CVE-2023-5521 | | 
 | 20231011T12:08:21Z | CVE-2023-2215 | PoC For CVE-2023-2215 - Auth bypass  | https://github.com/zwxxb/CVE-2023-2215 | | 
 | 20231011T11:58:01Z | CVE-2023-22515 | Confluence未授权添加管理员用户(CVE-2023-22515)漏洞利用工具 | https://github.com/ad-calcium/CVE-2023-22515 | | 
 | 20231011T11:54:28Z | CVE-2023-22515 | CVE-2023-22515 | https://github.com/kh4sh3i/CVE-2023-22515 | | 
