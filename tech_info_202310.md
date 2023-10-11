@@ -26,9 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231011T01:57:07Z | CVE-2023-36802 | LPE exploit for CVE-2023-36802 | https://github.com/chompie1337/Windows_MSKSSRV_LPE_CVE-2023-36802 | | 
 | 20231011T01:44:23Z | CVE-2023-36723 | Null | https://github.com/Wh04m1001/CVE-2023-36723 | | 
 | 20231011T01:24:36Z | CVE-2023-22515 | CVE-2023-22515: Confluence Broken Access Control Exploit | https://github.com/Chocapikk/CVE-2023-22515 | | 
-| 20231011T01:05:08Z | CVE-2023-36802 | LPE exploit for CVE-2023-36802 | https://github.com/chompie1337/Windows_MSKSSRV_LPE_CVE-2023-36802 | | 
 | 20231011T00:48:34Z | CVE-2023-22515 | Poc for CVE-2023-22515 | https://github.com/j3seer/CVE-2023-22515-POC | | 
 | 20231010T23:32:04Z | CVE-2023-44487 | Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487 | https://github.com/bcdannyboy/CVE-2023-44487 | | 
 | 20231010T22:12:01Z | CVE-2023-4911 | Null | https://github.com/hadrian3689/looney-tunables-CVE-2023-4911 | | 
@@ -118,11 +118,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231011T01:56:59Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 49320 | 23238| 
 | 20231011T01:54:07Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1576 | 229| 
 | 20231011T01:43:33Z | Research paper and project for JHU class: Reasoning Under Uncertainty - EN.605.745 | https://github.com/cvaisnor/abc-fuzzing | 0 | 0| 
 | 20231011T01:27:09Z | Null | https://github.com/enyquist/fuzzylogic | 0 | 0| 
 | 20231011T01:22:21Z | Null | https://github.com/VinRodrigues/LogicaFuzzy | 0 | 0| 
-| 20231011T01:21:15Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 49321 | 23238| 
 | 20231010T23:11:19Z | Null | https://github.com/molokovcw1/fuzzy-tribble | 0 | 0| 
 | 20231010T22:54:37Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 291 | 37| 
 | 20231010T22:29:01Z | Fuzzy - MacOS Keyboard Cleaning tool | https://github.com/ClarkTheCoder/Fuzzy | 0 | 0| 
