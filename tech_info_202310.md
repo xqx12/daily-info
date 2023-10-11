@@ -80,7 +80,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231011T00:25:58Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 108 | 15| 
+| 20231011T00:25:58Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 108 | 16| 
 | 20231010T18:03:43Z | Android Mobile | https://github.com/RENANZG/My-Android-Mobile | 1 | 0| 
 | 20231010T15:44:48Z | spiegazione di backdoor e differenze tra quelle dell%esercizio. | https://github.com/FrancescoFuschetto/Esercizio2S3 | 0 | 0| 
 | 20231010T15:36:02Z | Null | https://github.com/gktirkha/backdoor_json | 0 | 0| 
