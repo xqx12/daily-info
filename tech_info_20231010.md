@@ -12,28 +12,29 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20231010 | MITRE ATT&CK Enterprise 第五轮评估结果发布 | https://mp.weixin.qq.com/s/KlBpwesdfEqy1IrRT2W4tA| 
+| 20231010 | 致盲Windows上的EDR | https://mp.weixin.qq.com/s/DykTaqHFZC_hwj7RcY8InA| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231010T23:33:42Z | CVE-2023-36802 | LPE exploit for CVE-2023-36802 | https://github.com/chompie1337/Windows_MSKSSRV_LPE_CVE-2023-36802 | | 
+| 20231010T23:32:04Z | CVE-2023-44487 | Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487 | https://github.com/bcdannyboy/CVE-2023-44487 | | 
+| 20231010T22:38:44Z | CVE-2023-36723 | Null | https://github.com/Wh04m1001/CVE-2023-36723 | | 
+| 20231010T22:12:01Z | CVE-2023-4911 | Null | https://github.com/hadrian3689/looney-tunables-CVE-2023-4911 | | 
+| 20231010T21:43:35Z | CVE-2023-22515 | CVE-2023-22515: Confluence Broken Access Control Exploit | https://github.com/Chocapikk/CVE-2023-22515 | | 
+| 20231010T18:45:10Z | CVE-2023-22515 | Poc for CVE-2023-22515 | https://github.com/j3seer/CVE-2023-22515-POC | | 
+| 20231010T17:25:11Z | CVE-2023-32315 | Openfire未授权到RCE(CVE-2023-32315)复现 | https://github.com/CN016/Openfire-RCE-CVE-2023-32315- | | 
+| 20231010T15:36:37Z | CVE-2023-42820 | CVE-2023-42820 POC | https://github.com/C1ph3rX13/CVE-2023-42820 | | 
+| 20231010T13:41:22Z | CVE-2023-29357 | Recreation of the SharePoint PoC for CVE-2023-29357 in C# from LuemmelSec | https://github.com/KeyStrOke95/CVE-2023-29357-ExE | | 
 | 20231010T12:42:19Z | CVE-2023-22515 | metasploit module for CVE-2023-22515 | https://github.com/r4p70rs/CVE-2023-22515-PoC | | 
-| 20231010T12:40:54Z | CVE-2023-4911 | CVE-2023-4911 proof of concept | https://github.com/RickdeJager/CVE-2023-4911 | | 
-| 20231010T08:52:09Z | CVE-2023-27363 | 福昕Foxit PDF远程代码执行漏洞(CVE-2023-27363) | https://github.com/CN016/-Foxit-PDF-CVE-2023-27363- | | 
-| 20231010T08:48:42Z | CVE-2023-32315 | Openfire未授权到RCE(CVE-2023-32315)复现 | https://github.com/CN016/Openfire-RCE-CVE-2023-32315- | | 
-| 20231010T08:46:18Z | CVE-2023-2928 | DedeCMS文件包含漏洞导致后台getshell(CVE-2023-2928)复现 | https://github.com/CN016/DedeCMS-getshell-CVE-2023-2928- | | 
-| 20231010T08:45:57Z | CVE-2023-38646 | Metabase H2 远程代码执行漏洞(CVE-2023-38646) | https://github.com/CN016/Metabase-H2-CVE-2023-38646- | | 
-| 20231010T08:44:39Z | CVE-2020-11444 | Nexus Repository Manager 3 远程命令执行漏洞(CVE-2020-11444) | https://github.com/CN016/Nexus-Repository-Manager-3-CVE-2020-11444- | | 
-| 20231010T08:43:24Z | CVE-2021-37580 | Apache ShenYu Admin JWT认证绕过漏洞(CVE-2021-37580) | https://github.com/CN016/Apache-ShenYu-Admin-JWT-CVE-2021-37580- | | 
-| 20231010T08:42:19Z | CVE-2023-42820 | CVE-2023-42820 POC | https://github.com/C1ph3rX13/CVE-2023-42820 | | 
-| 20231010T08:41:21Z | CVE-2023-29922 | Powerjob 未授权访问漏洞(CVE-2023-29922) | https://github.com/CN016/Powerjob-CVE-2023-29922- | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231010T11:41:31Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13992 | 423| 
-| 20231010T09:51:46Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2328 | 637| 
+| 20231010T19:55:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2329 | 637| 
+| 20231010T16:22:18Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13993 | 423| 
 
 
 # s2e on Github 推荐
@@ -44,27 +45,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231010T23:21:17Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 106 | 15| 
+| 20231010T22:26:12Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5919 | 515| 
+| 20231010T22:13:20Z | https://raw.githubusercontent.com/x0581/Iris-Exploit-Bundle/2.0.4/bundle.lua | https://github.com/aurascene/roblox-imgui | 0 | 0| 
+| 20231010T21:59:31Z | GitOps Repository | https://github.com/rhtap-perf-test/ciq5s-776-0064-app-kh9ei-exploit-realise | 0 | 0| 
+| 20231010T21:43:35Z | CVE-2023-22515: Confluence Broken Access Control Exploit | https://github.com/Chocapikk/CVE-2023-22515 | 0 | 0| 
+| 20231010T17:27:09Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 743 | 179| 
+| 20231010T15:45:06Z | My Binary Exploitation / PWN Journey | https://github.com/miraicantsleep/pwn-journey | 0 | 0| 
 | 20231010T12:49:13Z | Nuclei AI - Browser Extension for Rapid Nuclei Template Generation | https://github.com/projectdiscovery/nuclei-ai-extension | 15 | 0| 
 | 20231010T12:38:07Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-782-0050-0012-app-Cr1aV-fulfil-exploit | 0 | 0| 
 | 20231010T12:24:10Z | GitOps Repository | https://github.com/pmacik-testing/wip-test-0016-app-UJmRc-reduce-exploit | 0 | 0| 
-| 20231010T11:42:51Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 1466 | 177| 
-| 20231010T11:29:10Z | Cyber Project-r is an application designed to probe a server or host for open ports. Such an application may be used by administrators to verify security policies of their networks and by attackers to identify network services running on a host and exploit vulnerabilities. | https://github.com/YushaKAHN/Port_scanner-Python | 0 | 0| 
-| 20231010T09:51:30Z | projet test pour exploiter la bibliotheque calendar | https://github.com/Hazrody/printCalendar | 0 | 0| 
-| 20231010T09:32:29Z | A Python-based tool to create zip, tar and cpio archives to exploit common archive library issues and developer mistakes | https://github.com/pentagridsec/archive_pwn | 2 | 1| 
-| 20231010T09:15:43Z | mim (multimodal single-cell data integration metrics): package of evaluation metrics for the integration of multimodal single-cell data, exploiting the presence of doppelgaenger cells | https://github.com/ariannaaalami/mim | 0 | 0| 
-| 20231010T08:27:30Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5387 | 694| 
-| 20231010T01:21:39Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0060-0056-app-XRAHs-re-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231010T12:21:58Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 94 | 14| 
-| 20231010T10:32:24Z | Null | https://github.com/gktirkha/backdoor | 0 | 0| 
-| 20231010T09:13:08Z | PHP shell backdoors list  ( collection ) | https://github.com/1337r0j4n/php-backdoors | 45 | 13| 
-| 20231010T07:04:06Z | Null | https://github.com/jeongjin-shin/RMA-backdoor | 0 | 0| 
-| 20231010T01:23:47Z | Source code for our ICCV 2023 paper %Rickrolling the Artist: Injecting Invisible Backdoors into Text-Guided Image Generation Models%. | https://github.com/LukasStruppek/Rickrolling-the-Artist | 30 | 4| 
-| 20231010T01:02:38Z | The backdoor code for the GUI on the Nerf or Nothing Project | https://github.com/carbolizer/Project-Nerf-Gui | 0 | 0| 
+| 20231010T23:21:17Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 106 | 15| 
+| 20231010T18:03:43Z | Android Mobile | https://github.com/RENANZG/My-Android-Mobile | 1 | 0| 
+| 20231010T15:44:48Z | spiegazione di backdoor e differenze tra quelle dell%esercizio. | https://github.com/FrancescoFuschetto/Esercizio2S3 | 0 | 0| 
+| 20231010T15:36:02Z | Null | https://github.com/gktirkha/backdoor_json | 0 | 0| 
+| 20231010T15:35:01Z | Null | https://github.com/gktirkha/backdoor_flutter | 0 | 0| 
+| 20231010T15:23:43Z | This project is a cross-platform (Windows/Linux/MacOS) yet simple and powerful backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 651 | 248| 
+| 20231010T14:41:10Z | Null | https://github.com/Eindr/backdoor-e-python | 0 | 0| 
+| 20231010T14:15:36Z | Null | https://github.com/ForestieriBenedetta/backdoor | 0 | 0| 
+| 20231010T13:50:41Z | Null | https://github.com/Blex90/BackDoor | 0 | 0| 
+| 20231010T11:32:29Z | Digital Forensics and Incident Response (DFIR) | https://github.com/RENANZG/My-Forensics | 54 | 8| 
 
 
 # symbolic execution on Github 推荐
@@ -83,16 +88,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231010T23:19:22Z | Research paper and project for JHU class: Reasoning Under Uncertainty - EN.605.745 | https://github.com/cvaisnor/abc-fuzzing | 0 | 0| 
+| 20231010T23:11:19Z | Null | https://github.com/molokovcw1/fuzzy-tribble | 0 | 0| 
+| 20231010T22:54:37Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 291 | 37| 
+| 20231010T22:29:01Z | Fuzzy - MacOS Keyboard Cleaning tool | https://github.com/ClarkTheCoder/Fuzzy | 0 | 0| 
+| 20231010T20:59:33Z | Fuzz 401/403/404 pages for bypasses | https://github.com/intrudir/BypassFuzzer | 67 | 3| 
+| 20231010T20:35:47Z | Null | https://github.com/hysa99/fuzzy-octo-waffle | 0 | 0| 
+| 20231010T20:31:36Z | Null | https://github.com/teamconfx/ConfFuzz | 0 | 0| 
+| 20231010T19:34:17Z | Testing fuzzy hashes | https://github.com/edmcman/fuzzyhash-test | 0 | 0| 
 | 20231010T12:12:11Z | Null | https://github.com/asyamirsyad/DDMR_fuzzy | 0 | 0| 
 | 20231010T11:20:17Z | TestFuzzer for Nodejs | https://github.com/BoB-WebFuzzing/TestFuzzer-Nodejs | 0 | 0| 
-| 20231010T11:18:54Z | Null | https://github.com/huythai1106/fuzzingTest | 0 | 0| 
-| 20231010T11:11:26Z | TestFuzzer for PHP | https://github.com/BoB-WebFuzzing/TestFuzzer-PHP | 0 | 0| 
-| 20231010T11:07:43Z | TestFuzzer for Ruby | https://github.com/BoB-WebFuzzing/TestFuzzer-Ruby | 0 | 0| 
-| 20231010T11:03:10Z | SSL and TLS protocol test suite and fuzzer | https://github.com/tlsfuzzer/tlsfuzzer | 500 | 106| 
-| 20231010T09:10:55Z | Null | https://github.com/murugan22/fuzzingsample | 0 | 0| 
-| 20231010T08:42:20Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4855 | 1164| 
-| 20231010T06:50:16Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9076 | 2017| 
-| 20231010T01:53:46Z | Null | https://github.com/Fertive/fuzzy-goggles | 0 | 0| 
 
 
 
