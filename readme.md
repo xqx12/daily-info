@@ -40,12 +40,12 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231010T20:27:18Z | This is the scratch 2.0 editor in github. | https://github.com/Thecartoondude/s2editor | 0 | 0| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231010T23:21:17Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 106 | 15| 
 | 20231010T22:26:12Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5919 | 515| 
 | 20231010T22:13:20Z | https://raw.githubusercontent.com/x0581/Iris-Exploit-Bundle/2.0.4/bundle.lua | https://github.com/aurascene/roblox-imgui | 0 | 0| 
 | 20231010T21:59:31Z | GitOps Repository | https://github.com/rhtap-perf-test/ciq5s-776-0064-app-kh9ei-exploit-realise | 0 | 0| 
@@ -55,12 +55,12 @@
 | 20231010T12:49:13Z | Nuclei AI - Browser Extension for Rapid Nuclei Template Generation | https://github.com/projectdiscovery/nuclei-ai-extension | 15 | 0| 
 | 20231010T12:38:07Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-782-0050-0012-app-Cr1aV-fulfil-exploit | 0 | 0| 
 | 20231010T12:24:10Z | GitOps Repository | https://github.com/pmacik-testing/wip-test-0016-app-UJmRc-reduce-exploit | 0 | 0| 
+| 20231010T11:42:51Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 1466 | 177| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231010T23:21:17Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 106 | 15| 
 | 20231010T18:03:43Z | Android Mobile | https://github.com/RENANZG/My-Android-Mobile | 1 | 0| 
 | 20231010T15:44:48Z | spiegazione di backdoor e differenze tra quelle dell%esercizio. | https://github.com/FrancescoFuschetto/Esercizio2S3 | 0 | 0| 
 | 20231010T15:36:02Z | Null | https://github.com/gktirkha/backdoor_json | 0 | 0| 
@@ -70,12 +70,14 @@
 | 20231010T14:15:36Z | Null | https://github.com/ForestieriBenedetta/backdoor | 0 | 0| 
 | 20231010T13:50:41Z | Null | https://github.com/Blex90/BackDoor | 0 | 0| 
 | 20231010T11:32:29Z | Digital Forensics and Incident Response (DFIR) | https://github.com/RENANZG/My-Forensics | 54 | 8| 
+| 20231010T10:32:24Z | Null | https://github.com/gktirkha/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231010T09:51:46Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2328 | 637| 
+| 20231010T21:53:16Z | Bottom-up memory-safety for assembly language using symbolic execution | https://github.com/scaspin/memory-safe-assembly | 1 | 0| 
+| 20231010T19:55:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2329 | 637| 
 
 
 # big4 on Github 推荐
