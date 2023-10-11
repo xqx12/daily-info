@@ -21,13 +21,13 @@
 | 20231010T23:32:04Z | CVE-2023-44487 | Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487 | https://github.com/bcdannyboy/CVE-2023-44487 | | 
 | 20231010T22:38:44Z | CVE-2023-36723 | Null | https://github.com/Wh04m1001/CVE-2023-36723 | | 
 | 20231010T22:12:01Z | CVE-2023-4911 | Null | https://github.com/hadrian3689/looney-tunables-CVE-2023-4911 | | 
-| 20231010T18:45:10Z | CVE-2023-22515 | Poc for CVE-2023-22515 | https://github.com/j3seer/CVE-2023-22515-POC | | 
 | 20231010T17:25:11Z | CVE-2023-32315 | Openfire未授权到RCE(CVE-2023-32315)复现 | https://github.com/CN016/Openfire-RCE-CVE-2023-32315- | | 
 | 20231010T15:36:37Z | CVE-2023-42820 | CVE-2023-42820 POC | https://github.com/C1ph3rX13/CVE-2023-42820 | | 
 | 20231010T13:41:22Z | CVE-2023-29357 | Recreation of the SharePoint PoC for CVE-2023-29357 in C# from LuemmelSec | https://github.com/KeyStrOke95/CVE-2023-29357-ExE | | 
 | 20231010T12:42:19Z | CVE-2023-22515 | metasploit module for CVE-2023-22515 | https://github.com/r4p70rs/CVE-2023-22515-PoC | | 
 | 20231010T12:40:54Z | CVE-2023-4911 | CVE-2023-4911 proof of concept | https://github.com/RickdeJager/CVE-2023-4911 | | 
 | 20231010T08:52:09Z | CVE-2023-27363 | 福昕Foxit PDF远程代码执行漏洞(CVE-2023-27363) | https://github.com/CN016/-Foxit-PDF-CVE-2023-27363- | | 
+| 20231010T08:46:18Z | CVE-2023-2928 | DedeCMS文件包含漏洞导致后台getshell(CVE-2023-2928)复现 | https://github.com/CN016/DedeCMS-getshell-CVE-2023-2928- | | 
 
 
 # klee on Github 推荐
