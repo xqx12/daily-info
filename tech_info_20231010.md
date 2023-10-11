@@ -22,12 +22,12 @@
 | 20231010T23:32:04Z | CVE-2023-44487 | Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487 | https://github.com/bcdannyboy/CVE-2023-44487 | | 
 | 20231010T22:38:44Z | CVE-2023-36723 | Null | https://github.com/Wh04m1001/CVE-2023-36723 | | 
 | 20231010T22:12:01Z | CVE-2023-4911 | Null | https://github.com/hadrian3689/looney-tunables-CVE-2023-4911 | | 
-| 20231010T21:43:35Z | CVE-2023-22515 | CVE-2023-22515: Confluence Broken Access Control Exploit | https://github.com/Chocapikk/CVE-2023-22515 | | 
 | 20231010T18:45:10Z | CVE-2023-22515 | Poc for CVE-2023-22515 | https://github.com/j3seer/CVE-2023-22515-POC | | 
 | 20231010T17:25:11Z | CVE-2023-32315 | Openfire未授权到RCE(CVE-2023-32315)复现 | https://github.com/CN016/Openfire-RCE-CVE-2023-32315- | | 
 | 20231010T15:36:37Z | CVE-2023-42820 | CVE-2023-42820 POC | https://github.com/C1ph3rX13/CVE-2023-42820 | | 
 | 20231010T13:41:22Z | CVE-2023-29357 | Recreation of the SharePoint PoC for CVE-2023-29357 in C# from LuemmelSec | https://github.com/KeyStrOke95/CVE-2023-29357-ExE | | 
 | 20231010T12:42:19Z | CVE-2023-22515 | metasploit module for CVE-2023-22515 | https://github.com/r4p70rs/CVE-2023-22515-PoC | | 
+| 20231010T12:40:54Z | CVE-2023-4911 | CVE-2023-4911 proof of concept | https://github.com/RickdeJager/CVE-2023-4911 | | 
 
 
 # klee on Github 推荐
@@ -50,12 +50,12 @@
 | 20231010T22:13:20Z | https://raw.githubusercontent.com/x0581/Iris-Exploit-Bundle/2.0.4/bundle.lua | https://github.com/aurascene/roblox-imgui | 0 | 0| 
 | 20231010T21:59:31Z | GitOps Repository | https://github.com/rhtap-perf-test/ciq5s-776-0064-app-kh9ei-exploit-realise | 0 | 0| 
 | 20231010T21:43:35Z | CVE-2023-22515: Confluence Broken Access Control Exploit | https://github.com/Chocapikk/CVE-2023-22515 | 0 | 0| 
+| 20231010T20:12:57Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5404 | 1054| 
 | 20231010T17:53:53Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 577 | 112| 
 | 20231010T17:27:09Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 743 | 179| 
 | 20231010T15:45:06Z | My Binary Exploitation / PWN Journey | https://github.com/miraicantsleep/pwn-journey | 0 | 0| 
 | 20231010T12:49:13Z | Nuclei AI - Browser Extension for Rapid Nuclei Template Generation | https://github.com/projectdiscovery/nuclei-ai-extension | 15 | 0| 
 | 20231010T12:38:07Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-782-0050-0012-app-Cr1aV-fulfil-exploit | 0 | 0| 
-| 20231010T12:24:10Z | GitOps Repository | https://github.com/pmacik-testing/wip-test-0016-app-UJmRc-reduce-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
