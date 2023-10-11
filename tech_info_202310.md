@@ -65,6 +65,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231011T01:51:59Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWcv | 1 | 0| 
+| 20231011T01:51:09Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANcv | 1 | 0| 
 | 20231011T01:50:25Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANcv | 1 | 0| 
 | 20231011T01:49:46Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANcv | 1 | 0| 
 | 20231011T01:33:09Z | Entendimento de conceitos básicos de Cloud (Multicloud) e fator de exploração. | https://github.com/Viniciusbrz/CloudSec-exploitation | 0 | 0| 
@@ -73,8 +75,6 @@
 | 20231010T22:26:12Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5919 | 515| 
 | 20231010T22:13:20Z | https://raw.githubusercontent.com/x0581/Iris-Exploit-Bundle/2.0.4/bundle.lua | https://github.com/aurascene/roblox-imgui | 0 | 0| 
 | 20231010T21:59:31Z | GitOps Repository | https://github.com/rhtap-perf-test/ciq5s-776-0064-app-kh9ei-exploit-realise | 0 | 0| 
-| 20231010T21:43:35Z | CVE-2023-22515: Confluence Broken Access Control Exploit | https://github.com/Chocapikk/CVE-2023-22515 | 0 | 0| 
-| 20231010T20:12:57Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5404 | 1054| 
 
 
 # backdoor on Github 推荐
