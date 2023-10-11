@@ -66,7 +66,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20231011T00:27:28Z | Null | https://github.com/yelmokht/Exploitation-agricole | 0 | 0| 
-| 20231011T00:25:58Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 108 | 15| 
+| 20231011T00:25:58Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 108 | 16| 
 | 20231010T22:26:12Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5919 | 515| 
 | 20231010T22:13:20Z | https://raw.githubusercontent.com/x0581/Iris-Exploit-Bundle/2.0.4/bundle.lua | https://github.com/aurascene/roblox-imgui | 0 | 0| 
 | 20231010T21:59:31Z | GitOps Repository | https://github.com/rhtap-perf-test/ciq5s-776-0064-app-kh9ei-exploit-realise | 0 | 0| 
