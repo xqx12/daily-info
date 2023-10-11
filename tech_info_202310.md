@@ -65,6 +65,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231011T12:53:03Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-quality-dashboard-O2E6o-exploit-sustain | 0 | 0| 
+| 20231011T12:53:01Z | Null | https://github.com/aslamadmani1337/Exploitsg | 0 | 0| 
 | 20231011T12:17:19Z | CVE-2023-22515 - Broken Access Control Vulnerability in Confluence Data Center and Server | https://github.com/kh4sh3i/CVE-2023-22515 | 0 | 0| 
 | 20231011T12:01:26Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 62 | 19| 
 | 20231011T10:21:23Z | Null | https://github.com/f0ns1reviewed/Azure_exploits | 0 | 0| 
@@ -73,8 +75,6 @@
 | 20231011T09:51:53Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 87 | 31| 
 | 20231011T01:51:59Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWcv | 1 | 0| 
 | 20231011T01:51:09Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANcv | 1 | 0| 
-| 20231011T01:50:25Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANcv | 1 | 0| 
-| 20231011T01:49:46Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANcv | 1 | 0| 
 
 
 # backdoor on Github 推荐
