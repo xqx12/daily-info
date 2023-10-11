@@ -11,6 +11,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20231011 | GDA CTF应用方向：牛刀小试ONE | https://www.sec-in.com/article/2269| 
 | 20231010 | MITRE ATT&CK Enterprise 第五轮评估结果发布 | https://mp.weixin.qq.com/s/KlBpwesdfEqy1IrRT2W4tA| 
 | 20231010 | 致盲Windows上的EDR | https://mp.weixin.qq.com/s/DykTaqHFZC_hwj7RcY8InA| 
 | 20231009 | SecWiki周刊（第501期) | https://www.sec-wiki.com/weekly/501| 
@@ -20,29 +21,29 @@
 | 20231007 | 优化ChatGPT代码生成的提示词 | https://mp.weixin.qq.com/s/jc-kPX15HKxK7HFQZFsjXQ| 
 | 20231007 | Jumpserver安全一窥：Sep系列漏洞深度解析 | https://www.leavesongs.com/PENETRATION/jumpserver-sep-2023-multiple-vulnerabilities-go-through.html| 
 | 20231007 | Your printer is not your printer ! - Hacking Printers at P... | https://devco.re/blog/2023/10/05/your-printer-is-not-your-printer-hacking-printers-pwn2own-part1/| 
-| 20231006 | 浅析MITRE ATT&CK第5轮评估 | https://mp.weixin.qq.com/s/Q4AFOSCnjwV-cWkMnOV63w| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231011T01:57:07Z | CVE-2023-36802 | LPE exploit for CVE-2023-36802 | https://github.com/chompie1337/Windows_MSKSSRV_LPE_CVE-2023-36802 | | 
-| 20231011T01:44:23Z | CVE-2023-36723 | Null | https://github.com/Wh04m1001/CVE-2023-36723 | | 
-| 20231011T01:24:36Z | CVE-2023-22515 | CVE-2023-22515: Confluence Broken Access Control Exploit | https://github.com/Chocapikk/CVE-2023-22515 | | 
-| 20231011T00:48:34Z | CVE-2023-22515 | Poc for CVE-2023-22515 | https://github.com/j3seer/CVE-2023-22515-POC | | 
-| 20231010T23:32:04Z | CVE-2023-44487 | Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487 | https://github.com/bcdannyboy/CVE-2023-44487 | | 
-| 20231010T22:12:01Z | CVE-2023-4911 | Null | https://github.com/hadrian3689/looney-tunables-CVE-2023-4911 | | 
-| 20231010T17:25:11Z | CVE-2023-32315 | Openfire未授权到RCE(CVE-2023-32315)复现 | https://github.com/CN016/Openfire-RCE-CVE-2023-32315- | | 
-| 20231010T15:36:37Z | CVE-2023-42820 | CVE-2023-42820 POC | https://github.com/C1ph3rX13/CVE-2023-42820 | | 
-| 20231010T13:41:22Z | CVE-2023-29357 | Recreation of the SharePoint PoC for CVE-2023-29357 in C# from LuemmelSec | https://github.com/KeyStrOke95/CVE-2023-29357-ExE | | 
-| 20231010T12:42:19Z | CVE-2023-22515 | metasploit module for CVE-2023-22515 | https://github.com/r4p70rs/CVE-2023-22515-PoC | | 
+| 20231011T11:58:01Z | CVE-2023-22515 | Confluence未授权添加管理员用户(CVE-2023-22515)漏洞利用工具 | https://github.com/ad-calcium/CVE-2023-22515 | | 
+| 20231011T11:54:28Z | CVE-2023-22515 | CVE-2023-22515 | https://github.com/kh4sh3i/CVE-2023-22515 | | 
+| 20231011T11:44:05Z | CVE-2023-36802 | LPE exploit for CVE-2023-36802 | https://github.com/chompie1337/Windows_MSKSSRV_LPE_CVE-2023-36802 | | 
+| 20231011T11:22:22Z | CVE-2023-44487 | Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487 | https://github.com/bcdannyboy/CVE-2023-44487 | | 
+| 20231011T11:11:59Z | CVE-2023-22515 | CVE-2023-22515: Confluence Broken Access Control Exploit | https://github.com/Chocapikk/CVE-2023-22515 | | 
+| 20231011T10:59:27Z | CVE-2023-38545 | Simple PoC causing overflow | https://github.com/UTsweetyfish/CVE-2023-38545 | | 
+| 20231011T10:17:27Z | CVE-2023-2215 | PoC For CVE-2023-2215 - Auth bypass  | https://github.com/zwxxb/CVE-2023-2215 | | 
+| 20231011T09:01:35Z | CVE-2023-36723 | Null | https://github.com/Wh04m1001/CVE-2023-36723 | | 
+| 20231011T07:40:55Z | CVE-2023-22515 | Poc for CVE-2023-22515 | https://github.com/j3seer/CVE-2023-22515-POC | | 
+| 20231011T07:14:50Z | CVE-2023-44487 | Proof of concept for DoS exploit  | https://github.com/imabee101/CVE-2023-44487 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231011T07:59:20Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13998 | 423| 
+| 20231011T03:07:48Z | Null | https://github.com/mm7274a00/klee1011 | 0 | 0| 
 | 20231010T19:55:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2329 | 637| 
-| 20231010T16:22:18Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13993 | 423| 
 | 20231009T14:44:01Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 277 | 53| 
 | 20231009T11:36:39Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 44 | 0| 
 | 20231009T07:33:23Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 364 | 8| 
@@ -50,7 +51,6 @@
 | 20231008T05:48:32Z | 本字体基于Klee one字体及其衍生的霞鹜文楷系列字体进行改做，基于文楷TC修改的字体 | https://github.com/Steve-Yuu/YshiShuti | 16 | 0| 
 | 20231007T15:37:28Z | Null | https://github.com/KleeKitz/kleekitz.github.io | 0 | 0| 
 | 20231006T07:44:57Z | Null | https://github.com/mm7274a00/klee231006 | 0 | 0| 
-| 20231005T22:56:18Z | klee muter | https://github.com/sponskun/klee | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -65,31 +65,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231011T10:21:23Z | Null | https://github.com/f0ns1reviewed/Azure_exploits | 0 | 0| 
+| 20231011T10:21:19Z | PoC. Severity critical. | https://github.com/getdrive/PoC | 14 | 8| 
+| 20231011T10:20:26Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5391 | 696| 
+| 20231011T09:51:53Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 87 | 31| 
+| 20231011T08:14:43Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 61 | 19| 
 | 20231011T01:51:59Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWcv | 1 | 0| 
 | 20231011T01:51:09Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANcv | 1 | 0| 
 | 20231011T01:50:25Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANcv | 1 | 0| 
 | 20231011T01:49:46Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANcv | 1 | 0| 
 | 20231011T01:33:09Z | Entendimento de conceitos básicos de Cloud (Multicloud) e fator de exploração. | https://github.com/Viniciusbrz/CloudSec-exploitation | 0 | 0| 
-| 20231011T01:05:21Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 109 | 16| 
-| 20231011T00:27:28Z | Null | https://github.com/yelmokht/Exploitation-agricole | 0 | 0| 
-| 20231010T22:26:12Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5919 | 515| 
-| 20231010T22:13:20Z | https://raw.githubusercontent.com/x0581/Iris-Exploit-Bundle/2.0.4/bundle.lua | https://github.com/aurascene/roblox-imgui | 0 | 0| 
-| 20231010T21:59:31Z | GitOps Repository | https://github.com/rhtap-perf-test/ciq5s-776-0064-app-kh9ei-exploit-realise | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231011T01:34:05Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 110 | 16| 
+| 20231011T11:17:11Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 122 | 18| 
+| 20231011T07:17:29Z | Kernel  rk | https://github.com/carloslack/KoviD | 157 | 36| 
+| 20231011T04:06:34Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 208 | 22| 
+| 20231011T03:16:42Z | Towards Stable Backdoor Purification through Feature Shift Tuning (NeurIPS 2023) | https://github.com/AISafety-HKUST/stable_backdoor_purification | 9 | 0| 
 | 20231010T18:03:43Z | Android Mobile | https://github.com/RENANZG/My-Android-Mobile | 1 | 0| 
+| 20231010T17:34:37Z | PHP shell backdoors list  ( collection ) | https://github.com/1337r0j4n/php-backdoors | 46 | 13| 
 | 20231010T15:44:48Z | spiegazione di backdoor e differenze tra quelle dell%esercizio. | https://github.com/FrancescoFuschetto/Esercizio2S3 | 0 | 0| 
 | 20231010T15:36:02Z | Null | https://github.com/gktirkha/backdoor_json | 0 | 0| 
 | 20231010T15:35:01Z | Null | https://github.com/gktirkha/backdoor_flutter | 0 | 0| 
 | 20231010T15:23:43Z | This project is a cross-platform (Windows/Linux/MacOS) yet simple and powerful backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 651 | 248| 
-| 20231010T14:41:10Z | Null | https://github.com/Eindr/backdoor-e-python | 0 | 0| 
-| 20231010T14:15:36Z | Null | https://github.com/ForestieriBenedetta/backdoor | 0 | 0| 
-| 20231010T13:50:41Z | Null | https://github.com/Blex90/BackDoor | 0 | 0| 
-| 20231010T11:32:29Z | Digital Forensics and Incident Response (DFIR) | https://github.com/RENANZG/My-Forensics | 54 | 8| 
 
 
 # symbolic execution on Github 推荐
@@ -118,16 +118,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231011T11:09:17Z | TestFuzzer for Ruby | https://github.com/BoB-WebFuzzing/TestFuzzer-Ruby | 0 | 0| 
+| 20231011T10:04:12Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1577 | 229| 
+| 20231011T07:46:45Z | TestFuzzer for Nodejs | https://github.com/BoB-WebFuzzing/TestFuzzer-Nodejs | 0 | 0| 
+| 20231011T07:32:30Z | Null | https://github.com/Frrrl/Fuzzy-SAC | 1 | 0| 
 | 20231011T01:56:59Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 49320 | 23238| 
-| 20231011T01:54:07Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1576 | 229| 
 | 20231011T01:43:33Z | Research paper and project for JHU class: Reasoning Under Uncertainty - EN.605.745 | https://github.com/cvaisnor/abc-fuzzing | 0 | 0| 
 | 20231011T01:27:09Z | Null | https://github.com/enyquist/fuzzylogic | 0 | 0| 
 | 20231011T01:22:21Z | Null | https://github.com/VinRodrigues/LogicaFuzzy | 0 | 0| 
+| 20231011T01:07:02Z | Research artifact for Oakland (S&P) 2022, %BEACON: Directed Grey-Box Fuzzing with Provable Path Pruning% | https://github.com/5hadowblad3/Beacon_artifact | 18 | 1| 
 | 20231010T23:11:19Z | Null | https://github.com/molokovcw1/fuzzy-tribble | 0 | 0| 
-| 20231010T22:54:37Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 291 | 37| 
-| 20231010T22:29:01Z | Fuzzy - MacOS Keyboard Cleaning tool | https://github.com/ClarkTheCoder/Fuzzy | 0 | 0| 
-| 20231010T20:59:33Z | Fuzz 401/403/404 pages for bypasses | https://github.com/intrudir/BypassFuzzer | 67 | 3| 
-| 20231010T20:47:11Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 430 | 57| 
 
 
 
