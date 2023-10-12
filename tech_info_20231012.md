@@ -81,6 +81,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231012T12:51:15Z | Null | https://github.com/christos-eth/rust-smart-contract-fuzzer | 0 | 0| 
 | 20231012T12:40:13Z | Null | https://github.com/Nanang32/fuzzy-Disaster-Landslide-case-onmajene | 0 | 0| 
 | 20231012T12:27:07Z | MISP%s PE object template can accept a Fuzzy Hash of the Import table. This script will calculate that hash. | https://github.com/michaelf97/importtable_fuzzyhash | 0 | 0| 
 | 20231012T12:23:14Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4860 | 1164| 
@@ -90,7 +91,6 @@
 | 20231012T10:51:14Z | Null | https://github.com/haikalfachri/fuzzy-logic | 0 | 0| 
 | 20231012T07:58:46Z | This user-friendly R-based GUI for Fuzzy Time Series forecasting, following Chen%s method, ensures precise predictions without complex coding | https://github.com/marselgratias/FuzzyTimeSeriesChen_R | 1 | 0| 
 | 20231012T06:01:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9086 | 2015| 
-| 20231012T00:57:45Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 432 | 57| 
 
 
 
