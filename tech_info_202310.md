@@ -26,8 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231012T01:36:01Z | CVE-2023-5521 | Root takeover via signature spoofing in KernelSU | https://github.com/Ylarod/CVE-2023-5521 | | 
 | 20231012T00:33:17Z | CVE-2023-44487 | Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487 | https://github.com/bcdannyboy/CVE-2023-44487 | | 
-| 20231012T00:19:18Z | CVE-2023-5521 | Root takeover via signature spoofing in KernelSU | https://github.com/Ylarod/CVE-2023-5521 | | 
 | 20231011T22:51:00Z | CVE-2023-38646 | CVE-2023-38646 Unauthenticated RCE vulnerability in Metabase  | https://github.com/nickswink/CVE-2023-38646 | | 
 | 20231011T20:45:45Z | CVE-2023-22515 | CVE-2023-22515: Confluence Broken Access Control Exploit | https://github.com/Chocapikk/CVE-2023-22515 | | 
 | 20231011T18:55:41Z | CVE-2023-43148 | CVE-2023-43148 | https://github.com/MinoTauro2020/CVE-2023-43148 | | 
