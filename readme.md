@@ -81,6 +81,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231012T12:56:18Z | My project involves performing Optical Character Recognition (OCR) on images within a designated folder. If the OCR results meet a certain threshold of accuracy, they are cross-referenced with values stored in a JSON dictionary. When a match is found, the corresponding key is returned, indicating the presence of the value in the image. | https://github.com/derickcjohn/OCR-with-fuzzy-matching | 0 | 0| 
+| 20231012T12:55:20Z | Null | https://github.com/samahabdelaziz/Fuzzy-Rules | 0 | 0| 
 | 20231012T12:51:15Z | Null | https://github.com/christos-eth/rust-smart-contract-fuzzer | 0 | 0| 
 | 20231012T12:40:13Z | Null | https://github.com/Nanang32/fuzzy-Disaster-Landslide-case-onmajene | 0 | 0| 
 | 20231012T12:27:07Z | MISP%s PE object template can accept a Fuzzy Hash of the Import table. This script will calculate that hash. | https://github.com/michaelf97/importtable_fuzzyhash | 0 | 0| 
@@ -89,8 +91,6 @@
 | 20231012T11:54:11Z | TestFuzzer for Nodejs | https://github.com/BoB-WebFuzzing/TestFuzzer-Nodejs | 1 | 0| 
 | 20231012T11:09:19Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1578 | 229| 
 | 20231012T10:51:14Z | Null | https://github.com/haikalfachri/fuzzy-logic | 0 | 0| 
-| 20231012T07:58:46Z | This user-friendly R-based GUI for Fuzzy Time Series forecasting, following Chen%s method, ensures precise predictions without complex coding | https://github.com/marselgratias/FuzzyTimeSeriesChen_R | 1 | 0| 
-| 20231012T06:01:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9086 | 2015| 
 
 
 
