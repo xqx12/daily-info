@@ -66,16 +66,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231012T00:46:30Z | Null | https://github.com/BUGHUNT3Rar/VisualExploit | 0 | 0| 
 | 20231012T00:25:25Z | Null | https://github.com/DonHoolo/Update-Kronos-Exploit-Uwp-Keyless-Level-8 | 0 | 0| 
 | 20231012T00:05:56Z | GitOps Repository | https://github.com/redhat-appstudio-qe/byoc-app-nmqe-FObm3-conduct-exploit | 0 | 0| 
 | 20231011T23:14:27Z | exploit again lol | https://github.com/pa1nx9/exploit-again-lol | 0 | 0| 
+| 20231011T20:12:53Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8833 | 2025| 
 | 20231011T15:07:45Z | This is a script written in Python that allows the exploitation of the Metabase%s software security flaw in the described in CVE 2023-38646. | https://github.com/m3m0o/metabase-pre-auth-rce-poc | 0 | 0| 
 | 20231011T13:34:11Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 743 | 179| 
 | 20231011T12:53:03Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-quality-dashboard-O2E6o-exploit-sustain | 0 | 0| 
 | 20231011T12:53:01Z | Null | https://github.com/aslamadmani1337/Exploitsg | 0 | 0| 
 | 20231011T12:50:36Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5408 | 1054| 
-| 20231011T12:17:19Z | CVE-2023-22515 - Broken Access Control Vulnerability in Confluence Data Center and Server | https://github.com/kh4sh3i/CVE-2023-22515 | 0 | 0| 
-| 20231011T12:01:26Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 62 | 19| 
 
 
 # backdoor on Github 推荐
