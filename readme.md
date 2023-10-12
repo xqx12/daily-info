@@ -23,10 +23,10 @@
 | 20231011T17:04:11Z | CVE-2023-4911 | CVE-2023-4911 | https://github.com/ruycr4ft/CVE-2023-4911 | | 
 | 20231011T15:26:47Z | CVE-2023-38646 | CVE-2023-38646 Metabase 0.46.6 exploit | https://github.com/SUT0L/CVE-2023-38646 | | 
 | 20231011T14:48:00Z | CVE-2022-46169 | Exploit for cacti version 1.2.22 | https://github.com/ruycr4ft/CVE-2022-46169 | | 
-| 20231011T14:31:12Z | CVE-2023-22515 | Confluence未授权添加管理员用户(CVE-2023-22515)漏洞利用工具 | https://github.com/ad-calcium/CVE-2023-22515 | | 
 | 20231011T14:27:09Z | CVE-2023-22855 | Security Vulnerability - Kardex Mlog MCC | https://github.com/vianic/CVE-2023-22855 | | 
 | 20231011T14:24:55Z | CVE-2023-38545 | Simple PoC causing overflow | https://github.com/UTsweetyfish/CVE-2023-38545 | | 
 | 20231011T12:47:46Z | CVE-2023-36723 | Null | https://github.com/Wh04m1001/CVE-2023-36723 | | 
+| 20231011T12:47:06Z | CVE-2023-22515 | Poc for CVE-2023-22515 | https://github.com/j3seer/CVE-2023-22515-POC | | 
 
 
 # klee on Github 推荐
