@@ -26,10 +26,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231012T01:37:09Z | CVE-2023-22515 | CVE-2023-22515: Confluence Broken Access Control Exploit | https://github.com/Chocapikk/CVE-2023-22515 | | 
 | 20231012T01:36:01Z | CVE-2023-5521 | Root takeover via signature spoofing in KernelSU | https://github.com/Ylarod/CVE-2023-5521 | | 
 | 20231012T00:33:17Z | CVE-2023-44487 | Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487 | https://github.com/bcdannyboy/CVE-2023-44487 | | 
 | 20231011T22:51:00Z | CVE-2023-38646 | CVE-2023-38646 Unauthenticated RCE vulnerability in Metabase  | https://github.com/nickswink/CVE-2023-38646 | | 
-| 20231011T20:45:45Z | CVE-2023-22515 | CVE-2023-22515: Confluence Broken Access Control Exploit | https://github.com/Chocapikk/CVE-2023-22515 | | 
 | 20231011T18:55:41Z | CVE-2023-43148 | CVE-2023-43148 | https://github.com/MinoTauro2020/CVE-2023-43148 | | 
 | 20231011T17:22:12Z | CVE-2021-21551 | This example is inspired by https://www.mitchellzakocs.com/blog/dbutil#exploitation-and-proof-of-concept and used in my windows rootkit. an exploit that lets me free use of reading/write from/to any virtual/physical memory address in any size i want. | https://github.com/shaygitub/CVE-2021-21551 | | 
 | 20231011T17:04:11Z | CVE-2023-4911 | CVE-2023-4911 | https://github.com/ruycr4ft/CVE-2023-4911 | | 
