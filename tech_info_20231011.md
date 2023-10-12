@@ -62,7 +62,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231011T20:22:57Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 128 | 18| 
 | 20231011T15:24:55Z | Null | https://github.com/ibnusaja/backdoor-windows | 0 | 0| 
 | 20231011T15:13:42Z | Backdoor API for fyp | https://github.com/AqeelNaufal/BackdoorApi-fyp | 0 | 0| 
 | 20231011T11:03:24Z | PCI Express DIY hacking toolkit for Xilinx SP605. This repository is also home of Hyper-V Backdoor and Boot Backdoor, check readme for links and info | https://github.com/Cr4sh/s6_pcie_microblaze | 631 | 139| 

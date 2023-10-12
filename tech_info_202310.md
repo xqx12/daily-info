@@ -66,7 +66,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231012T00:46:30Z | Null | https://github.com/BUGHUNT3Rar/VisualExploit | 0 | 0| 
+| 20231012T01:11:51Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0037-app-OZMlG-exploit-accept | 0 | 0| 
+| 20231012T01:10:25Z | Null | https://github.com/BUGHUNT3Rar/VisualExploit | 0 | 0| 
 | 20231012T00:25:25Z | Null | https://github.com/DonHoolo/Update-Kronos-Exploit-Uwp-Keyless-Level-8 | 0 | 0| 
 | 20231012T00:05:56Z | GitOps Repository | https://github.com/redhat-appstudio-qe/byoc-app-nmqe-FObm3-conduct-exploit | 0 | 0| 
 | 20231011T23:14:27Z | exploit again lol | https://github.com/pa1nx9/exploit-again-lol | 0 | 0| 
@@ -75,15 +76,14 @@
 | 20231011T13:34:11Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 743 | 179| 
 | 20231011T12:53:03Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-quality-dashboard-O2E6o-exploit-sustain | 0 | 0| 
 | 20231011T12:53:01Z | Null | https://github.com/aslamadmani1337/Exploitsg | 0 | 0| 
-| 20231011T12:50:36Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5408 | 1054| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231012T01:11:39Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 129 | 18| 
 | 20231012T00:03:47Z | 2 Python programmes used for detecting and preventing backdoor attacks in LLMs. | https://github.com/AceMegalodon/Mitigating_Backdoor_Attacks_in_LLMs | 0 | 0| 
 | 20231012T00:01:46Z | Official implementation for paper %FedGame: A Game-Theoretic Defense against Backdoor Attacks in Federated Learning% (NeurIPS 2023). | https://github.com/AI-secure/FedGame | 0 | 0| 
-| 20231011T20:22:57Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 128 | 18| 
 | 20231011T15:24:55Z | Null | https://github.com/ibnusaja/backdoor-windows | 0 | 0| 
 | 20231011T15:13:42Z | Backdoor API for fyp | https://github.com/AqeelNaufal/BackdoorApi-fyp | 0 | 0| 
 | 20231011T11:03:24Z | PCI Express DIY hacking toolkit for Xilinx SP605. This repository is also home of Hyper-V Backdoor and Boot Backdoor, check readme for links and info | https://github.com/Cr4sh/s6_pcie_microblaze | 631 | 139| 
