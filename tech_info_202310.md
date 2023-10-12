@@ -120,6 +120,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231012T00:57:45Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 432 | 57| 
 | 20231012T00:41:22Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 10225 | 1157| 
 | 20231011T20:23:07Z | Null | https://github.com/0xpolarzero/foundry-fuzz-campain-minimal-example | 0 | 0| 
 | 20231011T17:47:54Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9084 | 2015| 
@@ -129,7 +130,6 @@
 | 20231011T10:04:12Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1577 | 229| 
 | 20231011T08:10:31Z | Fuzzy - MacOS Keyboard Cleaning tool | https://github.com/ClarkTheCoder/FuzzyKeyboardCleaningTool | 0 | 0| 
 | 20231011T08:04:55Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5097 | 547| 
-| 20231011T07:46:45Z | TestFuzzer for Nodejs | https://github.com/BoB-WebFuzzing/TestFuzzer-Nodejs | 0 | 0| 
 
 
 
