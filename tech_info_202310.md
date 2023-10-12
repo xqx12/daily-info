@@ -26,13 +26,13 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231012T12:35:09Z | CVE-2023-22515 | CVE-2023-22515: Confluence Broken Access Control Exploit | https://github.com/Chocapikk/CVE-2023-22515 | | 
 | 20231012T11:40:21Z | CVE-2023-44487 | Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487 | https://github.com/bcdannyboy/CVE-2023-44487 | | 
 | 20231012T11:29:59Z | CVE-2023-22515 | Confluence未授权添加管理员用户(CVE-2023-22515)漏洞利用工具 | https://github.com/ad-calcium/CVE-2023-22515 | | 
 | 20231012T11:11:53Z | CVE-2022-32548 | Null | https://github.com/kor34N/CVE-2022-32548-mass | | 
 | 20231012T10:25:44Z | CVE-2023-42820 | CVE-2023-42820 | https://github.com/C1ph3rX13/CVE-2023-42820 | | 
 | 20231012T09:59:30Z | CVE-2023-22515 | Confluence未授权添加管理员用户漏洞利用脚本 | https://github.com/sincere9/CVE-2023-22515 | | 
 | 20231012T09:48:35Z | CVE-2023-38545 | 😄 CVE-2023-38545堆溢出的POC和分析文章 | https://github.com/imfht/CVE-2023-38545 | | 
-| 20231012T08:50:08Z | CVE-2023-22515 | CVE-2023-22515: Confluence Broken Access Control Exploit | https://github.com/Chocapikk/CVE-2023-22515 | | 
 | 20231012T08:45:47Z | CVE-2023-42819 | CVE-2023-42819 | https://github.com/C1ph3rX13/CVE-2023-42819 | | 
 | 20231012T08:16:05Z | cve-2023-42820 | JumpServer  | https://github.com/Startr4ck/cve-2023-42820 | | 
 | 20231012T08:08:45Z | CVE-2023-38545 | Simple PoC causing overflow | https://github.com/fatmo666/CVE-2023-38545-libcurl-SOCKS5-heap-buffer-overflow | | 
@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231012T12:36:13Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-821-0130-0042-app-shhZN-finish-exploit | 0 | 0| 
 | 20231012T12:32:51Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-821-0130-0022-app-ggvrY-regard-exploit | 0 | 0| 
 | 20231012T12:22:08Z | NSTG Exploit Host for PS5 & PS4 | https://github.com/NotSoTypicalGamer/NSTG-Exploit-Host-for-PS5-PS4 | 3 | 3| 
 | 20231012T12:18:13Z | Powerful crypto arbitrage bot designed to identify and exploit price differentials across multiple centralized exchanges. | https://github.com/Trade-Blocks-AI/multi-cex-arbitrage-bot | 0 | 0| 
@@ -75,12 +76,12 @@
 | 20231012T11:47:58Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5393 | 698| 
 | 20231012T10:44:35Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/trillian-Q2T-b-exploit-enhance | 0 | 0| 
 | 20231012T10:42:58Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5569 | 761| 
-| 20231012T10:33:13Z | LocalRoot Exploits (Precompiled) | https://github.com/fsckii/Get-R00t | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231012T12:36:02Z | Code for the Paper %Defending our Privacy With Backdoors% | https://github.com/D0miH/Defending-Our-Privacy-With-Backdoors | 0 | 0| 
 | 20231012T10:07:45Z | Autonomous pre-boot DMA attack hardware implant for M.2 slot based on PicoEVB development board | https://github.com/Cr4sh/pico_dma | 6 | 2| 
 | 20231012T09:32:59Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 136 | 19| 
 | 20231012T06:13:03Z | backdoor resources | https://github.com/JobsWangHaoQuan/backdoor | 0 | 0| 
@@ -90,7 +91,6 @@
 | 20231011T15:24:55Z | Null | https://github.com/ibnusaja/backdoor-windows | 0 | 0| 
 | 20231011T15:13:42Z | Backdoor API for fyp | https://github.com/AqeelNaufal/BackdoorApi-fyp | 0 | 0| 
 | 20231011T11:03:24Z | PCI Express DIY hacking toolkit for Xilinx SP605. This repository is also home of Hyper-V Backdoor and Boot Backdoor, check readme for links and info | https://github.com/Cr4sh/s6_pcie_microblaze | 631 | 139| 
-| 20231011T07:17:29Z | Kernel  rk | https://github.com/carloslack/KoviD | 157 | 36| 
 
 
 # symbolic execution on Github 推荐
