@@ -81,6 +81,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231012T00:03:47Z | 2 Python programmes used for detecting and preventing backdoor attacks in LLMs. | https://github.com/AceMegalodon/Mitigating_Backdoor_Attacks_in_LLMs | 0 | 0| 
 | 20231012T00:01:46Z | Official implementation for paper %FedGame: A Game-Theoretic Defense against Backdoor Attacks in Federated Learning% (NeurIPS 2023). | https://github.com/AI-secure/FedGame | 0 | 0| 
 | 20231011T20:22:57Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 128 | 18| 
 | 20231011T15:24:55Z | Null | https://github.com/ibnusaja/backdoor-windows | 0 | 0| 
@@ -90,7 +91,6 @@
 | 20231011T04:06:34Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 208 | 22| 
 | 20231011T03:16:42Z | Towards Stable Backdoor Purification through Feature Shift Tuning (NeurIPS 2023) | https://github.com/AISafety-HKUST/stable_backdoor_purification | 9 | 0| 
 | 20231010T18:03:43Z | Android Mobile | https://github.com/RENANZG/My-Android-Mobile | 1 | 0| 
-| 20231010T17:34:37Z | PHP shell backdoors list  ( collection ) | https://github.com/1337r0j4n/php-backdoors | 46 | 13| 
 
 
 # symbolic execution on Github 推荐
