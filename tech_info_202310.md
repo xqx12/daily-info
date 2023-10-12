@@ -26,23 +26,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231012T01:57:06Z | CVE-2023-22515 | Confluence未授权添加管理员用户(CVE-2023-22515)漏洞利用工具 | https://github.com/ad-calcium/CVE-2023-22515 | | 
-| 20231012T01:55:19Z | CVE-2023-5521 | Root takeover via signature spoofing in KernelSU | https://github.com/Ylarod/CVE-2023-5521 | | 
-| 20231012T01:54:26Z | CVE-2023-44487 | Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487 | https://github.com/bcdannyboy/CVE-2023-44487 | | 
-| 20231012T01:37:09Z | CVE-2023-22515 | CVE-2023-22515: Confluence Broken Access Control Exploit | https://github.com/Chocapikk/CVE-2023-22515 | | 
-| 20231011T22:51:00Z | CVE-2023-38646 | CVE-2023-38646 Unauthenticated RCE vulnerability in Metabase  | https://github.com/nickswink/CVE-2023-38646 | | 
-| 20231011T18:55:41Z | CVE-2023-43148 | CVE-2023-43148 | https://github.com/MinoTauro2020/CVE-2023-43148 | | 
-| 20231011T17:22:12Z | CVE-2021-21551 | This example is inspired by https://www.mitchellzakocs.com/blog/dbutil#exploitation-and-proof-of-concept and used in my windows rootkit. an exploit that lets me free use of reading/write from/to any virtual/physical memory address in any size i want. | https://github.com/shaygitub/CVE-2021-21551 | | 
-| 20231011T17:04:11Z | CVE-2023-4911 | CVE-2023-4911 | https://github.com/ruycr4ft/CVE-2023-4911 | | 
-| 20231011T15:26:47Z | CVE-2023-38646 | CVE-2023-38646 Metabase 0.46.6 exploit | https://github.com/SUT0L/CVE-2023-38646 | | 
-| 20231011T14:48:00Z | CVE-2022-46169 | Exploit for cacti version 1.2.22 | https://github.com/ruycr4ft/CVE-2022-46169 | | 
+| 20231012T11:40:21Z | CVE-2023-44487 | Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487 | https://github.com/bcdannyboy/CVE-2023-44487 | | 
+| 20231012T11:29:59Z | CVE-2023-22515 | Confluence未授权添加管理员用户(CVE-2023-22515)漏洞利用工具 | https://github.com/ad-calcium/CVE-2023-22515 | | 
+| 20231012T11:11:53Z | CVE-2022-32548 | Null | https://github.com/kor34N/CVE-2022-32548-mass | | 
+| 20231012T10:25:44Z | CVE-2023-42820 | CVE-2023-42820 | https://github.com/C1ph3rX13/CVE-2023-42820 | | 
+| 20231012T09:59:30Z | CVE-2023-22515 | Confluence未授权添加管理员用户漏洞利用脚本 | https://github.com/sincere9/CVE-2023-22515 | | 
+| 20231012T09:48:35Z | CVE-2023-38545 | 😄 CVE-2023-38545堆溢出的POC和分析文章 | https://github.com/imfht/CVE-2023-38545 | | 
+| 20231012T08:50:08Z | CVE-2023-22515 | CVE-2023-22515: Confluence Broken Access Control Exploit | https://github.com/Chocapikk/CVE-2023-22515 | | 
+| 20231012T08:45:47Z | CVE-2023-42819 | CVE-2023-42819 | https://github.com/C1ph3rX13/CVE-2023-42819 | | 
+| 20231012T08:16:05Z | cve-2023-42820 | JumpServer  | https://github.com/Startr4ck/cve-2023-42820 | | 
+| 20231012T08:08:45Z | CVE-2023-38545 | Simple PoC causing overflow | https://github.com/fatmo666/CVE-2023-38545-libcurl-SOCKS5-heap-buffer-overflow | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231011T16:40:57Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 365 | 8| 
-| 20231011T15:32:40Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13999 | 423| 
+| 20231012T10:23:06Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 366 | 8| 
+| 20231012T08:52:36Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14004 | 423| 
 | 20231011T03:07:48Z | Null | https://github.com/mm7274a00/klee1011 | 0 | 0| 
 | 20231010T19:55:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2329 | 637| 
 | 20231009T14:44:01Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 277 | 53| 
@@ -56,9 +56,9 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231012T09:17:34Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 36 | 15| 
 | 20231011T20:34:04Z | This is the scratch 2.0 editor in github. | https://github.com/Thecartoondude/s2editor | 0 | 0| 
 | 20231011T13:21:25Z | created by O%challenge | https://github.com/GuillaumePons63/S2E15-GuillaumePons63 | 0 | 0| 
-| 20231009T14:45:03Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 35 | 15| 
 | 20231008T02:26:19Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 357 | 82| 
 | 20231004T05:46:10Z | GUI Configuration tool for WIZnet serial to ethernet devices. | https://github.com/Wiznet/WIZnet-S2E-Tool-GUI | 20 | 10| 
 
@@ -66,31 +66,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231012T01:38:07Z | Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang. | https://github.com/Ne0nd0g/merlin | 4627 | 763| 
-| 20231012T01:28:22Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5409 | 1054| 
-| 20231012T01:11:51Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0037-app-OZMlG-exploit-accept | 0 | 0| 
-| 20231012T01:10:25Z | Null | https://github.com/BUGHUNT3Rar/VisualExploit | 0 | 0| 
-| 20231012T00:25:25Z | Null | https://github.com/DonHoolo/Update-Kronos-Exploit-Uwp-Keyless-Level-8 | 0 | 0| 
-| 20231012T00:05:56Z | GitOps Repository | https://github.com/redhat-appstudio-qe/byoc-app-nmqe-FObm3-conduct-exploit | 0 | 0| 
-| 20231011T23:14:27Z | exploit again lol | https://github.com/pa1nx9/exploit-again-lol | 0 | 0| 
-| 20231011T20:12:53Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8833 | 2025| 
-| 20231011T15:07:45Z | This is a script written in Python that allows the exploitation of the Metabase%s software security flaw in the described in CVE 2023-38646. | https://github.com/m3m0o/metabase-pre-auth-rce-poc | 0 | 0| 
-| 20231011T13:34:11Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 743 | 179| 
+| 20231012T11:59:18Z | Best Exploit ever | https://github.com/RHHack-Script/Spoits-Hub | 0 | 0| 
+| 20231012T11:48:35Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-821-0110-0089-app-a9rO3-exploit-reply | 0 | 0| 
+| 20231012T11:47:58Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5393 | 698| 
+| 20231012T10:44:35Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/trillian-Q2T-b-exploit-enhance | 0 | 0| 
+| 20231012T10:42:58Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5569 | 761| 
+| 20231012T10:33:13Z | LocalRoot Exploits (Precompiled) | https://github.com/fsckii/Get-R00t | 0 | 0| 
+| 20231012T10:24:11Z | The code of the paper: %Exploiting auditory filter models as interpretable convolutional frontends to obtain optimal architectures for speaker gender recognition%. | https://github.com/HosseinFayyazi/SGR_AFM | 0 | 0| 
+| 20231012T10:14:51Z | Null | https://github.com/Nepire/exploit_tools | 0 | 0| 
+| 20231012T09:49:59Z | Pangea est une plate-forme de sécurité complète basée sur le cloud que vous pouvez exploiter avec de simples appels 💻 d’API, qui permet également aux développeurs d’applications d’activer sans effort la sécurité sans développer de services en interne. | https://github.com/verlaine-muhungu/Pangea_French_Docs | 0 | 0| 
+| 20231012T09:44:08Z | GitOps Repository | https://github.com/redhat-appstudio-qe/application-kYfpO-exploit-wake | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231012T01:11:39Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 129 | 18| 
+| 20231012T10:07:45Z | Autonomous pre-boot DMA attack hardware implant for M.2 slot based on PicoEVB development board | https://github.com/Cr4sh/pico_dma | 6 | 2| 
+| 20231012T09:32:59Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 136 | 19| 
+| 20231012T06:13:03Z | backdoor resources | https://github.com/JobsWangHaoQuan/backdoor | 0 | 0| 
+| 20231012T03:26:53Z | Digital Forensics and Incident Response (DFIR) | https://github.com/RENANZG/My-Forensics | 55 | 8| 
 | 20231012T00:03:47Z | 2 Python programmes used for detecting and preventing backdoor attacks in LLMs. | https://github.com/AceMegalodon/Mitigating_Backdoor_Attacks_in_LLMs | 0 | 0| 
 | 20231012T00:01:46Z | Official implementation for paper %FedGame: A Game-Theoretic Defense against Backdoor Attacks in Federated Learning% (NeurIPS 2023). | https://github.com/AI-secure/FedGame | 0 | 0| 
 | 20231011T15:24:55Z | Null | https://github.com/ibnusaja/backdoor-windows | 0 | 0| 
 | 20231011T15:13:42Z | Backdoor API for fyp | https://github.com/AqeelNaufal/BackdoorApi-fyp | 0 | 0| 
 | 20231011T11:03:24Z | PCI Express DIY hacking toolkit for Xilinx SP605. This repository is also home of Hyper-V Backdoor and Boot Backdoor, check readme for links and info | https://github.com/Cr4sh/s6_pcie_microblaze | 631 | 139| 
 | 20231011T07:17:29Z | Kernel  rk | https://github.com/carloslack/KoviD | 157 | 36| 
-| 20231011T04:06:34Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 208 | 22| 
-| 20231011T03:16:42Z | Towards Stable Backdoor Purification through Feature Shift Tuning (NeurIPS 2023) | https://github.com/AISafety-HKUST/stable_backdoor_purification | 9 | 0| 
-| 20231010T18:03:43Z | Android Mobile | https://github.com/RENANZG/My-Android-Mobile | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -120,16 +120,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231012T11:54:11Z | TestFuzzer for Nodejs | https://github.com/BoB-WebFuzzing/TestFuzzer-Nodejs | 1 | 0| 
+| 20231012T11:09:19Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1578 | 229| 
+| 20231012T10:51:14Z | Null | https://github.com/haikalfachri/fuzzy-logic | 0 | 0| 
+| 20231012T10:49:54Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4859 | 1164| 
+| 20231012T07:58:46Z | This user-friendly R-based GUI for Fuzzy Time Series forecasting, following Chen%s method, ensures precise predictions without complex coding | https://github.com/marselgratias/FuzzyTimeSeriesChen_R | 1 | 0| 
+| 20231012T06:01:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9086 | 2015| 
 | 20231012T00:57:45Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 432 | 57| 
 | 20231012T00:41:22Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 10225 | 1157| 
 | 20231011T20:23:07Z | Null | https://github.com/0xpolarzero/foundry-fuzz-campain-minimal-example | 0 | 0| 
-| 20231011T17:47:54Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9084 | 2015| 
-| 20231011T12:56:05Z | Null | https://github.com/Harsh055Raj/Clustering_Model_FUZZYCMEAN | 0 | 0| 
-| 20231011T12:30:28Z | Config files for my GitHub profile. | https://github.com/FuzzyMatrix18/FuzzyMatrix18 | 0 | 0| 
-| 20231011T11:09:17Z | TestFuzzer for Ruby | https://github.com/BoB-WebFuzzing/TestFuzzer-Ruby | 0 | 0| 
-| 20231011T10:04:12Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1577 | 229| 
-| 20231011T08:10:31Z | Fuzzy - MacOS Keyboard Cleaning tool | https://github.com/ClarkTheCoder/FuzzyKeyboardCleaningTool | 0 | 0| 
-| 20231011T08:04:55Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5097 | 547| 
+| 20231011T19:00:13Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 231 | 36| 
 
 
 
