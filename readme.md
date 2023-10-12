@@ -44,6 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231012T12:32:51Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-821-0130-0022-app-ggvrY-regard-exploit | 0 | 0| 
 | 20231012T12:22:08Z | NSTG Exploit Host for PS5 & PS4 | https://github.com/NotSoTypicalGamer/NSTG-Exploit-Host-for-PS5-PS4 | 3 | 3| 
 | 20231012T12:18:13Z | Powerful crypto arbitrage bot designed to identify and exploit price differentials across multiple centralized exchanges. | https://github.com/Trade-Blocks-AI/multi-cex-arbitrage-bot | 0 | 0| 
 | 20231012T12:04:04Z | Tool for automate bug hunting process 🔍 --> 🍭 | https://github.com/DevVj-1/Sub-Ringan-Framework | 5 | 1| 
@@ -53,7 +54,6 @@
 | 20231012T10:44:35Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/trillian-Q2T-b-exploit-enhance | 0 | 0| 
 | 20231012T10:42:58Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5569 | 761| 
 | 20231012T10:33:13Z | LocalRoot Exploits (Precompiled) | https://github.com/fsckii/Get-R00t | 0 | 0| 
-| 20231012T10:24:11Z | The code of the paper: %Exploiting auditory filter models as interpretable convolutional frontends to obtain optimal architectures for speaker gender recognition%. | https://github.com/HosseinFayyazi/SGR_AFM | 0 | 0| 
 
 
 # backdoor on Github 推荐
