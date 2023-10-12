@@ -16,6 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231012T12:46:36Z | CVE-2023-38831 | Null | https://github.com/ruycr4ft/CVE-2023-38831 | | 
 | 20231012T12:35:09Z | CVE-2023-22515 | CVE-2023-22515: Confluence Broken Access Control Exploit | https://github.com/Chocapikk/CVE-2023-22515 | | 
 | 20231012T11:40:21Z | CVE-2023-44487 | Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487 | https://github.com/bcdannyboy/CVE-2023-44487 | | 
 | 20231012T11:29:59Z | CVE-2023-22515 | Confluence未授权添加管理员用户(CVE-2023-22515)漏洞利用工具 | https://github.com/ad-calcium/CVE-2023-22515 | | 
@@ -25,7 +26,6 @@
 | 20231012T09:48:35Z | CVE-2023-38545 | 😄 CVE-2023-38545堆溢出的POC和分析文章 | https://github.com/imfht/CVE-2023-38545 | | 
 | 20231012T08:45:47Z | CVE-2023-42819 | CVE-2023-42819 | https://github.com/C1ph3rX13/CVE-2023-42819 | | 
 | 20231012T08:16:05Z | cve-2023-42820 | JumpServer  | https://github.com/Startr4ck/cve-2023-42820 | | 
-| 20231012T08:08:45Z | CVE-2023-38545 | Simple PoC causing overflow | https://github.com/fatmo666/CVE-2023-38545-libcurl-SOCKS5-heap-buffer-overflow | | 
 
 
 # klee on Github 推荐
