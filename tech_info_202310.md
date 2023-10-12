@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231012T01:28:22Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5409 | 1054| 
 | 20231012T01:11:51Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0037-app-OZMlG-exploit-accept | 0 | 0| 
 | 20231012T01:10:25Z | Null | https://github.com/BUGHUNT3Rar/VisualExploit | 0 | 0| 
 | 20231012T00:25:25Z | Null | https://github.com/DonHoolo/Update-Kronos-Exploit-Uwp-Keyless-Level-8 | 0 | 0| 
@@ -75,7 +76,6 @@
 | 20231011T15:07:45Z | This is a script written in Python that allows the exploitation of the Metabase%s software security flaw in the described in CVE 2023-38646. | https://github.com/m3m0o/metabase-pre-auth-rce-poc | 0 | 0| 
 | 20231011T13:34:11Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 743 | 179| 
 | 20231011T12:53:03Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-quality-dashboard-O2E6o-exploit-sustain | 0 | 0| 
-| 20231011T12:53:01Z | Null | https://github.com/aslamadmani1337/Exploitsg | 0 | 0| 
 
 
 # backdoor on Github 推荐
