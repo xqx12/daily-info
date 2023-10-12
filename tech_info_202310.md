@@ -68,6 +68,7 @@
 | --- | --- | --- | --- | ---| 
 | 20231012T12:22:08Z | NSTG Exploit Host for PS5 & PS4 | https://github.com/NotSoTypicalGamer/NSTG-Exploit-Host-for-PS5-PS4 | 3 | 3| 
 | 20231012T12:18:13Z | Powerful crypto arbitrage bot designed to identify and exploit price differentials across multiple centralized exchanges. | https://github.com/Trade-Blocks-AI/multi-cex-arbitrage-bot | 0 | 0| 
+| 20231012T12:04:04Z | Tool for automate bug hunting process 🔍 --> 🍭 | https://github.com/DevVj-1/Sub-Ringan-Framework | 5 | 1| 
 | 20231012T11:59:18Z | Best Exploit ever | https://github.com/RHHack-Script/Spoits-Hub | 0 | 0| 
 | 20231012T11:48:35Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-821-0110-0089-app-a9rO3-exploit-reply | 0 | 0| 
 | 20231012T11:47:58Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5393 | 698| 
@@ -75,7 +76,6 @@
 | 20231012T10:42:58Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5569 | 761| 
 | 20231012T10:33:13Z | LocalRoot Exploits (Precompiled) | https://github.com/fsckii/Get-R00t | 0 | 0| 
 | 20231012T10:24:11Z | The code of the paper: %Exploiting auditory filter models as interpretable convolutional frontends to obtain optimal architectures for speaker gender recognition%. | https://github.com/HosseinFayyazi/SGR_AFM | 0 | 0| 
-| 20231012T10:14:51Z | Null | https://github.com/Nepire/exploit_tools | 0 | 0| 
 
 
 # backdoor on Github 推荐
