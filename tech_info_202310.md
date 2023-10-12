@@ -26,27 +26,27 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231011T12:47:46Z | CVE-2023-36723 | Null | https://github.com/Wh04m1001/CVE-2023-36723 | | 
-| 20231011T12:47:06Z | CVE-2023-22515 | Poc for CVE-2023-22515 | https://github.com/j3seer/CVE-2023-22515-POC | | 
-| 20231011T12:42:06Z | CVE-2023-44487 | Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487 | https://github.com/bcdannyboy/CVE-2023-44487 | | 
-| 20231011T12:37:56Z | CVE-2023-5521 | Root takeover via signature spoofing in KernelSU | https://github.com/Ylarod/CVE-2023-5521 | | 
-| 20231011T12:36:00Z | CVE-2023-38545 | Simple PoC causing overflow | https://github.com/UTsweetyfish/CVE-2023-38545 | | 
-| 20231011T12:23:24Z | CVE-2023-36802 | LPE exploit for CVE-2023-36802 | https://github.com/chompie1337/Windows_MSKSSRV_LPE_CVE-2023-36802 | | 
-| 20231011T12:17:19Z | CVE-2023-22515 | CVE-2023-22515 - Broken Access Control Vulnerability in Confluence Data Center and Server | https://github.com/kh4sh3i/CVE-2023-22515 | | 
-| 20231011T12:08:21Z | CVE-2023-2215 | PoC For CVE-2023-2215 - Auth bypass  | https://github.com/zwxxb/CVE-2023-2215 | | 
-| 20231011T11:58:01Z | CVE-2023-22515 | Confluence未授权添加管理员用户(CVE-2023-22515)漏洞利用工具 | https://github.com/ad-calcium/CVE-2023-22515 | | 
-| 20231011T11:11:59Z | CVE-2023-22515 | CVE-2023-22515: Confluence Broken Access Control Exploit | https://github.com/Chocapikk/CVE-2023-22515 | | 
+| 20231011T22:51:00Z | CVE-2023-38646 | CVE-2023-38646 Unauthenticated RCE vulnerability in Metabase  | https://github.com/nickswink/CVE-2023-38646 | | 
+| 20231011T22:10:52Z | CVE-2023-44487 | Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487 | https://github.com/bcdannyboy/CVE-2023-44487 | | 
+| 20231011T20:45:45Z | CVE-2023-22515 | CVE-2023-22515: Confluence Broken Access Control Exploit | https://github.com/Chocapikk/CVE-2023-22515 | | 
+| 20231011T18:55:41Z | CVE-2023-43148 | CVE-2023-43148 | https://github.com/MinoTauro2020/CVE-2023-43148 | | 
+| 20231011T17:22:12Z | CVE-2021-21551 | This example is inspired by https://www.mitchellzakocs.com/blog/dbutil#exploitation-and-proof-of-concept and used in my windows rootkit. an exploit that lets me free use of reading/write from/to any virtual/physical memory address in any size i want. | https://github.com/shaygitub/CVE-2021-21551 | | 
+| 20231011T17:15:33Z | CVE-2023-5521 | Root takeover via signature spoofing in KernelSU | https://github.com/Ylarod/CVE-2023-5521 | | 
+| 20231011T17:04:11Z | CVE-2023-4911 | CVE-2023-4911 | https://github.com/ruycr4ft/CVE-2023-4911 | | 
+| 20231011T15:26:47Z | CVE-2023-38646 | CVE-2023-38646 Metabase 0.46.6 exploit | https://github.com/SUT0L/CVE-2023-38646 | | 
+| 20231011T14:48:00Z | CVE-2022-46169 | Exploit for cacti version 1.2.22 | https://github.com/ruycr4ft/CVE-2022-46169 | | 
+| 20231011T14:31:12Z | CVE-2023-22515 | Confluence未授权添加管理员用户(CVE-2023-22515)漏洞利用工具 | https://github.com/ad-calcium/CVE-2023-22515 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231011T12:42:39Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13997 | 423| 
+| 20231011T16:40:57Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 365 | 8| 
+| 20231011T15:32:40Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 13999 | 423| 
 | 20231011T03:07:48Z | Null | https://github.com/mm7274a00/klee1011 | 0 | 0| 
 | 20231010T19:55:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2329 | 637| 
 | 20231009T14:44:01Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 277 | 53| 
 | 20231009T11:36:39Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 44 | 0| 
-| 20231009T07:33:23Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 364 | 8| 
 | 20231009T02:55:06Z | Kleek - An Android App for Creating KakaoTalk Bots using Xposed API | https://github.com/naijun0403/kleek | 6 | 2| 
 | 20231008T05:48:32Z | 本字体基于Klee one字体及其衍生的霞鹜文楷系列字体进行改做，基于文楷TC修改的字体 | https://github.com/Steve-Yuu/YshiShuti | 16 | 0| 
 | 20231007T15:37:28Z | Null | https://github.com/KleeKitz/kleekitz.github.io | 0 | 0| 
@@ -56,7 +56,8 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231010T20:27:18Z | This is the scratch 2.0 editor in github. | https://github.com/Thecartoondude/s2editor | 0 | 0| 
+| 20231011T20:34:04Z | This is the scratch 2.0 editor in github. | https://github.com/Thecartoondude/s2editor | 0 | 0| 
+| 20231011T13:21:25Z | created by O%challenge | https://github.com/GuillaumePons63/S2E15-GuillaumePons63 | 0 | 0| 
 | 20231009T14:45:03Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 35 | 15| 
 | 20231008T02:26:19Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 357 | 82| 
 | 20231004T05:46:10Z | GUI Configuration tool for WIZnet serial to ethernet devices. | https://github.com/Wiznet/WIZnet-S2E-Tool-GUI | 20 | 10| 
@@ -65,6 +66,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231011T23:14:27Z | exploit again lol | https://github.com/pa1nx9/exploit-again-lol | 0 | 0| 
+| 20231011T15:07:45Z | This is a script written in Python that allows the exploitation of the Metabase%s software security flaw in the described in CVE 2023-38646. | https://github.com/m3m0o/metabase-pre-auth-rce-poc | 0 | 0| 
+| 20231011T13:34:11Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 743 | 179| 
 | 20231011T12:53:03Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-quality-dashboard-O2E6o-exploit-sustain | 0 | 0| 
 | 20231011T12:53:01Z | Null | https://github.com/aslamadmani1337/Exploitsg | 0 | 0| 
 | 20231011T12:17:19Z | CVE-2023-22515 - Broken Access Control Vulnerability in Confluence Data Center and Server | https://github.com/kh4sh3i/CVE-2023-22515 | 0 | 0| 
@@ -72,24 +76,21 @@
 | 20231011T10:21:23Z | Null | https://github.com/f0ns1reviewed/Azure_exploits | 0 | 0| 
 | 20231011T10:21:19Z | PoC. Severity critical. | https://github.com/getdrive/PoC | 14 | 8| 
 | 20231011T10:20:26Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5391 | 696| 
-| 20231011T09:51:53Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 87 | 31| 
-| 20231011T01:51:59Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWcv | 1 | 0| 
-| 20231011T01:51:09Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANcv | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231011T12:49:43Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 123 | 18| 
+| 20231011T20:22:57Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 128 | 18| 
+| 20231011T15:24:55Z | Null | https://github.com/ibnusaja/backdoor-windows | 0 | 0| 
+| 20231011T15:13:42Z | Backdoor API for fyp | https://github.com/AqeelNaufal/BackdoorApi-fyp | 0 | 0| 
+| 20231011T11:03:24Z | PCI Express DIY hacking toolkit for Xilinx SP605. This repository is also home of Hyper-V Backdoor and Boot Backdoor, check readme for links and info | https://github.com/Cr4sh/s6_pcie_microblaze | 631 | 139| 
 | 20231011T07:17:29Z | Kernel  rk | https://github.com/carloslack/KoviD | 157 | 36| 
 | 20231011T04:06:34Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 208 | 22| 
 | 20231011T03:16:42Z | Towards Stable Backdoor Purification through Feature Shift Tuning (NeurIPS 2023) | https://github.com/AISafety-HKUST/stable_backdoor_purification | 9 | 0| 
 | 20231010T18:03:43Z | Android Mobile | https://github.com/RENANZG/My-Android-Mobile | 1 | 0| 
 | 20231010T17:34:37Z | PHP shell backdoors list  ( collection ) | https://github.com/1337r0j4n/php-backdoors | 46 | 13| 
 | 20231010T15:44:48Z | spiegazione di backdoor e differenze tra quelle dell%esercizio. | https://github.com/FrancescoFuschetto/Esercizio2S3 | 0 | 0| 
-| 20231010T15:36:02Z | Null | https://github.com/gktirkha/backdoor_json | 0 | 0| 
-| 20231010T15:35:01Z | Null | https://github.com/gktirkha/backdoor_flutter | 0 | 0| 
-| 20231010T15:23:43Z | This project is a cross-platform (Windows/Linux/MacOS) yet simple and powerful backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support. | https://github.com/xp4xbox/Python-Backdoor | 651 | 248| 
 
 
 # symbolic execution on Github 推荐
@@ -119,16 +120,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231011T20:23:07Z | Null | https://github.com/0xpolarzero/foundry-fuzz-campain-minimal-example | 0 | 0| 
+| 20231011T17:47:54Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9084 | 2015| 
 | 20231011T12:56:05Z | Null | https://github.com/Harsh055Raj/Clustering_Model_FUZZYCMEAN | 0 | 0| 
 | 20231011T12:30:28Z | Config files for my GitHub profile. | https://github.com/FuzzyMatrix18/FuzzyMatrix18 | 0 | 0| 
 | 20231011T11:09:17Z | TestFuzzer for Ruby | https://github.com/BoB-WebFuzzing/TestFuzzer-Ruby | 0 | 0| 
 | 20231011T10:04:12Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1577 | 229| 
+| 20231011T08:10:31Z | Fuzzy - MacOS Keyboard Cleaning tool | https://github.com/ClarkTheCoder/FuzzyKeyboardCleaningTool | 0 | 0| 
+| 20231011T08:04:55Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5097 | 547| 
 | 20231011T07:46:45Z | TestFuzzer for Nodejs | https://github.com/BoB-WebFuzzing/TestFuzzer-Nodejs | 0 | 0| 
 | 20231011T07:32:30Z | Null | https://github.com/Frrrl/Fuzzy-SAC | 1 | 0| 
-| 20231011T01:56:59Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 49320 | 23238| 
-| 20231011T01:43:33Z | Research paper and project for JHU class: Reasoning Under Uncertainty - EN.605.745 | https://github.com/cvaisnor/abc-fuzzing | 0 | 0| 
-| 20231011T01:27:09Z | Null | https://github.com/enyquist/fuzzylogic | 0 | 0| 
-| 20231011T01:22:21Z | Null | https://github.com/VinRodrigues/LogicaFuzzy | 0 | 0| 
 
 
 
