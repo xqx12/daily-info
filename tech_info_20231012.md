@@ -44,6 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231012T12:22:08Z | NSTG Exploit Host for PS5 & PS4 | https://github.com/NotSoTypicalGamer/NSTG-Exploit-Host-for-PS5-PS4 | 3 | 3| 
 | 20231012T12:18:13Z | Powerful crypto arbitrage bot designed to identify and exploit price differentials across multiple centralized exchanges. | https://github.com/Trade-Blocks-AI/multi-cex-arbitrage-bot | 0 | 0| 
 | 20231012T11:59:18Z | Best Exploit ever | https://github.com/RHHack-Script/Spoits-Hub | 0 | 0| 
 | 20231012T11:48:35Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-821-0110-0089-app-a9rO3-exploit-reply | 0 | 0| 
@@ -53,7 +54,6 @@
 | 20231012T10:33:13Z | LocalRoot Exploits (Precompiled) | https://github.com/fsckii/Get-R00t | 0 | 0| 
 | 20231012T10:24:11Z | The code of the paper: %Exploiting auditory filter models as interpretable convolutional frontends to obtain optimal architectures for speaker gender recognition%. | https://github.com/HosseinFayyazi/SGR_AFM | 0 | 0| 
 | 20231012T10:14:51Z | Null | https://github.com/Nepire/exploit_tools | 0 | 0| 
-| 20231012T09:49:59Z | Pangea est une plate-forme de sécurité complète basée sur le cloud que vous pouvez exploiter avec de simples appels 💻 d’API, qui permet également aux développeurs d’applications d’activer sans effort la sécurité sans développer de services en interne. | https://github.com/verlaine-muhungu/Pangea_French_Docs | 0 | 0| 
 
 
 # backdoor on Github 推荐
