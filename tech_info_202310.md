@@ -66,7 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231012T00:16:41Z | Null | https://github.com/DonHoolo/Update-Kronos-Exploit-Uwp-Keyless-Level-8 | 0 | 0| 
+| 20231012T00:25:25Z | Null | https://github.com/DonHoolo/Update-Kronos-Exploit-Uwp-Keyless-Level-8 | 0 | 0| 
 | 20231012T00:05:56Z | GitOps Repository | https://github.com/redhat-appstudio-qe/byoc-app-nmqe-FObm3-conduct-exploit | 0 | 0| 
 | 20231011T23:14:27Z | exploit again lol | https://github.com/pa1nx9/exploit-again-lol | 0 | 0| 
 | 20231011T15:07:45Z | This is a script written in Python that allows the exploitation of the Metabase%s software security flaw in the described in CVE 2023-38646. | https://github.com/m3m0o/metabase-pre-auth-rce-poc | 0 | 0| 
