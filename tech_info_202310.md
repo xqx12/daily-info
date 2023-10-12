@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231012T00:16:41Z | Null | https://github.com/DonHoolo/Update-Kronos-Exploit-Uwp-Keyless-Level-8 | 0 | 0| 
 | 20231012T00:05:56Z | GitOps Repository | https://github.com/redhat-appstudio-qe/byoc-app-nmqe-FObm3-conduct-exploit | 0 | 0| 
 | 20231011T23:14:27Z | exploit again lol | https://github.com/pa1nx9/exploit-again-lol | 0 | 0| 
 | 20231011T15:07:45Z | This is a script written in Python that allows the exploitation of the Metabase%s software security flaw in the described in CVE 2023-38646. | https://github.com/m3m0o/metabase-pre-auth-rce-poc | 0 | 0| 
@@ -75,7 +76,6 @@
 | 20231011T12:17:19Z | CVE-2023-22515 - Broken Access Control Vulnerability in Confluence Data Center and Server | https://github.com/kh4sh3i/CVE-2023-22515 | 0 | 0| 
 | 20231011T12:01:26Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 62 | 19| 
 | 20231011T10:21:23Z | Null | https://github.com/f0ns1reviewed/Azure_exploits | 0 | 0| 
-| 20231011T10:21:19Z | PoC. Severity critical. | https://github.com/getdrive/PoC | 14 | 8| 
 
 
 # backdoor on Github 推荐
