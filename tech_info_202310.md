@@ -120,6 +120,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231012T12:07:29Z | Source Code for a simple app dedicated to demonstrating basic Cryptography Principles | https://github.com/skunkworks-pty-ltd/fuzzy-octo-disco | 0 | 0| 
 | 20231012T11:54:11Z | TestFuzzer for Nodejs | https://github.com/BoB-WebFuzzing/TestFuzzer-Nodejs | 1 | 0| 
 | 20231012T11:09:19Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1578 | 229| 
 | 20231012T10:51:14Z | Null | https://github.com/haikalfachri/fuzzy-logic | 0 | 0| 
@@ -129,7 +130,6 @@
 | 20231012T00:57:45Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 432 | 57| 
 | 20231012T00:41:22Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 10225 | 1157| 
 | 20231011T20:23:07Z | Null | https://github.com/0xpolarzero/foundry-fuzz-campain-minimal-example | 0 | 0| 
-| 20231011T19:00:13Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 231 | 36| 
 
 
 
