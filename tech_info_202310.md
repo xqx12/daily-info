@@ -26,8 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231013T12:20:03Z | CVE-2023-44487 | Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487 | https://github.com/bcdannyboy/CVE-2023-44487 | | 
 | 20231013T11:58:21Z | CVE-2023-42820 | CVE-2023-42820 | https://github.com/C1ph3rX13/CVE-2023-42820 | | 
-| 20231013T11:55:43Z | CVE-2023-44487 | Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487 | https://github.com/bcdannyboy/CVE-2023-44487 | | 
 | 20231013T11:50:03Z | CVE-2023-22515 | Confluence Data Center & Server 权限提升漏洞 Exploit | https://github.com/Le1a/CVE-2023-22515 | | 
 | 20231013T11:27:27Z | CVE-2023-44487 | Proof of concept for DoS exploit  | https://github.com/imabee101/CVE-2023-44487 | | 
 | 20231013T10:31:45Z | CVE-2023-22515 | iveresk-CVE-2023-22515 | https://github.com/iveresk/CVE-2023-22515 | | 
