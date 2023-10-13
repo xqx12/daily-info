@@ -17,15 +17,15 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20231012T22:45:50Z | CVE-2023-44487 | Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487 | https://github.com/bcdannyboy/CVE-2023-44487 | | 
-| 20231012T19:50:22Z | cve-2023-27997 | xortigate-cve-2023-27997 | https://github.com/lexfo/xortigate-cve-2023-27997 | | 
 | 20231012T19:45:03Z | CVE-2023-3519 | exploit CVE-2023-3519 | https://github.com/Aicks/Citrix-CVE-2023-3519 | | 
 | 20231012T19:43:47Z | CVE-2023-27997 | FortiGate exploit  CVE-2023-27997 | https://github.com/Aicks/FortiGate-CVE-2023-27997 | | 
-| 20231012T18:14:12Z | CVE-2023-27997 | Null | https://github.com/delsploit/CVE-2023-27997 | | 
 | 20231012T17:39:37Z | CVE-2023-43148 | CVE CSRF DELETE ACCOUNT | https://github.com/MinoTauro2020/CVE-2023-43148 | | 
 | 20231012T17:04:35Z | CVE-2023-38545 | Dockerfile containing all the necessary setup files to demo the exploit  | https://github.com/vanigori/CVE-2023-38545-sample | | 
 | 20231012T16:13:22Z | CVE-2023-38831 | Null | https://github.com/ruycr4ft/CVE-2023-38831 | | 
 | 20231012T16:11:39Z | CVE-2023-43149 | CVE-2023-43149 | https://github.com/MinoTauro2020/CVE-2023-43149 | | 
 | 20231012T16:03:28Z | CVE-2023-43147 | CVE-2023-43148 | https://github.com/MinoTauro2020/CVE-2023-43147 | | 
+| 20231012T14:33:25Z | CVE-2023-38646 | Null | https://github.com/threatHNTR/CVE-2023-38646 | | 
+| 20231012T12:35:09Z | CVE-2023-22515 | CVE-2023-22515: Confluence Broken Access Control Exploit | https://github.com/Chocapikk/CVE-2023-22515 | | 
 
 
 # klee on Github 推荐
