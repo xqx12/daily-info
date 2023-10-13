@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231013T01:10:43Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0069-app-S7HEM-remain-exploit | 0 | 0| 
 | 20231013T01:06:35Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5416 | 1054| 
 | 20231013T00:56:47Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0027-app-v19kN-exploit-play | 0 | 0| 
 | 20231013T00:54:31Z | Random tools, payloads and exploits. | https://github.com/Xcatolin/general-tooling | 3 | 1| 
@@ -75,7 +76,6 @@
 | 20231013T00:23:02Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANcq | 1 | 0| 
 | 20231013T00:22:09Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANqc | 1 | 0| 
 | 20231012T21:13:02Z | I don%t know how to actually update the script, so i created this repository just for me to actually update it. | https://github.com/MinusFrost/Actual-Exploiting-Warfare | 0 | 0| 
-| 20231012T20:03:01Z | GitOps Repository | https://github.com/redhat-appstudio-qe/test-app-169714095-NA_QT-exploit-advise | 0 | 0| 
 
 
 # backdoor on Github 推荐
