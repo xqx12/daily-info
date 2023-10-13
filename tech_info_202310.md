@@ -56,7 +56,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231013T00:10:08Z | This is the scratch 2.0 editor in github. | https://github.com/Thecartoondude/s2editor | 0 | 0| 
+| 20231013T00:14:47Z | Finally something not PBS Kids Related at all! This is the scratch 2.0 editor in github. (DONT WORRY PBS FANS I WILL STILL WORK ON PBS-Kids-2006) | https://github.com/Thecartoondude/s2editor | 0 | 0| 
 | 20231012T09:17:34Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 36 | 15| 
 | 20231011T13:21:25Z | created by O%challenge | https://github.com/GuillaumePons63/S2E15-GuillaumePons63 | 0 | 0| 
 | 20231008T02:26:19Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 357 | 82| 
@@ -120,6 +120,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231013T00:21:34Z | Null | https://github.com/narenp12/fuzzy-waddle | 0 | 0| 
 | 20231012T21:45:01Z | CATS is a REST API Fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and do not require maintenance. | https://github.com/Endava/cats | 999 | 68| 
 | 20231012T21:04:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9087 | 2017| 
 | 20231012T19:40:32Z | An online fraud detection system for credit card transactions using stratified random sampling to handle non-stationary changes and fuzzy logistic regression modelling. | https://github.com/GZanos/Online-Transaction-Fraud-Detection-with-Fuzzy-Logistic-Regression | 0 | 0| 
@@ -129,7 +130,6 @@
 | 20231012T12:51:15Z | Null | https://github.com/christos-eth/rust-smart-contract-fuzzer | 0 | 0| 
 | 20231012T12:40:13Z | Null | https://github.com/Nanang32/fuzzy-Disaster-Landslide-case-onmajene | 0 | 0| 
 | 20231012T12:27:07Z | MISP%s PE object template can accept a Fuzzy Hash of the Import table. This script will calculate that hash. | https://github.com/michaelf97/importtable_fuzzyhash | 0 | 0| 
-| 20231012T12:23:14Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4860 | 1164| 
 
 
 
