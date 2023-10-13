@@ -17,7 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231013T12:37:18Z | CVE-2023-44487 | Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487 | https://github.com/bcdannyboy/CVE-2023-44487 | | 
+| 20231013T12:42:47Z | CVE-2023-44487 | Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487 | https://github.com/bcdannyboy/CVE-2023-44487 | | 
 | 20231013T11:58:21Z | CVE-2023-42820 | CVE-2023-42820 | https://github.com/C1ph3rX13/CVE-2023-42820 | | 
 | 20231013T11:50:03Z | CVE-2023-22515 | Confluence Data Center & Server 权限提升漏洞 Exploit | https://github.com/Le1a/CVE-2023-22515 | | 
 | 20231013T11:27:27Z | CVE-2023-44487 | Proof of concept for DoS exploit  | https://github.com/imabee101/CVE-2023-44487 | | 
@@ -49,6 +49,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231013T12:39:30Z | Hood Hub is made for Roblox Exploiting with all the gui%s known! | https://github.com/yoboyghxst/Hood-Hub | 0 | 0| 
 | 20231013T12:02:17Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5394 | 698| 
 | 20231013T11:27:27Z | Proof of concept for DoS exploit  | https://github.com/imabee101/CVE-2023-44487 | 19 | 3| 
 | 20231013T10:28:53Z | A roblox exploit | https://github.com/hasbwoan/Spacehouse | 0 | 0| 
@@ -58,7 +59,6 @@
 | 20231013T01:10:43Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0069-app-S7HEM-remain-exploit | 0 | 0| 
 | 20231013T01:06:35Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5416 | 1054| 
 | 20231013T00:56:47Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0027-app-v19kN-exploit-play | 0 | 0| 
-| 20231013T00:54:31Z | Random tools, payloads and exploits. | https://github.com/Xcatolin/general-tooling | 3 | 1| 
 
 
 # backdoor on Github 推荐
