@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231013T01:30:56Z | cve-2023-27997 | xortigate-cve-2023-27997 | https://github.com/lexfo/xortigate-cve-2023-27997 | | 
+| 20231013T01:44:37Z | cve-2023-27997 | xortigate-cve-2023-27997 | https://github.com/lexfo/xortigate-cve-2023-27997 | | 
 | 20231013T00:50:16Z | CVE-2023-44487 | Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487 | https://github.com/bcdannyboy/CVE-2023-44487 | | 
 | 20231013T00:43:03Z | CVE-2023-27997 | Null | https://github.com/delsploit/CVE-2023-27997 | | 
 | 20231013T00:13:32Z | CVE-2023-42820 | CVE-2023-42820 | https://github.com/C1ph3rX13/CVE-2023-42820 | | 
