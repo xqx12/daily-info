@@ -17,6 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231013T12:58:58Z | CVE-2023-42819 | CVE-2023-42819 | https://github.com/C1ph3rX13/CVE-2023-42819 | | 
 | 20231013T12:57:57Z | CVE-2023-43149 | CVE-2023-43149 | https://github.com/MinoTauro2020/CVE-2023-43149 | | 
 | 20231013T12:47:36Z | CVE-2023-44487 | Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487 | https://github.com/bcdannyboy/CVE-2023-44487 | | 
 | 20231013T11:58:21Z | CVE-2023-42820 | CVE-2023-42820 | https://github.com/C1ph3rX13/CVE-2023-42820 | | 
@@ -26,7 +27,6 @@
 | 20231013T09:20:11Z | CVE-2023-30861 | Explaining how to exploit CVE-2023-30861  | https://github.com/JawadPy/CVE-2023-30861-Exploit | | 
 | 20231013T08:19:07Z | cve-2023-22515 | Confluence Broken Access Control | https://github.com/Vulnmachines/confluence-cve-2023-22515 | | 
 | 20231013T07:44:35Z | CVE-2023-41105 | Example of CVE-2023-41105 | https://github.com/JawadPy/CVE-2023-41105-Exploit | | 
-| 20231013T07:44:32Z | CVE-2023-43804 | Example of how CVE-2023-43804 works with real python code. | https://github.com/JawadPy/CVE-2023-43804-Exploit | | 
 
 
 # klee on Github 推荐
