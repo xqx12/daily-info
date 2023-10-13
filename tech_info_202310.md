@@ -66,6 +66,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231013T00:24:34Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWcq | 0 | 0| 
+| 20231013T00:23:54Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANcq | 1 | 0| 
+| 20231013T00:23:02Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANcq | 1 | 0| 
 | 20231013T00:22:09Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANqc | 1 | 0| 
 | 20231012T23:32:56Z | ¡El mejor cliente de ciberseguridad para Minecraft!, cuenta con un montón de exploits esenciales para verificar la seguridad del servidor, además de que es constantemente actualizado!! | https://github.com/SerLink04/diavloclient | 1 | 0| 
 | 20231012T21:13:02Z | I don%t know how to actually update the script, so i created this repository just for me to actually update it. | https://github.com/MinusFrost/Actual-Exploiting-Warfare | 0 | 0| 
@@ -73,9 +76,6 @@
 | 20231012T19:43:47Z | FortiGate exploit  CVE-2023-27997 | https://github.com/Aicks/FortiGate-CVE-2023-27997 | 0 | 0| 
 | 20231012T16:56:12Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 88 | 31| 
 | 20231012T12:47:57Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5415 | 1054| 
-| 20231012T12:36:13Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-821-0130-0042-app-shhZN-finish-exploit | 0 | 0| 
-| 20231012T12:32:51Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-821-0130-0022-app-ggvrY-regard-exploit | 0 | 0| 
-| 20231012T12:22:08Z | NSTG Exploit Host for PS5 & PS4 | https://github.com/NotSoTypicalGamer/NSTG-Exploit-Host-for-PS5-PS4 | 3 | 3| 
 
 
 # backdoor on Github 推荐
