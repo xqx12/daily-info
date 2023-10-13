@@ -48,13 +48,13 @@
 | 20231012T21:13:02Z | I don%t know how to actually update the script, so i created this repository just for me to actually update it. | https://github.com/MinusFrost/Actual-Exploiting-Warfare | 0 | 0| 
 | 20231012T20:03:01Z | GitOps Repository | https://github.com/redhat-appstudio-qe/test-app-169714095-NA_QT-exploit-advise | 0 | 0| 
 | 20231012T19:43:47Z | FortiGate exploit  CVE-2023-27997 | https://github.com/Aicks/FortiGate-CVE-2023-27997 | 0 | 0| 
+| 20231012T17:32:09Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 227 | 15| 
 | 20231012T16:56:12Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 88 | 31| 
 | 20231012T12:36:13Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-821-0130-0042-app-shhZN-finish-exploit | 0 | 0| 
 | 20231012T12:32:51Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-821-0130-0022-app-ggvrY-regard-exploit | 0 | 0| 
 | 20231012T12:22:08Z | NSTG Exploit Host for PS5 & PS4 | https://github.com/NotSoTypicalGamer/NSTG-Exploit-Host-for-PS5-PS4 | 3 | 3| 
 | 20231012T12:18:13Z | Powerful crypto arbitrage bot designed to identify and exploit price differentials across multiple centralized exchanges. | https://github.com/Trade-Blocks-AI/multi-cex-arbitrage-bot | 0 | 0| 
 | 20231012T12:04:04Z | Tool for automate bug hunting process 🔍 --> 🍭 | https://github.com/DevVj-1/Sub-Ringan-Framework | 5 | 1| 
-| 20231012T11:59:18Z | Best Exploit ever | https://github.com/RHHack-Script/Spoits-Hub | 0 | 0| 
 
 
 # backdoor on Github 推荐
