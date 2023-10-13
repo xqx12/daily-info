@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231013T00:54:31Z | Random tools, payloads and exploits. | https://github.com/Xcatolin/general-tooling | 3 | 1| 
 | 20231013T00:47:43Z | ¡El mejor cliente de ciberseguridad para Minecraft!, cuenta con un montón de exploits esenciales para verificar la seguridad del servidor, además de que es constantemente actualizado!! | https://github.com/SerLink04/diavloclient | 2 | 0| 
 | 20231013T00:24:42Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWcq | 1 | 0| 
 | 20231013T00:23:54Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANcq | 1 | 0| 
@@ -75,7 +76,6 @@
 | 20231012T20:03:01Z | GitOps Repository | https://github.com/redhat-appstudio-qe/test-app-169714095-NA_QT-exploit-advise | 0 | 0| 
 | 20231012T19:43:47Z | FortiGate exploit  CVE-2023-27997 | https://github.com/Aicks/FortiGate-CVE-2023-27997 | 0 | 0| 
 | 20231012T16:56:12Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 88 | 31| 
-| 20231012T12:47:57Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5415 | 1054| 
 
 
 # backdoor on Github 推荐
