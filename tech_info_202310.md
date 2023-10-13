@@ -123,13 +123,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231013T12:14:13Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9088 | 2018| 
 | 20231013T10:15:11Z | Null | https://github.com/Cassie620/fuzzy-enigma | 0 | 0| 
 | 20231013T10:05:43Z | Null | https://github.com/BoB-WebFuzzing/TestFuzzer-Python | 0 | 0| 
 | 20231013T06:47:44Z | Null | https://github.com/flyingsnake5254/ApkFuzz | 0 | 0| 
 | 20231013T04:45:16Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 613 | 76| 
 | 20231013T00:21:34Z | Null | https://github.com/narenp12/fuzzy-waddle | 0 | 0| 
 | 20231012T21:45:01Z | CATS is a REST API Fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and do not require maintenance. | https://github.com/Endava/cats | 999 | 68| 
-| 20231012T21:04:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9087 | 2017| 
 | 20231012T19:40:32Z | An online fraud detection system for credit card transactions using stratified random sampling to handle non-stationary changes and fuzzy logistic regression modelling. | https://github.com/GZanos/Online-Transaction-Fraud-Detection-with-Fuzzy-Logistic-Regression | 0 | 0| 
 | 20231012T18:47:09Z | Null | https://github.com/alexanastasyev/neuro-fuzzy-labs | 0 | 0| 
 | 20231012T14:51:05Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5098 | 547| 
