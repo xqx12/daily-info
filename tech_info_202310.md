@@ -83,8 +83,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231013T12:51:18Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 210 | 23| 
 | 20231013T11:40:13Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 152 | 22| 
-| 20231013T07:44:51Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 209 | 23| 
 | 20231013T07:40:07Z | Pytorch implementation of 2023 IJCAI paper %Orion: Online Backdoor Sample Detection via Evolution Deviance% | https://github.com/Hannah1102/Orion_bd | 0 | 0| 
 | 20231013T06:49:40Z | Autonomous pre-boot DMA attack hardware implant for M.2 slot based on PicoEVB development board | https://github.com/Cr4sh/pico_dma | 9 | 3| 
 | 20231013T06:18:04Z | Code for the Paper %Defending our Privacy With Backdoors% | https://github.com/D0miH/Defending-Our-Privacy-With-Backdoors | 1 | 0| 
