@@ -88,6 +88,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231013T12:28:52Z | A simple script written in python to automate the process of website fuzzing | https://github.com/Rheno001/Automated-fuzzing-script | 0 | 0| 
 | 20231013T12:21:29Z | هندسه  | https://github.com/ahofit/fuzzy-barnacle | 0 | 0| 
 | 20231013T12:14:13Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9088 | 2018| 
 | 20231013T10:15:11Z | Null | https://github.com/Cassie620/fuzzy-enigma | 0 | 0| 
