@@ -61,7 +61,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20231012T22:44:46Z | Digital Forensics and Incident Response (DFIR) | https://github.com/RENANZG/My-Forensics | 56 | 8| 
-| 20231012T21:48:11Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 142 | 20| 
 | 20231012T21:47:57Z | Autonomous pre-boot DMA attack hardware implant for M.2 slot based on PicoEVB development board | https://github.com/Cr4sh/pico_dma | 8 | 3| 
 | 20231012T12:36:02Z | Code for the Paper %Defending our Privacy With Backdoors% | https://github.com/D0miH/Defending-Our-Privacy-With-Backdoors | 0 | 0| 
 | 20231012T06:13:03Z | backdoor resources | https://github.com/JobsWangHaoQuan/backdoor | 0 | 0| 
