@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231013T00:22:09Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANqc | 1 | 0| 
 | 20231012T23:32:56Z | ¡El mejor cliente de ciberseguridad para Minecraft!, cuenta con un montón de exploits esenciales para verificar la seguridad del servidor, además de que es constantemente actualizado!! | https://github.com/SerLink04/diavloclient | 1 | 0| 
 | 20231012T21:13:02Z | I don%t know how to actually update the script, so i created this repository just for me to actually update it. | https://github.com/MinusFrost/Actual-Exploiting-Warfare | 0 | 0| 
 | 20231012T20:03:01Z | GitOps Repository | https://github.com/redhat-appstudio-qe/test-app-169714095-NA_QT-exploit-advise | 0 | 0| 
@@ -75,7 +76,6 @@
 | 20231012T12:36:13Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-821-0130-0042-app-shhZN-finish-exploit | 0 | 0| 
 | 20231012T12:32:51Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-821-0130-0022-app-ggvrY-regard-exploit | 0 | 0| 
 | 20231012T12:22:08Z | NSTG Exploit Host for PS5 & PS4 | https://github.com/NotSoTypicalGamer/NSTG-Exploit-Host-for-PS5-PS4 | 3 | 3| 
-| 20231012T12:18:13Z | Powerful crypto arbitrage bot designed to identify and exploit price differentials across multiple centralized exchanges. | https://github.com/Trade-Blocks-AI/multi-cex-arbitrage-bot | 0 | 0| 
 
 
 # backdoor on Github 推荐
