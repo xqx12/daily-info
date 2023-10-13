@@ -88,12 +88,12 @@
 | 20231012T21:04:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9087 | 2017| 
 | 20231012T19:40:32Z | An online fraud detection system for credit card transactions using stratified random sampling to handle non-stationary changes and fuzzy logistic regression modelling. | https://github.com/GZanos/Online-Transaction-Fraud-Detection-with-Fuzzy-Logistic-Regression | 0 | 0| 
 | 20231012T18:47:09Z | Null | https://github.com/alexanastasyev/neuro-fuzzy-labs | 0 | 0| 
+| 20231012T14:51:05Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5098 | 547| 
 | 20231012T14:10:10Z | macOS RootKit that can fuzz binaries/drivers, do kernel r/w, hook kernel and userspace functions, set custom breakpoints, GDB stub (in progress), match KDK kernels with DWARF debug symbols to release kernels, MachOs of all kinds, dyld shared caches, Objective C/Swift metadata,  dump libraries, library injection (e.g. cycript), and crawl iOS apps | https://github.com/YungRaj/MacRootKit | 5 | 0| 
 | 20231012T12:56:18Z | My project involves performing Optical Character Recognition (OCR) on images within a designated folder. If the OCR results meet a certain threshold of accuracy, they are cross-referenced with values stored in a JSON dictionary. When a match is found, the corresponding key is returned, indicating the presence of the value in the image. | https://github.com/derickcjohn/OCR-with-fuzzy-matching | 0 | 0| 
 | 20231012T12:55:20Z | Null | https://github.com/samahabdelaziz/Fuzzy-Rules | 0 | 0| 
 | 20231012T12:51:15Z | Null | https://github.com/christos-eth/rust-smart-contract-fuzzer | 0 | 0| 
 | 20231012T12:40:13Z | Null | https://github.com/Nanang32/fuzzy-Disaster-Landslide-case-onmajene | 0 | 0| 
-| 20231012T12:27:07Z | MISP%s PE object template can accept a Fuzzy Hash of the Import table. This script will calculate that hash. | https://github.com/michaelf97/importtable_fuzzyhash | 0 | 0| 
 
 
 
