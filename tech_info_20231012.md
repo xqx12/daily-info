@@ -16,7 +16,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231012T22:45:50Z | CVE-2023-44487 | Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487 | https://github.com/bcdannyboy/CVE-2023-44487 | | 
 | 20231012T19:45:03Z | CVE-2023-3519 | exploit CVE-2023-3519 | https://github.com/Aicks/Citrix-CVE-2023-3519 | | 
 | 20231012T19:43:47Z | CVE-2023-27997 | FortiGate exploit  CVE-2023-27997 | https://github.com/Aicks/FortiGate-CVE-2023-27997 | | 
 | 20231012T17:39:37Z | CVE-2023-43148 | CVE CSRF DELETE ACCOUNT | https://github.com/MinoTauro2020/CVE-2023-43148 | | 
@@ -26,6 +25,7 @@
 | 20231012T16:03:28Z | CVE-2023-43147 | CVE-2023-43148 | https://github.com/MinoTauro2020/CVE-2023-43147 | | 
 | 20231012T14:33:25Z | CVE-2023-38646 | Null | https://github.com/threatHNTR/CVE-2023-38646 | | 
 | 20231012T12:35:09Z | CVE-2023-22515 | CVE-2023-22515: Confluence Broken Access Control Exploit | https://github.com/Chocapikk/CVE-2023-22515 | | 
+| 20231012T11:29:59Z | CVE-2023-22515 | Confluence未授权添加管理员用户(CVE-2023-22515)漏洞利用工具 | https://github.com/ad-calcium/CVE-2023-22515 | | 
 
 
 # klee on Github 推荐

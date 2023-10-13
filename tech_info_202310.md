@@ -26,9 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231013T00:50:16Z | CVE-2023-44487 | Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487 | https://github.com/bcdannyboy/CVE-2023-44487 | | 
 | 20231013T00:44:07Z | cve-2023-27997 | xortigate-cve-2023-27997 | https://github.com/lexfo/xortigate-cve-2023-27997 | | 
 | 20231013T00:43:03Z | CVE-2023-27997 | Null | https://github.com/delsploit/CVE-2023-27997 | | 
-| 20231012T22:45:50Z | CVE-2023-44487 | Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487 | https://github.com/bcdannyboy/CVE-2023-44487 | | 
 | 20231012T19:45:03Z | CVE-2023-3519 | exploit CVE-2023-3519 | https://github.com/Aicks/Citrix-CVE-2023-3519 | | 
 | 20231012T19:43:47Z | CVE-2023-27997 | FortiGate exploit  CVE-2023-27997 | https://github.com/Aicks/FortiGate-CVE-2023-27997 | | 
 | 20231012T17:39:37Z | CVE-2023-43148 | CVE CSRF DELETE ACCOUNT | https://github.com/MinoTauro2020/CVE-2023-43148 | | 
