@@ -26,25 +26,25 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231012T12:56:52Z | CVE-2023-38831 | Null | https://github.com/ruycr4ft/CVE-2023-38831 | | 
-| 20231012T12:35:09Z | CVE-2023-22515 | CVE-2023-22515: Confluence Broken Access Control Exploit | https://github.com/Chocapikk/CVE-2023-22515 | | 
-| 20231012T11:40:21Z | CVE-2023-44487 | Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487 | https://github.com/bcdannyboy/CVE-2023-44487 | | 
-| 20231012T11:29:59Z | CVE-2023-22515 | Confluence未授权添加管理员用户(CVE-2023-22515)漏洞利用工具 | https://github.com/ad-calcium/CVE-2023-22515 | | 
-| 20231012T11:11:53Z | CVE-2022-32548 | Null | https://github.com/kor34N/CVE-2022-32548-mass | | 
-| 20231012T10:25:44Z | CVE-2023-42820 | CVE-2023-42820 | https://github.com/C1ph3rX13/CVE-2023-42820 | | 
-| 20231012T09:59:30Z | CVE-2023-22515 | Confluence未授权添加管理员用户漏洞利用脚本 | https://github.com/sincere9/CVE-2023-22515 | | 
-| 20231012T09:48:35Z | CVE-2023-38545 | 😄 CVE-2023-38545堆溢出的POC和分析文章 | https://github.com/imfht/CVE-2023-38545 | | 
-| 20231012T08:45:47Z | CVE-2023-42819 | CVE-2023-42819 | https://github.com/C1ph3rX13/CVE-2023-42819 | | 
-| 20231012T08:16:05Z | cve-2023-42820 | JumpServer  | https://github.com/Startr4ck/cve-2023-42820 | | 
+| 20231012T22:45:50Z | CVE-2023-44487 | Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487 | https://github.com/bcdannyboy/CVE-2023-44487 | | 
+| 20231012T19:50:22Z | cve-2023-27997 | xortigate-cve-2023-27997 | https://github.com/lexfo/xortigate-cve-2023-27997 | | 
+| 20231012T19:45:03Z | CVE-2023-3519 | exploit CVE-2023-3519 | https://github.com/Aicks/Citrix-CVE-2023-3519 | | 
+| 20231012T19:43:47Z | CVE-2023-27997 | FortiGate exploit  CVE-2023-27997 | https://github.com/Aicks/FortiGate-CVE-2023-27997 | | 
+| 20231012T18:14:12Z | CVE-2023-27997 | Null | https://github.com/delsploit/CVE-2023-27997 | | 
+| 20231012T17:39:37Z | CVE-2023-43148 | CVE CSRF DELETE ACCOUNT | https://github.com/MinoTauro2020/CVE-2023-43148 | | 
+| 20231012T17:04:35Z | CVE-2023-38545 | Dockerfile containing all the necessary setup files to demo the exploit  | https://github.com/vanigori/CVE-2023-38545-sample | | 
+| 20231012T16:13:22Z | CVE-2023-38831 | Null | https://github.com/ruycr4ft/CVE-2023-38831 | | 
+| 20231012T16:11:39Z | CVE-2023-43149 | CVE-2023-43149 | https://github.com/MinoTauro2020/CVE-2023-43149 | | 
+| 20231012T16:03:28Z | CVE-2023-43147 | CVE-2023-43148 | https://github.com/MinoTauro2020/CVE-2023-43147 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231012T12:14:19Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14005 | 423| 
+| 20231012T16:59:15Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14006 | 423| 
+| 20231012T14:30:49Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2330 | 637| 
 | 20231012T10:23:06Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 366 | 8| 
 | 20231011T03:07:48Z | Null | https://github.com/mm7274a00/klee1011 | 0 | 0| 
-| 20231010T19:55:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2329 | 637| 
 | 20231009T14:44:01Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 277 | 53| 
 | 20231009T11:36:39Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 44 | 0| 
 | 20231009T02:55:06Z | Kleek - An Android App for Creating KakaoTalk Bots using Xposed API | https://github.com/naijun0403/kleek | 6 | 2| 
@@ -66,26 +66,26 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231012T23:32:56Z | ¡El mejor cliente de ciberseguridad para Minecraft!, cuenta con un montón de exploits esenciales para verificar la seguridad del servidor, además de que es constantemente actualizado!! | https://github.com/SerLink04/diavloclient | 1 | 0| 
+| 20231012T21:13:02Z | I don%t know how to actually update the script, so i created this repository just for me to actually update it. | https://github.com/MinusFrost/Actual-Exploiting-Warfare | 0 | 0| 
+| 20231012T20:03:01Z | GitOps Repository | https://github.com/redhat-appstudio-qe/test-app-169714095-NA_QT-exploit-advise | 0 | 0| 
+| 20231012T19:43:47Z | FortiGate exploit  CVE-2023-27997 | https://github.com/Aicks/FortiGate-CVE-2023-27997 | 0 | 0| 
+| 20231012T16:56:12Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 88 | 31| 
 | 20231012T12:47:57Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5415 | 1054| 
 | 20231012T12:36:13Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-821-0130-0042-app-shhZN-finish-exploit | 0 | 0| 
 | 20231012T12:32:51Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-821-0130-0022-app-ggvrY-regard-exploit | 0 | 0| 
 | 20231012T12:22:08Z | NSTG Exploit Host for PS5 & PS4 | https://github.com/NotSoTypicalGamer/NSTG-Exploit-Host-for-PS5-PS4 | 3 | 3| 
 | 20231012T12:18:13Z | Powerful crypto arbitrage bot designed to identify and exploit price differentials across multiple centralized exchanges. | https://github.com/Trade-Blocks-AI/multi-cex-arbitrage-bot | 0 | 0| 
-| 20231012T12:04:04Z | Tool for automate bug hunting process 🔍 --> 🍭 | https://github.com/DevVj-1/Sub-Ringan-Framework | 5 | 1| 
-| 20231012T11:59:18Z | Best Exploit ever | https://github.com/RHHack-Script/Spoits-Hub | 0 | 0| 
-| 20231012T11:48:35Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-821-0110-0089-app-a9rO3-exploit-reply | 0 | 0| 
-| 20231012T11:47:58Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5393 | 698| 
-| 20231012T10:44:35Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/trillian-Q2T-b-exploit-enhance | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231012T22:44:46Z | Digital Forensics and Incident Response (DFIR) | https://github.com/RENANZG/My-Forensics | 56 | 8| 
+| 20231012T21:48:11Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 142 | 20| 
+| 20231012T21:47:57Z | Autonomous pre-boot DMA attack hardware implant for M.2 slot based on PicoEVB development board | https://github.com/Cr4sh/pico_dma | 8 | 3| 
 | 20231012T12:36:02Z | Code for the Paper %Defending our Privacy With Backdoors% | https://github.com/D0miH/Defending-Our-Privacy-With-Backdoors | 0 | 0| 
-| 20231012T10:07:45Z | Autonomous pre-boot DMA attack hardware implant for M.2 slot based on PicoEVB development board | https://github.com/Cr4sh/pico_dma | 6 | 2| 
-| 20231012T09:32:59Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 136 | 19| 
 | 20231012T06:13:03Z | backdoor resources | https://github.com/JobsWangHaoQuan/backdoor | 0 | 0| 
-| 20231012T03:26:53Z | Digital Forensics and Incident Response (DFIR) | https://github.com/RENANZG/My-Forensics | 55 | 8| 
 | 20231012T00:03:47Z | 2 Python programmes used for detecting and preventing backdoor attacks in LLMs. | https://github.com/AceMegalodon/Mitigating_Backdoor_Attacks_in_LLMs | 0 | 0| 
 | 20231012T00:01:46Z | Official implementation for paper %FedGame: A Game-Theoretic Defense against Backdoor Attacks in Federated Learning% (NeurIPS 2023). | https://github.com/AI-secure/FedGame | 0 | 0| 
 | 20231011T15:24:55Z | Null | https://github.com/ibnusaja/backdoor-windows | 0 | 0| 
@@ -120,16 +120,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231012T21:45:01Z | CATS is a REST API Fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and do not require maintenance. | https://github.com/Endava/cats | 999 | 68| 
+| 20231012T21:04:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9087 | 2016| 
+| 20231012T19:40:32Z | An online fraud detection system for credit card transactions using stratified random sampling to handle non-stationary changes and fuzzy logistic regression modelling. | https://github.com/GZanos/Online-Transaction-Fraud-Detection-with-Fuzzy-Logistic-Regression | 0 | 0| 
+| 20231012T18:47:09Z | Null | https://github.com/alexanastasyev/neuro-fuzzy-labs | 0 | 0| 
 | 20231012T12:56:18Z | My project involves performing Optical Character Recognition (OCR) on images within a designated folder. If the OCR results meet a certain threshold of accuracy, they are cross-referenced with values stored in a JSON dictionary. When a match is found, the corresponding key is returned, indicating the presence of the value in the image. | https://github.com/derickcjohn/OCR-with-fuzzy-matching | 0 | 0| 
 | 20231012T12:55:20Z | Null | https://github.com/samahabdelaziz/Fuzzy-Rules | 0 | 0| 
 | 20231012T12:51:15Z | Null | https://github.com/christos-eth/rust-smart-contract-fuzzer | 0 | 0| 
 | 20231012T12:40:13Z | Null | https://github.com/Nanang32/fuzzy-Disaster-Landslide-case-onmajene | 0 | 0| 
 | 20231012T12:27:07Z | MISP%s PE object template can accept a Fuzzy Hash of the Import table. This script will calculate that hash. | https://github.com/michaelf97/importtable_fuzzyhash | 0 | 0| 
 | 20231012T12:23:14Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4860 | 1164| 
-| 20231012T12:17:01Z | Source Code for a simple app dedicated to demonstrating basic Cryptography Principles | https://github.com/skunkworks-pty-ltd/fuzzy-octo-disco | 0 | 0| 
-| 20231012T11:54:11Z | TestFuzzer for Nodejs | https://github.com/BoB-WebFuzzing/TestFuzzer-Nodejs | 1 | 0| 
-| 20231012T11:09:19Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1578 | 229| 
-| 20231012T10:51:14Z | Null | https://github.com/haikalfachri/fuzzy-logic | 0 | 0| 
 
 
 
