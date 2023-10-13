@@ -72,6 +72,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231012T18:56:12Z | Bottom-up memory-safety for assembly language using symbolic execution | https://github.com/scaspin/memory-safe-assembly | 2 | 0| 
+| 20231012T14:30:49Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2330 | 637| 
 
 
 # big4 on Github 推荐
