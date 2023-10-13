@@ -68,11 +68,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231013T12:02:17Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5394 | 698| 
 | 20231013T11:27:27Z | Proof of concept for DoS exploit  | https://github.com/imabee101/CVE-2023-44487 | 19 | 3| 
 | 20231013T10:28:53Z | A roblox exploit | https://github.com/hasbwoan/Spacehouse | 0 | 0| 
 | 20231013T09:11:29Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5574 | 761| 
 | 20231013T07:51:38Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 59 | 11| 
-| 20231013T04:29:39Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5396 | 698| 
 | 20231013T01:22:02Z | An Assault Cube external exploit made in Rust using the Windows API | https://github.com/oogaD/rust_ac | 1 | 0| 
 | 20231013T01:10:43Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0069-app-S7HEM-remain-exploit | 0 | 0| 
 | 20231013T01:06:35Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5416 | 1054| 
@@ -98,15 +98,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231013T10:24:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2332 | 637| 
+| 20231013T03:45:31Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 203 | 42| 
+| 20231013T02:26:43Z | Null | https://github.com/JHGL0419/Symbolic_Execution | 0 | 0| 
 | 20231012T18:56:12Z | Bottom-up memory-safety for assembly language using symbolic execution | https://github.com/scaspin/memory-safe-assembly | 2 | 0| 
-| 20231012T14:30:49Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2330 | 637| 
 | 20231011T04:25:49Z | Null | https://github.com/acheron2302/SymbolicExecution | 0 | 0| 
 | 20231009T22:42:21Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 205 | 19| 
 | 20231008T02:26:19Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 357 | 82| 
 | 20231005T01:06:38Z | A Dynamic Symbolic Execution (DSE) engine for JavaScript. ExpoSE is highly scalable, compatible with recent JavaScript standards, and supports symbolic modelling of strings and regular expressions. | https://github.com/ExpoSEJS/ExpoSE | 166 | 28| 
 | 20231005T00:26:08Z | A symbolic execution engine for peephole optimization | https://github.com/skberkeley/sepo | 0 | 0| 
 | 20231004T21:21:25Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 64 | 27| 
-| 20231002T14:02:45Z | Symbolic execution tool | https://github.com/trailofbits/manticore | 3545 | 490| 
 
 
 # big4 on Github 推荐
