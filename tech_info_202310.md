@@ -121,7 +121,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20231012T21:45:01Z | CATS is a REST API Fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and do not require maintenance. | https://github.com/Endava/cats | 999 | 68| 
-| 20231012T21:04:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9087 | 2016| 
+| 20231012T21:04:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9087 | 2017| 
 | 20231012T19:40:32Z | An online fraud detection system for credit card transactions using stratified random sampling to handle non-stationary changes and fuzzy logistic regression modelling. | https://github.com/GZanos/Online-Transaction-Fraud-Detection-with-Fuzzy-Logistic-Regression | 0 | 0| 
 | 20231012T18:47:09Z | Null | https://github.com/alexanastasyev/neuro-fuzzy-labs | 0 | 0| 
 | 20231012T12:56:18Z | My project involves performing Optical Character Recognition (OCR) on images within a designated folder. If the OCR results meet a certain threshold of accuracy, they are cross-referenced with values stored in a JSON dictionary. When a match is found, the corresponding key is returned, indicating the presence of the value in the image. | https://github.com/derickcjohn/OCR-with-fuzzy-matching | 0 | 0| 
