@@ -16,6 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231014T12:18:15Z | CVE-2023-3710 | Null | https://github.com/Mahdi22228/CVE-2023-3710 | | 
 | 20231014T11:36:23Z | CVE-2023-44487 | Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487 | https://github.com/bcdannyboy/CVE-2023-44487 | | 
 | 20231014T09:17:41Z | cve-2023-22515 | Confluence Broken Access Control | https://github.com/Vulnmachines/confluence-cve-2023-22515 | | 
 | 20231014T05:29:44Z | CVE-2023-22515 | Confluence Data Center & Server 权限提升漏洞 Exploit | https://github.com/Le1a/CVE-2023-22515 | | 

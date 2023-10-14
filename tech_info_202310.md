@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231014T12:18:15Z | CVE-2023-3710 | Null | https://github.com/Mahdi22228/CVE-2023-3710 | | 
 | 20231014T11:36:23Z | CVE-2023-44487 | Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487 | https://github.com/bcdannyboy/CVE-2023-44487 | | 
 | 20231014T09:17:41Z | cve-2023-22515 | Confluence Broken Access Control | https://github.com/Vulnmachines/confluence-cve-2023-22515 | | 
 | 20231014T05:29:44Z | CVE-2023-22515 | Confluence Data Center & Server 权限提升漏洞 Exploit | https://github.com/Le1a/CVE-2023-22515 | | 
@@ -35,7 +36,6 @@
 | 20231013T18:19:22Z | CVE-2023-43144 | Assets Management System 1.0 is vulnerable to SQL injection via the id parameter in delete.php | https://github.com/Pegasus0xx/CVE-2023-43144 | | 
 | 20231013T15:49:04Z | CVE-2022-44268 | Null | https://github.com/Vagebondcur/IMAGE-MAGICK-CVE-2022-44268 | | 
 | 20231013T15:38:38Z | CVE-2023-38146 | PoC for the ThemeBleed Windows 11 CVE-2023-38146 written in python using impacket | https://github.com/Jnnshschl/CVE-2023-38146 | | 
-| 20231013T14:39:52Z | CVE-2023-22515 | CVE-2023-22515 - Broken Access Control Vulnerability in Confluence Data Center and Server | https://github.com/kh4sh3i/CVE-2023-22515 | | 
 
 
 # klee on Github 推荐
