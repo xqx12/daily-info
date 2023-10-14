@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231014T00:38:26Z | Null | https://github.com/RiotDevelopment/LuffyExploits | 0 | 0| 
 | 20231013T23:41:37Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-jh | 1 | 0| 
 | 20231013T23:40:51Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-jh | 1 | 0| 
 | 20231013T23:40:07Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-jh | 1 | 0| 
@@ -77,7 +78,6 @@
 | 20231013T15:49:38Z | Research of ML multimodality | https://github.com/makcfd/exploiting-ml-multimodality | 0 | 0| 
 | 20231013T15:07:16Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 577 | 112| 
 | 20231013T14:05:44Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5419 | 1054| 
-| 20231013T12:45:42Z | Hood Hub is made for Roblox Exploiting with all the gui%s known! | https://github.com/yoboyghxst/Hood-Hub | 0 | 0| 
 
 
 # backdoor on Github 推荐
