@@ -64,6 +64,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231014T02:30:18Z | This repository contains the evaluation code for the NDSS 2024 paper: MPCDIFF: Testing and Repairing MPC-Hardened Deep Learning Models. | https://github.com/Qi-Pang/MPCDiff | 8 | 0| 
 
 
 # fuzz on Github 推荐
