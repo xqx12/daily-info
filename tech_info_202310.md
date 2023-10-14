@@ -123,6 +123,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231014T00:58:27Z | belajar fuzzy sukamoto | https://github.com/andhika7/fuzzy_sukamoto | 0 | 0| 
 | 20231014T00:07:14Z | A random fuzz generator for the RISC-V vector extension intrinsics | https://github.com/sifive/riscv-vector-intrinsic-fuzzing | 1 | 0| 
 | 20231013T22:47:13Z | Burp Extension: Fuzz the URL for HTTP parser inconsistencies | https://github.com/akenofu/URL_Fuzzer_401_403_Bypass | 0 | 0| 
 | 20231013T22:25:04Z | %Fuzz% Artificial General Intelligence - Would our new Overlords be benevolent ? - Ethical Vulnerabilities and more importantly Behavioral Analysis | https://github.com/xsankar/AGIFuzzer | 0 | 0| 
@@ -132,7 +133,6 @@
 | 20231013T17:28:00Z | macOS RootKit that can fuzz binaries/drivers, do kernel r/w, hook kernel and userspace functions, set custom breakpoints, GDB stub (in progress), match KDK kernels with DWARF debug symbols to release kernels, MachOs of all kinds, dyld shared caches, Objective C/Swift metadata,  dump libraries, library injection (e.g. cycript), and crawl iOS apps | https://github.com/YungRaj/MacRootKit | 7 | 0| 
 | 20231013T12:28:52Z | A simple script written in python to automate the process of website fuzzing | https://github.com/Rheno001/Automated-fuzzing-script | 0 | 0| 
 | 20231013T12:21:29Z | هندسه  | https://github.com/ahofit/fuzzy-barnacle | 0 | 0| 
-| 20231013T10:15:11Z | Null | https://github.com/Cassie620/fuzzy-enigma | 0 | 0| 
 
 
 
