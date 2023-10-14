@@ -45,12 +45,14 @@
 | 20231014T09:22:21Z | Null | https://github.com/Tshikomwa/ARTISANAUX-EXPLOITANTS-MINIERS-ID | 0 | 0| 
 | 20231014T08:18:52Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5927 | 520| 
 | 20231014T08:07:50Z | A high-performance ML model serving framework, offers dynamic batching and CPU/GPU pipelines to fully exploit your compute machine | https://github.com/mosecorg/mosec | 609 | 45| 
+| 20231014T03:07:34Z | Action: a way to force the victim%s phone to dial the number needed by the %information security researcher% on their own. The hacker can then  %pick up the phone% and eavesdrop on everything that happens near the target. | https://github.com/X-3306/Exploit-Mobile-Phone-SIM-Card-for-Eavesdropping | 1 | 0| 
 | 20231014T00:38:26Z | Null | https://github.com/RiotDevelopment/LuffyExploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231014T12:30:11Z | Make some Kids struggeling <3 | https://github.com/xer0xde/fivem-backdoor | 0 | 0| 
 | 20231014T10:40:49Z | Part II Project: Backdoors in Neural Networks | https://github.com/mxbi/backdoor | 0 | 0| 
 | 20231014T09:16:58Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 163 | 22| 
 | 20231014T08:12:54Z | 复现Backdoor Cleansing with Unlaveled Data，基于无标签数据的后门清理 | https://github.com/derivativek/BCU-recurrent | 0 | 0| 
