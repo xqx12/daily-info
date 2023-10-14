@@ -123,16 +123,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231013T22:47:13Z | Burp Extension: Fuzz the URL for HTTP parser inconsistencies | https://github.com/akenofu/URL_Fuzzer_401_403_Bypass | 0 | 0| 
+| 20231013T22:25:04Z | %Fuzz% Artificial General Intelligence - Would our new Overlords be benevolent ? - Ethical Vulnerabilities and more importantly Behavioral Analysis | https://github.com/xsankar/AGIFuzzer | 0 | 0| 
+| 20231013T21:37:10Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9089 | 2018| 
+| 20231013T21:30:32Z | Null | https://github.com/buggedf11/fuzzy-couscous | 0 | 0| 
+| 20231013T21:21:47Z | A random fuzz generator for the RISC-V vector extension intrinsics | https://github.com/sifive/riscv-vector-intrinsic-fuzzing | 0 | 0| 
+| 20231013T21:18:42Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 434 | 57| 
+| 20231013T17:28:00Z | macOS RootKit that can fuzz binaries/drivers, do kernel r/w, hook kernel and userspace functions, set custom breakpoints, GDB stub (in progress), match KDK kernels with DWARF debug symbols to release kernels, MachOs of all kinds, dyld shared caches, Objective C/Swift metadata,  dump libraries, library injection (e.g. cycript), and crawl iOS apps | https://github.com/YungRaj/MacRootKit | 7 | 0| 
 | 20231013T12:28:52Z | A simple script written in python to automate the process of website fuzzing | https://github.com/Rheno001/Automated-fuzzing-script | 0 | 0| 
 | 20231013T12:21:29Z | هندسه  | https://github.com/ahofit/fuzzy-barnacle | 0 | 0| 
-| 20231013T12:14:13Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9088 | 2018| 
 | 20231013T10:15:11Z | Null | https://github.com/Cassie620/fuzzy-enigma | 0 | 0| 
-| 20231013T10:05:43Z | Null | https://github.com/BoB-WebFuzzing/TestFuzzer-Python | 0 | 0| 
-| 20231013T06:47:44Z | Null | https://github.com/flyingsnake5254/ApkFuzz | 0 | 0| 
-| 20231013T04:45:16Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 613 | 76| 
-| 20231013T00:21:34Z | Null | https://github.com/narenp12/fuzzy-waddle | 0 | 0| 
-| 20231012T21:45:01Z | CATS is a REST API Fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and do not require maintenance. | https://github.com/Endava/cats | 999 | 68| 
-| 20231012T19:40:32Z | An online fraud detection system for credit card transactions using stratified random sampling to handle non-stationary changes and fuzzy logistic regression modelling. | https://github.com/GZanos/Online-Transaction-Fraud-Detection-with-Fuzzy-Logistic-Regression | 0 | 0| 
 
 
 
