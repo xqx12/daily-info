@@ -76,8 +76,8 @@
 | 20231013T22:07:25Z | Prevents exploiters from inserting instances inside of the CoreGui service. | https://github.com/0x2502/anti-coregui | 0 | 0| 
 | 20231013T15:49:38Z | Research of ML multimodality | https://github.com/makcfd/exploiting-ml-multimodality | 0 | 0| 
 | 20231013T15:07:16Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 577 | 112| 
+| 20231013T14:05:44Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5419 | 1054| 
 | 20231013T12:45:42Z | Hood Hub is made for Roblox Exploiting with all the gui%s known! | https://github.com/yoboyghxst/Hood-Hub | 0 | 0| 
-| 20231013T12:02:17Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5394 | 698| 
 
 
 # backdoor on Github 推荐
