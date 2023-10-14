@@ -74,9 +74,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231014T12:36:48Z | A fuzzer for multi-objective MaxSAT. | https://github.com/chrjabs/fazer | 0 | 0| 
 | 20231014T11:26:48Z | Null | https://github.com/kody234/fuzzy-giggle | 0 | 0| 
 | 20231014T11:11:42Z | This project is purely for educational purpose and only expermental right now | https://github.com/iadityanath8/FuzzJs | 4 | 0| 
-| 20231014T11:01:03Z | A fuzzer for multi-objective MaxSAT. | https://github.com/chrjabs/fazer | 0 | 0| 
 | 20231014T10:56:27Z | Implementasi Fuzzy Logic Metode Mamdani dalam Perancangan Sistem Peringatan Status Drop Out Mahasiswa Otomatis | https://github.com/viragohuegah/Fuzzy-Logic-Mamdani | 0 | 0| 
 | 20231014T10:15:49Z | use fuzz 2 fix yearly code   | https://github.com/willshion/fuzz2commit | 0 | 0| 
 | 20231014T08:48:22Z | Null | https://github.com/oscpname/AD_fuzzy_PowersShell | 0 | 0| 
