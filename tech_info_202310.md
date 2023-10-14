@@ -68,12 +68,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231014T12:35:16Z | the hacker sends a binary SMS to the target%s phone.  The SMS contains a special payload executed by the operating system of the phone%s SIM card | https://github.com/X-3306/Exploit-Mobile-Phone-SIM-Card-for-Eavesdropping | 1 | 0| 
 | 20231014T12:06:57Z | Defcon Arsenal Tools (DArT) is a curation of tools presented at DEF CON, the world%s largest hacker con. | https://github.com/DefconParrot/DefconArsenalTools | 11 | 2| 
 | 20231014T09:56:29Z | Code for EMNLP2023 “Multi-Source Multi-Type Knowledge Exploration and Exploitation for Dialogue Generation” | https://github.com/Patrick-Ni/KnowEE | 0 | 0| 
 | 20231014T09:22:21Z | Null | https://github.com/Tshikomwa/ARTISANAUX-EXPLOITANTS-MINIERS-ID | 0 | 0| 
 | 20231014T08:18:52Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5927 | 520| 
 | 20231014T08:07:50Z | A high-performance ML model serving framework, offers dynamic batching and CPU/GPU pipelines to fully exploit your compute machine | https://github.com/mosecorg/mosec | 609 | 45| 
-| 20231014T03:07:34Z | Action: a way to force the victim%s phone to dial the number needed by the %information security researcher% on their own. The hacker can then  %pick up the phone% and eavesdrop on everything that happens near the target. | https://github.com/X-3306/Exploit-Mobile-Phone-SIM-Card-for-Eavesdropping | 1 | 0| 
 | 20231014T00:38:26Z | Null | https://github.com/RiotDevelopment/LuffyExploits | 0 | 0| 
 | 20231013T23:41:37Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-jh | 1 | 0| 
 | 20231013T23:40:51Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-jh | 1 | 0| 
