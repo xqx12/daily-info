@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231014T12:06:57Z | Defcon Arsenal Tools (DArT) is a curation of tools presented at DEF CON, the world%s largest hacker con. | https://github.com/DefconParrot/DefconArsenalTools | 11 | 2| 
 | 20231014T09:56:29Z | Code for EMNLP2023 “Multi-Source Multi-Type Knowledge Exploration and Exploitation for Dialogue Generation” | https://github.com/Patrick-Ni/KnowEE | 0 | 0| 
 | 20231014T09:22:21Z | Null | https://github.com/Tshikomwa/ARTISANAUX-EXPLOITANTS-MINIERS-ID | 0 | 0| 
 | 20231014T08:18:52Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5927 | 520| 
@@ -77,7 +78,6 @@
 | 20231013T23:40:51Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-jh | 1 | 0| 
 | 20231013T23:40:07Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-jh | 1 | 0| 
 | 20231013T23:39:24Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-jh | 1 | 0| 
-| 20231013T23:01:35Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 158 | 22| 
 
 
 # backdoor on Github 推荐
