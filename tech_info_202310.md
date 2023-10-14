@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231013T23:06:33Z | CVE-2023-44487 | Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487 | https://github.com/bcdannyboy/CVE-2023-44487 | | 
+| 20231014T00:19:10Z | CVE-2023-44487 | Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487 | https://github.com/bcdannyboy/CVE-2023-44487 | | 
 | 20231013T18:19:22Z | CVE-2023-43144 | Assets Management System 1.0 is vulnerable to SQL injection via the id parameter in delete.php | https://github.com/Pegasus0xx/CVE-2023-43144 | | 
 | 20231013T15:49:04Z | CVE-2022-44268 | Null | https://github.com/Vagebondcur/IMAGE-MAGICK-CVE-2022-44268 | | 
 | 20231013T15:38:38Z | CVE-2023-38146 | PoC for the ThemeBleed Windows 11 CVE-2023-38146 written in python using impacket | https://github.com/Jnnshschl/CVE-2023-38146 | | 
