@@ -40,7 +40,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231014T12:46:21Z | Am I exploiting GitHub pages? Probably. | https://github.com/GameDesert/leadershipassessments | 0 | 0| 
+| 20231014T12:48:16Z | Am I exploiting GitHub pages? Probably. | https://github.com/GameDesert/leadershipassessments | 0 | 0| 
 | 20231014T12:36:53Z | the hacker sends a binary SMS to the target%s phone.  The SMS contains a special payload executed by the operating system of the phone%s SIM card | https://github.com/X-3306/Exploit-Mobile-Phone-SIM-Card-for-Eavesdropping | 2 | 0| 
 | 20231014T12:06:57Z | Defcon Arsenal Tools (DArT) is a curation of tools presented at DEF CON, the world%s largest hacker con. | https://github.com/DefconParrot/DefconArsenalTools | 11 | 2| 
 | 20231014T09:56:29Z | Code for EMNLP2023 “Multi-Source Multi-Type Knowledge Exploration and Exploitation for Dialogue Generation” | https://github.com/Patrick-Ni/KnowEE | 0 | 0| 
@@ -75,6 +75,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231014T12:49:41Z | Combinatorial block designs with fuzzy block sets | https://github.com/sraaphorst/fuzzy-designs | 0 | 0| 
 | 20231014T12:36:48Z | A fuzzer for multi-objective MaxSAT. | https://github.com/chrjabs/fazer | 0 | 0| 
 | 20231014T11:26:48Z | Null | https://github.com/kody234/fuzzy-giggle | 0 | 0| 
 | 20231014T11:11:42Z | This project is purely for educational purpose and only expermental right now | https://github.com/iadityanath8/FuzzJs | 4 | 0| 
