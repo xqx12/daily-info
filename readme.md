@@ -95,7 +95,7 @@
 | 20231013T22:25:04Z | %Fuzz% Artificial General Intelligence - Would our new Overlords be benevolent ? - Ethical Vulnerabilities and more importantly Behavioral Analysis | https://github.com/xsankar/AGIFuzzer | 0 | 0| 
 | 20231013T21:37:10Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9089 | 2018| 
 | 20231013T21:30:32Z | Null | https://github.com/buggedf11/fuzzy-couscous | 0 | 0| 
-| 20231013T21:18:42Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 434 | 57| 
+| 20231013T21:18:42Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 434 | 58| 
 | 20231013T17:28:00Z | macOS RootKit that can fuzz binaries/drivers, do kernel r/w, hook kernel and userspace functions, set custom breakpoints, GDB stub (in progress), match KDK kernels with DWARF debug symbols to release kernels, MachOs of all kinds, dyld shared caches, Objective C/Swift metadata,  dump libraries, library injection (e.g. cycript), and crawl iOS apps | https://github.com/YungRaj/MacRootKit | 7 | 0| 
 | 20231013T12:28:52Z | A simple script written in python to automate the process of website fuzzing | https://github.com/Rheno001/Automated-fuzzing-script | 0 | 0| 
 | 20231013T12:21:29Z | هندسه  | https://github.com/ahofit/fuzzy-barnacle | 0 | 0| 
