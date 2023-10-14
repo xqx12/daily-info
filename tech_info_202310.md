@@ -123,7 +123,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231014T00:58:27Z | belajar fuzzy sukamoto | https://github.com/andhika7/fuzzy_sukamoto | 0 | 0| 
+| 20231014T01:18:45Z | belajar fuzzy sukamoto | https://github.com/andhika7/fuzzy_sukamoto | 0 | 0| 
 | 20231014T00:07:14Z | A random fuzz generator for the RISC-V vector extension intrinsics | https://github.com/sifive/riscv-vector-intrinsic-fuzzing | 1 | 0| 
 | 20231013T22:47:13Z | Burp Extension: Fuzz the URL for HTTP parser inconsistencies | https://github.com/akenofu/URL_Fuzzer_401_403_Bypass | 0 | 0| 
 | 20231013T22:25:04Z | %Fuzz% Artificial General Intelligence - Would our new Overlords be benevolent ? - Ethical Vulnerabilities and more importantly Behavioral Analysis | https://github.com/xsankar/AGIFuzzer | 0 | 0| 
