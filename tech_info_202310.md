@@ -83,7 +83,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231013T23:01:35Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 158 | 22| 
+| 20231014T01:06:53Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 159 | 22| 
 | 20231013T19:24:11Z | shell backdoor bypass 403 all server | https://github.com/xploit337haxor/shell-backdoor | 0 | 0| 
 | 20231013T16:35:05Z |  Yuki Priv8 Shell Backdoor  | https://github.com/DomathID/yukipriv8-shell | 0 | 0| 
 | 20231013T15:35:35Z | Minecraft backdoor | https://github.com/MrSugar08/Astrum | 0 | 0| 
