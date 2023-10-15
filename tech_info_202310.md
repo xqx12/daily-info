@@ -69,6 +69,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231015T00:25:33Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-nk | 0 | 0| 
+| 20231015T00:24:58Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-nk | 1 | 0| 
 | 20231015T00:24:19Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-nk | 1 | 0| 
 | 20231015T00:23:32Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANnk | 1 | 0| 
 | 20231015T00:14:20Z | Office Macro Exploit Builder 🚀 Opensource & Free Excel Word Macro Exploit Builder - Oneclick Silent Macro Exploit Docx Excel Word Pdf Macro Exploit Xls Word Macro Exploit Excel Macro Exploit Oneclick Silent Macro Exploit Docx Excel Word Pdf Macro Exploit Xls Word Macro Exploit Excel Macro Exploit | https://github.com/futurisfticgorila/doc-macro-exploit | 1 | 253| 
@@ -77,8 +79,6 @@
 | 20231014T22:24:14Z | Null | https://github.com/Xglitchgaming1X/Roblox-exploit | 0 | 0| 
 | 20231014T22:07:31Z | package commonly used by web services to process Exploit JPG File. One of the vulnerabilities can lead to remote code execution (RCE) if you process user submitted JPG. The exploit for this vulnerability is being used in the wild.Why Are You Disclosing A Exploit JPG  | https://github.com/GameProfOrg/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | 0 | 0| 
 | 20231014T22:06:45Z | Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s File grabber (Documents, Images, Source codes, Databases, USB) | https://github.com/GameProfOrg/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | 0 | 0| 
-| 20231014T22:05:55Z | One of the most complex tasks for the cyber security expert is to ensure their malicious code goes detected by antivirus and achieves its goal. For this, they have invested a lot on more complex infection processes, going beyond the traditional Exploit PDF and using techniques where the malicious payload is hidden in encrypted  | https://github.com/GameProfOrg/Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve | 0 | 0| 
-| 20231014T22:05:10Z | Microsoft Windows HTA (HTML Application) - Remote Code Execution | https://github.com/GameProfOrg/Hta-Exploit-Downloader-Malware-Builder | 0 | 0| 
 
 
 # backdoor on Github 推荐
