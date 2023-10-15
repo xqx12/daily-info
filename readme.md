@@ -46,7 +46,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20231014T23:55:41Z | embed exploit warning | https://github.com/ripoffuser/embedexploitwarning | 0 | 0| 
-| 20231014T22:37:29Z | Office Macro Exploit Builder 🚀 Opensource & Free Excel Word Macro Exploit Builder - Oneclick Silent Macro Exploit Docx Excel Word Pdf Macro Exploit Xls Word Macro Exploit Excel Macro Exploit Oneclick Silent Macro Exploit Docx Excel Word Pdf Macro Exploit Xls Word Macro Exploit Excel Macro Exploit | https://github.com/futurisfticgorila/doc-macro-exploit | 0 | 253| 
 | 20231014T22:30:14Z | PS4 , PS5 Jailbreak for all exploitable firmwares | https://github.com/GamerHack/GamerHack.github.io | 31 | 22| 
 | 20231014T22:24:14Z | Null | https://github.com/Xglitchgaming1X/Roblox-exploit | 0 | 0| 
 | 20231014T22:07:31Z | package commonly used by web services to process Exploit JPG File. One of the vulnerabilities can lead to remote code execution (RCE) if you process user submitted JPG. The exploit for this vulnerability is being used in the wild.Why Are You Disclosing A Exploit JPG  | https://github.com/GameProfOrg/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | 0 | 0| 
@@ -55,6 +54,7 @@
 | 20231014T22:05:10Z | Microsoft Windows HTA (HTML Application) - Remote Code Execution | https://github.com/GameProfOrg/Hta-Exploit-Downloader-Malware-Builder | 0 | 0| 
 | 20231014T22:04:49Z | URL Infection (Silent Java Drive By) URL Infection Exploit Silent Java Drive by downloads may happen when visiting a site, opening an e-mail message. It may even happen by clicking on a malicious pop-up window: by clicking on the window in the belief that it concerns an error report from the computer’s OS, for example. | https://github.com/GameProfOrg/Slient-Url-Exploit-New-Cve-Chrome-Exploit-Html-Downloader-Put-Your-Link | 0 | 0| 
 | 20231014T19:19:36Z | Wireless Network Cracker, Payload Generator and Exploit Development Framework | https://github.com/Latrodect/EATER-offensive-security-frameowork | 0 | 0| 
+| 20231014T12:48:16Z | Am I exploiting GitHub pages? Probably. | https://github.com/GameDesert/leadershipassessments | 0 | 0| 
 
 
 # backdoor on Github 推荐
