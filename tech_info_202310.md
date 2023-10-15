@@ -69,6 +69,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231015T00:24:19Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-nk | 1 | 0| 
+| 20231015T00:23:32Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANnk | 1 | 0| 
 | 20231015T00:14:20Z | Office Macro Exploit Builder 🚀 Opensource & Free Excel Word Macro Exploit Builder - Oneclick Silent Macro Exploit Docx Excel Word Pdf Macro Exploit Xls Word Macro Exploit Excel Macro Exploit Oneclick Silent Macro Exploit Docx Excel Word Pdf Macro Exploit Xls Word Macro Exploit Excel Macro Exploit | https://github.com/futurisfticgorila/doc-macro-exploit | 1 | 253| 
 | 20231014T23:55:41Z | embed exploit warning | https://github.com/ripoffuser/embedexploitwarning | 0 | 0| 
 | 20231014T22:30:14Z | PS4 , PS5 Jailbreak for all exploitable firmwares | https://github.com/GamerHack/GamerHack.github.io | 31 | 22| 
@@ -77,13 +79,12 @@
 | 20231014T22:06:45Z | Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s File grabber (Documents, Images, Source codes, Databases, USB) | https://github.com/GameProfOrg/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | 0 | 0| 
 | 20231014T22:05:55Z | One of the most complex tasks for the cyber security expert is to ensure their malicious code goes detected by antivirus and achieves its goal. For this, they have invested a lot on more complex infection processes, going beyond the traditional Exploit PDF and using techniques where the malicious payload is hidden in encrypted  | https://github.com/GameProfOrg/Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve | 0 | 0| 
 | 20231014T22:05:10Z | Microsoft Windows HTA (HTML Application) - Remote Code Execution | https://github.com/GameProfOrg/Hta-Exploit-Downloader-Malware-Builder | 0 | 0| 
-| 20231014T22:04:49Z | URL Infection (Silent Java Drive By) URL Infection Exploit Silent Java Drive by downloads may happen when visiting a site, opening an e-mail message. It may even happen by clicking on a malicious pop-up window: by clicking on the window in the belief that it concerns an error report from the computer’s OS, for example. | https://github.com/GameProfOrg/Slient-Url-Exploit-New-Cve-Chrome-Exploit-Html-Downloader-Put-Your-Link | 0 | 0| 
-| 20231014T19:19:36Z | Wireless Network Cracker, Payload Generator and Exploit Development Framework | https://github.com/Latrodect/EATER-offensive-security-frameowork | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231015T00:22:34Z | A Discord Bot for Backdoors and Breaches. Pre-Alpha State Is Not Fully Functional | https://github.com/simeononsecurity/discord-backdoors-and-breaches | 6 | 2| 
 | 20231014T16:37:53Z | Null | https://github.com/TheMisterPin/BackdoorButique | 0 | 0| 
 | 20231014T15:33:01Z | backdoor exploit for vsftpd 2.3.4 on python | https://github.com/vinetsuicide/vsftpd-2.3.4-exploit | 0 | 0| 
 | 20231014T12:30:11Z | Make some Kids struggeling <3 | https://github.com/xer0xde/fivem-backdoor | 0 | 0| 
@@ -93,7 +94,6 @@
 | 20231014T07:50:16Z | Autonomous pre-boot DMA attack hardware implant for M.2 slot based on PicoEVB development board | https://github.com/Cr4sh/pico_dma | 12 | 3| 
 | 20231014T03:28:55Z | Null | https://github.com/jeongjin-shin/OGA-backdoor | 0 | 0| 
 | 20231013T19:24:11Z | shell backdoor bypass 403 all server | https://github.com/xploit337haxor/shell-backdoor | 0 | 0| 
-| 20231013T16:35:05Z |  Yuki Priv8 Shell Backdoor  | https://github.com/DomathID/yukipriv8-shell | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -125,6 +125,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231015T00:24:10Z | Null | https://github.com/Guilherme19830/fuzzy-garbanzo | 0 | 0| 
 | 20231014T23:33:03Z | Null | https://github.com/moskalyk/fuzzy-data | 0 | 0| 
 | 20231014T23:23:12Z | Null | https://github.com/AkshithByju/fuzzy-fiesta | 0 | 0| 
 | 20231014T19:53:35Z | Null | https://github.com/fridgebuyer/FieldFuzz-Ghost | 0 | 0| 
@@ -134,7 +135,6 @@
 | 20231014T12:49:41Z | Combinatorial block designs with fuzzy block sets | https://github.com/sraaphorst/fuzzy-designs | 0 | 0| 
 | 20231014T12:36:48Z | A fuzzer for multi-objective MaxSAT. | https://github.com/chrjabs/fazer | 0 | 0| 
 | 20231014T11:26:48Z | Null | https://github.com/kody234/fuzzy-giggle | 0 | 0| 
-| 20231014T11:11:42Z | This project is purely for educational purpose and only expermental right now | https://github.com/iadityanath8/FuzzJs | 4 | 0| 
 
 
 
