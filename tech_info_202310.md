@@ -69,6 +69,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231015T01:48:32Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0067-app-H0yh5-wonder-exploit | 0 | 0| 
 | 20231015T01:34:10Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0028-app-k27TR-shoot-exploit | 0 | 0| 
 | 20231015T01:29:38Z | Exploit script for Pre-Auth RCE in Metabase (CVE-2023-38646) | https://github.com/Pyr0sec/CVE-2023-38646 | 0 | 0| 
 | 20231015T00:25:39Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-nk | 1 | 0| 
@@ -78,7 +79,6 @@
 | 20231015T00:14:20Z | Office Macro Exploit Builder 🚀 Opensource & Free Excel Word Macro Exploit Builder - Oneclick Silent Macro Exploit Docx Excel Word Pdf Macro Exploit Xls Word Macro Exploit Excel Macro Exploit Oneclick Silent Macro Exploit Docx Excel Word Pdf Macro Exploit Xls Word Macro Exploit Excel Macro Exploit | https://github.com/futurisfticgorila/doc-macro-exploit | 1 | 253| 
 | 20231014T23:55:41Z | embed exploit warning | https://github.com/ripoffuser/embedexploitwarning | 0 | 0| 
 | 20231014T22:30:14Z | PS4 , PS5 Jailbreak for all exploitable firmwares | https://github.com/GamerHack/GamerHack.github.io | 31 | 22| 
-| 20231014T22:24:14Z | Null | https://github.com/Xglitchgaming1X/Roblox-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -89,7 +89,7 @@
 | 20231014T15:33:01Z | backdoor exploit for vsftpd 2.3.4 on python | https://github.com/vinetsuicide/vsftpd-2.3.4-exploit | 0 | 0| 
 | 20231014T12:30:11Z | Make some Kids struggeling <3 | https://github.com/xer0xde/fivem-backdoor | 0 | 0| 
 | 20231014T10:40:49Z | Part II Project: Backdoors in Neural Networks | https://github.com/mxbi/backdoor | 0 | 0| 
-| 20231014T09:16:58Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 163 | 22| 
+| 20231014T09:16:58Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 163 | 23| 
 | 20231014T08:12:54Z | 复现Backdoor Cleansing with Unlaveled Data，基于无标签数据的后门清理 | https://github.com/derivativek/BCU-recurrent | 0 | 0| 
 | 20231014T07:50:16Z | Autonomous pre-boot DMA attack hardware implant for M.2 slot based on PicoEVB development board | https://github.com/Cr4sh/pico_dma | 12 | 3| 
 | 20231014T03:28:55Z | Null | https://github.com/jeongjin-shin/OGA-backdoor | 0 | 0| 

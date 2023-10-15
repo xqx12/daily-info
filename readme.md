@@ -64,7 +64,7 @@
 | 20231014T15:33:01Z | backdoor exploit for vsftpd 2.3.4 on python | https://github.com/vinetsuicide/vsftpd-2.3.4-exploit | 0 | 0| 
 | 20231014T12:30:11Z | Make some Kids struggeling <3 | https://github.com/xer0xde/fivem-backdoor | 0 | 0| 
 | 20231014T10:40:49Z | Part II Project: Backdoors in Neural Networks | https://github.com/mxbi/backdoor | 0 | 0| 
-| 20231014T09:16:58Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 163 | 22| 
+| 20231014T09:16:58Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 163 | 23| 
 | 20231014T08:12:54Z | 复现Backdoor Cleansing with Unlaveled Data，基于无标签数据的后门清理 | https://github.com/derivativek/BCU-recurrent | 0 | 0| 
 | 20231014T07:50:16Z | Autonomous pre-boot DMA attack hardware implant for M.2 slot based on PicoEVB development board | https://github.com/Cr4sh/pico_dma | 12 | 3| 
 | 20231014T03:28:55Z | Null | https://github.com/jeongjin-shin/OGA-backdoor | 0 | 0| 
