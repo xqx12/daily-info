@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231015T01:57:26Z | CVE-2023-45603 | Mass Exploit - CVE-2023-45603 - Wordpress/plugin/user-submitted-posts < Unauthenticated Arbitrary File Upload/Exploit  | https://github.com/codeb0ss/CVE-2023-45603-PoC | | 
 | 20231015T01:51:34Z | CVE-2023-38646 | Exploit script for Pre-Auth RCE in Metabase (CVE-2023-38646) | https://github.com/Pyr0sec/CVE-2023-38646 | | 
 | 20231015T01:28:25Z | CVE-2022-38694 | User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20231015T00:18:57Z | CVE-2023-44487 | Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487 | https://github.com/bcdannyboy/CVE-2023-44487 | | 
@@ -35,7 +36,6 @@
 | 20231014T18:49:41Z | CVE-2023-22515 | CVE-2023-22515 - Broken Access Control Vulnerability in Confluence Data Center and Server | https://github.com/kh4sh3i/CVE-2023-22515 | | 
 | 20231014T16:46:59Z | CVE-2023-45471 | Null | https://github.com/itsAptx/CVE-2023-45471 | | 
 | 20231014T15:57:18Z | CVE-2023-38646 | Null | https://github.com/asepsaepdin/CVE-2023-38646 | | 
-| 20231014T13:50:33Z | CVE-2023-44487 | Proof of concept for DoS exploit  | https://github.com/imabee101/CVE-2023-44487 | | 
 
 
 # klee on Github 推荐
@@ -69,6 +69,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231015T01:57:26Z | Mass Exploit - CVE-2023-45603 - Wordpress/plugin/user-submitted-posts < Unauthenticated Arbitrary File Upload/Exploit  | https://github.com/codeb0ss/CVE-2023-45603-PoC | 0 | 0| 
 | 20231015T01:51:34Z | Exploit script for Pre-Auth RCE in Metabase (CVE-2023-38646) | https://github.com/Pyr0sec/CVE-2023-38646 | 0 | 0| 
 | 20231015T01:48:32Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0067-app-H0yh5-wonder-exploit | 0 | 0| 
 | 20231015T01:34:10Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0028-app-k27TR-shoot-exploit | 0 | 0| 
@@ -78,7 +79,6 @@
 | 20231015T00:23:32Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANnk | 1 | 0| 
 | 20231015T00:14:20Z | Office Macro Exploit Builder 🚀 Opensource & Free Excel Word Macro Exploit Builder - Oneclick Silent Macro Exploit Docx Excel Word Pdf Macro Exploit Xls Word Macro Exploit Excel Macro Exploit Oneclick Silent Macro Exploit Docx Excel Word Pdf Macro Exploit Xls Word Macro Exploit Excel Macro Exploit | https://github.com/futurisfticgorila/doc-macro-exploit | 1 | 253| 
 | 20231015T00:02:23Z | Security testing guide with practical solutions and real-world vulnerability examples | https://github.com/CaledoniaProject/common-bugs-uncommon-exploits | 1 | 0| 
-| 20231014T23:55:41Z | embed exploit warning | https://github.com/ripoffuser/embedexploitwarning | 0 | 0| 
 
 
 # backdoor on Github 推荐
