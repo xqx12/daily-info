@@ -21,11 +21,11 @@
 | 20231014T18:59:35Z | CVE-2023-3710 | exploit for CVE-2023-3710 | https://github.com/CwEeR313/CVE-2023-3710 | | 
 | 20231014T18:49:41Z | CVE-2023-22515 | CVE-2023-22515 - Broken Access Control Vulnerability in Confluence Data Center and Server | https://github.com/kh4sh3i/CVE-2023-22515 | | 
 | 20231014T16:46:59Z | CVE-2023-45471 | Null | https://github.com/itsAptx/CVE-2023-45471 | | 
-| 20231014T16:03:27Z | CVE-2023-44487 | Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487 | https://github.com/bcdannyboy/CVE-2023-44487 | | 
 | 20231014T15:57:18Z | CVE-2023-38646 | Null | https://github.com/asepsaepdin/CVE-2023-38646 | | 
 | 20231014T13:50:33Z | CVE-2023-44487 | Proof of concept for DoS exploit  | https://github.com/imabee101/CVE-2023-44487 | | 
 | 20231014T13:35:12Z | CVE-2023-38146 | PoC for the ThemeBleed Windows 11 CVE-2023-38146 written in python using impacket | https://github.com/Jnnshschl/CVE-2023-38146 | | 
 | 20231014T12:18:15Z | CVE-2023-3710 | Null | https://github.com/Mahdi22228/CVE-2023-3710 | | 
+| 20231014T09:17:41Z | cve-2023-22515 | Confluence Broken Access Control | https://github.com/Vulnmachines/confluence-cve-2023-22515 | | 
 
 
 # klee on Github 推荐
