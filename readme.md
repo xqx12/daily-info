@@ -36,7 +36,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231015T12:25:32Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 278 | 53| 
+| 20231015T12:25:32Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 278 | 54| 
 | 20231015T11:04:15Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14027 | 424| 
 | 20231015T06:53:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2335 | 637| 
 
