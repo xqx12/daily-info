@@ -69,6 +69,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231015T01:34:10Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0028-app-k27TR-shoot-exploit | 0 | 0| 
 | 20231015T01:29:38Z | Exploit script for Pre-Auth RCE in Metabase (CVE-2023-38646) | https://github.com/Pyr0sec/CVE-2023-38646 | 0 | 0| 
 | 20231015T00:25:39Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-nk | 1 | 0| 
 | 20231015T00:24:58Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-nk | 1 | 0| 
@@ -78,7 +79,6 @@
 | 20231014T23:55:41Z | embed exploit warning | https://github.com/ripoffuser/embedexploitwarning | 0 | 0| 
 | 20231014T22:30:14Z | PS4 , PS5 Jailbreak for all exploitable firmwares | https://github.com/GamerHack/GamerHack.github.io | 31 | 22| 
 | 20231014T22:24:14Z | Null | https://github.com/Xglitchgaming1X/Roblox-exploit | 0 | 0| 
-| 20231014T22:07:31Z | package commonly used by web services to process Exploit JPG File. One of the vulnerabilities can lead to remote code execution (RCE) if you process user submitted JPG. The exploit for this vulnerability is being used in the wild.Why Are You Disclosing A Exploit JPG  | https://github.com/GameProfOrg/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | 0 | 0| 
 
 
 # backdoor on Github 推荐
