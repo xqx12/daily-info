@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231015T01:28:25Z | CVE-2022-38694 | User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20231015T00:18:57Z | CVE-2023-44487 | Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487 | https://github.com/bcdannyboy/CVE-2023-44487 | | 
 | 20231014T22:07:31Z | 未知编号 | package commonly used by web services to process Exploit JPG File. One of the vulnerabilities can lead to remote code execution (RCE) if you process user submitted JPG. The exploit for this vulnerability is being used in the wild.Why Are You Disclosing A Exploit JPG  | https://github.com/GameProfOrg/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
 | 20231014T22:06:45Z | 未知编号 | Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s File grabber (Documents, Images, Source codes, Databases, USB) | https://github.com/GameProfOrg/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
@@ -35,7 +36,6 @@
 | 20231014T15:57:18Z | CVE-2023-38646 | Null | https://github.com/asepsaepdin/CVE-2023-38646 | | 
 | 20231014T13:50:33Z | CVE-2023-44487 | Proof of concept for DoS exploit  | https://github.com/imabee101/CVE-2023-44487 | | 
 | 20231014T13:35:12Z | CVE-2023-38146 | PoC for the ThemeBleed Windows 11 CVE-2023-38146 written in python using impacket | https://github.com/Jnnshschl/CVE-2023-38146 | | 
-| 20231014T12:18:15Z | CVE-2023-3710 | Null | https://github.com/Mahdi22228/CVE-2023-3710 | | 
 
 
 # klee on Github 推荐
