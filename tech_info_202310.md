@@ -70,6 +70,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231016T01:58:13Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0041-app-75gfF-exploit-secure | 0 | 0| 
 | 20231016T01:33:58Z | Null | https://github.com/saxenamansi/ReinforcementLearning-Exploration-Exploitation | 0 | 0| 
 | 20231016T01:32:31Z | Python3 version of the Python2 exploit for CVE-2019-9053 | https://github.com/Doc0x1/CVE-2019-9053-Python3 | 0 | 0| 
 | 20231016T01:30:50Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 576 | 112| 
@@ -79,7 +80,6 @@
 | 20231016T01:12:55Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0063-app-tfrcZ-exploit-shift | 0 | 0| 
 | 20231016T00:55:10Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0036-app-sBmuD-trust-exploit | 0 | 0| 
 | 20231016T00:45:46Z | Null | https://github.com/owenhiggins/Zero-Day-Exploit-Prediction-through-Anomaly-Detection-for-Network-Intrusion-Detection-Systems | 0 | 0| 
-| 20231016T00:16:59Z | an exploit repo | https://github.com/ZeroDayRNA/fake_repo | 0 | 0| 
 
 
 # backdoor on Github 推荐
