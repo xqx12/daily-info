@@ -22,7 +22,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231015T22:59:56Z | CVE-2023-41993 | Null | https://github.com/po6ix/POC-for-CVE-2023-41993 | | 
 | 20231015T22:41:33Z | CVE-2023-22515 | CVE-2023-22515: Confluence Broken Access Control Exploit | https://github.com/Chocapikk/CVE-2023-22515 | | 
 | 20231015T15:30:53Z | CVE-2023-23752 | Mass CVE-2023-23752 scanner | https://github.com/k0valskia/CVE-2023-23752 | | 
 | 20231015T14:55:13Z | CVE-2023-24517 | Null | https://github.com/Argonx21/CVE-2023-24517 | | 
@@ -32,6 +31,7 @@
 | 20231015T09:18:18Z | CVE-2023-27997 | Null | https://github.com/m474r5/CVE-2023-27997-POC | | 
 | 20231015T06:11:06Z | CVE-2023-38646 | POC for CVE-2023-38646 | https://github.com/securezeron/CVE-2023-38646 | | 
 | 20231015T04:21:40Z | CVE-2022-38694 | User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
+| 20231015T01:51:34Z | CVE-2023-38646 | Exploit script for Pre-Auth RCE in Metabase (CVE-2023-38646) | https://github.com/Pyr0sec/CVE-2023-38646 | | 
 
 
 # klee on Github 推荐
