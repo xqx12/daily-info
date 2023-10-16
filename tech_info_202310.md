@@ -126,6 +126,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231016T12:46:48Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST, GraphQL and RPC (e.g., gRPC and Thrift). | https://github.com/EMResearch/EvoMaster | 370 | 68| 
 | 20231016T12:09:30Z | Sistema de classificação Fuzzy desenvolvido para o meu TCC, Do curso de Sistemas de Informação  | https://github.com/BarrettoDev/Sistema-de-Classifica-o-Fuzzy-Complexidade-das-Atividades-Avaliativas | 0 | 0| 
 | 20231016T12:00:45Z | Null | https://github.com/St-Linda/fuzzy-tribble | 0 | 0| 
 | 20231016T11:46:30Z | Null | https://github.com/christos-eth/rust-smart-contract-fuzzer | 0 | 0| 
@@ -135,7 +136,6 @@
 | 20231016T09:43:47Z | Null | https://github.com/ttverd50/fuzzy-spork | 0 | 0| 
 | 20231016T09:19:03Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 863 | 117| 
 | 20231016T07:20:50Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9096 | 2018| 
-| 20231016T00:52:54Z | Null | https://github.com/bungdanar/nodejs-rest-fuzzing | 0 | 0| 
 
 
 
