@@ -75,11 +75,11 @@
 | 20231016T09:51:41Z | Null | https://github.com/yxl2001/Sqlite3_Loading_Extension_exploit | 0 | 0| 
 | 20231016T09:50:56Z | Null | https://github.com/sinistergeek/Pentestlab-exploit | 0 | 0| 
 | 20231016T09:42:08Z | The implemenetation code and datasets for WWW24 submission: Transaction Transformer: Exploiting Internal Transactions for Graph Classification on Ethereum Blockchain | https://github.com/TransactionTransformer/TransactionTransformer | 0 | 0| 
+| 20231016T03:24:33Z | Sticky notes for pentesting, bug bounty, CTF. | https://github.com/hideckies/exploit-notes | 402 | 89| 
 | 20231016T03:13:56Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 744 | 179| 
 | 20231016T01:58:13Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0041-app-75gfF-exploit-secure | 0 | 0| 
 | 20231016T01:33:58Z | Null | https://github.com/saxenamansi/ReinforcementLearning-Exploration-Exploitation | 0 | 0| 
 | 20231016T01:32:31Z | Python3 version of the Python2 exploit for CVE-2019-9053 | https://github.com/Doc0x1/CVE-2019-9053-Python3 | 0 | 0| 
-| 20231016T01:30:50Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 576 | 112| 
 
 
 # backdoor on Github 推荐
