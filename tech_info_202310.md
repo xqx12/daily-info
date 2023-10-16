@@ -70,16 +70,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231016T01:33:58Z | Null | https://github.com/saxenamansi/ReinforcementLearning-Exploration-Exploitation | 0 | 0| 
+| 20231016T01:32:31Z | Python3 version of the Python2 exploit for CVE-2019-9053 | https://github.com/Doc0x1/CVE-2019-9053-Python3 | 0 | 0| 
 | 20231016T01:30:50Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 576 | 112| 
 | 20231016T01:19:52Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0041-app-Dm91T-exploit-come | 0 | 0| 
 | 20231016T01:19:51Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0027-app-lWgRl-demonstrate-exploit | 0 | 0| 
-| 20231016T01:18:03Z | Null | https://github.com/saxenamansi/ReinforcementLearning-Exploration-Exploitation | 0 | 0| 
 | 20231016T01:14:35Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0066-app-DituY-include-exploit | 0 | 0| 
 | 20231016T01:12:55Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0063-app-tfrcZ-exploit-shift | 0 | 0| 
 | 20231016T00:55:10Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0036-app-sBmuD-trust-exploit | 0 | 0| 
 | 20231016T00:45:46Z | Null | https://github.com/owenhiggins/Zero-Day-Exploit-Prediction-through-Anomaly-Detection-for-Network-Intrusion-Detection-Systems | 0 | 0| 
 | 20231016T00:16:59Z | an exploit repo | https://github.com/ZeroDayRNA/fake_repo | 0 | 0| 
-| 20231016T00:10:04Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWux | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -126,6 +126,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231016T00:52:54Z | Null | https://github.com/bungdanar/nodejs-rest-fuzzing | 0 | 0| 
 | 20231016T00:46:55Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9093 | 2018| 
 | 20231015T23:45:26Z | Code for Dirichlet Random Models for Fuzzy Rand Adjustment | https://github.com/ryandewolfe33/FuzzyClusteringSimilarity.jl | 0 | 0| 
 | 20231015T23:37:53Z | Null | https://github.com/suryawanabakti/aplikasi-fuzzy-tsukamoto | 0 | 0| 
@@ -135,7 +136,6 @@
 | 20231015T12:13:04Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 435 | 59| 
 | 20231015T11:39:45Z | Null | https://github.com/serhiidankovych/fuzzy-aras | 1 | 0| 
 | 20231015T11:20:42Z | User-agent Fuzzing Library. This repository holds data of all the user agents in the `user_agents.json` file, which can be used directly with any tool that can parse json format.  | https://github.com/Add3r/UserAgent-Fuzz-lib | 4 | 0| 
-| 20231015T11:18:02Z | Mining URLs from Wayback Machine for bug hunting/fuzzing/further probing | https://github.com/Maryoux/Furl | 0 | 0| 
 
 
 
