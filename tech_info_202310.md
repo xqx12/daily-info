@@ -70,6 +70,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231016T00:55:10Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0036-app-sBmuD-trust-exploit | 0 | 0| 
 | 20231016T00:45:46Z | Null | https://github.com/owenhiggins/Zero-Day-Exploit-Prediction-through-Anomaly-Detection-for-Network-Intrusion-Detection-Systems | 0 | 0| 
 | 20231016T00:16:59Z | an exploit repo | https://github.com/ZeroDayRNA/fake_repo | 0 | 0| 
 | 20231016T00:10:04Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWux | 1 | 0| 
@@ -79,7 +80,6 @@
 | 20231015T22:25:42Z | Working Dirty Pipe (CVE-2022-0847) exploit tool with root access and file overwrites. | https://github.com/n3rada/DirtyPipe | 0 | 0| 
 | 20231015T20:28:49Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 232 | 45| 
 | 20231015T10:40:44Z | Windows-Exploit-Suggester | https://github.com/10cks/Windows-Exploit-Suggester | 0 | 0| 
-| 20231015T10:33:32Z | a multilanguages version of the french autorisation for %exploitation de l%image% | https://github.com/newtondotcom/autorisation-exploitation-image | 0 | 0| 
 
 
 # backdoor on Github 推荐
