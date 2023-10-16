@@ -100,6 +100,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231016T01:04:26Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 62 | 9| 
 | 20231015T16:22:59Z | Bottom-up memory-safety for assembly language using symbolic execution | https://github.com/scaspin/memory-safe-assembly | 5 | 0| 
 | 20231015T16:05:39Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 202 | 42| 
 | 20231015T14:56:25Z | Bachelor%s thesis: developing symbolic execution for Rlang using Chef and S2E | https://github.com/SoptikHa2/bachelors-thesis | 4 | 0| 
@@ -109,7 +110,6 @@
 | 20231009T22:42:21Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 205 | 19| 
 | 20231008T02:26:19Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 357 | 82| 
 | 20231005T01:06:38Z | A Dynamic Symbolic Execution (DSE) engine for JavaScript. ExpoSE is highly scalable, compatible with recent JavaScript standards, and supports symbolic modelling of strings and regular expressions. | https://github.com/ExpoSEJS/ExpoSE | 166 | 28| 
-| 20231005T00:26:08Z | A symbolic execution engine for peephole optimization | https://github.com/skberkeley/sepo | 0 | 0| 
 
 
 # big4 on Github 推荐
