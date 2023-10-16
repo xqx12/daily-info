@@ -70,6 +70,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231016T00:15:01Z | an exploit repo | https://github.com/ZeroDayRNA/fake_repo | 0 | 0| 
 | 20231016T00:10:04Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWux | 1 | 0| 
 | 20231016T00:09:16Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANux | 1 | 0| 
 | 20231016T00:08:22Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANux | 1 | 0| 
@@ -79,7 +80,6 @@
 | 20231015T10:40:44Z | Windows-Exploit-Suggester | https://github.com/10cks/Windows-Exploit-Suggester | 0 | 0| 
 | 20231015T10:33:32Z | a multilanguages version of the french autorisation for %exploitation de l%image% | https://github.com/newtondotcom/autorisation-exploitation-image | 0 | 0| 
 | 20231015T07:56:16Z | Null | https://github.com/ExploitRc3/ExploitRc3 | 0 | 0| 
-| 20231015T07:50:25Z | Defaces the Target Qbot By Exploiting The Device Joined Message | https://github.com/iotwar/AntiQbot | 0 | 0| 
 
 
 # backdoor on Github 推荐
