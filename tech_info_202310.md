@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231016T00:56:20Z | CVE-2023-41993 | Null | https://github.com/po6ix/POC-for-CVE-2023-41993 | | 
+| 20231016T01:31:28Z | CVE-2023-41993 | Null | https://github.com/po6ix/POC-for-CVE-2023-41993 | | 
 | 20231016T00:01:20Z | CVE-2023-44487 | Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487 | https://github.com/bcdannyboy/CVE-2023-44487 | | 
 | 20231015T22:41:33Z | CVE-2023-22515 | CVE-2023-22515: Confluence Broken Access Control Exploit | https://github.com/Chocapikk/CVE-2023-22515 | | 
 | 20231015T15:30:53Z | CVE-2023-23752 | Mass CVE-2023-23752 scanner | https://github.com/k0valskia/CVE-2023-23752 | | 
@@ -70,6 +70,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231016T01:30:50Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 576 | 112| 
 | 20231016T01:19:52Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0041-app-Dm91T-exploit-come | 0 | 0| 
 | 20231016T01:19:51Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0027-app-lWgRl-demonstrate-exploit | 0 | 0| 
 | 20231016T01:18:03Z | Null | https://github.com/saxenamansi/ReinforcementLearning-Exploration-Exploitation | 0 | 0| 
@@ -79,7 +80,6 @@
 | 20231016T00:45:46Z | Null | https://github.com/owenhiggins/Zero-Day-Exploit-Prediction-through-Anomaly-Detection-for-Network-Intrusion-Detection-Systems | 0 | 0| 
 | 20231016T00:16:59Z | an exploit repo | https://github.com/ZeroDayRNA/fake_repo | 0 | 0| 
 | 20231016T00:10:04Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWux | 1 | 0| 
-| 20231016T00:09:16Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANux | 1 | 0| 
 
 
 # backdoor on Github 推荐
