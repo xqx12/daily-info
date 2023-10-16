@@ -70,6 +70,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231016T00:10:04Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWux | 1 | 0| 
+| 20231016T00:09:16Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANux | 1 | 0| 
 | 20231016T00:08:22Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANux | 1 | 0| 
 | 20231016T00:07:34Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANux | 1 | 0| 
 | 20231015T22:25:42Z | Working Dirty Pipe (CVE-2022-0847) exploit tool with root access and file overwrites. | https://github.com/n3rada/DirtyPipe | 0 | 0| 
@@ -78,8 +80,6 @@
 | 20231015T10:33:32Z | a multilanguages version of the french autorisation for %exploitation de l%image% | https://github.com/newtondotcom/autorisation-exploitation-image | 0 | 0| 
 | 20231015T07:56:16Z | Null | https://github.com/ExploitRc3/ExploitRc3 | 0 | 0| 
 | 20231015T07:50:25Z | Defaces the Target Qbot By Exploiting The Device Joined Message | https://github.com/iotwar/AntiQbot | 0 | 0| 
-| 20231015T06:41:48Z | Gimkit exploit for Bookmarklet and Tampermonkey | https://github.com/bugrandom/Gimkit | 0 | 0| 
-| 20231015T01:57:26Z | Mass Exploit - CVE-2023-45603 - Wordpress/plugin/user-submitted-posts < Unauthenticated Arbitrary File Upload/Exploit  | https://github.com/codeb0ss/CVE-2023-45603-PoC | 0 | 0| 
 
 
 # backdoor on Github 推荐
