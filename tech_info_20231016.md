@@ -19,8 +19,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231016T12:50:07Z | CVE-2023-41993 | Null | https://github.com/po6ix/POC-for-CVE-2023-41993 | | 
 | 20231016T12:45:12Z | CVE-2023-4415 | 锐捷RG-EW1200G登录绕过(CVE-2023-4415) | https://github.com/thedarknessdied/Ruijie_RG-EW1200G_login_bypass-CVE-2023-4415 | | 
-| 20231016T12:35:06Z | CVE-2023-41993 | Null | https://github.com/po6ix/POC-for-CVE-2023-41993 | | 
 | 20231016T11:55:28Z | CVE-2023-44487 | Quick exploit to test out rapid reset attack (CVE-2023-44487). Note: For education purpose only | https://github.com/studiogangster/CVE-2023-44487 | | 
 | 20231016T10:52:21Z | CVE-2023-22515 | Confluence未授权添加管理员用户(CVE-2023-22515)漏洞利用工具 | https://github.com/ad-calcium/CVE-2023-22515 | | 
 | 20231016T10:51:10Z | CVE-2023-42820 | CVE-2023-42820 | https://github.com/C1ph3rX13/CVE-2023-42820 | | 
@@ -70,8 +70,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231016T12:48:07Z | Bottom-up memory-safety for assembly language using symbolic execution | https://github.com/scaspin/memory-safe-assembly | 7 | 0| 
 | 20231016T07:39:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2336 | 637| 
-| 20231016T05:15:31Z | Bottom-up memory-safety for assembly language using symbolic execution | https://github.com/scaspin/memory-safe-assembly | 6 | 0| 
 | 20231016T04:28:34Z | Automatic %bomblab% solver with symbolic executions. | https://github.com/Aplace0927/qwoqLab | 0 | 0| 
 | 20231016T01:04:26Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 62 | 9| 
 
