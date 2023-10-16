@@ -26,23 +26,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231015T12:55:46Z | CVE-2023-41993 | Null | https://github.com/po6ix/POC-for-CVE-2023-41993 | | 
-| 20231015T12:14:08Z | CVE-2023-44487 | Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487 | https://github.com/bcdannyboy/CVE-2023-44487 | | 
+| 20231015T22:59:56Z | CVE-2023-41993 | Null | https://github.com/po6ix/POC-for-CVE-2023-41993 | | 
+| 20231015T22:41:33Z | CVE-2023-22515 | CVE-2023-22515: Confluence Broken Access Control Exploit | https://github.com/Chocapikk/CVE-2023-22515 | | 
+| 20231015T22:26:00Z | CVE-2023-44487 | Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487 | https://github.com/bcdannyboy/CVE-2023-44487 | | 
+| 20231015T15:30:53Z | CVE-2023-23752 | Mass CVE-2023-23752 scanner | https://github.com/k0valskia/CVE-2023-23752 | | 
+| 20231015T14:55:13Z | CVE-2023-24517 | Null | https://github.com/Argonx21/CVE-2023-24517 | | 
+| 20231015T14:01:29Z | CVE-2023-45603 | Mass Exploit - CVE-2023-45603 - Wordpress/plugin/user-submitted-posts < Unauthenticated Arbitrary File Upload/Exploit  | https://github.com/codeb0ss/CVE-2023-45603-PoC | | 
 | 20231015T10:14:09Z | 未知编号 | package commonly used by web services to process Exploit JPG File. One of the vulnerabilities can lead to remote code execution (RCE) if you process user submitted JPG. The exploit for this vulnerability is being used in the wild.Why Are You Disclosing A Exploit JPG  | https://github.com/GameProfOrg/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
 | 20231015T09:19:01Z | CVE-2023-27997 | Null | https://github.com/m474r5/CVE-2023-27997-findings | | 
 | 20231015T09:18:18Z | CVE-2023-27997 | Null | https://github.com/m474r5/CVE-2023-27997-POC | | 
-| 20231015T07:50:49Z | CVE-2023-45603 | Mass Exploit - CVE-2023-45603 - Wordpress/plugin/user-submitted-posts < Unauthenticated Arbitrary File Upload/Exploit  | https://github.com/codeb0ss/CVE-2023-45603-PoC | | 
 | 20231015T06:11:06Z | CVE-2023-38646 | POC for CVE-2023-38646 | https://github.com/securezeron/CVE-2023-38646 | | 
-| 20231015T04:21:40Z | CVE-2022-38694 | User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
-| 20231015T01:51:34Z | CVE-2023-38646 | Exploit script for Pre-Auth RCE in Metabase (CVE-2023-38646) | https://github.com/Pyr0sec/CVE-2023-38646 | | 
-| 20231014T22:06:45Z | 未知编号 | Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks & scan networks around device (SSID, BSSID) s File grabber (Documents, Images, Source codes, Databases, USB) | https://github.com/GameProfOrg/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231015T16:12:19Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14030 | 424| 
 | 20231015T12:25:32Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 278 | 54| 
-| 20231015T11:04:15Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14027 | 424| 
 | 20231015T06:53:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2335 | 637| 
 | 20231013T08:25:50Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 47 | 0| 
 | 20231012T10:23:06Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 366 | 8| 
@@ -56,6 +56,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231015T14:56:25Z | Bachelor%s thesis: developing symbolic execution for Rlang using Chef and S2E | https://github.com/SoptikHa2/bachelors-thesis | 4 | 0| 
 | 20231015T08:21:12Z | An example of S2E user side repository | https://github.com/ut-issl/s2e-user-example | 1 | 0| 
 | 20231014T02:44:36Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 358 | 82| 
 | 20231013T06:24:13Z | An example of user settings repository for s2e-aobc | https://github.com/ut-issl/s2e-aobc-example | 1 | 0| 
@@ -84,16 +85,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231015T18:51:54Z | Null | https://github.com/Advaidv121/Backdoor-And-Server | 1 | 0| 
+| 20231015T17:14:39Z | Null | https://github.com/Irohasu500/backdoor_assist_membership_inference | 0 | 0| 
+| 20231015T17:03:59Z | Backdoor | https://github.com/Pra-kas/Backdoor | 1 | 0| 
 | 20231015T11:03:47Z | Null | https://github.com/cenzothebetx/backdoor2-0 | 0 | 0| 
 | 20231015T07:51:37Z | backdoor exploit for vsftpd 2.3.4 on python | https://github.com/vinetsuicide/vsftpd-2.3.4-exploit | 1 | 0| 
 | 20231015T03:33:06Z | Fast integration of backdoor attacks in machine learning and federated learning. | https://github.com/mtuann/fedlearn-backdoor-attacks | 0 | 0| 
 | 20231015T00:22:34Z | A Discord Bot for Backdoors and Breaches. Pre-Alpha State Is Not Fully Functional | https://github.com/simeononsecurity/discord-backdoors-and-breaches | 6 | 2| 
+| 20231014T23:19:50Z | You should never use malware to infiltrate a target system. With the skill of writing and exploiting technical codes, you can do the best ways of penetration. This is done in order to test and increase the security of the open sourcecode. | https://github.com/AiGptCode/ANYDESK-BACKDOOR | 5 | 0| 
 | 20231014T16:37:53Z | Null | https://github.com/TheMisterPin/BackdoorButique | 0 | 0| 
 | 20231014T12:30:11Z | Make some Kids struggeling <3 | https://github.com/xer0xde/fivem-backdoor | 0 | 0| 
-| 20231014T10:40:49Z | Part II Project: Backdoors in Neural Networks | https://github.com/mxbi/backdoor | 0 | 0| 
-| 20231014T09:16:58Z | Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks | https://github.com/Cr4sh/SmmBackdoorNg | 163 | 23| 
-| 20231014T08:12:54Z | 复现Backdoor Cleansing with Unlaveled Data，基于无标签数据的后门清理 | https://github.com/derivativek/BCU-recurrent | 0 | 0| 
-| 20231014T07:50:16Z | Autonomous pre-boot DMA attack hardware implant for M.2 slot based on PicoEVB development board | https://github.com/Cr4sh/pico_dma | 12 | 3| 
 
 
 # symbolic execution on Github 推荐
@@ -125,16 +126,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231015T23:45:26Z | Code for Dirichlet Random Models for Fuzzy Rand Adjustment | https://github.com/ryandewolfe33/FuzzyClusteringSimilarity.jl | 0 | 0| 
+| 20231015T23:37:53Z | Null | https://github.com/suryawanabakti/aplikasi-fuzzy-tsukamoto | 0 | 0| 
+| 20231015T23:19:48Z | Null | https://github.com/wowinter13/fuzzy_matcher | 0 | 0| 
+| 20231015T23:04:38Z | Null | https://github.com/dshieble/lambda_fuzzer | 0 | 0| 
+| 20231015T19:41:47Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9092 | 2018| 
+| 20231015T18:48:39Z | A fuzzy finder written in go | https://github.com/darkard2003/fuzzy.go | 0 | 0| 
+| 20231015T12:13:04Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 435 | 59| 
 | 20231015T11:39:45Z | Null | https://github.com/serhiidankovych/fuzzy-aras | 1 | 0| 
 | 20231015T11:20:42Z | User-agent Fuzzing Library. This repository holds data of all the user agents in the `user_agents.json` file, which can be used directly with any tool that can parse json format.  | https://github.com/Add3r/UserAgent-Fuzz-lib | 4 | 0| 
 | 20231015T11:18:02Z | Mining URLs from Wayback Machine for bug hunting/fuzzing/further probing | https://github.com/Maryoux/Furl | 0 | 0| 
-| 20231015T10:43:25Z | Null | https://github.com/kristianusdianata/Fuzzy-Tsukamoto | 0 | 0| 
-| 20231015T08:53:02Z | Null | https://github.com/Bidhan33/fuzzy-set | 0 | 0| 
-| 20231015T07:18:55Z | Null | https://github.com/Wickedvase/fuzzy-telegram | 0 | 0| 
-| 20231015T00:24:10Z | Null | https://github.com/Guilherme19830/fuzzy-garbanzo | 0 | 0| 
-| 20231014T23:33:03Z | Null | https://github.com/moskalyk/fuzzy-data | 0 | 0| 
-| 20231014T23:23:12Z | Null | https://github.com/AkshithByju/fuzzy-fiesta | 0 | 0| 
-| 20231014T19:53:35Z | Null | https://github.com/fridgebuyer/FieldFuzz-Ghost | 0 | 0| 
 
 
 
