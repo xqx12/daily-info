@@ -54,6 +54,7 @@
 | --- | --- | --- | --- | ---| 
 | 20231015T22:25:42Z | Working Dirty Pipe (CVE-2022-0847) exploit tool with root access and file overwrites. | https://github.com/n3rada/DirtyPipe | 0 | 0| 
 | 20231015T20:28:49Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 232 | 45| 
+| 20231015T14:33:08Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 228 | 15| 
 | 20231015T10:40:44Z | Windows-Exploit-Suggester | https://github.com/10cks/Windows-Exploit-Suggester | 0 | 0| 
 | 20231015T10:33:32Z | a multilanguages version of the french autorisation for %exploitation de l%image% | https://github.com/newtondotcom/autorisation-exploitation-image | 0 | 0| 
 | 20231015T07:56:16Z | Null | https://github.com/ExploitRc3/ExploitRc3 | 0 | 0| 
@@ -61,7 +62,6 @@
 | 20231015T06:41:48Z | Gimkit exploit for Bookmarklet and Tampermonkey | https://github.com/bugrandom/Gimkit | 0 | 0| 
 | 20231015T01:57:26Z | Mass Exploit - CVE-2023-45603 - Wordpress/plugin/user-submitted-posts < Unauthenticated Arbitrary File Upload/Exploit  | https://github.com/codeb0ss/CVE-2023-45603-PoC | 0 | 0| 
 | 20231015T01:51:34Z | Exploit script for Pre-Auth RCE in Metabase (CVE-2023-38646) | https://github.com/Pyr0sec/CVE-2023-38646 | 0 | 0| 
-| 20231015T01:48:32Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0067-app-H0yh5-wonder-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐

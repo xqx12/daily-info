@@ -70,6 +70,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231016T01:14:35Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0066-app-DituY-include-exploit | 0 | 0| 
 | 20231016T01:12:55Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0063-app-tfrcZ-exploit-shift | 0 | 0| 
 | 20231016T00:55:10Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0036-app-sBmuD-trust-exploit | 0 | 0| 
 | 20231016T00:45:46Z | Null | https://github.com/owenhiggins/Zero-Day-Exploit-Prediction-through-Anomaly-Detection-for-Network-Intrusion-Detection-Systems | 0 | 0| 
@@ -79,7 +80,6 @@
 | 20231016T00:08:22Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANux | 1 | 0| 
 | 20231016T00:07:34Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANux | 1 | 0| 
 | 20231015T22:25:42Z | Working Dirty Pipe (CVE-2022-0847) exploit tool with root access and file overwrites. | https://github.com/n3rada/DirtyPipe | 0 | 0| 
-| 20231015T20:28:49Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 232 | 45| 
 
 
 # backdoor on Github 推荐
