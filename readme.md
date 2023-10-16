@@ -84,6 +84,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231016T12:09:30Z | Sistema de classificação Fuzzy desenvolvido para o meu TCC, Do curso de Sistemas de Informação  | https://github.com/BarrettoDev/Sistema-de-Classifica-o-Fuzzy-Complexidade-das-Atividades-Avaliativas | 0 | 0| 
 | 20231016T12:00:45Z | Null | https://github.com/St-Linda/fuzzy-tribble | 0 | 0| 
 | 20231016T11:46:30Z | Null | https://github.com/christos-eth/rust-smart-contract-fuzzer | 0 | 0| 
 | 20231016T11:42:44Z | Null | https://github.com/adwaninitesh/Maven_Fuzzy_Factory_Data_Analysis | 0 | 0| 
