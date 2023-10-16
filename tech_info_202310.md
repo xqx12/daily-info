@@ -26,9 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231016T00:01:20Z | CVE-2023-44487 | Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487 | https://github.com/bcdannyboy/CVE-2023-44487 | | 
 | 20231015T22:59:56Z | CVE-2023-41993 | Null | https://github.com/po6ix/POC-for-CVE-2023-41993 | | 
 | 20231015T22:41:33Z | CVE-2023-22515 | CVE-2023-22515: Confluence Broken Access Control Exploit | https://github.com/Chocapikk/CVE-2023-22515 | | 
-| 20231015T22:26:00Z | CVE-2023-44487 | Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487 | https://github.com/bcdannyboy/CVE-2023-44487 | | 
 | 20231015T15:30:53Z | CVE-2023-23752 | Mass CVE-2023-23752 scanner | https://github.com/k0valskia/CVE-2023-23752 | | 
 | 20231015T14:55:13Z | CVE-2023-24517 | Null | https://github.com/Argonx21/CVE-2023-24517 | | 
 | 20231015T14:01:29Z | CVE-2023-45603 | Mass Exploit - CVE-2023-45603 - Wordpress/plugin/user-submitted-posts < Unauthenticated Arbitrary File Upload/Exploit  | https://github.com/codeb0ss/CVE-2023-45603-PoC | | 
@@ -70,6 +70,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231015T22:25:42Z | Working Dirty Pipe (CVE-2022-0847) exploit tool with root access and file overwrites. | https://github.com/n3rada/DirtyPipe | 0 | 0| 
+| 20231015T20:28:49Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 232 | 45| 
 | 20231015T10:40:44Z | Windows-Exploit-Suggester | https://github.com/10cks/Windows-Exploit-Suggester | 0 | 0| 
 | 20231015T10:33:32Z | a multilanguages version of the french autorisation for %exploitation de l%image% | https://github.com/newtondotcom/autorisation-exploitation-image | 0 | 0| 
 | 20231015T07:56:16Z | Null | https://github.com/ExploitRc3/ExploitRc3 | 0 | 0| 
@@ -78,8 +80,6 @@
 | 20231015T01:57:26Z | Mass Exploit - CVE-2023-45603 - Wordpress/plugin/user-submitted-posts < Unauthenticated Arbitrary File Upload/Exploit  | https://github.com/codeb0ss/CVE-2023-45603-PoC | 0 | 0| 
 | 20231015T01:51:34Z | Exploit script for Pre-Auth RCE in Metabase (CVE-2023-38646) | https://github.com/Pyr0sec/CVE-2023-38646 | 0 | 0| 
 | 20231015T01:48:32Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0067-app-H0yh5-wonder-exploit | 0 | 0| 
-| 20231015T01:34:10Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0028-app-k27TR-shoot-exploit | 0 | 0| 
-| 20231015T00:25:39Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-nk | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -100,16 +100,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231015T16:22:59Z | Bottom-up memory-safety for assembly language using symbolic execution | https://github.com/scaspin/memory-safe-assembly | 5 | 0| 
+| 20231015T16:05:39Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 202 | 42| 
+| 20231015T14:56:25Z | Bachelor%s thesis: developing symbolic execution for Rlang using Chef and S2E | https://github.com/SoptikHa2/bachelors-thesis | 4 | 0| 
 | 20231015T06:53:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2335 | 637| 
-| 20231013T17:10:06Z | Bottom-up memory-safety for assembly language using symbolic execution | https://github.com/scaspin/memory-safe-assembly | 3 | 0| 
-| 20231013T03:45:31Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 203 | 42| 
 | 20231013T02:26:43Z | Null | https://github.com/JHGL0419/Symbolic_Execution | 0 | 0| 
 | 20231011T04:25:49Z | Null | https://github.com/acheron2302/SymbolicExecution | 0 | 0| 
 | 20231009T22:42:21Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 205 | 19| 
 | 20231008T02:26:19Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 357 | 82| 
 | 20231005T01:06:38Z | A Dynamic Symbolic Execution (DSE) engine for JavaScript. ExpoSE is highly scalable, compatible with recent JavaScript standards, and supports symbolic modelling of strings and regular expressions. | https://github.com/ExpoSEJS/ExpoSE | 166 | 28| 
 | 20231005T00:26:08Z | A symbolic execution engine for peephole optimization | https://github.com/skberkeley/sepo | 0 | 0| 
-| 20231004T21:21:25Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 64 | 28| 
 
 
 # big4 on Github 推荐

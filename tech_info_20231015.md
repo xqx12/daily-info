@@ -24,7 +24,6 @@
 | --- | --- | --- | --- | ---| 
 | 20231015T22:59:56Z | CVE-2023-41993 | Null | https://github.com/po6ix/POC-for-CVE-2023-41993 | | 
 | 20231015T22:41:33Z | CVE-2023-22515 | CVE-2023-22515: Confluence Broken Access Control Exploit | https://github.com/Chocapikk/CVE-2023-22515 | | 
-| 20231015T22:26:00Z | CVE-2023-44487 | Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487 | https://github.com/bcdannyboy/CVE-2023-44487 | | 
 | 20231015T15:30:53Z | CVE-2023-23752 | Mass CVE-2023-23752 scanner | https://github.com/k0valskia/CVE-2023-23752 | | 
 | 20231015T14:55:13Z | CVE-2023-24517 | Null | https://github.com/Argonx21/CVE-2023-24517 | | 
 | 20231015T14:01:29Z | CVE-2023-45603 | Mass Exploit - CVE-2023-45603 - Wordpress/plugin/user-submitted-posts < Unauthenticated Arbitrary File Upload/Exploit  | https://github.com/codeb0ss/CVE-2023-45603-PoC | | 
@@ -32,6 +31,7 @@
 | 20231015T09:19:01Z | CVE-2023-27997 | Null | https://github.com/m474r5/CVE-2023-27997-findings | | 
 | 20231015T09:18:18Z | CVE-2023-27997 | Null | https://github.com/m474r5/CVE-2023-27997-POC | | 
 | 20231015T06:11:06Z | CVE-2023-38646 | POC for CVE-2023-38646 | https://github.com/securezeron/CVE-2023-38646 | | 
+| 20231015T04:21:40Z | CVE-2022-38694 | User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 
 
 # klee on Github 推荐
@@ -52,6 +52,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231015T22:25:42Z | Working Dirty Pipe (CVE-2022-0847) exploit tool with root access and file overwrites. | https://github.com/n3rada/DirtyPipe | 0 | 0| 
+| 20231015T20:28:49Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 232 | 45| 
 | 20231015T10:40:44Z | Windows-Exploit-Suggester | https://github.com/10cks/Windows-Exploit-Suggester | 0 | 0| 
 | 20231015T10:33:32Z | a multilanguages version of the french autorisation for %exploitation de l%image% | https://github.com/newtondotcom/autorisation-exploitation-image | 0 | 0| 
 | 20231015T07:56:16Z | Null | https://github.com/ExploitRc3/ExploitRc3 | 0 | 0| 
@@ -60,8 +62,6 @@
 | 20231015T01:57:26Z | Mass Exploit - CVE-2023-45603 - Wordpress/plugin/user-submitted-posts < Unauthenticated Arbitrary File Upload/Exploit  | https://github.com/codeb0ss/CVE-2023-45603-PoC | 0 | 0| 
 | 20231015T01:51:34Z | Exploit script for Pre-Auth RCE in Metabase (CVE-2023-38646) | https://github.com/Pyr0sec/CVE-2023-38646 | 0 | 0| 
 | 20231015T01:48:32Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0067-app-H0yh5-wonder-exploit | 0 | 0| 
-| 20231015T01:34:10Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0028-app-k27TR-shoot-exploit | 0 | 0| 
-| 20231015T00:25:39Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-nk | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -79,6 +79,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231015T16:22:59Z | Bottom-up memory-safety for assembly language using symbolic execution | https://github.com/scaspin/memory-safe-assembly | 5 | 0| 
+| 20231015T16:05:39Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 202 | 42| 
+| 20231015T14:56:25Z | Bachelor%s thesis: developing symbolic execution for Rlang using Chef and S2E | https://github.com/SoptikHa2/bachelors-thesis | 4 | 0| 
 | 20231015T06:53:05Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2335 | 637| 
 
 
