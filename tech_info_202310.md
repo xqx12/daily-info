@@ -70,6 +70,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231016T01:19:52Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0041-app-Dm91T-exploit-come | 0 | 0| 
+| 20231016T01:19:51Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0027-app-lWgRl-demonstrate-exploit | 0 | 0| 
+| 20231016T01:18:03Z | Null | https://github.com/saxenamansi/ReinforcementLearning-Exploration-Exploitation | 0 | 0| 
 | 20231016T01:14:35Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0066-app-DituY-include-exploit | 0 | 0| 
 | 20231016T01:12:55Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0063-app-tfrcZ-exploit-shift | 0 | 0| 
 | 20231016T00:55:10Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0036-app-sBmuD-trust-exploit | 0 | 0| 
@@ -77,9 +80,6 @@
 | 20231016T00:16:59Z | an exploit repo | https://github.com/ZeroDayRNA/fake_repo | 0 | 0| 
 | 20231016T00:10:04Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWux | 1 | 0| 
 | 20231016T00:09:16Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANux | 1 | 0| 
-| 20231016T00:08:22Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANux | 1 | 0| 
-| 20231016T00:07:34Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANux | 1 | 0| 
-| 20231015T22:25:42Z | Working Dirty Pipe (CVE-2022-0847) exploit tool with root access and file overwrites. | https://github.com/n3rada/DirtyPipe | 0 | 0| 
 
 
 # backdoor on Github 推荐
