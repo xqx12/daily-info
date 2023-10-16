@@ -11,6 +11,9 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20231016 | 寄生云计算服务实现可信C2控制 | https://mp.weixin.qq.com/s/_NRivu59k4yiLjBxKoXAMg| 
+| 20231016 | Hunting for Leaked Cobalt Strike v4.9 servers | https://blog.cyphur.com/detecting-leaked-cobalt-strike/| 
+| 20231016 | SecWiki周刊（第502期) | https://www.sec-wiki.com/weekly/502| 
 | 20231015 | 基于异构图卷积网络的网络威胁情报建模 | https://mp.weixin.qq.com/s/vaTH3cSad-lp7NT6ay8yMA| 
 | 20231015 | PHP 从零学习到 Webshell 免杀手册 | https://paper.seebug.org/3044/| 
 | 20231015 | 基于模式挖掘的可靠性治理探索 | https://tech.meituan.com/2023/10/12/exploration-of-reliability-governance-based-on-pattern-mining.html| 
@@ -18,24 +21,21 @@
 | 20231015 | 零信任架构落地经验分享——7层零信任方案 | https://mp.weixin.qq.com/s/5utSjmXrh5enrAvJmJLFvQ| 
 | 20231015 | 系统安全和论文写作的那些事 | https://mp.weixin.qq.com/s/fn1OVw_75nCfunoX8nGj-w| 
 | 20231013 | Apache Commons Compress内存耗尽漏洞 CVE-2021-35516 | https://mp.weixin.qq.com/s/KvEW6zV80BORRi9YHOxgTQ| 
-| 20231011 | GDA CTF应用方向：牛刀小试ONE | https://www.sec-in.com/article/2269| 
-| 20231010 | MITRE ATT&CK Enterprise 第五轮评估结果发布 | https://mp.weixin.qq.com/s/KlBpwesdfEqy1IrRT2W4tA| 
-| 20231010 | 致盲Windows上的EDR | https://mp.weixin.qq.com/s/DykTaqHFZC_hwj7RcY8InA| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231016T01:54:54Z | CVE-2023-41993 | Null | https://github.com/po6ix/POC-for-CVE-2023-41993 | | 
-| 20231016T01:52:01Z | CVE-2023-44487 | Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487 | https://github.com/bcdannyboy/CVE-2023-44487 | | 
-| 20231015T22:41:33Z | CVE-2023-22515 | CVE-2023-22515: Confluence Broken Access Control Exploit | https://github.com/Chocapikk/CVE-2023-22515 | | 
-| 20231015T15:30:53Z | CVE-2023-23752 | Mass CVE-2023-23752 scanner | https://github.com/k0valskia/CVE-2023-23752 | | 
-| 20231015T14:55:13Z | CVE-2023-24517 | Null | https://github.com/Argonx21/CVE-2023-24517 | | 
-| 20231015T14:01:29Z | CVE-2023-45603 | Mass Exploit - CVE-2023-45603 - Wordpress/plugin/user-submitted-posts < Unauthenticated Arbitrary File Upload/Exploit  | https://github.com/codeb0ss/CVE-2023-45603-PoC | | 
-| 20231015T10:14:09Z | 未知编号 | package commonly used by web services to process Exploit JPG File. One of the vulnerabilities can lead to remote code execution (RCE) if you process user submitted JPG. The exploit for this vulnerability is being used in the wild.Why Are You Disclosing A Exploit JPG  | https://github.com/GameProfOrg/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
-| 20231015T09:19:01Z | CVE-2023-27997 | Null | https://github.com/m474r5/CVE-2023-27997-findings | | 
-| 20231015T09:18:18Z | CVE-2023-27997 | Null | https://github.com/m474r5/CVE-2023-27997-POC | | 
-| 20231015T06:11:06Z | CVE-2023-38646 | POC for CVE-2023-38646 | https://github.com/securezeron/CVE-2023-38646 | | 
+| 20231016T11:55:28Z | CVE-2023-44487 | Quick exploit to test out rapid reset attack (CVE-2023-44487). Note: For education purpose only | https://github.com/studiogangster/CVE-2023-44487 | | 
+| 20231016T11:18:03Z | CVE-2023-4415 | 锐捷RG-EW1200G登录绕过(CVE-2023-4415) | https://github.com/thedarknessdied/Ruijie_RG-EW1200G_login_bypass-CVE-2023-4415 | | 
+| 20231016T11:10:34Z | CVE-2023-41993 | Null | https://github.com/po6ix/POC-for-CVE-2023-41993 | | 
+| 20231016T10:52:21Z | CVE-2023-22515 | Confluence未授权添加管理员用户(CVE-2023-22515)漏洞利用工具 | https://github.com/ad-calcium/CVE-2023-22515 | | 
+| 20231016T10:51:10Z | CVE-2023-42820 | CVE-2023-42820 | https://github.com/C1ph3rX13/CVE-2023-42820 | | 
+| 20231016T10:18:39Z | CVE-2023-38545 | CVE-2023-38545 POC for the curl command line tool | https://github.com/dbrugman/CVE-2023-38545-POC | | 
+| 20231016T09:03:39Z | CVE-2023-22515 | CVE-2023-22515: Confluence Broken Access Control Exploit | https://github.com/Chocapikk/CVE-2023-22515 | | 
+| 20231016T08:49:25Z | CVE-2023-40361 | Security Vulnerability - SECUDOS Qiata | https://github.com/vianic/CVE-2023-40361 | | 
+| 20231016T07:47:24Z | CVE-2021-44909 | orangescrum 1.8.0 - Remote Command Execution RCE (unauthenticated) | https://github.com/g1thub3r1st4/CVE-2021-44909 | | 
+| 20231016T06:07:19Z | CVE-2023-4911 | Null | https://github.com/hadrian3689/looney-tunables-CVE-2023-4911 | | 
 
 
 # klee on Github 推荐
@@ -70,31 +70,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231016T11:55:28Z | Quick exploit to test out rapid reset attack (CVE-2023-44487). Note: For education purpose only | https://github.com/studiogangster/CVE-2023-44487 | 0 | 0| 
+| 20231016T11:46:37Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5952 | 525| 
+| 20231016T09:51:41Z | Null | https://github.com/yxl2001/Sqlite3_Loading_Extension_exploit | 0 | 0| 
+| 20231016T09:50:56Z | Null | https://github.com/sinistergeek/Pentestlab-exploit | 0 | 0| 
+| 20231016T09:42:08Z | The implemenetation code and datasets for WWW24 submission: Transaction Transformer: Exploiting Internal Transactions for Graph Classification on Ethereum Blockchain | https://github.com/TransactionTransformer/TransactionTransformer | 0 | 0| 
+| 20231016T03:13:56Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 744 | 179| 
 | 20231016T01:58:13Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0041-app-75gfF-exploit-secure | 0 | 0| 
 | 20231016T01:33:58Z | Null | https://github.com/saxenamansi/ReinforcementLearning-Exploration-Exploitation | 0 | 0| 
 | 20231016T01:32:31Z | Python3 version of the Python2 exploit for CVE-2019-9053 | https://github.com/Doc0x1/CVE-2019-9053-Python3 | 0 | 0| 
 | 20231016T01:30:50Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 576 | 112| 
-| 20231016T01:19:52Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0041-app-Dm91T-exploit-come | 0 | 0| 
-| 20231016T01:19:51Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0027-app-lWgRl-demonstrate-exploit | 0 | 0| 
-| 20231016T01:14:35Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0066-app-DituY-include-exploit | 0 | 0| 
-| 20231016T01:12:55Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0063-app-tfrcZ-exploit-shift | 0 | 0| 
-| 20231016T00:55:10Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0036-app-sBmuD-trust-exploit | 0 | 0| 
-| 20231016T00:45:46Z | Null | https://github.com/owenhiggins/Zero-Day-Exploit-Prediction-through-Anomaly-Detection-for-Network-Intrusion-Detection-Systems | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231015T18:51:54Z | Null | https://github.com/Advaidv121/Backdoor-And-Server | 1 | 0| 
+| 20231016T10:50:14Z | Null | https://github.com/initch/FL_Backdoors | 0 | 0| 
+| 20231016T06:59:24Z | backdoor attack using reinforcement learning | https://github.com/Endlessnes/my-lyx-repo | 0 | 0| 
+| 20231016T04:51:51Z | Null | https://github.com/Advaidv121/Backdoor-And-Server | 1 | 0| 
+| 20231016T03:19:29Z | PyTorch Implementation for %FIBA: Federated Invisible Backdoor Attack (under review)% | https://github.com/LukeZane118/FIBA | 0 | 0| 
 | 20231015T17:14:39Z | Null | https://github.com/Irohasu500/backdoor_assist_membership_inference | 0 | 0| 
 | 20231015T17:03:59Z | Backdoor | https://github.com/Pra-kas/Backdoor | 1 | 0| 
+| 20231015T14:20:42Z | Towards Stable Backdoor Purification through Feature Shift Tuning (NeurIPS 2023) | https://github.com/AISafety-HKUST/stable_backdoor_purification | 10 | 0| 
 | 20231015T11:03:47Z | Null | https://github.com/cenzothebetx/backdoor2-0 | 0 | 0| 
 | 20231015T07:51:37Z | backdoor exploit for vsftpd 2.3.4 on python | https://github.com/vinetsuicide/vsftpd-2.3.4-exploit | 1 | 0| 
 | 20231015T03:33:06Z | Fast integration of backdoor attacks in machine learning and federated learning. | https://github.com/mtuann/fedlearn-backdoor-attacks | 0 | 0| 
-| 20231015T00:22:34Z | A Discord Bot for Backdoors and Breaches. Pre-Alpha State Is Not Fully Functional | https://github.com/simeononsecurity/discord-backdoors-and-breaches | 6 | 2| 
-| 20231014T23:19:50Z | You should never use malware to infiltrate a target system. With the skill of writing and exploiting technical codes, you can do the best ways of penetration. This is done in order to test and increase the security of the open sourcecode. | https://github.com/AiGptCode/ANYDESK-BACKDOOR | 5 | 0| 
-| 20231014T16:37:53Z | Null | https://github.com/TheMisterPin/BackdoorButique | 0 | 0| 
-| 20231014T12:30:11Z | Make some Kids struggeling <3 | https://github.com/xer0xde/fivem-backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -126,16 +126,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231016T12:00:45Z | Null | https://github.com/St-Linda/fuzzy-tribble | 0 | 0| 
+| 20231016T11:46:30Z | Null | https://github.com/christos-eth/rust-smart-contract-fuzzer | 0 | 0| 
+| 20231016T11:42:44Z | Null | https://github.com/adwaninitesh/Maven_Fuzzy_Factory_Data_Analysis | 0 | 0| 
+| 20231016T10:56:07Z | A multi-fuzzer management utility for all of your Rust fuzzing needs 🧑‍🎤 | https://github.com/srlabs/ziggy | 44 | 5| 
+| 20231016T09:56:01Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1470 | 107| 
+| 20231016T09:43:47Z | Null | https://github.com/ttverd50/fuzzy-spork | 0 | 0| 
+| 20231016T09:19:03Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 863 | 117| 
+| 20231016T07:20:50Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9096 | 2018| 
 | 20231016T00:52:54Z | Null | https://github.com/bungdanar/nodejs-rest-fuzzing | 0 | 0| 
-| 20231016T00:46:55Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9093 | 2018| 
 | 20231015T23:45:26Z | Code for Dirichlet Random Models for Fuzzy Rand Adjustment | https://github.com/ryandewolfe33/FuzzyClusteringSimilarity.jl | 0 | 0| 
-| 20231015T23:37:53Z | Null | https://github.com/suryawanabakti/aplikasi-fuzzy-tsukamoto | 0 | 0| 
-| 20231015T23:19:48Z | Null | https://github.com/wowinter13/fuzzy_matcher | 0 | 0| 
-| 20231015T23:04:38Z | Null | https://github.com/dshieble/lambda_fuzzer | 0 | 0| 
-| 20231015T18:48:39Z | A fuzzy finder written in go | https://github.com/darkard2003/fuzzy.go | 0 | 0| 
-| 20231015T12:13:04Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 435 | 59| 
-| 20231015T11:39:45Z | Null | https://github.com/serhiidankovych/fuzzy-aras | 1 | 0| 
-| 20231015T11:20:42Z | User-agent Fuzzing Library. This repository holds data of all the user agents in the `user_agents.json` file, which can be used directly with any tool that can parse json format.  | https://github.com/Add3r/UserAgent-Fuzz-lib | 4 | 0| 
 
 
 
