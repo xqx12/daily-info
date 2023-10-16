@@ -97,12 +97,12 @@
 | 20231015T23:37:53Z | Null | https://github.com/suryawanabakti/aplikasi-fuzzy-tsukamoto | 0 | 0| 
 | 20231015T23:19:48Z | Null | https://github.com/wowinter13/fuzzy_matcher | 0 | 0| 
 | 20231015T23:04:38Z | Null | https://github.com/dshieble/lambda_fuzzer | 0 | 0| 
-| 20231015T19:41:47Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9092 | 2018| 
 | 20231015T18:48:39Z | A fuzzy finder written in go | https://github.com/darkard2003/fuzzy.go | 0 | 0| 
 | 20231015T12:13:04Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 435 | 59| 
 | 20231015T11:39:45Z | Null | https://github.com/serhiidankovych/fuzzy-aras | 1 | 0| 
 | 20231015T11:20:42Z | User-agent Fuzzing Library. This repository holds data of all the user agents in the `user_agents.json` file, which can be used directly with any tool that can parse json format.  | https://github.com/Add3r/UserAgent-Fuzz-lib | 4 | 0| 
 | 20231015T11:18:02Z | Mining URLs from Wayback Machine for bug hunting/fuzzing/further probing | https://github.com/Maryoux/Furl | 0 | 0| 
+| 20231015T10:43:25Z | Null | https://github.com/kristianusdianata/Fuzzy-Tsukamoto | 0 | 0| 
 
 
 
