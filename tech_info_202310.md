@@ -70,6 +70,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231016T00:08:22Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANux | 1 | 0| 
+| 20231016T00:07:34Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANux | 1 | 0| 
 | 20231015T22:25:42Z | Working Dirty Pipe (CVE-2022-0847) exploit tool with root access and file overwrites. | https://github.com/n3rada/DirtyPipe | 0 | 0| 
 | 20231015T20:28:49Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 232 | 45| 
 | 20231015T10:40:44Z | Windows-Exploit-Suggester | https://github.com/10cks/Windows-Exploit-Suggester | 0 | 0| 
@@ -78,8 +80,6 @@
 | 20231015T07:50:25Z | Defaces the Target Qbot By Exploiting The Device Joined Message | https://github.com/iotwar/AntiQbot | 0 | 0| 
 | 20231015T06:41:48Z | Gimkit exploit for Bookmarklet and Tampermonkey | https://github.com/bugrandom/Gimkit | 0 | 0| 
 | 20231015T01:57:26Z | Mass Exploit - CVE-2023-45603 - Wordpress/plugin/user-submitted-posts < Unauthenticated Arbitrary File Upload/Exploit  | https://github.com/codeb0ss/CVE-2023-45603-PoC | 0 | 0| 
-| 20231015T01:51:34Z | Exploit script for Pre-Auth RCE in Metabase (CVE-2023-38646) | https://github.com/Pyr0sec/CVE-2023-38646 | 0 | 0| 
-| 20231015T01:48:32Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0067-app-H0yh5-wonder-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
