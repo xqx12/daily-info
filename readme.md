@@ -34,6 +34,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231016T07:39:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2336 | 637| 
+| 20231016T07:37:08Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14035 | 424| 
 
 
 # s2e on Github 推荐
@@ -68,6 +70,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231016T07:39:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2336 | 637| 
+| 20231016T05:15:31Z | Bottom-up memory-safety for assembly language using symbolic execution | https://github.com/scaspin/memory-safe-assembly | 6 | 0| 
+| 20231016T04:28:34Z | Automatic %bomblab% solver with symbolic executions. | https://github.com/Aplace0927/qwoqLab | 0 | 0| 
 | 20231016T01:04:26Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 62 | 9| 
 
 
