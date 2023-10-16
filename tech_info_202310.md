@@ -70,7 +70,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231016T00:15:01Z | an exploit repo | https://github.com/ZeroDayRNA/fake_repo | 0 | 0| 
+| 20231016T00:16:59Z | an exploit repo | https://github.com/ZeroDayRNA/fake_repo | 0 | 0| 
 | 20231016T00:10:04Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWux | 1 | 0| 
 | 20231016T00:09:16Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANux | 1 | 0| 
 | 20231016T00:08:22Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANux | 1 | 0| 
