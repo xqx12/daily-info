@@ -21,6 +21,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231017T12:11:03Z | cve-2023-41993 | testing poc | https://github.com/hrtowii/cve-2023-41993-test | | 
 | 20231017T11:54:00Z | CVE-2023-20198 | CVE-2023-20198 Checkscript | https://github.com/Atea-Redteam/CVE-2023-20198 | | 
 | 20231017T11:47:48Z | CVE-2023-41993 | Null | https://github.com/po6ix/POC-for-CVE-2023-41993 | | 
 | 20231017T11:21:12Z | CVE-2023-29489 | Null | https://github.com/S4muraiMelayu1337/CVE-2023-29489 | | 
@@ -30,7 +31,6 @@
 | 20231017T08:22:38Z | CVE-2023-5070 | Social Media Share Buttons & Social Sharing Icons <= 2.8.5 - Information Exposure | https://github.com/RandomRobbieBF/CVE-2023-5070 | | 
 | 20231017T08:09:39Z | CVE-2023-36076 | Null | https://github.com/deIndra/CVE-2023-36076 | | 
 | 20231017T07:36:19Z | CVE-2023-20198 | Null | https://github.com/raystr-atearedteam/CVE-2023-20198-checker | | 
-| 20231017T06:11:42Z | CVE-2023-44487 | A python based exploit to test out rapid reset attack (CVE-2023-44487) | https://github.com/studiogangster/CVE-2023-44487 | | 
 
 
 # klee on Github 推荐
