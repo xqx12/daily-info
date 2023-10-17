@@ -126,12 +126,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231017T01:45:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9099 | 2020| 
 | 20231016T23:46:14Z | A cross-platform browser fuzzing framework | https://github.com/MozillaSecurity/grizzly | 292 | 38| 
 | 20231016T22:30:53Z | Angular orientation control of a %satellite% with fuzzy controllers using Simulink | https://github.com/dimitrisAlexo/Fuzzy_Controller | 0 | 0| 
 | 20231016T22:11:12Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 316 | 47| 
 | 20231016T21:38:19Z | DOWNLOAD THIS FILE | https://github.com/queenleonard/fuzzy-couscous | 0 | 0| 
 | 20231016T21:00:00Z | This is the offical lore for sector. Will include model screenshots | https://github.com/Paradox348TTV/fuzzy-octo-spork | 0 | 0| 
-| 20231016T20:08:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9098 | 2019| 
 | 20231016T15:41:24Z | Reading JSON from Burp Logger++ and make it ready for Nuclei Fuzzing! | https://github.com/zyairelai/fuzz555 | 0 | 0| 
 | 20231016T12:46:48Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST, GraphQL and RPC (e.g., gRPC and Thrift). | https://github.com/EMResearch/EvoMaster | 370 | 68| 
 | 20231016T12:09:30Z | Sistema de classificação Fuzzy desenvolvido para o meu TCC, Do curso de Sistemas de Informação  | https://github.com/BarrettoDev/Sistema-de-Classifica-o-Fuzzy-Complexidade-das-Atividades-Avaliativas | 0 | 0| 
