@@ -70,6 +70,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231017T00:44:34Z | Null | https://github.com/codeb0ss/xWP-2 | 0 | 0| 
 | 20231017T00:19:37Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWxe | 1 | 0| 
 | 20231017T00:18:39Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANxe | 1 | 0| 
 | 20231017T00:17:56Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANxe | 1 | 0| 
@@ -79,7 +80,6 @@
 | 20231016T21:03:13Z | Python exploit for vsftpd 2.3.4 - Backdoor Command Execution  | https://github.com/vaishnavucv/CVE-2011-2523 | 0 | 0| 
 | 20231016T20:53:04Z | Helps to not keep too many old tabs open by exploiting the human reward system after closing one that has been open for a long time. | https://github.com/Eiernase/NeverGonnaCloseATab | 2 | 0| 
 | 20231016T20:35:24Z | Automate the obfuscation process for C# post-exploitation tools. | https://github.com/red5us/AutoInvisibilityCloak | 0 | 0| 
-| 20231016T19:26:22Z | Simple example of how to make a mouse-oriented gun firing system in 2D in Godot, exploiting node positions and other utility functions | https://github.com/Klaim/godot-test-gunner | 0 | 0| 
 
 
 # backdoor on Github 推荐
