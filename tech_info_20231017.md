@@ -87,9 +87,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231017T12:31:50Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 49434 | 23252| 
 | 20231017T11:13:43Z | %Fuzzy Garbanzo is a recipe application that allows users to find meals tailored to their specific taste preferences.% | https://github.com/ankits-svg/fuzzy-garbanzo | 0 | 0| 
-| 20231017T11:04:41Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 49433 | 23252| 
 | 20231017T10:04:20Z | It is an extension of the K-means clustering algorithm, which assigns a data point to only one cluster. FCM, on the other hand, allows a data point to belong to multiple clusters with different degrees of membership. | https://github.com/federicocestau/Fuzzy-C-Means-clustering | 0 | 0| 
+| 20231017T09:51:25Z | Coverage-guided, in-process fuzzing for the JVM | https://github.com/CodeIntelligenceTesting/jazzer | 864 | 117| 
 | 20231017T09:17:28Z | Null | https://github.com/BoBpiler/BoBpiler-fuzzer | 2 | 0| 
 | 20231017T07:24:14Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9100 | 2021| 
 
