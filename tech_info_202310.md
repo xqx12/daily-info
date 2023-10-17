@@ -70,7 +70,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231017T00:17:45Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANxe | 0 | 0| 
+| 20231017T00:19:37Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWxe | 1 | 0| 
+| 20231017T00:18:39Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANxe | 1 | 0| 
+| 20231017T00:17:56Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANxe | 1 | 0| 
 | 20231017T00:17:13Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANxe | 1 | 0| 
 | 20231016T21:14:40Z | A repo detailing the steps on the binary exploitation CTF | https://github.com/dilldylanpickle/Console-Rodeo-Binary-Exploitation-CTF-2023 | 0 | 0| 
 | 20231016T21:03:13Z | Python exploit for vsftpd 2.3.4 - Backdoor Command Execution  | https://github.com/vaishnavucv/CVE-2011-2523 | 0 | 0| 
@@ -78,8 +80,6 @@
 | 20231016T20:35:24Z | Automate the obfuscation process for C# post-exploitation tools. | https://github.com/red5us/AutoInvisibilityCloak | 0 | 0| 
 | 20231016T19:26:22Z | Simple example of how to make a mouse-oriented gun firing system in 2D in Godot, exploiting node positions and other utility functions | https://github.com/Klaim/godot-test-gunner | 0 | 0| 
 | 20231016T19:08:41Z | C2 Server for pentesting, exploitation, and payload creation | https://github.com/her3ticAVI/TITANII | 2 | 0| 
-| 20231016T12:49:40Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5954 | 525| 
-| 20231016T11:55:28Z | Quick exploit to test out rapid reset attack (CVE-2023-44487). Note: For education purpose only | https://github.com/studiogangster/CVE-2023-44487 | 0 | 0| 
 
 
 # backdoor on Github 推荐
