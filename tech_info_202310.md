@@ -70,6 +70,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231017T00:17:45Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANxe | 0 | 0| 
+| 20231017T00:17:13Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANxe | 1 | 0| 
 | 20231016T21:14:40Z | A repo detailing the steps on the binary exploitation CTF | https://github.com/dilldylanpickle/Console-Rodeo-Binary-Exploitation-CTF-2023 | 0 | 0| 
 | 20231016T21:03:13Z | Python exploit for vsftpd 2.3.4 - Backdoor Command Execution  | https://github.com/vaishnavucv/CVE-2011-2523 | 0 | 0| 
 | 20231016T20:53:04Z | Helps to not keep too many old tabs open by exploiting the human reward system after closing one that has been open for a long time. | https://github.com/Eiernase/NeverGonnaCloseATab | 2 | 0| 
@@ -78,13 +80,12 @@
 | 20231016T19:08:41Z | C2 Server for pentesting, exploitation, and payload creation | https://github.com/her3ticAVI/TITANII | 2 | 0| 
 | 20231016T12:49:40Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5954 | 525| 
 | 20231016T11:55:28Z | Quick exploit to test out rapid reset attack (CVE-2023-44487). Note: For education purpose only | https://github.com/studiogangster/CVE-2023-44487 | 0 | 0| 
-| 20231016T09:51:41Z | Null | https://github.com/yxl2001/Sqlite3_Loading_Extension_exploit | 0 | 0| 
-| 20231016T09:50:56Z | Null | https://github.com/sinistergeek/Pentestlab-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231017T00:16:42Z | GERADOR DE BACKDOOR PARA FACILITAR INICIANTES NO PENTEST! | https://github.com/Uno13x/UnoBack | 0 | 0| 
 | 20231016T21:03:13Z | Python exploit for vsftpd 2.3.4 - Backdoor Command Execution  | https://github.com/vaishnavucv/CVE-2011-2523 | 0 | 0| 
 | 20231016T14:38:00Z | Open-Source Remote Administration Tool For Windows C# (RAT) | https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp | 1826 | 721| 
 | 20231016T10:50:14Z | Null | https://github.com/initch/FL_Backdoors | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20231015T17:14:39Z | Null | https://github.com/Irohasu500/backdoor_assist_membership_inference | 0 | 0| 
 | 20231015T17:03:59Z | Backdoor | https://github.com/Pra-kas/Backdoor | 1 | 0| 
 | 20231015T14:20:42Z | Towards Stable Backdoor Purification through Feature Shift Tuning (NeurIPS 2023) | https://github.com/AISafety-HKUST/stable_backdoor_purification | 10 | 0| 
-| 20231015T11:03:47Z | Null | https://github.com/cenzothebetx/backdoor2-0 | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
