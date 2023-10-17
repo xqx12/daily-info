@@ -100,6 +100,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231016T15:24:44Z | UnitTestBot Symbolic Execution machine | https://github.com/UnitTestBot/USE | 0 | 0| 
 | 20231016T12:48:07Z | Bottom-up memory-safety for assembly language using symbolic execution | https://github.com/scaspin/memory-safe-assembly | 7 | 0| 
 | 20231016T07:39:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2336 | 637| 
 | 20231016T04:28:34Z | Automatic %bomblab% solver with symbolic executions. | https://github.com/Aplace0927/qwoqLab | 0 | 0| 
@@ -109,18 +110,17 @@
 | 20231013T02:26:43Z | Null | https://github.com/JHGL0419/Symbolic_Execution | 0 | 0| 
 | 20231011T04:25:49Z | Null | https://github.com/acheron2302/SymbolicExecution | 0 | 0| 
 | 20231009T22:42:21Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 205 | 19| 
-| 20231008T02:26:19Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 357 | 82| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231016T23:17:10Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 21 | 2| 
 | 20231014T02:30:18Z | This repository contains the evaluation code for the NDSS 2024 paper: MPCDIFF: Testing and Repairing MPC-Hardened Deep Learning Models. | https://github.com/Qi-Pang/MPCDiff | 8 | 0| 
 | 20231010T10:50:00Z | Implementation of the NDSS%24 paper %SigmaDiff: Semantics-Aware Deep Graph Matching for Pseudocode Diffing% | https://github.com/yijiufly/SigmaDiff | 3 | 1| 
 | 20231010T04:30:05Z | Code for the paper %Overconfidence is a Dangerous Thing: Mitigating Membership Inference Attacks by Enforcing Less Confident Prediction% in NDSS%24. | https://github.com/DependableSystemsLab/MIA_defense_HAMP | 4 | 1| 
 | 20231009T15:06:42Z | Source code for the paper %SLMIA-SR: Speaker-Level Membership Inference Attacks against Speaker Recognition Systems% accepted by NDSS 2024 | https://github.com/S3L-official/SLMIA-SR | 2 | 0| 
 | 20231009T03:10:33Z | Source code for our NDSS%18 paper %Automated Website Fingerprinting through Deep Learning% | https://github.com/DistriNet/DLWF | 81 | 39| 
-| 20231005T16:39:36Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 20 | 2| 
 
 
 # fuzz on Github 推荐

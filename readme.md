@@ -72,6 +72,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231016T15:24:44Z | UnitTestBot Symbolic Execution machine | https://github.com/UnitTestBot/USE | 0 | 0| 
 | 20231016T12:48:07Z | Bottom-up memory-safety for assembly language using symbolic execution | https://github.com/scaspin/memory-safe-assembly | 7 | 0| 
 | 20231016T07:39:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2336 | 637| 
 | 20231016T04:28:34Z | Automatic %bomblab% solver with symbolic executions. | https://github.com/Aplace0927/qwoqLab | 0 | 0| 
@@ -81,6 +82,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231016T23:17:10Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 21 | 2| 
 
 
 # fuzz on Github 推荐
