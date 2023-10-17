@@ -74,12 +74,12 @@
 | 20231017T00:18:39Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANxe | 1 | 0| 
 | 20231017T00:17:56Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANxe | 1 | 0| 
 | 20231017T00:17:13Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANxe | 1 | 0| 
+| 20231016T22:07:29Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5422 | 1055| 
 | 20231016T21:14:40Z | A repo detailing the steps on the binary exploitation CTF | https://github.com/dilldylanpickle/Console-Rodeo-Binary-Exploitation-CTF-2023 | 0 | 0| 
 | 20231016T21:03:13Z | Python exploit for vsftpd 2.3.4 - Backdoor Command Execution  | https://github.com/vaishnavucv/CVE-2011-2523 | 0 | 0| 
 | 20231016T20:53:04Z | Helps to not keep too many old tabs open by exploiting the human reward system after closing one that has been open for a long time. | https://github.com/Eiernase/NeverGonnaCloseATab | 2 | 0| 
 | 20231016T20:35:24Z | Automate the obfuscation process for C# post-exploitation tools. | https://github.com/red5us/AutoInvisibilityCloak | 0 | 0| 
 | 20231016T19:26:22Z | Simple example of how to make a mouse-oriented gun firing system in 2D in Godot, exploiting node positions and other utility functions | https://github.com/Klaim/godot-test-gunner | 0 | 0| 
-| 20231016T19:08:41Z | C2 Server for pentesting, exploitation, and payload creation | https://github.com/her3ticAVI/TITANII | 2 | 0| 
 
 
 # backdoor on Github 推荐
