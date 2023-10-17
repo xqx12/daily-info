@@ -70,7 +70,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231017T00:59:39Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5960 | 529| 
+| 20231017T01:15:35Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5961 | 529| 
 | 20231017T00:44:34Z | Null | https://github.com/codeb0ss/xWP-2 | 0 | 0| 
 | 20231017T00:19:37Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWxe | 1 | 0| 
 | 20231017T00:18:39Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANxe | 1 | 0| 
