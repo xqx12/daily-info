@@ -21,9 +21,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231017T12:50:35Z | CVE-2023-41993 | Null | https://github.com/po6ix/POC-for-CVE-2023-41993 | | 
 | 20231017T12:11:03Z | cve-2023-41993 | testing poc | https://github.com/hrtowii/cve-2023-41993-test | | 
 | 20231017T11:54:00Z | CVE-2023-20198 | CVE-2023-20198 Checkscript | https://github.com/Atea-Redteam/CVE-2023-20198 | | 
-| 20231017T11:47:48Z | CVE-2023-41993 | Null | https://github.com/po6ix/POC-for-CVE-2023-41993 | | 
 | 20231017T11:21:12Z | CVE-2023-29489 | Null | https://github.com/S4muraiMelayu1337/CVE-2023-29489 | | 
 | 20231017T10:37:54Z | CVE-2023-20198 | exploit CVE-2023-20198 | https://github.com/pypcod/CVE-2023-20198 | | 
 | 20231017T09:03:45Z | CVE-2023-38545 | socks5 heap buffer overflow | https://github.com/d0rb/CVE-2023-38545 | | 
