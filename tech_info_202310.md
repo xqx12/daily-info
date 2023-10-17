@@ -70,6 +70,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231017T12:44:20Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5967 | 529| 
 | 20231017T10:37:54Z | exploit CVE-2023-20198 | https://github.com/pypcod/CVE-2023-20198 | 0 | 0| 
 | 20231017T10:13:40Z | OSWE Exploits | https://github.com/d1zzy666/exploits-oswe | 0 | 0| 
 | 20231017T05:59:30Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 744 | 179| 
@@ -78,7 +79,6 @@
 | 20231017T03:47:07Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5396 | 698| 
 | 20231017T01:50:16Z | Null | https://github.com/bothelpersgpt/i-ready-exploits | 0 | 0| 
 | 20231017T01:37:01Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0019-app-sT245-exploit-comply | 0 | 0| 
-| 20231017T01:15:35Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5961 | 529| 
 | 20231017T00:44:34Z | Null | https://github.com/codeb0ss/xWP-2 | 0 | 0| 
 
 
