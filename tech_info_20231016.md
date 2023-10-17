@@ -53,9 +53,9 @@
 | 20231016T20:35:24Z | Automate the obfuscation process for C# post-exploitation tools. | https://github.com/red5us/AutoInvisibilityCloak | 0 | 0| 
 | 20231016T19:26:22Z | Simple example of how to make a mouse-oriented gun firing system in 2D in Godot, exploiting node positions and other utility functions | https://github.com/Klaim/godot-test-gunner | 0 | 0| 
 | 20231016T19:08:41Z | C2 Server for pentesting, exploitation, and payload creation | https://github.com/her3ticAVI/TITANII | 2 | 0| 
-| 20231016T12:49:40Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5954 | 525| 
 | 20231016T11:55:28Z | Quick exploit to test out rapid reset attack (CVE-2023-44487). Note: For education purpose only | https://github.com/studiogangster/CVE-2023-44487 | 0 | 0| 
 | 20231016T09:51:41Z | Null | https://github.com/yxl2001/Sqlite3_Loading_Extension_exploit | 0 | 0| 
+| 20231016T09:50:56Z | Null | https://github.com/sinistergeek/Pentestlab-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
