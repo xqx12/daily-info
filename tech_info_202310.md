@@ -132,10 +132,10 @@
 | 20231016T21:38:19Z | DOWNLOAD THIS FILE | https://github.com/queenleonard/fuzzy-couscous | 0 | 0| 
 | 20231016T21:00:00Z | This is the offical lore for sector. Will include model screenshots | https://github.com/Paradox348TTV/fuzzy-octo-spork | 0 | 0| 
 | 20231016T20:08:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9098 | 2019| 
+| 20231016T15:41:24Z | Reading JSON from Burp Logger++ and make it ready for Nuclei Fuzzing! | https://github.com/zyairelai/fuzz555 | 0 | 0| 
 | 20231016T12:46:48Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST, GraphQL and RPC (e.g., gRPC and Thrift). | https://github.com/EMResearch/EvoMaster | 370 | 68| 
 | 20231016T12:09:30Z | Sistema de classificação Fuzzy desenvolvido para o meu TCC, Do curso de Sistemas de Informação  | https://github.com/BarrettoDev/Sistema-de-Classifica-o-Fuzzy-Complexidade-das-Atividades-Avaliativas | 0 | 0| 
 | 20231016T12:00:45Z | Null | https://github.com/St-Linda/fuzzy-tribble | 0 | 0| 
-| 20231016T11:46:30Z | Null | https://github.com/christos-eth/rust-smart-contract-fuzzer | 0 | 0| 
 
 
 
