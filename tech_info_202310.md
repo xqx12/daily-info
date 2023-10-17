@@ -26,13 +26,13 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231017T01:44:11Z | CVE-2023-22515 | Confluence未授权添加管理员用户(CVE-2023-22515)漏洞利用工具 | https://github.com/ad-calcium/CVE-2023-22515 | | 
 | 20231017T01:16:45Z | CVE-2023-42819 | CVE-2023-42819 | https://github.com/C1ph3rX13/CVE-2023-42819 | | 
 | 20231016T23:40:56Z | CVE-2023-41993 | Null | https://github.com/po6ix/POC-for-CVE-2023-41993 | | 
 | 20231016T20:03:56Z | CVE-2023-22515 | CVE-2023-22515: Confluence Broken Access Control Exploit | https://github.com/Chocapikk/CVE-2023-22515 | | 
 | 20231016T19:40:21Z | CVE-2023-44487 | Quick exploit to test out rapid reset attack (CVE-2023-44487). Note: For education purpose only | https://github.com/studiogangster/CVE-2023-44487 | | 
 | 20231016T18:07:14Z | CVE-2023-38545 | A proof of concept for testing CVE-2023-38545 against local curl | https://github.com/bcdannyboy/CVE-2023-38545 | | 
 | 20231016T16:00:43Z | CVE-2023-27163 | Null | https://github.com/DcardosoGH/CVE-2023-27163-Maltrail-0.53-RCE | | 
-| 20231016T14:52:11Z | CVE-2023-22515 | Confluence未授权添加管理员用户(CVE-2023-22515)漏洞利用工具 | https://github.com/ad-calcium/CVE-2023-22515 | | 
 | 20231016T13:37:14Z | CVE-2023-27997 | Fortinet unauthenticated RCE POC and writeup... | https://github.com/m474r5/CVE-2023-27997-RCE | | 
 | 20231016T12:45:12Z | CVE-2023-4415 | 锐捷RG-EW1200G登录绕过(CVE-2023-4415) | https://github.com/thedarknessdied/Ruijie_RG-EW1200G_login_bypass-CVE-2023-4415 | | 
 | 20231016T10:51:10Z | CVE-2023-42820 | CVE-2023-42820 | https://github.com/C1ph3rX13/CVE-2023-42820 | | 

@@ -24,11 +24,11 @@
 | 20231016T19:40:21Z | CVE-2023-44487 | Quick exploit to test out rapid reset attack (CVE-2023-44487). Note: For education purpose only | https://github.com/studiogangster/CVE-2023-44487 | | 
 | 20231016T18:07:14Z | CVE-2023-38545 | A proof of concept for testing CVE-2023-38545 against local curl | https://github.com/bcdannyboy/CVE-2023-38545 | | 
 | 20231016T16:00:43Z | CVE-2023-27163 | Null | https://github.com/DcardosoGH/CVE-2023-27163-Maltrail-0.53-RCE | | 
-| 20231016T14:52:11Z | CVE-2023-22515 | Confluence未授权添加管理员用户(CVE-2023-22515)漏洞利用工具 | https://github.com/ad-calcium/CVE-2023-22515 | | 
 | 20231016T13:37:14Z | CVE-2023-27997 | Fortinet unauthenticated RCE POC and writeup... | https://github.com/m474r5/CVE-2023-27997-RCE | | 
 | 20231016T12:45:12Z | CVE-2023-4415 | 锐捷RG-EW1200G登录绕过(CVE-2023-4415) | https://github.com/thedarknessdied/Ruijie_RG-EW1200G_login_bypass-CVE-2023-4415 | | 
 | 20231016T10:51:10Z | CVE-2023-42820 | CVE-2023-42820 | https://github.com/C1ph3rX13/CVE-2023-42820 | | 
 | 20231016T10:18:39Z | CVE-2023-38545 | CVE-2023-38545 POC for the curl command line tool | https://github.com/dbrugman/CVE-2023-38545-POC | | 
+| 20231016T08:49:25Z | CVE-2023-40361 | Security Vulnerability - SECUDOS Qiata | https://github.com/vianic/CVE-2023-40361 | | 
 
 
 # klee on Github 推荐
