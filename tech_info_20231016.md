@@ -62,7 +62,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20231016T21:03:13Z | Python exploit for vsftpd 2.3.4 - Backdoor Command Execution  | https://github.com/vaishnavucv/CVE-2011-2523 | 0 | 0| 
-| 20231016T14:38:00Z | Open-Source Remote Administration Tool For Windows C# (RAT) | https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp | 1826 | 721| 
+| 20231016T14:38:00Z | Open-Source Remote Administration Tool For Windows C# (RAT) | https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp | 1826 | 722| 
 | 20231016T10:50:14Z | Null | https://github.com/initch/FL_Backdoors | 0 | 0| 
 | 20231016T06:59:24Z | backdoor attack using reinforcement learning | https://github.com/Endlessnes/my-lyx-repo | 0 | 0| 
 | 20231016T04:51:51Z | Null | https://github.com/Advaidv121/Backdoor-And-Server | 1 | 0| 
