@@ -80,7 +80,7 @@
 | 20231018T10:40:50Z | Detectar vulnerabilidades script con nmap | https://github.com/hackingyseguridad/nmap | 18 | 6| 
 | 20231018T10:33:05Z | Null | https://github.com/Tommolo/VM-Design-Exploit | 0 | 0| 
 | 20231018T09:41:03Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5978 | 532| 
-| 20231018T01:59:13Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0062-app-xvIRX-tackle-exploit | 0 | 0| 
+| 20231018T08:14:37Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5428 | 1057| 
 
 
 # backdoor on Github 推荐
@@ -101,10 +101,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231018T12:37:11Z | Automatic %bomblab% solver with symbolic executions. | https://github.com/Aplace0927/qwoqLab | 0 | 0| 
 | 20231017T15:09:25Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2338 | 638| 
 | 20231016T15:24:44Z | UnitTestBot Symbolic Execution machine | https://github.com/UnitTestBot/USE | 0 | 1| 
 | 20231016T12:48:07Z | Bottom-up memory-safety for assembly language using symbolic execution | https://github.com/scaspin/memory-safe-assembly | 7 | 0| 
-| 20231016T04:28:34Z | Automatic %bomblab% solver with symbolic executions. | https://github.com/Aplace0927/qwoqLab | 0 | 0| 
 | 20231016T01:04:26Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 62 | 9| 
 | 20231015T16:05:39Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 202 | 42| 
 | 20231015T14:56:25Z | Bachelor%s thesis: developing symbolic execution for Rlang using Chef and S2E | https://github.com/SoptikHa2/bachelors-thesis | 4 | 0| 

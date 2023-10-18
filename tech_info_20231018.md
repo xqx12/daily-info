@@ -54,7 +54,7 @@
 | 20231018T10:40:50Z | Detectar vulnerabilidades script con nmap | https://github.com/hackingyseguridad/nmap | 18 | 6| 
 | 20231018T10:33:05Z | Null | https://github.com/Tommolo/VM-Design-Exploit | 0 | 0| 
 | 20231018T09:41:03Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5978 | 532| 
-| 20231018T01:59:13Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0062-app-xvIRX-tackle-exploit | 0 | 0| 
+| 20231018T08:14:37Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5428 | 1057| 
 
 
 # backdoor on Github 推荐
@@ -67,6 +67,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231018T12:37:11Z | Automatic %bomblab% solver with symbolic executions. | https://github.com/Aplace0927/qwoqLab | 0 | 0| 
 
 
 # big4 on Github 推荐
