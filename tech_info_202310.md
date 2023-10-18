@@ -128,6 +128,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231018T00:47:24Z | Null | https://github.com/wahyu-adi-n/Fuzzy-Logic | 2 | 0| 
 | 20231018T00:24:12Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2777 | 198| 
 | 20231017T23:10:18Z | Null | https://github.com/FlapJack20221/fuzzy-tribble | 0 | 0| 
 | 20231017T21:01:09Z | Null | https://github.com/kexZoxxx/fuzzy-bassoon | 0 | 0| 
@@ -137,7 +138,6 @@
 | 20231017T19:49:38Z | DB Analysis as part of Maven Analytics% Advanced MySQL course.  | https://github.com/khaled-mehizel/maven-fuzzy-factory | 0 | 0| 
 | 20231017T15:10:25Z | A Maven plugin for running and analyzing fuzzing campaigns | https://github.com/neu-se/meringue | 3 | 3| 
 | 20231017T12:31:50Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 49434 | 23252| 
-| 20231017T11:13:43Z | %Fuzzy Garbanzo is a recipe application that allows users to find meals tailored to their specific taste preferences.% | https://github.com/ankits-svg/fuzzy-garbanzo | 0 | 0| 
 
 
 
