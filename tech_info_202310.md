@@ -41,11 +41,11 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231018T01:50:49Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 49 | 0| 
 | 20231018T01:40:55Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14051 | 424| 
 | 20231017T16:18:26Z | Null | https://github.com/dor3Monbotz/KLeechBot | 0 | 0| 
 | 20231017T15:09:25Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2338 | 638| 
 | 20231017T06:49:53Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 367 | 8| 
-| 20231017T06:21:54Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 48 | 0| 
 | 20231015T12:25:32Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 278 | 54| 
 | 20231011T03:07:48Z | Null | https://github.com/mm7274a00/klee1011 | 0 | 0| 
 | 20231009T02:55:06Z | Kleek - An Android App for Creating KakaoTalk Bots using Xposed API | https://github.com/naijun0403/kleek | 6 | 2| 
@@ -128,6 +128,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231018T01:49:55Z | Null | https://github.com/Fuzziegoon/fuzz-images | 0 | 0| 
 | 20231018T01:39:46Z | Web Fuzzing Tool | https://github.com/tomasilluminati/fuzzX | 0 | 0| 
 | 20231018T00:47:24Z | Null | https://github.com/wahyu-adi-n/Fuzzy-Logic | 2 | 0| 
 | 20231018T00:24:12Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2777 | 198| 
@@ -137,7 +138,6 @@
 | 20231017T20:40:46Z | Null | https://github.com/TwoTanawin/AI-and-Neuro-Fuzzy | 0 | 0| 
 | 20231017T20:35:53Z | Null | https://github.com/twoise/AI-and-Neuro-Fuzzy | 0 | 0| 
 | 20231017T19:49:38Z | DB Analysis as part of Maven Analytics% Advanced MySQL course.  | https://github.com/khaled-mehizel/maven-fuzzy-factory | 0 | 0| 
-| 20231017T15:10:25Z | A Maven plugin for running and analyzing fuzzing campaigns | https://github.com/neu-se/meringue | 3 | 3| 
 
 
 

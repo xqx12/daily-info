@@ -39,7 +39,6 @@
 | 20231017T16:18:26Z | Null | https://github.com/dor3Monbotz/KLeechBot | 0 | 0| 
 | 20231017T15:09:25Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2338 | 638| 
 | 20231017T06:49:53Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 367 | 8| 
-| 20231017T06:21:54Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 48 | 0| 
 
 
 # s2e on Github 推荐
