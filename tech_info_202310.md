@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231018T12:45:26Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5429 | 1057| 
 | 20231018T12:15:54Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 745 | 179| 
 | 20231018T11:59:05Z | Nacos综合漏洞利用GUI工具，集成了默认口令漏洞、SQL注入漏洞、身份认证绕过漏洞、反序列化漏洞的检测及其利用 | https://github.com/charonlight/NacosExploitGUI | 0 | 0| 
 | 20231018T11:44:12Z | Sticky notes for pentesting, bug bounty, CTF. | https://github.com/hideckies/exploit-notes | 403 | 88| 
@@ -80,7 +81,6 @@
 | 20231018T10:40:50Z | Detectar vulnerabilidades script con nmap | https://github.com/hackingyseguridad/nmap | 18 | 6| 
 | 20231018T10:33:05Z | Null | https://github.com/Tommolo/VM-Design-Exploit | 0 | 0| 
 | 20231018T09:41:03Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5978 | 532| 
-| 20231018T08:14:37Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5428 | 1057| 
 
 
 # backdoor on Github 推荐
