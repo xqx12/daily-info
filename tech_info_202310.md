@@ -26,11 +26,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231018T00:32:55Z | cve-2023-41993 | testing poc | https://github.com/hrtowii/cve-2023-41993-test | | 
 | 20231017T22:55:23Z | CVE-2023-22515 | CVE-2023-22515: Confluence Broken Access Control Exploit | https://github.com/Chocapikk/CVE-2023-22515 | | 
 | 20231017T20:56:48Z | CVE-2023-4169 | 锐捷RG-EW1200G登录绕过(CVE-2023-4415) | https://github.com/thedarknessdied/CVE-2023-4169_CVE-2023-3306_CVE-2023-4415 | | 
 | 20231017T18:46:22Z | CVE-2023-20198 | Null | https://github.com/emomeni/Simple-Ansible-for-CVE-2023-20198 | | 
 | 20231017T17:22:17Z | CVE-2023-41993 | CVE-2023-41993 | https://github.com/0x06060606/CVE-2023-41993 | | 
-| 20231017T15:59:07Z | cve-2023-41993 | testing poc | https://github.com/hrtowii/cve-2023-41993-test | | 
 | 20231017T15:51:02Z | CVE-2023-20198 | cisco-CVE-2023-20198-tester  | https://github.com/securityphoenix/cisco-CVE-2023-20198-tester | | 
 | 20231017T15:26:03Z | CVE-2023-20198 | CVE-2023-20198 Checkscript | https://github.com/Atea-Redteam/CVE-2023-20198 | | 
 | 20231017T14:00:22Z | CVE-2023-20198 | CVE-2023-20198 PoC (!) | https://github.com/d0rb/CVE-2023-20198 | | 
