@@ -26,10 +26,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231018T01:57:39Z | CVE-2023-22515 | CVE-2023-22515: Confluence Broken Access Control Exploit | https://github.com/Chocapikk/CVE-2023-22515 | | 
 | 20231018T00:49:55Z | CVE-2023-32315 | Openfire Console Authentication Bypass Vulnerability with RCE plugin | https://github.com/miko550/CVE-2023-32315 | | 
 | 20231018T00:32:55Z | cve-2023-41993 | testing poc | https://github.com/hrtowii/cve-2023-41993-test | | 
 | 20231017T23:18:43Z | CVE-2023-41993 | Null | https://github.com/po6ix/POC-for-CVE-2023-41993 | | 
-| 20231017T22:55:23Z | CVE-2023-22515 | CVE-2023-22515: Confluence Broken Access Control Exploit | https://github.com/Chocapikk/CVE-2023-22515 | | 
 | 20231017T20:56:48Z | CVE-2023-4169 | 锐捷RG-EW1200G登录绕过(CVE-2023-4415) | https://github.com/thedarknessdied/CVE-2023-4169_CVE-2023-3306_CVE-2023-4415 | | 
 | 20231017T18:46:22Z | CVE-2023-20198 | Null | https://github.com/emomeni/Simple-Ansible-for-CVE-2023-20198 | | 
 | 20231017T17:22:17Z | CVE-2023-41993 | CVE-2023-41993 | https://github.com/0x06060606/CVE-2023-41993 | | 
@@ -70,6 +70,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231018T01:59:13Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0062-app-xvIRX-tackle-exploit | 0 | 0| 
 | 20231018T01:21:54Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5973 | 530| 
 | 20231018T00:58:49Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0031-app-hsztr-exploit-prevent | 0 | 0| 
 | 20231018T00:23:14Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWtg | 1 | 0| 
@@ -79,7 +80,6 @@
 | 20231018T00:18:10Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANtg | 1 | 0| 
 | 20231017T23:14:49Z | Null | https://github.com/Mirko76/Tib3rius-Active-Directory-Exploitation-Cheat-Sheet | 0 | 0| 
 | 20231017T22:55:23Z | CVE-2023-22515: Confluence Broken Access Control Exploit | https://github.com/Chocapikk/CVE-2023-22515 | 59 | 14| 
-| 20231017T17:22:17Z | CVE-2023-41993 | https://github.com/0x06060606/CVE-2023-41993 | 1 | 0| 
 
 
 # backdoor on Github 推荐

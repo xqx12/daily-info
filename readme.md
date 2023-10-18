@@ -22,7 +22,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20231017T23:18:43Z | CVE-2023-41993 | Null | https://github.com/po6ix/POC-for-CVE-2023-41993 | | 
-| 20231017T22:55:23Z | CVE-2023-22515 | CVE-2023-22515: Confluence Broken Access Control Exploit | https://github.com/Chocapikk/CVE-2023-22515 | | 
 | 20231017T20:56:48Z | CVE-2023-4169 | 锐捷RG-EW1200G登录绕过(CVE-2023-4415) | https://github.com/thedarknessdied/CVE-2023-4169_CVE-2023-3306_CVE-2023-4415 | | 
 | 20231017T18:46:22Z | CVE-2023-20198 | Null | https://github.com/emomeni/Simple-Ansible-for-CVE-2023-20198 | | 
 | 20231017T17:22:17Z | CVE-2023-41993 | CVE-2023-41993 | https://github.com/0x06060606/CVE-2023-41993 | | 
@@ -31,6 +30,7 @@
 | 20231017T14:00:22Z | CVE-2023-20198 | CVE-2023-20198 PoC (!) | https://github.com/d0rb/CVE-2023-20198 | | 
 | 20231017T13:18:50Z | CVE-2023-32784 | Null | https://github.com/ValentinPundikov/poc-CVE-2023-32784 | | 
 | 20231017T11:21:12Z | CVE-2023-29489 | Null | https://github.com/S4muraiMelayu1337/CVE-2023-29489 | | 
+| 20231017T10:37:54Z | CVE-2023-20198 | exploit CVE-2023-20198 | https://github.com/pypcod/CVE-2023-20198 | | 
 
 
 # klee on Github 推荐
