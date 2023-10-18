@@ -79,8 +79,8 @@
 | 20231018T11:29:18Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5398 | 699| 
 | 20231018T11:14:57Z | Python exploit-dev tool | https://github.com/synfosec/tikipwn | 0 | 0| 
 | 20231018T10:40:50Z | Detectar vulnerabilidades script con nmap | https://github.com/hackingyseguridad/nmap | 18 | 6| 
+| 20231018T10:39:42Z | A tool designed to exploit a privilege escalation vulnerability in the sudo program on Unix-like systems. It takes advantage of a specific misconfiguration or flaw in sudo to gain elevated privileges on the system, essentially allowing a regular user to execute commands as the root user. | https://github.com/TH3xACE/SUDO_KILLER | 1987 | 244| 
 | 20231018T10:33:05Z | Null | https://github.com/Tommolo/VM-Design-Exploit | 0 | 0| 
-| 20231018T09:41:03Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5978 | 532| 
 
 
 # backdoor on Github 推荐
