@@ -88,6 +88,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20231017T06:40:50Z | https://marsvillager.github.io/PaperWorkflowAutomation/summary/visualize.html (Safari, Firefox ✓ Edge, Chrome ✗) 论文爬虫+概述: IEEE Symposium on Security and Privacy (S&P), USENIX Security Symposium, Network and Distributed System Security Symposium (NDSS)  | https://github.com/marsvillager/PaperWorkflowAutomation | 5 | 0| 
+| 20231017T02:55:31Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 82 | 4| 
 
 
 # fuzz on Github 推荐
