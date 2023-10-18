@@ -16,6 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231018T12:19:55Z | CVE-2023-45857 | Null | https://github.com/valentin-panov/CVE-2023-45857 | | 
 | 20231018T12:09:17Z | CVE-2023-22515 | CVE-2023-22515: Confluence Broken Access Control Exploit | https://github.com/Chocapikk/CVE-2023-22515 | | 
 | 20231018T12:00:59Z | CVE-2023-4169 | 锐捷RG-EW1200G登录绕过(CVE-2023-4415) | https://github.com/thedarknessdied/CVE-2023-4169_CVE-2023-3306_CVE-2023-4415 | | 
 | 20231018T11:09:02Z | CVE-2023-20198 | CVE-2023-20198 PoC (!) | https://github.com/Tounsi007/CVE-2023-20198 | | 
@@ -25,7 +26,6 @@
 | 20231018T07:58:33Z | CVE-2023-5540 | Null | https://github.com/cli-ish/CVE-2023-5540 | | 
 | 20231018T07:58:31Z | CVE-2023-20198 | Checker for CVE-2023-20198 , Not a full POC Just checks the implementation and detects if hex is in response or not | https://github.com/JoyGhoshs/CVE-2023-20198 | | 
 | 20231018T07:58:25Z | CVE-2023-5539 | Null | https://github.com/cli-ish/CVE-2023-5539 | | 
-| 20231018T07:58:16Z | CVE-2023-28330 | Null | https://github.com/cli-ish/CVE-2023-28330 | | 
 
 
 # klee on Github 推荐
