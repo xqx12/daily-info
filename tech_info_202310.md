@@ -70,6 +70,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231018T01:21:54Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5973 | 530| 
 | 20231018T00:58:49Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0031-app-hsztr-exploit-prevent | 0 | 0| 
 | 20231018T00:23:14Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWtg | 1 | 0| 
 | 20231018T00:22:35Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANtg | 1 | 0| 
@@ -79,7 +80,6 @@
 | 20231017T23:14:49Z | Null | https://github.com/Mirko76/Tib3rius-Active-Directory-Exploitation-Cheat-Sheet | 0 | 0| 
 | 20231017T22:55:23Z | CVE-2023-22515: Confluence Broken Access Control Exploit | https://github.com/Chocapikk/CVE-2023-22515 | 59 | 14| 
 | 20231017T17:22:17Z | CVE-2023-41993 | https://github.com/0x06060606/CVE-2023-41993 | 1 | 0| 
-| 20231017T12:44:20Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5967 | 529| 
 
 
 # backdoor on Github 推荐
