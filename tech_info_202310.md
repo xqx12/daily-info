@@ -128,8 +128,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231018T01:55:03Z | Web Fuzzing Tool | https://github.com/tomasilluminati/fuzzX | 0 | 0| 
 | 20231018T01:49:55Z | Null | https://github.com/Fuzziegoon/fuzz-images | 0 | 0| 
-| 20231018T01:39:46Z | Web Fuzzing Tool | https://github.com/tomasilluminati/fuzzX | 0 | 0| 
 | 20231018T00:47:24Z | Null | https://github.com/wahyu-adi-n/Fuzzy-Logic | 2 | 0| 
 | 20231018T00:24:12Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2777 | 198| 
 | 20231017T23:10:18Z | Null | https://github.com/FlapJack20221/fuzzy-tribble | 0 | 0| 
