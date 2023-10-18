@@ -78,6 +78,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231018T12:11:13Z | Null | https://github.com/Ivanenko2105/fuzzy_controller-master | 0 | 0| 
 | 20231018T11:54:36Z | Null | https://github.com/JuanFdoPerez/FuzzyLogic | 0 | 0| 
 | 20231018T10:07:15Z | testest | https://github.com/daldagur1/fuzzconfig | 0 | 0| 
 | 20231018T09:36:11Z | Redis raft fuzzer | https://github.com/ds-testing-user/redisraft-fuzzing | 0 | 0| 
