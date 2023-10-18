@@ -53,7 +53,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20231017T23:14:49Z | Null | https://github.com/Mirko76/Tib3rius-Active-Directory-Exploitation-Cheat-Sheet | 0 | 0| 
-| 20231017T22:55:23Z | CVE-2023-22515: Confluence Broken Access Control Exploit | https://github.com/Chocapikk/CVE-2023-22515 | 59 | 13| 
+| 20231017T22:55:23Z | CVE-2023-22515: Confluence Broken Access Control Exploit | https://github.com/Chocapikk/CVE-2023-22515 | 59 | 14| 
 | 20231017T17:22:17Z | CVE-2023-41993 | https://github.com/0x06060606/CVE-2023-41993 | 1 | 0| 
 | 20231017T12:44:20Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5967 | 529| 
 | 20231017T10:37:54Z | exploit CVE-2023-20198 | https://github.com/pypcod/CVE-2023-20198 | 0 | 0| 
