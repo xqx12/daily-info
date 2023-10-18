@@ -129,6 +129,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231018T12:51:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9103 | 2021| 
 | 20231018T12:11:13Z | Null | https://github.com/Ivanenko2105/fuzzy_controller-master | 0 | 0| 
 | 20231018T11:54:36Z | Null | https://github.com/JuanFdoPerez/FuzzyLogic | 0 | 0| 
 | 20231018T10:07:15Z | testest | https://github.com/daldagur1/fuzzconfig | 0 | 0| 
@@ -138,7 +139,6 @@
 | 20231018T01:55:03Z | Web Fuzzing Tool | https://github.com/tomasilluminati/fuzzX | 0 | 0| 
 | 20231018T01:49:55Z | Null | https://github.com/Fuzziegoon/fuzz-images | 0 | 0| 
 | 20231018T00:47:24Z | Null | https://github.com/wahyu-adi-n/Fuzzy-Logic | 2 | 0| 
-| 20231018T00:24:12Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2777 | 198| 
 
 
 
