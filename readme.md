@@ -16,10 +16,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231018T12:00:59Z | CVE-2023-4169 | 锐捷RG-EW1200G登录绕过(CVE-2023-4415) | https://github.com/thedarknessdied/CVE-2023-4169_CVE-2023-3306_CVE-2023-4415 | | 
 | 20231018T11:09:02Z | CVE-2023-20198 | CVE-2023-20198 PoC (!) | https://github.com/Tounsi007/CVE-2023-20198 | | 
 | 20231018T10:52:40Z | CVE-2023-20198 | Null | https://github.com/cert-orangecyberdefense/Cisco_CVE-2023-20198 | | 
 | 20231018T09:24:53Z | CVE-2023-20198 | CVE-2023-20198 Checkscript | https://github.com/Atea-Redteam/CVE-2023-20198 | | 
-| 20231018T08:56:51Z | CVE-2023-4169 | 锐捷RG-EW1200G登录绕过(CVE-2023-4415) | https://github.com/thedarknessdied/CVE-2023-4169_CVE-2023-3306_CVE-2023-4415 | | 
 | 20231018T08:43:45Z | CVE-2023-22515 | CVE-2023-22515: Confluence Broken Access Control Exploit | https://github.com/Chocapikk/CVE-2023-22515 | | 
 | 20231018T08:08:59Z | cve-2023-41993 | testing poc | https://github.com/hrtowii/cve-2023-41993-test | | 
 | 20231018T07:58:33Z | CVE-2023-5540 | Null | https://github.com/cli-ish/CVE-2023-5540 | | 
@@ -39,6 +39,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231018T09:47:48Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 88 | 50| 
 
 
 # exploit on Github 推荐
