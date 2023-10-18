@@ -60,8 +60,8 @@
 | 20231017T10:33:44Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 578 | 112| 
 | 20231017T10:13:40Z | OSWE Exploits | https://github.com/d1zzy666/exploits-oswe | 0 | 0| 
 | 20231017T09:05:32Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5422 | 1055| 
+| 20231017T09:05:04Z | Code and data for EMNLP 2023 findings: Exploiting Emotion-Semantic Correlations for Empathetic Response Generation | https://github.com/zhouzhouyang520/EmpatheticDialogueGeneration_ESCM | 0 | 0| 
 | 20231017T05:59:30Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 744 | 179| 
-| 20231017T05:00:50Z | A list of IDs of Roblox users that were suspected of exploiting. Feel free to use it personally. | https://github.com/Onionskinner/roblox-exploiter-blacklist | 0 | 0| 
 
 
 # backdoor on Github 推荐
