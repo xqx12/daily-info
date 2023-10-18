@@ -16,9 +16,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231018T12:22:35Z | CVE-2023-4169 | 锐捷RG-EW1200G登录绕过(CVE-2023-4415) | https://github.com/thedarknessdied/CVE-2023-4169_CVE-2023-3306_CVE-2023-4415 | | 
 | 20231018T12:19:55Z | CVE-2023-45857 | Null | https://github.com/valentin-panov/CVE-2023-45857 | | 
 | 20231018T12:09:17Z | CVE-2023-22515 | CVE-2023-22515: Confluence Broken Access Control Exploit | https://github.com/Chocapikk/CVE-2023-22515 | | 
-| 20231018T12:00:59Z | CVE-2023-4169 | 锐捷RG-EW1200G登录绕过(CVE-2023-4415) | https://github.com/thedarknessdied/CVE-2023-4169_CVE-2023-3306_CVE-2023-4415 | | 
 | 20231018T11:09:02Z | CVE-2023-20198 | CVE-2023-20198 PoC (!) | https://github.com/Tounsi007/CVE-2023-20198 | | 
 | 20231018T10:52:40Z | CVE-2023-20198 | Null | https://github.com/cert-orangecyberdefense/Cisco_CVE-2023-20198 | | 
 | 20231018T09:24:53Z | CVE-2023-20198 | CVE-2023-20198 Checkscript | https://github.com/Atea-Redteam/CVE-2023-20198 | | 
