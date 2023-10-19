@@ -86,6 +86,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231019T12:43:49Z | Null | https://github.com/initch/FL_Backdoors | 0 | 0| 
 | 20231019T10:12:05Z | Null | https://github.com/curlytheses/Android-Backdoor | 1 | 0| 
 | 20231019T08:10:46Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/krisnova/boopkit | 1423 | 153| 
 | 20231019T06:48:27Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 214 | 23| 
@@ -95,7 +96,6 @@
 | 20231018T21:35:41Z | 2 Python programmes used for detecting and preventing backdoor attacks in LLMs. | https://github.com/AceMegalodon/Mitigating_Backdoor_Attacks_in_LLMs | 0 | 0| 
 | 20231018T20:39:15Z | Null | https://github.com/August2211/OmegaBackdoorPatch | 0 | 0| 
 | 20231018T18:44:10Z | PHP shell backdoors list  ( collection ) | https://github.com/1337r0j4n/php-backdoors | 48 | 15| 
-| 20231018T18:16:32Z | Just StoneTransferProtocol&Backdoor | https://github.com/projectlonginus/JustStone | 0 | 0| 
 
 
 # symbolic execution on Github 推荐

@@ -59,6 +59,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231019T12:43:49Z | Null | https://github.com/initch/FL_Backdoors | 0 | 0| 
 | 20231019T10:12:05Z | Null | https://github.com/curlytheses/Android-Backdoor | 1 | 0| 
 | 20231019T08:10:46Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/krisnova/boopkit | 1423 | 153| 
 | 20231019T06:48:27Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 214 | 23| 
