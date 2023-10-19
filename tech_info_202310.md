@@ -129,6 +129,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231019T00:31:21Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 10282 | 1164| 
 | 20231018T22:19:03Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5101 | 547| 
 | 20231018T21:57:06Z | simple python script for gsm/cdma 3/4G modem fuzzing | https://github.com/jproveda/fuzzermodem | 0 | 0| 
 | 20231018T20:30:41Z | Null | https://github.com/Valorant-UNDETECTET/fuzzy-dollop | 0 | 0| 
@@ -138,7 +139,6 @@
 | 20231018T10:35:37Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2778 | 198| 
 | 20231018T10:07:15Z | testest | https://github.com/daldagur1/fuzzconfig | 0 | 0| 
 | 20231018T09:36:11Z | Redis raft fuzzer | https://github.com/ds-testing-user/redisraft-fuzzing | 0 | 0| 
-| 20231018T09:20:19Z | Fuzzing Etcd raft | https://github.com/ds-testing-user/etcd-fuzzing | 0 | 0| 
 
 
 
