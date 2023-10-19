@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231019T00:51:52Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWut | 1 | 0| 
 | 20231019T00:51:03Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANut | 1 | 0| 
 | 20231019T00:50:24Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANut | 1 | 0| 
 | 20231019T00:49:04Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANut | 1 | 0| 
@@ -80,7 +81,6 @@
 | 20231018T20:48:54Z | various tools, that you can (or can not) find useful | https://github.com/nobodyisnobody/tools | 3 | 0| 
 | 20231018T18:13:43Z | Null | https://github.com/RiotDevelopment/LuffyExploits | 0 | 0| 
 | 20231018T14:26:01Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 579 | 112| 
-| 20231018T12:45:26Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5429 | 1057| 
 
 
 # backdoor on Github 推荐
