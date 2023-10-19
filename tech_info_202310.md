@@ -26,10 +26,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231019T01:56:00Z | CVE-2023-41993 | Null | https://github.com/po6ix/POC-for-CVE-2023-41993 | | 
 | 20231019T01:44:50Z | cve-2023-41993 | testing poc | https://github.com/hrtowii/cve-2023-41993-test | | 
 | 20231019T01:37:25Z | CVE-2023-44227 | Null | https://github.com/codeb0ss/CVE-2023-44227-PoC | | 
 | 20231019T01:11:28Z | CVE-2023-5601 | Null | https://github.com/codeb0ss/CVE-2023-5601-PoC | | 
-| 20231019T00:23:41Z | CVE-2023-41993 | Null | https://github.com/po6ix/POC-for-CVE-2023-41993 | | 
 | 20231018T19:25:42Z | CVE-2023-45857 | Null | https://github.com/valentin-panov/CVE-2023-45857 | | 
 | 20231018T18:18:25Z | CVE-2023-45966 | Blind SSRF in umputun/remark42 <= 1.12.1 | https://github.com/jet-pentest/CVE-2023-45966 | | 
 | 20231018T18:05:52Z | 未知编号 | Remediate CVE_2023_20198 on Cisco IOS-XE devices. | https://github.com/alekos3/CVE_2023_20198_Remediator | | 
