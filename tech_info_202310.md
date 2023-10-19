@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231019T01:33:08Z | CVE-2023-44227 | Null | https://github.com/codeb0ss/CVE-2023-44227-PoC | | 
+| 20231019T01:34:17Z | CVE-2023-44227 | Null | https://github.com/codeb0ss/CVE-2023-44227-PoC | | 
 | 20231019T01:11:28Z | CVE-2023-5601 | Null | https://github.com/codeb0ss/CVE-2023-5601-PoC | | 
 | 20231019T00:23:41Z | CVE-2023-41993 | Null | https://github.com/po6ix/POC-for-CVE-2023-41993 | | 
 | 20231019T00:13:22Z | cve-2023-41993 | testing poc | https://github.com/hrtowii/cve-2023-41993-test | | 
