@@ -87,7 +87,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231018T22:19:03Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5101 | 547| 
 | 20231018T21:57:06Z | simple python script for gsm/cdma 3/4G modem fuzzing | https://github.com/jproveda/fuzzermodem | 0 | 0| 
 | 20231018T20:30:41Z | Null | https://github.com/Valorant-UNDETECTET/fuzzy-dollop | 0 | 0| 
 | 20231018T12:51:04Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9103 | 2021| 
@@ -97,6 +96,7 @@
 | 20231018T10:07:15Z | testest | https://github.com/daldagur1/fuzzconfig | 0 | 0| 
 | 20231018T09:36:11Z | Redis raft fuzzer | https://github.com/ds-testing-user/redisraft-fuzzing | 0 | 0| 
 | 20231018T09:20:19Z | Fuzzing Etcd raft | https://github.com/ds-testing-user/etcd-fuzzing | 0 | 0| 
+| 20231018T06:48:53Z | use fuzz 2 fix yearly code  //AI自动维护系统   /俗称一劳永逸 | https://github.com/willshion/AI-fixer | 0 | 0| 
 
 
 
