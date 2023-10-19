@@ -16,7 +16,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231018T23:15:06Z | CVE-2023-41993 | Null | https://github.com/po6ix/POC-for-CVE-2023-41993 | | 
 | 20231018T19:25:42Z | CVE-2023-45857 | Null | https://github.com/valentin-panov/CVE-2023-45857 | | 
 | 20231018T18:18:25Z | CVE-2023-45966 | Blind SSRF in umputun/remark42 <= 1.12.1 | https://github.com/jet-pentest/CVE-2023-45966 | | 
 | 20231018T18:05:52Z | 未知编号 | Remediate CVE_2023_20198 on Cisco IOS-XE devices. | https://github.com/alekos3/CVE_2023_20198_Remediator | | 
@@ -26,6 +25,7 @@
 | 20231018T16:04:40Z | CVE-2023-20198 | This script can identify if Cisco IOS XE devices are vulnerable to CVE-2023-20198 | https://github.com/alekos3/CVE_2023_20198_Detector | | 
 | 20231018T12:23:19Z | CVE-2023-4169 | Ruijie-RG-EW1200G CVE-2023-4169_CVE-2023-3306_CVE-2023-4415 | https://github.com/thedarknessdied/CVE-2023-4169_CVE-2023-3306_CVE-2023-4415 | | 
 | 20231018T12:09:17Z | CVE-2023-22515 | CVE-2023-22515: Confluence Broken Access Control Exploit | https://github.com/Chocapikk/CVE-2023-22515 | | 
+| 20231018T11:09:02Z | CVE-2023-20198 | CVE-2023-20198 PoC (!) | https://github.com/Tounsi007/CVE-2023-20198 | | 
 
 
 # klee on Github 推荐
