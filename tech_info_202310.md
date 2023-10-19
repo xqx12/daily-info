@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231019T01:43:35Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0084-app-lSqyN-exploit-challenge | 0 | 0| 
 | 20231019T01:11:28Z | Null | https://github.com/codeb0ss/CVE-2023-5601-PoC | 0 | 0| 
 | 20231019T00:51:52Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWut | 1 | 0| 
 | 20231019T00:51:03Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANut | 1 | 0| 
@@ -80,7 +81,6 @@
 | 20231018T22:06:44Z | Purpose of the project is to experience with methods used to exploit security weak- nesses in operating systems and network servers. Our purpose is to help you learn about the runtime operation of programs and to understand the nature of these security weaknesses so that you can avoid them when you write system code. | https://github.com/vivekisreddy/Attacklab-Understanding-Buffer-Overflow-and-Bugs- | 0 | 0| 
 | 20231018T21:11:17Z | This repo has a collection of hubs I found with games, prxes, apps, bookmarklets, exploits and more! | https://github.com/S-PScripts/chromebook-utilities | 1 | 1| 
 | 20231018T20:48:54Z | various tools, that you can (or can not) find useful | https://github.com/nobodyisnobody/tools | 3 | 0| 
-| 20231018T18:13:43Z | Null | https://github.com/RiotDevelopment/LuffyExploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -129,6 +129,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231019T01:42:38Z | Null | https://github.com/choanastasia/K08371_0925_fuzzexample | 0 | 0| 
 | 20231019T01:10:04Z | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | 10283 | 1164| 
 | 20231018T22:19:03Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5101 | 547| 
 | 20231018T21:57:06Z | simple python script for gsm/cdma 3/4G modem fuzzing | https://github.com/jproveda/fuzzermodem | 0 | 0| 
@@ -138,7 +139,6 @@
 | 20231018T11:54:36Z | Null | https://github.com/JuanFdoPerez/FuzzyLogic | 0 | 0| 
 | 20231018T10:35:37Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2778 | 198| 
 | 20231018T10:07:15Z | testest | https://github.com/daldagur1/fuzzconfig | 0 | 0| 
-| 20231018T09:36:11Z | Redis raft fuzzer | https://github.com/ds-testing-user/redisraft-fuzzing | 0 | 0| 
 
 
 
