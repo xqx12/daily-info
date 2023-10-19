@@ -44,6 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231019T12:35:23Z | Null | https://github.com/hacktivesec/beginner-kernel-exploitation-setup | 0 | 0| 
 | 20231019T11:59:02Z | Repository for information about 0-days exploited in-the-wild. | https://github.com/googleprojectzero/0days-in-the-wild | 642 | 77| 
 | 20231019T11:50:29Z | Linikatz V2 is a bash script which allows post-exploitation tasks on UNIX computers joined to Active Directory | https://github.com/Orange-Cyberdefense/LinikatzV2 | 17 | 3| 
 | 20231019T10:50:46Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 63 | 20| 
@@ -53,7 +54,6 @@
 | 20231019T02:17:27Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 746 | 179| 
 | 20231019T01:43:35Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0084-app-lSqyN-exploit-challenge | 0 | 0| 
 | 20231019T01:11:28Z | Null | https://github.com/codeb0ss/CVE-2023-5601-PoC | 0 | 0| 
-| 20231019T00:51:52Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWut | 1 | 0| 
 
 
 # backdoor on Github 推荐
