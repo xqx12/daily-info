@@ -47,13 +47,13 @@
 | 20231019T11:59:02Z | Repository for information about 0-days exploited in-the-wild. | https://github.com/googleprojectzero/0days-in-the-wild | 642 | 77| 
 | 20231019T11:50:29Z | Linikatz V2 is a bash script which allows post-exploitation tasks on UNIX computers joined to Active Directory | https://github.com/Orange-Cyberdefense/LinikatzV2 | 17 | 3| 
 | 20231019T10:50:46Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 63 | 20| 
+| 20231019T10:35:20Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5401 | 699| 
 | 20231019T09:47:44Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5982 | 538| 
 | 20231019T07:00:37Z | Exploits of available CVEs | https://github.com/xogutu/cve | 0 | 0| 
 | 20231019T02:17:27Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 746 | 179| 
 | 20231019T01:43:35Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0084-app-lSqyN-exploit-challenge | 0 | 0| 
 | 20231019T01:11:28Z | Null | https://github.com/codeb0ss/CVE-2023-5601-PoC | 0 | 0| 
 | 20231019T00:51:52Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWut | 1 | 0| 
-| 20231019T00:51:03Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANut | 1 | 0| 
 
 
 # backdoor on Github 推荐
