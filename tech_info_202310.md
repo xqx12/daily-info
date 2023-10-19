@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231019T00:47:07Z | CVE-2023-5601 | Null | https://github.com/codeb0ss/CVE-2023-5601-PoC | | 
 | 20231019T00:23:41Z | CVE-2023-41993 | Null | https://github.com/po6ix/POC-for-CVE-2023-41993 | | 
 | 20231019T00:13:22Z | cve-2023-41993 | testing poc | https://github.com/hrtowii/cve-2023-41993-test | | 
 | 20231018T19:25:42Z | CVE-2023-45857 | Null | https://github.com/valentin-panov/CVE-2023-45857 | | 
@@ -35,7 +36,6 @@
 | 20231018T17:18:27Z | CVE-2021-44168 | A download of code without integrity check vulnerability in the "execute restore src-vis" command of FortiOS before 7.0.3. | https://github.com/0xhaggis/CVE-2021-44168 | | 
 | 20231018T16:49:51Z | cve-2023-20198 | Null | https://github.com/ditekshen/ansible-cve-2023-20198 | | 
 | 20231018T16:04:40Z | CVE-2023-20198 | This script can identify if Cisco IOS XE devices are vulnerable to CVE-2023-20198 | https://github.com/alekos3/CVE_2023_20198_Detector | | 
-| 20231018T12:23:19Z | CVE-2023-4169 | Ruijie-RG-EW1200G CVE-2023-4169_CVE-2023-3306_CVE-2023-4415 | https://github.com/thedarknessdied/CVE-2023-4169_CVE-2023-3306_CVE-2023-4415 | | 
 
 
 # klee on Github 推荐
