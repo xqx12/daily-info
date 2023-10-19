@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231019T10:39:42Z | CVE-2023-4169 | Ruijie-RG-EW1200G CVE-2023-4169_CVE-2023-3306_CVE-2023-4415 | https://github.com/thedarknessdied/CVE-2023-4169_CVE-2023-3306_CVE-2023-4415 | | 
 | 20231019T10:29:21Z | CVE-2023-21118 | Null | https://github.com/nidhi7598/Frameworks_native_AOSP_10_r33_CVE-2023-21118 | | 
 | 20231019T10:18:28Z | CVE-2023-41993 | Null | https://github.com/po6ix/POC-for-CVE-2023-41993 | | 
 | 20231019T08:17:54Z | CVE-2023-46003 | Null | https://github.com/leekenghwa/CVE-2023-46003 | | 
@@ -35,7 +36,6 @@
 | 20231019T04:02:31Z | CVE-2023-38120 | Adtran SR400ac ping Command Injection Remote Code Execution Vulnerability | https://github.com/warber0x/CVE-2023-38120 | | 
 | 20231019T03:09:28Z | CVE-2023-41993 | CVE-2023-41993 | https://github.com/0x06060606/CVE-2023-41993 | | 
 | 20231019T02:44:18Z | cve-2023-41993 | testing poc | https://github.com/hrtowii/cve-2023-41993-test | | 
-| 20231019T02:08:39Z | CVE-2023-33517 | Null | https://github.com/wushigudan/CVE-2023-33517 | | 
 
 
 # klee on Github 推荐
