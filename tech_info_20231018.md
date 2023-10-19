@@ -49,12 +49,12 @@
 | 20231018T21:11:17Z | This repo has a collection of hubs I found with games, prxes, apps, bookmarklets, exploits and more! | https://github.com/S-PScripts/chromebook-utilities | 1 | 1| 
 | 20231018T20:48:54Z | various tools, that you can (or can not) find useful | https://github.com/nobodyisnobody/tools | 3 | 0| 
 | 20231018T18:13:43Z | Null | https://github.com/RiotDevelopment/LuffyExploits | 0 | 0| 
+| 20231018T14:26:01Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 579 | 112| 
 | 20231018T12:45:26Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5429 | 1057| 
 | 20231018T12:15:54Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 745 | 179| 
 | 20231018T11:59:05Z | Nacos综合漏洞利用GUI工具，集成了默认口令漏洞、SQL注入漏洞、身份认证绕过漏洞、反序列化漏洞的检测及其利用 | https://github.com/charonlight/NacosExploitGUI | 0 | 0| 
 | 20231018T11:44:12Z | Sticky notes for pentesting, bug bounty, CTF. | https://github.com/hideckies/exploit-notes | 403 | 88| 
 | 20231018T11:37:59Z | PoC for SMS Receiver vulnerability in OWASP GoatDroid project (FourGoats) | https://github.com/Shotokhan/FourGoatsSMSReceiverExploit | 0 | 0| 
-| 20231018T11:29:18Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5398 | 699| 
 
 
 # backdoor on Github 推荐
