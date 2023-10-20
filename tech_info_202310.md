@@ -130,6 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231020T00:20:34Z | Null | https://github.com/LeBaku/FuzzionShop | 0 | 0| 
 | 20231019T23:56:16Z | Null | https://github.com/mdrs-thiago/PUC_FuzzyLogic | 0 | 0| 
 | 20231019T23:37:58Z | Null | https://github.com/TheRealJarbean/sse676-fuzzy-camera-tracking | 0 | 0| 
 | 20231019T23:27:44Z | Null | https://github.com/jask89738/fuzzy-bassoon | 0 | 0| 
@@ -139,7 +140,6 @@
 | 20231019T22:15:52Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4026 | 820| 
 | 20231019T21:58:45Z | Null | https://github.com/google/fuzztest | 433 | 32| 
 | 20231019T21:28:24Z | Null | https://github.com/Badhon194/fuzzy-octo-tribble | 0 | 0| 
-| 20231019T21:24:31Z | Null | https://github.com/hamzaahmadse/fuzzy-octo-fishstick | 0 | 0| 
 
 
 
