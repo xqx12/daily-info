@@ -86,6 +86,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231020T01:11:01Z | dir | https://github.com/REGGIEMARLSAMFORNA/backdoor | 0 | 0| 
 | 20231019T21:41:45Z | This repository implements a check on System32 executable files to detect backdoor by renamed file | https://github.com/mauricelambert/System32RenameBackdoor | 0 | 0| 
 | 20231019T21:25:14Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 3 | 0| 
 | 20231019T20:09:17Z | Null | https://github.com/jaidalmotra/Backdoor-Detection | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20231019T10:12:05Z | Null | https://github.com/curlytheses/Android-Backdoor | 1 | 0| 
 | 20231019T06:48:27Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 214 | 23| 
 | 20231019T03:36:39Z | Null | https://github.com/EmoMeza/backdoor | 0 | 0| 
-| 20231019T03:00:37Z | PCI Express DIY hacking toolkit for Xilinx SP605. This repository is also home of Hyper-V Backdoor and Boot Backdoor, check readme for links and info | https://github.com/Cr4sh/s6_pcie_microblaze | 633 | 139| 
 
 
 # symbolic execution on Github 推荐
