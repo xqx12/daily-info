@@ -130,8 +130,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231020T12:40:12Z | Null | https://github.com/senabetulkocak/fuzzy-spoon | 0 | 0| 
+| 20231020T12:38:39Z | Null | https://github.com/unibuc-cs/EBLT-Fuzzing-Software-Blueprints | 1 | 0| 
 | 20231020T12:33:22Z | Null | https://github.com/DarkMinatoKunGx/fuzzy-chainsaw | 0 | 0| 
-| 20231020T12:08:29Z | Null | https://github.com/unibuc-cs/EBLT-Fuzzing-Software-Blueprints | 0 | 0| 
 | 20231020T11:02:32Z | Null | https://github.com/Andrey0277/fuzzy_logic_MKR | 0 | 0| 
 | 20231020T10:49:56Z | Penetration-List: A comprehensive resource for testers, covering all types of vulnerabilities and materials used in Penetration Testing. Includes payloads, dorks, fuzzing materials, and offers in-depth theory sections. Visit our Medium profile for more information. | https://github.com/AlbusSec/Penetration-List | 243 | 54| 
 | 20231020T10:36:25Z | PyO3 PackStream reader for Neo4j Driver | https://github.com/thelonelyvulpes/fuzzy-fiesta | 0 | 0| 
@@ -139,7 +140,6 @@
 | 20231020T09:26:34Z |  A lightweight and efficient Python-based subdomain and directory fuzzer | https://github.com/theinit01/PyFuzz | 1 | 0| 
 | 20231020T09:26:20Z | Null | https://github.com/palbock/fuzzysearch | 0 | 0| 
 | 20231020T01:51:52Z | fuzzing-101-sulutions in libafl 0.11.1 | https://github.com/noobone123/fuzzing-101-sulutions | 0 | 0| 
-| 20231020T00:50:27Z | Null | https://github.com/mdrs-thiago/PUC_FuzzyLogic | 0 | 0| 
 
 
 
