@@ -19,7 +19,6 @@
 | --- | --- | --- | --- | ---| 
 | 20231019T23:50:55Z | cve-2023-29360 | Exploit for CVE-2023-29360 targeting MSKSSRV.SYS driver | https://github.com/exotikcheat/cve-2023-29360 | | 
 | 20231019T23:35:55Z | CVE-2023-36802 | CVE-2023-36802 ITW case | https://github.com/4zur-0312/CVE-2023-36802 | | 
-| 20231019T23:21:36Z | CVE-2023-41993 | Null | https://github.com/po6ix/POC-for-CVE-2023-41993 | | 
 | 20231019T19:30:13Z | CVE-2023-41993 | CVE-2023-41993 | https://github.com/0x06060606/CVE-2023-41993 | | 
 | 20231019T18:31:12Z | CVE-2023-20198 | Null | https://github.com/cert-orangecyberdefense/Cisco_CVE-2023-20198 | | 
 | 20231019T15:27:00Z | CVE-2023-45992 | Null | https://github.com/harry935/CVE-2023-45992 | | 
@@ -27,6 +26,7 @@
 | 20231019T10:29:21Z | CVE-2023-21118 | Null | https://github.com/nidhi7598/Frameworks_native_AOSP_10_r33_CVE-2023-21118 | | 
 | 20231019T08:17:54Z | CVE-2023-46003 | Null | https://github.com/leekenghwa/CVE-2023-46003 | | 
 | 20231019T07:31:06Z | CVE-2021-25741 | fork on Betep0k/CVE-2021-25741/fork whose images is useless and test on metarget | https://github.com/cdxiaodong/CVE-2021-25741 | | 
+| 20231019T07:00:41Z | CVE-2023-21109 | Null | https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-21109 | | 
 
 
 # klee on Github 推荐
