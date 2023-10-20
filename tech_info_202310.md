@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231020T01:51:18Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6058 | 799| 
 | 20231020T00:29:29Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWc | 1 | 0| 
 | 20231020T00:28:51Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANcs | 1 | 0| 
 | 20231020T00:28:06Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANcs | 1 | 0| 
@@ -80,7 +81,6 @@
 | 20231019T19:39:32Z | A universal basic sword reach exploit for Roblox. | https://github.com/Severitylol/Universal-Sword-Reach | 1 | 0| 
 | 20231019T15:47:16Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5435 | 1057| 
 | 20231019T14:58:02Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 581 | 112| 
-| 20231019T12:51:42Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5983 | 538| 
 
 
 # backdoor on Github 推荐
