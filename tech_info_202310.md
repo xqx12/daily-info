@@ -71,6 +71,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231020T00:29:29Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWc | 1 | 0| 
+| 20231020T00:28:51Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANcs | 1 | 0| 
+| 20231020T00:28:06Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANcs | 1 | 0| 
 | 20231020T00:27:10Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANcs | 1 | 0| 
 | 20231019T21:59:55Z | Ruby exploits rewritten in python, find their metasploit exploit links in their respective files | https://github.com/iUseYahoo/Exploits-Rewritten | 0 | 0| 
 | 20231019T21:00:55Z | This smart contract simulates the collapse of Luna cryptocurrency to demonstrate how algorithmic stablecoins work and their tokenomics. The project highlights the protocol flaw that hackers exploited and showcases my interest in econometrics. | https://github.com/DvoraksPadawan/Algorithmic-Stablecoin | 1 | 0| 
@@ -78,9 +81,6 @@
 | 20231019T15:47:16Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5435 | 1057| 
 | 20231019T14:58:02Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 581 | 112| 
 | 20231019T12:51:42Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5983 | 538| 
-| 20231019T12:35:23Z | Null | https://github.com/hacktivesec/beginner-kernel-exploitation-setup | 0 | 0| 
-| 20231019T11:59:02Z | Repository for information about 0-days exploited in-the-wild. | https://github.com/googleprojectzero/0days-in-the-wild | 642 | 77| 
-| 20231019T11:50:29Z | Linikatz V2 is a bash script which allows post-exploitation tasks on UNIX computers joined to Active Directory | https://github.com/Orange-Cyberdefense/LinikatzV2 | 17 | 3| 
 
 
 # backdoor on Github 推荐
