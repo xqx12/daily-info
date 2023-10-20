@@ -48,13 +48,13 @@
 | 20231019T21:59:55Z | Ruby exploits rewritten in python, find their metasploit exploit links in their respective files | https://github.com/iUseYahoo/Exploits-Rewritten | 0 | 0| 
 | 20231019T21:00:55Z | This smart contract simulates the collapse of Luna cryptocurrency to demonstrate how algorithmic stablecoins work and their tokenomics. The project highlights the protocol flaw that hackers exploited and showcases my interest in econometrics. | https://github.com/DvoraksPadawan/Algorithmic-Stablecoin | 1 | 0| 
 | 20231019T19:39:32Z | A universal basic sword reach exploit for Roblox. | https://github.com/Severitylol/Universal-Sword-Reach | 1 | 0| 
+| 20231019T14:58:02Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 581 | 112| 
 | 20231019T12:51:42Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5983 | 538| 
 | 20231019T12:35:23Z | Null | https://github.com/hacktivesec/beginner-kernel-exploitation-setup | 0 | 0| 
 | 20231019T11:59:02Z | Repository for information about 0-days exploited in-the-wild. | https://github.com/googleprojectzero/0days-in-the-wild | 642 | 77| 
 | 20231019T11:50:29Z | Linikatz V2 is a bash script which allows post-exploitation tasks on UNIX computers joined to Active Directory | https://github.com/Orange-Cyberdefense/LinikatzV2 | 17 | 3| 
 | 20231019T10:50:46Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 63 | 20| 
 | 20231019T10:35:20Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5401 | 700| 
-| 20231019T07:11:17Z | Porch Pirate is a recon client and framework that facilitates the automated discovery and exploitation of API endpoints and secrets committed to public Postman workspaces, collections, requests, users and teams. Porch Pirate can be used as a client or be incorporated into your own applications. | https://github.com/MandConsultingGroup/porch-pirate | 0 | 0| 
 
 
 # backdoor on Github 推荐
