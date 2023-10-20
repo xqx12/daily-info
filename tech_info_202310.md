@@ -130,10 +130,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231020T00:50:27Z | Null | https://github.com/mdrs-thiago/PUC_FuzzyLogic | 0 | 0| 
 | 20231020T00:40:13Z | Semantically search through OCR text blocks with Qdrant, Sentence Transformers, and FiftyOne! | https://github.com/jacobmarks/fuzzy-search-plugin | 0 | 0| 
 | 20231020T00:33:14Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4027 | 820| 
 | 20231020T00:26:08Z | Null | https://github.com/LeBaku/FuzzionShop | 0 | 0| 
-| 20231019T23:56:16Z | Null | https://github.com/mdrs-thiago/PUC_FuzzyLogic | 0 | 0| 
 | 20231019T23:37:58Z | Null | https://github.com/TheRealJarbean/sse676-fuzzy-camera-tracking | 0 | 0| 
 | 20231019T23:27:44Z | Null | https://github.com/jask89738/fuzzy-bassoon | 0 | 0| 
 | 20231019T23:02:36Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 319 | 47| 

@@ -90,7 +90,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231019T23:56:16Z | Null | https://github.com/mdrs-thiago/PUC_FuzzyLogic | 0 | 0| 
 | 20231019T23:37:58Z | Null | https://github.com/TheRealJarbean/sse676-fuzzy-camera-tracking | 0 | 0| 
 | 20231019T23:27:44Z | Null | https://github.com/jask89738/fuzzy-bassoon | 0 | 0| 
 | 20231019T23:02:36Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 319 | 47| 
@@ -100,6 +99,7 @@
 | 20231019T21:28:24Z | Null | https://github.com/Badhon194/fuzzy-octo-tribble | 0 | 0| 
 | 20231019T21:24:31Z | Null | https://github.com/hamzaahmadse/fuzzy-octo-fishstick | 0 | 0| 
 | 20231019T19:09:00Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9105 | 2022| 
+| 20231019T11:56:21Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 49479 | 23257| 
 
 
 
