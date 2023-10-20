@@ -130,6 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231020T00:33:14Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4027 | 820| 
 | 20231020T00:26:08Z | Null | https://github.com/LeBaku/FuzzionShop | 0 | 0| 
 | 20231019T23:56:16Z | Null | https://github.com/mdrs-thiago/PUC_FuzzyLogic | 0 | 0| 
 | 20231019T23:37:58Z | Null | https://github.com/TheRealJarbean/sse676-fuzzy-camera-tracking | 0 | 0| 
@@ -137,7 +138,6 @@
 | 20231019T23:02:36Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 319 | 47| 
 | 20231019T22:59:54Z | Calculadora pra testa em js | https://github.com/thaleson/fuzzy-octo-winner | 0 | 0| 
 | 20231019T22:16:10Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5102 | 547| 
-| 20231019T22:15:52Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4026 | 820| 
 | 20231019T21:58:45Z | Null | https://github.com/google/fuzztest | 433 | 32| 
 | 20231019T21:28:24Z | Null | https://github.com/Badhon194/fuzzy-octo-tribble | 0 | 0| 
 
