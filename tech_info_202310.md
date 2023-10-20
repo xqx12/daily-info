@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231020T12:06:38Z | Null | https://github.com/2lambda123/Exploit-Development | 0 | 0| 
 | 20231020T11:56:26Z | создан | https://github.com/BaxterBasir292/exploit-efficient-models | 0 | 0| 
 | 20231020T11:35:16Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5594 | 762| 
 | 20231020T09:03:41Z | Exploit the top OWASP Vuln on a website | https://github.com/kvlimon/Darkly | 0 | 0| 
@@ -80,7 +81,6 @@
 | 20231020T07:49:31Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 64 | 20| 
 | 20231020T07:47:44Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5987 | 539| 
 | 20231020T01:51:18Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6058 | 799| 
-| 20231020T00:29:29Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWc | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -104,7 +104,7 @@
 | 20231019T23:17:54Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 65 | 28| 
 | 20231019T08:31:22Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2339 | 639| 
 | 20231018T12:37:11Z | Automatic %bomblab% solver with symbolic executions. | https://github.com/Aplace0927/qwoqLab | 0 | 0| 
-| 20231016T15:24:44Z | UnitTestBot Symbolic Execution machine | https://github.com/UnitTestBot/USE | 0 | 1| 
+| 20231016T15:24:44Z | UnitTestBot Symbolic Execution machine | https://github.com/UnitTestBot/USE | 0 | 0| 
 | 20231016T12:48:07Z | Bottom-up memory-safety for assembly language using symbolic execution | https://github.com/scaspin/memory-safe-assembly | 7 | 0| 
 | 20231016T01:04:26Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 62 | 9| 
 | 20231015T16:05:39Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 202 | 42| 
