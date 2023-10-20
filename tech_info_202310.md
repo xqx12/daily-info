@@ -11,6 +11,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20231020 | 代码审计 , SQL注入之过滤器绕过 | https://mp.weixin.qq.com/s/-03hkuv6snSLhX8HTU_CXQ| 
 | 20231019 | 利用特殊反序列化组件攻击原生反序列化入口 | https://xz.aliyun.com/t/12910| 
 | 20231017 | 利用SEV的I/O漏洞进行攻击 | https://mp.weixin.qq.com/s/-qCcoIALocQKPhsbA7e5ag| 
 | 20231017 | Efuse介绍及安全启动浅析 | https://mp.weixin.qq.com/s/PVItfdRvFPl144hTji2WvQ| 
@@ -20,28 +21,27 @@
 | 20231016 | 寄生云计算服务实现可信C2控制 | https://mp.weixin.qq.com/s/_NRivu59k4yiLjBxKoXAMg| 
 | 20231016 | Hunting for Leaked Cobalt Strike v4.9 servers | https://blog.cyphur.com/detecting-leaked-cobalt-strike/| 
 | 20231016 | SecWiki周刊（第502期) | https://www.sec-wiki.com/weekly/502| 
-| 20231015 | 基于异构图卷积网络的网络威胁情报建模 | https://mp.weixin.qq.com/s/vaTH3cSad-lp7NT6ay8yMA| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231020T01:50:07Z | CVE-2023-41993 | Null | https://github.com/po6ix/POC-for-CVE-2023-41993 | | 
-| 20231019T23:50:55Z | cve-2023-29360 | Exploit for CVE-2023-29360 targeting MSKSSRV.SYS driver | https://github.com/exotikcheat/cve-2023-29360 | | 
-| 20231019T23:35:55Z | CVE-2023-36802 | CVE-2023-36802 ITW case | https://github.com/4zur-0312/CVE-2023-36802 | | 
-| 20231019T19:30:13Z | CVE-2023-41993 | CVE-2023-41993 | https://github.com/0x06060606/CVE-2023-41993 | | 
-| 20231019T18:31:12Z | CVE-2023-20198 | Null | https://github.com/cert-orangecyberdefense/Cisco_CVE-2023-20198 | | 
-| 20231019T15:27:00Z | CVE-2023-45992 | Null | https://github.com/harry935/CVE-2023-45992 | | 
-| 20231019T10:39:42Z | CVE-2023-4169 | Ruijie-RG-EW1200G CVE-2023-4169_CVE-2023-3306_CVE-2023-4415 | https://github.com/thedarknessdied/CVE-2023-4169_CVE-2023-3306_CVE-2023-4415 | | 
-| 20231019T10:29:21Z | CVE-2023-21118 | Null | https://github.com/nidhi7598/Frameworks_native_AOSP_10_r33_CVE-2023-21118 | | 
-| 20231019T08:17:54Z | CVE-2023-46003 | Null | https://github.com/leekenghwa/CVE-2023-46003 | | 
-| 20231019T07:31:06Z | CVE-2021-25741 | fork on Betep0k/CVE-2021-25741/fork whose images is useless and test on metarget | https://github.com/cdxiaodong/CVE-2021-25741 | | 
+| 20231020T11:30:45Z | CVE-2023-20198 | CVE-2023-20198 straight RCE without implant | https://github.com/m474r5/CVE-2023-20198-RCE | | 
+| 20231020T10:25:47Z | CVE-2023-28432 | Null | https://github.com/yTxZx/CVE-2023-28432 | | 
+| 20231020T09:24:48Z | CVE-2023-41993 | Null | https://github.com/po6ix/POC-for-CVE-2023-41993 | | 
+| 20231020T09:17:03Z | CVE-2023-20963 | Null | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20963 | | 
+| 20231020T08:57:13Z | CVE-2023-42442 | CVE-2023-42442 | https://github.com/C1ph3rX13/CVE-2023-42442 | | 
+| 20231020T08:26:30Z | CVE-2023-22515 | Confluence后台rce | https://github.com/youcannotseemeagain/CVE-2023-22515_RCE | | 
+| 20231020T08:19:57Z | CVE-2023-23752 | Null | https://github.com/yTxZx/CVE-2023-23752 | | 
+| 20231020T07:43:08Z | CVE-2022-26134 | Null | https://github.com/yTxZx/CVE-2022-26134 | | 
+| 20231020T05:44:30Z | CVE-2023-1698 | Null | https://github.com/deIndra/CVE-2023-1698 | | 
+| 20231020T03:53:37Z | CVE-2023-41993 | CVE-2023-41993 | https://github.com/0x06060606/CVE-2023-41993 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231020T01:26:43Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14068 | 424| 
+| 20231020T11:50:25Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14072 | 425| 
 | 20231019T08:31:22Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2339 | 639| 
 | 20231018T04:28:49Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 31 | 2| 
 | 20231018T01:50:49Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 49 | 0| 
@@ -71,31 +71,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231020T11:56:26Z | создан | https://github.com/BaxterBasir292/exploit-efficient-models | 0 | 0| 
+| 20231020T11:35:16Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5594 | 762| 
+| 20231020T09:03:41Z | Exploit the top OWASP Vuln on a website | https://github.com/kvlimon/Darkly | 0 | 0| 
+| 20231020T08:51:20Z | GitOps Repository | https://github.com/redhat-appstudio-qe/integ-app-otwn-30oaS-exploit-hit | 0 | 0| 
+| 20231020T08:44:11Z | WP Theme Listing Pro Exploit | https://github.com/fsckii/Wp-ListingPro | 0 | 0| 
+| 20231020T08:31:51Z | DarkCool ~ Exploiter Lookup Checker | https://github.com/DarkSkull777/DarkCool | 1 | 1| 
+| 20231020T07:49:31Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 64 | 20| 
+| 20231020T07:47:44Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5987 | 539| 
 | 20231020T01:51:18Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6058 | 799| 
 | 20231020T00:29:29Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWc | 1 | 0| 
-| 20231020T00:28:51Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANcs | 1 | 0| 
-| 20231020T00:28:06Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANcs | 1 | 0| 
-| 20231020T00:27:10Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANcs | 1 | 0| 
-| 20231019T21:59:55Z | Ruby exploits rewritten in python, find their metasploit exploit links in their respective files | https://github.com/iUseYahoo/Exploits-Rewritten | 0 | 0| 
-| 20231019T21:00:55Z | This smart contract simulates the collapse of Luna cryptocurrency to demonstrate how algorithmic stablecoins work and their tokenomics. The project highlights the protocol flaw that hackers exploited and showcases my interest in econometrics. | https://github.com/DvoraksPadawan/Algorithmic-Stablecoin | 1 | 0| 
-| 20231019T19:39:32Z | A universal basic sword reach exploit for Roblox. | https://github.com/Severitylol/Universal-Sword-Reach | 1 | 0| 
-| 20231019T15:47:16Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5435 | 1057| 
-| 20231019T14:58:02Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 581 | 112| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231020T07:47:29Z | Null | https://github.com/ruizegao/backdoor-evasion | 0 | 0| 
+| 20231020T06:14:51Z | Null | https://github.com/jaidalmotra/Backdoor-Detection | 0 | 0| 
 | 20231020T01:11:01Z | dir | https://github.com/REGGIEMARLSAMFORNA/backdoor | 0 | 0| 
 | 20231019T21:41:45Z | This repository implements a check on System32 executable files to detect backdoor by renamed file | https://github.com/mauricelambert/System32RenameBackdoor | 0 | 0| 
 | 20231019T21:25:14Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 3 | 0| 
-| 20231019T20:09:17Z | Null | https://github.com/jaidalmotra/Backdoor-Detection | 0 | 0| 
 | 20231019T18:32:10Z | Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. | https://github.com/krisnova/boopkit | 1424 | 153| 
 | 20231019T17:14:28Z | The repository holds logs collected with sysmon + ELK of backdoor and trojan activity.  | https://github.com/rasmim/malwareDatasets | 0 | 0| 
 | 20231019T12:43:49Z | Null | https://github.com/initch/FL_Backdoors | 0 | 0| 
 | 20231019T10:12:05Z | Null | https://github.com/curlytheses/Android-Backdoor | 1 | 0| 
 | 20231019T06:48:27Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 214 | 23| 
-| 20231019T03:36:39Z | Null | https://github.com/EmoMeza/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -130,16 +130,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231020T11:57:36Z | Null | https://github.com/unibuc-cs/EBLT-Fuzzing-Software-Blueprints | 0 | 0| 
+| 20231020T11:02:32Z | Null | https://github.com/Andrey0277/fuzzy_logic_MKR | 0 | 0| 
+| 20231020T10:49:56Z | Penetration-List: A comprehensive resource for testers, covering all types of vulnerabilities and materials used in Penetration Testing. Includes payloads, dorks, fuzzing materials, and offers in-depth theory sections. Visit our Medium profile for more information. | https://github.com/AlbusSec/Penetration-List | 243 | 54| 
+| 20231020T10:36:25Z | PyO3 PackStream reader for Neo4j Driver | https://github.com/thelonelyvulpes/fuzzy-fiesta | 0 | 0| 
+| 20231020T10:28:22Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9104 | 2022| 
+| 20231020T09:26:34Z |  A lightweight and efficient Python-based subdomain and directory fuzzer | https://github.com/theinit01/PyFuzz | 1 | 0| 
+| 20231020T09:26:20Z | Null | https://github.com/palbock/fuzzysearch | 0 | 0| 
 | 20231020T01:51:52Z | fuzzing-101-sulutions in libafl 0.11.1 | https://github.com/noobone123/fuzzing-101-sulutions | 0 | 0| 
 | 20231020T00:50:27Z | Null | https://github.com/mdrs-thiago/PUC_FuzzyLogic | 0 | 0| 
 | 20231020T00:40:13Z | Semantically search through OCR text blocks with Qdrant, Sentence Transformers, and FiftyOne! | https://github.com/jacobmarks/fuzzy-search-plugin | 0 | 0| 
-| 20231020T00:33:14Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4027 | 820| 
-| 20231020T00:26:08Z | Null | https://github.com/LeBaku/FuzzionShop | 0 | 0| 
-| 20231019T23:37:58Z | Null | https://github.com/TheRealJarbean/sse676-fuzzy-camera-tracking | 0 | 0| 
-| 20231019T23:27:44Z | Null | https://github.com/jask89738/fuzzy-bassoon | 0 | 0| 
-| 20231019T23:02:36Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 319 | 47| 
-| 20231019T22:59:54Z | Calculadora pra testa em js | https://github.com/thaleson/fuzzy-octo-winner | 0 | 0| 
-| 20231019T22:16:10Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5102 | 547| 
 
 
 
