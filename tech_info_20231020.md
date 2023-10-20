@@ -77,6 +77,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231020T12:56:19Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4867 | 1164| 
 | 20231020T12:40:59Z | Extended Blueprint Library Test Plugin for Unreal Engine | https://github.com/unibuc-cs/EBLT-Fuzzing-Software-Blueprints | 1 | 0| 
 | 20231020T12:40:12Z | Null | https://github.com/senabetulkocak/fuzzy-spoon | 0 | 0| 
 | 20231020T12:33:22Z | Null | https://github.com/DarkMinatoKunGx/fuzzy-chainsaw | 0 | 0| 
@@ -86,7 +87,6 @@
 | 20231020T10:28:22Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9104 | 2022| 
 | 20231020T09:26:34Z |  A lightweight and efficient Python-based subdomain and directory fuzzer | https://github.com/theinit01/PyFuzz | 1 | 0| 
 | 20231020T09:26:20Z | Null | https://github.com/palbock/fuzzysearch | 0 | 0| 
-| 20231020T01:51:52Z | fuzzing-101-sulutions in libafl 0.11.1 | https://github.com/noobone123/fuzzing-101-sulutions | 0 | 0| 
 
 
 
