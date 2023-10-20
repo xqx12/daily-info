@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231020T12:24:55Z | Null | https://github.com/ubg98/NinjaCatExploit | 0 | 0| 
 | 20231020T12:19:51Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 65 | 20| 
 | 20231020T12:08:17Z | Null | https://github.com/2lambda123/Exploit-Development | 0 | 0| 
 | 20231020T11:56:26Z | создан | https://github.com/BaxterBasir292/exploit-efficient-models | 0 | 0| 
@@ -80,7 +81,6 @@
 | 20231020T08:44:11Z | WP Theme Listing Pro Exploit | https://github.com/fsckii/Wp-ListingPro | 0 | 0| 
 | 20231020T08:31:51Z | DarkCool ~ Exploiter Lookup Checker | https://github.com/DarkSkull777/DarkCool | 1 | 1| 
 | 20231020T07:47:44Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5987 | 539| 
-| 20231020T01:51:18Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6058 | 799| 
 
 
 # backdoor on Github 推荐
@@ -130,6 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231020T12:32:38Z | Null | https://github.com/DarkMinatoKunGx/fuzzy-chainsaw | 0 | 0| 
 | 20231020T12:08:29Z | Null | https://github.com/unibuc-cs/EBLT-Fuzzing-Software-Blueprints | 0 | 0| 
 | 20231020T11:02:32Z | Null | https://github.com/Andrey0277/fuzzy_logic_MKR | 0 | 0| 
 | 20231020T10:49:56Z | Penetration-List: A comprehensive resource for testers, covering all types of vulnerabilities and materials used in Penetration Testing. Includes payloads, dorks, fuzzing materials, and offers in-depth theory sections. Visit our Medium profile for more information. | https://github.com/AlbusSec/Penetration-List | 243 | 54| 
@@ -139,7 +140,6 @@
 | 20231020T09:26:20Z | Null | https://github.com/palbock/fuzzysearch | 0 | 0| 
 | 20231020T01:51:52Z | fuzzing-101-sulutions in libafl 0.11.1 | https://github.com/noobone123/fuzzing-101-sulutions | 0 | 0| 
 | 20231020T00:50:27Z | Null | https://github.com/mdrs-thiago/PUC_FuzzyLogic | 0 | 0| 
-| 20231020T00:40:13Z | Semantically search through OCR text blocks with Qdrant, Sentence Transformers, and FiftyOne! | https://github.com/jacobmarks/fuzzy-search-plugin | 0 | 0| 
 
 
 
