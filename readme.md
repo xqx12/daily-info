@@ -43,7 +43,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231020T12:06:38Z | Null | https://github.com/2lambda123/Exploit-Development | 0 | 0| 
+| 20231020T12:08:17Z | Null | https://github.com/2lambda123/Exploit-Development | 0 | 0| 
 | 20231020T11:56:26Z | создан | https://github.com/BaxterBasir292/exploit-efficient-models | 0 | 0| 
 | 20231020T11:35:16Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5594 | 762| 
 | 20231020T09:03:41Z | Exploit the top OWASP Vuln on a website | https://github.com/kvlimon/Darkly | 0 | 0| 
@@ -76,7 +76,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231020T11:57:36Z | Null | https://github.com/unibuc-cs/EBLT-Fuzzing-Software-Blueprints | 0 | 0| 
+| 20231020T12:08:29Z | Null | https://github.com/unibuc-cs/EBLT-Fuzzing-Software-Blueprints | 0 | 0| 
 | 20231020T11:02:32Z | Null | https://github.com/Andrey0277/fuzzy_logic_MKR | 0 | 0| 
 | 20231020T10:49:56Z | Penetration-List: A comprehensive resource for testers, covering all types of vulnerabilities and materials used in Penetration Testing. Includes payloads, dorks, fuzzing materials, and offers in-depth theory sections. Visit our Medium profile for more information. | https://github.com/AlbusSec/Penetration-List | 243 | 54| 
 | 20231020T10:36:25Z | PyO3 PackStream reader for Neo4j Driver | https://github.com/thelonelyvulpes/fuzzy-fiesta | 0 | 0| 
