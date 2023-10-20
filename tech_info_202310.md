@@ -130,7 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231020T00:20:34Z | Null | https://github.com/LeBaku/FuzzionShop | 0 | 0| 
+| 20231020T00:26:08Z | Null | https://github.com/LeBaku/FuzzionShop | 0 | 0| 
 | 20231019T23:56:16Z | Null | https://github.com/mdrs-thiago/PUC_FuzzyLogic | 0 | 0| 
 | 20231019T23:37:58Z | Null | https://github.com/TheRealJarbean/sse676-fuzzy-camera-tracking | 0 | 0| 
 | 20231019T23:27:44Z | Null | https://github.com/jask89738/fuzzy-bassoon | 0 | 0| 
