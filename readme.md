@@ -77,8 +77,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231020T12:40:59Z | Extended Blueprint Library Test Plugin for Unreal Engine | https://github.com/unibuc-cs/EBLT-Fuzzing-Software-Blueprints | 1 | 0| 
 | 20231020T12:40:12Z | Null | https://github.com/senabetulkocak/fuzzy-spoon | 0 | 0| 
-| 20231020T12:38:39Z | Null | https://github.com/unibuc-cs/EBLT-Fuzzing-Software-Blueprints | 1 | 0| 
 | 20231020T12:33:22Z | Null | https://github.com/DarkMinatoKunGx/fuzzy-chainsaw | 0 | 0| 
 | 20231020T11:02:32Z | Null | https://github.com/Andrey0277/fuzzy_logic_MKR | 0 | 0| 
 | 20231020T10:49:56Z | Penetration-List: A comprehensive resource for testers, covering all types of vulnerabilities and materials used in Penetration Testing. Includes payloads, dorks, fuzzing materials, and offers in-depth theory sections. Visit our Medium profile for more information. | https://github.com/AlbusSec/Penetration-List | 243 | 54| 
