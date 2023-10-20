@@ -17,7 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231020T12:15:40Z | CVE-2023-1698 | WAGO系统远程代码执行漏洞(CVE-2023-1698) | https://github.com/thedarknessdied/WAGO-CVE-2023-1698 | | 
+| 20231020T12:23:08Z | CVE-2023-1698 | WAGO系统远程代码执行漏洞(CVE-2023-1698) | https://github.com/thedarknessdied/WAGO-CVE-2023-1698 | | 
 | 20231020T11:30:45Z | CVE-2023-20198 | CVE-2023-20198 straight RCE without implant | https://github.com/m474r5/CVE-2023-20198-RCE | | 
 | 20231020T10:25:47Z | CVE-2023-28432 | Null | https://github.com/yTxZx/CVE-2023-28432 | | 
 | 20231020T09:24:48Z | CVE-2023-41993 | Null | https://github.com/po6ix/POC-for-CVE-2023-41993 | | 
