@@ -43,6 +43,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231020T12:19:51Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 65 | 20| 
 | 20231020T12:08:17Z | Null | https://github.com/2lambda123/Exploit-Development | 0 | 0| 
 | 20231020T11:56:26Z | создан | https://github.com/BaxterBasir292/exploit-efficient-models | 0 | 0| 
 | 20231020T11:35:16Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5594 | 762| 
@@ -50,7 +51,6 @@
 | 20231020T08:51:20Z | GitOps Repository | https://github.com/redhat-appstudio-qe/integ-app-otwn-30oaS-exploit-hit | 0 | 0| 
 | 20231020T08:44:11Z | WP Theme Listing Pro Exploit | https://github.com/fsckii/Wp-ListingPro | 0 | 0| 
 | 20231020T08:31:51Z | DarkCool ~ Exploiter Lookup Checker | https://github.com/DarkSkull777/DarkCool | 1 | 1| 
-| 20231020T07:49:31Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 64 | 20| 
 | 20231020T07:47:44Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5987 | 539| 
 | 20231020T01:51:18Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6058 | 799| 
 
