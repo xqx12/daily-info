@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231021T01:09:39Z | Download Best Roblox Synapse X Free! Download Synapse X Exploit 100% Free for Roblox  Synapse X is a engine which use for scripting, this is powerful tool that execute all Roblox scripts easily.  Dark Dex, ESP, Stream Sniper, Remote Spy, Script Dumper, Teleport, Speed, Fly, Infinite jump, everything in one package. | https://github.com/Psycho1337-cpu/Synapse-X- | 0 | 0| 
 | 20231021T00:53:51Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0011-app-pHCXd-exploit-attend | 0 | 0| 
 | 20231020T23:49:12Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWyt | 1 | 0| 
 | 20231020T23:48:33Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANyt | 1 | 0| 
@@ -80,7 +81,6 @@
 | 20231020T15:44:00Z | Null | https://github.com/hfw8271/exploiting_bwapp | 0 | 0| 
 | 20231020T12:24:55Z | Null | https://github.com/ubg98/NinjaCatExploit | 0 | 0| 
 | 20231020T12:19:51Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 65 | 20| 
-| 20231020T12:08:17Z | Null | https://github.com/2lambda123/Exploit-Development | 0 | 0| 
 
 
 # backdoor on Github 推荐
