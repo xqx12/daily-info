@@ -59,6 +59,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231021T10:20:25Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 697 | 121| 
 
 
 # big4 on Github 推荐
