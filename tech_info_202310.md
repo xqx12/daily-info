@@ -86,6 +86,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231021T12:42:36Z | Null | https://github.com/AmitBhatt8077/BackDoor01 | 0 | 0| 
 | 20231021T11:51:32Z | A sub-project of DLSec, implementing backdoor attack on BERT. | https://github.com/sfmoraa/BertBackdoor | 0 | 0| 
 | 20231021T01:00:56Z | dont use that for bad things >:( | https://github.com/rossiniroberto52/backdoor | 2 | 0| 
 | 20231020T22:36:33Z | PCI Express DIY hacking toolkit for Xilinx SP605. This repository is also home of Hyper-V Backdoor and Boot Backdoor, check readme for links and info | https://github.com/Cr4sh/s6_pcie_microblaze | 634 | 139| 
@@ -95,7 +96,6 @@
 | 20231020T14:03:42Z | Batch & Python Backdoor by Telegram API | https://github.com/ioscreate/online-trought | 0 | 0| 
 | 20231020T13:52:41Z | 2 Python programmes used for detecting and preventing backdoor attacks in large language models. | https://github.com/AceMegalodon/Mitigating_Backdoor_Attacks_in_LLMs | 0 | 0| 
 | 20231020T12:23:41Z | Null | https://github.com/rzbin/FederatedLearningBackdoor | 0 | 0| 
-| 20231020T07:47:29Z | Null | https://github.com/ruizegao/backdoor-evasion | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -116,10 +116,10 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231021T12:40:22Z | Implementation of the NDSS%24 paper %SigmaDiff: Semantics-Aware Deep Graph Matching for Pseudocode Diffing% | https://github.com/yijiufly/SigmaDiff | 5 | 1| 
 | 20231020T23:29:03Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 23 | 2| 
 | 20231019T06:03:54Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 30 | 6| 
 | 20231019T03:48:06Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 83 | 4| 
-| 20231018T04:44:17Z | Implementation of the NDSS%24 paper %SigmaDiff: Semantics-Aware Deep Graph Matching for Pseudocode Diffing% | https://github.com/yijiufly/SigmaDiff | 4 | 1| 
 | 20231017T06:40:50Z | https://marsvillager.github.io/PaperWorkflowAutomation/summary/visualize.html (Safari, Firefox ✓ Edge, Chrome ✗) 论文爬虫+概述: IEEE Symposium on Security and Privacy (S&P), USENIX Security Symposium, Network and Distributed System Security Symposium (NDSS)  | https://github.com/marsvillager/PaperWorkflowAutomation | 5 | 0| 
 | 20231014T02:30:18Z | This repository contains the evaluation code for the NDSS 2024 paper: MPCDIFF: Testing and Repairing MPC-Hardened Deep Learning Models. | https://github.com/Qi-Pang/MPCDiff | 8 | 0| 
 | 20231010T04:30:05Z | Code for the paper %Overconfidence is a Dangerous Thing: Mitigating Membership Inference Attacks by Enforcing Less Confident Prediction% in NDSS%24. | https://github.com/DependableSystemsLab/MIA_defense_HAMP | 4 | 1| 

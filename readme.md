@@ -54,6 +54,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231021T12:42:36Z | Null | https://github.com/AmitBhatt8077/BackDoor01 | 0 | 0| 
 | 20231021T11:51:32Z | A sub-project of DLSec, implementing backdoor attack on BERT. | https://github.com/sfmoraa/BertBackdoor | 0 | 0| 
 | 20231021T01:00:56Z | dont use that for bad things >:( | https://github.com/rossiniroberto52/backdoor | 2 | 0| 
 
@@ -67,6 +68,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231021T12:40:22Z | Implementation of the NDSS%24 paper %SigmaDiff: Semantics-Aware Deep Graph Matching for Pseudocode Diffing% | https://github.com/yijiufly/SigmaDiff | 5 | 1| 
 
 
 # fuzz on Github 推荐
