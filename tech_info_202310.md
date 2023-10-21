@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231021T00:53:51Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0011-app-pHCXd-exploit-attend | 0 | 0| 
 | 20231020T23:49:12Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWyt | 1 | 0| 
 | 20231020T23:48:33Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANyt | 1 | 0| 
 | 20231020T23:45:30Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANyt | 1 | 0| 
@@ -80,7 +81,6 @@
 | 20231020T12:24:55Z | Null | https://github.com/ubg98/NinjaCatExploit | 0 | 0| 
 | 20231020T12:19:51Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 65 | 20| 
 | 20231020T12:08:17Z | Null | https://github.com/2lambda123/Exploit-Development | 0 | 0| 
-| 20231020T11:56:26Z | создан | https://github.com/BaxterBasir292/exploit-efficient-models | 0 | 0| 
 
 
 # backdoor on Github 推荐
