@@ -86,6 +86,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231021T01:00:56Z | dont use that for bad things >:( | https://github.com/rossiniroberto52/backdoor | 2 | 0| 
 | 20231020T16:06:36Z | Fast integration of backdoor attacks in machine learning and federated learning. | https://github.com/mtuann/fedlearn-backdoor-attacks | 0 | 0| 
 | 20231020T15:22:24Z | Null | https://github.com/sunzu94/powershell-backdoor-generator | 0 | 0| 
 | 20231020T14:03:42Z | Batch & Python Backdoor by Telegram API | https://github.com/ioscreate/online-trought | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20231020T06:14:51Z | Null | https://github.com/jaidalmotra/Backdoor-Detection | 0 | 0| 
 | 20231020T01:11:01Z | dir | https://github.com/REGGIEMARLSAMFORNA/backdoor | 0 | 0| 
 | 20231019T21:41:45Z | This repository implements a check on System32 executable files to detect backdoor by renamed file | https://github.com/mauricelambert/System32RenameBackdoor | 0 | 0| 
-| 20231019T21:25:14Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 3 | 0| 
 
 
 # symbolic execution on Github 推荐
