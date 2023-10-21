@@ -11,6 +11,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20231021 | 太空军综合战略 | https://mp.weixin.qq.com/s/f1R8VQpjikuiqxzXD8NFGw| 
 | 20231020 | 代码审计 , SQL注入之过滤器绕过 | https://mp.weixin.qq.com/s/-03hkuv6snSLhX8HTU_CXQ| 
 | 20231019 | 利用特殊反序列化组件攻击原生反序列化入口 | https://xz.aliyun.com/t/12910| 
 | 20231017 | 利用SEV的I/O漏洞进行攻击 | https://mp.weixin.qq.com/s/-qCcoIALocQKPhsbA7e5ag| 
@@ -20,29 +21,28 @@
 | 20231017 | SpringWeb常见鉴权措施与垂直越权检测 | https://www.sec-in.com/article/2273| 
 | 20231016 | 寄生云计算服务实现可信C2控制 | https://mp.weixin.qq.com/s/_NRivu59k4yiLjBxKoXAMg| 
 | 20231016 | Hunting for Leaked Cobalt Strike v4.9 servers | https://blog.cyphur.com/detecting-leaked-cobalt-strike/| 
-| 20231016 | SecWiki周刊（第502期) | https://www.sec-wiki.com/weekly/502| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231021T00:45:26Z | CVE-2023-41993 | Null | https://github.com/po6ix/POC-for-CVE-2023-41993 | | 
+| 20231021T11:46:19Z | CVE-2023-28432 | Null | https://github.com/yTxZx/CVE-2023-28432 | | 
+| 20231021T11:45:10Z | CVE-2023-34051 | VMware Aria Operations for Logs CVE-2023-34051 | https://github.com/horizon3ai/CVE-2023-34051 | | 
+| 20231021T11:17:52Z | CVE-2023-36802 | PoC for CVE-2023-36802 Microsoft Kernel Streaming Service Proxy | https://github.com/x0rb3l/CVE-2023-36802-MSKSSRV-LPE | | 
+| 20231021T10:51:43Z | CVE-2023-5360 | CVE-2023-5360 Auto Shell Upload WordPress Royal Elementor 1.3.78 Shell Upload | https://github.com/sagsooz/CVE-2023-5360 | | 
+| 20231021T10:00:47Z | CVE-2023-41993 | Null | https://github.com/po6ix/POC-for-CVE-2023-41993 | | 
+| 20231021T04:25:17Z | CVE-2021-23017 | Null | https://github.com/ShivamDey/CVE-2021-23017 | | 
 | 20231020T23:35:30Z | CVE-2023-20198 | CISCO CVE POC SCRIPT | https://github.com/sohaibeb/CVE-2023-20198 | | 
-| 20231020T22:05:44Z | CVE-2023-36802 | PoC for CVE-2023-36802 Microsoft Kernel Streaming Service Proxy | https://github.com/x0rb3l/CVE-2023-36802-MSKSSRV-LPE | | 
-| 20231020T21:57:05Z | CVE-2023-34051 | VMware Aria Operations for Logs CVE-2023-34051 | https://github.com/horizon3ai/CVE-2023-34051 | | 
 | 20231020T18:26:57Z | CVE-2023-3971 | To find HTML injection and XSS  | https://github.com/ashangp923/CVE-2023-3971 | | 
 | 20231020T16:25:01Z | cve-2023-20198 | 1vere$k POC on the CVE-2023-20198 | https://github.com/iveresk/cve-2023-20198 | | 
 | 20231020T15:21:15Z | CVE-2023-38646 | RCE Exploit for CVE-2023-38646 | https://github.com/AnvithLobo/CVE-2023-38646 | | 
-| 20231020T13:41:07Z | CVE-2023-23752 | Joomla Unauthenticated Information Disclosure (CVE-2023-23752) exploit | https://github.com/AlissoftCodes/CVE-2023-23752 | | 
-| 20231020T12:32:19Z | CVE-2023-1698 | WAGO系统远程代码执行漏洞(CVE-2023-1698) | https://github.com/thedarknessdied/WAGO-CVE-2023-1698 | | 
-| 20231020T11:30:45Z | CVE-2023-20198 | CVE-2023-20198 straight RCE without implant | https://github.com/m474r5/CVE-2023-20198-RCE | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231021T11:58:34Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14080 | 425| 
 | 20231021T01:26:52Z | Null | https://github.com/kleeST0/kleeST0.github.io | 0 | 0| 
-| 20231021T00:14:30Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14076 | 425| 
 | 20231020T21:24:46Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2340 | 639| 
 | 20231018T04:28:49Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 31 | 2| 
 | 20231018T01:50:49Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 49 | 0| 
@@ -71,6 +71,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231021T10:50:37Z | 中国蚁剑后渗透框架 | https://github.com/yzddmr6/As-Exploits | 752 | 144| 
+| 20231021T09:43:59Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5991 | 540| 
+| 20231021T08:33:49Z | A list of IDs of Roblox users that were suspected of exploiting. Feel free to use it personally. | https://github.com/Onionskinner/roblox-exploiter-blacklist | 0 | 0| 
 | 20231021T01:28:06Z | A security ModuleScript for ROBLOX to make your game harder to exploit on. Made by an exploiter, to deter exploiters. | https://github.com/prefuturistic/PreSEC | 0 | 0| 
 | 20231021T01:16:42Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0069-app-7M3fJ-insist-exploit | 0 | 0| 
 | 20231021T01:09:39Z | Download Best Roblox Synapse X Free! Download Synapse X Exploit 100% Free for Roblox  Synapse X is a engine which use for scripting, this is powerful tool that execute all Roblox scripts easily.  Dark Dex, ESP, Stream Sniper, Remote Spy, Script Dumper, Teleport, Speed, Fly, Infinite jump, everything in one package. | https://github.com/Psycho1337-cpu/Synapse-X- | 0 | 0| 
@@ -78,14 +81,12 @@
 | 20231020T23:49:12Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWyt | 1 | 0| 
 | 20231020T23:48:33Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANyt | 1 | 0| 
 | 20231020T23:45:30Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANyt | 1 | 0| 
-| 20231020T23:11:12Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANyt | 0 | 0| 
-| 20231020T22:52:07Z | We have many hacks and exploits for free!! Some to list off are 2FA Enabler - image logger (Our most common) - and email bypasser. %THESE ARE FOR EDUCATIONAL PURPOSES ONLY% | https://github.com/ReaperHacksAndExploits/Reaper-Hacks-and-Exploits | 0 | 0| 
-| 20231020T15:44:00Z | Null | https://github.com/hfw8271/exploiting_bwapp | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231021T11:51:32Z | A sub-project of DLSec, implementing backdoor attack on BERT. | https://github.com/sfmoraa/BertBackdoor | 0 | 0| 
 | 20231021T01:00:56Z | dont use that for bad things >:( | https://github.com/rossiniroberto52/backdoor | 2 | 0| 
 | 20231020T22:36:33Z | PCI Express DIY hacking toolkit for Xilinx SP605. This repository is also home of Hyper-V Backdoor and Boot Backdoor, check readme for links and info | https://github.com/Cr4sh/s6_pcie_microblaze | 634 | 139| 
 | 20231020T21:59:34Z | Autonomous pre-boot DMA attack hardware implant for M.2 slot based on PicoEVB development board | https://github.com/Cr4sh/pico_dma | 23 | 4| 
@@ -95,7 +96,6 @@
 | 20231020T13:52:41Z | 2 Python programmes used for detecting and preventing backdoor attacks in large language models. | https://github.com/AceMegalodon/Mitigating_Backdoor_Attacks_in_LLMs | 0 | 0| 
 | 20231020T12:23:41Z | Null | https://github.com/rzbin/FederatedLearningBackdoor | 0 | 0| 
 | 20231020T07:47:29Z | Null | https://github.com/ruizegao/backdoor-evasion | 0 | 0| 
-| 20231020T06:14:51Z | Null | https://github.com/jaidalmotra/Backdoor-Detection | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -130,16 +130,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231021T11:54:13Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4869 | 1164| 
+| 20231021T11:51:02Z | Phone case selling Ecommerce Website built for Fuzze Organization. Its a Freelance Product built using MERN. | https://github.com/Braghadeesh005/Fuzze | 0 | 0| 
+| 20231021T11:50:34Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4035 | 820| 
+| 20231021T07:40:09Z | is here | https://github.com/ShivamX04/fuzzy-barnacle | 0 | 0| 
+| 20231021T07:22:07Z | Simple implementation of Fuzzy Logic using Jupyter Notebook | https://github.com/rzzaike/fuzzy-demo | 0 | 0| 
+| 20231021T05:51:14Z | GB-FuzzyStream | https://github.com/xjnine/GB-FuzzyStream | 1 | 0| 
+| 20231021T04:39:41Z | Null | https://github.com/wahyulut/Kontrol-dan-Monitoring-SIMART-Fuzzy_Tagaki- | 0 | 0| 
 | 20231021T01:50:42Z | Null | https://github.com/mauricioabc/Projeto-Fuzzy | 0 | 0| 
 | 20231020T23:57:33Z | SafeFuzz: A Safety Oriented Fuzz Testing framework for Automotive Grade Software | https://github.com/mscs20001/SafeFuzz | 0 | 0| 
 | 20231020T20:55:03Z | Null | https://github.com/SmallDecco/fuzzy-computing-machine | 0 | 0| 
-| 20231020T17:19:04Z | Null | https://github.com/LaurenceCartier/fuzzy-garbanzo | 0 | 0| 
-| 20231020T12:56:19Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4867 | 1164| 
-| 20231020T12:40:59Z | Extended Blueprint Library Test Plugin for Unreal Engine | https://github.com/unibuc-cs/EBLT-Fuzzing-Software-Blueprints | 1 | 0| 
-| 20231020T12:40:12Z | Null | https://github.com/senabetulkocak/fuzzy-spoon | 0 | 0| 
-| 20231020T12:33:22Z | Null | https://github.com/DarkMinatoKunGx/fuzzy-chainsaw | 0 | 0| 
-| 20231020T11:02:32Z | Null | https://github.com/Andrey0277/fuzzy_logic_MKR | 0 | 0| 
-| 20231020T10:49:56Z | Penetration-List: A comprehensive resource for testers, covering all types of vulnerabilities and materials used in Penetration Testing. Includes payloads, dorks, fuzzing materials, and offers in-depth theory sections. Visit our Medium profile for more information. | https://github.com/AlbusSec/Penetration-List | 243 | 54| 
 
 
 
