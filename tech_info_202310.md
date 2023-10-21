@@ -130,6 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231021T01:50:42Z | Null | https://github.com/mauricioabc/Projeto-Fuzzy | 0 | 0| 
 | 20231020T23:57:33Z | SafeFuzz: A Safety Oriented Fuzz Testing framework for Automotive Grade Software | https://github.com/mscs20001/SafeFuzz | 0 | 0| 
 | 20231020T20:55:03Z | Null | https://github.com/SmallDecco/fuzzy-computing-machine | 0 | 0| 
 | 20231020T17:19:04Z | Null | https://github.com/LaurenceCartier/fuzzy-garbanzo | 0 | 0| 
@@ -139,7 +140,6 @@
 | 20231020T12:33:22Z | Null | https://github.com/DarkMinatoKunGx/fuzzy-chainsaw | 0 | 0| 
 | 20231020T11:02:32Z | Null | https://github.com/Andrey0277/fuzzy_logic_MKR | 0 | 0| 
 | 20231020T10:49:56Z | Penetration-List: A comprehensive resource for testers, covering all types of vulnerabilities and materials used in Penetration Testing. Includes payloads, dorks, fuzzing materials, and offers in-depth theory sections. Visit our Medium profile for more information. | https://github.com/AlbusSec/Penetration-List | 243 | 54| 
-| 20231020T10:36:25Z | PyO3 PackStream reader for Neo4j Driver | https://github.com/thelonelyvulpes/fuzzy-fiesta | 0 | 0| 
 
 
 
