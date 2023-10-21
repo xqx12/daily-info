@@ -44,6 +44,7 @@
 | 20231021T10:50:37Z | 中国蚁剑后渗透框架 | https://github.com/yzddmr6/As-Exploits | 752 | 144| 
 | 20231021T10:29:08Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5408 | 700| 
 | 20231021T08:33:49Z | A list of IDs of Roblox users that were suspected of exploiting. Feel free to use it personally. | https://github.com/Onionskinner/roblox-exploiter-blacklist | 0 | 0| 
+| 20231021T06:03:29Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5437 | 1057| 
 | 20231021T01:28:06Z | A security ModuleScript for ROBLOX to make your game harder to exploit on. Made by an exploiter, to deter exploiters. | https://github.com/prefuturistic/PreSEC | 0 | 0| 
 | 20231021T01:16:42Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0069-app-7M3fJ-insist-exploit | 0 | 0| 
 | 20231021T01:09:39Z | Download Best Roblox Synapse X Free! Download Synapse X Exploit 100% Free for Roblox  Synapse X is a engine which use for scripting, this is powerful tool that execute all Roblox scripts easily.  Dark Dex, ESP, Stream Sniper, Remote Spy, Script Dumper, Teleport, Speed, Fly, Infinite jump, everything in one package. | https://github.com/Psycho1337-cpu/Synapse-X- | 0 | 0| 
