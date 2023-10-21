@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231021T00:45:26Z | CVE-2023-41993 | Null | https://github.com/po6ix/POC-for-CVE-2023-41993 | | 
 | 20231020T23:35:30Z | CVE-2023-20198 | CISCO CVE POC SCRIPT | https://github.com/sohaibeb/CVE-2023-20198 | | 
 | 20231020T22:05:44Z | CVE-2023-36802 | PoC for CVE-2023-36802 Microsoft Kernel Streaming Service Proxy | https://github.com/x0rb3l/CVE-2023-36802-MSKSSRV-LPE | | 
 | 20231020T21:57:05Z | CVE-2023-34051 | VMware Aria Operations for Logs CVE-2023-34051 | https://github.com/horizon3ai/CVE-2023-34051 | | 
@@ -35,7 +36,6 @@
 | 20231020T13:41:07Z | CVE-2023-23752 | Joomla Unauthenticated Information Disclosure (CVE-2023-23752) exploit | https://github.com/AlissoftCodes/CVE-2023-23752 | | 
 | 20231020T12:32:19Z | CVE-2023-1698 | WAGO系统远程代码执行漏洞(CVE-2023-1698) | https://github.com/thedarknessdied/WAGO-CVE-2023-1698 | | 
 | 20231020T11:30:45Z | CVE-2023-20198 | CVE-2023-20198 straight RCE without implant | https://github.com/m474r5/CVE-2023-20198-RCE | | 
-| 20231020T10:25:47Z | CVE-2023-28432 | Null | https://github.com/yTxZx/CVE-2023-28432 | | 
 
 
 # klee on Github 推荐
