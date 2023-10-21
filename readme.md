@@ -58,6 +58,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231020T22:36:33Z | PCI Express DIY hacking toolkit for Xilinx SP605. This repository is also home of Hyper-V Backdoor and Boot Backdoor, check readme for links and info | https://github.com/Cr4sh/s6_pcie_microblaze | 634 | 139| 
 | 20231020T16:06:36Z | Fast integration of backdoor attacks in machine learning and federated learning. | https://github.com/mtuann/fedlearn-backdoor-attacks | 0 | 0| 
 | 20231020T15:22:24Z | Null | https://github.com/sunzu94/powershell-backdoor-generator | 0 | 0| 
 | 20231020T14:03:42Z | Batch & Python Backdoor by Telegram API | https://github.com/ioscreate/online-trought | 0 | 0| 
