@@ -88,6 +88,7 @@
 | --- | --- | --- | --- | ---| 
 | 20231021T01:00:56Z | dont use that for bad things >:( | https://github.com/rossiniroberto52/backdoor | 2 | 0| 
 | 20231020T22:36:33Z | PCI Express DIY hacking toolkit for Xilinx SP605. This repository is also home of Hyper-V Backdoor and Boot Backdoor, check readme for links and info | https://github.com/Cr4sh/s6_pcie_microblaze | 634 | 139| 
+| 20231020T21:59:34Z | Autonomous pre-boot DMA attack hardware implant for M.2 slot based on PicoEVB development board | https://github.com/Cr4sh/pico_dma | 23 | 4| 
 | 20231020T16:06:36Z | Fast integration of backdoor attacks in machine learning and federated learning. | https://github.com/mtuann/fedlearn-backdoor-attacks | 0 | 0| 
 | 20231020T15:22:24Z | Null | https://github.com/sunzu94/powershell-backdoor-generator | 0 | 0| 
 | 20231020T14:03:42Z | Batch & Python Backdoor by Telegram API | https://github.com/ioscreate/online-trought | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20231020T12:23:41Z | Null | https://github.com/rzbin/FederatedLearningBackdoor | 0 | 0| 
 | 20231020T07:47:29Z | Null | https://github.com/ruizegao/backdoor-evasion | 0 | 0| 
 | 20231020T06:14:51Z | Null | https://github.com/jaidalmotra/Backdoor-Detection | 0 | 0| 
-| 20231020T01:11:01Z | dir | https://github.com/REGGIEMARLSAMFORNA/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
