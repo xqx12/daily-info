@@ -41,6 +41,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231021T00:57:34Z | Null | https://github.com/kleeST0/kleeST0.github.io | 0 | 0| 
 | 20231021T00:14:30Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14076 | 425| 
 | 20231020T21:24:46Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2340 | 639| 
 | 20231018T04:28:49Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 31 | 2| 
@@ -50,7 +51,6 @@
 | 20231015T12:25:32Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 278 | 54| 
 | 20231011T03:07:48Z | Null | https://github.com/mm7274a00/klee1011 | 0 | 0| 
 | 20231009T02:55:06Z | Kleek - An Android App for Creating KakaoTalk Bots using Xposed API | https://github.com/naijun0403/kleek | 6 | 2| 
-| 20231008T05:48:32Z | 本字体基于Klee one字体及其衍生的霞鹜文楷系列字体进行改做，基于文楷TC修改的字体 | https://github.com/Steve-Yuu/YshiShuti | 16 | 0| 
 
 
 # s2e on Github 推荐
