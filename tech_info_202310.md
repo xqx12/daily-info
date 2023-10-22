@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231022T01:10:19Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0065-app-7pWP--wake-exploit | 0 | 0| 
 | 20231022T00:45:41Z | exploit | https://github.com/josexgonzalez/exploit | 1 | 0| 
 | 20231022T00:03:35Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWcy | 1 | 0| 
 | 20231022T00:02:51Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANcy | 1 | 0| 
@@ -80,7 +81,6 @@
 | 20231021T23:24:03Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6063 | 799| 
 | 20231021T22:44:04Z | This a malware created with python keys node server and the the word macros exploit. The code runs on localhost for ease of use | https://github.com/RadoslavTsvetanov/Word_key_logger | 0 | 0| 
 | 20231021T21:25:27Z | PowerShell script to find, report, and mitigate (where possible) EXEs with exploitable DLLs | https://github.com/Xorlent/Fix-Exploitable-DLLs | 0 | 0| 
-| 20231021T19:58:06Z | Minecraft server software oriented towards patching Creative Mode exploits. | https://github.com/AtlasMediaGroup/Scissors | 17 | 3| 
 
 
 # backdoor on Github 推荐
