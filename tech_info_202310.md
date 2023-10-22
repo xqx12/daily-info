@@ -130,6 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231022T12:09:06Z | Null | https://github.com/Luccuo/fuzzing_course | 0 | 0| 
 | 20231022T11:13:36Z | Null | https://github.com/BhuvneshwarTyagi/fuzzy-tribble | 0 | 0| 
 | 20231022T11:12:50Z | Null | https://github.com/Aashish2709/fuzzy-octo-parakeet | 0 | 0| 
 | 20231022T11:12:49Z | Null | https://github.com/Aashish2709/fuzzy-adventure | 0 | 0| 
@@ -139,7 +140,6 @@
 | 20231022T10:39:18Z | Null | https://github.com/Aashish2709/fuzzy-fishstick | 0 | 0| 
 | 20231022T10:34:31Z | Null | https://github.com/Mohanish-9582/fuzzy-funicular | 0 | 0| 
 | 20231022T10:31:24Z | Null | https://github.com/AnkitPayal21/fuzzy-tribble | 0 | 0| 
-| 20231022T10:27:38Z | Null | https://github.com/abhayghasal02112004/fuzzy-robot | 0 | 0| 
 
 
 
