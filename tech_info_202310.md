@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231022T01:53:09Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0058-app-yrjgn-withdraw-exploit | 0 | 0| 
 | 20231022T01:43:49Z | ***roblox exploit updated*** | https://github.com/roblox-executers/fluxus-roblox-executer-updates | 0 | 0| 
 | 20231022T01:10:19Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0065-app-7pWP--wake-exploit | 0 | 0| 
 | 20231022T00:45:41Z | exploit | https://github.com/josexgonzalez/exploit | 1 | 0| 
@@ -80,7 +81,6 @@
 | 20231022T00:00:10Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANcy | 0 | 0| 
 | 20231021T23:59:40Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANcy | 1 | 0| 
 | 20231021T23:24:03Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6063 | 799| 
-| 20231021T22:44:04Z | This a malware created with python keys node server and the the word macros exploit. The code runs on localhost for ease of use | https://github.com/RadoslavTsvetanov/Word_key_logger | 0 | 0| 
 
 
 # backdoor on Github 推荐
