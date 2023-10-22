@@ -41,7 +41,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231022T00:50:31Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14082 | 425| 
+| 20231022T11:59:25Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14089 | 425| 
+| 20231022T02:27:43Z | A simple library for Swept AABB collision detection written in Java | https://github.com/KleeSup/KleeSwept | 3 | 0| 
 | 20231021T14:38:34Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 368 | 8| 
 | 20231021T01:26:52Z | Null | https://github.com/kleeST0/kleeST0.github.io | 0 | 0| 
 | 20231020T21:24:46Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2340 | 639| 
@@ -50,7 +51,6 @@
 | 20231017T16:18:26Z | Null | https://github.com/dor3Monbotz/KLeechBot | 0 | 0| 
 | 20231015T12:25:32Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 278 | 54| 
 | 20231011T03:07:48Z | Null | https://github.com/mm7274a00/klee1011 | 0 | 0| 
-| 20231009T02:55:06Z | Kleek - An Android App for Creating KakaoTalk Bots using Xposed API | https://github.com/naijun0403/kleek | 6 | 2| 
 
 
 # s2e on Github 推荐
@@ -71,31 +71,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231022T11:54:49Z | RenderQuest HTB exploit trial | https://github.com/whoisbel/whoisbel.github.io | 0 | 0| 
+| 20231022T11:26:30Z | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | 1528 | 183| 
+| 20231022T11:00:01Z | Null | https://github.com/balaji200/exploitation_of_metasploitable2 | 0 | 0| 
+| 20231022T10:46:19Z | GitOps Repository | https://github.com/rhtap-perf-test/ci10t-776-0025-app-UUQ5B-exploit-alter | 0 | 0| 
+| 20231022T10:45:41Z | Null | https://github.com/avainfo/AvA-Exploits | 0 | 0| 
+| 20231022T10:15:00Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5994 | 547| 
+| 20231022T09:29:27Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 747 | 179| 
+| 20231022T08:48:50Z | Code for our paper: Exploiting Spatial Attention and Contextual Information for Document Image Segmentation | https://github.com/Sangyuman/DSAP | 0 | 0| 
+| 20231022T07:59:37Z | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | 64 | 16| 
 | 20231022T01:53:09Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0058-app-yrjgn-withdraw-exploit | 0 | 0| 
-| 20231022T01:43:49Z | ***roblox exploit updated*** | https://github.com/roblox-executers/fluxus-roblox-executer-updates | 0 | 0| 
-| 20231022T01:10:19Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0065-app-7pWP--wake-exploit | 0 | 0| 
-| 20231022T00:45:41Z | exploit | https://github.com/josexgonzalez/exploit | 1 | 0| 
-| 20231022T00:03:35Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWcy | 1 | 0| 
-| 20231022T00:02:51Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANcy | 1 | 0| 
-| 20231022T00:01:54Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANct | 1 | 0| 
-| 20231022T00:00:10Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANcy | 0 | 0| 
-| 20231021T23:59:40Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANcy | 1 | 0| 
-| 20231021T23:24:03Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6063 | 799| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231022T01:43:10Z | Autonomous pre-boot DMA attack hardware implant for M.2 slot based on PicoEVB development board | https://github.com/Cr4sh/pico_dma | 25 | 4| 
+| 20231022T11:15:48Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 166 | 44| 
+| 20231022T11:13:33Z | Null | https://github.com/aviv320i/python_backdoor | 0 | 0| 
+| 20231022T07:23:02Z | Autonomous pre-boot DMA attack hardware implant for M.2 slot based on PicoEVB development board | https://github.com/Cr4sh/pico_dma | 29 | 4| 
+| 20231022T06:41:31Z | Certified backdoor detection | https://github.com/zhenxianglance/CBD | 0 | 0| 
+| 20231022T04:09:55Z | batch script in powershell for remote backdoor | https://github.com/gauravmanmode/Remote-Shell-Server | 0 | 0| 
 | 20231021T20:26:41Z | this is simple backdoor with python  | https://github.com/MarcoCyber1/backdoor | 0 | 0| 
 | 20231021T15:05:45Z | Digital Forensics and Incident Response (DFIR) | https://github.com/RENANZG/My-Forensics | 59 | 8| 
 | 20231021T12:42:36Z | Null | https://github.com/AmitBhatt8077/BackDoor01 | 0 | 0| 
 | 20231021T11:51:32Z | A sub-project of DLSec, implementing backdoor attack on BERT. | https://github.com/sfmoraa/BertBackdoor | 0 | 0| 
 | 20231021T01:00:56Z | dont use that for bad things >:( | https://github.com/rossiniroberto52/backdoor | 2 | 0| 
-| 20231020T22:36:33Z | PCI Express DIY hacking toolkit for Xilinx SP605. This repository is also home of Hyper-V Backdoor and Boot Backdoor, check readme for links and info | https://github.com/Cr4sh/s6_pcie_microblaze | 634 | 139| 
-| 20231020T16:06:36Z | Fast integration of backdoor attacks in machine learning and federated learning. | https://github.com/mtuann/fedlearn-backdoor-attacks | 0 | 0| 
-| 20231020T15:22:24Z | Null | https://github.com/sunzu94/powershell-backdoor-generator | 0 | 0| 
-| 20231020T14:03:42Z | Batch & Python Backdoor by Telegram API | https://github.com/ioscreate/online-trought | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -130,16 +130,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231022T00:53:13Z | Storage for ClusterFuzzLite fuzz corpora and coverage reports | https://github.com/rsonquery/rsonpath-fuzz-storage | 1 | 0| 
-| 20231022T00:13:26Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 2054 | 95| 
-| 20231021T23:56:43Z | Null | https://github.com/sparshg/fuzzy-controller | 3 | 0| 
-| 20231021T23:34:00Z | Fuzzer built in python with support for XML,CSV,JSON,JPG,ELF,PDF with basic coverage based strategies. | https://github.com/joker4653/FuzzPyCrunch | 0 | 0| 
-| 20231021T23:31:15Z | Null | https://github.com/KeKoParis/fuzzy_inference | 0 | 0| 
-| 20231021T22:40:02Z | Null | https://github.com/pingjuiliao/fuzz-toolkit | 0 | 0| 
-| 20231021T22:24:27Z | Null | https://github.com/fuzzie6tn/fuzzie6tn | 0 | 0| 
-| 20231021T22:16:14Z | Null | https://github.com/AndrewCoding123/fuzzy-guacamole | 0 | 0| 
-| 20231021T22:11:03Z | Null | https://github.com/MaGaMe19/Fuzzy-Time | 0 | 0| 
-| 20231021T19:46:06Z | ☸A stateful GraphQL fuzzer | https://github.com/omar2535/GraphQLer | 31 | 3| 
+| 20231022T11:13:36Z | Null | https://github.com/BhuvneshwarTyagi/fuzzy-tribble | 0 | 0| 
+| 20231022T11:12:50Z | Null | https://github.com/Aashish2709/fuzzy-octo-parakeet | 0 | 0| 
+| 20231022T11:12:49Z | Null | https://github.com/Aashish2709/fuzzy-adventure | 0 | 0| 
+| 20231022T10:55:07Z | Null | https://github.com/manjeet98120/fuzzy-umbrella | 0 | 0| 
+| 20231022T10:44:16Z | Null | https://github.com/dhineshdh/fuzzy-robot | 0 | 0| 
+| 20231022T10:43:24Z | Null | https://github.com/manjeet98120/fuzzy-broccoli | 0 | 0| 
+| 20231022T10:39:18Z | Null | https://github.com/Aashish2709/fuzzy-fishstick | 0 | 0| 
+| 20231022T10:34:31Z | Null | https://github.com/Mohanish-9582/fuzzy-funicular | 0 | 0| 
+| 20231022T10:31:24Z | Null | https://github.com/AnkitPayal21/fuzzy-tribble | 0 | 0| 
+| 20231022T10:27:38Z | Null | https://github.com/abhayghasal02112004/fuzzy-robot | 0 | 0| 
 
 
 
