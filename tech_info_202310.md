@@ -130,10 +130,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231022T00:13:26Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 2054 | 95| 
 | 20231021T23:56:43Z | Null | https://github.com/sparshg/fuzzy-controller | 3 | 0| 
 | 20231021T23:34:00Z | Fuzzer built in python with support for XML,CSV,JSON,JPG,ELF,PDF with basic coverage based strategies. | https://github.com/joker4653/FuzzPyCrunch | 0 | 0| 
 | 20231021T23:31:15Z | Null | https://github.com/KeKoParis/fuzzy_inference | 0 | 0| 
-| 20231021T23:18:11Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 2053 | 95| 
 | 20231021T22:40:02Z | Null | https://github.com/pingjuiliao/fuzz-toolkit | 0 | 0| 
 | 20231021T22:24:27Z | Null | https://github.com/fuzzie6tn/fuzzie6tn | 0 | 0| 
 | 20231021T22:16:14Z | Null | https://github.com/AndrewCoding123/fuzzy-guacamole | 0 | 0| 
