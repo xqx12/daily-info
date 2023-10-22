@@ -70,6 +70,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231022T12:32:27Z | Infrastructure definition for an example sevice exposing fuzzy-as-a-service | https://github.com/SamRoberts/fuzzy_lambda_pulumi | 0 | 0| 
 | 20231022T12:09:06Z | Null | https://github.com/Luccuo/fuzzing_course | 0 | 0| 
 | 20231022T11:13:36Z | Null | https://github.com/BhuvneshwarTyagi/fuzzy-tribble | 0 | 0| 
 | 20231022T11:12:50Z | Null | https://github.com/Aashish2709/fuzzy-octo-parakeet | 0 | 0| 
@@ -79,7 +80,6 @@
 | 20231022T10:43:24Z | Null | https://github.com/manjeet98120/fuzzy-broccoli | 0 | 0| 
 | 20231022T10:39:18Z | Null | https://github.com/Aashish2709/fuzzy-fishstick | 0 | 0| 
 | 20231022T10:34:31Z | Null | https://github.com/Mohanish-9582/fuzzy-funicular | 0 | 0| 
-| 20231022T10:31:24Z | Null | https://github.com/AnkitPayal21/fuzzy-tribble | 0 | 0| 
 
 
 
