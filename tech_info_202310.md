@@ -130,6 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231022T00:53:13Z | Storage for ClusterFuzzLite fuzz corpora and coverage reports | https://github.com/rsonquery/rsonpath-fuzz-storage | 1 | 0| 
 | 20231022T00:13:26Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 2054 | 95| 
 | 20231021T23:56:43Z | Null | https://github.com/sparshg/fuzzy-controller | 3 | 0| 
 | 20231021T23:34:00Z | Fuzzer built in python with support for XML,CSV,JSON,JPG,ELF,PDF with basic coverage based strategies. | https://github.com/joker4653/FuzzPyCrunch | 0 | 0| 
@@ -139,7 +140,6 @@
 | 20231021T22:16:14Z | Null | https://github.com/AndrewCoding123/fuzzy-guacamole | 0 | 0| 
 | 20231021T22:11:03Z | Null | https://github.com/MaGaMe19/Fuzzy-Time | 0 | 0| 
 | 20231021T19:46:06Z | ☸A stateful GraphQL fuzzer | https://github.com/omar2535/GraphQLer | 31 | 3| 
-| 20231021T19:35:24Z | Null | https://github.com/shigetora303/fuzzy-barnacle | 0 | 0| 
 
 
 
