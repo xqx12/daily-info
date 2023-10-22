@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231022T01:43:49Z | ***roblox exploit updated*** | https://github.com/roblox-executers/fluxus-roblox-executer-updates | 0 | 0| 
 | 20231022T01:10:19Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0065-app-7pWP--wake-exploit | 0 | 0| 
 | 20231022T00:45:41Z | exploit | https://github.com/josexgonzalez/exploit | 1 | 0| 
 | 20231022T00:03:35Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWcy | 1 | 0| 
@@ -80,13 +81,12 @@
 | 20231021T23:59:40Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANcy | 1 | 0| 
 | 20231021T23:24:03Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6063 | 799| 
 | 20231021T22:44:04Z | This a malware created with python keys node server and the the word macros exploit. The code runs on localhost for ease of use | https://github.com/RadoslavTsvetanov/Word_key_logger | 0 | 0| 
-| 20231021T21:25:27Z | PowerShell script to find, report, and mitigate (where possible) EXEs with exploitable DLLs | https://github.com/Xorlent/Fix-Exploitable-DLLs | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231022T01:22:49Z | Autonomous pre-boot DMA attack hardware implant for M.2 slot based on PicoEVB development board | https://github.com/Cr4sh/pico_dma | 24 | 4| 
+| 20231022T01:43:10Z | Autonomous pre-boot DMA attack hardware implant for M.2 slot based on PicoEVB development board | https://github.com/Cr4sh/pico_dma | 25 | 4| 
 | 20231021T20:26:41Z | this is simple backdoor with python  | https://github.com/MarcoCyber1/backdoor | 0 | 0| 
 | 20231021T15:05:45Z | Digital Forensics and Incident Response (DFIR) | https://github.com/RENANZG/My-Forensics | 59 | 8| 
 | 20231021T12:42:36Z | Null | https://github.com/AmitBhatt8077/BackDoor01 | 0 | 0| 
