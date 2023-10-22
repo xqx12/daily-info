@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231022T00:01:54Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANct | 1 | 0| 
 | 20231022T00:00:10Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANcy | 0 | 0| 
 | 20231021T23:59:40Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANcy | 1 | 0| 
 | 20231021T23:24:03Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6063 | 799| 
@@ -80,7 +81,6 @@
 | 20231021T12:09:03Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5992 | 540| 
 | 20231021T10:50:37Z | 中国蚁剑后渗透框架 | https://github.com/yzddmr6/As-Exploits | 752 | 144| 
 | 20231021T10:29:08Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5408 | 700| 
-| 20231021T08:33:49Z | A list of IDs of Roblox users that were suspected of exploiting. Feel free to use it personally. | https://github.com/Onionskinner/roblox-exploiter-blacklist | 0 | 0| 
 
 
 # backdoor on Github 推荐
