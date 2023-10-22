@@ -78,9 +78,9 @@
 | 20231022T10:45:41Z | Null | https://github.com/avainfo/AvA-Exploits | 0 | 0| 
 | 20231022T10:15:00Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5994 | 547| 
 | 20231022T09:29:27Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 747 | 179| 
+| 20231022T09:29:14Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5439 | 1057| 
 | 20231022T08:48:50Z | Code for our paper: Exploiting Spatial Attention and Contextual Information for Document Image Segmentation | https://github.com/Sangyuman/DSAP | 0 | 0| 
 | 20231022T07:59:37Z | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | 64 | 16| 
-| 20231022T01:53:09Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0058-app-yrjgn-withdraw-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
