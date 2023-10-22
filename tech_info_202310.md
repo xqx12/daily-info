@@ -80,7 +80,7 @@
 | 20231021T22:44:04Z | This a malware created with python keys node server and the the word macros exploit. The code runs on localhost for ease of use | https://github.com/RadoslavTsvetanov/Word_key_logger | 0 | 0| 
 | 20231021T21:25:27Z | PowerShell script to find, report, and mitigate (where possible) EXEs with exploitable DLLs | https://github.com/Xorlent/Fix-Exploitable-DLLs | 0 | 0| 
 | 20231021T19:58:06Z | Minecraft server software oriented towards patching Creative Mode exploits. | https://github.com/AtlasMediaGroup/Scissors | 17 | 3| 
-| 20231021T12:09:03Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5992 | 540| 
+| 20231021T19:07:43Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5438 | 1057| 
 
 
 # backdoor on Github 推荐
