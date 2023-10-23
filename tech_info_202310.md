@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231023T00:33:02Z | DarkCool ~ Exploiter, Checker, Grabber, Searching, Bruteforce, Random, And Others Tools | https://github.com/DarkSkull777/DarkCool | 2 | 1| 
 | 20231023T00:23:21Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWnj | 1 | 0| 
 | 20231023T00:22:44Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANnj | 1 | 0| 
 | 20231023T00:22:09Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANnj | 1 | 0| 
@@ -80,7 +81,6 @@
 | 20231022T22:15:26Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5440 | 1057| 
 | 20231022T22:12:59Z | c0ffeebabe%s official method to aggressive transaction re-ordering | https://github.com/c0ffee-babe/Anti-Exploit-Mevbot | 1 | 0| 
 | 20231022T22:09:16Z | IEEE Lab where we go over an introduction to binary exploitation through the exploits of basic buffer overflow vulnerabilities | https://github.com/Polidori-112/IEEE_Lab | 0 | 0| 
-| 20231022T17:12:13Z | PowerShell script to find, report, and mitigate (where possible) EXEs with exploitable DLLs | https://github.com/Xorlent/Fix-Exploitable-DLLs | 0 | 0| 
 
 
 # backdoor on Github 推荐
