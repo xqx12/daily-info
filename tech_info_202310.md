@@ -77,10 +77,10 @@
 | 20231023T00:21:35Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANnj | 1 | 0| 
 | 20231022T23:39:19Z | CVE-2023-22515 (Confluence Broken Access Control Exploit) | https://github.com/joaoviictorti/CVE-2023-22515 | 1 | 0| 
 | 20231022T22:28:01Z | PS5 FW 3.xx-4.xx Exploit Menu with Payloads | https://github.com/Storm21CH/PS5-FW-3.xx-4.xx-Exploit-Menu | 0 | 0| 
+| 20231022T22:15:26Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5440 | 1057| 
 | 20231022T22:12:59Z | c0ffeebabe%s official method to aggressive transaction re-ordering | https://github.com/c0ffee-babe/Anti-Exploit-Mevbot | 1 | 0| 
 | 20231022T22:09:16Z | IEEE Lab where we go over an introduction to binary exploitation through the exploits of basic buffer overflow vulnerabilities | https://github.com/Polidori-112/IEEE_Lab | 0 | 0| 
 | 20231022T17:12:13Z | PowerShell script to find, report, and mitigate (where possible) EXEs with exploitable DLLs | https://github.com/Xorlent/Fix-Exploitable-DLLs | 0 | 0| 
-| 20231022T15:29:59Z | URL Infection (Silent Java Drive By) URL Infection Exploit Silent Java Drive by downloads may happen when visiting a site, opening an e-mail message. It may even happen by clicking on a malicious pop-up window: by clicking on the window in the belief that it concerns an error report from the computer’s OS, for example. | https://github.com/GameProfRcs/Slient-Url-Exploit-New-Cve-Chrome-Exploit-Html-Downloader-Put-Your-Link | 0 | 0| 
 
 
 # backdoor on Github 推荐
