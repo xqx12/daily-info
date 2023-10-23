@@ -71,6 +71,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231023T00:22:09Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANnj | 1 | 0| 
+| 20231023T00:21:35Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANnj | 1 | 0| 
 | 20231022T23:39:19Z | CVE-2023-22515 (Confluence Broken Access Control Exploit) | https://github.com/joaoviictorti/CVE-2023-22515 | 1 | 0| 
 | 20231022T22:28:01Z | PS5 FW 3.xx-4.xx Exploit Menu with Payloads | https://github.com/Storm21CH/PS5-FW-3.xx-4.xx-Exploit-Menu | 0 | 0| 
 | 20231022T22:12:59Z | c0ffeebabe%s official method to aggressive transaction re-ordering | https://github.com/c0ffee-babe/Anti-Exploit-Mevbot | 1 | 0| 
@@ -79,8 +81,6 @@
 | 20231022T15:29:59Z | URL Infection (Silent Java Drive By) URL Infection Exploit Silent Java Drive by downloads may happen when visiting a site, opening an e-mail message. It may even happen by clicking on a malicious pop-up window: by clicking on the window in the belief that it concerns an error report from the computer’s OS, for example. | https://github.com/GameProfRcs/Slient-Url-Exploit-New-Cve-Chrome-Exploit-Html-Downloader-Put-Your-Link | 0 | 0| 
 | 20231022T15:29:21Z | One of the most complex tasks for the cyber security expert is to ensure their malicious code goes detected by antivirus and achieves its goal. For this, they have invested a lot on more complex infection processes, going beyond the traditional Exploit PDF and using techniques where the malicious payload is hidden in encrypted | https://github.com/GameProfRcs/Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve | 0 | 0| 
 | 20231022T15:28:36Z | Unlimited Build Files  Unlimited Spread Files  Small File size  Compatible with RATs, Keyloggers, Botnets, or any other exe | https://github.com/GameProfRcs/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | 0 | 0| 
-| 20231022T15:27:46Z | Microsoft Windows HTA (HTML Application) - Remote Code Execution | https://github.com/GameProfRcs/Hta-Exploit-Downloader-Malware-Builder | 0 | 0| 
-| 20231022T14:59:28Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 581 | 112| 
 
 
 # backdoor on Github 推荐
