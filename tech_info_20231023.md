@@ -76,6 +76,7 @@
 | --- | --- | --- | --- | ---| 
 | 20231023T12:10:57Z | Fuzzy Controller to fly a simulated drone | https://github.com/sparshg/fuzzy-controller | 56 | 0| 
 | 20231023T11:16:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9107 | 2025| 
+| 20231023T11:11:27Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4872 | 1164| 
 | 20231023T11:09:28Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1473 | 108| 
 | 20231023T10:48:32Z | Null | https://github.com/bennettisabel196/fuzzy-carnival | 0 | 0| 
 | 20231023T09:01:11Z | Null | https://github.com/AppSecExplained/ctf-fuzzing-practice | 0 | 0| 
