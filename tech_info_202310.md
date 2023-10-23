@@ -41,7 +41,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231022T17:52:59Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14094 | 425| 
+| 20231023T01:17:23Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14095 | 425| 
 | 20231022T16:16:33Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2342 | 639| 
 | 20231022T15:01:20Z | Config files for my GitHub profile. | https://github.com/KleemoIT/KleemoIT | 0 | 0| 
 | 20231022T12:20:19Z | A simple library for Swept AABB collision detection written in Java | https://github.com/KleeSup/KleeSwept | 4 | 0| 
@@ -130,6 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231023T01:19:52Z | Fuzzy Controller to fly a simulated drone | https://github.com/sparshg/fuzzy-controller | 49 | 0| 
 | 20231023T01:08:06Z | Null | https://github.com/Fambam5/fuzzy-engine | 0 | 0| 
 | 20231023T00:34:51Z | Null | https://github.com/flrobson77/fuzzers | 0 | 0| 
 | 20231023T00:12:20Z | hjkiuykyyu | https://github.com/zakimudzaki/fuzzy-umbrella | 0 | 0| 
@@ -137,7 +138,6 @@
 | 20231022T22:20:20Z | Null | https://github.com/ryandewolfe33/FuzzyClusteringSimilarity.R | 0 | 0| 
 | 20231022T22:13:22Z | memes | https://github.com/Bewildereds/fuzzy-train | 0 | 0| 
 | 20231022T21:05:57Z | un script Python qui effectue un test d%intrusion sur un système d%exploitation Linux spécifique en utilisant des techniques de fuzzing.  | https://github.com/Barrymitnick/Packet-Ninja | 0 | 0| 
-| 20231022T20:59:50Z | Fuzzy Controller to fly a simulated drone | https://github.com/sparshg/fuzzy-controller | 48 | 0| 
 | 20231022T20:08:24Z | Null | https://github.com/StephanieMarcolino/fuzzy | 0 | 0| 
 | 20231022T19:58:02Z | Null | https://github.com/StephanieMarcolino/Projeto_Fuzzy | 0 | 0| 
 

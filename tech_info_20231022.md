@@ -29,7 +29,6 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231022T17:52:59Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14094 | 425| 
 | 20231022T16:16:33Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2342 | 639| 
 | 20231022T15:01:20Z | Config files for my GitHub profile. | https://github.com/KleemoIT/KleemoIT | 0 | 0| 
 | 20231022T12:20:19Z | A simple library for Swept AABB collision detection written in Java | https://github.com/KleeSup/KleeSwept | 4 | 0| 
@@ -87,12 +86,12 @@
 | 20231022T22:20:20Z | Null | https://github.com/ryandewolfe33/FuzzyClusteringSimilarity.R | 0 | 0| 
 | 20231022T22:13:22Z | memes | https://github.com/Bewildereds/fuzzy-train | 0 | 0| 
 | 20231022T21:05:57Z | un script Python qui effectue un test d%intrusion sur un système d%exploitation Linux spécifique en utilisant des techniques de fuzzing.  | https://github.com/Barrymitnick/Packet-Ninja | 0 | 0| 
-| 20231022T20:59:50Z | Fuzzy Controller to fly a simulated drone | https://github.com/sparshg/fuzzy-controller | 48 | 0| 
 | 20231022T20:08:24Z | Null | https://github.com/StephanieMarcolino/fuzzy | 0 | 0| 
 | 20231022T19:58:02Z | Null | https://github.com/StephanieMarcolino/Projeto_Fuzzy | 0 | 0| 
 | 20231022T16:23:36Z | Null | https://github.com/otisnth/vue-fuzzy-logic-front | 0 | 0| 
 | 20231022T13:31:19Z |  A lightweight and efficient Python-based subdomain and directory fuzzer | https://github.com/theinit01/PyFuzz | 2 | 5| 
 | 20231022T12:44:07Z | Infrastructure definition for an example sevice exposing fuzzy-as-a-service | https://github.com/SamRoberts/fuzzy_lambda_pulumi | 0 | 0| 
+| 20231022T12:09:06Z | Null | https://github.com/Luccuo/fuzzing_course | 0 | 0| 
 
 
 
