@@ -130,6 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231023T12:53:14Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 1992 | 326| 
 | 20231023T12:45:45Z | Null | https://github.com/Inthememory/fuzzy_matching | 0 | 0| 
 | 20231023T12:10:57Z | Fuzzy Controller to fly a simulated drone | https://github.com/sparshg/fuzzy-controller | 56 | 0| 
 | 20231023T11:16:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9107 | 2025| 
@@ -137,7 +138,6 @@
 | 20231023T11:09:28Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1473 | 108| 
 | 20231023T10:48:32Z | Null | https://github.com/bennettisabel196/fuzzy-carnival | 0 | 0| 
 | 20231023T09:01:11Z | Null | https://github.com/AppSecExplained/ctf-fuzzing-practice | 0 | 0| 
-| 20231023T07:36:39Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 1991 | 326| 
 | 20231023T01:08:06Z | Null | https://github.com/Fambam5/fuzzy-engine | 0 | 0| 
 | 20231023T00:34:51Z | Null | https://github.com/flrobson77/fuzzers | 0 | 0| 
 
