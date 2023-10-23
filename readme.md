@@ -39,7 +39,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231023T12:00:04Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5995 | 548| 
+| 20231023T12:54:57Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5996 | 548| 
 | 20231023T11:20:33Z |  Prediction and classification various types of cyberattacks based on their features | https://github.com/jiyasaini1/Attacks-Exploits-Prediction | 0 | 0| 
 | 20231023T11:11:41Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6066 | 799| 
 | 20231023T11:07:22Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5415 | 701| 
