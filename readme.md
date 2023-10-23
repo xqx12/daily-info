@@ -41,13 +41,13 @@
 | 20231023T12:00:04Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5995 | 548| 
 | 20231023T11:20:33Z |  Prediction and classification various types of cyberattacks based on their features | https://github.com/jiyasaini1/Attacks-Exploits-Prediction | 0 | 0| 
 | 20231023T11:11:41Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6066 | 799| 
+| 20231023T11:07:22Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5415 | 701| 
 | 20231023T09:59:43Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5598 | 761| 
 | 20231023T09:26:20Z | Practice exercises for ARM exploit dev from Azeria Labs | https://github.com/ricemiller/arm_exploiting | 0 | 0| 
 | 20231023T01:35:23Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0056-app-kMsLx-record-exploit | 0 | 0| 
 | 20231023T01:31:27Z | Null | https://github.com/nahueldsanchez/cve_2018_6574_exploit | 0 | 0| 
 | 20231023T01:12:15Z | Bot that employs a Combination of GTO and Exploitative Strategies to maximize Expected Value in Texas Holdem | https://github.com/amirkas/PokerBot | 0 | 0| 
 | 20231023T00:41:25Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14871 | 2584| 
-| 20231023T00:33:02Z | DarkCool ~ Exploiter, Checker, Grabber, Searching, Bruteforce, Random, And Others Tools | https://github.com/DarkSkull777/DarkCool | 2 | 1| 
 
 
 # backdoor on Github 推荐
