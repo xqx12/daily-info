@@ -16,6 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231023T12:38:37Z | CVE-2023-46197 | Popup by Supsystic <= 1.10.19 - Missing Authorization to Sensitive Information Exposure | https://github.com/RandomRobbieBF/CVE-2023-46197 | | 
 | 20231023T12:29:31Z | CVE-2023-41993 | Null | https://github.com/po6ix/POC-for-CVE-2023-41993 | | 
 | 20231023T11:36:29Z | CVE-2023-21839 | Null | https://github.com/MMarch7/weblogic_CVE-2023-21839_POC-EXP | | 
 | 20231023T09:51:35Z | CVE-2023-35794 | Repository contains description for CVE-2023-35794 discovered by Dodge Industrial Team for Dodge OPTIFY platfrom. | https://github.com/Dodge-MPTC/CVE-2023-35794-WebSSH-Hijacking | | 

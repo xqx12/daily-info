@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231023T12:38:37Z | CVE-2023-46197 | Popup by Supsystic <= 1.10.19 - Missing Authorization to Sensitive Information Exposure | https://github.com/RandomRobbieBF/CVE-2023-46197 | | 
 | 20231023T12:29:31Z | CVE-2023-41993 | Null | https://github.com/po6ix/POC-for-CVE-2023-41993 | | 
 | 20231023T11:36:29Z | CVE-2023-21839 | Null | https://github.com/MMarch7/weblogic_CVE-2023-21839_POC-EXP | | 
 | 20231023T09:51:35Z | CVE-2023-35794 | Repository contains description for CVE-2023-35794 discovered by Dodge Industrial Team for Dodge OPTIFY platfrom. | https://github.com/Dodge-MPTC/CVE-2023-35794-WebSSH-Hijacking | | 
@@ -35,7 +36,6 @@
 | 20231022T23:28:26Z | CVE-2023-34051 | VMware Aria Operations for Logs CVE-2023-34051 | https://github.com/horizon3ai/CVE-2023-34051 | | 
 | 20231022T23:24:29Z | CVE-2023-38646 | Null | https://github.com/entr0pie/CVE-2023-38646 | | 
 | 20231022T15:28:36Z | 未知编号 | Unlimited Build Files  Unlimited Spread Files  Small File size  Compatible with RATs, Keyloggers, Botnets, or any other exe | https://github.com/GameProfRcs/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
-| 20231022T14:35:06Z | CVE-2021-3129 | Null | https://github.com/banyaksepuh/Mass-CVE-2021-3129-Scanner | | 
 
 
 # klee on Github 推荐
