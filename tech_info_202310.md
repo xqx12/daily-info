@@ -41,7 +41,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231023T01:17:23Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14095 | 425| 
+| 20231023T01:26:40Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14096 | 425| 
 | 20231022T16:16:33Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2342 | 639| 
 | 20231022T15:01:20Z | Config files for my GitHub profile. | https://github.com/KleemoIT/KleemoIT | 0 | 0| 
 | 20231022T12:20:19Z | A simple library for Swept AABB collision detection written in Java | https://github.com/KleeSup/KleeSwept | 4 | 0| 
@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231023T01:27:27Z | Null | https://github.com/nahueldsanchez/cve_2018_6574_exploit | 0 | 0| 
 | 20231023T01:12:15Z | Bot that employs a Combination of GTO and Exploitative Strategies to maximize Expected Value in Texas Holdem | https://github.com/amirkas/PokerBot | 0 | 0| 
 | 20231023T00:41:25Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14871 | 2584| 
 | 20231023T00:33:02Z | DarkCool ~ Exploiter, Checker, Grabber, Searching, Bruteforce, Random, And Others Tools | https://github.com/DarkSkull777/DarkCool | 2 | 1| 
@@ -80,7 +81,6 @@
 | 20231023T00:21:35Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANnj | 1 | 0| 
 | 20231022T23:39:19Z | CVE-2023-22515 (Confluence Broken Access Control Exploit) | https://github.com/joaoviictorti/CVE-2023-22515 | 1 | 0| 
 | 20231022T22:28:01Z | PS5 FW 3.xx-4.xx Exploit Menu with Payloads | https://github.com/Storm21CH/PS5-FW-3.xx-4.xx-Exploit-Menu | 0 | 0| 
-| 20231022T22:15:26Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5440 | 1057| 
 
 
 # backdoor on Github 推荐
