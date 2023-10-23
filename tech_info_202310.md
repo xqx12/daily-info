@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231023T00:18:57Z | CVE-2023-20198 | CVE-2023-20198 & 0Day Implant Scanner | https://github.com/ZephrFish/CVE-2023-20198-Checker | | 
 | 20231022T23:39:19Z | CVE-2023-22515 | CVE-2023-22515 (Confluence Broken Access Control Exploit) | https://github.com/joaoviictorti/CVE-2023-22515 | | 
 | 20231022T23:28:26Z | CVE-2023-34051 | VMware Aria Operations for Logs CVE-2023-34051 | https://github.com/horizon3ai/CVE-2023-34051 | | 
 | 20231022T23:24:29Z | CVE-2023-38646 | Null | https://github.com/entr0pie/CVE-2023-38646 | | 
@@ -35,7 +36,6 @@
 | 20231022T14:09:32Z | CVE-2021-36260 | Null | https://github.com/haingn/HIK-CVE-2021-36260-Exploit | | 
 | 20231022T14:06:32Z | CVE-2021-33044 | Null | https://github.com/haingn/LoHongCam-CVE-2021-33044 | | 
 | 20231021T17:07:51Z | CVE-2023-38831 | Null | https://github.com/Nielk74/CVE-2023-38831 | | 
-| 20231021T17:04:41Z | CVE-2023-36802 | PoC for CVE-2023-36802 Microsoft Kernel Streaming Service Proxy | https://github.com/x0rb3l/CVE-2023-36802-MSKSSRV-LPE | | 
 
 
 # klee on Github 推荐
