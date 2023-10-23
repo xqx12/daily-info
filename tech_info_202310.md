@@ -130,6 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231023T00:34:51Z | Null | https://github.com/flrobson77/fuzzers | 0 | 0| 
 | 20231023T00:12:20Z | hjkiuykyyu | https://github.com/zakimudzaki/fuzzy-umbrella | 0 | 0| 
 | 20231022T23:44:59Z | TBB  | https://github.com/Zethco/fuzzy-sniffle | 0 | 0| 
 | 20231022T22:20:20Z | Null | https://github.com/ryandewolfe33/FuzzyClusteringSimilarity.R | 0 | 0| 
@@ -139,7 +140,6 @@
 | 20231022T20:08:24Z | Null | https://github.com/StephanieMarcolino/fuzzy | 0 | 0| 
 | 20231022T19:58:02Z | Null | https://github.com/StephanieMarcolino/Projeto_Fuzzy | 0 | 0| 
 | 20231022T16:23:36Z | Null | https://github.com/otisnth/vue-fuzzy-logic-front | 0 | 0| 
-| 20231022T13:31:19Z |  A lightweight and efficient Python-based subdomain and directory fuzzer | https://github.com/theinit01/PyFuzz | 2 | 5| 
 
 
 
