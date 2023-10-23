@@ -71,7 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231023T01:27:27Z | Null | https://github.com/nahueldsanchez/cve_2018_6574_exploit | 0 | 0| 
+| 20231023T01:31:27Z | Null | https://github.com/nahueldsanchez/cve_2018_6574_exploit | 0 | 0| 
 | 20231023T01:12:15Z | Bot that employs a Combination of GTO and Exploitative Strategies to maximize Expected Value in Texas Holdem | https://github.com/amirkas/PokerBot | 0 | 0| 
 | 20231023T00:41:25Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14871 | 2584| 
 | 20231023T00:33:02Z | DarkCool ~ Exploiter, Checker, Grabber, Searching, Bruteforce, Random, And Others Tools | https://github.com/DarkSkull777/DarkCool | 2 | 1| 
@@ -86,6 +86,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231023T01:31:32Z | FiveM Anti Backdoor - Cipher-Panel | https://github.com/raiderss/es-antibackdoor | 0 | 0| 
 | 20231022T21:41:35Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 167 | 44| 
 | 20231022T16:06:33Z | Null | https://github.com/2lambda123/MicroBackdoor | 0 | 0| 
 | 20231022T13:24:22Z | ANY MISUSE OF SCRIPTS/BINARIES OF THIS SOFTWARE WILL NOT BE THE RESPONSIBILITY OF THE AUTHOR OR OTHER COLLABORATOR. USE IT ON YOUR OWN MACHINE BITCH!!! | https://github.com/oldplayer69/backdoor | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20231022T04:09:55Z | batch script in powershell for remote backdoor | https://github.com/gauravmanmode/Remote-Shell-Server | 0 | 0| 
 | 20231021T20:26:41Z | this is simple backdoor with python  | https://github.com/MarcoCyber1/backdoor | 0 | 0| 
 | 20231021T15:05:45Z | Digital Forensics and Incident Response (DFIR) | https://github.com/RENANZG/My-Forensics | 59 | 8| 
-| 20231021T12:42:36Z | Null | https://github.com/AmitBhatt8077/BackDoor01 | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
