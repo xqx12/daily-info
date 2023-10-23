@@ -80,7 +80,7 @@
 | 20231022T15:29:21Z | One of the most complex tasks for the cyber security expert is to ensure their malicious code goes detected by antivirus and achieves its goal. For this, they have invested a lot on more complex infection processes, going beyond the traditional Exploit PDF and using techniques where the malicious payload is hidden in encrypted | https://github.com/GameProfRcs/Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve | 0 | 0| 
 | 20231022T15:28:36Z | Unlimited Build Files  Unlimited Spread Files  Small File size  Compatible with RATs, Keyloggers, Botnets, or any other exe | https://github.com/GameProfRcs/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | 0 | 0| 
 | 20231022T15:27:46Z | Microsoft Windows HTA (HTML Application) - Remote Code Execution | https://github.com/GameProfRcs/Hta-Exploit-Downloader-Malware-Builder | 0 | 0| 
-| 20231022T11:54:49Z | RenderQuest HTB exploit trial | https://github.com/whoisbel/whoisbel.github.io | 0 | 0| 
+| 20231022T14:59:28Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 581 | 112| 
 
 
 # backdoor on Github 推荐
