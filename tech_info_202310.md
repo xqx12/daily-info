@@ -71,6 +71,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231023T00:23:21Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWnj | 1 | 0| 
+| 20231023T00:22:44Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANnj | 1 | 0| 
 | 20231023T00:22:09Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANnj | 1 | 0| 
 | 20231023T00:21:35Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANnj | 1 | 0| 
 | 20231022T23:39:19Z | CVE-2023-22515 (Confluence Broken Access Control Exploit) | https://github.com/joaoviictorti/CVE-2023-22515 | 1 | 0| 
@@ -79,8 +81,6 @@
 | 20231022T22:09:16Z | IEEE Lab where we go over an introduction to binary exploitation through the exploits of basic buffer overflow vulnerabilities | https://github.com/Polidori-112/IEEE_Lab | 0 | 0| 
 | 20231022T17:12:13Z | PowerShell script to find, report, and mitigate (where possible) EXEs with exploitable DLLs | https://github.com/Xorlent/Fix-Exploitable-DLLs | 0 | 0| 
 | 20231022T15:29:59Z | URL Infection (Silent Java Drive By) URL Infection Exploit Silent Java Drive by downloads may happen when visiting a site, opening an e-mail message. It may even happen by clicking on a malicious pop-up window: by clicking on the window in the belief that it concerns an error report from the computer’s OS, for example. | https://github.com/GameProfRcs/Slient-Url-Exploit-New-Cve-Chrome-Exploit-Html-Downloader-Put-Your-Link | 0 | 0| 
-| 20231022T15:29:21Z | One of the most complex tasks for the cyber security expert is to ensure their malicious code goes detected by antivirus and achieves its goal. For this, they have invested a lot on more complex infection processes, going beyond the traditional Exploit PDF and using techniques where the malicious payload is hidden in encrypted | https://github.com/GameProfRcs/Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve | 0 | 0| 
-| 20231022T15:28:36Z | Unlimited Build Files  Unlimited Spread Files  Small File size  Compatible with RATs, Keyloggers, Botnets, or any other exe | https://github.com/GameProfRcs/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | 0 | 0| 
 
 
 # backdoor on Github 推荐
