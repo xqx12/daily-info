@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231023T01:35:23Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0056-app-kMsLx-record-exploit | 0 | 0| 
 | 20231023T01:31:27Z | Null | https://github.com/nahueldsanchez/cve_2018_6574_exploit | 0 | 0| 
 | 20231023T01:12:15Z | Bot that employs a Combination of GTO and Exploitative Strategies to maximize Expected Value in Texas Holdem | https://github.com/amirkas/PokerBot | 0 | 0| 
 | 20231023T00:41:25Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14871 | 2584| 
@@ -80,7 +81,6 @@
 | 20231023T00:22:09Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANnj | 1 | 0| 
 | 20231023T00:21:35Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANnj | 1 | 0| 
 | 20231022T23:39:19Z | CVE-2023-22515 (Confluence Broken Access Control Exploit) | https://github.com/joaoviictorti/CVE-2023-22515 | 1 | 0| 
-| 20231022T22:28:01Z | PS5 FW 3.xx-4.xx Exploit Menu with Payloads | https://github.com/Storm21CH/PS5-FW-3.xx-4.xx-Exploit-Menu | 0 | 0| 
 
 
 # backdoor on Github 推荐
