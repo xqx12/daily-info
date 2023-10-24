@@ -78,9 +78,9 @@
 | 20231023T23:10:41Z | CVE-2013-4786 Go exploitation tool | https://github.com/fin3ss3g0d/CosmicRakp | 3 | 1| 
 | 20231023T21:47:50Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14878 | 2586| 
 | 20231023T12:54:57Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5996 | 548| 
+| 20231023T12:42:17Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 583 | 112| 
 | 20231023T12:00:48Z | Null | https://github.com/instriq/exploits | 1 | 0| 
 | 20231023T11:20:33Z |  Prediction and classification various types of cyberattacks based on their features | https://github.com/jiyasaini1/Attacks-Exploits-Prediction | 0 | 0| 
-| 20231023T11:11:41Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6066 | 799| 
 
 
 # backdoor on Github 推荐
