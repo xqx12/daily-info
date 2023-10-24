@@ -61,6 +61,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231024T09:41:19Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2342 | 639| 
+| 20231024T03:03:06Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 64 | 9| 
 
 
 # big4 on Github 推荐
