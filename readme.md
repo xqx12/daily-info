@@ -76,6 +76,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231024T12:42:29Z | AlgoFuzz - A property-based fuzzing tool for Algorand smart contracts | https://github.com/denispaluca/algofuzz | 0 | 0| 
 | 20231024T12:28:58Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 440 | 60| 
 | 20231024T12:16:53Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4043 | 821| 
 | 20231024T11:34:33Z | Master%s Thesis: Fuzzing Algorand Smart Contracts. This paper introduces AlgoFuzz, a fuzzing tool specifically designed for Algorand smart contracts.  | https://github.com/denispaluca/msc-thesis | 0 | 0| 
@@ -85,7 +86,6 @@
 | 20231024T09:30:02Z | Fuzzer for System and Software Security | https://github.com/BiddleL/fuzz | 0 | 1| 
 | 20231024T08:41:14Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9106 | 2024| 
 | 20231024T08:21:03Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 913 | 206| 
-| 20231024T08:01:34Z | a tool for when all else fails but curl appears to get results.  | https://github.com/4rt-Net/Curl_fuzzer | 0 | 0| 
 
 
 
