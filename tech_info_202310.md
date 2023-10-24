@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231024T01:16:37Z | Tool to mass scan hikvision cameras and save vulnrable devices, use snapshot.py to save live snapshots | https://github.com/millersartin/Hikvision-Vulnerability-Scanner-POC | 0 | 0| 
 | 20231024T00:49:42Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14880 | 2586| 
 | 20231023T23:35:50Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5443 | 1057| 
 | 20231023T23:13:22Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWip | 1 | 0| 
@@ -80,12 +81,12 @@
 | 20231023T23:10:41Z | CVE-2013-4786 Go exploitation tool | https://github.com/fin3ss3g0d/CosmicRakp | 3 | 1| 
 | 20231023T12:54:57Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5996 | 548| 
 | 20231023T12:42:17Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 583 | 112| 
-| 20231023T12:00:48Z | Null | https://github.com/instriq/exploits | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231024T01:16:37Z | Tool to mass scan hikvision cameras and save vulnrable devices, use snapshot.py to save live snapshots | https://github.com/millersartin/Hikvision-Vulnerability-Scanner-POC | 0 | 0| 
 | 20231023T15:30:08Z | A curated list of papers & resources on backdoor attacks and defenses in deep learning. | https://github.com/zihao-ai/Awesome-Backdoor-in-Deep-Learning | 69 | 7| 
 | 20231023T14:40:47Z | PyTorch implementation for %Black-box Backdoor Defense via Zero-shot Image Purification% | https://github.com/sycny/ZIP | 0 | 0| 
 | 20231023T14:24:39Z | Fud Crypter | https://github.com/SMIKEY-8300/Fud-Crypter-onyx-Creypter-scantime-runtime | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20231022T16:06:33Z | Null | https://github.com/2lambda123/MicroBackdoor | 0 | 0| 
 | 20231022T13:24:22Z | ANY MISUSE OF SCRIPTS/BINARIES OF THIS SOFTWARE WILL NOT BE THE RESPONSIBILITY OF THE AUTHOR OR OTHER COLLABORATOR. USE IT ON YOUR OWN MACHINE BITCH!!! | https://github.com/oldplayer69/backdoor | 0 | 0| 
 | 20231022T11:13:33Z | Null | https://github.com/aviv320i/python_backdoor | 0 | 0| 
-| 20231022T07:23:02Z | Autonomous pre-boot DMA attack hardware implant for M.2 slot based on PicoEVB development board | https://github.com/Cr4sh/pico_dma | 29 | 4| 
 
 
 # symbolic execution on Github 推荐
