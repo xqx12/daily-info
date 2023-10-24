@@ -130,8 +130,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231024T01:30:07Z | Basic API fuzzer created in Python to teach myself more about API hacking. | https://github.com/pwnedbytoxic/toxfuzz | 1 | 0| 
 | 20231024T00:30:31Z | Null | https://github.com/Josh-Hin/fuzzyEngine | 0 | 0| 
-| 20231024T00:22:39Z | Basic API fuzzer created in Python to teach myself more about API hacking. | https://github.com/pwnedbytoxic/toxfuzz | 0 | 0| 
 | 20231023T23:50:03Z | Null | https://github.com/dreadthief125/fuzzy-eureka | 0 | 0| 
 | 20231023T22:19:23Z | Fuzzer for System and Software Security | https://github.com/BiddleL/fuzz | 0 | 0| 
 | 20231023T21:25:04Z | Fuzz Experiments for Go%s net/html library | https://github.com/maciekmm/go-std-lib-fuzz | 0 | 0| 
