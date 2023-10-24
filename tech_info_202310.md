@@ -130,6 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231024T00:22:39Z | Basic API fuzzer created in Python to teach myself more about API hacking. | https://github.com/pwnedbytoxic/toxfuzz | 0 | 0| 
 | 20231023T23:50:03Z | Null | https://github.com/dreadthief125/fuzzy-eureka | 0 | 0| 
 | 20231023T22:19:23Z | Fuzzer for System and Software Security | https://github.com/BiddleL/fuzz | 0 | 0| 
 | 20231023T21:25:04Z | Fuzz Experiments for Go%s net/html library | https://github.com/maciekmm/go-std-lib-fuzz | 0 | 0| 
@@ -139,7 +140,6 @@
 | 20231023T12:10:57Z | Fuzzy Controller to fly a simulated drone | https://github.com/sparshg/fuzzy-controller | 56 | 0| 
 | 20231023T11:16:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9107 | 2025| 
 | 20231023T11:11:27Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4872 | 1164| 
-| 20231023T11:09:28Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1473 | 108| 
 
 
 
