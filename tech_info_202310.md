@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231023T23:35:50Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5443 | 1057| 
 | 20231023T23:13:22Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWip | 1 | 0| 
 | 20231023T23:12:27Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANip | 1 | 0| 
 | 20231023T23:11:43Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANip | 1 | 0| 
@@ -80,7 +81,6 @@
 | 20231023T12:54:57Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5996 | 548| 
 | 20231023T12:42:17Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 583 | 112| 
 | 20231023T12:00:48Z | Null | https://github.com/instriq/exploits | 1 | 0| 
-| 20231023T11:20:33Z |  Prediction and classification various types of cyberattacks based on their features | https://github.com/jiyasaini1/Attacks-Exploits-Prediction | 0 | 0| 
 
 
 # backdoor on Github 推荐
