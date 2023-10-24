@@ -11,6 +11,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20231023 | APT36基本情况整理及样本分析记录 | https://mp.weixin.qq.com/s/gZ47H3pU5-ZRJRdbWvxnJg| 
+| 20231023 | 八大中间件介绍以及漏洞分析 | https://mp.weixin.qq.com/s/08xrcL7X8p9i4RJIXqxf0g| 
 | 20231021 | 太空军综合战略 | https://mp.weixin.qq.com/s/f1R8VQpjikuiqxzXD8NFGw| 
 | 20231021 | tls指纹之ja4 | https://mp.weixin.qq.com/s/Vo57J6l7WEt7L2bF_EAfbA| 
 | 20231020 | 代码审计 , SQL注入之过滤器绕过 | https://mp.weixin.qq.com/s/-03hkuv6snSLhX8HTU_CXQ| 
@@ -19,29 +21,27 @@
 | 20231017 | Efuse介绍及安全启动浅析 | https://mp.weixin.qq.com/s/PVItfdRvFPl144hTji2WvQ| 
 | 20231017 | TLS1.3 初次解读 | https://mp.weixin.qq.com/s/FX79d7oQNrbgc73Sr0TB4w| 
 | 20231017 | 美国高中生的网络安全竞赛 | https://mp.weixin.qq.com/s/yBZqZp0BnkHKXoXgw6J21w| 
-| 20231017 | SpringWeb常见鉴权措施与垂直越权检测 | https://www.sec-in.com/article/2273| 
-| 20231016 | 寄生云计算服务实现可信C2控制 | https://mp.weixin.qq.com/s/_NRivu59k4yiLjBxKoXAMg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231023T19:09:39Z | CVE-2023-36745 | Null | https://github.com/N1k0la-T/CVE-2023-36745 | | 
+| 20231023T19:09:29Z | CVE-2023-20198 | A PoC for CVE 2023-20198 | https://github.com/Pushkarup/CVE-2023-20198 | | 
+| 20231023T18:35:41Z | cve-2023-36802 | Exploit for CVE-2023-36802 targeting MSKSSRV.SYS driver | https://github.com/Nero22k/cve-2023-36802 | | 
+| 20231023T15:18:08Z | CVE-2023-20198 | CVE-2023-20198 & 0Day Implant Scanner | https://github.com/ZephrFish/CVE-2023-20198-Checker | | 
+| 20231023T14:13:40Z | CVE-2022-38601 | CVE-2022-38601 | https://github.com/jet-pentest/CVE-2022-38601 | | 
 | 20231023T12:38:37Z | CVE-2023-46197 | Popup by Supsystic <= 1.10.19 - Missing Authorization to Sensitive Information Exposure | https://github.com/RandomRobbieBF/CVE-2023-46197 | | 
 | 20231023T12:29:31Z | CVE-2023-41993 | Null | https://github.com/po6ix/POC-for-CVE-2023-41993 | | 
 | 20231023T11:36:29Z | CVE-2023-21839 | Null | https://github.com/MMarch7/weblogic_CVE-2023-21839_POC-EXP | | 
 | 20231023T09:51:35Z | CVE-2023-35794 | Repository contains description for CVE-2023-35794 discovered by Dodge Industrial Team for Dodge OPTIFY platfrom. | https://github.com/Dodge-MPTC/CVE-2023-35794-WebSSH-Hijacking | | 
-| 20231023T07:37:59Z | CVE-2023-20198 | CVE-2023-20198 & 0Day Implant Scanner | https://github.com/ZephrFish/CVE-2023-20198-Checker | | 
 | 20231023T06:50:43Z | CVE-2023-42120 | Null | https://github.com/truonghuuphuc/CVE-2023-42120-Poc | | 
-| 20231022T23:39:19Z | CVE-2023-22515 | CVE-2023-22515 (Confluence Broken Access Control Exploit) | https://github.com/joaoviictorti/CVE-2023-22515 | | 
-| 20231022T23:28:26Z | CVE-2023-34051 | VMware Aria Operations for Logs CVE-2023-34051 | https://github.com/horizon3ai/CVE-2023-34051 | | 
-| 20231022T23:24:29Z | CVE-2023-38646 | Null | https://github.com/entr0pie/CVE-2023-38646 | | 
-| 20231022T15:28:36Z | 未知编号 | Unlimited Build Files  Unlimited Spread Files  Small File size  Compatible with RATs, Keyloggers, Botnets, or any other exe | https://github.com/GameProfRcs/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231023T12:05:46Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14095 | 425| 
+| 20231023T22:01:46Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14096 | 425| 
 | 20231023T11:05:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2341 | 639| 
 | 20231022T15:01:20Z | Config files for my GitHub profile. | https://github.com/KleemoIT/KleemoIT | 0 | 0| 
 | 20231022T12:20:19Z | A simple library for Swept AABB collision detection written in Java | https://github.com/KleeSup/KleeSwept | 4 | 0| 
@@ -71,21 +71,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231023T23:13:22Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWip | 1 | 0| 
+| 20231023T23:12:27Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANip | 1 | 0| 
+| 20231023T23:11:43Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANip | 1 | 0| 
+| 20231023T23:10:42Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANip | 1 | 0| 
+| 20231023T23:10:41Z | CVE-2013-4786 Go exploitation tool | https://github.com/fin3ss3g0d/CosmicRakp | 3 | 1| 
+| 20231023T21:47:50Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14878 | 2586| 
 | 20231023T12:54:57Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5996 | 548| 
+| 20231023T12:00:48Z | Null | https://github.com/instriq/exploits | 1 | 0| 
 | 20231023T11:20:33Z |  Prediction and classification various types of cyberattacks based on their features | https://github.com/jiyasaini1/Attacks-Exploits-Prediction | 0 | 0| 
 | 20231023T11:11:41Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6066 | 799| 
-| 20231023T11:07:22Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5415 | 701| 
-| 20231023T09:59:43Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5598 | 761| 
-| 20231023T09:26:20Z | Practice exercises for ARM exploit dev from Azeria Labs | https://github.com/ricemiller/arm_exploiting | 0 | 0| 
-| 20231023T01:35:23Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0056-app-kMsLx-record-exploit | 0 | 0| 
-| 20231023T01:31:27Z | Null | https://github.com/nahueldsanchez/cve_2018_6574_exploit | 0 | 0| 
-| 20231023T01:12:15Z | Bot that employs a Combination of GTO and Exploitative Strategies to maximize Expected Value in Texas Holdem | https://github.com/amirkas/PokerBot | 0 | 0| 
-| 20231023T00:41:25Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14871 | 2584| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231023T15:30:08Z | A curated list of papers & resources on backdoor attacks and defenses in deep learning. | https://github.com/zihao-ai/Awesome-Backdoor-in-Deep-Learning | 69 | 7| 
+| 20231023T14:40:47Z | PyTorch implementation for %Black-box Backdoor Defense via Zero-shot Image Purification% | https://github.com/sycny/ZIP | 0 | 0| 
+| 20231023T14:24:39Z | Fud Crypter | https://github.com/SMIKEY-8300/Fud-Crypter-onyx-Creypter-scantime-runtime | 0 | 0| 
 | 20231023T07:47:44Z | HaxL0p4 Hacking Automation Tool | https://github.com/L0PA/HaxL0p4 | 1 | 0| 
 | 20231023T06:10:42Z | FiveM Anti Backdoor - Cipher-Panel | https://github.com/raiderss/es-antibackdoor | 2 | 0| 
 | 20231023T02:10:57Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 168 | 45| 
@@ -93,9 +96,6 @@
 | 20231022T13:24:22Z | ANY MISUSE OF SCRIPTS/BINARIES OF THIS SOFTWARE WILL NOT BE THE RESPONSIBILITY OF THE AUTHOR OR OTHER COLLABORATOR. USE IT ON YOUR OWN MACHINE BITCH!!! | https://github.com/oldplayer69/backdoor | 0 | 0| 
 | 20231022T11:13:33Z | Null | https://github.com/aviv320i/python_backdoor | 0 | 0| 
 | 20231022T07:23:02Z | Autonomous pre-boot DMA attack hardware implant for M.2 slot based on PicoEVB development board | https://github.com/Cr4sh/pico_dma | 29 | 4| 
-| 20231022T06:41:31Z | Certified backdoor detection | https://github.com/zhenxianglance/CBD | 0 | 0| 
-| 20231022T04:09:55Z | batch script in powershell for remote backdoor | https://github.com/gauravmanmode/Remote-Shell-Server | 0 | 0| 
-| 20231021T20:26:41Z | this is simple backdoor with python  | https://github.com/MarcoCyber1/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -130,16 +130,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231023T23:50:03Z | Null | https://github.com/dreadthief125/fuzzy-eureka | 0 | 0| 
+| 20231023T22:19:23Z | Fuzzer for System and Software Security | https://github.com/BiddleL/fuzz | 0 | 0| 
+| 20231023T21:25:04Z | Fuzz Experiments for Go%s net/html library | https://github.com/maciekmm/go-std-lib-fuzz | 0 | 0| 
+| 20231023T18:14:03Z | project 2 side quest | https://github.com/hluckyr/fuzzy-octo-tribble | 0 | 0| 
 | 20231023T12:53:14Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 1992 | 326| 
 | 20231023T12:45:45Z | Null | https://github.com/Inthememory/fuzzy_matching | 0 | 0| 
 | 20231023T12:10:57Z | Fuzzy Controller to fly a simulated drone | https://github.com/sparshg/fuzzy-controller | 56 | 0| 
 | 20231023T11:16:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9107 | 2025| 
 | 20231023T11:11:27Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4872 | 1164| 
 | 20231023T11:09:28Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1473 | 108| 
-| 20231023T10:48:32Z | Null | https://github.com/bennettisabel196/fuzzy-carnival | 0 | 0| 
-| 20231023T09:01:11Z | Null | https://github.com/AppSecExplained/ctf-fuzzing-practice | 0 | 0| 
-| 20231023T01:08:06Z | Null | https://github.com/Fambam5/fuzzy-engine | 0 | 0| 
-| 20231023T00:34:51Z | Null | https://github.com/flrobson77/fuzzers | 0 | 0| 
 
 
 
