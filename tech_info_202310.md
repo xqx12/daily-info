@@ -71,6 +71,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231024T01:50:20Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0045-app-YY4ed-guess-exploit | 0 | 0| 
+| 20231024T01:50:10Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0048-app-lNPi4-exploit-allow | 0 | 0| 
 | 20231024T01:16:37Z | Tool to mass scan hikvision cameras and save vulnrable devices, use snapshot.py to save live snapshots | https://github.com/millersartin/Hikvision-Vulnerability-Scanner-POC | 0 | 0| 
 | 20231024T00:49:42Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14880 | 2586| 
 | 20231023T23:35:50Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5443 | 1057| 
@@ -79,8 +81,6 @@
 | 20231023T23:11:43Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANip | 1 | 0| 
 | 20231023T23:10:42Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANip | 1 | 0| 
 | 20231023T23:10:41Z | CVE-2013-4786 Go exploitation tool | https://github.com/fin3ss3g0d/CosmicRakp | 3 | 1| 
-| 20231023T12:54:57Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5996 | 548| 
-| 20231023T12:42:17Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 583 | 112| 
 
 
 # backdoor on Github 推荐
