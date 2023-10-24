@@ -138,8 +138,8 @@
 | 20231024T08:41:14Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9106 | 2024| 
 | 20231024T08:21:03Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 913 | 206| 
 | 20231024T08:01:34Z | a tool for when all else fails but curl appears to get results.  | https://github.com/4rt-Net/Curl_fuzzer | 0 | 0| 
+| 20231024T06:43:29Z | Codes for %A Fuzzy Set Extension of Schelling’s Spatial Segregation Model% (Ishida, 2023) | https://github.com/aishidajt9/fuzzySchelling | 0 | 0| 
 | 20231024T01:30:07Z | Basic API fuzzer created in Python to teach myself more about API hacking. | https://github.com/pwnedbytoxic/toxfuzz | 1 | 0| 
-| 20231024T00:30:31Z | Null | https://github.com/Josh-Hin/fuzzyEngine | 0 | 0| 
 
 
 
