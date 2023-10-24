@@ -71,7 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231024T00:33:27Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14879 | 2586| 
+| 20231024T00:49:42Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14880 | 2586| 
 | 20231023T23:35:50Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5443 | 1057| 
 | 20231023T23:13:22Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWip | 1 | 0| 
 | 20231023T23:12:27Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANip | 1 | 0| 
