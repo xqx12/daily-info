@@ -71,7 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231024T09:38:11Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5440 | 702| 
+| 20231024T12:17:12Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5441 | 702| 
 | 20231024T01:50:20Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0045-app-YY4ed-guess-exploit | 0 | 0| 
 | 20231024T01:50:10Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0048-app-lNPi4-exploit-allow | 0 | 0| 
 | 20231024T01:16:37Z | Tool to mass scan hikvision cameras and save vulnrable devices, use snapshot.py to save live snapshots | https://github.com/millersartin/Hikvision-Vulnerability-Scanner-POC | 0 | 0| 
