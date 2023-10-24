@@ -11,6 +11,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20231024 | 原创 , ClassLoader动态类加载 | https://www.sec-in.com/article/2271| 
 | 20231023 | APT36基本情况整理及样本分析记录 | https://mp.weixin.qq.com/s/gZ47H3pU5-ZRJRdbWvxnJg| 
 | 20231023 | 八大中间件介绍以及漏洞分析 | https://mp.weixin.qq.com/s/08xrcL7X8p9i4RJIXqxf0g| 
 | 20231021 | 太空军综合战略 | https://mp.weixin.qq.com/s/f1R8VQpjikuiqxzXD8NFGw| 
@@ -20,32 +21,31 @@
 | 20231017 | 利用SEV的I/O漏洞进行攻击 | https://mp.weixin.qq.com/s/-qCcoIALocQKPhsbA7e5ag| 
 | 20231017 | Efuse介绍及安全启动浅析 | https://mp.weixin.qq.com/s/PVItfdRvFPl144hTji2WvQ| 
 | 20231017 | TLS1.3 初次解读 | https://mp.weixin.qq.com/s/FX79d7oQNrbgc73Sr0TB4w| 
-| 20231017 | 美国高中生的网络安全竞赛 | https://mp.weixin.qq.com/s/yBZqZp0BnkHKXoXgw6J21w| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231024T11:10:30Z | CVE-2023-36745 | Null | https://github.com/N1k0la-T/CVE-2023-36745 | | 
+| 20231024T10:37:51Z | CVE-2023-42442 | CVE-2023-42442 | https://github.com/C1ph3rX13/CVE-2023-42442 | | 
+| 20231024T09:42:42Z | CVE-2023-20198 | Check a target IP for CVE-2023-20198 | https://github.com/kacem-expereo/CVE-2023-20198 | | 
+| 20231024T08:49:48Z | CVE-2023-22515 | CVE-2023-22515 (Confluence Broken Access Control Exploit) | https://github.com/joaoviictorti/CVE-2023-22515 | | 
+| 20231024T08:12:16Z | CVE-2022-23131 | Null | https://github.com/r10lab/CVE-2022-23131 | | 
+| 20231024T02:27:13Z | CVE-2023-30033 | Null | https://github.com/phucodeexp/CVE-2023-30033 | | 
 | 20231024T01:19:35Z | CVE-2023-38831 | CVE-2023-38831 is an RCE in WinRAR (<6.23) | https://github.com/kehrijksen/CVE-2023-38831 | | 
-| 20231023T19:09:39Z | CVE-2023-36745 | Null | https://github.com/N1k0la-T/CVE-2023-36745 | | 
 | 20231023T19:09:29Z | CVE-2023-20198 | A PoC for CVE 2023-20198 | https://github.com/Pushkarup/CVE-2023-20198 | | 
 | 20231023T18:35:41Z | cve-2023-36802 | Exploit for CVE-2023-36802 targeting MSKSSRV.SYS driver | https://github.com/Nero22k/cve-2023-36802 | | 
 | 20231023T15:18:08Z | CVE-2023-20198 | CVE-2023-20198 & 0Day Implant Scanner | https://github.com/ZephrFish/CVE-2023-20198-Checker | | 
-| 20231023T14:13:40Z | CVE-2022-38601 | CVE-2022-38601 | https://github.com/jet-pentest/CVE-2022-38601 | | 
-| 20231023T12:38:37Z | CVE-2023-46197 | Popup by Supsystic <= 1.10.19 - Missing Authorization to Sensitive Information Exposure | https://github.com/RandomRobbieBF/CVE-2023-46197 | | 
-| 20231023T12:29:31Z | CVE-2023-41993 | Null | https://github.com/po6ix/POC-for-CVE-2023-41993 | | 
-| 20231023T11:36:29Z | CVE-2023-21839 | Null | https://github.com/MMarch7/weblogic_CVE-2023-21839_POC-EXP | | 
-| 20231023T09:51:35Z | CVE-2023-35794 | Repository contains description for CVE-2023-35794 discovered by Dodge Industrial Team for Dodge OPTIFY platfrom. | https://github.com/Dodge-MPTC/CVE-2023-35794-WebSSH-Hijacking | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231024T01:27:25Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14098 | 426| 
-| 20231023T11:05:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2341 | 639| 
+| 20231024T09:53:27Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 370 | 8| 
+| 20231024T09:41:19Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2342 | 639| 
+| 20231024T08:57:09Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14105 | 426| 
 | 20231022T15:01:20Z | Config files for my GitHub profile. | https://github.com/KleemoIT/KleemoIT | 0 | 0| 
 | 20231022T12:20:19Z | A simple library for Swept AABB collision detection written in Java | https://github.com/KleeSup/KleeSwept | 4 | 0| 
-| 20231021T14:38:34Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 368 | 8| 
 | 20231021T01:26:52Z | Null | https://github.com/kleeST0/kleeST0.github.io | 0 | 0| 
 | 20231018T04:28:49Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 31 | 2| 
 | 20231018T01:50:49Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 49 | 0| 
@@ -86,16 +86,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231024T11:23:20Z | Null | https://github.com/gktirkha/backdoor_flutter | 0 | 0| 
+| 20231024T11:20:55Z | Backdooring attacks against deep neural networks for malware detection. | https://github.com/DMario93/malware-dnn-backdooring | 0 | 0| 
+| 20231024T11:20:51Z | Null | https://github.com/gktirkha/backdoor_flutter_example | 0 | 0| 
+| 20231024T06:17:09Z | A curated list of papers & resources on backdoor attacks and defenses in deep learning. | https://github.com/zihao-ai/Awesome-Backdoor-in-Deep-Learning | 71 | 7| 
 | 20231024T01:16:37Z | Tool to mass scan hikvision cameras and save vulnrable devices, use snapshot.py to save live snapshots | https://github.com/millersartin/Hikvision-Vulnerability-Scanner-POC | 0 | 0| 
-| 20231023T15:30:08Z | A curated list of papers & resources on backdoor attacks and defenses in deep learning. | https://github.com/zihao-ai/Awesome-Backdoor-in-Deep-Learning | 69 | 7| 
 | 20231023T14:40:47Z | PyTorch implementation for %Black-box Backdoor Defense via Zero-shot Image Purification% | https://github.com/sycny/ZIP | 0 | 0| 
 | 20231023T14:24:39Z | Fud Crypter | https://github.com/SMIKEY-8300/Fud-Crypter-onyx-Creypter-scantime-runtime | 0 | 0| 
+| 20231023T14:13:03Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 216 | 24| 
 | 20231023T07:47:44Z | HaxL0p4 Hacking Automation Tool | https://github.com/L0PA/HaxL0p4 | 1 | 0| 
 | 20231023T06:10:42Z | FiveM Anti Backdoor - Cipher-Panel | https://github.com/raiderss/es-antibackdoor | 2 | 0| 
-| 20231023T02:10:57Z | EternalHush - new free advanced open-source c2 framework | https://github.com/APT64/EternalHushFramework | 168 | 45| 
-| 20231022T16:06:33Z | Null | https://github.com/2lambda123/MicroBackdoor | 0 | 0| 
-| 20231022T13:24:22Z | ANY MISUSE OF SCRIPTS/BINARIES OF THIS SOFTWARE WILL NOT BE THE RESPONSIBILITY OF THE AUTHOR OR OTHER COLLABORATOR. USE IT ON YOUR OWN MACHINE BITCH!!! | https://github.com/oldplayer69/backdoor | 0 | 0| 
-| 20231022T11:13:33Z | Null | https://github.com/aviv320i/python_backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -130,16 +130,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231024T11:34:33Z | Master%s Thesis: Fuzzing Algorand Smart Contracts. This paper introduces AlgoFuzz, a fuzzing tool specifically designed for Algorand smart contracts.  | https://github.com/denispaluca/msc-thesis | 0 | 0| 
+| 20231024T11:33:44Z | A structure-aware grey box fuzzer based on modeling the input processing logic. | https://github.com/fdu-sec/NestFuzz | 70 | 10| 
+| 20231024T11:08:46Z | Null | https://github.com/sanmi335/fuzzy-couscous | 0 | 0| 
+| 20231024T10:19:55Z | NucleiFuzzer is a Powerful Automation tool for detecting XSS, SQLi, SSRF, Open-Redirect, etc.. Vulnerabilities in Web Applications | https://github.com/0xKayala/NucleiFuzzer | 743 | 111| 
+| 20231024T09:30:02Z | Fuzzer for System and Software Security | https://github.com/BiddleL/fuzz | 0 | 1| 
+| 20231024T08:41:14Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9106 | 2024| 
+| 20231024T08:21:03Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 913 | 206| 
+| 20231024T08:01:34Z | a tool for when all else fails but curl appears to get results.  | https://github.com/4rt-Net/Curl_fuzzer | 0 | 0| 
 | 20231024T01:30:07Z | Basic API fuzzer created in Python to teach myself more about API hacking. | https://github.com/pwnedbytoxic/toxfuzz | 1 | 0| 
 | 20231024T00:30:31Z | Null | https://github.com/Josh-Hin/fuzzyEngine | 0 | 0| 
-| 20231023T23:50:03Z | Null | https://github.com/dreadthief125/fuzzy-eureka | 0 | 0| 
-| 20231023T22:19:23Z | Fuzzer for System and Software Security | https://github.com/BiddleL/fuzz | 0 | 0| 
-| 20231023T21:25:04Z | Fuzz Experiments for Go%s net/html library | https://github.com/maciekmm/go-std-lib-fuzz | 0 | 0| 
-| 20231023T18:14:03Z | project 2 side quest | https://github.com/hluckyr/fuzzy-octo-tribble | 0 | 0| 
-| 20231023T12:53:14Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 1992 | 326| 
-| 20231023T12:45:45Z | Null | https://github.com/Inthememory/fuzzy_matching | 0 | 0| 
-| 20231023T12:10:57Z | Fuzzy Controller to fly a simulated drone | https://github.com/sparshg/fuzzy-controller | 56 | 0| 
-| 20231023T11:16:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9107 | 2025| 
 
 
 
