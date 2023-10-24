@@ -53,6 +53,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231024T12:38:49Z | PCI Express DIY hacking toolkit for Xilinx SP605. This repository is also home of Hyper-V Backdoor and Boot Backdoor, check readme for links and info | https://github.com/Cr4sh/s6_pcie_microblaze | 635 | 140| 
 | 20231024T11:23:20Z | Null | https://github.com/gktirkha/backdoor_flutter | 0 | 0| 
 | 20231024T11:20:55Z | Backdooring attacks against deep neural networks for malware detection. | https://github.com/DMario93/malware-dnn-backdooring | 0 | 0| 
 | 20231024T11:20:51Z | Null | https://github.com/gktirkha/backdoor_flutter_example | 0 | 0| 

@@ -86,6 +86,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231024T12:38:49Z | PCI Express DIY hacking toolkit for Xilinx SP605. This repository is also home of Hyper-V Backdoor and Boot Backdoor, check readme for links and info | https://github.com/Cr4sh/s6_pcie_microblaze | 635 | 140| 
 | 20231024T11:23:20Z | Null | https://github.com/gktirkha/backdoor_flutter | 0 | 0| 
 | 20231024T11:20:55Z | Backdooring attacks against deep neural networks for malware detection. | https://github.com/DMario93/malware-dnn-backdooring | 0 | 0| 
 | 20231024T11:20:51Z | Null | https://github.com/gktirkha/backdoor_flutter_example | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20231023T14:24:39Z | Fud Crypter | https://github.com/SMIKEY-8300/Fud-Crypter-onyx-Creypter-scantime-runtime | 0 | 0| 
 | 20231023T14:13:03Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 216 | 24| 
 | 20231023T07:47:44Z | HaxL0p4 Hacking Automation Tool | https://github.com/L0PA/HaxL0p4 | 1 | 0| 
-| 20231023T06:10:42Z | FiveM Anti Backdoor - Cipher-Panel | https://github.com/raiderss/es-antibackdoor | 2 | 0| 
 
 
 # symbolic execution on Github 推荐
