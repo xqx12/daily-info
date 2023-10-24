@@ -71,16 +71,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231024T12:29:02Z | Scratch HTTP exploit | https://github.com/QubeCode/qubecode.github.io | 0 | 0| 
 | 20231024T12:17:12Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5441 | 702| 
 | 20231024T01:50:20Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0045-app-YY4ed-guess-exploit | 0 | 0| 
 | 20231024T01:50:10Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0048-app-lNPi4-exploit-allow | 0 | 0| 
 | 20231024T01:16:37Z | Tool to mass scan hikvision cameras and save vulnrable devices, use snapshot.py to save live snapshots | https://github.com/millersartin/Hikvision-Vulnerability-Scanner-POC | 0 | 0| 
 | 20231024T00:49:42Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14880 | 2586| 
-| 20231023T23:35:50Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5443 | 1057| 
+| 20231023T23:35:50Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5443 | 1058| 
 | 20231023T23:13:22Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWip | 1 | 0| 
 | 20231023T23:12:27Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANip | 1 | 0| 
 | 20231023T23:11:43Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANip | 1 | 0| 
-| 20231023T23:10:42Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANip | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -130,6 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231024T12:28:58Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 440 | 60| 
 | 20231024T12:16:53Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4043 | 821| 
 | 20231024T11:34:33Z | Master%s Thesis: Fuzzing Algorand Smart Contracts. This paper introduces AlgoFuzz, a fuzzing tool specifically designed for Algorand smart contracts.  | https://github.com/denispaluca/msc-thesis | 0 | 0| 
 | 20231024T11:33:44Z | A structure-aware grey box fuzzer based on modeling the input processing logic. | https://github.com/fdu-sec/NestFuzz | 70 | 10| 
@@ -139,7 +140,6 @@
 | 20231024T08:41:14Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9106 | 2024| 
 | 20231024T08:21:03Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 913 | 206| 
 | 20231024T08:01:34Z | a tool for when all else fails but curl appears to get results.  | https://github.com/4rt-Net/Curl_fuzzer | 0 | 0| 
-| 20231024T06:43:29Z | Codes for %A Fuzzy Set Extension of Schelling’s Spatial Segregation Model% (Ishida, 2023) | https://github.com/aishidajt9/fuzzySchelling | 0 | 0| 
 
 
 
