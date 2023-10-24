@@ -42,6 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231024T09:38:11Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5440 | 702| 
 | 20231024T01:50:20Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0045-app-YY4ed-guess-exploit | 0 | 0| 
 | 20231024T01:50:10Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0048-app-lNPi4-exploit-allow | 0 | 0| 
 | 20231024T01:16:37Z | Tool to mass scan hikvision cameras and save vulnrable devices, use snapshot.py to save live snapshots | https://github.com/millersartin/Hikvision-Vulnerability-Scanner-POC | 0 | 0| 
@@ -73,6 +74,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231024T12:16:53Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4043 | 821| 
 | 20231024T11:34:33Z | Master%s Thesis: Fuzzing Algorand Smart Contracts. This paper introduces AlgoFuzz, a fuzzing tool specifically designed for Algorand smart contracts.  | https://github.com/denispaluca/msc-thesis | 0 | 0| 
 | 20231024T11:33:44Z | A structure-aware grey box fuzzer based on modeling the input processing logic. | https://github.com/fdu-sec/NestFuzz | 70 | 10| 
 | 20231024T11:08:46Z | Null | https://github.com/sanmi335/fuzzy-couscous | 0 | 0| 
@@ -82,7 +84,6 @@
 | 20231024T08:21:03Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 913 | 206| 
 | 20231024T08:01:34Z | a tool for when all else fails but curl appears to get results.  | https://github.com/4rt-Net/Curl_fuzzer | 0 | 0| 
 | 20231024T06:43:29Z | Codes for %A Fuzzy Set Extension of Schelling’s Spatial Segregation Model% (Ishida, 2023) | https://github.com/aishidajt9/fuzzySchelling | 0 | 0| 
-| 20231024T01:30:07Z | Basic API fuzzer created in Python to teach myself more about API hacking. | https://github.com/pwnedbytoxic/toxfuzz | 1 | 0| 
 
 
 
