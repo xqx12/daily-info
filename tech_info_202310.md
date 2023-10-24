@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231024T01:14:03Z | CVE-2023-38831 | CVE-2023-38831 is an RCE in WinRAR (<6.23) | https://github.com/kehrijksen/CVE-2023-38831 | | 
+| 20231024T01:19:35Z | CVE-2023-38831 | CVE-2023-38831 is an RCE in WinRAR (<6.23) | https://github.com/kehrijksen/CVE-2023-38831 | | 
 | 20231023T19:09:39Z | CVE-2023-36745 | Null | https://github.com/N1k0la-T/CVE-2023-36745 | | 
 | 20231023T19:09:29Z | CVE-2023-20198 | A PoC for CVE 2023-20198 | https://github.com/Pushkarup/CVE-2023-20198 | | 
 | 20231023T18:35:41Z | cve-2023-36802 | Exploit for CVE-2023-36802 targeting MSKSSRV.SYS driver | https://github.com/Nero22k/cve-2023-36802 | | 
