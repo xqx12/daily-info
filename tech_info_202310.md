@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231024T01:14:03Z | CVE-2023-38831 | CVE-2023-38831 is an RCE in WinRAR (<6.23) | https://github.com/kehrijksen/CVE-2023-38831 | | 
 | 20231023T19:09:39Z | CVE-2023-36745 | Null | https://github.com/N1k0la-T/CVE-2023-36745 | | 
 | 20231023T19:09:29Z | CVE-2023-20198 | A PoC for CVE 2023-20198 | https://github.com/Pushkarup/CVE-2023-20198 | | 
 | 20231023T18:35:41Z | cve-2023-36802 | Exploit for CVE-2023-36802 targeting MSKSSRV.SYS driver | https://github.com/Nero22k/cve-2023-36802 | | 
@@ -35,7 +36,6 @@
 | 20231023T12:29:31Z | CVE-2023-41993 | Null | https://github.com/po6ix/POC-for-CVE-2023-41993 | | 
 | 20231023T11:36:29Z | CVE-2023-21839 | Null | https://github.com/MMarch7/weblogic_CVE-2023-21839_POC-EXP | | 
 | 20231023T09:51:35Z | CVE-2023-35794 | Repository contains description for CVE-2023-35794 discovered by Dodge Industrial Team for Dodge OPTIFY platfrom. | https://github.com/Dodge-MPTC/CVE-2023-35794-WebSSH-Hijacking | | 
-| 20231023T06:50:43Z | CVE-2023-42120 | Null | https://github.com/truonghuuphuc/CVE-2023-42120-Poc | | 
 
 
 # klee on Github 推荐
