@@ -71,13 +71,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231024T00:33:27Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14879 | 2586| 
 | 20231023T23:35:50Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5443 | 1057| 
 | 20231023T23:13:22Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWip | 1 | 0| 
 | 20231023T23:12:27Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANip | 1 | 0| 
 | 20231023T23:11:43Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANip | 1 | 0| 
 | 20231023T23:10:42Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANip | 1 | 0| 
 | 20231023T23:10:41Z | CVE-2013-4786 Go exploitation tool | https://github.com/fin3ss3g0d/CosmicRakp | 3 | 1| 
-| 20231023T21:47:50Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), artificial intelligence, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 14878 | 2586| 
 | 20231023T12:54:57Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 5996 | 548| 
 | 20231023T12:42:17Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 583 | 112| 
 | 20231023T12:00:48Z | Null | https://github.com/instriq/exploits | 1 | 0| 
