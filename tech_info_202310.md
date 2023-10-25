@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231025T00:46:57Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 230 | 15| 
 | 20231024T23:46:43Z | Null | https://github.com/yeriej77/Identifying-and-Exploiting-Vulnerabilities | 0 | 0| 
 | 20231024T23:43:25Z | Downloads for exploitXpert | https://github.com/exploitXpert-exploits/exploitXpert_TestExploit | 0 | 0| 
 | 20231024T23:30:17Z | Porch Pirate is a recon client and framework that facilitates the automated discovery and exploitation of API endpoints and secrets committed to public Postman workspaces, collections, requests, users and teams. Porch Pirate can be used as a client or be incorporated into your own applications. | https://github.com/MandConsultingGroup/porch-pirate | 0 | 0| 
@@ -80,7 +81,6 @@
 | 20231024T19:30:22Z | Sensitive information disclosure in NetScaler ADC and NetScaler Gateway when configured as a Gateway (VPN virtual server, ICA Proxy, CVPN, RDP Proxy) or AAA virtual server.  | https://github.com/Chocapikk/CVE-2023-4966 | 1 | 1| 
 | 20231024T18:15:22Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 584 | 112| 
 | 20231024T12:29:02Z | Scratch HTTP exploit | https://github.com/QubeCode/qubecode.github.io | 0 | 0| 
-| 20231024T12:17:12Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5441 | 702| 
 
 
 # backdoor on Github 推荐
