@@ -78,9 +78,9 @@
 | 20231024T22:35:18Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANra | 1 | 0| 
 | 20231024T22:34:43Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANra | 1 | 0| 
 | 20231024T19:30:22Z | Sensitive information disclosure in NetScaler ADC and NetScaler Gateway when configured as a Gateway (VPN virtual server, ICA Proxy, CVPN, RDP Proxy) or AAA virtual server.  | https://github.com/Chocapikk/CVE-2023-4966 | 1 | 1| 
+| 20231024T18:15:22Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 584 | 112| 
 | 20231024T12:29:02Z | Scratch HTTP exploit | https://github.com/QubeCode/qubecode.github.io | 0 | 0| 
 | 20231024T12:17:12Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5441 | 702| 
-| 20231024T01:50:20Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0045-app-YY4ed-guess-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
