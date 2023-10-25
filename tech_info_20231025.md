@@ -19,6 +19,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231025T12:34:22Z | CVE-2023-29357 | Null | https://github.com/Twil4/CVE-2023-29357 | | 
 | 20231025T12:20:24Z | CVE-2023-20198 | Null | https://github.com/mr-r3b00t/CVE-2023-20198-IOS-XE-Scanner | | 
 | 20231025T12:18:26Z | CVE-2023-4911 | Looney Tunables Local privilege escalation (CVE-2023-4911) workshop | https://github.com/KernelKrise/CVE-2023-4911 | | 
 | 20231025T12:00:15Z | CVE-2023-4911 | Looney Tunables Local privilege escalation (CVE-2023-4911) workshop | https://github.com/KernelKrise/CVE-2023-4911-Looney-Tunables | | 
@@ -28,7 +29,6 @@
 | 20231025T09:55:56Z | cve-2023-4966 | Citrix CVE-2023-4966 from assetnote modified for parallel and file handling | https://github.com/dinosn/citrix_cve-2023-4966 | | 
 | 20231025T09:39:14Z | CVE-2023-23752 | Exploit for CVE-2023-23752 (4.0.0 <= Joomla <= 4.2.7). | https://github.com/Pushkarup/CVE-2023-23752 | | 
 | 20231025T09:13:02Z | CVE-2022-20338 | Null | https://github.com/nidhi7598/frameworks_base_AOSP_06_r22_CVE-2022-20338 | | 
-| 20231025T08:06:54Z | CVE-2020-0796 | Null | https://github.com/abdullah098/CVE-2020-0796-Scanner | | 
 
 
 # klee on Github 推荐
@@ -90,6 +90,7 @@
 | 20231025T08:49:58Z | Assignment 1 for CSC3034 Computational Intelligence | https://github.com/ngjiashiang/water-intake-fuzzy-system | 0 | 0| 
 | 20231025T08:49:20Z | Null | https://github.com/lhn20189/Employing-Iterative-Feature-Selection-in-Fuzzy-Rule-Based-Binary-Classification | 0 | 0| 
 | 20231025T07:04:52Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 445 | 60| 
+| 20231025T05:56:30Z | A directory bruteforce tool | https://github.com/tomasilluminati/FuzzX | 3 | 0| 
 | 20231025T02:38:23Z | learn_llvm_and_fuzz | https://github.com/xz1548/llvm-fuzz | 0 | 0| 
 | 20231025T01:57:03Z | Repositório feito para armazenar as implementações relativas a Lista de Exercícios 2 da disciplina de IA (Inteligência Artificial) da Ufal (Universidade Federal de Alagoas) no período de 2023.1 | https://github.com/Flaera/IA_Scikit_Fuzzy_e_Maquina_de_Lavar | 0 | 0| 
 | 20231025T01:39:31Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2779 | 198| 
