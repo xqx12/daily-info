@@ -19,12 +19,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231025T12:20:24Z | CVE-2023-20198 | Null | https://github.com/mr-r3b00t/CVE-2023-20198-IOS-XE-Scanner | | 
 | 20231025T12:18:26Z | CVE-2023-4911 | Looney Tunables Local privilege escalation (CVE-2023-4911) workshop | https://github.com/KernelKrise/CVE-2023-4911 | | 
 | 20231025T12:00:15Z | CVE-2023-4911 | Looney Tunables Local privilege escalation (CVE-2023-4911) workshop | https://github.com/KernelKrise/CVE-2023-4911-Looney-Tunables | | 
 | 20231025T11:54:12Z | CVE-2023-21086 | Null | https://github.com/Trinadh465/packages_apps_Settings_CVE-2023-21086 | | 
 | 20231025T11:50:26Z | CVE-2023-4966 | Sensitive information disclosure in NetScaler ADC and NetScaler Gateway when configured as a Gateway (VPN virtual server, ICA Proxy, CVPN, RDP Proxy) or AAA virtual server.  | https://github.com/Chocapikk/CVE-2023-4966 | | 
 | 20231025T11:29:25Z | CVE-2022-0847 | Bash script to check if kernel is vulnerable  | https://github.com/ayushx007/CVE-2022-0847-dirty-pipe-checker | | 
-| 20231025T11:22:25Z | CVE-2023-20198 | Null | https://github.com/mr-r3b00t/CVE-2023-20198-IOS-XE-Scanner | | 
 | 20231025T09:55:56Z | cve-2023-4966 | Citrix CVE-2023-4966 from assetnote modified for parallel and file handling | https://github.com/dinosn/citrix_cve-2023-4966 | | 
 | 20231025T09:39:14Z | CVE-2023-23752 | Exploit for CVE-2023-23752 (4.0.0 <= Joomla <= 4.2.7). | https://github.com/Pushkarup/CVE-2023-23752 | | 
 | 20231025T09:13:02Z | CVE-2022-20338 | Null | https://github.com/nidhi7598/frameworks_base_AOSP_06_r22_CVE-2022-20338 | | 
