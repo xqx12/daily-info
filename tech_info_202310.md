@@ -130,6 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231025T01:57:03Z | Repositório feito para armazenar as implementações relativas a Lista de Exercícios 2 da disciplina de IA (Inteligência Artificial) da Ufal (Universidade Federal de Alagoas) no período de 2023.1 | https://github.com/Flaera/IA_Scikit_Fuzzy_e_Maquina_de_Lavar | 0 | 0| 
 | 20231025T01:39:31Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2779 | 198| 
 | 20231024T23:16:02Z | A directory bruteforce tool | https://github.com/tomasilluminati/FuzzX | 1 | 0| 
 | 20231024T22:53:44Z | Rust implementation of Visual Studio Code fuzzy scoring algorithm | https://github.com/semkiv/vs-code-fuzzy-score-rs | 0 | 0| 
@@ -139,7 +140,6 @@
 | 20231024T19:50:07Z | Fuzzes images by selecting regions of similar color and then randomly colors them. | https://github.com/Dinosaurleg/imagefuzzer | 0 | 0| 
 | 20231024T19:14:49Z | %DESIGN A FUZZY LOGIC BASED EXPERT SYSTEM FOR AIR CONDITION% Air conditioning systems are used to maintain a comfortable temperature and humidity level in indoor environments.  | https://github.com/rohit56900/Air_Condition_Expert_Fuzzy_Logic | 0 | 0| 
 | 20231024T15:31:13Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5104 | 548| 
-| 20231024T12:42:29Z | AlgoFuzz - A property-based fuzzing tool for Algorand smart contracts | https://github.com/denispaluca/algofuzz | 0 | 0| 
 
 
 
