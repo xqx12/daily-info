@@ -19,7 +19,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231025T12:00:30Z | CVE-2023-4911 | Looney Tunables Local privilege escalation (CVE-2023-4911) workshop | https://github.com/KernelKrise/CVE-2023-4911 | | 
+| 20231025T12:18:26Z | CVE-2023-4911 | Looney Tunables Local privilege escalation (CVE-2023-4911) workshop | https://github.com/KernelKrise/CVE-2023-4911 | | 
 | 20231025T12:00:15Z | CVE-2023-4911 | Looney Tunables Local privilege escalation (CVE-2023-4911) workshop | https://github.com/KernelKrise/CVE-2023-4911-Looney-Tunables | | 
 | 20231025T11:54:12Z | CVE-2023-21086 | Null | https://github.com/Trinadh465/packages_apps_Settings_CVE-2023-21086 | | 
 | 20231025T11:50:26Z | CVE-2023-4966 | Sensitive information disclosure in NetScaler ADC and NetScaler Gateway when configured as a Gateway (VPN virtual server, ICA Proxy, CVPN, RDP Proxy) or AAA virtual server.  | https://github.com/Chocapikk/CVE-2023-4966 | | 
@@ -52,6 +52,7 @@
 | --- | --- | --- | --- | ---| 
 | 20231025T12:13:09Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-two-scenarios-Gb-4d-vary-exploit | 0 | 0| 
 | 20231025T11:55:30Z | A havoc UI python module to help in reporting and vulnerabilities to exploit on an internal network. | https://github.com/p4p1/havoc-reporter | 0 | 0| 
+| 20231025T11:53:45Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5457 | 704| 
 | 20231025T11:32:10Z | GitOps Repository | https://github.com/redhat-appstudio-qe/status-quarkus-io-7aXxk-demonstrate-exploit | 0 | 0| 
 | 20231025T09:39:14Z | Exploit for CVE-2023-23752 (4.0.0 <= Joomla <= 4.2.7). | https://github.com/Pushkarup/CVE-2023-23752 | 0 | 0| 
 | 20231025T09:09:27Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 746 | 179| 
