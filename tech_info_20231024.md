@@ -91,7 +91,6 @@
 | --- | --- | --- | --- | ---| 
 | 20231024T23:16:02Z | A directory bruteforce tool | https://github.com/tomasilluminati/FuzzX | 1 | 0| 
 | 20231024T22:53:44Z | Rust implementation of Visual Studio Code fuzzy scoring algorithm | https://github.com/semkiv/vs-code-fuzzy-score-rs | 0 | 0| 
-| 20231024T21:34:15Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2781 | 198| 
 | 20231024T21:15:28Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2351 | 295| 
 | 20231024T20:55:31Z | Null | https://github.com/derekforeman/fuzzy-waddle | 0 | 0| 
 | 20231024T20:42:02Z | Openzeppelin SafeMath Library fuzzing | https://github.com/mmsaki/openzeppelin | 0 | 0| 
@@ -99,6 +98,7 @@
 | 20231024T19:14:49Z | %DESIGN A FUZZY LOGIC BASED EXPERT SYSTEM FOR AIR CONDITION% Air conditioning systems are used to maintain a comfortable temperature and humidity level in indoor environments.  | https://github.com/rohit56900/Air_Condition_Expert_Fuzzy_Logic | 0 | 0| 
 | 20231024T15:31:13Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5104 | 548| 
 | 20231024T12:42:29Z | AlgoFuzz - A property-based fuzzing tool for Algorand smart contracts | https://github.com/denispaluca/algofuzz | 0 | 0| 
+| 20231024T12:28:58Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 440 | 60| 
 
 
 

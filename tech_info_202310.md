@@ -130,9 +130,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231025T00:47:34Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2780 | 198| 
 | 20231024T23:16:02Z | A directory bruteforce tool | https://github.com/tomasilluminati/FuzzX | 1 | 0| 
 | 20231024T22:53:44Z | Rust implementation of Visual Studio Code fuzzy scoring algorithm | https://github.com/semkiv/vs-code-fuzzy-score-rs | 0 | 0| 
-| 20231024T21:34:15Z | A self-hosted Fuzzing-As-A-Service platform | https://github.com/microsoft/onefuzz | 2781 | 198| 
 | 20231024T21:15:28Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2351 | 295| 
 | 20231024T20:55:31Z | Null | https://github.com/derekforeman/fuzzy-waddle | 0 | 0| 
 | 20231024T20:42:02Z | Openzeppelin SafeMath Library fuzzing | https://github.com/mmsaki/openzeppelin | 0 | 0| 
