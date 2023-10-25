@@ -76,13 +76,15 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231024T09:41:19Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2342 | 639| 
+| 20231024T18:48:58Z | Bottom-up memory-safety for assembly language using symbolic execution | https://github.com/scaspin/memory-safe-assembly | 8 | 0| 
+| 20231024T14:56:21Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2342 | 639| 
 | 20231024T03:03:06Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 64 | 9| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231024T15:16:40Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 24 | 2| 
 
 
 # fuzz on Github 推荐
