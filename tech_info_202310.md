@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231025T01:22:07Z | CVE-2021-27198 | Null | https://github.com/rwincey/CVE-2021-27198 | | 
+| 20231025T01:28:07Z | CVE-2021-27198 | Null | https://github.com/rwincey/CVE-2021-27198 | | 
 | 20231025T00:22:18Z | CVE-2023-36745 | Null | https://github.com/N1k0la-T/CVE-2023-36745 | | 
 | 20231024T21:56:00Z | CVE-2023-4911 | CVE-2023-4911 (Looney Tunables) explained | https://github.com/KernelKrise/Looney-Tunables-LPE-workshop-CVE-2023-4911- | | 
 | 20231024T20:37:19Z | CVE-2023-36802 | PoC for CVE-2023-36802 Microsoft Kernel Streaming Service Proxy | https://github.com/x0rb3l/CVE-2023-36802-MSKSSRV-LPE | | 
