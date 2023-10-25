@@ -54,12 +54,12 @@
 | 20231025T11:55:30Z | A havoc UI python module to help in reporting and vulnerabilities to exploit on an internal network. | https://github.com/p4p1/havoc-reporter | 0 | 0| 
 | 20231025T11:53:45Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5457 | 704| 
 | 20231025T11:32:10Z | GitOps Repository | https://github.com/redhat-appstudio-qe/status-quarkus-io-7aXxk-demonstrate-exploit | 0 | 0| 
+| 20231025T10:12:22Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5442 | 1058| 
 | 20231025T09:39:14Z | Exploit for CVE-2023-23752 (4.0.0 <= Joomla <= 4.2.7). | https://github.com/Pushkarup/CVE-2023-23752 | 0 | 0| 
 | 20231025T09:09:27Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 746 | 179| 
 | 20231025T08:55:38Z | Windows Exploit Protection Settings (Ultimate) | https://github.com/neohiro/ExploitProtection | 36 | 3| 
 | 20231025T01:57:46Z | Exploit Create Android Ransomware In Termux (NO ROOT) | https://github.com/popeye0013/Exploit | 31 | 9| 
 | 20231025T01:37:00Z | Null | https://github.com/LokoBurrito/BurritosExploits | 0 | 0| 
-| 20231025T00:46:57Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 230 | 15| 
 
 
 # backdoor on Github 推荐
