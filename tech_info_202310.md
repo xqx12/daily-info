@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231025T12:00:30Z | CVE-2023-4911 | Looney Tunables Local privilege escalation (CVE-2023-4911) workshop | https://github.com/KernelKrise/CVE-2023-4911 | | 
 | 20231025T12:00:15Z | CVE-2023-4911 | Looney Tunables Local privilege escalation (CVE-2023-4911) workshop | https://github.com/KernelKrise/CVE-2023-4911-Looney-Tunables | | 
 | 20231025T11:54:12Z | CVE-2023-21086 | Null | https://github.com/Trinadh465/packages_apps_Settings_CVE-2023-21086 | | 
 | 20231025T11:50:26Z | CVE-2023-4966 | Sensitive information disclosure in NetScaler ADC and NetScaler Gateway when configured as a Gateway (VPN virtual server, ICA Proxy, CVPN, RDP Proxy) or AAA virtual server.  | https://github.com/Chocapikk/CVE-2023-4966 | | 
@@ -35,7 +36,6 @@
 | 20231025T09:39:14Z | CVE-2023-23752 | Exploit for CVE-2023-23752 (4.0.0 <= Joomla <= 4.2.7). | https://github.com/Pushkarup/CVE-2023-23752 | | 
 | 20231025T09:13:02Z | CVE-2022-20338 | Null | https://github.com/nidhi7598/frameworks_base_AOSP_06_r22_CVE-2022-20338 | | 
 | 20231025T08:06:54Z | CVE-2020-0796 | Null | https://github.com/abdullah098/CVE-2020-0796-Scanner | | 
-| 20231025T07:56:58Z | CVE-2023-21094 | Null | https://github.com/Trinadh465/frameworks_native_AOSP-10_r33_CVE-2023-21094 | | 
 
 
 # klee on Github 推荐
