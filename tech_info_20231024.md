@@ -18,7 +18,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20231024T21:56:00Z | CVE-2023-4911 | CVE-2023-4911 (Looney Tunables) explained | https://github.com/KernelKrise/Looney-Tunables-LPE-workshop-CVE-2023-4911- | | 
-| 20231024T20:37:19Z | CVE-2023-36802 | PoC for CVE-2023-36802 Microsoft Kernel Streaming Service Proxy | https://github.com/x0rb3l/CVE-2023-36802-MSKSSRV-LPE | | 
 | 20231024T19:41:04Z | CVE-2023-37478 | CVE-2023-37478 showcases how a difference in npm and pnpm install packages that could be exploited by a well crafted tar.gz packge. This repo shows a demo.  | https://github.com/TrevorGKann/CVE-2023-37478_npm_vs_pnpm | | 
 | 20231024T19:30:22Z | CVE-2023-4966 | Sensitive information disclosure in NetScaler ADC and NetScaler Gateway when configured as a Gateway (VPN virtual server, ICA Proxy, CVPN, RDP Proxy) or AAA virtual server.  | https://github.com/Chocapikk/CVE-2023-4966 | | 
 | 20231024T18:57:29Z | CVE-2022-29464 | A PoC and Exploit for CVE 2022-29464 | https://github.com/Pushkarup/CVE-2022-29464 | | 
@@ -27,6 +26,7 @@
 | 20231024T09:42:42Z | CVE-2023-20198 | Check a target IP for CVE-2023-20198 | https://github.com/kacem-expereo/CVE-2023-20198 | | 
 | 20231024T08:49:48Z | CVE-2023-22515 | CVE-2023-22515 (Confluence Broken Access Control Exploit) | https://github.com/joaoviictorti/CVE-2023-22515 | | 
 | 20231024T08:12:16Z | CVE-2022-23131 | Null | https://github.com/r10lab/CVE-2022-23131 | | 
+| 20231024T02:27:13Z | CVE-2023-30033 | Null | https://github.com/phucodeexp/CVE-2023-30033 | | 
 
 
 # klee on Github 推荐
