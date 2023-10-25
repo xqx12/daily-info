@@ -61,7 +61,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20231024T22:47:34Z | Aurora Framework lets you create backdoors for Windows. It has a control server and different payloads, and it comes with a bunch of cool features. | https://github.com/hxrshdeepsingh/Aurora-Framework | 1 | 0| 
-| 20231024T22:22:05Z | Windows 10 c2 backdoor based off the villain tool, obfuscated to avoid windows defender detection | https://github.com/joemacdonough/RedTeamTool | 0 | 0| 
 | 20231024T16:21:50Z | Official Repository for the CVPR 2020 paper %Universal Litmus Patterns: Revealing Backdoor Attacks in CNNs% | https://github.com/UMBCvision/Universal-Litmus-Patterns | 39 | 6| 
 | 20231024T16:18:30Z | Official Repository for the AAAI-20 paper %Hidden Trigger Backdoor Attacks% | https://github.com/UMBCvision/Hidden-Trigger-Backdoor-Attacks | 92 | 19| 
 | 20231024T16:17:36Z | Official implementation of the CVPR 2022 paper %Backdoor Attacks on Self-Supervised Learning%. | https://github.com/UMBCvision/SSL-Backdoor | 55 | 6| 
@@ -70,6 +69,7 @@
 | 20231024T11:20:55Z | Backdooring attacks against deep neural networks for malware detection. | https://github.com/DMario93/malware-dnn-backdooring | 0 | 0| 
 | 20231024T11:20:51Z | Null | https://github.com/gktirkha/backdoor_flutter_example | 0 | 0| 
 | 20231024T06:17:09Z | A curated list of papers & resources on backdoor attacks and defenses in deep learning. | https://github.com/zihao-ai/Awesome-Backdoor-in-Deep-Learning | 71 | 7| 
+| 20231024T01:16:37Z | Tool to mass scan hikvision cameras and save vulnrable devices, use snapshot.py to save live snapshots | https://github.com/millersartin/Hikvision-Vulnerability-Scanner-POC | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
