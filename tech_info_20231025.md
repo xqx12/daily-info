@@ -50,6 +50,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231025T12:13:09Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-two-scenarios-Gb-4d-vary-exploit | 0 | 0| 
 | 20231025T11:55:30Z | A havoc UI python module to help in reporting and vulnerabilities to exploit on an internal network. | https://github.com/p4p1/havoc-reporter | 0 | 0| 
 | 20231025T11:32:10Z | GitOps Repository | https://github.com/redhat-appstudio-qe/status-quarkus-io-7aXxk-demonstrate-exploit | 0 | 0| 
 | 20231025T09:39:14Z | Exploit for CVE-2023-23752 (4.0.0 <= Joomla <= 4.2.7). | https://github.com/Pushkarup/CVE-2023-23752 | 0 | 0| 

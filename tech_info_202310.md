@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231025T12:13:09Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-two-scenarios-Gb-4d-vary-exploit | 0 | 0| 
 | 20231025T11:55:30Z | A havoc UI python module to help in reporting and vulnerabilities to exploit on an internal network. | https://github.com/p4p1/havoc-reporter | 0 | 0| 
 | 20231025T11:32:10Z | GitOps Repository | https://github.com/redhat-appstudio-qe/status-quarkus-io-7aXxk-demonstrate-exploit | 0 | 0| 
 | 20231025T09:39:14Z | Exploit for CVE-2023-23752 (4.0.0 <= Joomla <= 4.2.7). | https://github.com/Pushkarup/CVE-2023-23752 | 0 | 0| 
@@ -80,7 +81,6 @@
 | 20231025T01:37:00Z | Null | https://github.com/LokoBurrito/BurritosExploits | 0 | 0| 
 | 20231025T00:46:57Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 230 | 15| 
 | 20231024T23:46:43Z | Null | https://github.com/yeriej77/Identifying-and-Exploiting-Vulnerabilities | 0 | 0| 
-| 20231024T23:43:25Z | Downloads for exploitXpert | https://github.com/exploitXpert-exploits/exploitXpert_TestExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
