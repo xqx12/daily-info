@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231025T01:22:07Z | CVE-2021-27198 | Null | https://github.com/rwincey/CVE-2021-27198 | | 
 | 20231025T00:22:18Z | CVE-2023-36745 | Null | https://github.com/N1k0la-T/CVE-2023-36745 | | 
 | 20231024T21:56:00Z | CVE-2023-4911 | CVE-2023-4911 (Looney Tunables) explained | https://github.com/KernelKrise/Looney-Tunables-LPE-workshop-CVE-2023-4911- | | 
 | 20231024T20:37:19Z | CVE-2023-36802 | PoC for CVE-2023-36802 Microsoft Kernel Streaming Service Proxy | https://github.com/x0rb3l/CVE-2023-36802-MSKSSRV-LPE | | 
@@ -35,13 +36,12 @@
 | 20231024T15:04:04Z | CVE-2023-20198 | CVE-2023-20198 Checkscript | https://github.com/Atea-Redteam/CVE-2023-20198 | | 
 | 20231024T10:37:51Z | CVE-2023-42442 | CVE-2023-42442 | https://github.com/C1ph3rX13/CVE-2023-42442 | | 
 | 20231024T09:42:42Z | CVE-2023-20198 | Check a target IP for CVE-2023-20198 | https://github.com/kacem-expereo/CVE-2023-20198 | | 
-| 20231024T08:49:48Z | CVE-2023-22515 | CVE-2023-22515 (Confluence Broken Access Control Exploit) | https://github.com/joaoviictorti/CVE-2023-22515 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231025T00:41:09Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14109 | 426| 
+| 20231025T01:22:20Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14110 | 426| 
 | 20231024T14:56:21Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2342 | 639| 
 | 20231024T13:30:21Z | practica 2c | https://github.com/dipache/P2DiegoKleeders | 0 | 0| 
 | 20231024T09:53:27Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 370 | 8| 
