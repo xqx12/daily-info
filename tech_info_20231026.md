@@ -83,7 +83,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231026T12:38:47Z | Undergraduate Thesis Project Documentation (S1) - Informatics UPN Veteran Jatim | https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot | 1 | 0| 
+| 20231026T12:47:43Z | Null | https://github.com/AlannBerg/Nai-2-Adaptive-Cruise-Control-Fuzzy-Control-System- | 0 | 0| 
+| 20231026T12:47:38Z | Undergraduate Thesis Project Documentation (S1) - Informatics UPN Veteran Jatim | https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot | 1 | 0| 
 | 20231026T12:32:53Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 448 | 60| 
 | 20231026T12:17:14Z | Null | https://github.com/jhin1m/fuzzy-doodle | 0 | 0| 
 | 20231026T12:14:12Z | Null | https://github.com/syhxzzz/fuzzy-react-web | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20231026T09:34:44Z | BoB 12th | https://github.com/BoB-WebFuzzing/fuzzer | 0 | 0| 
 | 20231026T09:31:33Z | Null | https://github.com/restoflife/fuzzy-disco | 0 | 0| 
 | 20231026T06:18:13Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5103 | 548| 
-| 20231026T01:16:06Z | Null | https://github.com/D3Ml4N/Control-Fuzzy-Banco | 0 | 0| 
 
 
 
