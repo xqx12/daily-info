@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231026T12:34:03Z | CVE-2023-46451 | Null | https://github.com/sajaljat/CVE-2023-46451 | | 
 | 20231026T12:30:21Z | CVE-2023-46450 |  CVE-2023-46450 reference | https://github.com/yte121/-CVE-2023-46450 | | 
 | 20231026T12:03:30Z | CVE-2023-46449 | Null | https://github.com/sajaljat/CVE-2023-46449 | | 
 | 20231026T11:39:14Z | cve-2023-36802 | Exploit for CVE-2023-36802 targeting MSKSSRV.SYS driver | https://github.com/Nero22k/cve-2023-36802 | | 
@@ -35,7 +36,6 @@
 | 20231026T08:19:55Z | CVE-2023-5360 | CVE-2023-5360 | https://github.com/nastar-id/CVE-2023-5360 | | 
 | 20231026T06:58:40Z | CVE-2023-5360 | Null | https://github.com/phankz/Worpress-CVE-2023-5360 | | 
 | 20231026T06:52:57Z | CVE-2023-21097 | Null | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21097 | | 
-| 20231026T06:51:50Z | CVE-2023-4966 | Sensitive information disclosure in NetScaler ADC and NetScaler Gateway when configured as a Gateway (VPN virtual server, ICA Proxy, CVPN, RDP Proxy) or AAA virtual server.  | https://github.com/Chocapikk/CVE-2023-4966 | | 
 
 
 # klee on Github 推荐
