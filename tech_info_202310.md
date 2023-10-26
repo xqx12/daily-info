@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231025T22:47:08Z | CVE-2023-4966 | Sensitive information disclosure in NetScaler ADC and NetScaler Gateway when configured as a Gateway (VPN virtual server, ICA Proxy, CVPN, RDP Proxy) or AAA virtual server.  | https://github.com/Chocapikk/CVE-2023-4966 | | 
+| 20231026T01:41:45Z | CVE-2023-4966 | Sensitive information disclosure in NetScaler ADC and NetScaler Gateway when configured as a Gateway (VPN virtual server, ICA Proxy, CVPN, RDP Proxy) or AAA virtual server.  | https://github.com/Chocapikk/CVE-2023-4966 | | 
 | 20231025T21:40:42Z | CVE-2023-20198 | Null | https://github.com/IceBreakerCode/CVE-2023-20198 | | 
 | 20231025T21:36:05Z | CVE-2023-4966 | Null | https://github.com/IceBreakerCode/CVE-2023-4966 | | 
 | 20231025T21:03:27Z | CVE-2023-20198 | Null | https://github.com/ohlawd/CVE-2023-20198 | | 

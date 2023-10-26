@@ -22,7 +22,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231025T22:47:08Z | CVE-2023-4966 | Sensitive information disclosure in NetScaler ADC and NetScaler Gateway when configured as a Gateway (VPN virtual server, ICA Proxy, CVPN, RDP Proxy) or AAA virtual server.  | https://github.com/Chocapikk/CVE-2023-4966 | | 
 | 20231025T21:40:42Z | CVE-2023-20198 | Null | https://github.com/IceBreakerCode/CVE-2023-20198 | | 
 | 20231025T21:36:05Z | CVE-2023-4966 | Null | https://github.com/IceBreakerCode/CVE-2023-4966 | | 
 | 20231025T21:03:27Z | CVE-2023-20198 | Null | https://github.com/ohlawd/CVE-2023-20198 | | 
@@ -32,6 +31,7 @@
 | 20231025T15:26:17Z | CVE-2023-22074 | CVE-2023-22074 | https://github.com/emad-almousa/CVE-2023-22074 | | 
 | 20231025T13:29:13Z | CVE-2023-29357 | Null | https://github.com/Twil4/CVE-2023-29357-check | | 
 | 20231025T12:37:56Z | CVE-2023-4966 | Proof Of Concept for te NetScaler Vuln | https://github.com/mlynchcogent/CVE-2023-4966-POC | | 
+| 20231025T12:34:22Z | CVE-2023-29357 | Null | https://github.com/Twil4/CVE-2023-29357 | | 
 
 
 # klee on Github 推荐
