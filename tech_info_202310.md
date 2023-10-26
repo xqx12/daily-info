@@ -71,7 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231026T12:06:55Z | For the MATLAB example of avoiding robots, we added a custom reward function that allowed agent to explore instead of exploit | https://github.com/beingtalha/RL-ObstacleAvoidanceMobileRobot | 0 | 0| 
+| 20231026T12:08:52Z | For the MATLAB example of avoiding robots, we added a custom reward function that allowed agent to explore instead of exploit | https://github.com/beingtalha/RL-ObstacleAvoidanceMobileRobot | 0 | 0| 
 | 20231026T12:05:33Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/test-app-621-Dyf2k-exploit-hope | 0 | 0| 
 | 20231026T11:42:36Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 6014 | 550| 
 | 20231026T11:39:14Z | Exploit for CVE-2023-36802 targeting MSKSSRV.SYS driver | https://github.com/Nero22k/cve-2023-36802 | 16 | 0| 
