@@ -75,12 +75,12 @@
 | 20231025T20:45:25Z | Null | https://github.com/scaryswe/Jinja2-ExploitMe | 0 | 0| 
 | 20231025T19:29:27Z | Task 1 Exploitation Binaire | https://github.com/Fadboy22/CodeAlpha | 0 | 0| 
 | 20231025T18:39:05Z | Porch Pirate is a recon client and framework that facilitates the automated discovery and exploitation of API endpoints and secrets committed to public Postman workspaces, collections, requests, users and teams. Porch Pirate can be used as a client or be incorporated into your own applications. | https://github.com/MandConsultingGroup/porch-pirate | 1 | 0| 
+| 20231025T16:23:15Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5442 | 1058| 
 | 20231025T12:40:43Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5458 | 704| 
 | 20231025T12:13:09Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-two-scenarios-Gb-4d-vary-exploit | 0 | 0| 
 | 20231025T11:55:30Z | A havoc UI python module to help in reporting and vulnerabilities to exploit on an internal network. | https://github.com/p4p1/havoc-reporter | 0 | 0| 
 | 20231025T11:32:10Z | GitOps Repository | https://github.com/redhat-appstudio-qe/status-quarkus-io-7aXxk-demonstrate-exploit | 0 | 0| 
 | 20231025T10:54:46Z | Enumerate a web application by performing the following checks: whois, dns tld and domain information, traceroute, ssl/tls version and supported ciphers, certificate information. Analyze http responses, detect comments and resources in the page. Reveal exposed resources by performing url bruteforce and exploiting google dorks | https://github.com/fborsani/scalpel | 1 | 0| 
-| 20231025T10:12:22Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5442 | 1058| 
 
 
 # backdoor on Github 推荐
