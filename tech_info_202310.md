@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231026T01:59:21Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0067-app-5zAp5-exploit-preserve | 0 | 0| 
 | 20231026T00:50:26Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWog | 1 | 0| 
 | 20231026T00:49:39Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANog | 1 | 0| 
 | 20231026T00:48:48Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANog | 1 | 0| 
@@ -80,7 +81,6 @@
 | 20231025T19:29:27Z | Task 1 Exploitation Binaire | https://github.com/Fadboy22/CodeAlpha | 0 | 0| 
 | 20231025T18:39:05Z | Porch Pirate is a recon client and framework that facilitates the automated discovery and exploitation of API endpoints and secrets committed to public Postman workspaces, collections, requests, users and teams. Porch Pirate can be used as a client or be incorporated into your own applications. | https://github.com/MandConsultingGroup/porch-pirate | 1 | 0| 
 | 20231025T16:23:15Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5442 | 1058| 
-| 20231025T12:40:43Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5458 | 704| 
 
 
 # backdoor on Github 推荐
