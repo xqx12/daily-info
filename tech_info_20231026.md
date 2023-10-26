@@ -83,6 +83,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231026T12:17:14Z | Null | https://github.com/jhin1m/fuzzy-doodle | 0 | 0| 
+| 20231026T12:14:12Z | Null | https://github.com/syhxzzz/fuzzy-react-web | 0 | 0| 
 | 20231026T11:44:28Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4877 | 1165| 
 | 20231026T10:54:52Z | Undergraduate Thesis Project Documentation (S1) - Informatics UPN Veteran Jatim | https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot | 1 | 0| 
 | 20231026T09:58:50Z | Null | https://github.com/kkawai/fuzzy-waddle | 0 | 0| 
