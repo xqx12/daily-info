@@ -17,6 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231026T12:03:30Z | CVE-2023-46449 | Null | https://github.com/sajaljat/CVE-2023-46449 | | 
 | 20231026T11:39:14Z | cve-2023-36802 | Exploit for CVE-2023-36802 targeting MSKSSRV.SYS driver | https://github.com/Nero22k/cve-2023-36802 | | 
 | 20231026T10:35:14Z | CVE-2023-38646 | Python script to exploit CVE-2023-38646 Metabase Pre-Auth RCE via SQL injection | https://github.com/Red4mber/CVE-2023-38646 | | 
 | 20231026T10:11:22Z | CVE-2023-23397 | This script exploits CVE-2023-23397, a Zero-Day vulnerability in Microsoft Outlook, allowing the generation of malicious emails for testing and educational purposes. | https://github.com/Pushkarup/CVE-2023-23397 | | 
@@ -26,7 +27,6 @@
 | 20231026T06:52:57Z | CVE-2023-21097 | Null | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21097 | | 
 | 20231026T06:51:50Z | CVE-2023-4966 | Sensitive information disclosure in NetScaler ADC and NetScaler Gateway when configured as a Gateway (VPN virtual server, ICA Proxy, CVPN, RDP Proxy) or AAA virtual server.  | https://github.com/Chocapikk/CVE-2023-4966 | | 
 | 20231026T04:39:44Z | CVE-2022-0778 | Null | https://github.com/jeongjunsoo/CVE-2022-0778 | | 
-| 20231026T04:19:29Z | CVE-2023-45857 | CVE-2023-45857の挙動を確認するデモ | https://github.com/intercept6/CVE-2023-45857-Demo | | 
 
 
 # klee on Github 推荐
