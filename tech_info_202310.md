@@ -77,10 +77,10 @@
 | 20231026T11:39:14Z | Exploit for CVE-2023-36802 targeting MSKSSRV.SYS driver | https://github.com/Nero22k/cve-2023-36802 | 16 | 0| 
 | 20231026T11:39:01Z | A havoc UI python module to help in reporting and vulnerabilities to exploit on an internal network. | https://github.com/p4p1/havoc-reporter | 4 | 0| 
 | 20231026T10:39:35Z | Metabase open source before 0.46.6.1 and Metabase Enterprise before 1.46.6.1 allow attackers to execute arbitrary commands on the server, at the server%s privilege level. Authentication is not required for exploitation. The other fixed versions are 0.45.4.1, 1.45.4.1, 0.44.7.1, 1.44.7.1, 0.43.7.2, and 1.43.7.2. | https://github.com/junnythemarksman/CVE-2023-38646 | 0 | 0| 
+| 20231026T10:36:53Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5462 | 705| 
 | 20231026T10:35:14Z | Python script to exploit CVE-2023-38646 Metabase Pre-Auth RCE via SQL injection | https://github.com/Red4mber/CVE-2023-38646 | 2 | 0| 
 | 20231026T08:48:28Z | Digital nature la platforme ultime pour les agriculteurs modernes cherchant à optimiser leur exploitation agricole grâce à la technologie de pointe. Conçue pour fonctionner en parfaite harmonie avec les fermes intelligentes, notre platforme offre une suite complète de fonctionnalités pour simplifier la gestion quotidienne de votre exploitation. | https://github.com/AmineeTrabelsi/projet_smart__farm | 0 | 1| 
 | 20231026T06:51:50Z | Sensitive information disclosure in NetScaler ADC and NetScaler Gateway when configured as a Gateway (VPN virtual server, ICA Proxy, CVPN, RDP Proxy) or AAA virtual server.  | https://github.com/Chocapikk/CVE-2023-4966 | 13 | 2| 
-| 20231026T01:59:21Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0067-app-5zAp5-exploit-preserve | 0 | 0| 
 
 
 # backdoor on Github 推荐
