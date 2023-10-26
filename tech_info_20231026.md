@@ -43,6 +43,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231026T12:05:33Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/test-app-621-Dyf2k-exploit-hope | 0 | 0| 
 | 20231026T11:42:36Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 6014 | 550| 
 | 20231026T11:39:14Z | Exploit for CVE-2023-36802 targeting MSKSSRV.SYS driver | https://github.com/Nero22k/cve-2023-36802 | 16 | 0| 
 | 20231026T11:39:01Z | A havoc UI python module to help in reporting and vulnerabilities to exploit on an internal network. | https://github.com/p4p1/havoc-reporter | 4 | 0| 
@@ -52,7 +53,6 @@
 | 20231026T06:51:50Z | Sensitive information disclosure in NetScaler ADC and NetScaler Gateway when configured as a Gateway (VPN virtual server, ICA Proxy, CVPN, RDP Proxy) or AAA virtual server.  | https://github.com/Chocapikk/CVE-2023-4966 | 13 | 2| 
 | 20231026T01:59:21Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0067-app-5zAp5-exploit-preserve | 0 | 0| 
 | 20231026T00:50:26Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWog | 1 | 0| 
-| 20231026T00:49:39Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANog | 1 | 0| 
 
 
 # backdoor on Github 推荐
