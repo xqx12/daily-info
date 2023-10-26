@@ -130,6 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231026T01:16:06Z | Null | https://github.com/D3Ml4N/Control-Fuzzy-Banco | 0 | 0| 
 | 20231025T23:58:45Z | Null | https://github.com/monacolafamilia/fuzzy-bassoon | 0 | 0| 
 | 20231025T23:18:03Z | Null | https://github.com/Carmiejumalon123/fuzzy-octo-potato | 0 | 0| 
 | 20231025T23:13:01Z | Null | https://github.com/hetricke/IntercroppingFuzzySystem | 0 | 0| 
@@ -139,7 +140,6 @@
 | 20231025T21:23:51Z | Null | https://github.com/sofialinheira/logica-fuzzy | 0 | 0| 
 | 20231025T20:49:11Z | A simple depth-limited grammar fuzzer implemented in C. | https://github.com/Positron11/fuzzer | 0 | 0| 
 | 20231025T20:27:16Z | SQL Joins Practice | https://github.com/tylercoen/fuzzy-octo-funicular | 0 | 0| 
-| 20231025T19:42:19Z | Null | https://github.com/arigata9/fuzzy-octo-computing-machine | 0 | 0| 
 
 
 
