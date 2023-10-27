@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231027T12:03:24Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5510 | 709| 
 | 20231027T11:52:03Z | Null | https://github.com/alpha-roman/cisa_gov_known_exploited_vulnerabilities_mirror | 0 | 0| 
 | 20231027T11:38:11Z | All in one information gathering tool and exploitation framework... | https://github.com/blackmagic2023/HollowPoint | 0 | 0| 
 | 20231027T01:49:26Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5443 | 1059| 
@@ -80,7 +81,6 @@
 | 20231026T19:35:07Z | Pentesting is primarily concerned with identifying and exploiting vulnerabilities within a specific target system | https://github.com/kramnoic/red-resources | 0 | 0| 
 | 20231026T16:26:29Z | Exploit Proof-of-Concept code for XAMPP v3.3.0 — %.ini% Buffer Overflow (Unicode + SEH) | https://github.com/ripp3rdoc/XAMPPv3.3.0-BOF | 0 | 0| 
 | 20231026T13:34:38Z | a webchat app using mqtt. very basic and exploitable. | https://github.com/obsiddev/metrochat | 0 | 0| 
-| 20231026T12:08:52Z | For the MATLAB example of avoiding robots, we added a custom reward function that allowed agent to explore instead of exploit | https://github.com/beingtalha/RL-ObstacleAvoidanceMobileRobot | 0 | 0| 
 
 
 # backdoor on Github 推荐
