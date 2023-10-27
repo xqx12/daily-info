@@ -44,10 +44,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231027T12:26:12Z | All in one information gathering tool and exploitation framework... | https://github.com/blackmagic2023/HollowPoint | 0 | 0| 
 | 20231027T12:24:03Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5511 | 709| 
 | 20231027T11:52:03Z | Null | https://github.com/alpha-roman/cisa_gov_known_exploited_vulnerabilities_mirror | 0 | 0| 
-| 20231027T11:38:11Z | All in one information gathering tool and exploitation framework... | https://github.com/blackmagic2023/HollowPoint | 0 | 0| 
-| 20231027T01:49:26Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5443 | 1059| 
+| 20231027T07:37:08Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5446 | 1059| 
 | 20231027T01:43:14Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 1005 | 102| 
 
 
