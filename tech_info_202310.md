@@ -101,6 +101,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231026T17:54:42Z | Resource compilation, experiments, and tests on Symbolic Execution, Type Inference and Property-Guided Testing of python programs | https://github.com/karthik-d/type-inference-tools-playground | 0 | 0| 
+| 20231026T13:14:22Z | Unicorn: Symbolic Execution, Bounded Model Checking, and Code Optimization of RISC-V Code using Classical Solvers and Quantum Computers | https://github.com/cksystemsgroup/unicorn | 18 | 8| 
 | 20231026T07:18:39Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2343 | 639| 
 | 20231025T14:56:19Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 66 | 28| 
 | 20231024T18:48:58Z | Bottom-up memory-safety for assembly language using symbolic execution | https://github.com/scaspin/memory-safe-assembly | 8 | 0| 
@@ -109,8 +111,6 @@
 | 20231023T08:19:59Z | Null | https://github.com/Dragos0305/Symbolic-Execution-Malware-Analysis | 0 | 0| 
 | 20231018T12:37:11Z | Automatic %bomblab% solver with symbolic executions. | https://github.com/Aplace0927/qwoqLab | 0 | 0| 
 | 20231016T15:24:44Z | UnitTestBot Symbolic Execution machine | https://github.com/UnitTestBot/USE | 0 | 0| 
-| 20231015T16:05:39Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 202 | 42| 
-| 20231015T14:56:25Z | Bachelor%s thesis: developing symbolic execution for Rlang using Chef and S2E | https://github.com/SoptikHa2/bachelors-thesis | 4 | 0| 
 
 
 # big4 on Github 推荐

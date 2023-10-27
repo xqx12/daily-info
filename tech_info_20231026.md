@@ -73,6 +73,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231026T17:54:42Z | Resource compilation, experiments, and tests on Symbolic Execution, Type Inference and Property-Guided Testing of python programs | https://github.com/karthik-d/type-inference-tools-playground | 0 | 0| 
+| 20231026T13:14:22Z | Unicorn: Symbolic Execution, Bounded Model Checking, and Code Optimization of RISC-V Code using Classical Solvers and Quantum Computers | https://github.com/cksystemsgroup/unicorn | 18 | 8| 
 | 20231026T07:18:39Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2343 | 639| 
 
 
