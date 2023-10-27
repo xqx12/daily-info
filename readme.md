@@ -17,7 +17,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231026T23:53:04Z | CVE-2023-4966 | Sensitive information disclosure in NetScaler ADC and NetScaler Gateway when configured as a Gateway (VPN virtual server, ICA Proxy, CVPN, RDP Proxy) or AAA virtual server.  | https://github.com/Chocapikk/CVE-2023-4966 | | 
 | 20231026T22:55:18Z | CVE-2023-5815 | Null | https://github.com/codeb0ss/CVE-2023-5815-PoC | | 
 | 20231026T15:14:58Z | CVE-2023-21097 | Null | https://github.com/uthrasri/frameworks_base_AOSP10_r33_CVE-2023-21097 | | 
 | 20231026T15:07:18Z | CVE-2023-46404 | PoC and Writeup for CVE-2023-46404. | https://github.com/windecks/CVE-2023-46404 | | 
@@ -27,6 +26,7 @@
 | 20231026T12:34:03Z | CVE-2023-46451 | Null | https://github.com/sajaljat/CVE-2023-46451 | | 
 | 20231026T12:30:21Z | CVE-2023-46450 |  CVE-2023-46450 reference | https://github.com/yte121/-CVE-2023-46450 | | 
 | 20231026T12:03:30Z | CVE-2023-46449 | Null | https://github.com/sajaljat/CVE-2023-46449 | | 
+| 20231026T10:35:14Z | CVE-2023-38646 | Python script to exploit CVE-2023-38646 Metabase Pre-Auth RCE via SQL injection | https://github.com/Red4mber/CVE-2023-38646 | | 
 
 
 # klee on Github 推荐

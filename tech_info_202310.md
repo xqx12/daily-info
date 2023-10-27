@@ -26,8 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231027T00:55:03Z | CVE-2023-4966 | Sensitive information disclosure in NetScaler ADC and NetScaler Gateway when configured as a Gateway (VPN virtual server, ICA Proxy, CVPN, RDP Proxy) or AAA virtual server.  | https://github.com/Chocapikk/CVE-2023-4966 | | 
 | 20231027T00:47:02Z | cve-2023-36802 | Exploit for CVE-2023-36802 targeting MSKSSRV.SYS driver | https://github.com/Nero22k/cve-2023-36802 | | 
-| 20231026T23:53:04Z | CVE-2023-4966 | Sensitive information disclosure in NetScaler ADC and NetScaler Gateway when configured as a Gateway (VPN virtual server, ICA Proxy, CVPN, RDP Proxy) or AAA virtual server.  | https://github.com/Chocapikk/CVE-2023-4966 | | 
 | 20231026T22:55:18Z | CVE-2023-5815 | Null | https://github.com/codeb0ss/CVE-2023-5815-PoC | | 
 | 20231026T15:14:58Z | CVE-2023-21097 | Null | https://github.com/uthrasri/frameworks_base_AOSP10_r33_CVE-2023-21097 | | 
 | 20231026T15:07:18Z | CVE-2023-46404 | PoC and Writeup for CVE-2023-46404. | https://github.com/windecks/CVE-2023-46404 | | 
