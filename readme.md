@@ -19,7 +19,6 @@
 | --- | --- | --- | --- | ---| 
 | 20231026T23:53:04Z | CVE-2023-4966 | Sensitive information disclosure in NetScaler ADC and NetScaler Gateway when configured as a Gateway (VPN virtual server, ICA Proxy, CVPN, RDP Proxy) or AAA virtual server.  | https://github.com/Chocapikk/CVE-2023-4966 | | 
 | 20231026T22:55:18Z | CVE-2023-5815 | Null | https://github.com/codeb0ss/CVE-2023-5815-PoC | | 
-| 20231026T18:07:46Z | cve-2023-36802 | Exploit for CVE-2023-36802 targeting MSKSSRV.SYS driver | https://github.com/Nero22k/cve-2023-36802 | | 
 | 20231026T15:14:58Z | CVE-2023-21097 | Null | https://github.com/uthrasri/frameworks_base_AOSP10_r33_CVE-2023-21097 | | 
 | 20231026T15:07:18Z | CVE-2023-46404 | PoC and Writeup for CVE-2023-46404. | https://github.com/windecks/CVE-2023-46404 | | 
 | 20231026T15:03:08Z | CVE-2023-44487 | Null | https://github.com/ReToCode/golang-CVE-2023-44487 | | 
@@ -27,6 +26,7 @@
 | 20231026T13:22:14Z | CVE-2023-20955 | Null | https://github.com/Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2023-20955 | | 
 | 20231026T12:34:03Z | CVE-2023-46451 | Null | https://github.com/sajaljat/CVE-2023-46451 | | 
 | 20231026T12:30:21Z | CVE-2023-46450 |  CVE-2023-46450 reference | https://github.com/yte121/-CVE-2023-46450 | | 
+| 20231026T12:03:30Z | CVE-2023-46449 | Null | https://github.com/sajaljat/CVE-2023-46449 | | 
 
 
 # klee on Github 推荐
