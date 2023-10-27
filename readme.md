@@ -72,6 +72,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231027T12:29:15Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST, GraphQL and RPC (e.g., gRPC and Thrift). | https://github.com/EMResearch/EvoMaster | 376 | 68| 
 | 20231027T12:11:56Z | Source codes for the fuzzy regression project. | https://github.com/akbuchowicz/fuzzy_regression | 0 | 0| 
 | 20231027T11:36:40Z | This repository presents the work of a seminar combining Sliding Mode Observation and Takagi-Sugeno Fuzzy Modling. The control signal, in this case is of type LQR, is based on the results of the state observations on the fuzzy model. | https://github.com/y-hadj/SM-Observer-Based-Control-TS-Fuzzy-Systems | 0 | 0| 
 | 20231027T11:25:37Z | Null | https://github.com/trevorobrien/fuzzy-computing-machine | 0 | 0| 
