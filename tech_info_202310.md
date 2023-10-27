@@ -130,6 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231027T01:23:26Z | Null | https://github.com/T1794584785/fuzzy-umbrella | 0 | 0| 
 | 20231026T23:52:30Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5103 | 548| 
 | 20231026T23:18:38Z | Null | https://github.com/davidprocode/fuzzyble | 0 | 0| 
 | 20231026T22:49:03Z | Null | https://github.com/JoaoVictorFBarros/Inteligencia-Computacional-Atividade-04-Sistema-Fuzzy-Linguistico | 0 | 0| 
@@ -139,7 +140,6 @@
 | 20231026T21:43:43Z | Line follower robot that can avoid obstacles using fuzzy logic | https://github.com/abdullaxahmed/ObstacleFuzzyBot | 0 | 1| 
 | 20231026T21:17:21Z | Null | https://github.com/bbknql/fuzzy-meme | 0 | 0| 
 | 20231026T21:13:42Z | Null | https://github.com/NurgaliGT/fuzzy-broccoli | 0 | 0| 
-| 20231026T21:05:07Z | A simple Proof of Concept project to use a RP2040 chip as a fuzzer for mobile devices | https://github.com/romulofer/MobileFuzzingPOC | 0 | 0| 
 
 
 
