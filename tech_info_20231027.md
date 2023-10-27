@@ -59,6 +59,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231027T09:43:28Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2344 | 639| 
+| 20231027T08:35:53Z | Bachelor%s thesis: developing symbolic execution for Rlang using Chef and S2E | https://github.com/SoptikHa2/bachelors-thesis | 5 | 0| 
 
 
 # big4 on Github 推荐
