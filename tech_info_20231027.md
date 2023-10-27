@@ -71,6 +71,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231027T12:08:08Z | Source codes for the fuzzy regression project. | https://github.com/akbuchowicz/fuzzy_regression | 0 | 0| 
 | 20231027T11:36:40Z | This repository presents the work of a seminar combining Sliding Mode Observation and Takagi-Sugeno Fuzzy Modling. The control signal, in this case is of type LQR, is based on the results of the state observations on the fuzzy model. | https://github.com/y-hadj/SM-Observer-Based-Control-TS-Fuzzy-Systems | 0 | 0| 
 | 20231027T11:25:37Z | Null | https://github.com/trevorobrien/fuzzy-computing-machine | 0 | 0| 
 | 20231027T10:29:12Z | Fuzzer/DirectoryFinder/JustLearning | https://github.com/rddtz/dfc | 0 | 0| 
