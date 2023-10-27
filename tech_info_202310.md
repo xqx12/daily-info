@@ -71,10 +71,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231027T01:49:26Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5443 | 1059| 
 | 20231026T23:44:32Z | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | 3734 | 629| 
 | 20231026T22:40:14Z | This is a exploit with the capability to control ip camera movement even without a username and password. | https://github.com/0xbitx/DEDSEC_PTZ_EXPLOIT | 0 | 0| 
 | 20231026T19:35:07Z | Pentesting is primarily concerned with identifying and exploiting vulnerabilities within a specific target system | https://github.com/kramnoic/red-resources | 0 | 0| 
-| 20231026T15:50:25Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5442 | 1059| 
 | 20231026T12:08:52Z | For the MATLAB example of avoiding robots, we added a custom reward function that allowed agent to explore instead of exploit | https://github.com/beingtalha/RL-ObstacleAvoidanceMobileRobot | 0 | 0| 
 | 20231026T12:05:33Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/test-app-621-Dyf2k-exploit-hope | 0 | 0| 
 | 20231026T11:42:36Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 6014 | 550| 
