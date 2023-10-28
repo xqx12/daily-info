@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231028T01:33:00Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0047-app-34wed-reflect-exploit | 0 | 0| 
 | 20231028T01:32:20Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0007-app-976eA-believe-exploit | 0 | 0| 
 | 20231028T00:56:23Z | Statically Enforce Privacy and Security Policies on Rust code using dataflow analysis enhanced by exploiting ownership types. You can signup for our official release at the link below | https://github.com/brownsys/paralegal | 3 | 1| 
 | 20231028T00:27:16Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-wzlK3-exploit-address | 0 | 0| 
@@ -80,7 +81,6 @@
 | 20231027T23:27:14Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANiu | 1 | 0| 
 | 20231027T23:03:04Z | functions to exploit common web application vulnerabilities such as SQL Injection, Cross-Site Scripting (XSS), Server-Side Request Forgery (SSRF), and Path Traversal. | https://github.com/AiGptCode/Ai-Security-URL | 6 | 1| 
 | 20231027T22:45:50Z | Exploits I use for TRD on Roblox (You need an executor) | https://github.com/AliBeary/My-TRD-Exploits | 0 | 0| 
-| 20231027T22:27:13Z | Null | https://github.com/Cyfrin/sc-exploits-minimized | 2 | 0| 
 
 
 # backdoor on Github 推荐
