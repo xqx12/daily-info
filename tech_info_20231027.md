@@ -55,9 +55,9 @@
 | 20231027T23:03:04Z | functions to exploit common web application vulnerabilities such as SQL Injection, Cross-Site Scripting (XSS), Server-Side Request Forgery (SSRF), and Path Traversal. | https://github.com/AiGptCode/Ai-Security-URL | 6 | 1| 
 | 20231027T22:45:50Z | Exploits I use for TRD on Roblox (You need an executor) | https://github.com/AliBeary/My-TRD-Exploits | 0 | 0| 
 | 20231027T22:27:13Z | Null | https://github.com/Cyfrin/sc-exploits-minimized | 2 | 0| 
+| 20231027T22:05:32Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5448 | 1059| 
 | 20231027T19:22:57Z | You should never use malware to infiltrate a target system. With the skill of writing and exploiting technical codes, you can do the best ways of penetration. This is done in order to test and increase the security of the open sourcecode. | https://github.com/AiGptCode/ANYDESK-BACKDOOR | 6 | 0| 
 | 20231027T12:26:12Z | All in one information gathering tool and exploitation framework... | https://github.com/blackmagic2023/HollowPoint | 0 | 0| 
-| 20231027T12:24:03Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5511 | 709| 
 
 
 # backdoor on Github 推荐
