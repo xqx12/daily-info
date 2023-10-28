@@ -78,9 +78,9 @@
 | 20231028T11:25:10Z | Deployed a Python code to detect phishing site along with machine learning algorithm to exploit characteristics of URL. •Built a Clustering Algorithm using support vector machine and random forest such as, Scikit-learning Yellowbrick. •The heuristic Based detection method shows previously used as well and new URL based features.  | https://github.com/pooja9956/-Heuristic-Based-Phishing-Site-Detection | 0 | 0| 
 | 20231028T09:31:14Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 6022 | 554| 
 | 20231028T09:28:30Z | Null | https://github.com/whoisbel/exploit | 0 | 0| 
+| 20231028T08:51:55Z | Null | https://github.com/Cyfrin/sc-exploits-minimized | 3 | 0| 
 | 20231028T08:41:35Z | Aztub Hub - Open Sourced not leaked by anybody - posted by official aztub in response of byfron/hyperion/v3rmillion shutdown/exploiting community being dead. learn from this source if you truly wish. | https://github.com/StupidProAArsenal/AztubHub_OpenSource | 0 | 0| 
 | 20231028T08:31:38Z |  PassedRoleLambdaExfiltrator: An AWS tool to detect and exploit iam:PassRole with Lambda for privilege escalation. It enumerates vulnerable roles, deploys a function, and sends credentials to an ngrok endpoint. | https://github.com/Y4nush/PassedRoleLambdaExfiltrator | 0 | 0| 
-| 20231028T08:04:47Z | Null | https://github.com/Bugra2426/Exploit-Development | 0 | 0| 
 
 
 # backdoor on Github 推荐
