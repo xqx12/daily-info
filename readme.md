@@ -20,6 +20,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231027T20:42:53Z | CVE-2023-35794 | Repository contains description for CVE-2023-35794 discovered by Dodge Industrial Team for Dodge OPTIFY platfrom. | https://github.com/Dodge-MPTC/CVE-2023-35794-WebSSH-Hijacking | | 
+| 20231027T19:01:35Z | CVE-2023-3519 | Stack-Overflow on Citrix | https://github.com/Mohammaddvd/CVE-2023-3519 | | 
+| 20231027T18:23:22Z | CVE-2023-46747 | F5 BIG-IP unauthenticated remote code execution (RCE) and authentication bypass vulnerability! | https://github.com/r4pG0r/CVE-2023-46747-POC | | 
+| 20231027T18:07:50Z | CVE-2023-5815 | Null | https://github.com/codeb0ss/CVE-2023-5815-PoC | | 
 | 20231027T11:55:14Z | CVE-2021-29441 | Null | https://github.com/xorverbin/-xorverbin-nacos-CVE-2021-29441- | | 
 | 20231027T09:51:13Z | CVE-2023-4966 | Sensitive information disclosure in NetScaler ADC and NetScaler Gateway when configured as a Gateway (VPN virtual server, ICA Proxy, CVPN, RDP Proxy) or AAA virtual server.  | https://github.com/Chocapikk/CVE-2023-4966 | | 
 | 20231027T08:58:28Z | CVE-2022-32548 | Null | https://github.com/MosaedH/CVE-2022-32548-RCE-POC | | 
@@ -30,7 +34,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231027T09:43:28Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2344 | 639| 
+| 20231027T19:22:18Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2345 | 639| 
 
 
 # s2e on Github 推荐
@@ -44,16 +48,25 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231027T23:30:23Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWio | 1 | 0| 
+| 20231027T23:29:39Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANiu | 1 | 0| 
+| 20231027T23:28:28Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANiu | 1 | 0| 
+| 20231027T23:27:14Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANiu | 1 | 0| 
+| 20231027T23:03:04Z | functions to exploit common web application vulnerabilities such as SQL Injection, Cross-Site Scripting (XSS), Server-Side Request Forgery (SSRF), and Path Traversal. | https://github.com/AiGptCode/Ai-Security-URL | 6 | 1| 
+| 20231027T22:45:50Z | Exploits I use for TRD on Roblox (You need an executor) | https://github.com/AliBeary/My-TRD-Exploits | 0 | 0| 
+| 20231027T22:27:13Z | Null | https://github.com/Cyfrin/sc-exploits-minimized | 2 | 0| 
+| 20231027T19:22:57Z | You should never use malware to infiltrate a target system. With the skill of writing and exploiting technical codes, you can do the best ways of penetration. This is done in order to test and increase the security of the open sourcecode. | https://github.com/AiGptCode/ANYDESK-BACKDOOR | 6 | 0| 
 | 20231027T12:26:12Z | All in one information gathering tool and exploitation framework... | https://github.com/blackmagic2023/HollowPoint | 0 | 0| 
 | 20231027T12:24:03Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5511 | 709| 
-| 20231027T11:52:03Z | Null | https://github.com/alpha-roman/cisa_gov_known_exploited_vulnerabilities_mirror | 0 | 0| 
-| 20231027T07:37:08Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5446 | 1059| 
-| 20231027T01:43:14Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 1005 | 102| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231027T21:56:17Z | Null | https://github.com/fangtian-zhong/backdoor | 0 | 0| 
+| 20231027T19:23:29Z | Null | https://github.com/IHA114/ANYDESK-BACKDOOR | 0 | 0| 
+| 20231027T19:22:57Z | You should never use malware to infiltrate a target system. With the skill of writing and exploiting technical codes, you can do the best ways of penetration. This is done in order to test and increase the security of the open sourcecode. | https://github.com/AiGptCode/ANYDESK-BACKDOOR | 6 | 0| 
+| 20231027T15:19:42Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 2 | 0| 
 | 20231027T06:56:51Z | Null | https://github.com/angelo1104/backdoor-website | 0 | 0| 
 
 
@@ -72,16 +85,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231027T20:07:02Z | Null | https://github.com/Waritnon/Fuzzy-homework2 | 0 | 0| 
+| 20231027T16:58:22Z | Null | https://github.com/ak-2485/NumFuzz | 0 | 0| 
+| 20231027T15:37:38Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5105 | 548| 
 | 20231027T12:29:15Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST, GraphQL and RPC (e.g., gRPC and Thrift). | https://github.com/EMResearch/EvoMaster | 376 | 68| 
 | 20231027T12:11:56Z | Source codes for the fuzzy regression project. | https://github.com/akbuchowicz/fuzzy_regression | 0 | 0| 
 | 20231027T11:36:40Z | This repository presents the work of a seminar combining Sliding Mode Observation and Takagi-Sugeno Fuzzy Modling. The control signal, in this case is of type LQR, is based on the results of the state observations on the fuzzy model. | https://github.com/y-hadj/SM-Observer-Based-Control-TS-Fuzzy-Systems | 0 | 0| 
 | 20231027T11:25:37Z | Null | https://github.com/trevorobrien/fuzzy-computing-machine | 0 | 0| 
 | 20231027T10:29:12Z | Fuzzer/DirectoryFinder/JustLearning | https://github.com/rddtz/dfc | 0 | 0| 
+| 20231027T09:32:45Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 320 | 47| 
 | 20231027T09:03:07Z | Null | https://github.com/chazwina/floodpredictor_fuzzy | 0 | 0| 
-| 20231027T08:59:43Z | Extract audio from youtube video  | https://github.com/Maphikza/fuzzy-meme | 0 | 0| 
-| 20231027T04:44:21Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5104 | 548| 
-| 20231027T02:56:08Z | Fuzzer built in python with support for XML,CSV,JSON,JPG,ELF,PDF with basic coverage based strategies. | https://github.com/joker4653/FuzzPyCrunch | 0 | 0| 
-| 20231027T01:23:26Z | Null | https://github.com/T1794584785/fuzzy-umbrella | 0 | 0| 
 
 
 
