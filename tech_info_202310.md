@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231028T00:56:23Z | Statically Enforce Privacy and Security Policies on Rust code using dataflow analysis enhanced by exploiting ownership types. You can signup for our official release at the link below | https://github.com/brownsys/paralegal | 3 | 1| 
 | 20231028T00:27:16Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-wzlK3-exploit-address | 0 | 0| 
 | 20231027T23:30:23Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWio | 1 | 0| 
 | 20231027T23:29:39Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANiu | 1 | 0| 
@@ -80,7 +81,6 @@
 | 20231027T22:45:50Z | Exploits I use for TRD on Roblox (You need an executor) | https://github.com/AliBeary/My-TRD-Exploits | 0 | 0| 
 | 20231027T22:27:13Z | Null | https://github.com/Cyfrin/sc-exploits-minimized | 2 | 0| 
 | 20231027T22:05:32Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5448 | 1059| 
-| 20231027T19:22:57Z | You should never use malware to infiltrate a target system. With the skill of writing and exploiting technical codes, you can do the best ways of penetration. This is done in order to test and increase the security of the open sourcecode. | https://github.com/AiGptCode/ANYDESK-BACKDOOR | 6 | 0| 
 
 
 # backdoor on Github 推荐
