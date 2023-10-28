@@ -101,7 +101,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231027T09:43:28Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2344 | 639| 
+| 20231027T22:59:23Z | Symbolic execution of LLVM IR with an engine written in Rust | https://github.com/PLSysSec/haybale | 458 | 22| 
+| 20231027T19:22:18Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2345 | 639| 
 | 20231027T08:35:53Z | Bachelor%s thesis: developing symbolic execution for Rlang using Chef and S2E | https://github.com/SoptikHa2/bachelors-thesis | 5 | 0| 
 | 20231026T17:54:42Z | Resource compilation, experiments, and tests on Symbolic Execution, Type Inference and Property-Guided Testing of python programs | https://github.com/karthik-d/type-inference-tools-playground | 0 | 0| 
 | 20231026T13:14:22Z | Unicorn: Symbolic Execution, Bounded Model Checking, and Code Optimization of RISC-V Code using Classical Solvers and Quantum Computers | https://github.com/cksystemsgroup/unicorn | 18 | 8| 
@@ -110,7 +111,6 @@
 | 20231024T03:03:06Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 64 | 9| 
 | 20231023T11:08:06Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 696 | 123| 
 | 20231023T08:19:59Z | Null | https://github.com/Dragos0305/Symbolic-Execution-Malware-Analysis | 0 | 0| 
-| 20231018T12:37:11Z | Automatic %bomblab% solver with symbolic executions. | https://github.com/Aplace0927/qwoqLab | 0 | 0| 
 
 
 # big4 on Github 推荐
