@@ -11,6 +11,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20231028 | 2024年DISA网络安全方向预算概览 | https://mp.weixin.qq.com/s/6pogpM86KUZm_iX5KESd-g| 
 | 20231027 | 如何更好的使用 LLMs | https://mp.weixin.qq.com/s/2dwnwQGsqKWZQX8gEUV0Sw| 
 | 20231027 | 浅谈常规渗透瓶颈，实例发散思维突破 | https://mp.weixin.qq.com/s/TGb9o4jmvGF5mFhGa9gepw| 
 | 20231027 | How Kaspersky obtained all stages of Operation Triangulati... | https://securelist.com/operation-triangulation-catching-wild-triangle/110916/| 
@@ -20,28 +21,27 @@
 | 20231025 | 陆军24项关键技术计划盘点之3：网络与GPS | https://mp.weixin.qq.com/s/BQPqP0YQX4Li6-dtg4-aVQ| 
 | 20231025 | .net反序列化的新利用 | https://mp.weixin.qq.com/s/95LC8QbX0gpJWJP4swFPMw| 
 | 20231025 | 漏洞管理实践 | https://mp.weixin.qq.com/s/IwR3MR9AsMezEAE95QiuBA| 
-| 20231025 | 机载系统的智能架构及功能分析 | https://mp.weixin.qq.com/s/NviHjW9P7T1QZtcKbck2rQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231028T11:58:02Z | CVE-2023-36745 | Null | https://github.com/N1k0la-T/CVE-2023-36745 | | 
+| 20231028T10:20:20Z | CVE-2021-21300 | Null | https://github.com/Saboor-Hakimi-23/CVE-2021-21300 | | 
+| 20231028T07:49:52Z | CVE-2023-29552 | CVE-2023-29552 - Service Location Protocol Vulnerability | https://github.com/0xKayala/CVE-2023-29552 | | 
+| 20231028T07:30:56Z | CVE-2023-33246 | CVE-2023-33246 - Apache RocketMQ config RCE | https://github.com/0xKayala/CVE-2023-33246 | | 
+| 20231028T06:02:58Z | CVE-2023-4966 | CVE-2023-4966 - NetScaler ADC and NetScaler Gateway Memory Leak Exploit | https://github.com/0xKayala/CVE-2023-4966 | | 
 | 20231027T20:42:53Z | CVE-2023-35794 | Repository contains description for CVE-2023-35794 discovered by Dodge Industrial Team for Dodge OPTIFY platfrom. | https://github.com/Dodge-MPTC/CVE-2023-35794-WebSSH-Hijacking | | 
 | 20231027T19:01:35Z | CVE-2023-3519 | Stack-Overflow on Citrix | https://github.com/Mohammaddvd/CVE-2023-3519 | | 
 | 20231027T18:23:22Z | CVE-2023-46747 | F5 BIG-IP unauthenticated remote code execution (RCE) and authentication bypass vulnerability! | https://github.com/r4pG0r/CVE-2023-46747-POC | | 
 | 20231027T18:07:50Z | CVE-2023-5815 | Null | https://github.com/codeb0ss/CVE-2023-5815-PoC | | 
 | 20231027T11:55:14Z | CVE-2021-29441 | Null | https://github.com/xorverbin/-xorverbin-nacos-CVE-2021-29441- | | 
-| 20231027T09:51:13Z | CVE-2023-4966 | Sensitive information disclosure in NetScaler ADC and NetScaler Gateway when configured as a Gateway (VPN virtual server, ICA Proxy, CVPN, RDP Proxy) or AAA virtual server.  | https://github.com/Chocapikk/CVE-2023-4966 | | 
-| 20231027T08:58:28Z | CVE-2022-32548 | Null | https://github.com/MosaedH/CVE-2022-32548-RCE-POC | | 
-| 20231027T07:36:41Z | CVE-2023-22515 | CVE-2023-22515 | https://github.com/C1ph3rX13/CVE-2023-22515 | | 
-| 20231027T00:47:02Z | cve-2023-36802 | Exploit for CVE-2023-36802 targeting MSKSSRV.SYS driver | https://github.com/Nero22k/cve-2023-36802 | | 
-| 20231026T15:14:58Z | CVE-2023-21097 | Null | https://github.com/uthrasri/frameworks_base_AOSP10_r33_CVE-2023-21097 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231027T19:22:18Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2345 | 639| 
+| 20231028T04:51:37Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2346 | 639| 
 | 20231025T09:30:37Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14125 | 426| 
 | 20231025T09:18:06Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 372 | 8| 
 | 20231025T08:59:37Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 50 | 0| 
@@ -56,9 +56,9 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231028T02:53:15Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 360 | 82| 
 | 20231027T09:10:59Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 37 | 15| 
 | 20231027T08:35:53Z | Bachelor%s thesis: developing symbolic execution for Rlang using Chef and S2E | https://github.com/SoptikHa2/bachelors-thesis | 5 | 0| 
-| 20231027T00:18:59Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 359 | 82| 
 | 20231019T12:15:58Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 89 | 51| 
 | 20231017T21:27:01Z | An example of S2E user side repository | https://github.com/ut-issl/s2e-user-example | 1 | 0| 
 | 20231013T06:24:13Z | An example of user settings repository for s2e-aobc | https://github.com/ut-issl/s2e-aobc-example | 1 | 0| 
@@ -71,16 +71,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231028T11:59:06Z | Wii U DNS exploit | https://github.com/GaryOderNichts/DNSpresso | 6 | 0| 
+| 20231028T11:50:21Z | Parse citrix netscaler logs to check for signs of CVE-2023-4966 exploitation | https://github.com/certat/citrix-logchecker | 0 | 0| 
+| 20231028T11:25:10Z | Deployed a Python code to detect phishing site along with machine learning algorithm to exploit characteristics of URL. •Built a Clustering Algorithm using support vector machine and random forest such as, Scikit-learning Yellowbrick. •The heuristic Based detection method shows previously used as well and new URL based features.  | https://github.com/pooja9956/-Heuristic-Based-Phishing-Site-Detection | 0 | 0| 
+| 20231028T09:31:14Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 6022 | 554| 
+| 20231028T09:28:30Z | Null | https://github.com/whoisbel/exploit | 0 | 0| 
+| 20231028T08:41:35Z | Aztub Hub - Open Sourced not leaked by anybody - posted by official aztub in response of byfron/hyperion/v3rmillion shutdown/exploiting community being dead. learn from this source if you truly wish. | https://github.com/StupidProAArsenal/AztubHub_OpenSource | 0 | 0| 
+| 20231028T08:31:38Z |  PassedRoleLambdaExfiltrator: An AWS tool to detect and exploit iam:PassRole with Lambda for privilege escalation. It enumerates vulnerable roles, deploys a function, and sends credentials to an ngrok endpoint. | https://github.com/Y4nush/PassedRoleLambdaExfiltrator | 0 | 0| 
+| 20231028T08:04:47Z | Null | https://github.com/Bugra2426/Exploit-Development | 0 | 0| 
 | 20231028T01:46:19Z | Supplementary codes for the Neurips 2023 paper: Exploiting Connections between Lipschitz Structures for Certifiably Robust Deep Equilibrium Models  | https://github.com/AaronHavens/ExploitingLipschitzDEQ | 0 | 0| 
 | 20231028T01:33:00Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0047-app-34wed-reflect-exploit | 0 | 0| 
-| 20231028T01:32:20Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0007-app-976eA-believe-exploit | 0 | 0| 
-| 20231028T00:56:23Z | Statically Enforce Privacy and Security Policies on Rust code using dataflow analysis enhanced by exploiting ownership types. You can signup for our official release at the link below | https://github.com/brownsys/paralegal | 3 | 1| 
-| 20231028T00:27:16Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-wzlK3-exploit-address | 0 | 0| 
-| 20231027T23:30:23Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWio | 1 | 0| 
-| 20231027T23:29:39Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANiu | 1 | 0| 
-| 20231027T23:28:28Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANiu | 1 | 0| 
-| 20231027T23:27:14Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANiu | 1 | 0| 
-| 20231027T23:03:04Z | functions to exploit common web application vulnerabilities such as SQL Injection, Cross-Site Scripting (XSS), Server-Side Request Forgery (SSRF), and Path Traversal. | https://github.com/AiGptCode/Ai-Security-URL | 6 | 1| 
 
 
 # backdoor on Github 推荐
@@ -130,16 +130,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231028T11:05:01Z | This is a script to automate the running of afl-tmin on each testcase. I am quite surprised that this tool does not come with afl-fuzz. | https://github.com/personnumber3377/tminscript | 0 | 0| 
+| 20231028T08:28:02Z | Null | https://github.com/Beccabitch80/fuzzy-spoon | 0 | 0| 
+| 20231028T07:51:46Z |  A lightweight and efficient Python-based subdomain and directory fuzzer | https://github.com/theinit01/PyFuzz | 2 | 4| 
 | 20231028T01:21:01Z | Null | https://github.com/bookworm109/Functionally-Fuzzy | 0 | 0| 
 | 20231028T01:14:23Z | Null | https://github.com/chimpsltda/clima_fuzzy | 0 | 0| 
 | 20231027T20:07:02Z | Null | https://github.com/Waritnon/Fuzzy-homework2 | 0 | 0| 
+| 20231027T17:51:29Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 4238 | 505| 
 | 20231027T16:58:22Z | Null | https://github.com/ak-2485/NumFuzz | 0 | 0| 
 | 20231027T15:37:38Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5105 | 548| 
 | 20231027T12:29:15Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST, GraphQL and RPC (e.g., gRPC and Thrift). | https://github.com/EMResearch/EvoMaster | 376 | 68| 
-| 20231027T12:11:56Z | Source codes for the fuzzy regression project. | https://github.com/akbuchowicz/fuzzy_regression | 0 | 0| 
-| 20231027T11:36:40Z | This repository presents the work of a seminar combining Sliding Mode Observation and Takagi-Sugeno Fuzzy Modling. The control signal, in this case is of type LQR, is based on the results of the state observations on the fuzzy model. | https://github.com/y-hadj/SM-Observer-Based-Control-TS-Fuzzy-Systems | 0 | 0| 
-| 20231027T11:25:37Z | Null | https://github.com/trevorobrien/fuzzy-computing-machine | 0 | 0| 
-| 20231027T10:29:12Z | Fuzzer/DirectoryFinder/JustLearning | https://github.com/rddtz/dfc | 0 | 0| 
 
 
 
