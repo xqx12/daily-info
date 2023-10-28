@@ -39,6 +39,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231028T12:08:05Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5522 | 709| 
 | 20231028T11:59:06Z | Wii U DNS exploit | https://github.com/GaryOderNichts/DNSpresso | 6 | 0| 
 | 20231028T11:50:21Z | Parse citrix netscaler logs to check for signs of CVE-2023-4966 exploitation | https://github.com/certat/citrix-logchecker | 0 | 0| 
 | 20231028T11:25:10Z | Deployed a Python code to detect phishing site along with machine learning algorithm to exploit characteristics of URL. •Built a Clustering Algorithm using support vector machine and random forest such as, Scikit-learning Yellowbrick. •The heuristic Based detection method shows previously used as well and new URL based features.  | https://github.com/pooja9956/-Heuristic-Based-Phishing-Site-Detection | 0 | 0| 
@@ -48,7 +49,6 @@
 | 20231028T08:31:38Z |  PassedRoleLambdaExfiltrator: An AWS tool to detect and exploit iam:PassRole with Lambda for privilege escalation. It enumerates vulnerable roles, deploys a function, and sends credentials to an ngrok endpoint. | https://github.com/Y4nush/PassedRoleLambdaExfiltrator | 0 | 0| 
 | 20231028T08:04:47Z | Null | https://github.com/Bugra2426/Exploit-Development | 0 | 0| 
 | 20231028T01:46:19Z | Supplementary codes for the Neurips 2023 paper: Exploiting Connections between Lipschitz Structures for Certifiably Robust Deep Equilibrium Models  | https://github.com/AaronHavens/ExploitingLipschitzDEQ | 0 | 0| 
-| 20231028T01:33:00Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0047-app-34wed-reflect-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
