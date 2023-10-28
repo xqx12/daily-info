@@ -71,7 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231028T12:18:08Z | Wii U DNS exploit | https://github.com/GaryOderNichts/DNSpresso | 7 | 0| 
+| 20231028T12:25:08Z | Wii U DNS exploit | https://github.com/GaryOderNichts/DNSpresso | 8 | 0| 
 | 20231028T12:08:05Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5522 | 709| 
 | 20231028T11:50:21Z | Parse citrix netscaler logs to check for signs of CVE-2023-4966 exploitation | https://github.com/certat/citrix-logchecker | 0 | 0| 
 | 20231028T11:25:10Z | Deployed a Python code to detect phishing site along with machine learning algorithm to exploit characteristics of URL. •Built a Clustering Algorithm using support vector machine and random forest such as, Scikit-learning Yellowbrick. •The heuristic Based detection method shows previously used as well and new URL based features.  | https://github.com/pooja9956/-Heuristic-Based-Phishing-Site-Detection | 0 | 0| 
