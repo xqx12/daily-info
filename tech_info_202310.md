@@ -130,6 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231028T01:14:23Z | Null | https://github.com/chimpsltda/clima_fuzzy | 0 | 0| 
 | 20231027T20:07:02Z | Null | https://github.com/Waritnon/Fuzzy-homework2 | 0 | 0| 
 | 20231027T16:58:22Z | Null | https://github.com/ak-2485/NumFuzz | 0 | 0| 
 | 20231027T15:37:38Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5105 | 548| 
@@ -139,7 +140,6 @@
 | 20231027T11:25:37Z | Null | https://github.com/trevorobrien/fuzzy-computing-machine | 0 | 0| 
 | 20231027T10:29:12Z | Fuzzer/DirectoryFinder/JustLearning | https://github.com/rddtz/dfc | 0 | 0| 
 | 20231027T09:32:45Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 320 | 47| 
-| 20231027T09:03:07Z | Null | https://github.com/chazwina/floodpredictor_fuzzy | 0 | 0| 
 
 
 
