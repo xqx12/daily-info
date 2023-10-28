@@ -86,38 +86,38 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231028T09:45:26Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 3 | 0| 
+| 20231028T07:14:34Z | Robust Contrastive Language-Image Pretraining against Data Poisoning and Backdoor Attacks | https://github.com/BigML-CS-UCLA/RoCLIP | 0 | 0| 
+| 20231028T02:24:44Z | PointCRT: Detecting Backdoor in 3D Point Cloud via Corruption Robustness (MM %23) | https://github.com/CGCL-codes/PointCRT | 0 | 0| 
 | 20231027T21:56:17Z | Null | https://github.com/fangtian-zhong/backdoor | 0 | 0| 
 | 20231027T19:23:29Z | Null | https://github.com/IHA114/ANYDESK-BACKDOOR | 0 | 0| 
 | 20231027T19:22:57Z | You should never use malware to infiltrate a target system. With the skill of writing and exploiting technical codes, you can do the best ways of penetration. This is done in order to test and increase the security of the open sourcecode. | https://github.com/AiGptCode/ANYDESK-BACKDOOR | 6 | 0| 
-| 20231027T15:19:42Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 2 | 0| 
 | 20231027T06:56:51Z | Null | https://github.com/angelo1104/backdoor-website | 0 | 0| 
 | 20231026T18:49:44Z | Null | https://github.com/angelo1104/new-backdoor-server | 0 | 0| 
 | 20231026T18:00:55Z | Digital Forensics and Incident Response (DFIR) | https://github.com/RENANZG/My-Forensics | 60 | 9| 
 | 20231026T16:58:51Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 217 | 24| 
-| 20231026T15:59:09Z | 🐀 Simple backdoor that relies on TCP to send and receive commands. | https://github.com/ISROHarsh/Go-backdoor | 0 | 0| 
-| 20231026T11:45:02Z | Null | https://github.com/HackerMrTon/BackDoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231028T09:14:15Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 697 | 123| 
+| 20231028T04:51:37Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2346 | 639| 
 | 20231027T22:59:23Z | Symbolic execution of LLVM IR with an engine written in Rust | https://github.com/PLSysSec/haybale | 458 | 22| 
-| 20231027T19:22:18Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2345 | 639| 
 | 20231027T08:35:53Z | Bachelor%s thesis: developing symbolic execution for Rlang using Chef and S2E | https://github.com/SoptikHa2/bachelors-thesis | 5 | 0| 
 | 20231026T17:54:42Z | Resource compilation, experiments, and tests on Symbolic Execution, Type Inference and Property-Guided Testing of python programs | https://github.com/karthik-d/type-inference-tools-playground | 0 | 0| 
 | 20231026T13:14:22Z | Unicorn: Symbolic Execution, Bounded Model Checking, and Code Optimization of RISC-V Code using Classical Solvers and Quantum Computers | https://github.com/cksystemsgroup/unicorn | 18 | 8| 
 | 20231025T14:56:19Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 66 | 28| 
 | 20231024T18:48:58Z | Bottom-up memory-safety for assembly language using symbolic execution | https://github.com/scaspin/memory-safe-assembly | 8 | 0| 
 | 20231024T03:03:06Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 64 | 9| 
-| 20231023T11:08:06Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 696 | 123| 
 | 20231023T08:19:59Z | Null | https://github.com/Dragos0305/Symbolic-Execution-Malware-Analysis | 0 | 0| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231028T09:33:15Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 85 | 4| 
 | 20231024T15:16:40Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 24 | 2| 
-| 20231022T08:52:24Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 84 | 4| 
 | 20231022T02:51:07Z | Source code for our NDSS%18 paper %Automated Website Fingerprinting through Deep Learning% | https://github.com/DistriNet/DLWF | 82 | 39| 
 | 20231021T12:40:22Z | Implementation of the NDSS%24 paper %SigmaDiff: Semantics-Aware Deep Graph Matching for Pseudocode Diffing% | https://github.com/yijiufly/SigmaDiff | 5 | 1| 
 | 20231019T06:03:54Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 30 | 6| 

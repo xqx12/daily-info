@@ -54,16 +54,22 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231028T09:45:26Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 3 | 0| 
+| 20231028T07:14:34Z | Robust Contrastive Language-Image Pretraining against Data Poisoning and Backdoor Attacks | https://github.com/BigML-CS-UCLA/RoCLIP | 0 | 0| 
+| 20231028T02:24:44Z | PointCRT: Detecting Backdoor in 3D Point Cloud via Corruption Robustness (MM %23) | https://github.com/CGCL-codes/PointCRT | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231028T09:14:15Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 697 | 123| 
+| 20231028T04:51:37Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2346 | 639| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231028T09:33:15Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 85 | 4| 
 
 
 # fuzz on Github 推荐
