@@ -130,6 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231028T12:46:52Z | Null | https://github.com/Kamronbekprogramer/fuzzy-fishstick | 0 | 0| 
 | 20231028T11:05:01Z | This is a script to automate the running of afl-tmin on each testcase. I am quite surprised that this tool does not come with afl-fuzz. | https://github.com/personnumber3377/tminscript | 0 | 0| 
 | 20231028T08:28:02Z | Null | https://github.com/Beccabitch80/fuzzy-spoon | 0 | 0| 
 | 20231028T07:51:46Z |  A lightweight and efficient Python-based subdomain and directory fuzzer | https://github.com/theinit01/PyFuzz | 2 | 4| 
@@ -139,7 +140,6 @@
 | 20231027T17:51:29Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 4238 | 505| 
 | 20231027T16:58:22Z | Null | https://github.com/ak-2485/NumFuzz | 0 | 0| 
 | 20231027T15:37:38Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5105 | 548| 
-| 20231027T12:29:15Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST, GraphQL and RPC (e.g., gRPC and Thrift). | https://github.com/EMResearch/EvoMaster | 376 | 68| 
 
 
 

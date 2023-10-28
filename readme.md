@@ -75,6 +75,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231028T12:46:52Z | Null | https://github.com/Kamronbekprogramer/fuzzy-fishstick | 0 | 0| 
 | 20231028T11:05:01Z | This is a script to automate the running of afl-tmin on each testcase. I am quite surprised that this tool does not come with afl-fuzz. | https://github.com/personnumber3377/tminscript | 0 | 0| 
 | 20231028T08:28:02Z | Null | https://github.com/Beccabitch80/fuzzy-spoon | 0 | 0| 
 | 20231028T07:51:46Z |  A lightweight and efficient Python-based subdomain and directory fuzzer | https://github.com/theinit01/PyFuzz | 2 | 4| 
