@@ -54,6 +54,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231028T12:59:33Z | Educational backdoor implementation for cybersecurity lab. Explore basic file transfer, command execution, and more. Responsible use only. | https://github.com/Uche360/Cybersecurity-Lab-Backdoor | 0 | 0| 
 | 20231028T09:45:26Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 3 | 0| 
 | 20231028T07:14:34Z | Robust Contrastive Language-Image Pretraining against Data Poisoning and Backdoor Attacks | https://github.com/BigML-CS-UCLA/RoCLIP | 0 | 0| 
 | 20231028T02:24:44Z | PointCRT: Detecting Backdoor in 3D Point Cloud via Corruption Robustness (MM %23) | https://github.com/CGCL-codes/PointCRT | 0 | 0| 
