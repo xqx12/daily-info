@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231029T01:57:53Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0098-app-fBbW6-rise-exploit | 0 | 0| 
 | 20231028T23:52:16Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWy | 1 | 0| 
 | 20231028T23:51:31Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANys | 1 | 0| 
 | 20231028T23:50:54Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANys | 1 | 0| 
@@ -80,7 +81,6 @@
 | 20231028T17:06:49Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 747 | 180| 
 | 20231028T12:57:07Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5523 | 709| 
 | 20231028T12:38:35Z | Wii U DNS exploit | https://github.com/GaryOderNichts/DNSpresso | 9 | 0| 
-| 20231028T12:26:39Z | SpringFramework综合检测工具 | https://github.com/Enptyscene/SpringNeutralizationExploitTools | 0 | 0| 
 
 
 # backdoor on Github 推荐
