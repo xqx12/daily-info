@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231029T12:46:15Z | Null | https://github.com/EITSxiaozhai/Exploit_blog | 0 | 0| 
 | 20231029T11:19:39Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5585 | 715| 
 | 20231029T11:00:40Z | SecureCode1-VulnHub-Exploit | https://github.com/meshari10/SecureCode1-VulnHub-Exploit | 0 | 0| 
 | 20231029T10:20:05Z | Null | https://github.com/TopPlayzYT/HexaExploits | 0 | 0| 
@@ -80,7 +81,6 @@
 | 20231029T06:25:31Z | Command Line for Windows PCs (Using Powershell) | https://github.com/classl-ink/xcmd | 0 | 0| 
 | 20231029T03:51:07Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 6025 | 556| 
 | 20231029T01:57:53Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0098-app-fBbW6-rise-exploit | 0 | 0| 
-| 20231029T01:35:33Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 748 | 180| 
 
 
 # backdoor on Github 推荐
