@@ -77,7 +77,7 @@
 | 20231029T09:49:46Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6083 | 801| 
 | 20231029T09:26:29Z | RCE Exploit For Maltrail-v0.53 | https://github.com/spookier/Maltrail-v0.53-Exploit | 10 | 2| 
 | 20231029T06:25:31Z | Command Line for Windows PCs (Using Powershell) | https://github.com/classl-ink/xcmd | 0 | 0| 
-| 20231029T03:51:07Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 6025 | 555| 
+| 20231029T03:51:07Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 6025 | 556| 
 | 20231029T01:57:53Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0098-app-fBbW6-rise-exploit | 0 | 0| 
 | 20231029T01:35:33Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 748 | 180| 
 | 20231028T23:52:16Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWy | 1 | 0| 
@@ -86,6 +86,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231029T12:03:27Z | Fast integration of backdoor attacks in machine learning and federated learning. | https://github.com/mtuann/fedlearn-backdoor-attacks | 1 | 0| 
 | 20231029T10:00:21Z | Null | https://github.com/akankshar05/ml_model_backdoor | 0 | 0| 
 | 20231029T08:29:51Z | A Roblox utility to scan backdoor(s). | https://github.com/jLn0n/beckdeer-skenner | 2 | 1| 
 | 20231029T04:39:46Z | Null | https://github.com/lixi1994/backdoor_FM_FL | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20231028T13:02:58Z | Educational backdoor implementation for cybersecurity lab. Explore basic file transfer, command execution, and more. Responsible use only. | https://github.com/Uche360/Cybersecurity-Lab-Backdoor | 0 | 0| 
 | 20231028T09:45:26Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 3 | 0| 
 | 20231028T07:14:34Z | Robust Contrastive Language-Image Pretraining against Data Poisoning and Backdoor Attacks | https://github.com/BigML-CS-UCLA/RoCLIP | 0 | 0| 
-| 20231028T02:24:44Z | PointCRT: Detecting Backdoor in 3D Point Cloud via Corruption Robustness (MM %23) | https://github.com/CGCL-codes/PointCRT | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
