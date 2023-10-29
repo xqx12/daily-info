@@ -74,13 +74,13 @@
 | 20231029T11:19:39Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5585 | 715| 
 | 20231029T11:00:40Z | SecureCode1-VulnHub-Exploit | https://github.com/meshari10/SecureCode1-VulnHub-Exploit | 0 | 0| 
 | 20231029T10:20:05Z | Null | https://github.com/TopPlayzYT/HexaExploits | 0 | 0| 
+| 20231029T09:59:41Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5450 | 1059| 
 | 20231029T09:49:46Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6083 | 801| 
 | 20231029T09:26:29Z | RCE Exploit For Maltrail-v0.53 | https://github.com/spookier/Maltrail-v0.53-Exploit | 10 | 2| 
 | 20231029T06:25:31Z | Command Line for Windows PCs (Using Powershell) | https://github.com/classl-ink/xcmd | 0 | 0| 
 | 20231029T03:51:07Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 6025 | 556| 
 | 20231029T01:57:53Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0098-app-fBbW6-rise-exploit | 0 | 0| 
 | 20231029T01:35:33Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 748 | 180| 
-| 20231028T23:52:16Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWy | 1 | 0| 
 
 
 # backdoor on Github 推荐

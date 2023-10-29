@@ -39,6 +39,7 @@
 | 20231029T11:19:39Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5585 | 715| 
 | 20231029T11:00:40Z | SecureCode1-VulnHub-Exploit | https://github.com/meshari10/SecureCode1-VulnHub-Exploit | 0 | 0| 
 | 20231029T10:20:05Z | Null | https://github.com/TopPlayzYT/HexaExploits | 0 | 0| 
+| 20231029T09:59:41Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5450 | 1059| 
 | 20231029T09:49:46Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6083 | 801| 
 | 20231029T09:26:29Z | RCE Exploit For Maltrail-v0.53 | https://github.com/spookier/Maltrail-v0.53-Exploit | 10 | 2| 
 | 20231029T06:25:31Z | Command Line for Windows PCs (Using Powershell) | https://github.com/classl-ink/xcmd | 0 | 0| 
