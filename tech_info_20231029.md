@@ -16,6 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231029T12:05:37Z | CVE-2023-4911 | Proof of concept for CVE-2023-4911 (Looney Tunables) discovered by Qualys Threat Research Unit  | https://github.com/Diego-AltF4/CVE-2023-4911 | | 
 | 20231029T08:32:47Z | CVE-2023-36745 | Null | https://github.com/N1k0la-T/CVE-2023-36745 | | 
 | 20231029T05:50:47Z | CVE-2021-42342 | Null | https://github.com/ijh4723/-zeroboo-Gohead-CVE-2021-42342-1 | | 
 

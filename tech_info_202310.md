@@ -26,9 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231029T12:05:37Z | CVE-2023-4911 | Proof of concept for CVE-2023-4911 (Looney Tunables) discovered by Qualys Threat Research Unit  | https://github.com/Diego-AltF4/CVE-2023-4911 | | 
 | 20231029T08:32:47Z | CVE-2023-36745 | Null | https://github.com/N1k0la-T/CVE-2023-36745 | | 
 | 20231029T05:50:47Z | CVE-2021-42342 | Null | https://github.com/ijh4723/-zeroboo-Gohead-CVE-2021-42342-1 | | 
-| 20231028T23:55:24Z | CVE-2023-4911 | Proof of concept for CVE-2023-4911(Looney Tunables) discovered by Qualys Threat Research Unit  | https://github.com/Diego-AltF4/CVE-2023-4911 | | 
 | 20231028T21:55:49Z | CVE-2022-22963 | This is a POC for CVE-2022-22963  | https://github.com/BearClaw96/CVE-2022-22963-Poc-Bearcules | | 
 | 20231028T17:45:41Z | CVE-2023-391 | Null | https://github.com/ayhan-dev/CVE-2023-391 | | 
 | 20231028T17:17:26Z | CVE-2022-32548 | Null | https://github.com/MosaedH/CVE-2022-32548-RCE-POC | | 
