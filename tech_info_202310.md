@@ -71,11 +71,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231030T01:27:43Z | Office Macro Exploit Builder 🚀 Opensource & Free Excel Word Macro Exploit Builder - Oneclick Silent Macro Exploit Docx Excel Word Pdf Macro Exploit Xls Word Macro Exploit Excel Macro Exploit Oneclick Silent Macro Exploit Docx Excel Word Pdf Macro Exploit Xls Word Macro Exploit Excel Macro Exploit | https://github.com/adazca/doc-macro-exploit | 1 | 254| 
 | 20231030T01:08:58Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5451 | 1059| 
 | 20231030T00:59:06Z | Null | https://github.com/Cyfrin/sc-exploits-minimized | 7 | 0| 
 | 20231030T00:46:02Z | Python Exploitation is a collection of special tools for providing high quality penetration testing using pure python programming language. | https://github.com/EntySec/Pex | 22 | 4| 
 | 20231030T00:24:00Z | GitOps Repository | https://github.com/redhat-appstudio-qe/rsenvapp-qgvNJ-step-exploit | 0 | 0| 
-| 20231030T00:12:00Z | Office Macro Exploit Builder 🚀 Opensource & Free Excel Word Macro Exploit Builder - Oneclick Silent Macro Exploit Docx Excel Word Pdf Macro Exploit Xls Word Macro Exploit Excel Macro Exploit Oneclick Silent Macro Exploit Docx Excel Word Pdf Macro Exploit Xls Word Macro Exploit Excel Macro Exploit | https://github.com/adazca/doc-macro-exploit | 0 | 254| 
 | 20231029T23:34:57Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWtr | 1 | 0| 
 | 20231029T23:33:46Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANtr | 1 | 0| 
 | 20231029T23:32:54Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANtr | 1 | 0| 
