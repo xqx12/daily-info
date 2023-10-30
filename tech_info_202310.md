@@ -26,7 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231029T12:05:37Z | CVE-2023-4911 | Proof of concept for CVE-2023-4911 (Looney Tunables) discovered by Qualys Threat Research Unit  | https://github.com/Diego-AltF4/CVE-2023-4911 | | 
+| 20231029T17:31:49Z | cve-2022-31692 | Demonstration of CVE-2022-31692 authorization bypass in Spring Security | https://github.com/hotblac/cve-2022-31692 | | 
+| 20231029T16:57:23Z | CVE-2023-4911 | Proof of concept for CVE-2023-4911 (Looney Tunables) discovered by Qualys Threat Research Unit  | https://github.com/Diego-AltF4/CVE-2023-4911 | | 
+| 20231029T15:39:17Z | CVE-2023-4966 | An Exploitation script developed to exploit the CVE-2023-4966 bleed citrix information disclosure vulnerability | https://github.com/sanjai-AK47/CVE-2023-4966 | | 
 | 20231029T08:32:47Z | CVE-2023-36745 | Null | https://github.com/N1k0la-T/CVE-2023-36745 | | 
 | 20231029T05:50:47Z | CVE-2021-42342 | Null | https://github.com/ijh4723/-zeroboo-Gohead-CVE-2021-42342-1 | | 
 | 20231028T21:55:49Z | CVE-2022-22963 | This is a POC for CVE-2022-22963  | https://github.com/BearClaw96/CVE-2022-22963-Poc-Bearcules | | 
@@ -34,8 +36,6 @@
 | 20231028T17:17:26Z | CVE-2022-32548 | Null | https://github.com/MosaedH/CVE-2022-32548-RCE-POC | | 
 | 20231028T10:20:20Z | CVE-2021-21300 | Null | https://github.com/Saboor-Hakimi-23/CVE-2021-21300 | | 
 | 20231028T07:49:52Z | CVE-2023-29552 | CVE-2023-29552 - Service Location Protocol Vulnerability | https://github.com/0xKayala/CVE-2023-29552 | | 
-| 20231028T07:30:56Z | CVE-2023-33246 | CVE-2023-33246 - Apache RocketMQ config RCE | https://github.com/0xKayala/CVE-2023-33246 | | 
-| 20231028T06:02:58Z | CVE-2023-4966 | CVE-2023-4966 - NetScaler ADC and NetScaler Gateway Memory Leak Exploit | https://github.com/0xKayala/CVE-2023-4966 | | 
 
 
 # klee on Github 推荐
@@ -71,16 +71,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231029T23:34:57Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWtr | 1 | 0| 
+| 20231029T23:33:46Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANtr | 1 | 0| 
+| 20231029T23:32:54Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANtr | 1 | 0| 
+| 20231029T23:31:28Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANtr | 1 | 0| 
+| 20231029T23:26:26Z | Null | https://github.com/surcyf123/exploitproof-net | 0 | 0| 
+| 20231029T21:36:11Z | Code for paper Exploiting Reward Shifting in Value-Based Deep RL | https://github.com/holarissun/RewardShifting | 20 | 1| 
+| 20231029T20:21:55Z | Null | https://github.com/Cyfrin/sc-exploits-minimized | 6 | 0| 
 | 20231029T12:46:15Z | Null | https://github.com/EITSxiaozhai/Exploit_blog | 0 | 0| 
 | 20231029T11:19:39Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5585 | 715| 
 | 20231029T11:00:40Z | SecureCode1-VulnHub-Exploit | https://github.com/meshari10/SecureCode1-VulnHub-Exploit | 0 | 0| 
-| 20231029T10:20:05Z | Null | https://github.com/TopPlayzYT/HexaExploits | 0 | 0| 
-| 20231029T09:59:41Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5450 | 1059| 
-| 20231029T09:49:46Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6083 | 801| 
-| 20231029T09:26:29Z | RCE Exploit For Maltrail-v0.53 | https://github.com/spookier/Maltrail-v0.53-Exploit | 10 | 2| 
-| 20231029T06:25:31Z | Command Line for Windows PCs (Using Powershell) | https://github.com/classl-ink/xcmd | 0 | 0| 
-| 20231029T03:51:07Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 6025 | 556| 
-| 20231029T01:57:53Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0098-app-fBbW6-rise-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -91,11 +91,11 @@
 | 20231029T08:29:51Z | A Roblox utility to scan backdoor(s). | https://github.com/jLn0n/beckdeer-skenner | 2 | 1| 
 | 20231029T04:39:46Z | Null | https://github.com/lixi1994/backdoor_FM_FL | 0 | 0| 
 | 20231029T03:02:52Z | Null | https://github.com/RorschachChen/computational_efficient_backdoor_reimpl | 0 | 0| 
+| 20231028T23:21:13Z | Digital Forensics and Incident Response (DFIR) | https://github.com/RENANZG/My-Forensics | 61 | 10| 
 | 20231028T16:17:56Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 4 | 1| 
 | 20231028T14:10:04Z | You should never use malware to infiltrate a target system. With the skill of writing and exploiting technical codes, you can do the best ways of penetration. This is done in order to test and increase the security of the open sourcecode. | https://github.com/AiGptCode/ANYDESK-BACKDOOR | 7 | 0| 
 | 20231028T13:02:58Z | Educational backdoor implementation for cybersecurity lab. Explore basic file transfer, command execution, and more. Responsible use only. | https://github.com/Uche360/Cybersecurity-Lab-Backdoor | 0 | 0| 
 | 20231028T09:45:26Z | Invisible, customizable backdoor for Minecraft Spigot Plugins. | https://github.com/ThiccIndustries/Minecraft-Backdoor | 3 | 0| 
-| 20231028T07:14:34Z | Robust Contrastive Language-Image Pretraining against Data Poisoning and Backdoor Attacks | https://github.com/BigML-CS-UCLA/RoCLIP | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -130,16 +130,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231029T23:43:46Z | Null | https://github.com/davidlehub/UnityAnyListFuzzySearch | 0 | 0| 
+| 20231029T22:23:27Z | vhost fuzzer using list of ips | https://github.com/jad2121/FunWithVhosts | 0 | 0| 
+| 20231029T22:06:45Z | Flipper Zero based keyboard fuzzer app | https://github.com/n-92/kb_fuzzer | 0 | 0| 
+| 20231029T20:47:00Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 2066 | 95| 
+| 20231029T20:44:28Z | FuzzyStroyWorld | https://github.com/byungkwon2023F/FuzzyStoryWorld | 0 | 0| 
+| 20231029T18:51:10Z | Example for local robot framework application. | https://github.com/sthagen/fuzzy | 1 | 0| 
+| 20231029T16:14:26Z | The materials of %Hypervisor 101 in Rust%, a one-day long course, to quickly learn hardware-assisted virtualization technology and its application for high-performance fuzzing on Intel/AMD processors. | https://github.com/tandasat/Hypervisor-101-in-Rust | 834 | 50| 
+| 20231029T14:21:43Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9124 | 2026| 
 | 20231029T12:01:06Z | Study Case KosKosan ( From Univ )  | https://github.com/VosLannuck/Simple-Fuzzy-Logic | 0 | 0| 
 | 20231029T10:47:44Z | Null | https://github.com/PJHYET/fuzzy-train | 0 | 0| 
-| 20231029T10:27:27Z | Null | https://github.com/FuzzyKala/FuzzyKala | 0 | 0| 
-| 20231029T10:11:48Z | Public Biometric Authentication and Key Establishment Infrastructure based on Fuzzy Extractors. | https://github.com/al3xkras/fuzzy-extractors-key-establishment | 0 | 0| 
-| 20231029T09:20:57Z | Null | https://github.com/BossXIs/Fuzzy | 0 | 0| 
-| 20231029T09:09:31Z | K , Cypress | https://github.com/gonatr/fuzzy-octo-barnacle | 0 | 0| 
-| 20231029T08:58:09Z | Null | https://github.com/Dhinakaranv01/fuzzy-bassoon | 0 | 0| 
-| 20231029T07:48:31Z | Null | https://github.com/sscodersen/fuzzy-funicular | 0 | 0| 
-| 20231028T21:43:31Z | A Fuzzy Logic Control Library in C++ | https://github.com/pld-linux/fuzzylite | 0 | 0| 
-| 20231028T21:34:41Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9123 | 2026| 
 
 
 
