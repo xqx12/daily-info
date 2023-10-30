@@ -63,6 +63,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231029T22:53:33Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 45 | 7| 
 | 20231029T03:46:11Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2347 | 639| 
 
 
