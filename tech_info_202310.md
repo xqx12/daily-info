@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231030T11:59:35Z | CVE-2023-36745 | Null | https://github.com/N1k0la-T/CVE-2023-36745 | | 
+| 20231030T12:24:29Z | CVE-2023-36745 | Null | https://github.com/N1k0la-T/CVE-2023-36745 | | 
 | 20231030T11:28:44Z | CVE-2023-46478 | Null | https://github.com/mr-xmen786/CVE-2023-46478 | | 
 | 20231030T09:58:32Z | CVE-2022-0778 | Null | https://github.com/nidhi7598/OPENSSL_1.0.1g_G2.5_CVE-2022-0778 | | 
 | 20231030T09:02:08Z | CVE-2023-5044 | PoC CVE-2023-5044 | https://github.com/r0binak/CVE-2023-5044 | | 
