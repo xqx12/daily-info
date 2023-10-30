@@ -82,10 +82,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231030T12:16:37Z | Null | https://github.com/Parenbz/FuzzingTask | 0 | 0| 
 | 20231030T11:29:26Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 4249 | 510| 
 | 20231030T11:21:52Z | Null | https://github.com/MaedaNoriyuki/FuzzBuzz | 0 | 0| 
 | 20231030T10:23:16Z | This is the minor project for DAA Lab in collaboration with Adwaith PJ | https://github.com/adityasubham03/fuzzy-spork | 1 | 1| 
 | 20231030T09:56:25Z | Null | https://github.com/mrsaurabhmaske/fuzzy-umbrella | 0 | 0| 
+| 20231030T09:05:43Z | An R package for estimation of fuzzy poverty indexes | https://github.com/AirDede/FuzzyPovertyR | 0 | 0| 
 | 20231030T07:18:13Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4882 | 1168| 
 | 20231030T01:45:29Z | Null | https://github.com/dg1717/fuzzy-garbanzo | 0 | 0| 
 | 20231030T01:15:15Z | A fuzzer for full VM kernel/driver targets | https://github.com/IntelLabs/kAFL | 555 | 85| 
