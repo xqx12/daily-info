@@ -78,6 +78,7 @@
 | --- | --- | --- | --- | ---| 
 | 20231029T23:43:46Z | Null | https://github.com/davidlehub/UnityAnyListFuzzySearch | 0 | 0| 
 | 20231029T22:23:27Z | vhost fuzzer using list of ips | https://github.com/jad2121/FunWithVhosts | 0 | 0| 
+| 20231029T22:23:27Z | vhost fuzzer using list of ips | https://github.com/xssdoctor/FunWithVhosts | 0 | 0| 
 | 20231029T22:06:45Z | Flipper Zero based keyboard fuzzer app | https://github.com/n-92/kb_fuzzer | 0 | 0| 
 | 20231029T20:47:00Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 2066 | 95| 
 | 20231029T20:44:28Z | FuzzyStroyWorld | https://github.com/byungkwon2023F/FuzzyStoryWorld | 0 | 0| 
@@ -85,7 +86,6 @@
 | 20231029T16:14:26Z | The materials of %Hypervisor 101 in Rust%, a one-day long course, to quickly learn hardware-assisted virtualization technology and its application for high-performance fuzzing on Intel/AMD processors. | https://github.com/tandasat/Hypervisor-101-in-Rust | 834 | 50| 
 | 20231029T14:21:43Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9124 | 2026| 
 | 20231029T12:01:06Z | Study Case KosKosan ( From Univ )  | https://github.com/VosLannuck/Simple-Fuzzy-Logic | 0 | 0| 
-| 20231029T10:47:44Z | Null | https://github.com/PJHYET/fuzzy-train | 0 | 0| 
 
 
 
