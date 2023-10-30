@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231030T00:46:02Z | Python Exploitation is a collection of special tools for providing high quality penetration testing using pure python programming language. | https://github.com/EntySec/Pex | 22 | 4| 
 | 20231030T00:24:00Z | GitOps Repository | https://github.com/redhat-appstudio-qe/rsenvapp-qgvNJ-step-exploit | 0 | 0| 
 | 20231030T00:12:00Z | Office Macro Exploit Builder 🚀 Opensource & Free Excel Word Macro Exploit Builder - Oneclick Silent Macro Exploit Docx Excel Word Pdf Macro Exploit Xls Word Macro Exploit Excel Macro Exploit Oneclick Silent Macro Exploit Docx Excel Word Pdf Macro Exploit Xls Word Macro Exploit Excel Macro Exploit | https://github.com/adazca/doc-macro-exploit | 0 | 0| 
 | 20231029T23:34:57Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWtr | 1 | 0| 
@@ -80,7 +81,6 @@
 | 20231029T23:26:26Z | Null | https://github.com/surcyf123/exploitproof-net | 0 | 0| 
 | 20231029T21:36:11Z | Code for paper Exploiting Reward Shifting in Value-Based Deep RL | https://github.com/holarissun/RewardShifting | 20 | 1| 
 | 20231029T20:21:55Z | Null | https://github.com/Cyfrin/sc-exploits-minimized | 6 | 0| 
-| 20231029T12:46:15Z | Null | https://github.com/EITSxiaozhai/Exploit_blog | 0 | 0| 
 
 
 # backdoor on Github 推荐
