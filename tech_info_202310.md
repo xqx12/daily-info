@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231030T01:55:34Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0026-app-d51Tf-comply-exploit | 0 | 0| 
 | 20231030T01:42:07Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 749 | 180| 
 | 20231030T01:27:43Z | Office Macro Exploit Builder 🚀 Opensource & Free Excel Word Macro Exploit Builder - Oneclick Silent Macro Exploit Docx Excel Word Pdf Macro Exploit Xls Word Macro Exploit Excel Macro Exploit Oneclick Silent Macro Exploit Docx Excel Word Pdf Macro Exploit Xls Word Macro Exploit Excel Macro Exploit | https://github.com/adazca/doc-macro-exploit | 1 | 254| 
 | 20231030T01:08:58Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5451 | 1059| 
@@ -80,7 +81,6 @@
 | 20231029T23:34:57Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWtr | 1 | 0| 
 | 20231029T23:33:46Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANtr | 1 | 0| 
 | 20231029T23:32:54Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANtr | 1 | 0| 
-| 20231029T23:31:28Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANtr | 1 | 0| 
 
 
 # backdoor on Github 推荐
