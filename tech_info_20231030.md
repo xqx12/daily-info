@@ -82,6 +82,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231030T12:52:29Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 2392 | 269| 
 | 20231030T12:45:15Z | Null | https://github.com/Parenbz/FuzzingTask | 0 | 0| 
 | 20231030T11:29:26Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 4249 | 510| 
 | 20231030T11:21:52Z | Null | https://github.com/MaedaNoriyuki/FuzzBuzz | 0 | 0| 
