@@ -44,10 +44,10 @@
 | 20231029T23:31:28Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANtr | 1 | 0| 
 | 20231029T23:26:26Z | Null | https://github.com/surcyf123/exploitproof-net | 0 | 0| 
 | 20231029T21:36:11Z | Code for paper Exploiting Reward Shifting in Value-Based Deep RL | https://github.com/holarissun/RewardShifting | 20 | 1| 
-| 20231029T20:21:55Z | Null | https://github.com/Cyfrin/sc-exploits-minimized | 6 | 0| 
 | 20231029T12:46:15Z | Null | https://github.com/EITSxiaozhai/Exploit_blog | 0 | 0| 
 | 20231029T11:19:39Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5585 | 715| 
 | 20231029T11:00:40Z | SecureCode1-VulnHub-Exploit | https://github.com/meshari10/SecureCode1-VulnHub-Exploit | 0 | 0| 
+| 20231029T10:20:05Z | Null | https://github.com/TopPlayzYT/HexaExploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
