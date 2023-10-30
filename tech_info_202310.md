@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231030T00:27:21Z | CVE-2023-27524 | CVE-2023-27524 | https://github.com/NguyenCongHaiNam/Research-CVE-2023-27524 | | 
 | 20231029T17:31:49Z | cve-2022-31692 | Demonstration of CVE-2022-31692 authorization bypass in Spring Security | https://github.com/hotblac/cve-2022-31692 | | 
 | 20231029T16:57:23Z | CVE-2023-4911 | Proof of concept for CVE-2023-4911 (Looney Tunables) discovered by Qualys Threat Research Unit  | https://github.com/Diego-AltF4/CVE-2023-4911 | | 
 | 20231029T15:39:17Z | CVE-2023-4966 | An Exploitation script developed to exploit the CVE-2023-4966 bleed citrix information disclosure vulnerability | https://github.com/sanjai-AK47/CVE-2023-4966 | | 
@@ -35,7 +36,6 @@
 | 20231028T17:45:41Z | CVE-2023-391 | Null | https://github.com/ayhan-dev/CVE-2023-391 | | 
 | 20231028T17:17:26Z | CVE-2022-32548 | Null | https://github.com/MosaedH/CVE-2022-32548-RCE-POC | | 
 | 20231028T10:20:20Z | CVE-2021-21300 | Null | https://github.com/Saboor-Hakimi-23/CVE-2021-21300 | | 
-| 20231028T07:49:52Z | CVE-2023-29552 | CVE-2023-29552 - Service Location Protocol Vulnerability | https://github.com/0xKayala/CVE-2023-29552 | | 
 
 
 # klee on Github 推荐
