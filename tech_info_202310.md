@@ -130,6 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231030T01:45:29Z | Null | https://github.com/dg1717/fuzzy-garbanzo | 0 | 0| 
 | 20231029T23:43:46Z | Null | https://github.com/davidlehub/UnityAnyListFuzzySearch | 0 | 0| 
 | 20231029T22:23:27Z | vhost fuzzer using list of ips | https://github.com/jad2121/FunWithVhosts | 0 | 0| 
 | 20231029T22:23:27Z | vhost fuzzer using list of ips | https://github.com/xssdoctor/FunWithVhosts | 0 | 0| 
@@ -139,7 +140,6 @@
 | 20231029T18:51:10Z | Example for local robot framework application. | https://github.com/sthagen/fuzzy | 1 | 0| 
 | 20231029T16:14:26Z | The materials of %Hypervisor 101 in Rust%, a one-day long course, to quickly learn hardware-assisted virtualization technology and its application for high-performance fuzzing on Intel/AMD processors. | https://github.com/tandasat/Hypervisor-101-in-Rust | 834 | 50| 
 | 20231029T14:21:43Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9124 | 2026| 
-| 20231029T12:01:06Z | Study Case KosKosan ( From Univ )  | https://github.com/VosLannuck/Simple-Fuzzy-Logic | 0 | 0| 
 
 
 
