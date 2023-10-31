@@ -16,6 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231031T12:30:43Z | CVE-2023-22518 | Improper Authorization Vulnerability in Confluence Data Center and Server | https://github.com/tonghuaroot/CVE-2023-22518 | | 
 | 20231031T11:33:43Z | CVE-2022-2048 | Null | https://github.com/Trinadh465/jetty_9.4.31_CVE-2022-2048 | | 
 | 20231031T10:55:11Z | CVE-2023-26049 | Null | https://github.com/Trinadh465/jetty_9.4.31_CVE-2023-26049 | | 
 | 20231031T10:50:56Z | CVE-2021-28165 | Null | https://github.com/nidhi7598/jetty-9.4.31_CVE-2021-28165 | | 
@@ -25,7 +26,6 @@
 | 20231031T09:26:22Z | CVE-2023-5412 | Image horizontal reel scroll slideshow <= 13.2 -  Authenticated (Subscriber+) SQL Injection via Shortcode | https://github.com/RandomRobbieBF/CVE-2023-5412 | | 
 | 20231031T07:30:30Z | CVE-2023-46747 | F5 BIG-IP unauthenticated remote code execution (RCE) and authentication bypass vulnerability! | https://github.com/AliBrTab/CVE-2023-46747-POC | | 
 | 20231031T06:27:11Z | cve-2023-47103 | Null | https://github.com/quantiano/cve-2023-47103 | | 
-| 20231031T02:13:06Z | CVE-2023-5843 | Null | https://github.com/codeb0ss/CVE-2023-5843-PoC | | 
 
 
 # klee on Github 推荐
@@ -50,10 +50,10 @@
 | 20231031T10:57:30Z | Null | https://github.com/DarkW1zard/WebExploits101 | 0 | 0| 
 | 20231031T10:48:24Z | GitOps Repository | https://github.com/redhat-appstudio-qe/test-app-fllt-eJnyI-complete-exploit | 0 | 0| 
 | 20231031T10:20:41Z | A C# Roblox Exploiting API for the UWP distribution of the game. Its basically WeAreDevs API but it bypasses Byfron. - GitHub - game-hax/Roblox-Exploit-API: A C# Roblox Exploiting API for the UWP distribution of the game. Its basically WeAreDevs API but it bypasses Byfron. | https://github.com/Elsie-Kgafela/Roblox-Exploit-API | 0 | 0| 
+| 20231031T08:32:31Z | Dog Sniff 🐕‍🦺 is the information gathering tool and exploitation tool  | https://github.com/Iamunix/Dog-Sniff | 1 | 0| 
 | 20231031T07:53:56Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5452 | 1060| 
 | 20231031T06:51:59Z | The UAC Bypass program is designed to run files with elevated privileges on Windows without requesting user permission or displaying the UAC screen. It provides a way to bypass User Account Control (UAC) restrictions for specific tasks. | https://github.com/justhyak/UAC-Bypass-FUD | 0 | 0| 
 | 20231031T01:17:23Z | GitOps Repository | https://github.com/14rcole-rhtap/integ-app-msej-u6gVQ-cook-exploit | 0 | 0| 
-| 20231031T00:51:11Z | In this problem statement, we have a data collection of such activity recorded by a Samsung Galaxy S-II smartphone and we will be exploiting this data for the basic implementation of a neural network which will be classifying the human activities into 6 categories. | https://github.com/yadavpunam/Human_Act_Recog_DNN | 0 | 0| 
 
 
 # backdoor on Github 推荐
