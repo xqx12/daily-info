@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231031T12:48:46Z | Null | https://github.com/JT10git/Exploit-In-The-Wild-Notifier | 0 | 0| 
 | 20231031T12:04:03Z | A collection of ChromeOS exploits free for the public | https://github.com/3kh0/ext-remover | 271 | 281| 
 | 20231031T11:59:19Z | Exploits ran against hack the box | https://github.com/nazufel/hackthebox | 0 | 0| 
 | 20231031T11:36:50Z | Null | https://github.com/ForestieriBenedetta/Exploit-DVWA---XSS-e-SQL-injection | 0 | 0| 
@@ -80,7 +81,6 @@
 | 20231031T08:32:31Z | Dog Sniff 🐕‍🦺 is the information gathering tool and exploitation tool  | https://github.com/Iamunix/Dog-Sniff | 1 | 0| 
 | 20231031T07:53:56Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5452 | 1060| 
 | 20231031T06:51:59Z | The UAC Bypass program is designed to run files with elevated privileges on Windows without requesting user permission or displaying the UAC screen. It provides a way to bypass User Account Control (UAC) restrictions for specific tasks. | https://github.com/justhyak/UAC-Bypass-FUD | 0 | 0| 
-| 20231031T01:17:23Z | GitOps Repository | https://github.com/14rcole-rhtap/integ-app-msej-u6gVQ-cook-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
