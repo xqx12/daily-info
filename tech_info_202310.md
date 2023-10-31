@@ -86,6 +86,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231031T00:07:03Z | A backdoor plist that automatically runs a script from the internet | https://github.com/Wolfoverflow/backdoor | 0 | 0| 
 | 20231030T23:51:13Z | A backdoor plist that automatically runs a script from the internet | https://github.com/Wolfoverflow/backdoorPlist | 0 | 0| 
 | 20231030T19:26:37Z | PyTorch implementation for %Black-box Backdoor Defense via Zero-shot Image Purification% | https://github.com/sycny/ZIP | 0 | 0| 
 | 20231030T19:01:44Z | Null | https://github.com/Isi-Atash/Backdoor-Attacks-against-Machine-Learning-based-Malware-Detection | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20231030T11:16:41Z | Digital Forensics and Incident Response (DFIR) | https://github.com/RENANZG/My-Forensics | 62 | 10| 
 | 20231030T10:42:58Z | Demo of THC%s public key backdoor | https://github.com/packetgeek/ssh_public_key_backdoor | 0 | 0| 
 | 20231030T07:55:21Z | Code for the paper %Defending our Privacy With Backdoors% published at Backdoors in Deep Learning workshop @Neurips23 | https://github.com/D0miH/Defending-Our-Privacy-With-Backdoors | 1 | 0| 
-| 20231030T07:48:06Z | PHP shell backdoors list  ( collection ) | https://github.com/1337r0j4n/php-backdoors | 57 | 18| 
 
 
 # symbolic execution on Github 推荐
