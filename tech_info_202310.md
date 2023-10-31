@@ -74,13 +74,13 @@
 | 20231030T13:16:02Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 750 | 180| 
 | 20231030T11:22:57Z | Null | https://github.com/porxyz/rsa_common_prime_exploit | 0 | 0| 
 | 20231030T10:58:23Z | Collection of Web3 Audits and Publications by ChainLight of Theori | https://github.com/theori-io/web3-publications | 7 | 2| 
+| 20231030T07:48:09Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 588 | 112| 
 | 20231030T06:08:56Z | An obsidian plugin that exploit a natural language processing engine to find potential events and sync them with iCalendar | https://github.com/Vaccarini-Lorenzo/MagicCalendar | 17 | 0| 
 | 20231030T05:27:36Z | Null | https://github.com/surcyf123/exploitproof-net | 0 | 0| 
 | 20231030T04:42:20Z | URL Infection (Silent Java Drive By) URL Infection Exploit Silent Java Drive by downloads may happen when visiting a site, opening an e-mail message. It may even happen by clicking on a malicious pop-up window: by clicking on the window in the belief that it concerns an error report from the computer’s OS, for example. | https://github.com/StarlinkCoinn/Slient-Url-Exploit-New-Cve-Chrome-Exploit-Html-Downloader-Put-Your-Link | 0 | 0| 
 | 20231030T03:40:19Z | Unlimited Build Files  Unlimited Spread Files  Small File size  Compatible with RATs, Keyloggers, Botnets, or any other exe  Best Results on AV 0/35  Easy to use Exploit Builder | https://github.com/StarlinkCoinn/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | 0 | 0| 
 | 20231030T03:39:07Z | Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords) | https://github.com/StarlinkCoinn/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022 | 0 | 0| 
 | 20231030T03:38:53Z | Popups) - Encrypted Connection - Kill browsers individually or all - Binder - Steal Remote Clipboard - Lightweight TCP Server - UAC Exploit (No Popups) - Browser Profile Cloner S/ C/ P/ H - CMD/Powershell Prompt - Small Stub ~130kb - Quality Adjustment/ Image Resize of hVNC - Obfuscated Stub - Compressed Image Support for faster Interaction - Rando | https://github.com/StarlinkCoinn/Pandora-Hvnc-Hidden-Browser-Real-Vnc-Working-Chromium-Edge-Opera-Gx | 0 | 0| 
-| 20231030T03:38:34Z | One of the most complex tasks for the cyber security expert is to ensure their malicious code goes detected by antivirus and achieves its goal. For this, they have invested a lot on more complex infection processes, going beyond the traditional Exploit PDF and using techniques where the malicious payload is hidden in encrypted | https://github.com/StarlinkCoinn/Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve | 0 | 0| 
 
 
 # backdoor on Github 推荐
