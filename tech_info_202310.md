@@ -56,6 +56,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231030T14:37:51Z | Null | https://github.com/MelissaCanu/S2E1 | 0 | 0| 
 | 20231028T02:53:15Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 360 | 82| 
 | 20231027T09:10:59Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 37 | 15| 
 | 20231027T08:35:53Z | Bachelor%s thesis: developing symbolic execution for Rlang using Chef and S2E | https://github.com/SoptikHa2/bachelors-thesis | 5 | 0| 
@@ -65,7 +66,6 @@
 | 20231013T06:23:06Z | S2E for AOCS module | https://github.com/ut-issl/s2e-aobc | 4 | 2| 
 | 20231013T00:14:47Z | Finally something not PBS Kids Related at all! This is the scratch 2.0 editor in github. (DONT WORRY PBS FANS I WILL STILL WORK ON PBS-Kids-2006) | https://github.com/Thecartoondude/s2editor | 0 | 0| 
 | 20231011T13:21:25Z | created by O%challenge | https://github.com/GuillaumePons63/S2E15-GuillaumePons63 | 0 | 0| 
-| 20231004T05:46:10Z | GUI Configuration tool for WIZnet serial to ethernet devices. | https://github.com/Wiznet/WIZnet-S2E-Tool-GUI | 20 | 10| 
 
 
 # exploit on Github 推荐
@@ -91,25 +91,25 @@
 | 20231030T19:01:44Z | Null | https://github.com/Isi-Atash/Backdoor-Attacks-against-Machine-Learning-based-Malware-Detection | 0 | 0| 
 | 20231030T17:03:09Z | Patch PE, ELF, Mach-O binaries with shellcode new version in development, available only to sponsors | https://github.com/secretsquirrel/the-backdoor-factory | 3192 | 813| 
 | 20231030T14:48:04Z | %Saturn% a Ngrok backdoor creator (old, not updated, and probably doesn%t work) | https://github.com/CPScript/Saturn | 0 | 0| 
+| 20231030T14:22:04Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 5 | 1| 
 | 20231030T11:16:41Z | Digital Forensics and Incident Response (DFIR) | https://github.com/RENANZG/My-Forensics | 62 | 10| 
 | 20231030T10:42:58Z | Demo of THC%s public key backdoor | https://github.com/packetgeek/ssh_public_key_backdoor | 0 | 0| 
 | 20231030T07:55:21Z | Code for the paper %Defending our Privacy With Backdoors% published at Backdoors in Deep Learning workshop @Neurips23 | https://github.com/D0miH/Defending-Our-Privacy-With-Backdoors | 1 | 0| 
 | 20231030T07:48:06Z | PHP shell backdoors list  ( collection ) | https://github.com/1337r0j4n/php-backdoors | 57 | 18| 
-| 20231030T03:12:37Z | Backdoor attack project based in MARL_CAVs environment | https://github.com/azure-123/Backdoor_MARL_CAVs | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231030T02:59:53Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2348 | 639| 
+| 20231030T21:51:14Z | Bottom-up memory-safety for assembly language using symbolic execution | https://github.com/scaspin/memory-safe-assembly | 8 | 0| 
+| 20231030T13:37:32Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 699 | 123| 
+| 20231030T13:36:43Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2348 | 639| 
 | 20231029T22:53:33Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 45 | 7| 
-| 20231028T09:14:15Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 697 | 123| 
 | 20231027T22:59:23Z | Symbolic execution of LLVM IR with an engine written in Rust | https://github.com/PLSysSec/haybale | 458 | 22| 
 | 20231027T08:35:53Z | Bachelor%s thesis: developing symbolic execution for Rlang using Chef and S2E | https://github.com/SoptikHa2/bachelors-thesis | 5 | 0| 
 | 20231026T17:54:42Z | Resource compilation, experiments, and tests on Symbolic Execution, Type Inference and Property-Guided Testing of python programs | https://github.com/karthik-d/type-inference-tools-playground | 0 | 0| 
 | 20231026T13:14:22Z | Unicorn: Symbolic Execution, Bounded Model Checking, and Code Optimization of RISC-V Code using Classical Solvers and Quantum Computers | https://github.com/cksystemsgroup/unicorn | 18 | 8| 
 | 20231025T14:56:19Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 66 | 28| 
-| 20231024T18:48:58Z | Bottom-up memory-safety for assembly language using symbolic execution | https://github.com/scaspin/memory-safe-assembly | 8 | 0| 
 | 20231024T03:03:06Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 64 | 9| 
 
 

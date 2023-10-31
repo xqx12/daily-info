@@ -40,6 +40,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231030T14:37:51Z | Null | https://github.com/MelissaCanu/S2E1 | 0 | 0| 
 
 
 # exploit on Github 推荐
@@ -65,17 +66,19 @@
 | 20231030T19:01:44Z | Null | https://github.com/Isi-Atash/Backdoor-Attacks-against-Machine-Learning-based-Malware-Detection | 0 | 0| 
 | 20231030T17:03:09Z | Patch PE, ELF, Mach-O binaries with shellcode new version in development, available only to sponsors | https://github.com/secretsquirrel/the-backdoor-factory | 3192 | 813| 
 | 20231030T14:48:04Z | %Saturn% a Ngrok backdoor creator (old, not updated, and probably doesn%t work) | https://github.com/CPScript/Saturn | 0 | 0| 
+| 20231030T14:22:04Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 5 | 1| 
 | 20231030T11:16:41Z | Digital Forensics and Incident Response (DFIR) | https://github.com/RENANZG/My-Forensics | 62 | 10| 
 | 20231030T10:42:58Z | Demo of THC%s public key backdoor | https://github.com/packetgeek/ssh_public_key_backdoor | 0 | 0| 
 | 20231030T07:55:21Z | Code for the paper %Defending our Privacy With Backdoors% published at Backdoors in Deep Learning workshop @Neurips23 | https://github.com/D0miH/Defending-Our-Privacy-With-Backdoors | 1 | 0| 
 | 20231030T07:48:06Z | PHP shell backdoors list  ( collection ) | https://github.com/1337r0j4n/php-backdoors | 57 | 18| 
-| 20231030T03:12:37Z | Backdoor attack project based in MARL_CAVs environment | https://github.com/azure-123/Backdoor_MARL_CAVs | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231030T02:59:53Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2348 | 639| 
+| 20231030T21:51:14Z | Bottom-up memory-safety for assembly language using symbolic execution | https://github.com/scaspin/memory-safe-assembly | 8 | 0| 
+| 20231030T13:37:32Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 699 | 123| 
+| 20231030T13:36:43Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2348 | 639| 
 
 
 # big4 on Github 推荐
