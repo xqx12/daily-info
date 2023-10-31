@@ -16,6 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231031T12:45:14Z | CVE-2023-46501 | BoltWire v6.03 vulnerable to "Improper Access Control" | https://github.com/Cyber-Wo0dy/CVE-2023-46501 | | 
 | 20231031T12:30:43Z | CVE-2023-22518 | Improper Authorization Vulnerability in Confluence Data Center and Server | https://github.com/tonghuaroot/CVE-2023-22518 | | 
 | 20231031T11:33:43Z | CVE-2022-2048 | Null | https://github.com/Trinadh465/jetty_9.4.31_CVE-2022-2048 | | 
 | 20231031T10:55:11Z | CVE-2023-26049 | Null | https://github.com/Trinadh465/jetty_9.4.31_CVE-2023-26049 | | 
@@ -25,7 +26,6 @@
 | 20231031T09:37:15Z | CVE-2023-22518 | Improper Authorization Vulnerability in Confluence Data Center and Server | https://github.com/ForceFledgling/CVE-2023-22518 | | 
 | 20231031T09:26:22Z | CVE-2023-5412 | Image horizontal reel scroll slideshow <= 13.2 -  Authenticated (Subscriber+) SQL Injection via Shortcode | https://github.com/RandomRobbieBF/CVE-2023-5412 | | 
 | 20231031T07:30:30Z | CVE-2023-46747 | F5 BIG-IP unauthenticated remote code execution (RCE) and authentication bypass vulnerability! | https://github.com/AliBrTab/CVE-2023-46747-POC | | 
-| 20231031T06:27:11Z | cve-2023-47103 | Null | https://github.com/quantiano/cve-2023-47103 | | 
 
 
 # klee on Github 推荐
