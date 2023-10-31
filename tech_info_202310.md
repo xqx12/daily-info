@@ -130,6 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231031T00:55:02Z | Null | https://github.com/fwhdzh/FaultFuzz-FrontEnd | 0 | 0| 
 | 20231030T22:40:38Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9127 | 2026| 
 | 20231030T18:10:15Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 2067 | 95| 
 | 20231030T15:26:53Z | Fuzzing exercises with Echidna | https://github.com/smol-ninja/fuzzing | 0 | 0| 
@@ -139,7 +140,6 @@
 | 20231030T11:21:52Z | Null | https://github.com/MaedaNoriyuki/FuzzBuzz | 0 | 0| 
 | 20231030T10:23:16Z | This is the minor project for DAA Lab in collaboration with Adwaith PJ | https://github.com/adityasubham03/fuzzy-spork | 1 | 1| 
 | 20231030T09:56:25Z | Null | https://github.com/mrsaurabhmaske/fuzzy-umbrella | 0 | 0| 
-| 20231030T09:05:43Z | An R package for estimation of fuzzy poverty indexes | https://github.com/AirDede/FuzzyPovertyR | 0 | 0| 
 
 
 
