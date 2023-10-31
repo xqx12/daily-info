@@ -71,6 +71,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231031T01:17:23Z | GitOps Repository | https://github.com/14rcole-rhtap/integ-app-msej-u6gVQ-cook-exploit | 0 | 0| 
 | 20231031T00:51:11Z | In this problem statement, we have a data collection of such activity recorded by a Samsung Galaxy S-II smartphone and we will be exploiting this data for the basic implementation of a neural network which will be classifying the human activities into 6 categories. | https://github.com/yadavpunam/Human_Act_Recog_DNN | 0 | 0| 
 | 20231031T00:43:52Z | A repo detailing the steps on the binary exploitation workshop | https://github.com/dilldylanpickle/Console-Rodeo-Binary-Exploitation-Workshop-2023 | 1 | 0| 
 | 20231030T22:33:36Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 60 | 32| 
@@ -80,7 +81,6 @@
 | 20231030T07:48:09Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 588 | 112| 
 | 20231030T06:08:56Z | An obsidian plugin that exploit a natural language processing engine to find potential events and sync them with iCalendar | https://github.com/Vaccarini-Lorenzo/MagicCalendar | 17 | 0| 
 | 20231030T05:27:36Z | Null | https://github.com/surcyf123/exploitproof-net | 0 | 0| 
-| 20231030T04:42:20Z | URL Infection (Silent Java Drive By) URL Infection Exploit Silent Java Drive by downloads may happen when visiting a site, opening an e-mail message. It may even happen by clicking on a malicious pop-up window: by clicking on the window in the belief that it concerns an error report from the computer’s OS, for example. | https://github.com/StarlinkCoinn/Slient-Url-Exploit-New-Cve-Chrome-Exploit-Html-Downloader-Put-Your-Link | 0 | 0| 
 
 
 # backdoor on Github 推荐
