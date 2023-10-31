@@ -50,10 +50,10 @@
 | 20231031T10:57:30Z | Null | https://github.com/DarkW1zard/WebExploits101 | 0 | 0| 
 | 20231031T10:48:24Z | GitOps Repository | https://github.com/redhat-appstudio-qe/test-app-fllt-eJnyI-complete-exploit | 0 | 0| 
 | 20231031T10:20:41Z | A C# Roblox Exploiting API for the UWP distribution of the game. Its basically WeAreDevs API but it bypasses Byfron. - GitHub - game-hax/Roblox-Exploit-API: A C# Roblox Exploiting API for the UWP distribution of the game. Its basically WeAreDevs API but it bypasses Byfron. | https://github.com/Elsie-Kgafela/Roblox-Exploit-API | 0 | 0| 
+| 20231031T07:53:56Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5452 | 1060| 
 | 20231031T06:51:59Z | The UAC Bypass program is designed to run files with elevated privileges on Windows without requesting user permission or displaying the UAC screen. It provides a way to bypass User Account Control (UAC) restrictions for specific tasks. | https://github.com/justhyak/UAC-Bypass-FUD | 0 | 0| 
 | 20231031T01:17:23Z | GitOps Repository | https://github.com/14rcole-rhtap/integ-app-msej-u6gVQ-cook-exploit | 0 | 0| 
 | 20231031T00:51:11Z | In this problem statement, we have a data collection of such activity recorded by a Samsung Galaxy S-II smartphone and we will be exploiting this data for the basic implementation of a neural network which will be classifying the human activities into 6 categories. | https://github.com/yadavpunam/Human_Act_Recog_DNN | 0 | 0| 
-| 20231031T00:43:52Z | A repo detailing the steps on the binary exploitation workshop | https://github.com/dilldylanpickle/Console-Rodeo-Binary-Exploitation-Workshop-2023 | 1 | 0| 
 
 
 # backdoor on Github 推荐
