@@ -116,8 +116,9 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231031T09:24:26Z | Network data storage servlet (NDSS) is a tool to store any information you wish and to make it available for you and your applications. It could be, ie. a storage for your application properties. You can access your properties, using its name and your application id, both defined by you. Each property within one application id has to be unique. You can have as many properties and applications as you wish. Maximum size of property name is 35 characters and maximum size of its value is 10kB (10240 characters). | https://github.com/mabalew/ndss | 0 | 0| 
+| 20231031T02:22:42Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 26 | 2| 
 | 20231030T10:28:30Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 31 | 6| 
-| 20231030T09:40:16Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 25 | 2| 
 | 20231029T09:24:59Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 86 | 4| 
 | 20231022T02:51:07Z | Source code for our NDSS%18 paper %Automated Website Fingerprinting through Deep Learning% | https://github.com/DistriNet/DLWF | 82 | 39| 
 | 20231021T12:40:22Z | Implementation of the NDSS%24 paper %SigmaDiff: Semantics-Aware Deep Graph Matching for Pseudocode Diffing% | https://github.com/yijiufly/SigmaDiff | 5 | 1| 

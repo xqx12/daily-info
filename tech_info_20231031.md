@@ -74,6 +74,8 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231031T09:24:26Z | Network data storage servlet (NDSS) is a tool to store any information you wish and to make it available for you and your applications. It could be, ie. a storage for your application properties. You can access your properties, using its name and your application id, both defined by you. Each property within one application id has to be unique. You can have as many properties and applications as you wish. Maximum size of property name is 35 characters and maximum size of its value is 10kB (10240 characters). | https://github.com/mabalew/ndss | 0 | 0| 
+| 20231031T02:22:42Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 26 | 2| 
 
 
 # fuzz on Github 推荐
