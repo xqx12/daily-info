@@ -71,8 +71,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231031T12:04:03Z | A collection of ChromeOS exploits free for the public | https://github.com/3kh0/ext-remover | 271 | 281| 
 | 20231031T11:59:19Z | Exploits ran against hack the box | https://github.com/nazufel/hackthebox | 0 | 0| 
-| 20231031T11:57:58Z | A collection of ChromeOS exploits free for the public | https://github.com/3kh0/ext-remover | 271 | 281| 
 | 20231031T11:36:50Z | Null | https://github.com/ForestieriBenedetta/Exploit-DVWA---XSS-e-SQL-injection | 0 | 0| 
 | 20231031T10:57:30Z | Null | https://github.com/DarkW1zard/WebExploits101 | 0 | 0| 
 | 20231031T10:48:24Z | GitOps Repository | https://github.com/redhat-appstudio-qe/test-app-fllt-eJnyI-complete-exploit | 0 | 0| 
