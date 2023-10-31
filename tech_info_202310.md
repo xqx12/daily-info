@@ -26,28 +26,28 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231030T17:33:17Z | CVE-2021-22911 | Null | https://github.com/vlrhsgody/-vlrhsgody-RocketChat-CVE-2021-22911- | | 
-| 20231030T17:19:13Z | CVE-2023-41064 | longitudes de código para desencadenar esta vulnerabilidad | https://github.com/MrR0b0t19/vulnerabilidad-LibWebP-CVE-2023-41064 | | 
-| 20231030T16:00:27Z | CVE-2023-46747 | F5 BIG-IP unauthenticated remote code execution (RCE) and authentication bypass vulnerability! | https://github.com/AliBrTab/CVE-2023-46747-POC | | 
-| 20231030T14:54:57Z | CVE-2023-23752 | Joomla Unauthorized Access Vulnerability | https://github.com/cybernetwiz/CVE-2023-23752 | | 
-| 20231030T14:10:38Z | CVE-2023-46747 | CVE-2023-46747 (F5 BIG-IP) RCE | https://github.com/k0zulzr/CVE-2023-46747-Mass-RCE | | 
-| 20231030T13:18:38Z | CVE-2023-46747 | metasploit module for CVE-2023-46747 (F5 BIG-IP) RCE and the analyze | https://github.com/TomArn1/CVE-2023-46747-PoC | | 
-| 20231030T12:24:29Z | CVE-2023-36745 | Null | https://github.com/N1k0la-T/CVE-2023-36745 | | 
-| 20231030T11:28:44Z | CVE-2023-46478 | Null | https://github.com/mr-xmen786/CVE-2023-46478 | | 
-| 20231030T09:58:32Z | CVE-2022-0778 | Null | https://github.com/nidhi7598/OPENSSL_1.0.1g_G2.5_CVE-2022-0778 | | 
-| 20231030T09:02:08Z | CVE-2023-5044 | PoC CVE-2023-5044 | https://github.com/r0binak/CVE-2023-5044 | | 
+| 20231031T11:33:43Z | CVE-2022-2048 | Null | https://github.com/Trinadh465/jetty_9.4.31_CVE-2022-2048 | | 
+| 20231031T10:55:11Z | CVE-2023-26049 | Null | https://github.com/Trinadh465/jetty_9.4.31_CVE-2023-26049 | | 
+| 20231031T10:50:56Z | CVE-2021-28165 | Null | https://github.com/nidhi7598/jetty-9.4.31_CVE-2021-28165 | | 
+| 20231031T10:49:52Z | CVE-2021-28169 | Null | https://github.com/Trinadh465/jetty_9.4.31_CVE-2021-28169 | | 
+| 20231031T10:48:46Z | CVE-2020-27216 | Null | https://github.com/nidhi7598/jetty-9.4.31_CVE-2020-27216 | | 
+| 20231031T09:37:15Z | CVE-2023-22518 | Improper Authorization Vulnerability in Confluence Data Center and Server | https://github.com/ForceFledgling/CVE-2023-22518 | | 
+| 20231031T09:26:22Z | CVE-2023-5412 | Image horizontal reel scroll slideshow <= 13.2 -  Authenticated (Subscriber+) SQL Injection via Shortcode | https://github.com/RandomRobbieBF/CVE-2023-5412 | | 
+| 20231031T07:30:30Z | CVE-2023-46747 | F5 BIG-IP unauthenticated remote code execution (RCE) and authentication bypass vulnerability! | https://github.com/AliBrTab/CVE-2023-46747-POC | | 
+| 20231031T06:27:11Z | cve-2023-47103 | Null | https://github.com/quantiano/cve-2023-47103 | | 
+| 20231031T02:13:06Z | CVE-2023-5843 | Null | https://github.com/codeb0ss/CVE-2023-5843-PoC | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231030T13:36:43Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2348 | 639| 
+| 20231031T05:19:03Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2349 | 639| 
 | 20231029T09:50:35Z | Config files for my GitHub profile. | https://github.com/Klee7712/Klee7712 | 0 | 0| 
 | 20231025T09:30:37Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14125 | 426| 
 | 20231025T09:18:06Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 372 | 8| 
 | 20231025T08:59:37Z | 「缝合楷」：将「霞鹜文楷 GB」「芫荽」「Klee One」等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | https://github.com/lxgw/FusionKai | 50 | 0| 
 | 20231025T08:54:54Z | Null | https://github.com/kleeowo/klee | 0 | 0| 
-| 20231025T07:17:39Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 91 | 20| 
+| 20231025T07:17:39Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 91 | 21| 
 | 20231025T07:02:08Z | Library Management System with Book Borrowing, Return, and Archive Features | https://github.com/cdpaglingayen/KleenLib | 0 | 0| 
 | 20231024T13:30:21Z | practica 2c | https://github.com/dipache/P2DiegoKleeders | 0 | 0| 
 | 20231022T15:01:20Z | Config files for my GitHub profile. | https://github.com/KleemoIT/KleemoIT | 0 | 0| 
@@ -56,36 +56,37 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231031T08:39:45Z | Code for %Searching to Extrapolate Embedding for Out-of-graph Node Representation Learning% | https://github.com/zgs0314/S2E-OOG | 0 | 0| 
+| 20231031T07:52:09Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 37 | 15| 
 | 20231030T14:37:51Z | Null | https://github.com/MelissaCanu/S2E1 | 0 | 0| 
 | 20231028T02:53:15Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 360 | 82| 
-| 20231027T09:10:59Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 37 | 15| 
 | 20231027T08:35:53Z | Bachelor%s thesis: developing symbolic execution for Rlang using Chef and S2E | https://github.com/SoptikHa2/bachelors-thesis | 5 | 0| 
 | 20231019T12:15:58Z | Your S2E project management tools. Visit https://s2e.systems/docs to get started. | https://github.com/S2E/s2e-env | 89 | 51| 
 | 20231017T21:27:01Z | An example of S2E user side repository | https://github.com/ut-issl/s2e-user-example | 1 | 0| 
 | 20231013T06:24:13Z | An example of user settings repository for s2e-aobc | https://github.com/ut-issl/s2e-aobc-example | 1 | 0| 
 | 20231013T06:23:06Z | S2E for AOCS module | https://github.com/ut-issl/s2e-aobc | 4 | 2| 
 | 20231013T00:14:47Z | Finally something not PBS Kids Related at all! This is the scratch 2.0 editor in github. (DONT WORRY PBS FANS I WILL STILL WORK ON PBS-Kids-2006) | https://github.com/Thecartoondude/s2editor | 0 | 0| 
-| 20231011T13:21:25Z | created by O%challenge | https://github.com/GuillaumePons63/S2E15-GuillaumePons63 | 0 | 0| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231031T11:59:19Z | Exploits ran against hack the box | https://github.com/nazufel/hackthebox | 0 | 0| 
+| 20231031T11:57:58Z | A collection of ChromeOS exploits free for the public | https://github.com/3kh0/ext-remover | 271 | 281| 
+| 20231031T11:36:50Z | Null | https://github.com/ForestieriBenedetta/Exploit-DVWA---XSS-e-SQL-injection | 0 | 0| 
+| 20231031T10:57:30Z | Null | https://github.com/DarkW1zard/WebExploits101 | 0 | 0| 
+| 20231031T10:48:24Z | GitOps Repository | https://github.com/redhat-appstudio-qe/test-app-fllt-eJnyI-complete-exploit | 0 | 0| 
+| 20231031T10:20:41Z | A C# Roblox Exploiting API for the UWP distribution of the game. Its basically WeAreDevs API but it bypasses Byfron. - GitHub - game-hax/Roblox-Exploit-API: A C# Roblox Exploiting API for the UWP distribution of the game. Its basically WeAreDevs API but it bypasses Byfron. | https://github.com/Elsie-Kgafela/Roblox-Exploit-API | 0 | 0| 
+| 20231031T06:51:59Z | The UAC Bypass program is designed to run files with elevated privileges on Windows without requesting user permission or displaying the UAC screen. It provides a way to bypass User Account Control (UAC) restrictions for specific tasks. | https://github.com/justhyak/UAC-Bypass-FUD | 0 | 0| 
 | 20231031T01:17:23Z | GitOps Repository | https://github.com/14rcole-rhtap/integ-app-msej-u6gVQ-cook-exploit | 0 | 0| 
 | 20231031T00:51:11Z | In this problem statement, we have a data collection of such activity recorded by a Samsung Galaxy S-II smartphone and we will be exploiting this data for the basic implementation of a neural network which will be classifying the human activities into 6 categories. | https://github.com/yadavpunam/Human_Act_Recog_DNN | 0 | 0| 
 | 20231031T00:43:52Z | A repo detailing the steps on the binary exploitation workshop | https://github.com/dilldylanpickle/Console-Rodeo-Binary-Exploitation-Workshop-2023 | 1 | 0| 
-| 20231030T22:33:36Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 60 | 32| 
-| 20231030T13:16:02Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 750 | 180| 
-| 20231030T11:22:57Z | Null | https://github.com/porxyz/rsa_common_prime_exploit | 0 | 0| 
-| 20231030T10:58:23Z | Collection of Web3 Audits and Publications by ChainLight of Theori | https://github.com/theori-io/web3-publications | 7 | 2| 
-| 20231030T07:48:09Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 588 | 112| 
-| 20231030T06:08:56Z | An obsidian plugin that exploit a natural language processing engine to find potential events and sync them with iCalendar | https://github.com/Vaccarini-Lorenzo/MagicCalendar | 17 | 0| 
-| 20231030T05:27:36Z | Null | https://github.com/surcyf123/exploitproof-net | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231031T05:56:52Z | Null | https://github.com/Yonsei-AIS-Lab/Instance-Agnostic-Backdoor-Attack | 0 | 0| 
 | 20231031T00:07:03Z | A backdoor plist that automatically runs a script from the internet | https://github.com/Wolfoverflow/backdoor | 0 | 0| 
 | 20231030T23:51:13Z | A backdoor plist that automatically runs a script from the internet | https://github.com/Wolfoverflow/backdoorPlist | 0 | 0| 
 | 20231030T19:26:37Z | PyTorch implementation for %Black-box Backdoor Defense via Zero-shot Image Purification% | https://github.com/sycny/ZIP | 0 | 0| 
@@ -95,7 +96,6 @@
 | 20231030T14:22:04Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 5 | 1| 
 | 20231030T11:16:41Z | Digital Forensics and Incident Response (DFIR) | https://github.com/RENANZG/My-Forensics | 62 | 10| 
 | 20231030T10:42:58Z | Demo of THC%s public key backdoor | https://github.com/packetgeek/ssh_public_key_backdoor | 0 | 0| 
-| 20231030T07:55:21Z | Code for the paper %Defending our Privacy With Backdoors% published at Backdoors in Deep Learning workshop @Neurips23 | https://github.com/D0miH/Defending-Our-Privacy-With-Backdoors | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -130,16 +130,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231031T11:57:08Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 2071 | 95| 
+| 20231031T11:39:32Z | Null | https://github.com/mobinkhayati/Fuzzy-Logic | 0 | 0| 
+| 20231031T11:23:48Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1482 | 110| 
+| 20231031T10:29:33Z | just ignore | https://github.com/Chin0303/fuzzy-sniffle | 0 | 0| 
+| 20231031T06:22:24Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4886 | 1168| 
+| 20231031T02:47:29Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 454 | 60| 
 | 20231031T00:55:02Z | Null | https://github.com/fwhdzh/FaultFuzz-FrontEnd | 0 | 0| 
 | 20231030T22:40:38Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9127 | 2026| 
-| 20231030T18:10:15Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 2067 | 95| 
 | 20231030T15:26:53Z | Fuzzing exercises with Echidna | https://github.com/smol-ninja/fuzzing | 0 | 0| 
-| 20231030T12:52:29Z | Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.  | https://github.com/rtcatc/Packer-Fuzzer | 2392 | 269| 
-| 20231030T12:45:15Z | Null | https://github.com/Parenbz/FuzzingTask | 0 | 0| 
-| 20231030T11:29:26Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 4249 | 510| 
-| 20231030T11:21:52Z | Null | https://github.com/MaedaNoriyuki/FuzzBuzz | 0 | 0| 
-| 20231030T10:23:16Z | This is the minor project for DAA Lab in collaboration with Adwaith PJ | https://github.com/adityasubham03/fuzzy-spork | 1 | 1| 
-| 20231030T09:56:25Z | Null | https://github.com/mrsaurabhmaske/fuzzy-umbrella | 0 | 0| 
+| 20231030T14:03:48Z | A compact, black-box network protocol fuzzer | https://github.com/s0uthwood/BlackBoxFuzzer | 0 | 0| 
 
 
 
