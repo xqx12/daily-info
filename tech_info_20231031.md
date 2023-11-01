@@ -16,7 +16,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231031T18:33:56Z | CVE-2023-22518 | Improper Authorization Vulnerability in Confluence Data Center and Server | https://github.com/tonghuaroot/CVE-2023-22518 | | 
 | 20231031T18:33:55Z | CVE-2023-22518 | Improper Authorization Vulnerability in Confluence Data Center and Server | https://github.com/ForceFledgling/CVE-2023-22518 | | 
 | 20231031T14:59:30Z | CVE-2021-28164 | jetty /CVE-2021-28164/분석 및 결과 | https://github.com/jammy0903/-jettyCVE-2021-28164- | | 
 | 20231031T14:06:11Z | CVE-2020-9802 | Null | https://github.com/khcujw/CVE-2020-9802 | | 
@@ -26,6 +25,7 @@
 | 20231031T10:50:56Z | CVE-2021-28165 | Null | https://github.com/nidhi7598/jetty-9.4.31_CVE-2021-28165 | | 
 | 20231031T10:49:52Z | CVE-2021-28169 | Null | https://github.com/Trinadh465/jetty_9.4.31_CVE-2021-28169 | | 
 | 20231031T10:48:46Z | CVE-2020-27216 | Null | https://github.com/nidhi7598/jetty-9.4.31_CVE-2020-27216 | | 
+| 20231031T09:26:22Z | CVE-2023-5412 | Image horizontal reel scroll slideshow <= 13.2 -  Authenticated (Subscriber+) SQL Injection via Shortcode | https://github.com/RandomRobbieBF/CVE-2023-5412 | | 
 
 
 # klee on Github 推荐
