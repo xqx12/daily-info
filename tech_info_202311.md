@@ -78,13 +78,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231101T12:15:53Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9129 | 2027| 
 | 20231101T12:07:03Z | Logika Fuzzy Menggunakan Javascript dengan library Javascript | https://github.com/andriefendy26/Logika-Fuzzy | 0 | 0| 
 | 20231101T11:36:06Z | A compact, black-box network protocol fuzzer | https://github.com/s0uthwood/BlackBoxFuzzer | 1 | 0| 
 | 20231101T11:24:46Z | Null | https://github.com/IsaakProg/FuzzyVault_Teste | 0 | 0| 
 | 20231101T11:08:05Z | Docker container to fuzz Apache%s HTTPD with AFL++ and Honggfuzz | https://github.com/marcellomaugeri/Fuzzing-HTTPD | 0 | 0| 
 | 20231101T09:46:28Z | Null | https://github.com/fx2y/fuzzy-palm-tree | 0 | 0| 
 | 20231101T07:47:04Z | A toy Python fuzzer | https://github.com/D31T4/COMP6841-project | 0 | 0| 
-| 20231101T03:16:12Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9128 | 2027| 
 | 20231101T01:14:31Z | FuzzyLogicAPI Using PollyFuzz | https://github.com/Arun6552/FuzzyLogicAPI | 0 | 0| 
 | 20231101T01:00:01Z | Fuzzy C-Means allows for overlapping memberships, while AHP helps prioritize segmentation criteria. This approach enhances marketing strategies by better understanding and targeting specific customer segments. | https://github.com/hongnhungmint/CustomerSegmentation_FuzzyC-Means | 0 | 0| 
 | 20231101T00:35:00Z | Null | https://github.com/KrishSukhani23/FuzzyLogic | 0 | 0| 
