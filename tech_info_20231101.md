@@ -49,6 +49,7 @@
 | 20231101T11:55:45Z | In this project a buffer overflow exploitation was the main goal. | https://github.com/TheodorosChalimas/BufferOverflowExploitation | 0 | 0| 
 | 20231101T10:33:42Z | The Best Exploit For Roblox | https://github.com/HunterZREBORN/hunterzreborn.github.io | 1 | 0| 
 | 20231101T09:59:27Z | exploit for cve-2023-46747 | https://github.com/W01fh4cker/CVE-2023-46747-RCE | 0 | 0| 
+| 20231101T08:37:23Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5457 | 1062| 
 | 20231101T04:55:00Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5603 | 716| 
 | 20231101T02:56:02Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 67 | 20| 
 | 20231101T00:18:24Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-golang-nested-lfTHd-exploit-run | 0 | 0| 
