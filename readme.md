@@ -44,6 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231101T12:01:23Z | Cool little exploit im devving on freetime. specifically targetted to children who want to bypass the schools filter. | https://github.com/FozunSChoolaccount/Web-Ability-Webcopier | 0 | 0| 
 | 20231101T11:55:45Z | In this project a buffer overflow exploitation was the main goal. | https://github.com/TheodorosChalimas/BufferOverflowExploitation | 0 | 0| 
 | 20231101T11:07:19Z | Kubernetes Attack Graph | https://github.com/DataDog/KubeHound | 391 | 19| 
 | 20231101T10:33:42Z | The Best Exploit For Roblox | https://github.com/HunterZREBORN/hunterzreborn.github.io | 1 | 0| 
@@ -56,6 +57,10 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231101T08:49:53Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 886 | 149| 
+| 20231101T08:17:10Z | IndoXploit webshell V.3 is an PHP based webshell or backdoor with unique and usefull features | https://github.com/drerx/indoxploit-shell | 1 | 1| 
+| 20231101T07:53:53Z | PHP shell backdoors list  ( collection ) | https://github.com/1337r0j4n/php-backdoors | 60 | 23| 
+| 20231101T06:57:27Z | Null | https://github.com/edabezek/BackdoorListener | 0 | 0| 
 | 20231101T00:48:57Z | Null | https://github.com/Alex-Andrv/distributed_backdoors_search | 0 | 0| 
 
 
