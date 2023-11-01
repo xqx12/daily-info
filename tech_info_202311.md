@@ -79,8 +79,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231101T12:27:55Z | Null | https://github.com/andriefendy26/Logika-Fuzzy | 0 | 0| 
 | 20231101T12:15:53Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9129 | 2027| 
-| 20231101T12:07:03Z | Logika Fuzzy Menggunakan Javascript dengan library Javascript | https://github.com/andriefendy26/Logika-Fuzzy | 0 | 0| 
 | 20231101T11:36:06Z | A compact, black-box network protocol fuzzer | https://github.com/s0uthwood/BlackBoxFuzzer | 1 | 0| 
 | 20231101T11:24:46Z | Null | https://github.com/IsaakProg/FuzzyVault_Teste | 0 | 0| 
 | 20231101T11:08:05Z | Docker container to fuzz Apache%s HTTPD with AFL++ and Honggfuzz | https://github.com/marcellomaugeri/Fuzzing-HTTPD | 0 | 0| 
