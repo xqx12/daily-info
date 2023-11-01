@@ -93,9 +93,9 @@
 | 20231031T05:56:52Z | Null | https://github.com/Yonsei-AIS-Lab/Instance-Agnostic-Backdoor-Attack | 0 | 0| 
 | 20231031T00:07:03Z | A backdoor plist that automatically runs a script from the internet | https://github.com/Wolfoverflow/backdoor | 0 | 0| 
 | 20231030T23:51:13Z | A backdoor plist that automatically runs a script from the internet | https://github.com/Wolfoverflow/backdoorPlist | 0 | 0| 
+| 20231030T20:57:14Z | A backdoor defense for federated learning via isolated subspace training (NeurIPS2023) | https://github.com/git-disl/Lockdown | 2 | 0| 
 | 20231030T19:26:37Z | PyTorch implementation for %Black-box Backdoor Defense via Zero-shot Image Purification% | https://github.com/sycny/ZIP | 0 | 0| 
 | 20231030T19:01:44Z | Null | https://github.com/Isi-Atash/Backdoor-Attacks-against-Machine-Learning-based-Malware-Detection | 0 | 0| 
-| 20231030T14:22:04Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 5 | 1| 
 
 
 # symbolic execution on Github 推荐
