@@ -79,8 +79,8 @@
 | 20231031T20:52:26Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 589 | 112| 
 | 20231031T18:16:49Z | Porch Pirate is a recon client and framework that facilitates the automated discovery and exploitation of API endpoints and secrets committed to public Postman workspaces, collections, requests, users and teams. Porch Pirate can be used as a client or be incorporated into your own applications. | https://github.com/MandConsultingGroup/porch-pirate | 3 | 0| 
 | 20231031T17:22:05Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5455 | 1060| 
+| 20231031T14:49:38Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 233 | 15| 
 | 20231031T12:48:46Z | Null | https://github.com/JT10git/Exploit-In-The-Wild-Notifier | 0 | 0| 
-| 20231031T12:04:03Z | A collection of ChromeOS exploits free for the public | https://github.com/3kh0/ext-remover | 271 | 281| 
 
 
 # backdoor on Github 推荐
