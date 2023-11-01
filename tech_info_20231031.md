@@ -94,6 +94,7 @@
 | 20231031T11:23:48Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1482 | 110| 
 | 20231031T10:29:33Z | just ignore | https://github.com/Chin0303/fuzzy-sniffle | 0 | 0| 
 | 20231031T06:22:24Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4886 | 1168| 
+| 20231031T03:43:04Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 101 | 14| 
 | 20231031T02:47:29Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 454 | 60| 
 | 20231031T00:55:02Z | Null | https://github.com/fwhdzh/FaultFuzz-FrontEnd | 0 | 0| 
 
