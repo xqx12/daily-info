@@ -45,8 +45,8 @@
 | 20231102T11:52:21Z | Null | https://github.com/cryptoknight2003/my-HTB-exploits- | 0 | 0| 
 | 20231102T11:50:55Z | Null | https://github.com/cryptoknight2003/my-HTB-pythonscripts-exploits | 0 | 0| 
 | 20231102T11:49:35Z | Null | https://github.com/cryptoknight2003/my-exploits-for-htb | 0 | 0| 
+| 20231102T11:20:42Z | Null | https://github.com/VulnExpo/ExploitHunter | 5 | 0| 
 | 20231102T10:52:28Z | THis man take from packet strom and send CVE my exploit  | https://github.com/capture0x/Stole-My-Exploit | 0 | 0| 
-| 20231102T10:24:49Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5610 | 716| 
 
 
 # backdoor on Github 推荐
