@@ -96,6 +96,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231102T12:12:11Z | Money is a key player in various financial markets, including the stock market, bond market, and foreign exchange market. These markets play a crucial role in the global economy. | https://github.com/lofffwerfew/fuzzy-giggle | 0 | 0| 
+| 20231102T12:11:36Z | Hyperinflation is a situation where the value of money plummets rapidly. Historical examples include the hyperinflation in Germany in the 1920s and more recent examples in Zimbabwe and Venezuela. | https://github.com/lofffwerfew/fuzzy-octo-sniffle | 0 | 0| 
 | 20231102T11:55:50Z | Money plays a significant role in financial markets, including stocks, bonds, and commodities, where investors trade and invest in various financial instruments. | https://github.com/vhjhugy777/fuzzy-telegram | 0 | 0| 
 | 20231102T11:31:37Z | Null | https://github.com/fuzzfacce/fuzzfacce | 0 | 0| 
 | 20231102T11:09:04Z | Upstream Proxy Burp for fuzzing | https://github.com/nxczje/goFuzz | 0 | 0| 
@@ -104,8 +106,6 @@
 | 20231102T10:08:26Z | Null | https://github.com/Jonasitoelprogramador/fuzzy-palm-tree | 0 | 0| 
 | 20231102T10:00:46Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 461 | 62| 
 | 20231102T09:44:59Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 2073 | 96| 
-| 20231102T07:37:07Z | Null | https://github.com/qscholten/fuzzing | 0 | 0| 
-| 20231102T06:48:22Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4890 | 1169| 
 
 
 
