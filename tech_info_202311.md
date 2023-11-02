@@ -21,7 +21,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231102T12:24:40Z | CVE-2023-46747 | exploit for cve-2023-46747 | https://github.com/W01fh4cker/CVE-2023-46747-RCE | | 
+| 20231102T12:51:13Z | CVE-2023-46747 | exploit for cve-2023-46747 | https://github.com/W01fh4cker/CVE-2023-46747-RCE | | 
 | 20231102T11:10:22Z | CVE-2021-28165 | Null | https://github.com/uthrasri/CVE-2021-28165 | | 
 | 20231102T06:05:48Z | CVE-2023-36884 | MS Office and Windows HTML RCE (CVE-2023-36884) - PoC and exploit | https://github.com/jakabakos/CVE-2023-36884-MS-Office-HTML-RCE | | 
 | 20231102T05:40:01Z | CVE-2023-47184 | Exploit Title:  WordPress Plugin Admin Bar & Dashboard Access Control Version: 1.2.8 - "Dashboard Redirect" field  Stored Cross-Site Scripting (XSS) | https://github.com/rach1tarora/CVE-2023-47184 | | 
