@@ -51,24 +51,25 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231102T11:58:34Z | GitOps Repository | https://github.com/rhtap-perf-test/cin4s-839-0081-app-mPJuk-exploit-borrow | 0 | 0| 
+| 20231102T11:56:53Z | Here is possible to find the codes I%m using for the thesis. My thesis is about calibration and validation of DSGE models using the Model Confidence Set theory, where I will exploit the ICA theory for the identification of SVAR model. | https://github.com/GiosueCavagna/Thesis | 0 | 0| 
+| 20231102T11:52:21Z | Null | https://github.com/cryptoknight2003/my-HTB-exploits- | 0 | 0| 
+| 20231102T11:50:55Z | Null | https://github.com/cryptoknight2003/my-HTB-pythonscripts-exploits | 0 | 0| 
+| 20231102T11:49:35Z | Null | https://github.com/cryptoknight2003/my-exploits-for-htb | 0 | 0| 
+| 20231102T10:52:28Z | THis man take from packet strom and send CVE my exploit  | https://github.com/capture0x/Stole-My-Exploit | 0 | 0| 
+| 20231102T02:55:33Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 68 | 20| 
 | 20231102T01:28:37Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0047-app-34wed-exploit-understand | 0 | 0| 
 | 20231102T00:35:38Z | Null | https://github.com/Maschell/WiiUVolContentExploits | 5 | 0| 
 | 20231102T00:19:34Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-nodejs-DJdgn-wait-exploit | 0 | 0| 
-| 20231101T23:49:52Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWur | 1 | 0| 
-| 20231101T23:49:07Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANur | 1 | 0| 
-| 20231101T23:48:28Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANur | 1 | 0| 
-| 20231101T23:47:48Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANur | 1 | 0| 
-| 20231101T23:08:24Z | Docker based DNS component of the PS4/PS5 Exploit Host | https://github.com/Al-Azif/exploit-host-dns | 8 | 5| 
-| 20231101T22:48:35Z | Docker based DNS & Exploit host | https://github.com/jeroendev-one/docker-exploit-dns | 1 | 1| 
-| 20231101T21:54:47Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10830 | 1655| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231102T11:59:03Z | Null | https://github.com/jeongjin-shin/class-specific-backdoor | 0 | 0| 
+| 20231102T07:08:55Z | Fast integration of backdoor attacks in machine learning and federated learning. | https://github.com/mtuann/fedlearn-backdoor-attacks | 3 | 0| 
 | 20231101T23:40:57Z | PHP shell backdoors list  ( collection ) | https://github.com/1337r0j4n/php-backdoors | 63 | 24| 
 | 20231101T21:30:59Z | Null | https://github.com/FlapShatner/backdoor | 0 | 0| 
-| 20231101T15:03:27Z | Fast integration of backdoor attacks in machine learning and federated learning. | https://github.com/mtuann/fedlearn-backdoor-attacks | 2 | 0| 
 | 20231101T08:49:53Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 886 | 149| 
 | 20231101T08:17:10Z | IndoXploit webshell V.3 is an PHP based webshell or backdoor with unique and usefull features | https://github.com/drerx/indoxploit-shell | 1 | 1| 
 | 20231101T06:57:27Z | Null | https://github.com/edabezek/BackdoorListener | 0 | 0| 
