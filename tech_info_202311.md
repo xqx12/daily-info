@@ -51,7 +51,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231102T12:13:40Z | kerberos exploitation framework | https://github.com/maladi17/kerbersploit | 0 | 0| 
+| 20231102T12:14:31Z | kerberos exploitation framework | https://github.com/maladi17/kerbersploit | 0 | 0| 
 | 20231102T12:10:40Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-unsupported-runtime-eiGR4-exploit-submit | 0 | 0| 
 | 20231102T12:04:43Z | GitOps Repository | https://github.com/redhat-appstudio-qe/image-repository-cr-dotnet-component-uXaZN-exploit-speak | 0 | 0| 
 | 20231102T11:58:34Z | GitOps Repository | https://github.com/rhtap-perf-test/cin4s-839-0081-app-mPJuk-exploit-borrow | 0 | 0| 
