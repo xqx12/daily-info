@@ -67,6 +67,7 @@
 | --- | --- | --- | --- | ---| 
 | 20231101T23:40:57Z | PHP shell backdoors list  ( collection ) | https://github.com/1337r0j4n/php-backdoors | 63 | 24| 
 | 20231101T21:30:59Z | Null | https://github.com/FlapShatner/backdoor | 0 | 0| 
+| 20231101T15:03:27Z | Fast integration of backdoor attacks in machine learning and federated learning. | https://github.com/mtuann/fedlearn-backdoor-attacks | 2 | 0| 
 | 20231101T08:49:53Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 886 | 149| 
 | 20231101T08:17:10Z | IndoXploit webshell V.3 is an PHP based webshell or backdoor with unique and usefull features | https://github.com/drerx/indoxploit-shell | 1 | 1| 
 | 20231101T06:57:27Z | Null | https://github.com/edabezek/BackdoorListener | 0 | 0| 
