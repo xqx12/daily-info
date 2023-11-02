@@ -59,7 +59,7 @@
 | 20231101T22:14:41Z | Null | https://github.com/Maschell/WiiUVolContentExploits | 3 | 0| 
 | 20231101T21:54:47Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10830 | 1655| 
 | 20231101T21:10:36Z | Supplementary materials for paper %Identifying and Exploiting Duplicate Technical Forum Posts with GPT-3% | https://github.com/TechnicalForumResearcher/DuplicateDetectionWithGPT3 | 0 | 0| 
-| 20231101T16:39:23Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 170 | 14| 
+| 20231101T19:30:14Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5459 | 1062| 
 
 
 # backdoor on Github 推荐
