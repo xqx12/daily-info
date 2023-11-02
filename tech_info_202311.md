@@ -89,6 +89,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231102T00:43:57Z | Kaitai Struct compiler to produce format specific binary fuzzer | https://github.com/chen-ky/ks-bin-fuzzer | 0 | 0| 
 | 20231101T23:53:02Z | Null | https://github.com/michaelmunson/fuzzinator | 0 | 0| 
 | 20231101T22:13:21Z | Null | https://github.com/pronuld7/fuzzy-telegram | 0 | 0| 
 | 20231101T21:51:17Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5108 | 548| 
@@ -98,7 +99,6 @@
 | 20231101T11:36:06Z | A compact, black-box network protocol fuzzer | https://github.com/s0uthwood/BlackBoxFuzzer | 1 | 0| 
 | 20231101T11:24:46Z | Null | https://github.com/IsaakProg/FuzzyVault_Teste | 0 | 0| 
 | 20231101T11:08:05Z | Docker container to fuzz Apache%s HTTPD with AFL++ and Honggfuzz | https://github.com/marcellomaugeri/Fuzzing-HTTPD | 0 | 0| 
-| 20231101T09:46:28Z | Null | https://github.com/fx2y/fuzzy-palm-tree | 0 | 0| 
 
 
 
