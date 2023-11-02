@@ -51,6 +51,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231102T12:13:40Z | kerberos exploitation framework | https://github.com/maladi17/kerbersploit | 0 | 0| 
+| 20231102T12:10:40Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-unsupported-runtime-eiGR4-exploit-submit | 0 | 0| 
 | 20231102T12:04:43Z | GitOps Repository | https://github.com/redhat-appstudio-qe/image-repository-cr-dotnet-component-uXaZN-exploit-speak | 0 | 0| 
 | 20231102T11:58:34Z | GitOps Repository | https://github.com/rhtap-perf-test/cin4s-839-0081-app-mPJuk-exploit-borrow | 0 | 0| 
 | 20231102T11:56:53Z | Here is possible to find the codes I%m using for the thesis. My thesis is about calibration and validation of DSGE models using the Model Confidence Set theory, where I will exploit the ICA theory for the identification of SVAR model. | https://github.com/GiosueCavagna/Thesis | 0 | 0| 
@@ -59,8 +61,6 @@
 | 20231102T11:49:35Z | Null | https://github.com/cryptoknight2003/my-exploits-for-htb | 0 | 0| 
 | 20231102T10:52:28Z | THis man take from packet strom and send CVE my exploit  | https://github.com/capture0x/Stole-My-Exploit | 0 | 0| 
 | 20231102T02:55:33Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 68 | 20| 
-| 20231102T01:28:37Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0047-app-34wed-exploit-understand | 0 | 0| 
-| 20231102T00:35:38Z | Null | https://github.com/Maschell/WiiUVolContentExploits | 5 | 0| 
 
 
 # backdoor on Github 推荐
