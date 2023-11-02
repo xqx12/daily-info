@@ -56,10 +56,10 @@
 | 20231101T23:47:48Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANur | 1 | 0| 
 | 20231101T23:08:24Z | Docker based DNS component of the PS4/PS5 Exploit Host | https://github.com/Al-Azif/exploit-host-dns | 8 | 5| 
 | 20231101T22:48:35Z | Docker based DNS & Exploit host | https://github.com/jeroendev-one/docker-exploit-dns | 1 | 1| 
-| 20231101T22:14:41Z | Null | https://github.com/Maschell/WiiUVolContentExploits | 3 | 0| 
 | 20231101T21:54:47Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10830 | 1655| 
 | 20231101T21:10:36Z | Supplementary materials for paper %Identifying and Exploiting Duplicate Technical Forum Posts with GPT-3% | https://github.com/TechnicalForumResearcher/DuplicateDetectionWithGPT3 | 0 | 0| 
 | 20231101T19:30:14Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5459 | 1062| 
+| 20231101T16:39:23Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 170 | 14| 
 
 
 # backdoor on Github 推荐
