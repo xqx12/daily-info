@@ -52,8 +52,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231102T12:18:17Z | Null | https://github.com/jeongjin-shin/class-specific-backdoor | 0 | 0| 
 | 20231102T12:12:11Z | Null | https://github.com/th3090/Instance-Agnostic-Backdoor-Attack | 0 | 0| 
-| 20231102T11:59:03Z | Null | https://github.com/jeongjin-shin/class-specific-backdoor | 0 | 0| 
 | 20231102T07:08:55Z | Fast integration of backdoor attacks in machine learning and federated learning. | https://github.com/mtuann/fedlearn-backdoor-attacks | 3 | 0| 
 
 
