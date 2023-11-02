@@ -50,6 +50,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231102T00:19:34Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-nodejs-DJdgn-wait-exploit | 0 | 0| 
 | 20231101T23:49:52Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEWur | 1 | 0| 
 | 20231101T23:49:07Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANur | 1 | 0| 
 | 20231101T23:48:28Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANur | 1 | 0| 
@@ -59,7 +60,6 @@
 | 20231101T22:14:41Z | Null | https://github.com/Maschell/WiiUVolContentExploits | 3 | 0| 
 | 20231101T21:54:47Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10830 | 1655| 
 | 20231101T21:10:36Z | Supplementary materials for paper %Identifying and Exploiting Duplicate Technical Forum Posts with GPT-3% | https://github.com/TechnicalForumResearcher/DuplicateDetectionWithGPT3 | 0 | 0| 
-| 20231101T16:39:23Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 170 | 14| 
 
 
 # backdoor on Github 推荐
