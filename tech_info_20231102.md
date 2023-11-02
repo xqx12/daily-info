@@ -46,14 +46,14 @@
 | 20231102T11:50:55Z | Null | https://github.com/cryptoknight2003/my-HTB-pythonscripts-exploits | 0 | 0| 
 | 20231102T11:49:35Z | Null | https://github.com/cryptoknight2003/my-exploits-for-htb | 0 | 0| 
 | 20231102T10:52:28Z | THis man take from packet strom and send CVE my exploit  | https://github.com/capture0x/Stole-My-Exploit | 0 | 0| 
-| 20231102T02:55:33Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 68 | 20| 
+| 20231102T10:24:49Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5610 | 716| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231102T12:24:14Z | Null | https://github.com/th3090/Instance-Agnostic-Backdoor-Attack | 0 | 0| 
 | 20231102T12:18:17Z | Null | https://github.com/jeongjin-shin/class-specific-backdoor | 0 | 0| 
-| 20231102T12:12:11Z | Null | https://github.com/th3090/Instance-Agnostic-Backdoor-Attack | 0 | 0| 
 | 20231102T07:08:55Z | Fast integration of backdoor attacks in machine learning and federated learning. | https://github.com/mtuann/fedlearn-backdoor-attacks | 3 | 0| 
 
 
