@@ -89,6 +89,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231102T01:04:09Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 457 | 61| 
 | 20231102T00:55:26Z | Null | https://github.com/sneharajan7/Adaptive-neuro-fuzzy-system | 0 | 0| 
 | 20231102T00:43:57Z | Kaitai Struct compiler to produce format specific binary fuzzer | https://github.com/chen-ky/ks-bin-fuzzer | 0 | 0| 
 | 20231101T23:53:02Z | Null | https://github.com/michaelmunson/fuzzinator | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20231101T19:11:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9127 | 2028| 
 | 20231101T12:27:55Z | Null | https://github.com/andriefendy26/Logika-Fuzzy | 0 | 0| 
 | 20231101T11:36:06Z | A compact, black-box network protocol fuzzer | https://github.com/s0uthwood/BlackBoxFuzzer | 1 | 0| 
-| 20231101T11:24:46Z | Null | https://github.com/IsaakProg/FuzzyVault_Teste | 0 | 0| 
 
 
 
