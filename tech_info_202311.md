@@ -21,7 +21,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231102T01:20:54Z | CVE-2023-46747 | exploit for cve-2023-46747 | https://github.com/W01fh4cker/CVE-2023-46747-RCE | | 
+| 20231102T01:22:50Z | CVE-2023-46747 | exploit for cve-2023-46747 | https://github.com/W01fh4cker/CVE-2023-46747-RCE | | 
 | 20231101T19:36:38Z | CVE-2023-46998 | Null | https://github.com/soy-oreocato/CVE-2023-46998 | | 
 | 20231101T19:19:36Z | CVE-2023-47184 | Exploit Title:  WordPress Plugin Admin Bar & Dashboard Access Control Version: 1.2.8 - "Dashboard Redirect" field  Stored Cross-Site Scripting (XSS) | https://github.com/rach1tarora/CVE-2023-47184 | | 
 | 20231101T16:28:29Z | CVE-2023-46747 | Null | https://github.com/y4v4z/CVE-2023-46747-POC | | 
