@@ -21,6 +21,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231103T01:19:09Z | CVE-2023-28121 | Python 2.7 | https://github.com/Jenderal92/WP-CVE-2023-28121 | | 
 | 20231103T01:09:19Z | CVE-2023-46747 | exploit for cve-2023-46747 | https://github.com/W01fh4cker/CVE-2023-46747-RCE | | 
 | 20231103T01:02:57Z | CVE-2023-5360 | Python 2.7 | https://github.com/Jenderal92/WP-CVE-2023-5360 | | 
 | 20231102T23:56:24Z | CVE-2023-22518 | Improper Authorization Vulnerability in Confluence Data Center and Server | https://github.com/ForceFledgling/CVE-2023-22518 | | 
@@ -30,7 +31,6 @@
 | 20231102T16:05:30Z | cve-2023-46747 | Null | https://github.com/nvansluis/test_cve-2023-46747 | | 
 | 20231102T16:05:24Z | CVE-2023-46980 | Null | https://github.com/sajaljat/CVE-2023-46980 | | 
 | 20231102T13:09:52Z | CVE-2023-46954 | Null | https://github.com/jakedmurphy1/CVE-2023-46954 | | 
-| 20231102T11:10:22Z | CVE-2021-28165 | Null | https://github.com/uthrasri/CVE-2021-28165 | | 
 
 
 # klee on Github 推荐
