@@ -54,6 +54,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231103T01:51:53Z | This project is for the research paper %Exploiting Frequency Characteristics for Boosting Invisibility of Transferable Adversarial Attacks%. After paper published, we will provide the associated code and data here. | https://github.com/Licccheee/Boosting-Adversarial-Attacks-by-Fourier-Analysis | 0 | 0| 
 | 20231103T01:24:19Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0062-app-gFNgi-exploit-call | 0 | 0| 
 | 20231103T01:21:52Z | Actic Installer installs a replicated version of roblox which allows you to exploit on a older version | https://github.com/sivytoud/Actic-Installer | 0 | 0| 
 | 20231103T00:25:06Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-ya | 1 | 0| 
@@ -63,7 +64,6 @@
 | 20231103T00:07:02Z | Null | https://github.com/bothelpersgpt/i-ready-exploits | 1 | 0| 
 | 20231102T21:01:31Z | Null | https://github.com/x6vrn/Exploit-CORS | 0 | 0| 
 | 20231102T20:58:04Z | Null | https://github.com/x6vrn/anas-exploit-CORS | 0 | 0| 
-| 20231102T19:34:44Z | A collection of ChromeOS exploits free for the public | https://github.com/3kh0/ext-remover | 276 | 289| 
 
 
 # backdoor on Github 推荐
