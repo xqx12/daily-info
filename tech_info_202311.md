@@ -21,7 +21,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231103T01:19:09Z | CVE-2023-28121 | Python 2.7 | https://github.com/Jenderal92/WP-CVE-2023-28121 | | 
+| 20231103T01:21:19Z | CVE-2023-28121 | Python 2.7 | https://github.com/Jenderal92/WP-CVE-2023-28121 | | 
 | 20231103T01:09:19Z | CVE-2023-46747 | exploit for cve-2023-46747 | https://github.com/W01fh4cker/CVE-2023-46747-RCE | | 
 | 20231103T01:02:57Z | CVE-2023-5360 | Python 2.7 | https://github.com/Jenderal92/WP-CVE-2023-5360 | | 
 | 20231102T23:56:24Z | CVE-2023-22518 | Improper Authorization Vulnerability in Confluence Data Center and Server | https://github.com/ForceFledgling/CVE-2023-22518 | | 
@@ -54,6 +54,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231103T01:21:52Z | Actic Installer installs a replicated version of roblox which allows you to exploit on a older version | https://github.com/sivytoud/Actic-Installer | 0 | 0| 
 | 20231103T00:25:06Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-ya | 1 | 0| 
 | 20231103T00:24:17Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-ya | 1 | 0| 
 | 20231103T00:23:34Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-ya | 1 | 0| 
@@ -63,7 +64,6 @@
 | 20231102T20:58:04Z | Null | https://github.com/x6vrn/anas-exploit-CORS | 0 | 0| 
 | 20231102T19:34:44Z | A collection of ChromeOS exploits free for the public | https://github.com/3kh0/ext-remover | 276 | 289| 
 | 20231102T18:53:21Z | A collection of scripts to exploit Stardew Valley. | https://github.com/Diordany/stardew-valley-exploits | 0 | 0| 
-| 20231102T18:51:08Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5459 | 1062| 
 
 
 # backdoor on Github 推荐
