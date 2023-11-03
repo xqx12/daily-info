@@ -51,11 +51,11 @@
 | 20231102T19:34:44Z | A collection of ChromeOS exploits free for the public | https://github.com/3kh0/ext-remover | 276 | 289| 
 | 20231102T18:53:21Z | A collection of scripts to exploit Stardew Valley. | https://github.com/Diordany/stardew-valley-exploits | 0 | 0| 
 | 20231102T18:51:08Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5459 | 1062| 
+| 20231102T15:03:09Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 234 | 16| 
 | 20231102T12:14:31Z | kerberos exploitation framework | https://github.com/maladi17/kerbersploit | 0 | 0| 
 | 20231102T12:10:40Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-unsupported-runtime-eiGR4-exploit-submit | 0 | 0| 
 | 20231102T12:04:43Z | GitOps Repository | https://github.com/redhat-appstudio-qe/image-repository-cr-dotnet-component-uXaZN-exploit-speak | 0 | 0| 
 | 20231102T11:58:34Z | GitOps Repository | https://github.com/rhtap-perf-test/cin4s-839-0081-app-mPJuk-exploit-borrow | 0 | 0| 
-| 20231102T11:56:53Z | Here is possible to find the codes I%m using for the thesis. My thesis is about calibration and validation of DSGE models using the Model Confidence Set theory, where I will exploit the ICA theory for the identification of SVAR model. | https://github.com/GiosueCavagna/Thesis | 0 | 0| 
 
 
 # backdoor on Github 推荐
