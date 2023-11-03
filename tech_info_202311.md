@@ -54,6 +54,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231103T12:26:39Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 59 | 12| 
 | 20231103T12:25:01Z | exploit for cve-2023-46747 | https://github.com/W01fh4cker/CVE-2023-46747-RCE | 72 | 18| 
 | 20231103T11:52:09Z | AttackMate is an attack orchestration tool that executes full attack-chains based on playbooks. | https://github.com/ait-aecid/attackmate | 1 | 0| 
 | 20231103T11:49:20Z | Post-exploitation agent for Merlin | https://github.com/Ne0nd0g/merlin-agent | 135 | 48| 
@@ -62,8 +63,7 @@
 | 20231103T08:55:12Z | The UAC Bypass program is designed to run files with elevated privileges on Windows without requesting user permission or displaying the UAC screen. It provides a way to bypass User Account Control (UAC) restrictions for specific tasks. | https://github.com/justhyak/UAC-Bypass-FUD | 1 | 0| 
 | 20231103T08:20:46Z | This repository contains all code and resources relevant for demonstrations of multi-cloud exploitation of EUMETSAT data. | https://github.com/wekeo/multicloud | 0 | 0| 
 | 20231103T08:20:30Z | A crappy exploit script written for CVE-2023-38646. It works about as well as peace treaties between Israel and Hamas. | https://github.com/Itrekr/CVE-2023-38646-Crapsploit | 0 | 0| 
-| 20231103T07:47:43Z | A program that automatically deobfuscates most necessary classes and functions for photon reversing/ exploiting. | https://github.com/Bluscream/VRC-Photon-Deobfuscator | 1 | 0| 
-| 20231103T07:38:37Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 69 | 20| 
+| 20231103T08:05:41Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5613 | 716| 
 
 
 # backdoor on Github 推荐
