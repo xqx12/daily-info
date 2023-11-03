@@ -54,6 +54,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231103T00:24:17Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-ya | 1 | 0| 
+| 20231103T00:23:34Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-ya | 1 | 0| 
 | 20231103T00:22:25Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ya | 1 | 0| 
 | 20231103T00:07:02Z | Null | https://github.com/bothelpersgpt/i-ready-exploits | 1 | 0| 
 | 20231102T21:01:31Z | Null | https://github.com/x6vrn/Exploit-CORS | 0 | 0| 
@@ -62,8 +64,6 @@
 | 20231102T18:53:21Z | A collection of scripts to exploit Stardew Valley. | https://github.com/Diordany/stardew-valley-exploits | 0 | 0| 
 | 20231102T12:14:31Z | kerberos exploitation framework | https://github.com/maladi17/kerbersploit | 0 | 0| 
 | 20231102T12:10:40Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-unsupported-runtime-eiGR4-exploit-submit | 0 | 0| 
-| 20231102T12:04:43Z | GitOps Repository | https://github.com/redhat-appstudio-qe/image-repository-cr-dotnet-component-uXaZN-exploit-speak | 0 | 0| 
-| 20231102T11:58:34Z | GitOps Repository | https://github.com/rhtap-perf-test/cin4s-839-0081-app-mPJuk-exploit-borrow | 0 | 0| 
 
 
 # backdoor on Github 推荐
