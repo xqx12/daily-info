@@ -21,8 +21,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231103T01:37:05Z | CVE-2023-46747 | exploit for cve-2023-46747 | https://github.com/W01fh4cker/CVE-2023-46747-RCE | | 
 | 20231103T01:21:19Z | CVE-2023-28121 | Python 2.7 | https://github.com/Jenderal92/WP-CVE-2023-28121 | | 
-| 20231103T01:09:19Z | CVE-2023-46747 | exploit for cve-2023-46747 | https://github.com/W01fh4cker/CVE-2023-46747-RCE | | 
 | 20231103T01:02:57Z | CVE-2023-5360 | Python 2.7 | https://github.com/Jenderal92/WP-CVE-2023-5360 | | 
 | 20231102T23:56:24Z | CVE-2023-22518 | Improper Authorization Vulnerability in Confluence Data Center and Server | https://github.com/ForceFledgling/CVE-2023-22518 | | 
 | 20231102T22:53:37Z | CVE-2023-22518 | Checker for CVE-2023-22518 vulnerability on Confluence | https://github.com/davidfortytwo/CVE-2023-22518 | | 
