@@ -39,9 +39,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231103T12:25:01Z | exploit for cve-2023-46747 | https://github.com/W01fh4cker/CVE-2023-46747-RCE | 72 | 18| 
 | 20231103T11:52:09Z | AttackMate is an attack orchestration tool that executes full attack-chains based on playbooks. | https://github.com/ait-aecid/attackmate | 1 | 0| 
 | 20231103T11:49:20Z | Post-exploitation agent for Merlin | https://github.com/Ne0nd0g/merlin-agent | 135 | 48| 
-| 20231103T11:09:26Z | exploit for cve-2023-46747 | https://github.com/W01fh4cker/CVE-2023-46747-RCE | 71 | 18| 
 | 20231103T10:48:51Z | Terminal like php shell (PHP web terminal emulator) | https://github.com/jcubic/jsh.php | 18 | 6| 
 | 20231103T10:19:44Z | An executor of macro, cheats, exploit for any game | https://github.com/SmaamX/HelperEngine | 7 | 0| 
 | 20231103T08:55:12Z | The UAC Bypass program is designed to run files with elevated privileges on Windows without requesting user permission or displaying the UAC screen. It provides a way to bypass User Account Control (UAC) restrictions for specific tasks. | https://github.com/justhyak/UAC-Bypass-FUD | 1 | 0| 
