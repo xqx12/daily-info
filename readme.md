@@ -80,6 +80,7 @@
 | 20231103T08:53:35Z | Null | https://github.com/rgeraldes24/tx-fuzz | 0 | 0| 
 | 20231103T08:06:36Z | Fuzzy ARAS is a React project aimed at implementing the Additive Ratio Assessment (ARAS) method using fuzzy logic | https://github.com/serhiidankovych/fuzzy-aras | 3 | 0| 
 | 20231103T08:02:22Z | Null | https://github.com/elenadani/fuzzy-memory | 0 | 0| 
+| 20231103T07:28:29Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 461 | 62| 
 | 20231103T02:49:34Z | Upstream Proxy Burp for fuzzing | https://github.com/tontacteam-NG/goFuzz | 0 | 0| 
 | 20231103T00:47:00Z | My clone repository | https://github.com/drqaml/fuzzy-tribble | 0 | 0| 
 
