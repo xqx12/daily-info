@@ -63,7 +63,7 @@
 | 20231102T20:58:04Z | Null | https://github.com/x6vrn/anas-exploit-CORS | 0 | 0| 
 | 20231102T19:34:44Z | A collection of ChromeOS exploits free for the public | https://github.com/3kh0/ext-remover | 276 | 289| 
 | 20231102T18:53:21Z | A collection of scripts to exploit Stardew Valley. | https://github.com/Diordany/stardew-valley-exploits | 0 | 0| 
-| 20231102T12:14:31Z | kerberos exploitation framework | https://github.com/maladi17/kerbersploit | 0 | 0| 
+| 20231102T18:51:08Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5459 | 1062| 
 
 
 # backdoor on Github 推荐
