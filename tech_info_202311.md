@@ -101,6 +101,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231103T00:47:00Z | My clone repository | https://github.com/drqaml/fuzzy-tribble | 0 | 0| 
 | 20231102T23:02:44Z | Multifile fuzzing library | https://github.com/HU-Mofuzz/mofuzz-mf | 0 | 0| 
 | 20231102T22:05:04Z | Null | https://github.com/AshishAgarwal2101/CS257FuzzyDB | 0 | 0| 
 | 20231102T21:40:34Z | Use fuzz_target! to generate #[test] for LLM representation alignment | https://github.com/SecurityLab-UCD/rust-fuzzer-gen | 0 | 0| 
@@ -110,7 +111,6 @@
 | 20231102T11:55:50Z | Money plays a significant role in financial markets, including stocks, bonds, and commodities, where investors trade and invest in various financial instruments. | https://github.com/vhjhugy777/fuzzy-telegram | 0 | 0| 
 | 20231102T11:31:37Z | Null | https://github.com/fuzzfacce/fuzzfacce | 0 | 0| 
 | 20231102T11:09:04Z | Upstream Proxy Burp for fuzzing | https://github.com/nxczje/goFuzz | 0 | 0| 
-| 20231102T10:49:42Z |  Monetary policy refers to the actions of a central bank or other regulatory authorities that determine the size and rate of growth of the money supply, which in turn affects interest rates. This policy is used to control inflation, stabilize currency, and promote economic growth. | https://github.com/neitanloshi/fuzzy-octo-spork | 0 | 0| 
 
 
 
