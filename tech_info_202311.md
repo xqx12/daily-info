@@ -54,6 +54,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231103T00:22:25Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ya | 1 | 0| 
 | 20231103T00:07:02Z | Null | https://github.com/bothelpersgpt/i-ready-exploits | 1 | 0| 
 | 20231102T21:01:31Z | Null | https://github.com/x6vrn/Exploit-CORS | 0 | 0| 
 | 20231102T20:58:04Z | Null | https://github.com/x6vrn/anas-exploit-CORS | 0 | 0| 
@@ -63,7 +64,6 @@
 | 20231102T12:10:40Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-unsupported-runtime-eiGR4-exploit-submit | 0 | 0| 
 | 20231102T12:04:43Z | GitOps Repository | https://github.com/redhat-appstudio-qe/image-repository-cr-dotnet-component-uXaZN-exploit-speak | 0 | 0| 
 | 20231102T11:58:34Z | GitOps Repository | https://github.com/rhtap-perf-test/cin4s-839-0081-app-mPJuk-exploit-borrow | 0 | 0| 
-| 20231102T11:56:53Z | Here is possible to find the codes I%m using for the thesis. My thesis is about calibration and validation of DSGE models using the Model Confidence Set theory, where I will exploit the ICA theory for the identification of SVAR model. | https://github.com/GiosueCavagna/Thesis | 0 | 0| 
 
 
 # backdoor on Github 推荐
