@@ -17,7 +17,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20231102T23:56:24Z | CVE-2023-22518 | Improper Authorization Vulnerability in Confluence Data Center and Server | https://github.com/ForceFledgling/CVE-2023-22518 | | 
-| 20231102T23:28:32Z | CVE-2023-46747 | exploit for cve-2023-46747 | https://github.com/W01fh4cker/CVE-2023-46747-RCE | | 
 | 20231102T22:53:37Z | CVE-2023-22518 | Checker for CVE-2023-22518 vulnerability on Confluence | https://github.com/davidfortytwo/CVE-2023-22518 | | 
 | 20231102T20:24:44Z | CVE-2023-2640 | Null | https://github.com/vinetsuicide/CVE-2023-2640-CVE-2023-32629 | | 
 | 20231102T16:08:20Z | CVE-2023-46974 | POC | https://github.com/yte121/CVE-2023-46974 | | 
@@ -26,6 +25,7 @@
 | 20231102T13:09:52Z | CVE-2023-46954 | Null | https://github.com/jakedmurphy1/CVE-2023-46954 | | 
 | 20231102T11:10:22Z | CVE-2021-28165 | Null | https://github.com/uthrasri/CVE-2021-28165 | | 
 | 20231102T06:05:48Z | CVE-2023-36884 | MS Office and Windows HTML RCE (CVE-2023-36884) - PoC and exploit | https://github.com/jakabakos/CVE-2023-36884-MS-Office-HTML-RCE | | 
+| 20231102T05:40:01Z | CVE-2023-47184 | Exploit Title:  WordPress Plugin Admin Bar & Dashboard Access Control Version: 1.2.8 - "Dashboard Redirect" field  Stored Cross-Site Scripting (XSS) | https://github.com/rach1tarora/CVE-2023-47184 | | 
 
 
 # klee on Github 推荐
