@@ -61,6 +61,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231103T11:51:35Z | gradient-based symbolic execution engine implemented from scratch | https://github.com/Koukyosyumei/Gymbo | 0 | 0| 
+| 20231103T10:56:01Z | Symbolic execution of LLVM IR with an engine written in Rust | https://github.com/PLSysSec/haybale | 462 | 22| 
+| 20231103T09:03:02Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 700 | 123| 
+| 20231103T07:48:52Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2349 | 638| 
 
 
 # big4 on Github 推荐

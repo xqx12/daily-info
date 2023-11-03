@@ -84,8 +84,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231102T12:24:01Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2350 | 638| 
-| 20231102T11:47:36Z | Symbolic execution of LLVM IR with an engine written in Rust | https://github.com/PLSysSec/haybale | 461 | 22| 
+| 20231103T11:51:35Z | gradient-based symbolic execution engine implemented from scratch | https://github.com/Koukyosyumei/Gymbo | 0 | 0| 
+| 20231103T10:56:01Z | Symbolic execution of LLVM IR with an engine written in Rust | https://github.com/PLSysSec/haybale | 462 | 22| 
+| 20231103T09:03:02Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 700 | 123| 
+| 20231103T07:48:52Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2349 | 638| 
 | 20231101T13:16:59Z |  AISE is a static verifier that combined Abstract Interpretation and Symbolic Execution techniques. | https://github.com/ZhenWang233/AISE | 0 | 0| 
 
 
