@@ -23,7 +23,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231104T11:58:22Z | CVE-2023-46604 | Null | https://github.com/evkl1d/CVE-2023-46604 | | 
+| 20231104T12:00:25Z | CVE-2023-46604 | Null | https://github.com/evkl1d/CVE-2023-46604 | | 
 | 20231104T11:46:56Z | CVE-2021-36393 | This script demonstrates a time-based blind SQL injection on Moodle platforms, exploiting response delays to extract data. | https://github.com/T0X1Cx/CVE-2021-36393-Exploit | | 
 | 20231104T08:52:03Z | CVE-2023-21716 | This is an exploit file which is used to check CVE-2021-21716 vulnerability | https://github.com/MojithaR/CVE-2023-21716-EXPLOIT.py | | 
 | 20231104T07:15:40Z | CVE-2023-46604 |  Achieving a Reverse Shell Exploit for Apache ActiveMQ (CVE_2023-46604)  | https://github.com/SaumyajeetDas/CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ | | 
@@ -89,7 +89,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231104T01:09:21Z | gradient-based symbolic execution engine implemented from scratch | https://github.com/Koukyosyumei/Gymbo | 7 | 0| 
+| 20231104T04:36:35Z | gradient-based symbolic execution engine implemented from scratch | https://github.com/Koukyosyumei/Gymbo | 8 | 0| 
 | 20231103T15:53:36Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2351 | 638| 
 | 20231103T10:56:01Z | Symbolic execution of LLVM IR with an engine written in Rust | https://github.com/PLSysSec/haybale | 462 | 22| 
 | 20231103T09:03:02Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 700 | 123| 
