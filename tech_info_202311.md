@@ -108,6 +108,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231104T12:14:33Z | whales007 | https://github.com/Babawale007/fuzzy-telegram | 0 | 0| 
 | 20231104T10:54:29Z | GoFuzzFind helps you find a particular text in a single file or multiple files. | https://github.com/daemon-surge-suzuya/GoFuzzFind | 0 | 0| 
 | 20231104T07:23:49Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 463 | 62| 
 | 20231104T04:49:49Z | Null | https://github.com/iam-sonusinha/fuzzy-funicular | 0 | 0| 
@@ -117,7 +118,6 @@
 | 20231103T21:41:23Z | A bioinformatics script for matching DNA sequences with predefined barcodes and adapters using a mismatch threshold, then visualizing the distribution of matches in FASTQ files. | https://github.com/MLKaufman/fuzzy-fastq | 0 | 0| 
 | 20231103T11:45:07Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4061 | 824| 
 | 20231103T10:17:21Z | Null | https://github.com/Parenbz/GrammarFuzzing | 0 | 0| 
-| 20231103T08:53:35Z | Null | https://github.com/rgeraldes24/tx-fuzz | 0 | 0| 
 
 
 
