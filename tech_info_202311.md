@@ -56,7 +56,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231104T01:29:58Z | a simple MEV arbitrage trading bot dashboard with anti-exploit features. | https://github.com/0x-jared/MevBot-alpha | 0 | 0| 
+| 20231104T01:49:47Z | a simple MEV arbitrage trading bot dashboard with anti-exploit features. | https://github.com/0x-jared/MevBot-alpha | 0 | 0| 
 | 20231104T01:23:25Z | Docker Remote API Scanner and Exploit | https://github.com/justakazh/DockerExploit | 0 | 0| 
 | 20231104T01:12:50Z | A simple MEV arbitrage trading dashboard with anti-exploit features.  | https://github.com/0x-jared/MevBot-Alpha | 0 | 0| 
 | 20231104T01:04:49Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0004-app-zBW7X-finish-exploit | 0 | 0| 
