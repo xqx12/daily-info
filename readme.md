@@ -25,7 +25,7 @@
 | 20231103T15:34:36Z | CVE-2023-22518 | Improper Authorization Vulnerability in Confluence Data Center and Server | https://github.com/ForceFledgling/CVE-2023-22518 | | 
 | 20231103T15:22:18Z | CVE-2022-21449 | Null | https://github.com/AlexanderZinoni/CVE-2022-21449 | | 
 | 20231103T13:37:29Z | CVE-2023-46747 | An Exploitation script developed to exploit the CVE-2023-46747 which Pre Auth Remote Code Execution of f5-BIG Ip producs | https://github.com/sanjai-AK47/CVE-2023-46747 | | 
-| 20231103T12:25:01Z | CVE-2023-46747 | exploit for cve-2023-46747 | https://github.com/W01fh4cker/CVE-2023-46747-RCE | | 
+| 20231103T09:54:22Z | CVE-2023-47179 | WooODT Lite <= 2.4.6 - Missing Authorization to Arbitrary Options Update (Subscriber+) | https://github.com/RandomRobbieBF/CVE-2023-47179 | | 
 
 
 # klee on Github 推荐

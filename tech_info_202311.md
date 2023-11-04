@@ -21,6 +21,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231104T00:54:43Z | CVE-2023-46747 | exploit for cve-2023-46747 | https://github.com/W01fh4cker/CVE-2023-46747-RCE | | 
 | 20231103T22:28:47Z | CVE-2023-46604 |  Achieving a Reverse Shell Exploit for Apache ActiveMQ (CVE_2023-46604)  | https://github.com/SaumyajeetDas/CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ | | 
 | 20231103T22:07:39Z | CVE-2023-28121 | Null | https://github.com/1337nemojj/CVE-2023-28121 | | 
 | 20231103T21:12:31Z | cve-2023-47102 | Null | https://github.com/quantiano/cve-2023-47102 | | 
@@ -30,7 +31,6 @@
 | 20231103T15:34:36Z | CVE-2023-22518 | Improper Authorization Vulnerability in Confluence Data Center and Server | https://github.com/ForceFledgling/CVE-2023-22518 | | 
 | 20231103T15:22:18Z | CVE-2022-21449 | Null | https://github.com/AlexanderZinoni/CVE-2022-21449 | | 
 | 20231103T13:37:29Z | CVE-2023-46747 | An Exploitation script developed to exploit the CVE-2023-46747 which Pre Auth Remote Code Execution of f5-BIG Ip producs | https://github.com/sanjai-AK47/CVE-2023-46747 | | 
-| 20231103T12:25:01Z | CVE-2023-46747 | exploit for cve-2023-46747 | https://github.com/W01fh4cker/CVE-2023-46747-RCE | | 
 
 
 # klee on Github 推荐
@@ -56,7 +56,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231104T00:51:26Z | Docker Remote API Scanner and Exploit | https://github.com/justakazh/DockerExploit | 0 | 0| 
+| 20231104T00:52:56Z | Docker Remote API Scanner and Exploit | https://github.com/justakazh/DockerExploit | 0 | 0| 
 | 20231104T00:49:56Z | A simple MEV arbitrage trading dashboard with anti-exploit features.  | https://github.com/0x-jared/MevBot-Alpha | 0 | 0| 
 | 20231104T00:07:24Z | LOAM: Exploiting Polygon Metadata to Understand Raster Maps - Accurate Polygonal Feature Extraction | https://github.com/Fandel-Lin/LOAM | 0 | 0| 
 | 20231103T23:27:24Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-hn | 1 | 0| 
