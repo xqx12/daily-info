@@ -56,6 +56,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231104T01:29:58Z | a simple MEV arbitrage trading bot dashboard with anti-exploit features. | https://github.com/0x-jared/MevBot-alpha | 0 | 0| 
 | 20231104T01:23:25Z | Docker Remote API Scanner and Exploit | https://github.com/justakazh/DockerExploit | 0 | 0| 
 | 20231104T01:12:50Z | A simple MEV arbitrage trading dashboard with anti-exploit features.  | https://github.com/0x-jared/MevBot-Alpha | 0 | 0| 
 | 20231104T01:04:49Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0004-app-zBW7X-finish-exploit | 0 | 0| 
@@ -65,7 +66,6 @@
 | 20231103T23:25:41Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-hn | 1 | 0| 
 | 20231103T23:24:08Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-hn | 1 | 0| 
 | 20231103T23:05:57Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 750 | 181| 
-| 20231103T22:28:47Z |  Achieving a Reverse Shell Exploit for Apache ActiveMQ (CVE_2023-46604)  | https://github.com/SaumyajeetDas/CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ | 0 | 0| 
 
 
 # backdoor on Github 推荐
