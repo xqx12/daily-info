@@ -75,7 +75,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231104T12:14:33Z | whales007 | https://github.com/Babawale007/fuzzy-telegram | 0 | 0| 
+| 20231104T12:20:01Z | whales007 | https://github.com/Babawale007/fuzzy-telegram | 0 | 0| 
 | 20231104T10:54:29Z | GoFuzzFind helps you find a particular text in a single file or multiple files. | https://github.com/daemon-surge-suzuya/GoFuzzFind | 0 | 0| 
 | 20231104T07:23:49Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 463 | 62| 
 | 20231104T04:49:49Z | Null | https://github.com/iam-sonusinha/fuzzy-funicular | 0 | 0| 
