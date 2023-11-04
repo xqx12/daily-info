@@ -56,6 +56,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231104T01:52:49Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0023-app-hL01g-reduce-exploit | 0 | 0| 
 | 20231104T01:49:47Z | a simple MEV arbitrage trading bot dashboard with anti-exploit features. | https://github.com/0x-jared/MevBot-alpha | 0 | 0| 
 | 20231104T01:23:25Z | Docker Remote API Scanner and Exploit | https://github.com/justakazh/DockerExploit | 0 | 0| 
 | 20231104T01:12:50Z | A simple MEV arbitrage trading dashboard with anti-exploit features.  | https://github.com/0x-jared/MevBot-Alpha | 0 | 0| 
@@ -65,7 +66,6 @@
 | 20231103T23:26:30Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-hn | 1 | 0| 
 | 20231103T23:25:41Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-hn | 1 | 0| 
 | 20231103T23:24:08Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-hn | 1 | 0| 
-| 20231103T23:05:57Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 750 | 181| 
 
 
 # backdoor on Github 推荐
