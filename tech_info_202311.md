@@ -21,8 +21,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231104T01:38:00Z | CVE-2023-46604 |  Achieving a Reverse Shell Exploit for Apache ActiveMQ (CVE_2023-46604)  | https://github.com/SaumyajeetDas/CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ | | 
 | 20231104T01:14:44Z | CVE-2023-46747 | exploit for cve-2023-46747 | https://github.com/W01fh4cker/CVE-2023-46747-RCE | | 
-| 20231103T22:28:47Z | CVE-2023-46604 |  Achieving a Reverse Shell Exploit for Apache ActiveMQ (CVE_2023-46604)  | https://github.com/SaumyajeetDas/CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ | | 
 | 20231103T22:07:39Z | CVE-2023-28121 | Null | https://github.com/1337nemojj/CVE-2023-28121 | | 
 | 20231103T21:12:31Z | cve-2023-47102 | Null | https://github.com/quantiano/cve-2023-47102 | | 
 | 20231103T18:29:22Z | CVE-2023-37478 | Null | https://github.com/li-minhao/CVE-2023-37478-Demo | | 
@@ -71,6 +71,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231104T01:39:16Z | Null | https://github.com/rebibabo/invisible_backdoor | 0 | 0| 
 | 20231104T00:55:35Z | the details of Warping-based_Backdoor_Attack-release-main | https://github.com/Zemtay/Warping | 0 | 0| 
 | 20231103T22:29:06Z | Fast integration of backdoor attacks in machine learning and federated learning. | https://github.com/mtuann/fedlearn-backdoor-attacks | 6 | 0| 
 | 20231103T19:27:45Z | https://garticphone.com/en/?c=00f334202d | https://github.com/WaylonS5/BACKDOOR | 0 | 0| 
@@ -80,7 +81,6 @@
 | 20231103T02:56:32Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 887 | 150| 
 | 20231102T22:46:33Z | Null | https://github.com/2lambda123/WMI_Backdoor | 0 | 0| 
 | 20231102T22:45:26Z | Null | https://github.com/2lambda123/SmmBackdoor | 0 | 0| 
-| 20231102T22:43:54Z | Null | https://github.com/2lambda123/BackdoorBox | 0 | 0| 
 
 
 # symbolic execution on Github 推荐

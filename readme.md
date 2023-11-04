@@ -16,7 +16,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231103T22:28:47Z | CVE-2023-46604 |  Achieving a Reverse Shell Exploit for Apache ActiveMQ (CVE_2023-46604)  | https://github.com/SaumyajeetDas/CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ | | 
 | 20231103T22:07:39Z | CVE-2023-28121 | Null | https://github.com/1337nemojj/CVE-2023-28121 | | 
 | 20231103T21:12:31Z | cve-2023-47102 | Null | https://github.com/quantiano/cve-2023-47102 | | 
 | 20231103T18:29:22Z | CVE-2023-37478 | Null | https://github.com/li-minhao/CVE-2023-37478-Demo | | 
@@ -26,6 +25,7 @@
 | 20231103T15:22:18Z | CVE-2022-21449 | Null | https://github.com/AlexanderZinoni/CVE-2022-21449 | | 
 | 20231103T13:37:29Z | CVE-2023-46747 | An Exploitation script developed to exploit the CVE-2023-46747 which Pre Auth Remote Code Execution of f5-BIG Ip producs | https://github.com/sanjai-AK47/CVE-2023-46747 | | 
 | 20231103T09:54:22Z | CVE-2023-47179 | WooODT Lite <= 2.4.6 - Missing Authorization to Arbitrary Options Update (Subscriber+) | https://github.com/RandomRobbieBF/CVE-2023-47179 | | 
+| 20231103T08:20:30Z | CVE-2023-38646 | A crappy exploit script written for CVE-2023-38646. It works about as well as peace treaties between Israel and Hamas. | https://github.com/Itrekr/CVE-2023-38646-Crapsploit | | 
 
 
 # klee on Github 推荐
