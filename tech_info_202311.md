@@ -56,6 +56,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231104T00:49:56Z | A simple MEV arbitrage trading dashboard with anti-exploit features.  | https://github.com/0x-jared/MevBot-Alpha | 0 | 0| 
 | 20231104T00:07:24Z | LOAM: Exploiting Polygon Metadata to Understand Raster Maps - Accurate Polygonal Feature Extraction | https://github.com/Fandel-Lin/LOAM | 0 | 0| 
 | 20231103T23:27:24Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-hn | 1 | 0| 
 | 20231103T23:26:30Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-hn | 1 | 0| 
@@ -65,7 +66,6 @@
 | 20231103T22:28:47Z |  Achieving a Reverse Shell Exploit for Apache ActiveMQ (CVE_2023-46604)  | https://github.com/SaumyajeetDas/CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ | 0 | 0| 
 | 20231103T22:16:51Z | Office Macro Exploit Builder 🚀 Opensource & Free Excel Word Macro Exploit Builder - Oneclick Silent Macro Exploit Docx Excel Word Pdf Macro Exploit Xls Word Macro Exploit Excel Macro Exploit Oneclick Silent Macro Exploit Docx Excel Word Pdf Macro Exploit Xls Word Macro Exploit Excel Macro Exploit | https://github.com/dodoweheb/doc-macro-exploit | 0 | 0| 
 | 20231103T20:47:45Z | An obsidian plugin that exploit a natural language processing engine to find potential events and sync them with iCalendar | https://github.com/Vaccarini-Lorenzo/MagicCalendar | 30 | 0| 
-| 20231103T17:40:30Z | Unlimited Build Files  Unlimited Spread Files  Small File size  Compatible with RATs, Keyloggers, Botnets, or any other exe  Best Results on AV 0/35  Easy to use Exploit Builder | https://github.com/FireMachiness/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | 0 | 0| 
 
 
 # backdoor on Github 推荐
