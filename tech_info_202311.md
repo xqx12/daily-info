@@ -63,12 +63,12 @@
 | 20231104T11:33:14Z | Null | https://github.com/CaregnatoGiacomo/Progetto-S6-Exploitare-vuln.-SQL-e-XSS | 0 | 0| 
 | 20231104T10:53:48Z | The Blooket Redirect exploit. | https://github.com/VillainsRule/BlooketRedirect | 0 | 2| 
 | 20231104T08:52:03Z | This is an exploit file which is used to check CVE-2021-21716 vulnerability | https://github.com/MojithaR/CVE-2023-21716-EXPLOIT.py | 0 | 0| 
+| 20231104T08:33:22Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5616 | 716| 
 | 20231104T08:10:24Z | Null | https://github.com/shubham-rooter/Svg-exploit-paylods | 0 | 0| 
 | 20231104T06:06:11Z | The UAC Bypass program is designed to run files with elevated privileges on Windows without requesting user permission or displaying the UAC screen. It provides a way to bypass User Account Control (UAC) restrictions for specific tasks. | https://github.com/justhyak/UAC-Bypass-FUD | 2 | 1| 
 | 20231104T01:55:22Z | a simple MEV arbitrage trading bot dashboard with anti-exploit features. | https://github.com/0x-jared/MevBot-alpha | 0 | 0| 
 | 20231104T01:54:56Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0008-app-UPcwK-negotiate-exploit | 0 | 0| 
 | 20231104T01:54:48Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0035-app-exbWz-exploit-voice | 0 | 0| 
-| 20231104T01:52:49Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0023-app-hL01g-reduce-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
