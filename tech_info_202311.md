@@ -56,16 +56,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231104T01:55:22Z | a simple MEV arbitrage trading bot dashboard with anti-exploit features. | https://github.com/0x-jared/MevBot-alpha | 0 | 0| 
+| 20231104T01:54:56Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0008-app-UPcwK-negotiate-exploit | 0 | 0| 
+| 20231104T01:54:48Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0035-app-exbWz-exploit-voice | 0 | 0| 
 | 20231104T01:52:49Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0023-app-hL01g-reduce-exploit | 0 | 0| 
-| 20231104T01:49:47Z | a simple MEV arbitrage trading bot dashboard with anti-exploit features. | https://github.com/0x-jared/MevBot-alpha | 0 | 0| 
 | 20231104T01:23:25Z | Docker Remote API Scanner and Exploit | https://github.com/justakazh/DockerExploit | 0 | 0| 
 | 20231104T01:12:50Z | A simple MEV arbitrage trading dashboard with anti-exploit features.  | https://github.com/0x-jared/MevBot-Alpha | 0 | 0| 
 | 20231104T01:04:49Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0004-app-zBW7X-finish-exploit | 0 | 0| 
 | 20231104T00:07:24Z | LOAM: Exploiting Polygon Metadata to Understand Raster Maps - Accurate Polygonal Feature Extraction | https://github.com/Fandel-Lin/LOAM | 0 | 0| 
 | 20231103T23:27:24Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-hn | 1 | 0| 
 | 20231103T23:26:30Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-hn | 1 | 0| 
-| 20231103T23:25:41Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-hn | 1 | 0| 
-| 20231103T23:24:08Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-hn | 1 | 0| 
 
 
 # backdoor on Github 推荐
