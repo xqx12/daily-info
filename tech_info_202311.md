@@ -115,6 +115,7 @@
 | --- | --- | --- | --- | ---| 
 | 20231104T22:12:47Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 619 | 77| 
 | 20231104T21:30:33Z | Null | https://github.com/RR979/single-stage-object-detection-with-knowledge-semantics-and-fuzzy-logic | 0 | 0| 
+| 20231104T20:14:20Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 2078 | 96| 
 | 20231104T12:20:01Z | whales007 | https://github.com/Babawale007/fuzzy-telegram | 0 | 0| 
 | 20231104T10:54:29Z | GoFuzzFind helps you find a particular text in a single file or multiple files. | https://github.com/daemon-surge-suzuya/GoFuzzFind | 0 | 0| 
 | 20231104T07:23:49Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 463 | 61| 
@@ -122,7 +123,6 @@
 | 20231104T01:21:50Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9133 | 2028| 
 | 20231103T23:27:03Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5109 | 549| 
 | 20231103T22:44:55Z | Null | https://github.com/kianahs/Fuzzy-C-means-Project | 3 | 0| 
-| 20231103T22:03:03Z | Evolving fuzzers with large language models | https://github.com/moyix/elmfuzz | 0 | 0| 
 
 
 
