@@ -79,7 +79,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231105T12:55:36Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 8 | 1| 
+| 20231105T13:06:05Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 9 | 1| 
 | 20231105T11:36:03Z | Code Repo for the NeurIPS 2023 paper %VillanDiffusion: A Unified Backdoor Attack Framework for Diffusion Models% | https://github.com/IBM/VillanDiffusion | 0 | 0| 
 | 20231105T09:01:50Z | Fast integration of backdoor attacks in machine learning and federated learning. | https://github.com/mtuann/fedlearn-backdoor-attacks | 12 | 0| 
 | 20231104T23:43:45Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 8396 | 2238| 
