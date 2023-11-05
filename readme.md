@@ -91,7 +91,7 @@
 | 20231104T21:30:33Z | Null | https://github.com/RR979/single-stage-object-detection-with-knowledge-semantics-and-fuzzy-logic | 0 | 0| 
 | 20231104T12:20:01Z | whales007 | https://github.com/Babawale007/fuzzy-telegram | 0 | 0| 
 | 20231104T10:54:29Z | GoFuzzFind helps you find a particular text in a single file or multiple files. | https://github.com/daemon-surge-suzuya/GoFuzzFind | 0 | 0| 
-| 20231104T07:23:49Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 463 | 62| 
+| 20231104T07:23:49Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 463 | 61| 
 | 20231104T04:49:49Z | Null | https://github.com/iam-sonusinha/fuzzy-funicular | 0 | 0| 
 | 20231104T01:21:50Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9133 | 2028| 
 
