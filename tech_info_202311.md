@@ -113,7 +113,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231105T01:01:17Z | An educational Bochs-based snapshot fuzzer project | https://github.com/h0mbre/Lucid | 0 | 0| 
+| 20231105T01:12:50Z | An educational Bochs-based snapshot fuzzer project | https://github.com/h0mbre/Lucid | 1 | 0| 
 | 20231104T22:12:47Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 619 | 77| 
 | 20231104T21:30:33Z | Null | https://github.com/RR979/single-stage-object-detection-with-knowledge-semantics-and-fuzzy-logic | 0 | 0| 
 | 20231104T20:14:20Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 2078 | 96| 
