@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231105T00:45:38Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-bz | 0 | 0| 
 | 20231104T19:24:46Z | Home Pentesting - Original eacmen%s Exploit | https://github.com/Obsesseed/TPLink-Home-Pentesting | 0 | 0| 
 | 20231104T18:37:05Z | A POC written in Python to exploit CVE 2007-2447. | https://github.com/mmezirard/cve-2007-2447 | 0 | 0| 
 | 20231104T18:33:41Z | This Repository contains projects I have completed over the last couple of years, most of which are exploits.  | https://github.com/maxyass/Projects-Im-Proud-Of | 0 | 0| 
@@ -73,7 +74,6 @@
 | 20231104T10:53:48Z | The Blooket Redirect exploit. | https://github.com/VillainsRule/BlooketRedirect | 0 | 2| 
 | 20231104T08:52:03Z | This is an exploit file which is used to check CVE-2021-21716 vulnerability | https://github.com/MojithaR/CVE-2023-21716-EXPLOIT.py | 0 | 0| 
 | 20231104T08:33:22Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5616 | 716| 
-| 20231104T08:10:24Z | Null | https://github.com/shubham-rooter/Svg-exploit-paylods | 0 | 0| 
 
 
 # backdoor on Github 推荐
