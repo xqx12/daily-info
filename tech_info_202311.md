@@ -64,8 +64,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231105T13:25:30Z | follina exploit  | https://github.com/Chrxstxqn/follina | 0 | 0| 
+| 20231105T13:22:43Z | The UAC Bypass program is designed to run files with elevated privileges on Windows without requesting user permission or displaying the UAC screen. It provides a way to bypass User Account Control (UAC) restrictions for specific tasks. | https://github.com/justhyak/UAC-Bypass-FUD | 6 | 3| 
 | 20231105T12:57:03Z | Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang. | https://github.com/Ne0nd0g/merlin | 4659 | 767| 
-| 20231105T12:55:47Z | The UAC Bypass program is designed to run files with elevated privileges on Windows without requesting user permission or displaying the UAC screen. It provides a way to bypass User Account Control (UAC) restrictions for specific tasks. | https://github.com/justhyak/UAC-Bypass-FUD | 4 | 3| 
 | 20231105T12:39:40Z | Null | https://github.com/MojithaR/CVE-2023-30190-EXPLOIT.py | 0 | 0| 
 | 20231105T11:30:32Z | CTF challange which represents a JAVA login page which need to be exploited. | https://github.com/Pelanemi/CTF_1 | 0 | 0| 
 | 20231105T11:28:37Z | Exploit for CVE-2023-37903  | https://github.com/7h3h4ckv157/CVE-2023-37903 | 0 | 0| 
@@ -73,7 +74,6 @@
 | 20231105T01:37:24Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0049-app-Uqn3d-remove-exploit | 0 | 0| 
 | 20231105T01:17:00Z | Null | https://github.com/0x1b6f8942ed3c0a7d5f89e2640c7a2b/atxmic_exploitation | 0 | 0| 
 | 20231105T00:48:58Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-bz | 1 | 0| 
-| 20231105T00:48:00Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-bz | 1 | 0| 
 
 
 # backdoor on Github 推荐
