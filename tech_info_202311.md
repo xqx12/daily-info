@@ -64,6 +64,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231105T00:48:58Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-bz | 1 | 0| 
+| 20231105T00:48:00Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-bz | 1 | 0| 
 | 20231105T00:46:49Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-bz | 1 | 0| 
 | 20231105T00:45:46Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-bz | 1 | 0| 
 | 20231104T19:24:46Z | Home Pentesting - Original eacmen%s Exploit | https://github.com/Obsesseed/TPLink-Home-Pentesting | 0 | 0| 
@@ -72,8 +74,6 @@
 | 20231104T18:03:25Z | The goal is to share several cheatsheets related to web and internal pentest, red team, blue team, binary exploitation or reverse engineering, OSINT... that I could learn. | https://github.com/0xLuks/SecurityStuff | 0 | 0| 
 | 20231104T11:46:56Z | This script demonstrates a time-based blind SQL injection on Moodle platforms, exploiting response delays to extract data. | https://github.com/T0X1Cx/CVE-2021-36393-Exploit | 0 | 0| 
 | 20231104T11:33:14Z | Null | https://github.com/CaregnatoGiacomo/Progetto-S6-Exploitare-vuln.-SQL-e-XSS | 0 | 0| 
-| 20231104T10:53:48Z | The Blooket Redirect exploit. | https://github.com/VillainsRule/BlooketRedirect | 0 | 2| 
-| 20231104T08:52:03Z | This is an exploit file which is used to check CVE-2021-21716 vulnerability | https://github.com/MojithaR/CVE-2023-21716-EXPLOIT.py | 0 | 0| 
 
 
 # backdoor on Github 推荐
