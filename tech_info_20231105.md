@@ -16,6 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231105T13:36:19Z | CVE-2023-30190 | Null | https://github.com/MojithaR/CVE-2023-30190-FOLLINA | | 
 | 20231105T12:50:11Z | CVE-2023-46604 |  Achieving a Reverse Shell Exploit for Apache ActiveMQ (CVE_2023-46604)  | https://github.com/SaumyajeetDas/CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ | | 
 | 20231105T12:39:40Z | CVE-2023-30190 | Null | https://github.com/MojithaR/CVE-2023-30190-EXPLOIT.py | | 
 | 20231105T12:24:20Z | CVE-2021-36393 | This script demonstrates a time-based blind SQL injection on Moodle platforms, exploiting response delays to extract data. | https://github.com/T0X1Cx/CVE-2021-36393-Exploit | | 

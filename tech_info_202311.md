@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231105T13:36:19Z | CVE-2023-30190 | Null | https://github.com/MojithaR/CVE-2023-30190-FOLLINA | | 
 | 20231105T12:50:11Z | CVE-2023-46604 |  Achieving a Reverse Shell Exploit for Apache ActiveMQ (CVE_2023-46604)  | https://github.com/SaumyajeetDas/CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ | | 
 | 20231105T12:39:40Z | CVE-2023-30190 | Null | https://github.com/MojithaR/CVE-2023-30190-EXPLOIT.py | | 
 | 20231105T12:24:20Z | CVE-2021-36393 | This script demonstrates a time-based blind SQL injection on Moodle platforms, exploiting response delays to extract data. | https://github.com/T0X1Cx/CVE-2021-36393-Exploit | | 
@@ -35,7 +36,6 @@
 | 20231105T07:24:31Z | CVE-2023-22518 | An Exploitation tool to exploit the confluence server that are vulnerable to CVE-2023-22518 Improper Authorization | https://github.com/sanjai-AK47/CVE-2023-22518 | | 
 | 20231104T22:34:23Z | CVE-2023-44487 | HTTP/2 RAPID RESET  | https://github.com/sigridou/CVE-2023-44487 | | 
 | 20231104T20:18:44Z | CVE-2022-38694 | User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
-| 20231104T15:51:02Z | CVE-2022-0847 | An eBPF program to detect attacks on CVE-2022-0847 | https://github.com/h4ckm310n/CVE-2022-0847-eBPF | | 
 
 
 # klee on Github 推荐
