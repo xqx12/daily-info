@@ -64,7 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231105T00:46:42Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-bz | 0 | 0| 
+| 20231105T00:46:49Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-bz | 1 | 0| 
 | 20231105T00:45:46Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-bz | 1 | 0| 
 | 20231104T19:24:46Z | Home Pentesting - Original eacmen%s Exploit | https://github.com/Obsesseed/TPLink-Home-Pentesting | 0 | 0| 
 | 20231104T18:37:05Z | A POC written in Python to exploit CVE 2007-2447. | https://github.com/mmezirard/cve-2007-2447 | 0 | 0| 
