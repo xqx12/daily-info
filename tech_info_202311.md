@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231105T01:17:00Z | Null | https://github.com/0x1b6f8942ed3c0a7d5f89e2640c7a2b/atxmic_exploitation | 0 | 0| 
 | 20231105T00:48:58Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-bz | 1 | 0| 
 | 20231105T00:48:00Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-bz | 1 | 0| 
 | 20231105T00:46:49Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-bz | 1 | 0| 
@@ -73,7 +74,6 @@
 | 20231104T18:33:41Z | This Repository contains projects I have completed over the last couple of years, most of which are exploits.  | https://github.com/maxyass/Projects-Im-Proud-Of | 0 | 0| 
 | 20231104T18:03:25Z | The goal is to share several cheatsheets related to web and internal pentest, red team, blue team, binary exploitation or reverse engineering, OSINT... that I could learn. | https://github.com/0xLuks/SecurityStuff | 0 | 0| 
 | 20231104T11:46:56Z | This script demonstrates a time-based blind SQL injection on Moodle platforms, exploiting response delays to extract data. | https://github.com/T0X1Cx/CVE-2021-36393-Exploit | 0 | 0| 
-| 20231104T11:33:14Z | Null | https://github.com/CaregnatoGiacomo/Progetto-S6-Exploitare-vuln.-SQL-e-XSS | 0 | 0| 
 
 
 # backdoor on Github 推荐
