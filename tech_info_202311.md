@@ -34,8 +34,8 @@
 | 20231105T09:02:18Z | CVE-2023-45158 | Null | https://github.com/Evan-Zhangyf/CVE-2023-45158 | | 
 | 20231105T07:24:31Z | CVE-2023-22518 | An Exploitation tool to exploit the confluence server that are vulnerable to CVE-2023-22518 Improper Authorization | https://github.com/sanjai-AK47/CVE-2023-22518 | | 
 | 20231104T22:34:23Z | CVE-2023-44487 | HTTP/2 RAPID RESET  | https://github.com/sigridou/CVE-2023-44487 | | 
+| 20231104T20:18:44Z | CVE-2022-38694 | User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20231104T15:51:02Z | CVE-2022-0847 | An eBPF program to detect attacks on CVE-2022-0847 | https://github.com/h4ckm310n/CVE-2022-0847-eBPF | | 
-| 20231104T15:15:13Z | CVE-2023-21716 | This is an exploit file which is used to check CVE-2021-21716 vulnerability | https://github.com/MojithaR/CVE-2023-21716-EXPLOIT.py | | 
 
 
 # klee on Github 推荐
