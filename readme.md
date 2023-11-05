@@ -16,6 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231105T13:42:16Z | CVE-2023-22518 | An Exploitation tool to exploit the confluence server that are vulnerable to CVE-2023-22518 Improper Authorization | https://github.com/sanjai-AK47/CVE-2023-22518 | | 
 | 20231105T13:36:19Z | CVE-2023-30190 | Null | https://github.com/MojithaR/CVE-2023-30190-FOLLINA | | 
 | 20231105T12:50:11Z | CVE-2023-46604 |  Achieving a Reverse Shell Exploit for Apache ActiveMQ (CVE_2023-46604)  | https://github.com/SaumyajeetDas/CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ | | 
 | 20231105T12:39:40Z | CVE-2023-30190 | Null | https://github.com/MojithaR/CVE-2023-30190-EXPLOIT.py | | 
@@ -23,7 +24,6 @@
 | 20231105T11:28:37Z | CVE-2023-37903 | Exploit for CVE-2023-37903  | https://github.com/7h3h4ckv157/CVE-2023-37903 | | 
 | 20231105T09:10:03Z | CVE-2023-46747 | exploit for cve-2023-46747 | https://github.com/W01fh4cker/CVE-2023-46747-RCE | | 
 | 20231105T09:02:18Z | CVE-2023-45158 | Null | https://github.com/Evan-Zhangyf/CVE-2023-45158 | | 
-| 20231105T07:24:31Z | CVE-2023-22518 | An Exploitation tool to exploit the confluence server that are vulnerable to CVE-2023-22518 Improper Authorization | https://github.com/sanjai-AK47/CVE-2023-22518 | | 
 
 
 # klee on Github 推荐
