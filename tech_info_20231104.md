@@ -24,7 +24,6 @@
 | --- | --- | --- | --- | ---| 
 | 20231104T22:34:23Z | CVE-2023-44487 | HTTP/2 RAPID RESET  | https://github.com/sigridou/CVE-2023-44487 | | 
 | 20231104T21:15:19Z | CVE-2023-45158 | Null | https://github.com/Evan-Zhangyf/CVE-2023-45158 | | 
-| 20231104T16:25:58Z | CVE-2023-46747 | exploit for cve-2023-46747 | https://github.com/W01fh4cker/CVE-2023-46747-RCE | | 
 | 20231104T15:51:02Z | CVE-2022-0847 | An eBPF program to detect attacks on CVE-2022-0847 | https://github.com/h4ckm310n/CVE-2022-0847-eBPF | | 
 | 20231104T15:15:13Z | CVE-2023-21716 | This is an exploit file which is used to check CVE-2021-21716 vulnerability | https://github.com/MojithaR/CVE-2023-21716-EXPLOIT.py | | 
 | 20231104T13:24:02Z | CVE-2023-46604 | Null | https://github.com/evkl1d/CVE-2023-46604 | | 
