@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231106T13:16:21Z | CVE-2022-0847 | An eBPF program to detect attacks on CVE-2022-0847 | https://github.com/h4ckm310n/CVE-2022-0847-eBPF | | 
 | 20231106T12:45:11Z | CVE-2023-22518 | An Exploitation tool to exploit the confluence server that are vulnerable to CVE-2023-22518 Improper Authorization | https://github.com/sanjai-AK47/CVE-2023-22518 | | 
 | 20231106T09:47:13Z | CVE-2022-24715 | Null | https://github.com/d4rkb0n3/CVE-2022-24715-go | | 
 | 20231106T08:26:12Z | CVE-2023-5360 | The Royal Elementor Addons and Templates WordPress plugin before 1.3.79 does not properly validate uploaded files, which could allow unauthenticated users to upload arbitrary files, such as PHP and achieve RCE. | https://github.com/Pushkarup/CVE-2023-5360 | | 
@@ -35,7 +36,6 @@
 | 20231106T00:01:23Z | 未知编号 | Unlimited Build Files  Unlimited Spread Files  Small File size  Compatible with RATs, Keyloggers, Botnets, or any other exe  Best Results on AV 0/35  Easy to use Exploit Builder | https://github.com/FireMachiness/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
 | 20231105T15:35:50Z | CVE-2022-0847 | Null | https://github.com/ayushx007/CVE-2022-0847-DirtyPipe-Exploits | | 
 | 20231105T15:07:43Z | CVE-2023-41425 | Null | https://github.com/prodigiousMind/CVE-2023-41425 | | 
-| 20231105T13:36:19Z | CVE-2023-30190 | Null | https://github.com/MojithaR/CVE-2023-30190-FOLLINA | | 
 
 
 # klee on Github 推荐
