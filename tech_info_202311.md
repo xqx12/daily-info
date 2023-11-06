@@ -114,6 +114,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231106T01:31:47Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4898 | 1168| 
 | 20231106T00:17:07Z | Null | https://github.com/nraptis/Fuzzle | 0 | 0| 
 | 20231106T00:04:36Z | Tic-tac-toe meets Ro-sham-bo | https://github.com/randallard/fuzzy-lamp | 0 | 0| 
 | 20231105T22:56:35Z | a simple roguelike game made for study purposes | https://github.com/leandro-santi/roguelike-fuzzy-game | 0 | 0| 
@@ -123,7 +124,6 @@
 | 20231105T07:21:27Z | Null | https://github.com/suchirnaik/recommedation_sys_fuzzyLogic_research_in_progress | 0 | 0| 
 | 20231105T05:21:39Z | Null | https://github.com/MirRoR4s/fuzzing | 0 | 0| 
 | 20231105T01:12:50Z | An educational Bochs-based snapshot fuzzer project | https://github.com/h0mbre/Lucid | 1 | 0| 
-| 20231104T22:12:47Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 619 | 77| 
 
 
 
