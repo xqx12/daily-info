@@ -16,7 +16,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231105T20:09:57Z | CVE-2021-36393 | This script demonstrates a time-based blind SQL injection on Moodle platforms, exploiting response delays to extract data. | https://github.com/T0X1Cx/CVE-2021-36393-Exploit | | 
 | 20231105T18:54:23Z | CVE-2023-37903 | Exploit for CVE-2023-37903  | https://github.com/7h3h4ckv157/CVE-2023-37903 | | 
 | 20231105T18:38:32Z | CVE-2023-5360 | The Royal Elementor Addons and Templates WordPress plugin before 1.3.79 does not properly validate uploaded files, which could allow unauthenticated users to upload arbitrary files, such as PHP and achieve RCE. | https://github.com/Pushkarup/CVE-2023-5360 | | 
 | 20231105T15:35:50Z | CVE-2022-0847 | Null | https://github.com/ayushx007/CVE-2022-0847-DirtyPipe-Exploits | | 
@@ -26,6 +25,7 @@
 | 20231105T12:50:11Z | CVE-2023-46604 |  Achieving a Reverse Shell Exploit for Apache ActiveMQ (CVE_2023-46604)  | https://github.com/SaumyajeetDas/CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ | | 
 | 20231105T12:39:40Z | CVE-2023-30190 | Null | https://github.com/MojithaR/CVE-2023-30190-EXPLOIT.py | | 
 | 20231105T09:10:03Z | CVE-2023-46747 | exploit for cve-2023-46747 | https://github.com/W01fh4cker/CVE-2023-46747-RCE | | 
+| 20231105T09:02:18Z | CVE-2023-45158 | Null | https://github.com/Evan-Zhangyf/CVE-2023-45158 | | 
 
 
 # klee on Github 推荐

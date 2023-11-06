@@ -26,8 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231106T02:58:34Z | CVE-2021-36393 | This script demonstrates a time-based blind SQL injection on Moodle platforms, exploiting response delays to extract data. | https://github.com/T0X1Cx/CVE-2021-36393-Exploit | | 
 | 20231106T00:01:23Z | 未知编号 | Unlimited Build Files  Unlimited Spread Files  Small File size  Compatible with RATs, Keyloggers, Botnets, or any other exe  Best Results on AV 0/35  Easy to use Exploit Builder | https://github.com/FireMachiness/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
-| 20231105T20:09:57Z | CVE-2021-36393 | This script demonstrates a time-based blind SQL injection on Moodle platforms, exploiting response delays to extract data. | https://github.com/T0X1Cx/CVE-2021-36393-Exploit | | 
 | 20231105T18:54:23Z | CVE-2023-37903 | Exploit for CVE-2023-37903  | https://github.com/7h3h4ckv157/CVE-2023-37903 | | 
 | 20231105T18:38:32Z | CVE-2023-5360 | The Royal Elementor Addons and Templates WordPress plugin before 1.3.79 does not properly validate uploaded files, which could allow unauthenticated users to upload arbitrary files, such as PHP and achieve RCE. | https://github.com/Pushkarup/CVE-2023-5360 | | 
 | 20231105T15:35:50Z | CVE-2022-0847 | Null | https://github.com/ayushx007/CVE-2022-0847-DirtyPipe-Exploits | | 
