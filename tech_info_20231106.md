@@ -40,6 +40,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231106T13:12:47Z | Null | https://github.com/Jarva/FixContainerSlotExploit | 1 | 0| 
 | 20231106T12:48:28Z | Simple tool to exploit blind SQL injection vulnerabilities. | https://github.com/zw00sh/condishql | 0 | 0| 
 | 20231106T12:44:07Z | GitOps Repository | https://github.com/redhat-appstudio-qe/python-basic-xRpRU-thank-exploit | 0 | 0| 
 | 20231106T10:38:33Z | Kubernetes Attack Graph | https://github.com/DataDog/KubeHound | 430 | 20| 
@@ -49,7 +50,6 @@
 | 20231106T02:48:11Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0120-0010-app--T3nM-complain-exploit | 0 | 0| 
 | 20231106T02:20:33Z | A simple demonstration of how to detect clickjacking vulnerabilities, exploit them, and remediate them. | https://github.com/aejensen1/Clickjack_Demo | 0 | 0| 
 | 20231106T02:10:43Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0055-app-ADxuo-exploit-lend | 0 | 0| 
-| 20231106T02:09:17Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0063-app-WRV6y-build-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
