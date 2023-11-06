@@ -78,6 +78,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231106T13:33:27Z | Null | https://github.com/Pessadilla/FuzzyRTLS | 0 | 0| 
 | 20231106T13:14:00Z | Null | https://github.com/jorjikiao/fuzzy-spoon | 0 | 0| 
 | 20231106T12:28:11Z | Null | https://github.com/FT-Optix-Test-Automation-Projects/TestFuzzingRolesYamlFile | 0 | 0| 
 | 20231106T12:17:33Z | Fuzzing IoT Devices Using the Router TL-WR902AC as Example | https://github.com/otsmr/blackbox-fuzzing | 0 | 0| 
@@ -87,7 +88,6 @@
 | 20231106T10:30:19Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1599 | 231| 
 | 20231106T08:25:35Z | Null | https://github.com/riesentoaster/fuzzing-paper | 0 | 0| 
 | 20231106T00:17:07Z | Null | https://github.com/nraptis/Fuzzle | 0 | 0| 
-| 20231106T00:04:36Z | Tic-tac-toe meets Ro-sham-bo | https://github.com/randallard/fuzzy-lamp | 0 | 0| 
 
 
 
