@@ -64,7 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231106T00:54:39Z | The languages that make up the web. HTML provides the basic structure, CSS controls formatting, and JavaScript controls the behavior of different elements. | https://github.com/Darkestlegends/Apex_Exploiting- | 0 | 0| 
+| 20231106T01:02:03Z | The languages that make up the web. HTML provides the basic structure, CSS controls formatting, and JavaScript controls the behavior of different elements. | https://github.com/Darkestlegends/Apex_Exploiting- | 0 | 0| 
 | 20231106T00:01:23Z | Unlimited Build Files  Unlimited Spread Files  Small File size  Compatible with RATs, Keyloggers, Botnets, or any other exe  Best Results on AV 0/35  Easy to use Exploit Builder | https://github.com/FireMachiness/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | 1 | 0| 
 | 20231106T00:00:44Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-b | 1 | 0| 
 | 20231105T23:59:44Z | Null | https://github.com/codingcore12/ILENT-DOC-EXPLOIT-CLEAN-bp | 1 | 0| 
