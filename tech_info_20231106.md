@@ -41,6 +41,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231106T13:26:36Z | Null | https://github.com/saliiimm/systemes_d-exploitation_threads | 0 | 0| 
+| 20231106T13:25:48Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8912 | 2044| 
 | 20231106T13:12:47Z | Null | https://github.com/Jarva/FixContainerSlotExploit | 1 | 0| 
 | 20231106T12:48:28Z | Simple tool to exploit blind SQL injection vulnerabilities. | https://github.com/zw00sh/condishql | 0 | 0| 
 | 20231106T12:44:07Z | GitOps Repository | https://github.com/redhat-appstudio-qe/python-basic-xRpRU-thank-exploit | 0 | 0| 
@@ -49,8 +51,6 @@
 | 20231106T09:26:00Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5465 | 1064| 
 | 20231106T08:51:59Z | The UAC Bypass program is designed to run files with elevated privileges on Windows without requesting user permission or displaying the UAC screen. It provides a way to bypass User Account Control (UAC) restrictions for specific tasks. | https://github.com/justhyak/UAC-Bypass-FUD | 10 | 6| 
 | 20231106T02:48:11Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0120-0010-app--T3nM-complain-exploit | 0 | 0| 
-| 20231106T02:20:33Z | A simple demonstration of how to detect clickjacking vulnerabilities, exploit them, and remediate them. | https://github.com/aejensen1/Clickjack_Demo | 0 | 0| 
-| 20231106T02:10:43Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0055-app-ADxuo-exploit-lend | 0 | 0| 
 
 
 # backdoor on Github 推荐
