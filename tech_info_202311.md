@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231106T01:25:38Z | Client-Focused community maintenance, posterity to preserve playability of FarCry titles for independent players. Patch leftover security exploits, bugs and glitches. No rebalancing or other game-altering-modifications. | https://github.com/loopingout/FCN | 0 | 0| 
 | 20231106T01:22:04Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0053-app-xtxg_-exploit-note | 0 | 0| 
 | 20231106T01:07:43Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0068-app-DVc32-issue-exploit | 0 | 0| 
 | 20231106T01:06:39Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0057-app-M8M-x-maintain-exploit | 0 | 0| 
@@ -73,7 +74,6 @@
 | 20231105T23:59:44Z | Null | https://github.com/codingcore12/ILENT-DOC-EXPLOIT-CLEAN-bp | 1 | 0| 
 | 20231105T23:57:01Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-bp | 1 | 0| 
 | 20231105T23:56:18Z | Null | https://github.com/codingcore12/-SILENT-PDF-EXPLOIT-CLEAN-bp | 1 | 0| 
-| 20231105T23:55:31Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-bp | 1 | 0| 
 
 
 # backdoor on Github 推荐
