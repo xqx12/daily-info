@@ -64,6 +64,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231106T02:21:51Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5462 | 1062| 
+| 20231106T02:20:33Z | A simple demonstration of how to detect clickjacking vulnerabilities, exploit them, and remediate them. | https://github.com/aejensen1/Clickjack_Demo | 0 | 0| 
 | 20231106T02:10:43Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0055-app-ADxuo-exploit-lend | 0 | 0| 
 | 20231106T02:09:17Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0063-app-WRV6y-build-exploit | 0 | 0| 
 | 20231106T01:42:13Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0013-app-EZNs4-exploit-maintain | 0 | 0| 
@@ -72,8 +74,6 @@
 | 20231106T01:22:04Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0053-app-xtxg_-exploit-note | 0 | 0| 
 | 20231106T01:07:43Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0068-app-DVc32-issue-exploit | 0 | 0| 
 | 20231106T01:06:39Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0057-app-M8M-x-maintain-exploit | 0 | 0| 
-| 20231106T01:02:03Z | The languages that make up the web. HTML provides the basic structure, CSS controls formatting, and JavaScript controls the behavior of different elements. | https://github.com/Darkestlegends/Apex_Exploiting- | 0 | 0| 
-| 20231106T00:01:23Z | Unlimited Build Files  Unlimited Spread Files  Small File size  Compatible with RATs, Keyloggers, Botnets, or any other exe  Best Results on AV 0/35  Easy to use Exploit Builder | https://github.com/FireMachiness/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -114,7 +114,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231106T01:31:47Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4898 | 1168| 
+| 20231106T02:22:45Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4899 | 1168| 
 | 20231106T00:17:07Z | Null | https://github.com/nraptis/Fuzzle | 0 | 0| 
 | 20231106T00:04:36Z | Tic-tac-toe meets Ro-sham-bo | https://github.com/randallard/fuzzy-lamp | 0 | 0| 
 | 20231105T22:56:35Z | a simple roguelike game made for study purposes | https://github.com/leandro-santi/roguelike-fuzzy-game | 0 | 0| 
