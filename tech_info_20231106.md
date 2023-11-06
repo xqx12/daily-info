@@ -78,7 +78,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231106T13:44:48Z | c2rust version of afl-fuzz | https://github.com/domenukk/AFLrustrust | 9 | 1| 
+| 20231106T13:45:57Z | c2rust version of afl-fuzz | https://github.com/domenukk/AFLrustrust | 9 | 1| 
 | 20231106T13:33:27Z | Null | https://github.com/Pessadilla/FuzzyRTLS | 0 | 0| 
 | 20231106T13:14:00Z | Null | https://github.com/jorjikiao/fuzzy-spoon | 0 | 0| 
 | 20231106T12:28:11Z | Null | https://github.com/FT-Optix-Test-Automation-Projects/TestFuzzingRolesYamlFile | 0 | 0| 
