@@ -78,6 +78,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231106T13:44:48Z | c2rust version of afl-fuzz | https://github.com/domenukk/AFLrustrust | 9 | 1| 
 | 20231106T13:33:27Z | Null | https://github.com/Pessadilla/FuzzyRTLS | 0 | 0| 
 | 20231106T13:14:00Z | Null | https://github.com/jorjikiao/fuzzy-spoon | 0 | 0| 
 | 20231106T12:28:11Z | Null | https://github.com/FT-Optix-Test-Automation-Projects/TestFuzzingRolesYamlFile | 0 | 0| 
@@ -87,7 +88,6 @@
 | 20231106T11:06:11Z | Null | https://github.com/MattiasGijsels/fuzzy-fortnight | 0 | 0| 
 | 20231106T10:30:19Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1599 | 231| 
 | 20231106T08:25:35Z | Null | https://github.com/riesentoaster/fuzzing-paper | 0 | 0| 
-| 20231106T00:17:07Z | Null | https://github.com/nraptis/Fuzzle | 0 | 0| 
 
 
 
