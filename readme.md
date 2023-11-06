@@ -78,6 +78,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231106T13:14:00Z | Null | https://github.com/jorjikiao/fuzzy-spoon | 0 | 0| 
 | 20231106T12:28:11Z | Null | https://github.com/FT-Optix-Test-Automation-Projects/TestFuzzingRolesYamlFile | 0 | 0| 
 | 20231106T12:17:33Z | Fuzzing IoT Devices Using the Router TL-WR902AC as Example | https://github.com/otsmr/blackbox-fuzzing | 0 | 0| 
 | 20231106T11:43:36Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4901 | 1169| 
