@@ -79,6 +79,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231106T02:38:38Z | Null | https://github.com/BitWalls-Sec/AndroidHack_BackDoor | 0 | 0| 
 | 20231106T00:39:35Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 8400 | 2238| 
 | 20231105T23:47:01Z | Null | https://github.com/iamtomorrow/Backdoor | 0 | 0| 
 | 20231105T13:06:05Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 9 | 2| 
@@ -88,7 +89,6 @@
 | 20231104T12:26:44Z | Vizio tv | https://github.com/Twinkiebby/Vizio-Backdoor | 1 | 0| 
 | 20231104T10:13:35Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 888 | 150| 
 | 20231104T09:22:06Z | the details of Warping-based_Backdoor_Attack-release-main | https://github.com/Zemtay/Warping | 0 | 0| 
-| 20231104T05:31:22Z | Null | https://github.com/rebibabo/invisible_backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
