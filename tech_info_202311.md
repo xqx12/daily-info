@@ -26,21 +26,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231106T00:01:23Z | 未知编号 | Unlimited Build Files  Unlimited Spread Files  Small File size  Compatible with RATs, Keyloggers, Botnets, or any other exe  Best Results on AV 0/35  Easy to use Exploit Builder | https://github.com/FireMachiness/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | | 
+| 20231105T20:09:57Z | CVE-2021-36393 | This script demonstrates a time-based blind SQL injection on Moodle platforms, exploiting response delays to extract data. | https://github.com/T0X1Cx/CVE-2021-36393-Exploit | | 
+| 20231105T18:54:23Z | CVE-2023-37903 | Exploit for CVE-2023-37903  | https://github.com/7h3h4ckv157/CVE-2023-37903 | | 
+| 20231105T18:38:32Z | CVE-2023-5360 | The Royal Elementor Addons and Templates WordPress plugin before 1.3.79 does not properly validate uploaded files, which could allow unauthenticated users to upload arbitrary files, such as PHP and achieve RCE. | https://github.com/Pushkarup/CVE-2023-5360 | | 
+| 20231105T15:35:50Z | CVE-2022-0847 | Null | https://github.com/ayushx007/CVE-2022-0847-DirtyPipe-Exploits | | 
+| 20231105T15:07:43Z | CVE-2023-41425 | Null | https://github.com/prodigiousMind/CVE-2023-41425 | | 
 | 20231105T13:42:16Z | CVE-2023-22518 | An Exploitation tool to exploit the confluence server that are vulnerable to CVE-2023-22518 Improper Authorization | https://github.com/sanjai-AK47/CVE-2023-22518 | | 
 | 20231105T13:36:19Z | CVE-2023-30190 | Null | https://github.com/MojithaR/CVE-2023-30190-FOLLINA | | 
 | 20231105T12:50:11Z | CVE-2023-46604 |  Achieving a Reverse Shell Exploit for Apache ActiveMQ (CVE_2023-46604)  | https://github.com/SaumyajeetDas/CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ | | 
 | 20231105T12:39:40Z | CVE-2023-30190 | Null | https://github.com/MojithaR/CVE-2023-30190-EXPLOIT.py | | 
-| 20231105T12:24:20Z | CVE-2021-36393 | This script demonstrates a time-based blind SQL injection on Moodle platforms, exploiting response delays to extract data. | https://github.com/T0X1Cx/CVE-2021-36393-Exploit | | 
-| 20231105T11:28:37Z | CVE-2023-37903 | Exploit for CVE-2023-37903  | https://github.com/7h3h4ckv157/CVE-2023-37903 | | 
-| 20231105T09:10:03Z | CVE-2023-46747 | exploit for cve-2023-46747 | https://github.com/W01fh4cker/CVE-2023-46747-RCE | | 
-| 20231105T09:02:18Z | CVE-2023-45158 | Null | https://github.com/Evan-Zhangyf/CVE-2023-45158 | | 
-| 20231104T22:34:23Z | CVE-2023-44487 | HTTP/2 RAPID RESET  | https://github.com/sigridou/CVE-2023-44487 | | 
-| 20231104T20:18:44Z | CVE-2022-38694 | User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231105T18:50:58Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 280 | 54| 
 | 20231105T13:15:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2352 | 638| 
 | 20231105T09:46:01Z | Klee | https://github.com/Kleenn666/Kleenn | 0 | 0| 
 | 20231105T05:51:36Z | 使用flutter构建的西北民族大学综合软件 | https://github.com/Isatidia/Klee | 0 | 0| 
@@ -50,7 +51,6 @@
 | 20231104T04:27:20Z | kleene is a library for building regular expression recognition automata - nfas, dfas, and some specialty structures. | https://github.com/davidkellis/kleene-rb | 0 | 0| 
 | 20231103T21:08:32Z | Null | https://github.com/KleeblattGames/KleeblattGames.github.io | 0 | 0| 
 | 20231102T17:09:01Z | Null | https://github.com/Melvin-Emmanuel/unicornKleenBackend | 0 | 0| 
-| 20231102T03:57:39Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 93 | 21| 
 
 
 # s2e on Github 推荐
@@ -64,31 +64,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231106T00:54:39Z | The languages that make up the web. HTML provides the basic structure, CSS controls formatting, and JavaScript controls the behavior of different elements. | https://github.com/Darkestlegends/Apex_Exploiting- | 0 | 0| 
+| 20231106T00:01:23Z | Unlimited Build Files  Unlimited Spread Files  Small File size  Compatible with RATs, Keyloggers, Botnets, or any other exe  Best Results on AV 0/35  Easy to use Exploit Builder | https://github.com/FireMachiness/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | 1 | 0| 
+| 20231106T00:00:44Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-b | 1 | 0| 
+| 20231105T23:59:44Z | Null | https://github.com/codingcore12/ILENT-DOC-EXPLOIT-CLEAN-bp | 1 | 0| 
+| 20231105T23:57:01Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-bp | 1 | 0| 
+| 20231105T23:56:18Z | Null | https://github.com/codingcore12/-SILENT-PDF-EXPLOIT-CLEAN-bp | 1 | 0| 
+| 20231105T23:55:31Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-bp | 1 | 0| 
+| 20231105T17:12:35Z | Uncover the true IP address of websites safeguarded by Cloudflare | https://github.com/spyboy-productions/CloakQuest3r | 4 | 0| 
+| 20231105T16:54:50Z | создан | https://github.com/Adamay01/exploit-end-to-end-portals | 0 | 0| 
 | 20231105T13:46:09Z | The UAC Bypass program is designed to run files with elevated privileges on Windows without requesting user permission or displaying the UAC screen. It provides a way to bypass User Account Control (UAC) restrictions for specific tasks. | https://github.com/justhyak/UAC-Bypass-FUD | 7 | 3| 
-| 20231105T13:25:30Z | follina exploit  | https://github.com/Chrxstxqn/follina | 0 | 0| 
-| 20231105T12:57:03Z | Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang. | https://github.com/Ne0nd0g/merlin | 4659 | 767| 
-| 20231105T12:39:40Z | Null | https://github.com/MojithaR/CVE-2023-30190-EXPLOIT.py | 0 | 0| 
-| 20231105T11:30:32Z | CTF challange which represents a JAVA login page which need to be exploited. | https://github.com/Pelanemi/CTF_1 | 0 | 0| 
-| 20231105T11:28:37Z | Exploit for CVE-2023-37903  | https://github.com/7h3h4ckv157/CVE-2023-37903 | 0 | 0| 
-| 20231105T05:59:27Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5620 | 715| 
-| 20231105T01:37:24Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0049-app-Uqn3d-remove-exploit | 0 | 0| 
-| 20231105T01:17:00Z | Null | https://github.com/0x1b6f8942ed3c0a7d5f89e2640c7a2b/atxmic_exploitation | 0 | 0| 
-| 20231105T00:48:58Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-bz | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231105T13:06:05Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 9 | 1| 
+| 20231106T00:39:35Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 8400 | 2238| 
+| 20231105T23:47:01Z | Null | https://github.com/iamtomorrow/Backdoor | 0 | 0| 
+| 20231105T13:06:05Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 9 | 2| 
 | 20231105T11:36:03Z | Code Repo for the NeurIPS 2023 paper %VillanDiffusion: A Unified Backdoor Attack Framework for Diffusion Models% | https://github.com/IBM/VillanDiffusion | 0 | 0| 
 | 20231105T09:01:50Z | Fast integration of backdoor attacks in machine learning and federated learning. | https://github.com/mtuann/fedlearn-backdoor-attacks | 12 | 0| 
-| 20231104T23:43:45Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 8396 | 2238| 
 | 20231104T23:18:22Z | Python2.7 BACKDOOR TOOLKIT | https://github.com/phantompacket/Backdoor-Toolkit | 1 | 0| 
 | 20231104T12:26:44Z | Vizio tv | https://github.com/Twinkiebby/Vizio-Backdoor | 1 | 0| 
 | 20231104T10:13:35Z | A list of backdoor learning resources | https://github.com/THUYimingLi/backdoor-learning-resources | 888 | 150| 
 | 20231104T09:22:06Z | the details of Warping-based_Backdoor_Attack-release-main | https://github.com/Zemtay/Warping | 0 | 0| 
 | 20231104T05:31:22Z | Null | https://github.com/rebibabo/invisible_backdoor | 0 | 0| 
-| 20231103T19:27:45Z | https://garticphone.com/en/?c=00f334202d | https://github.com/WaylonS5/BACKDOOR | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -114,16 +114,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231106T00:17:07Z | Null | https://github.com/nraptis/Fuzzle | 0 | 0| 
+| 20231106T00:04:36Z | Tic-tac-toe meets Ro-sham-bo | https://github.com/randallard/fuzzy-lamp | 0 | 0| 
+| 20231105T22:56:35Z | a simple roguelike game made for study purposes | https://github.com/leandro-santi/roguelike-fuzzy-game | 0 | 0| 
+| 20231105T22:55:05Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 465 | 61| 
+| 20231105T19:34:02Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 102 | 14| 
 | 20231105T10:04:12Z | Upstream Proxy Burp for fuzzing | https://github.com/nxczje/froxy | 0 | 0| 
-| 20231105T09:08:59Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 465 | 61| 
 | 20231105T07:21:27Z | Null | https://github.com/suchirnaik/recommedation_sys_fuzzyLogic_research_in_progress | 0 | 0| 
 | 20231105T05:21:39Z | Null | https://github.com/MirRoR4s/fuzzing | 0 | 0| 
 | 20231105T01:12:50Z | An educational Bochs-based snapshot fuzzer project | https://github.com/h0mbre/Lucid | 1 | 0| 
 | 20231104T22:12:47Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 619 | 77| 
-| 20231104T21:30:33Z | Null | https://github.com/RR979/single-stage-object-detection-with-knowledge-semantics-and-fuzzy-logic | 0 | 0| 
-| 20231104T20:14:20Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 2078 | 96| 
-| 20231104T12:20:01Z | whales007 | https://github.com/Babawale007/fuzzy-telegram | 0 | 0| 
-| 20231104T10:54:29Z | GoFuzzFind helps you find a particular text in a single file or multiple files. | https://github.com/daemon-surge-suzuya/GoFuzzFind | 0 | 0| 
 
 
 
