@@ -64,6 +64,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231106T01:07:43Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0068-app-DVc32-issue-exploit | 0 | 0| 
+| 20231106T01:06:39Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0057-app-M8M-x-maintain-exploit | 0 | 0| 
 | 20231106T01:02:03Z | The languages that make up the web. HTML provides the basic structure, CSS controls formatting, and JavaScript controls the behavior of different elements. | https://github.com/Darkestlegends/Apex_Exploiting- | 0 | 0| 
 | 20231106T00:01:23Z | Unlimited Build Files  Unlimited Spread Files  Small File size  Compatible with RATs, Keyloggers, Botnets, or any other exe  Best Results on AV 0/35  Easy to use Exploit Builder | https://github.com/FireMachiness/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022 | 1 | 0| 
 | 20231106T00:00:44Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-b | 1 | 0| 
@@ -72,8 +74,6 @@
 | 20231105T23:56:18Z | Null | https://github.com/codingcore12/-SILENT-PDF-EXPLOIT-CLEAN-bp | 1 | 0| 
 | 20231105T23:55:31Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-bp | 1 | 0| 
 | 20231105T17:12:35Z | Uncover the true IP address of websites safeguarded by Cloudflare | https://github.com/spyboy-productions/CloakQuest3r | 4 | 0| 
-| 20231105T16:54:50Z | создан | https://github.com/Adamay01/exploit-end-to-end-portals | 0 | 0| 
-| 20231105T13:46:09Z | The UAC Bypass program is designed to run files with elevated privileges on Windows without requesting user permission or displaying the UAC screen. It provides a way to bypass User Account Control (UAC) restrictions for specific tasks. | https://github.com/justhyak/UAC-Bypass-FUD | 7 | 3| 
 
 
 # backdoor on Github 推荐
