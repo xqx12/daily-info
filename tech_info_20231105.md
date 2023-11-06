@@ -53,10 +53,10 @@
 | 20231105T23:55:31Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-bp | 1 | 0| 
 | 20231105T17:12:35Z | Uncover the true IP address of websites safeguarded by Cloudflare | https://github.com/spyboy-productions/CloakQuest3r | 4 | 0| 
 | 20231105T16:54:50Z | создан | https://github.com/Adamay01/exploit-end-to-end-portals | 0 | 0| 
-| 20231105T13:46:09Z | The UAC Bypass program is designed to run files with elevated privileges on Windows without requesting user permission or displaying the UAC screen. It provides a way to bypass User Account Control (UAC) restrictions for specific tasks. | https://github.com/justhyak/UAC-Bypass-FUD | 7 | 6| 
 | 20231105T13:25:30Z | follina exploit  | https://github.com/Chrxstxqn/follina | 0 | 0| 
 | 20231105T12:57:03Z | Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang. | https://github.com/Ne0nd0g/merlin | 4659 | 767| 
 | 20231105T12:39:40Z | Null | https://github.com/MojithaR/CVE-2023-30190-EXPLOIT.py | 0 | 0| 
+| 20231105T12:38:42Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5627 | 764| 
 
 
 # backdoor on Github 推荐
