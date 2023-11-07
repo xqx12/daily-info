@@ -106,10 +106,11 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231107T09:08:59Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 88 | 4| 
+| 20231107T08:14:39Z | Source code for our NDSS%18 paper %Automated Website Fingerprinting through Deep Learning% | https://github.com/DistriNet/DLWF | 83 | 39| 
 | 20231106T16:22:28Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 32 | 6| 
 | 20231106T16:20:12Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 28 | 2| 
 | 20231106T03:05:55Z | A carwler for cyber security conferences including the big 4 (SP, Usenix Security, NDSS, CCS) and some software conferences. | https://github.com/QGrain/conference-crawler | 0 | 0| 
-| 20231105T09:30:41Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 87 | 4| 
 | 20231102T09:11:27Z | Null | https://github.com/Compass-All/NDSS24-CAGE | 0 | 0| 
 | 20231102T03:27:07Z | https://marsvillager.github.io/PaperWorkflowAutomation/summary/visualize.html (Safari, Firefox ✓ Edge, Chrome ✗) 论文爬虫+概述: IEEE Symposium on Security and Privacy (S&P), USENIX Security Symposium, Network and Distributed System Security Symposium (NDSS)  | https://github.com/marsvillager/PaperWorkflowAutomation | 6 | 0| 
 | 20231101T23:21:08Z | Code for Sense (NDSS%24) | https://github.com/sslab-gatech/Sense | 0 | 0| 
