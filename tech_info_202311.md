@@ -11,31 +11,31 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20231107 | 大型闪电式红蓝对抗主流攻击行为的研判分析 | https://mp.weixin.qq.com/s/W2repoNPiuTGevv1dHc4DQ| 
+| 20231107 | 万字长文解读最新版ATT&CK V14 | https://mp.weixin.qq.com/s/DIzVBNFtQr4741FOnKXHsg| 
+| 20231107 | 黑盒的图像深度学习模型训练数据重建攻击 | https://mp.weixin.qq.com/s/1fFRSBJk_jDNkTAsdCEkEw| 
+| 20231107 | 无文件落地攻击 | https://mp.weixin.qq.com/s/fzZGw-7EeKvx1qEUT-NXFA| 
 | 20231106 | 内网安全之隧道代理 | https://www.sec-in.com/article/2257| 
 | 20231106 | SecWiki周刊（第505期) | https://www.sec-wiki.com/weekly/505| 
 | 20231104 | ISASearch: 一个基于分布式爬虫的信安文章搜索引擎 | https://github.com/LetheSec/ISASearch| 
 | 20231104 | libwebp漏洞利用技术研判报告 | https://mp.weixin.qq.com/s/hvn1rvMed3o05yB8opWiaQ| 
 | 20231104 | ChatGLM3-6B大模型的部署与使用教程 | https://mp.weixin.qq.com/s/Gbd_JYrM-2sY9rwFYm77jg| 
 | 20231104 | 基于微调大语言模型的知识图谱问答框架 | https://mp.weixin.qq.com/s/htoIZS6s-Uclv2gsVE1MNw| 
-| 20231104 | 人工智能的风险挑战、竞争与治理 | https://mp.weixin.qq.com/s/nuxcTw3uaux_rQiURc6KOg| 
-| 20231104 | 攻防实战策略剖析与对抗博弈 | https://mp.weixin.qq.com/s/mbP6a1CPUDfUYxAadQw4NA| 
-| 20231101 | 揭秘 VPN 背后的黑灰产组织 | https://mp.weixin.qq.com/s/p-3DNoajeauLs7ck98ZJ6w| 
-| 20231101 | 通俗解构语言大模型的工作原理 | https://mp.weixin.qq.com/s/f4-xjib33hkfyM5_8HcUUw| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231107T12:35:20Z | CVE-2023-46604 |  CVE-2023-46604 ActiveMQ RCE vulnerability verification/exploitation tool | https://github.com/sule01u/CVE-2023-46604 | | 
+| 20231107T08:49:45Z | CVE-2023-41425 | Null | https://github.com/prodigiousMind/CVE-2023-41425 | | 
+| 20231107T06:23:39Z | CVE-2023-46747 | exploit for cve-2023-46747 | https://github.com/W01fh4cker/CVE-2023-46747-RCE | | 
+| 20231107T04:21:41Z | cve-2023-38831 | WinRAR cve-2023-38831-poc-generator | https://github.com/s4m98/winrar-cve-2023-38831-poc-gen | | 
+| 20231107T04:17:08Z | CVE-2023-38646 | Metabase Pre-Auth RCE POC | https://github.com/Mrunalkaran/CVE-2023-38646 | | 
 | 20231107T01:38:33Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
 | 20231106T23:41:36Z | CVE-2023-1714 | Bitrix24 Remote Command Execution (RCE) via Unsafe Variable Extraction | https://github.com/ForceFledgling/CVE-2023-1714 | | 
 | 20231106T23:35:44Z | CVE-2023-1713 | Bitrix24 Remote Command Execution (RCE) via Insecure Temporary File Creation | https://github.com/ForceFledgling/CVE-2023-1713 | | 
 | 20231106T22:16:02Z | CVE-2021-43609 | Proof of Concept Exploit for CVE-2021-43609 | https://github.com/d5sec/CVE-2021-43609-POC | | 
-| 20231106T21:40:17Z | CVE-2023-46604 | Null | https://github.com/sule01u/CVE-2023-46604 | | 
 | 20231106T17:52:12Z | CVE-2020-3580 | Automated bulk IP scanner Cisco ASA and FTD XSS | https://github.com/imhunterand/CVE-2020-3580 | | 
-| 20231106T13:16:21Z | CVE-2022-0847 | An eBPF program to detect attacks on CVE-2022-0847 | https://github.com/h4ckm310n/CVE-2022-0847-eBPF | | 
-| 20231106T12:45:11Z | CVE-2023-22518 | An Exploitation tool to exploit the confluence server that are vulnerable to CVE-2023-22518 Improper Authorization | https://github.com/sanjai-AK47/CVE-2023-22518 | | 
-| 20231106T09:47:13Z | CVE-2022-24715 | Null | https://github.com/d4rkb0n3/CVE-2022-24715-go | | 
-| 20231106T08:26:12Z | CVE-2023-5360 | The Royal Elementor Addons and Templates WordPress plugin before 1.3.79 does not properly validate uploaded files, which could allow unauthenticated users to upload arbitrary files, such as PHP and achieve RCE. | https://github.com/Pushkarup/CVE-2023-5360 | | 
 
 
 # klee on Github 推荐
@@ -56,6 +56,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231107T07:12:06Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 361 | 83| 
 | 20231103T14:05:23Z | Null | https://github.com/MelissaCanu/S2E5 | 0 | 0| 
 | 20231102T16:07:57Z | Null | https://github.com/k6i/s2e | 0 | 0| 
 | 20231102T13:46:19Z | Null | https://github.com/MelissaCanu/S2E3 | 0 | 0| 
@@ -64,21 +65,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231107T02:58:18Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0130-0127-app-1hfYG-run-exploit | 0 | 0| 
-| 20231107T02:57:58Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0130-0015-app-Y184o-exploit-deserve | 0 | 0| 
-| 20231107T02:48:55Z | A exploit tool for Grafana Unauthorized arbitrary file reading vulnerability (CVE-2021-43798), it can burst plugins / extract secret_key / decrypt data_source info automatic. | https://github.com/A-D-Team/grafanaExp | 225 | 36| 
-| 20231107T02:42:25Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0110-0017-app-37Pwe-exploit-open | 0 | 0| 
-| 20231107T02:39:09Z | The UAC Bypass program is designed to run files with elevated privileges on Windows without requesting user permission or displaying the UAC screen. It provides a way to bypass User Account Control (UAC) restrictions for specific tasks. | https://github.com/justhyak/UAC-Bypass-FUD | 18 | 9| 
-| 20231107T02:13:41Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0049-app-2c8Jj-accept-exploit | 0 | 0| 
-| 20231107T02:12:21Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0098-app-MzYCN-exploit-interpret | 0 | 0| 
-| 20231107T01:47:45Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0030-app-GdhvB-exploit-fulfil | 0 | 0| 
-| 20231107T01:18:52Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0079-app-ZpaoV-exploit-participate | 0 | 0| 
-| 20231107T01:09:52Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0016-app-D1pjX-exploit-forgive | 0 | 0| 
+| 20231107T12:35:20Z |  CVE-2023-46604 ActiveMQ RCE vulnerability verification/exploitation tool | https://github.com/sule01u/CVE-2023-46604 | 2 | 0| 
+| 20231107T12:32:38Z | LadonGO 4.8 Pentest Scanner framework  全平台Go开源内网渗透扫描器框架,Windows/Linux/Mac内网渗透，使用它可轻松一键批量探测C段、B段、A段存活主机、高危漏洞检测MS17010、SmbGhost，远程执行SSH/Winrm，密码爆破SMB/SSH/FTP/Mysql/Mssql/Oracle/Winrm/HttpBasic/Redis，端口扫描服务识别PortScan指纹识别/HttpBanner/HttpTitle/TcpBanner/Weblogic/Oxid多网卡主机，端口扫描服务识别PortScan。 | https://github.com/k8gege/LadonGo | 1383 | 304| 
+| 20231107T12:07:26Z | Crashes iOS 17 Devices using a ESP32 or a RPi | https://github.com/RapierXbox/ESP32-Sour-Apple | 203 | 19| 
+| 20231107T11:59:28Z | The UAC Bypass program is designed to run files with elevated privileges on Windows without requesting user permission or displaying the UAC screen. It provides a way to bypass User Account Control (UAC) restrictions for specific tasks. | https://github.com/justhyak/UAC-Bypass-FUD | 24 | 13| 
+| 20231107T11:58:20Z | This contains a POCs for an attackers application to exploit task hijacking vulnerability in an android application. | https://github.com/aaravavi/Task-Hijacking-Android | 0 | 0| 
+| 20231107T11:56:14Z | Robust Exploitive Active Learning | https://github.com/howardwang1997/RExAL | 0 | 0| 
+| 20231107T11:29:19Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5468 | 1064| 
+| 20231107T10:55:19Z | Simply fixes crashes and other important exploits for minecraft that PaperMC does not (typically for older versions) | https://github.com/Summiner/ServerPatches | 3 | 2| 
+| 20231107T06:23:39Z | exploit for cve-2023-46747 | https://github.com/W01fh4cker/CVE-2023-46747-RCE | 98 | 21| 
+| 20231107T05:33:46Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 171 | 14| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231107T09:43:35Z | RAT and C2 created with python | https://github.com/polymaster3313/Polyaccess | 29 | 10| 
 | 20231106T19:27:37Z | Rust exploit for vsftpd version 2.3.4 | https://github.com/GodZer/exploit_vsftpd_backdoor | 0 | 0| 
 | 20231106T17:10:58Z | Null | https://github.com/FlapShatner/backdoor | 0 | 0| 
 | 20231106T11:51:50Z | This is a p2p botnet / backdoor | https://github.com/Mihalic2040/Butter | 0 | 0| 
@@ -88,7 +90,6 @@
 | 20231106T03:54:30Z | Android-BackDoor is a python and shell script that simplifies the process of adding a backdoor to any Android APK file. It also exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/BitWalls-Sec/AndroidHack_BackDoor | 0 | 0| 
 | 20231105T23:47:01Z | Null | https://github.com/iamtomorrow/Backdoor | 0 | 0| 
 | 20231105T13:06:05Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 9 | 2| 
-| 20231105T11:36:03Z | Code Repo for the NeurIPS 2023 paper %VillanDiffusion: A Unified Backdoor Attack Framework for Diffusion Models% | https://github.com/IBM/VillanDiffusion | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -116,16 +117,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231107T01:50:41Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4900 | 1168| 
+| 20231107T12:55:59Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1600 | 232| 
+| 20231107T12:51:39Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4064 | 828| 
+| 20231107T12:42:53Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9139 | 2031| 
+| 20231107T12:40:45Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4902 | 1168| 
+| 20231107T12:16:50Z | Guitar pedal inspired by the Fuzz Boss Tone circuit (1960s, Jordan Electronics) | https://github.com/SlowProject/Fuzz_Jordan_guitar_pedal | 0 | 0| 
+| 20231107T11:06:48Z | Null | https://github.com/Grunkans/fuzzy-computing-machine | 0 | 0| 
 | 20231106T23:59:35Z | Null | https://github.com/google/fuzztest | 452 | 35| 
 | 20231106T21:03:22Z | Null | https://github.com/FatemeNikdel/Towards-an-Interpretabilit-Framewor-for-Hierarchical-Fuzzy-Systems | 0 | 0| 
 | 20231106T20:26:59Z | Null | https://github.com/alex32680/fuzzy-telegram | 0 | 1| 
-| 20231106T17:08:36Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5114 | 548| 
-| 20231106T17:08:31Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 108 | 39| 
-| 20231106T13:45:57Z | c2rust version of afl-fuzz | https://github.com/domenukk/AFLrustrust | 9 | 1| 
-| 20231106T13:33:27Z | Null | https://github.com/Pessadilla/FuzzyRTLS | 0 | 0| 
-| 20231106T13:14:00Z | Null | https://github.com/jorjikiao/fuzzy-spoon | 0 | 0| 
-| 20231106T12:28:11Z | Null | https://github.com/FT-Optix-Test-Automation-Projects/TestFuzzingRolesYamlFile | 0 | 0| 
+| 20231106T19:34:47Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 621 | 77| 
 
 
 
