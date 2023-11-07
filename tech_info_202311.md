@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231107T01:38:33Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
 | 20231106T23:41:36Z | CVE-2023-1714 | Bitrix24 Remote Command Execution (RCE) via Unsafe Variable Extraction | https://github.com/ForceFledgling/CVE-2023-1714 | | 
 | 20231106T23:35:44Z | CVE-2023-1713 | Bitrix24 Remote Command Execution (RCE) via Insecure Temporary File Creation | https://github.com/ForceFledgling/CVE-2023-1713 | | 
 | 20231106T22:16:02Z | CVE-2021-43609 | Proof of Concept Exploit for CVE-2021-43609 | https://github.com/d5sec/CVE-2021-43609-POC | | 
@@ -35,7 +36,6 @@
 | 20231106T12:45:11Z | CVE-2023-22518 | An Exploitation tool to exploit the confluence server that are vulnerable to CVE-2023-22518 Improper Authorization | https://github.com/sanjai-AK47/CVE-2023-22518 | | 
 | 20231106T09:47:13Z | CVE-2022-24715 | Null | https://github.com/d4rkb0n3/CVE-2022-24715-go | | 
 | 20231106T08:26:12Z | CVE-2023-5360 | The Royal Elementor Addons and Templates WordPress plugin before 1.3.79 does not properly validate uploaded files, which could allow unauthenticated users to upload arbitrary files, such as PHP and achieve RCE. | https://github.com/Pushkarup/CVE-2023-5360 | | 
-| 20231106T08:04:19Z | CVE-2023-37903 | Exploit for CVE-2023-37903  | https://github.com/7h3h4ckv157/CVE-2023-37903 | | 
 
 
 # klee on Github 推荐
