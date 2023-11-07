@@ -80,6 +80,8 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231106T16:22:28Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 32 | 6| 
+| 20231106T16:20:12Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 28 | 2| 
 | 20231106T03:05:55Z | A carwler for cyber security conferences including the big 4 (SP, Usenix Security, NDSS, CCS) and some software conferences. | https://github.com/QGrain/conference-crawler | 0 | 0| 
 
 
