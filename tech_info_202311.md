@@ -64,16 +64,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231107T02:13:41Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0049-app-2c8Jj-accept-exploit | 0 | 0| 
+| 20231107T02:12:21Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0098-app-MzYCN-exploit-interpret | 0 | 0| 
+| 20231107T02:12:16Z | The UAC Bypass program is designed to run files with elevated privileges on Windows without requesting user permission or displaying the UAC screen. It provides a way to bypass User Account Control (UAC) restrictions for specific tasks. | https://github.com/justhyak/UAC-Bypass-FUD | 17 | 9| 
 | 20231107T01:47:45Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0030-app-GdhvB-exploit-fulfil | 0 | 0| 
-| 20231107T01:43:20Z | The UAC Bypass program is designed to run files with elevated privileges on Windows without requesting user permission or displaying the UAC screen. It provides a way to bypass User Account Control (UAC) restrictions for specific tasks. | https://github.com/justhyak/UAC-Bypass-FUD | 16 | 9| 
 | 20231107T01:18:52Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0079-app-ZpaoV-exploit-participate | 0 | 0| 
 | 20231107T01:09:52Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0016-app-D1pjX-exploit-forgive | 0 | 0| 
 | 20231107T01:05:14Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0001-app-dF9fw-exploit-tackle | 0 | 0| 
 | 20231106T23:21:40Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-nq | 1 | 0| 
 | 20231106T23:20:53Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-nq | 1 | 0| 
 | 20231106T23:20:18Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-nq | 1 | 0| 
-| 20231106T23:19:05Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-nq | 1 | 0| 
-| 20231106T13:31:28Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8913 | 2044| 
 
 
 # backdoor on Github 推荐
