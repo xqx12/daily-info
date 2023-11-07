@@ -26,8 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231107T13:16:17Z | CVE-2023-41425 | Null | https://github.com/prodigiousMind/CVE-2023-41425 | | 
 | 20231107T12:35:20Z | CVE-2023-46604 |  CVE-2023-46604 ActiveMQ RCE vulnerability verification/exploitation tool | https://github.com/sule01u/CVE-2023-46604 | | 
-| 20231107T08:49:45Z | CVE-2023-41425 | Null | https://github.com/prodigiousMind/CVE-2023-41425 | | 
 | 20231107T06:23:39Z | CVE-2023-46747 | exploit for cve-2023-46747 | https://github.com/W01fh4cker/CVE-2023-46747-RCE | | 
 | 20231107T04:21:41Z | cve-2023-38831 | WinRAR cve-2023-38831-poc-generator | https://github.com/s4m98/winrar-cve-2023-38831-poc-gen | | 
 | 20231107T04:17:08Z | CVE-2023-38646 | Metabase Pre-Auth RCE POC | https://github.com/Mrunalkaran/CVE-2023-38646 | | 
