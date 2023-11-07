@@ -65,16 +65,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231107T13:56:04Z | Null | https://github.com/anonhack17/check_exploit | 0 | 0| 
+| 20231107T13:44:43Z | Null | https://github.com/IvanGalati/Exploit-Telnet-Con-Metasploit | 0 | 0| 
+| 20231107T13:39:15Z | Null | https://github.com/ForestieriBenedetta/Exploit-Telnet-con-Metasploit | 0 | 0| 
+| 20231107T13:33:42Z | Null | https://github.com/Gabrigeno/exploitTelnet | 0 | 0| 
 | 20231107T13:14:57Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5629 | 716| 
 | 20231107T12:35:20Z |  CVE-2023-46604 ActiveMQ RCE vulnerability verification/exploitation tool | https://github.com/sule01u/CVE-2023-46604 | 2 | 0| 
 | 20231107T12:32:38Z | LadonGO 4.8 Pentest Scanner framework  全平台Go开源内网渗透扫描器框架,Windows/Linux/Mac内网渗透，使用它可轻松一键批量探测C段、B段、A段存活主机、高危漏洞检测MS17010、SmbGhost，远程执行SSH/Winrm，密码爆破SMB/SSH/FTP/Mysql/Mssql/Oracle/Winrm/HttpBasic/Redis，端口扫描服务识别PortScan指纹识别/HttpBanner/HttpTitle/TcpBanner/Weblogic/Oxid多网卡主机，端口扫描服务识别PortScan。 | https://github.com/k8gege/LadonGo | 1383 | 304| 
 | 20231107T12:07:26Z | Crashes iOS 17 Devices using a ESP32 or a RPi | https://github.com/RapierXbox/ESP32-Sour-Apple | 203 | 19| 
 | 20231107T11:59:28Z | The UAC Bypass program is designed to run files with elevated privileges on Windows without requesting user permission or displaying the UAC screen. It provides a way to bypass User Account Control (UAC) restrictions for specific tasks. | https://github.com/justhyak/UAC-Bypass-FUD | 24 | 13| 
 | 20231107T11:58:20Z | This contains a POCs for an attackers application to exploit task hijacking vulnerability in an android application. | https://github.com/aaravavi/Task-Hijacking-Android | 0 | 0| 
-| 20231107T11:56:14Z | Robust Exploitive Active Learning | https://github.com/howardwang1997/RExAL | 0 | 0| 
-| 20231107T11:29:19Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5468 | 1064| 
-| 20231107T10:55:19Z | Simply fixes crashes and other important exploits for minecraft that PaperMC does not (typically for older versions) | https://github.com/Summiner/ServerPatches | 3 | 2| 
-| 20231107T06:23:39Z | exploit for cve-2023-46747 | https://github.com/W01fh4cker/CVE-2023-46747-RCE | 98 | 21| 
 
 
 # backdoor on Github 推荐
