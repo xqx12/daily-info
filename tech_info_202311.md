@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231107T02:42:25Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0110-0017-app-37Pwe-exploit-open | 0 | 0| 
 | 20231107T02:39:09Z | The UAC Bypass program is designed to run files with elevated privileges on Windows without requesting user permission or displaying the UAC screen. It provides a way to bypass User Account Control (UAC) restrictions for specific tasks. | https://github.com/justhyak/UAC-Bypass-FUD | 18 | 9| 
 | 20231107T02:13:41Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0049-app-2c8Jj-accept-exploit | 0 | 0| 
 | 20231107T02:12:21Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0098-app-MzYCN-exploit-interpret | 0 | 0| 
@@ -73,7 +74,6 @@
 | 20231107T01:05:14Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0001-app-dF9fw-exploit-tackle | 0 | 0| 
 | 20231106T23:21:40Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-nq | 1 | 0| 
 | 20231106T23:20:53Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-nq | 1 | 0| 
-| 20231106T23:20:18Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-nq | 1 | 0| 
 
 
 # backdoor on Github 推荐
