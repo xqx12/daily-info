@@ -95,6 +95,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231107T12:44:18Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 201 | 42| 
 | 20231106T23:18:32Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2353 | 638| 
 | 20231106T15:23:39Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 701 | 125| 
 | 20231106T15:21:31Z | Symbolic execution of LLVM IR with an engine written in Rust | https://github.com/PLSysSec/haybale | 470 | 22| 
