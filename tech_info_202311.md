@@ -64,7 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231107T01:21:23Z | The UAC Bypass program is designed to run files with elevated privileges on Windows without requesting user permission or displaying the UAC screen. It provides a way to bypass User Account Control (UAC) restrictions for specific tasks. | https://github.com/justhyak/UAC-Bypass-FUD | 15 | 9| 
+| 20231107T01:43:20Z | The UAC Bypass program is designed to run files with elevated privileges on Windows without requesting user permission or displaying the UAC screen. It provides a way to bypass User Account Control (UAC) restrictions for specific tasks. | https://github.com/justhyak/UAC-Bypass-FUD | 16 | 9| 
 | 20231107T01:18:52Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0079-app-ZpaoV-exploit-participate | 0 | 0| 
 | 20231107T01:09:52Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0016-app-D1pjX-exploit-forgive | 0 | 0| 
 | 20231107T01:05:14Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0001-app-dF9fw-exploit-tackle | 0 | 0| 
