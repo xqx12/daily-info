@@ -92,12 +92,12 @@
 | 20231106T21:03:22Z | Null | https://github.com/FatemeNikdel/Towards-an-Interpretabilit-Framewor-for-Hierarchical-Fuzzy-Systems | 0 | 0| 
 | 20231106T20:26:59Z | Null | https://github.com/alex32680/fuzzy-telegram | 0 | 1| 
 | 20231106T17:08:36Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5114 | 548| 
+| 20231106T17:08:31Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 108 | 39| 
 | 20231106T13:45:57Z | c2rust version of afl-fuzz | https://github.com/domenukk/AFLrustrust | 9 | 1| 
 | 20231106T13:33:27Z | Null | https://github.com/Pessadilla/FuzzyRTLS | 0 | 0| 
 | 20231106T13:14:00Z | Null | https://github.com/jorjikiao/fuzzy-spoon | 0 | 0| 
 | 20231106T12:28:11Z | Null | https://github.com/FT-Optix-Test-Automation-Projects/TestFuzzingRolesYamlFile | 0 | 0| 
 | 20231106T12:17:33Z | Fuzzing IoT Devices Using the Router TL-WR902AC as Example | https://github.com/otsmr/blackbox-fuzzing | 0 | 0| 
-| 20231106T11:43:36Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4901 | 1169| 
 
 
 
