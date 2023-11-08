@@ -67,6 +67,7 @@
 | --- | --- | --- | --- | ---| 
 | 20231108T02:46:51Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0130-0103-app-uhAQS-direct-exploit | 0 | 0| 
 | 20231108T02:46:16Z | 泛微最近的漏洞利用工具（PS：2023） | https://github.com/zhaoyumi/WeaverExploit_All | 287 | 32| 
+| 20231108T02:28:31Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5633 | 764| 
 | 20231108T02:09:55Z | Null | https://github.com/RedNotSus/exploits-v2 | 0 | 0| 
 | 20231108T02:02:32Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0032-app--2nuW-exploit-of | 0 | 0| 
 | 20231108T01:50:21Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0038-app-sBjEi-conduct-exploit | 0 | 0| 
@@ -74,7 +75,6 @@
 | 20231108T01:10:41Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0034-app--Nrgt-ask-exploit | 0 | 0| 
 | 20231108T01:05:26Z | Repository containing a walkthrough exploiting a Vulnerable Chat server. | https://github.com/DaintyJet/VChat_TURN | 0 | 0| 
 | 20231107T23:26:45Z | wix | https://github.com/wixworm/wix | 4 | 0| 
-| 20231107T23:19:42Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-hs | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -119,6 +119,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231108T02:48:38Z | Null | https://github.com/jcbhmr/fuzzy-octo-succotash | 0 | 0| 
 | 20231108T02:22:01Z | Null | https://github.com/Fuzzy-Cat-xk/Fuzzy-Cat-xk.github.io | 0 | 0| 
 | 20231107T23:29:37Z | Parallelization of the the Fuzzy Super Pixel segmentation algorithm SLIC | https://github.com/sumanth-tangirala/Fuzzy-SLIC-CUDA-Parallelization | 0 | 0| 
 | 20231107T23:26:22Z | Repositorio para códigos utilizando lógica fuzzy | https://github.com/NathanAtaliba/Logica_Fuzzy | 0 | 0| 
@@ -128,7 +129,6 @@
 | 20231107T15:11:15Z | Upstream Proxy Burp for fuzzing | https://github.com/nxczje/froxy | 0 | 0| 
 | 20231107T14:24:41Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1600 | 232| 
 | 20231107T12:51:39Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4064 | 828| 
-| 20231107T12:40:45Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4902 | 1168| 
 
 
 
