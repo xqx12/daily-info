@@ -11,6 +11,9 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20231108 | 中国网络安全产业分析报告（2023年） | http://www.china-cia.org.cn/AQLMWebManage/Resources/kindeditor/attached/file/20231108/20231108115447_3689.pdf| 
+| 20231108 | 嵌入式设备固件仿真器综述 | https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.202330476| 
+| 20231108 | Tor 服务的大规模爬取与分析 | https://mp.weixin.qq.com/s/3VuSxgEBwdh_JCNBX0Vakg| 
 | 20231107 | 大型闪电式红蓝对抗主流攻击行为的研判分析 | https://mp.weixin.qq.com/s/W2repoNPiuTGevv1dHc4DQ| 
 | 20231107 | 万字长文解读最新版ATT&CK V14 | https://mp.weixin.qq.com/s/DIzVBNFtQr4741FOnKXHsg| 
 | 20231107 | 黑盒的图像深度学习模型训练数据重建攻击 | https://mp.weixin.qq.com/s/1fFRSBJk_jDNkTAsdCEkEw| 
@@ -18,30 +21,27 @@
 | 20231106 | 内网安全之隧道代理 | https://www.sec-in.com/article/2257| 
 | 20231106 | SecWiki周刊（第505期) | https://www.sec-wiki.com/weekly/505| 
 | 20231104 | ISASearch: 一个基于分布式爬虫的信安文章搜索引擎 | https://github.com/LetheSec/ISASearch| 
-| 20231104 | libwebp漏洞利用技术研判报告 | https://mp.weixin.qq.com/s/hvn1rvMed3o05yB8opWiaQ| 
-| 20231104 | ChatGLM3-6B大模型的部署与使用教程 | https://mp.weixin.qq.com/s/Gbd_JYrM-2sY9rwFYm77jg| 
-| 20231104 | 基于微调大语言模型的知识图谱问答框架 | https://mp.weixin.qq.com/s/htoIZS6s-Uclv2gsVE1MNw| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231108T12:08:20Z | CVE-2023-46604 |  CVE-2023-46604 ActiveMQ RCE vulnerability verification/exploitation tool | https://github.com/sule01u/CVE-2023-46604 | | 
+| 20231108T08:44:15Z | CVE-2023-22515 | Server Broken Access Control in Confluence - CVE-2023-22515 | https://github.com/LucasPDiniz/CVE-2023-22515 | | 
+| 20231108T07:53:20Z | CVE-2023-46604 | CVE-2023-46604 Apache ActiveMQ RCE exp 基于python | https://github.com/justdoit-cai/CVE-2023-46604-Apache-ActiveMQ-RCE-exp | | 
+| 20231108T05:17:25Z | CVE-2021-3560 | Exploitation of the CVE-2021-3560 polkit vulnerability | https://github.com/LucasPDiniz/CVE-2021-3560 | | 
 | 20231108T02:27:49Z | CVE-2022-38694 | User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20231107T21:09:32Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
 | 20231107T18:01:19Z | CVE-2023-46747 | exploit for cve-2023-46747 | https://github.com/W01fh4cker/CVE-2023-46747-RCE | | 
 | 20231107T15:17:12Z | CVE-2023-41425 | Null | https://github.com/prodigiousMind/CVE-2023-41425 | | 
-| 20231107T12:35:20Z | CVE-2023-46604 |  CVE-2023-46604 ActiveMQ RCE vulnerability verification/exploitation tool | https://github.com/sule01u/CVE-2023-46604 | | 
 | 20231107T04:21:41Z | cve-2023-38831 | WinRAR cve-2023-38831-poc-generator | https://github.com/s4m98/winrar-cve-2023-38831-poc-gen | | 
 | 20231107T04:17:08Z | CVE-2023-38646 | Metabase Pre-Auth RCE POC | https://github.com/Mrunalkaran/CVE-2023-38646 | | 
-| 20231106T23:41:36Z | CVE-2023-1714 | Bitrix24 Remote Command Execution (RCE) via Unsafe Variable Extraction | https://github.com/ForceFledgling/CVE-2023-1714 | | 
-| 20231106T23:35:44Z | CVE-2023-1713 | Bitrix24 Remote Command Execution (RCE) via Insecure Temporary File Creation | https://github.com/ForceFledgling/CVE-2023-1713 | | 
-| 20231106T22:16:02Z | CVE-2021-43609 | Proof of Concept Exploit for CVE-2021-43609 | https://github.com/d5sec/CVE-2021-43609-POC | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231108T01:47:42Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2354 | 638| 
+| 20231108T06:25:28Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2355 | 638| 
 | 20231106T07:13:46Z | Null | https://github.com/alexzfe/kleenex-repo | 0 | 0| 
 | 20231105T18:50:58Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 280 | 54| 
 | 20231105T09:46:01Z | Klee | https://github.com/Kleenn666/Kleenn | 0 | 0| 
@@ -65,31 +65,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231108T12:52:39Z | Silent PDF Exploit Builder is an antivirus evasion tool that can convert executables into undetectable pdf files. | https://github.com/SilentPulseDeveloper/Silent-PDF-Exploit-Builder-2023 | 2 | 0| 
+| 20231108T12:51:24Z | Just some scripts to automate exploitation on soem CTF machines | https://github.com/josemlwdf/AutoExploits | 0 | 0| 
+| 20231108T12:44:50Z | Null | https://github.com/Faizalhidayat/Ethereum-Delegatecall-Exploit-Demo | 0 | 0| 
+| 20231108T11:20:32Z | writeups/pocs/exploits | https://github.com/synfosec/pocs | 0 | 0| 
+| 20231108T11:13:17Z | GitOps Repository | https://github.com/redhat-appstudio-qe/byoc-app-mexs-hYdVM-exploit-measure | 0 | 0| 
+| 20231108T11:00:23Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5632 | 715| 
+| 20231108T10:36:37Z | Null | https://github.com/rpizziol/exploring-exploiting-index | 0 | 0| 
+| 20231108T08:43:44Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5471 | 1065| 
 | 20231108T02:46:51Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0130-0103-app-uhAQS-direct-exploit | 0 | 0| 
 | 20231108T02:46:16Z | 泛微最近的漏洞利用工具（PS：2023） | https://github.com/zhaoyumi/WeaverExploit_All | 287 | 32| 
-| 20231108T02:28:31Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5633 | 764| 
-| 20231108T02:09:55Z | Null | https://github.com/RedNotSus/exploits-v2 | 0 | 0| 
-| 20231108T02:02:32Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0032-app--2nuW-exploit-of | 0 | 0| 
-| 20231108T01:50:21Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0038-app-sBjEi-conduct-exploit | 0 | 0| 
-| 20231108T01:50:08Z | A collection of ChromeOS exploits free for the public | https://github.com/3kh0/ext-remover | 280 | 295| 
-| 20231108T01:10:41Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0034-app--Nrgt-ask-exploit | 0 | 0| 
-| 20231108T01:05:26Z | Repository containing a walkthrough exploiting a Vulnerable Chat server. | https://github.com/DaintyJet/VChat_TURN | 0 | 0| 
-| 20231107T23:26:45Z | wix | https://github.com/wixworm/wix | 4 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231108T09:42:06Z | A backdoor plist that automatically runs a script from the internet | https://github.com/Wolfoverflow/backdoor | 0 | 1| 
+| 20231108T09:11:56Z | Null | https://github.com/memory009/Backdoor | 0 | 0| 
+| 20231108T08:42:39Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 220 | 24| 
+| 20231108T06:07:32Z | Null | https://github.com/crispy-coffee/Backdoor | 0 | 0| 
 | 20231108T00:13:51Z | Null | https://github.com/rgreenblatt/backdoor_control_examples | 0 | 0| 
 | 20231107T19:32:47Z | Wrapper for python3 modules to open a backdoor to program | https://github.com/DeadPixil/Nefario | 0 | 0| 
 | 20231107T17:47:35Z | Kernel  rk | https://github.com/carloslack/KoviD | 160 | 37| 
 | 20231107T15:56:34Z | Aurora Framework lets you create backdoors for Windows. | https://github.com/hxrshdeepsingh/Aurora-Framework | 1 | 0| 
 | 20231107T09:43:35Z | RAT and C2 created with python | https://github.com/polymaster3313/Polyaccess | 29 | 10| 
 | 20231106T19:27:37Z | Rust exploit for vsftpd version 2.3.4 | https://github.com/GodZer/exploit_vsftpd_backdoor | 0 | 0| 
-| 20231106T17:10:58Z | Null | https://github.com/FlapShatner/backdoor | 0 | 0| 
-| 20231106T11:51:50Z | This is a p2p botnet / backdoor | https://github.com/Mihalic2040/Butter | 0 | 0| 
-| 20231106T11:24:04Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 8404 | 2238| 
-| 20231106T06:30:29Z | Fast integration of backdoor attacks in machine learning and federated learning. | https://github.com/mtuann/fedlearn-backdoor-attacks | 13 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -119,16 +119,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231108T12:58:07Z | Hopper is a tool for generating fuzzing test cases for libraries automatically using interpretative fuzzing. | https://github.com/FuzzAnything/hopper | 22 | 0| 
+| 20231108T12:32:58Z | Null | https://github.com/saifchishti900/API-Fuzzer | 0 | 0| 
+| 20231108T12:15:15Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9144 | 2032| 
+| 20231108T12:08:28Z | MoonLight is a research project looking at efficient methods for designing a corpus typically for use in fuzzing campaigns. 一个用于精简afl语料库的工具，相比于afl-cmin，可以大幅提高裁剪速度。 | https://github.com/liyansong2018/moonlight | 0 | 0| 
+| 20231108T10:44:58Z | Project is a web application that implements the FUZZY VIKOR method for decision-making. | https://github.com/serhiidankovych/fuzzy-vikor | 0 | 0| 
 | 20231108T02:48:38Z | Null | https://github.com/jcbhmr/fuzzy-octo-succotash | 0 | 0| 
 | 20231108T02:22:01Z | Null | https://github.com/Fuzzy-Cat-xk/Fuzzy-Cat-xk.github.io | 0 | 0| 
 | 20231107T23:29:37Z | Parallelization of the the Fuzzy Super Pixel segmentation algorithm SLIC | https://github.com/sumanth-tangirala/Fuzzy-SLIC-CUDA-Parallelization | 0 | 0| 
 | 20231107T23:26:22Z | Repositorio para códigos utilizando lógica fuzzy | https://github.com/NathanAtaliba/Logica_Fuzzy | 0 | 0| 
 | 20231107T22:55:35Z | The materials of %Hypervisor 101 in Rust%, a one-day long course, to quickly learn hardware-assisted virtualization technology and its application for high-performance fuzzing on Intel/AMD processors. | https://github.com/tandasat/Hypervisor-101-in-Rust | 841 | 53| 
-| 20231107T22:54:09Z | TokTok fuzzing corpus and coverage results. | https://github.com/TokTok/toktok-fuzzer | 4 | 2| 
-| 20231107T20:28:13Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9142 | 2032| 
-| 20231107T15:11:15Z | Upstream Proxy Burp for fuzzing | https://github.com/nxczje/froxy | 0 | 0| 
-| 20231107T14:24:41Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1600 | 232| 
-| 20231107T12:51:39Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4064 | 828| 
 
 
 
