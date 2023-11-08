@@ -74,7 +74,7 @@
 | 20231108T11:00:23Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5632 | 715| 
 | 20231108T10:36:37Z | Null | https://github.com/rpizziol/exploring-exploiting-index | 0 | 0| 
 | 20231108T08:43:44Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5471 | 1065| 
-| 20231108T02:46:51Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0130-0103-app-uhAQS-direct-exploit | 0 | 0| 
+| 20231108T06:26:10Z | Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT | https://github.com/xsscx/Commodity-Injection-Signatures | 360 | 124| 
 
 
 # backdoor on Github 推荐
