@@ -26,12 +26,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231107T13:16:17Z | CVE-2023-41425 | Null | https://github.com/prodigiousMind/CVE-2023-41425 | | 
+| 20231107T21:09:32Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
+| 20231107T18:01:19Z | CVE-2023-46747 | exploit for cve-2023-46747 | https://github.com/W01fh4cker/CVE-2023-46747-RCE | | 
+| 20231107T15:17:12Z | CVE-2023-41425 | Null | https://github.com/prodigiousMind/CVE-2023-41425 | | 
 | 20231107T12:35:20Z | CVE-2023-46604 |  CVE-2023-46604 ActiveMQ RCE vulnerability verification/exploitation tool | https://github.com/sule01u/CVE-2023-46604 | | 
-| 20231107T06:23:39Z | CVE-2023-46747 | exploit for cve-2023-46747 | https://github.com/W01fh4cker/CVE-2023-46747-RCE | | 
 | 20231107T04:21:41Z | cve-2023-38831 | WinRAR cve-2023-38831-poc-generator | https://github.com/s4m98/winrar-cve-2023-38831-poc-gen | | 
 | 20231107T04:17:08Z | CVE-2023-38646 | Metabase Pre-Auth RCE POC | https://github.com/Mrunalkaran/CVE-2023-38646 | | 
-| 20231107T01:38:33Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
 | 20231106T23:41:36Z | CVE-2023-1714 | Bitrix24 Remote Command Execution (RCE) via Unsafe Variable Extraction | https://github.com/ForceFledgling/CVE-2023-1714 | | 
 | 20231106T23:35:44Z | CVE-2023-1713 | Bitrix24 Remote Command Execution (RCE) via Insecure Temporary File Creation | https://github.com/ForceFledgling/CVE-2023-1713 | | 
 | 20231106T22:16:02Z | CVE-2021-43609 | Proof of Concept Exploit for CVE-2021-43609 | https://github.com/d5sec/CVE-2021-43609-POC | | 
@@ -65,31 +65,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231107T23:26:45Z | wix | https://github.com/wixworm/wix | 4 | 0| 
+| 20231107T23:19:42Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-hs | 1 | 0| 
+| 20231107T23:18:55Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-hs | 1 | 0| 
+| 20231107T23:18:13Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-hs | 1 | 0| 
+| 20231107T23:17:28Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-hs | 1 | 0| 
+| 20231107T22:28:00Z | Wurmple is a computer worm that propagates using known exploits in the Metasploit framework | https://github.com/IronMean/Wurmple | 0 | 0| 
+| 20231107T14:33:23Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5469 | 1065| 
 | 20231107T13:56:04Z | Null | https://github.com/anonhack17/check_exploit | 0 | 0| 
 | 20231107T13:44:43Z | Null | https://github.com/IvanGalati/Exploit-Telnet-Con-Metasploit | 0 | 0| 
 | 20231107T13:39:15Z | Null | https://github.com/ForestieriBenedetta/Exploit-Telnet-con-Metasploit | 0 | 0| 
-| 20231107T13:33:42Z | Null | https://github.com/Gabrigeno/exploitTelnet | 0 | 0| 
-| 20231107T13:14:57Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5629 | 716| 
-| 20231107T12:35:20Z |  CVE-2023-46604 ActiveMQ RCE vulnerability verification/exploitation tool | https://github.com/sule01u/CVE-2023-46604 | 2 | 0| 
-| 20231107T12:32:38Z | LadonGO 4.8 Pentest Scanner framework  全平台Go开源内网渗透扫描器框架,Windows/Linux/Mac内网渗透，使用它可轻松一键批量探测C段、B段、A段存活主机、高危漏洞检测MS17010、SmbGhost，远程执行SSH/Winrm，密码爆破SMB/SSH/FTP/Mysql/Mssql/Oracle/Winrm/HttpBasic/Redis，端口扫描服务识别PortScan指纹识别/HttpBanner/HttpTitle/TcpBanner/Weblogic/Oxid多网卡主机，端口扫描服务识别PortScan。 | https://github.com/k8gege/LadonGo | 1383 | 304| 
-| 20231107T12:07:26Z | Crashes iOS 17 Devices using a ESP32 or a RPi | https://github.com/RapierXbox/ESP32-Sour-Apple | 203 | 19| 
-| 20231107T11:59:28Z | The UAC Bypass program is designed to run files with elevated privileges on Windows without requesting user permission or displaying the UAC screen. It provides a way to bypass User Account Control (UAC) restrictions for specific tasks. | https://github.com/justhyak/UAC-Bypass-FUD | 24 | 13| 
-| 20231107T11:58:20Z | This contains a POCs for an attackers application to exploit task hijacking vulnerability in an android application. | https://github.com/aaravavi/Task-Hijacking-Android | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231108T00:13:51Z | Null | https://github.com/rgreenblatt/backdoor_control_examples | 0 | 0| 
+| 20231107T19:32:47Z | Wrapper for python3 modules to open a backdoor to program | https://github.com/DeadPixil/Nefario | 0 | 0| 
+| 20231107T17:47:35Z | Kernel  rk | https://github.com/carloslack/KoviD | 160 | 37| 
+| 20231107T15:56:34Z | Aurora Framework lets you create backdoors for Windows. | https://github.com/hxrshdeepsingh/Aurora-Framework | 1 | 0| 
 | 20231107T09:43:35Z | RAT and C2 created with python | https://github.com/polymaster3313/Polyaccess | 29 | 10| 
 | 20231106T19:27:37Z | Rust exploit for vsftpd version 2.3.4 | https://github.com/GodZer/exploit_vsftpd_backdoor | 0 | 0| 
 | 20231106T17:10:58Z | Null | https://github.com/FlapShatner/backdoor | 0 | 0| 
 | 20231106T11:51:50Z | This is a p2p botnet / backdoor | https://github.com/Mihalic2040/Butter | 0 | 0| 
 | 20231106T11:24:04Z | Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection . | https://github.com/screetsec/TheFatRat | 8404 | 2238| 
 | 20231106T06:30:29Z | Fast integration of backdoor attacks in machine learning and federated learning. | https://github.com/mtuann/fedlearn-backdoor-attacks | 13 | 0| 
-| 20231106T06:03:29Z | Null | https://github.com/lioooottt/backdoor | 0 | 0| 
-| 20231106T03:54:30Z | Android-BackDoor is a python and shell script that simplifies the process of adding a backdoor to any Android APK file. It also exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/BitWalls-Sec/AndroidHack_BackDoor | 0 | 0| 
-| 20231105T23:47:01Z | Null | https://github.com/iamtomorrow/Backdoor | 0 | 0| 
-| 20231105T13:06:05Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 9 | 2| 
 
 
 # symbolic execution on Github 推荐
@@ -119,16 +119,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231107T23:29:37Z | Parallelization of the the Fuzzy Super Pixel segmentation algorithm SLIC | https://github.com/sumanth-tangirala/Fuzzy-SLIC-CUDA-Parallelization | 0 | 0| 
+| 20231107T23:26:22Z | Repositorio para códigos utilizando lógica fuzzy | https://github.com/NathanAtaliba/Logica_Fuzzy | 0 | 0| 
+| 20231107T22:55:35Z | The materials of %Hypervisor 101 in Rust%, a one-day long course, to quickly learn hardware-assisted virtualization technology and its application for high-performance fuzzing on Intel/AMD processors. | https://github.com/tandasat/Hypervisor-101-in-Rust | 841 | 53| 
+| 20231107T22:54:09Z | TokTok fuzzing corpus and coverage results. | https://github.com/TokTok/toktok-fuzzer | 4 | 2| 
+| 20231107T14:24:41Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1600 | 232| 
 | 20231107T13:43:55Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9140 | 2031| 
-| 20231107T12:55:59Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1600 | 232| 
 | 20231107T12:51:39Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4064 | 828| 
 | 20231107T12:40:45Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4902 | 1168| 
 | 20231107T12:16:50Z | Guitar pedal inspired by the Fuzz Boss Tone circuit (1960s, Jordan Electronics) | https://github.com/SlowProject/Fuzz_Jordan_guitar_pedal | 0 | 0| 
 | 20231107T11:06:48Z | Null | https://github.com/Grunkans/fuzzy-computing-machine | 0 | 0| 
-| 20231107T08:09:06Z | Null | https://github.com/ouoddddv/fuzzy-telegram | 0 | 0| 
-| 20231106T23:59:35Z | Null | https://github.com/google/fuzztest | 452 | 35| 
-| 20231106T21:03:22Z | Null | https://github.com/FatemeNikdel/Towards-an-Interpretabilit-Framewor-for-Hierarchical-Fuzzy-Systems | 0 | 0| 
-| 20231106T20:26:59Z | Null | https://github.com/alex32680/fuzzy-telegram | 0 | 1| 
 
 
 
