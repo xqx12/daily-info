@@ -84,8 +84,8 @@
 | 20231107T23:26:22Z | Repositorio para códigos utilizando lógica fuzzy | https://github.com/NathanAtaliba/Logica_Fuzzy | 0 | 0| 
 | 20231107T22:55:35Z | The materials of %Hypervisor 101 in Rust%, a one-day long course, to quickly learn hardware-assisted virtualization technology and its application for high-performance fuzzing on Intel/AMD processors. | https://github.com/tandasat/Hypervisor-101-in-Rust | 841 | 53| 
 | 20231107T22:54:09Z | TokTok fuzzing corpus and coverage results. | https://github.com/TokTok/toktok-fuzzer | 4 | 2| 
+| 20231107T20:28:13Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9142 | 2032| 
 | 20231107T14:24:41Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1600 | 232| 
-| 20231107T13:43:55Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9140 | 2031| 
 | 20231107T12:51:39Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4064 | 828| 
 | 20231107T12:40:45Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4902 | 1168| 
 | 20231107T12:16:50Z | Guitar pedal inspired by the Fuzz Boss Tone circuit (1960s, Jordan Electronics) | https://github.com/SlowProject/Fuzz_Jordan_guitar_pedal | 0 | 0| 
