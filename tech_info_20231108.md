@@ -40,16 +40,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231108T13:55:41Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5633 | 715| 
+| 20231108T13:55:23Z | GitOps Repository | https://github.com/redhat-appstudio-qe/jvm-build-suite-application-nghz-KJ94p-exploit-judge | 0 | 0| 
 | 20231108T13:01:08Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6119 | 804| 
 | 20231108T12:52:39Z | Silent PDF Exploit Builder is an antivirus evasion tool that can convert executables into undetectable pdf files. | https://github.com/SilentPulseDeveloper/Silent-PDF-Exploit-Builder-2023 | 2 | 0| 
 | 20231108T12:51:24Z | Just some scripts to automate exploitation on soem CTF machines | https://github.com/josemlwdf/AutoExploits | 0 | 0| 
 | 20231108T12:44:50Z | Null | https://github.com/Faizalhidayat/Ethereum-Delegatecall-Exploit-Demo | 0 | 0| 
 | 20231108T11:20:32Z | writeups/pocs/exploits | https://github.com/synfosec/pocs | 0 | 0| 
 | 20231108T11:13:17Z | GitOps Repository | https://github.com/redhat-appstudio-qe/byoc-app-mexs-hYdVM-exploit-measure | 0 | 0| 
-| 20231108T11:00:23Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5632 | 715| 
 | 20231108T10:36:37Z | Null | https://github.com/rpizziol/exploring-exploiting-index | 0 | 0| 
 | 20231108T08:43:44Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5471 | 1065| 
-| 20231108T06:26:10Z | Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT | https://github.com/xsscx/Commodity-Injection-Signatures | 360 | 124| 
 
 
 # backdoor on Github 推荐
