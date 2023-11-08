@@ -120,7 +120,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231108T13:24:15Z | Hopper is a tool for generating fuzzing test cases for libraries automatically using interpretative fuzzing. | https://github.com/FuzzAnything/hopper | 25 | 0| 
+| 20231108T13:26:10Z | Hopper is a tool for generating fuzzing test cases for libraries automatically using interpretative fuzzing. | https://github.com/FuzzAnything/hopper | 26 | 0| 
 | 20231108T13:15:54Z | learning git push and pull | https://github.com/Sandy-Jan/fuzzy-octo-system | 0 | 0| 
 | 20231108T12:32:58Z | Null | https://github.com/saifchishti900/API-Fuzzer | 0 | 0| 
 | 20231108T12:15:15Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9144 | 2032| 
