@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231108T02:43:06Z | 泛微最近的漏洞利用工具（PS：2023） | https://github.com/zhaoyumi/WeaverExploit_All | 286 | 32| 
 | 20231108T02:09:55Z | Null | https://github.com/RedNotSus/exploits-v2 | 0 | 0| 
 | 20231108T02:02:32Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0032-app--2nuW-exploit-of | 0 | 0| 
 | 20231108T01:50:21Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0038-app-sBjEi-conduct-exploit | 0 | 0| 
@@ -74,7 +75,6 @@
 | 20231107T23:26:45Z | wix | https://github.com/wixworm/wix | 4 | 0| 
 | 20231107T23:19:42Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-hs | 1 | 0| 
 | 20231107T23:18:55Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-hs | 1 | 0| 
-| 20231107T23:18:13Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-hs | 1 | 0| 
 
 
 # backdoor on Github 推荐
