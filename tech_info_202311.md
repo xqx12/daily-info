@@ -65,6 +65,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231108T01:50:21Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0038-app-sBjEi-conduct-exploit | 0 | 0| 
+| 20231108T01:50:08Z | A collection of ChromeOS exploits free for the public | https://github.com/3kh0/ext-remover | 280 | 295| 
 | 20231108T01:10:41Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0034-app--Nrgt-ask-exploit | 0 | 0| 
 | 20231108T01:05:26Z | Repository containing a walkthrough exploiting a Vulnerable Chat server. | https://github.com/DaintyJet/VChat_TURN | 0 | 0| 
 | 20231107T23:26:45Z | wix | https://github.com/wixworm/wix | 4 | 0| 
@@ -73,8 +75,6 @@
 | 20231107T23:18:13Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-hs | 1 | 0| 
 | 20231107T23:17:28Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-hs | 1 | 0| 
 | 20231107T22:28:00Z | Wurmple is a computer worm that propagates using known exploits in the Metasploit framework | https://github.com/IronMean/Wurmple | 0 | 0| 
-| 20231107T14:33:23Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5469 | 1065| 
-| 20231107T13:56:04Z | Null | https://github.com/anonhack17/check_exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
