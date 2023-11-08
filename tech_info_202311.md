@@ -126,10 +126,10 @@
 | 20231108T12:15:15Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9144 | 2032| 
 | 20231108T12:08:28Z | MoonLight is a research project looking at efficient methods for designing a corpus typically for use in fuzzing campaigns. 一个用于精简afl语料库的工具，相比于afl-cmin，可以大幅提高裁剪速度。 | https://github.com/liyansong2018/moonlight | 0 | 0| 
 | 20231108T10:44:58Z | Project is a web application that implements the FUZZY VIKOR method for decision-making. | https://github.com/serhiidankovych/fuzzy-vikor | 0 | 0| 
+| 20231108T09:11:33Z | Null | https://github.com/Grunkans/fuzzy-computing-machine | 0 | 0| 
 | 20231108T02:48:38Z | Null | https://github.com/jcbhmr/fuzzy-octo-succotash | 0 | 0| 
 | 20231108T02:22:01Z | Null | https://github.com/Fuzzy-Cat-xk/Fuzzy-Cat-xk.github.io | 0 | 0| 
 | 20231107T23:29:37Z | Parallelization of the the Fuzzy Super Pixel segmentation algorithm SLIC | https://github.com/sumanth-tangirala/Fuzzy-SLIC-CUDA-Parallelization | 0 | 0| 
-| 20231107T23:26:22Z | Repositorio para códigos utilizando lógica fuzzy | https://github.com/NathanAtaliba/Logica_Fuzzy | 0 | 0| 
 
 
 
