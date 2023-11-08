@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231108T01:01:22Z | Repository containing a walkthrough exploiting a Vulnerable Chat server. | https://github.com/DaintyJet/VChat_TURN | 0 | 0| 
 | 20231107T23:26:45Z | wix | https://github.com/wixworm/wix | 4 | 0| 
 | 20231107T23:19:42Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-hs | 1 | 0| 
 | 20231107T23:18:55Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-hs | 1 | 0| 
@@ -74,7 +75,6 @@
 | 20231107T14:33:23Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5469 | 1065| 
 | 20231107T13:56:04Z | Null | https://github.com/anonhack17/check_exploit | 0 | 0| 
 | 20231107T13:44:43Z | Null | https://github.com/IvanGalati/Exploit-Telnet-Con-Metasploit | 0 | 0| 
-| 20231107T13:39:15Z | Null | https://github.com/ForestieriBenedetta/Exploit-Telnet-con-Metasploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -95,10 +95,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231107T17:03:56Z | Symbolic execution of LLVM IR with an engine written in Rust | https://github.com/PLSysSec/haybale | 471 | 22| 
 | 20231107T12:44:18Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 201 | 42| 
 | 20231106T23:18:32Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2353 | 638| 
 | 20231106T15:23:39Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 701 | 125| 
-| 20231106T15:21:31Z | Symbolic execution of LLVM IR with an engine written in Rust | https://github.com/PLSysSec/haybale | 470 | 22| 
 | 20231106T00:24:16Z | gradient-based symbolic execution engine implemented from scratch | https://github.com/Koukyosyumei/Gymbo | 17 | 0| 
 | 20231101T13:16:59Z |  AISE is a static verifier that combined Abstract Interpretation and Symbolic Execution techniques. | https://github.com/ZhenWang233/AISE | 0 | 0| 
 
