@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231108T13:01:08Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6119 | 804| 
 | 20231108T12:52:39Z | Silent PDF Exploit Builder is an antivirus evasion tool that can convert executables into undetectable pdf files. | https://github.com/SilentPulseDeveloper/Silent-PDF-Exploit-Builder-2023 | 2 | 0| 
 | 20231108T12:51:24Z | Just some scripts to automate exploitation on soem CTF machines | https://github.com/josemlwdf/AutoExploits | 0 | 0| 
 | 20231108T12:44:50Z | Null | https://github.com/Faizalhidayat/Ethereum-Delegatecall-Exploit-Demo | 0 | 0| 
@@ -74,7 +75,6 @@
 | 20231108T10:36:37Z | Null | https://github.com/rpizziol/exploring-exploiting-index | 0 | 0| 
 | 20231108T08:43:44Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5471 | 1065| 
 | 20231108T02:46:51Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0130-0103-app-uhAQS-direct-exploit | 0 | 0| 
-| 20231108T02:46:16Z | 泛微最近的漏洞利用工具（PS：2023） | https://github.com/zhaoyumi/WeaverExploit_All | 287 | 32| 
 
 
 # backdoor on Github 推荐
@@ -95,11 +95,12 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231108T11:38:06Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 265 | 36| 
+| 20231108T11:36:33Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 702 | 125| 
+| 20231108T06:25:28Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2355 | 638| 
+| 20231108T03:59:28Z | gradient-based symbolic execution engine implemented from scratch | https://github.com/Koukyosyumei/Gymbo | 17 | 0| 
 | 20231108T02:35:07Z | Symbolic execution of LLVM IR with an engine written in Rust | https://github.com/PLSysSec/haybale | 472 | 22| 
-| 20231108T01:47:42Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2354 | 638| 
 | 20231107T12:44:18Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 201 | 42| 
-| 20231106T15:23:39Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 701 | 125| 
-| 20231106T00:24:16Z | gradient-based symbolic execution engine implemented from scratch | https://github.com/Koukyosyumei/Gymbo | 17 | 0| 
 | 20231101T13:16:59Z |  AISE is a static verifier that combined Abstract Interpretation and Symbolic Execution techniques. | https://github.com/ZhenWang233/AISE | 0 | 0| 
 
 
