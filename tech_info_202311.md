@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231108T02:27:49Z | CVE-2022-38694 | User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20231107T21:09:32Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
 | 20231107T18:01:19Z | CVE-2023-46747 | exploit for cve-2023-46747 | https://github.com/W01fh4cker/CVE-2023-46747-RCE | | 
 | 20231107T15:17:12Z | CVE-2023-41425 | Null | https://github.com/prodigiousMind/CVE-2023-41425 | | 
@@ -35,7 +36,6 @@
 | 20231106T23:41:36Z | CVE-2023-1714 | Bitrix24 Remote Command Execution (RCE) via Unsafe Variable Extraction | https://github.com/ForceFledgling/CVE-2023-1714 | | 
 | 20231106T23:35:44Z | CVE-2023-1713 | Bitrix24 Remote Command Execution (RCE) via Insecure Temporary File Creation | https://github.com/ForceFledgling/CVE-2023-1713 | | 
 | 20231106T22:16:02Z | CVE-2021-43609 | Proof of Concept Exploit for CVE-2021-43609 | https://github.com/d5sec/CVE-2021-43609-POC | | 
-| 20231106T17:52:12Z | CVE-2020-3580 | Automated bulk IP scanner Cisco ASA and FTD XSS | https://github.com/imhunterand/CVE-2020-3580 | | 
 
 
 # klee on Github 推荐
