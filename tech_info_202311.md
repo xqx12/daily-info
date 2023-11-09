@@ -16,11 +16,11 @@
 | 20231109 | Prompt的科学范式（上篇） | https://mp.weixin.qq.com/s/3BHcqTDIJyrvMVdAkm0yhQ| 
 | 20231109 | “黑掉卫星”演习分析 | https://mp.weixin.qq.com/s/pkT5I7lO10zkxjXh7vt3nw| 
 | 20231109 | Apache Commons Compress拒绝服务漏洞 CVE-2021-35515 | https://mp.weixin.qq.com/s/X63XHdVidnRvu41st6fEPg| 
+| 20231109 | NSA组织二次约会间谍软件功能复现及加解密分析 | https://mp.weixin.qq.com/s/pYGOLyiWde_eoPFBTD2NlA| 
+| 20231109 | 网络侦察建模及防御概述 | https://mp.weixin.qq.com/s/_Dnb6j6CdepepH7DnpQeQQ| 
 | 20231108 | 中国网络安全产业分析报告（2023年） | http://www.china-cia.org.cn/AQLMWebManage/Resources/kindeditor/attached/file/20231108/20231108115447_3689.pdf| 
 | 20231108 | 嵌入式设备固件仿真器综述 | https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.202330476| 
 | 20231108 | Tor 服务的大规模爬取与分析 | https://mp.weixin.qq.com/s/3VuSxgEBwdh_JCNBX0Vakg| 
-| 20231107 | 大型闪电式红蓝对抗主流攻击行为的研判分析 | https://mp.weixin.qq.com/s/W2repoNPiuTGevv1dHc4DQ| 
-| 20231107 | 万字长文解读最新版ATT&CK V14 | https://mp.weixin.qq.com/s/DIzVBNFtQr4741FOnKXHsg| 
 
 
 # CVE Github 推荐
