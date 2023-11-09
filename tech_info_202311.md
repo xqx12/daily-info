@@ -26,10 +26,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231109T02:31:58Z | CVE-2023-34048 | Null | https://github.com/K1i7n/CVE-2023-34048-findings | | 
 | 20231109T02:18:00Z | CVE-2023-22515 | Server Broken Access Control in Confluence - CVE-2023-22515 | https://github.com/LucasPDiniz/CVE-2023-22515 | | 
 | 20231108T23:44:52Z | CVE-2023-46604 |  CVE-2023-46604 ActiveMQ RCE vulnerability verification/exploitation tool | https://github.com/sule01u/CVE-2023-46604 | | 
 | 20231108T17:46:14Z | CVE-2023-46747 | exploit for cve-2023-46747 | https://github.com/W01fh4cker/CVE-2023-46747-RCE | | 
-| 20231108T17:31:55Z | CVE-2023-34048 | Null | https://github.com/K1i7n/CVE-2023-34048-findings | | 
 | 20231108T07:53:20Z | CVE-2023-46604 | CVE-2023-46604 Apache ActiveMQ RCE exp 基于python | https://github.com/justdoit-cai/CVE-2023-46604-Apache-ActiveMQ-RCE-exp | | 
 | 20231108T05:17:25Z | CVE-2021-3560 | Exploitation of the CVE-2021-3560 polkit vulnerability | https://github.com/LucasPDiniz/CVE-2021-3560 | | 
 | 20231108T02:27:49Z | CVE-2022-38694 | User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
@@ -95,9 +95,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231109T02:30:05Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 703 | 125| 
 | 20231108T13:04:37Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2355 | 638| 
 | 20231108T11:38:06Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 265 | 36| 
-| 20231108T11:36:33Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 702 | 125| 
 | 20231108T03:59:28Z | gradient-based symbolic execution engine implemented from scratch | https://github.com/Koukyosyumei/Gymbo | 17 | 0| 
 | 20231108T02:35:07Z | Symbolic execution of LLVM IR with an engine written in Rust | https://github.com/PLSysSec/haybale | 472 | 22| 
 | 20231107T12:44:18Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 201 | 42| 
