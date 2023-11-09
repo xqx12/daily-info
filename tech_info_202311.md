@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231109T01:03:27Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 751 | 181| 
 | 20231109T00:52:41Z | executors for android | https://github.com/stysscythe/AndroidExploits | 0 | 0| 
 | 20231109T00:03:41Z | Amnesiac is a post-exploitation framework entirely written in PowerShell and designed to assist Penetration Testers and Red Teams with lateral movement within Active Directory environments | https://github.com/Leo4j/Amnesiac | 1 | 0| 
 | 20231108T23:57:17Z |  Reformat the CVE data, by unnesting the elements and then performing data analysis on the exploited vulnerabilities.  | https://github.com/kellywang568/Cybersecurity_project_casestudies | 0 | 0| 
@@ -74,7 +75,6 @@
 | 20231108T23:34:27Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-hm | 1 | 0| 
 | 20231108T20:34:38Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5472 | 1065| 
 | 20231108T16:49:03Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 60 | 12| 
-| 20231108T14:40:23Z | Probe the internet privately. | https://github.com/Aluminum-Depot/Tinf0il | 2 | 20| 
 
 
 # backdoor on Github 推荐
