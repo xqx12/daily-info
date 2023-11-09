@@ -48,7 +48,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231109T12:38:59Z | Amnesiac is a post-exploitation framework entirely written in PowerShell and designed to assist Penetration Testers and Red Teams with lateral movement within Active Directory environments | https://github.com/Leo4j/Amnesiac | 7 | 0| 
+| 20231109T13:10:50Z | Amnesiac is a post-exploitation framework entirely written in PowerShell and designed to assist Penetration Testers and Red Teams with lateral movement within Active Directory environments | https://github.com/Leo4j/Amnesiac | 8 | 1| 
 | 20231109T10:55:09Z | Null | https://github.com/write-exploit/bwapp-register-exploit | 0 | 0| 
 | 20231109T10:52:43Z | Null | https://github.com/truocphan/TP-MassExploit | 0 | 0| 
 | 20231109T08:33:41Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5639 | 716| 
