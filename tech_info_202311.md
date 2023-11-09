@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231109T13:13:25Z | Code to detect/exploit vulnerable metabase application | https://github.com/j0yb0y0h/CVE-2023-38646 | 0 | 0| 
 | 20231109T13:10:50Z | Amnesiac is a post-exploitation framework entirely written in PowerShell and designed to assist Penetration Testers and Red Teams with lateral movement within Active Directory environments | https://github.com/Leo4j/Amnesiac | 8 | 1| 
 | 20231109T10:55:09Z | Null | https://github.com/write-exploit/bwapp-register-exploit | 0 | 0| 
 | 20231109T10:52:43Z | Null | https://github.com/truocphan/TP-MassExploit | 0 | 0| 
@@ -75,7 +76,6 @@
 | 20231109T00:52:41Z | executors for android | https://github.com/stysscythe/AndroidExploits | 0 | 0| 
 | 20231108T23:57:17Z |  Reformat the CVE data, by unnesting the elements and then performing data analysis on the exploited vulnerabilities.  | https://github.com/kellywang568/Cybersecurity_project_casestudies | 0 | 0| 
 | 20231108T23:37:02Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-h | 1 | 0| 
-| 20231108T23:36:09Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-hm | 1 | 0| 
 
 
 # backdoor on Github 推荐
