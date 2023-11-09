@@ -83,6 +83,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231109T13:18:55Z | A educational implmentation of Browser Router  | https://github.com/iadityanath8/Fuzz_Browser_router | 0 | 0| 
 | 20231109T11:48:07Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4068 | 829| 
 | 20231109T10:09:31Z | Project is a web application that implements the FUZZY VIKOR method for decision-making. | https://github.com/serhiidankovych/fuzzy-vikor | 0 | 0| 
 | 20231109T09:49:35Z | Null | https://github.com/jcarlo-vs/fuzzy-meme | 0 | 0| 
