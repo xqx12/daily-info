@@ -88,12 +88,12 @@
 | 20231108T23:03:58Z | Null | https://github.com/Lucas-Felipe/projeto_logica_fuzzy | 0 | 0| 
 | 20231108T22:15:57Z | Null | https://github.com/3rdn4Li/autofz_fuzzbench_test | 0 | 0| 
 | 20231108T21:54:47Z | Null | https://github.com/CL2Louis/fuzzy-guide | 0 | 0| 
-| 20231108T18:13:18Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9145 | 2032| 
 | 20231108T13:26:10Z | Hopper is a tool for generating fuzzing test cases for libraries automatically using interpretative fuzzing. | https://github.com/FuzzAnything/hopper | 26 | 0| 
 | 20231108T13:15:54Z | learning git push and pull | https://github.com/Sandy-Jan/fuzzy-octo-system | 0 | 0| 
 | 20231108T12:32:58Z | Null | https://github.com/saifchishti900/API-Fuzzer | 0 | 0| 
 | 20231108T12:15:26Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5116 | 548| 
 | 20231108T12:08:28Z | MoonLight is a research project looking at efficient methods for designing a corpus typically for use in fuzzing campaigns. 一个用于精简afl语料库的工具，相比于afl-cmin，可以大幅提高裁剪速度。 | https://github.com/liyansong2018/moonlight | 0 | 0| 
+| 20231108T10:44:58Z | Project is a web application that implements the FUZZY VIKOR method for decision-making. | https://github.com/serhiidankovych/fuzzy-vikor | 0 | 0| 
 
 
 
