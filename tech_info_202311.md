@@ -26,22 +26,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231108T12:08:20Z | CVE-2023-46604 |  CVE-2023-46604 ActiveMQ RCE vulnerability verification/exploitation tool | https://github.com/sule01u/CVE-2023-46604 | | 
+| 20231108T23:44:52Z | CVE-2023-46604 |  CVE-2023-46604 ActiveMQ RCE vulnerability verification/exploitation tool | https://github.com/sule01u/CVE-2023-46604 | | 
+| 20231108T17:46:14Z | CVE-2023-46747 | exploit for cve-2023-46747 | https://github.com/W01fh4cker/CVE-2023-46747-RCE | | 
+| 20231108T17:31:55Z | CVE-2023-34048 | Null | https://github.com/K1i7n/CVE-2023-34048-findings | | 
 | 20231108T08:44:15Z | CVE-2023-22515 | Server Broken Access Control in Confluence - CVE-2023-22515 | https://github.com/LucasPDiniz/CVE-2023-22515 | | 
 | 20231108T07:53:20Z | CVE-2023-46604 | CVE-2023-46604 Apache ActiveMQ RCE exp 基于python | https://github.com/justdoit-cai/CVE-2023-46604-Apache-ActiveMQ-RCE-exp | | 
 | 20231108T05:17:25Z | CVE-2021-3560 | Exploitation of the CVE-2021-3560 polkit vulnerability | https://github.com/LucasPDiniz/CVE-2021-3560 | | 
 | 20231108T02:27:49Z | CVE-2022-38694 | User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20231107T21:09:32Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
-| 20231107T18:01:19Z | CVE-2023-46747 | exploit for cve-2023-46747 | https://github.com/W01fh4cker/CVE-2023-46747-RCE | | 
 | 20231107T15:17:12Z | CVE-2023-41425 | Null | https://github.com/prodigiousMind/CVE-2023-41425 | | 
 | 20231107T04:21:41Z | cve-2023-38831 | WinRAR cve-2023-38831-poc-generator | https://github.com/s4m98/winrar-cve-2023-38831-poc-gen | | 
-| 20231107T04:17:08Z | CVE-2023-38646 | Metabase Pre-Auth RCE POC | https://github.com/Mrunalkaran/CVE-2023-38646 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20231108T13:04:37Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2355 | 638| 
+| 20231107T13:05:52Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 253 | 32| 
 | 20231106T07:13:46Z | Null | https://github.com/alexzfe/kleenex-repo | 0 | 0| 
 | 20231105T18:50:58Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 280 | 54| 
 | 20231105T09:46:01Z | Klee | https://github.com/Kleenn666/Kleenn | 0 | 0| 
@@ -50,7 +51,6 @@
 | 20231105T02:15:14Z | Null | https://github.com/duduskz/klee_dadada | 2 | 0| 
 | 20231104T14:56:43Z | 基於 Klee One 改造的字型，以傳承字形風格為主。 | https://github.com/Ayaginu-Sue/Astalia | 13 | 0| 
 | 20231104T04:27:20Z | kleene is a library for building regular expression recognition automata - nfas, dfas, and some specialty structures. | https://github.com/davidkellis/kleene-rb | 0 | 0| 
-| 20231103T21:08:32Z | Null | https://github.com/KleeblattGames/KleeblattGames.github.io | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -65,31 +65,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231108T13:55:41Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5633 | 715| 
-| 20231108T13:55:23Z | GitOps Repository | https://github.com/redhat-appstudio-qe/jvm-build-suite-application-nghz-KJ94p-exploit-judge | 0 | 0| 
-| 20231108T13:01:08Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6119 | 804| 
-| 20231108T12:52:39Z | Silent PDF Exploit Builder is an antivirus evasion tool that can convert executables into undetectable pdf files. | https://github.com/SilentPulseDeveloper/Silent-PDF-Exploit-Builder-2023 | 2 | 0| 
-| 20231108T12:51:24Z | Just some scripts to automate exploitation on soem CTF machines | https://github.com/josemlwdf/AutoExploits | 0 | 0| 
-| 20231108T12:44:50Z | Null | https://github.com/Faizalhidayat/Ethereum-Delegatecall-Exploit-Demo | 0 | 0| 
-| 20231108T11:20:32Z | writeups/pocs/exploits | https://github.com/synfosec/pocs | 0 | 0| 
-| 20231108T11:13:17Z | GitOps Repository | https://github.com/redhat-appstudio-qe/byoc-app-mexs-hYdVM-exploit-measure | 0 | 0| 
-| 20231108T10:36:37Z | Null | https://github.com/rpizziol/exploring-exploiting-index | 0 | 0| 
-| 20231108T08:43:44Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5471 | 1065| 
+| 20231109T00:52:41Z | executors for android | https://github.com/stysscythe/AndroidExploits | 0 | 0| 
+| 20231109T00:03:41Z | Amnesiac is a post-exploitation framework entirely written in PowerShell and designed to assist Penetration Testers and Red Teams with lateral movement within Active Directory environments | https://github.com/Leo4j/Amnesiac | 1 | 0| 
+| 20231108T23:57:17Z |  Reformat the CVE data, by unnesting the elements and then performing data analysis on the exploited vulnerabilities.  | https://github.com/kellywang568/Cybersecurity_project_casestudies | 0 | 0| 
+| 20231108T23:37:02Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-h | 1 | 0| 
+| 20231108T23:36:09Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-hm | 1 | 0| 
+| 20231108T23:35:14Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-hm | 1 | 0| 
+| 20231108T23:34:27Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-hm | 1 | 0| 
+| 20231108T20:34:38Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5472 | 1065| 
+| 20231108T16:49:03Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 60 | 12| 
+| 20231108T14:40:23Z | Probe the internet privately. | https://github.com/Aluminum-Depot/Tinf0il | 2 | 20| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231108T20:20:09Z | This app allows to get unlimited control over remote system, with some conditions | https://github.com/Maluminge/reverse_backdoor | 0 | 0| 
+| 20231108T14:57:02Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 221 | 24| 
+| 20231108T14:35:08Z | Null | https://github.com/hasiburratul/backdoor-toolkit | 0 | 0| 
 | 20231108T09:42:06Z | A backdoor plist that automatically runs a script from the internet | https://github.com/Wolfoverflow/backdoor | 0 | 1| 
 | 20231108T09:11:56Z | Null | https://github.com/memory009/Backdoor | 0 | 0| 
-| 20231108T08:42:39Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 220 | 24| 
 | 20231108T06:07:32Z | Null | https://github.com/crispy-coffee/Backdoor | 0 | 0| 
 | 20231108T00:13:51Z | Null | https://github.com/rgreenblatt/backdoor_control_examples | 0 | 0| 
 | 20231107T19:32:47Z | Wrapper for python3 modules to open a backdoor to program | https://github.com/DeadPixil/Nefario | 0 | 0| 
 | 20231107T17:47:35Z | Kernel  rk | https://github.com/carloslack/KoviD | 160 | 37| 
 | 20231107T15:56:34Z | Aurora Framework lets you create backdoors for Windows. | https://github.com/hxrshdeepsingh/Aurora-Framework | 1 | 0| 
-| 20231107T09:43:35Z | RAT and C2 created with python | https://github.com/polymaster3313/Polyaccess | 29 | 10| 
-| 20231106T19:27:37Z | Rust exploit for vsftpd version 2.3.4 | https://github.com/GodZer/exploit_vsftpd_backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -120,16 +120,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231108T23:32:42Z | Null | https://github.com/JoaoVictorFBarros/Inteligencia-Computacional-Atividade-05-Sistema-Fuzzy-Funcional | 0 | 0| 
+| 20231108T23:03:58Z | Null | https://github.com/Lucas-Felipe/projeto_logica_fuzzy | 0 | 0| 
+| 20231108T22:15:57Z | Null | https://github.com/3rdn4Li/autofz_fuzzbench_test | 0 | 0| 
+| 20231108T21:54:47Z | Null | https://github.com/CL2Louis/fuzzy-guide | 0 | 0| 
+| 20231108T18:13:18Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9145 | 2032| 
+| 20231108T15:51:26Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 469 | 62| 
 | 20231108T13:26:10Z | Hopper is a tool for generating fuzzing test cases for libraries automatically using interpretative fuzzing. | https://github.com/FuzzAnything/hopper | 26 | 0| 
 | 20231108T13:15:54Z | learning git push and pull | https://github.com/Sandy-Jan/fuzzy-octo-system | 0 | 0| 
 | 20231108T12:32:58Z | Null | https://github.com/saifchishti900/API-Fuzzer | 0 | 0| 
-| 20231108T12:15:15Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9144 | 2032| 
-| 20231108T12:08:28Z | MoonLight is a research project looking at efficient methods for designing a corpus typically for use in fuzzing campaigns. 一个用于精简afl语料库的工具，相比于afl-cmin，可以大幅提高裁剪速度。 | https://github.com/liyansong2018/moonlight | 0 | 0| 
-| 20231108T10:44:58Z | Project is a web application that implements the FUZZY VIKOR method for decision-making. | https://github.com/serhiidankovych/fuzzy-vikor | 0 | 0| 
-| 20231108T09:11:33Z | Null | https://github.com/Grunkans/fuzzy-computing-machine | 0 | 0| 
-| 20231108T02:48:38Z | Null | https://github.com/jcbhmr/fuzzy-octo-succotash | 0 | 0| 
-| 20231108T02:22:01Z | Null | https://github.com/Fuzzy-Cat-xk/Fuzzy-Cat-xk.github.io | 0 | 0| 
-| 20231107T23:29:37Z | Parallelization of the the Fuzzy Super Pixel segmentation algorithm SLIC | https://github.com/sumanth-tangirala/Fuzzy-SLIC-CUDA-Parallelization | 0 | 0| 
+| 20231108T12:15:26Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5116 | 548| 
 
 
 
