@@ -69,12 +69,14 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231109T02:30:05Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 703 | 125| 
+| 20231109T09:03:52Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 705 | 125| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231109T09:12:59Z | Source code for our NDSS%18 paper %Automated Website Fingerprinting through Deep Learning% | https://github.com/DistriNet/DLWF | 84 | 39| 
+| 20231109T04:38:44Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 31 | 2| 
 
 
 # fuzz on Github 推荐
