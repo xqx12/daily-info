@@ -50,8 +50,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231109T13:56:32Z | Metasploit plugin to parse Metasploit DB for CVE numbers and match these with existing exploit and aux modules. | https://github.com/pazwant/CVEAutoMatcher | 0 | 0| 
-| 20231109T13:36:37Z | Amnesiac is a post-exploitation framework entirely written in PowerShell and designed to assist Penetration Testers and Red Teams with lateral movement within Active Directory environments | https://github.com/Leo4j/Amnesiac | 10 | 1| 
+| 20231109T13:58:02Z | Amnesiac is a post-exploitation framework entirely written in PowerShell and designed to assist Penetration Testers and Red Teams with lateral movement within Active Directory environments | https://github.com/Leo4j/Amnesiac | 11 | 1| 
+| 20231109T13:56:32Z | Metasploit plugin to parse Metasploit DB for CVE numbers and match these with existing exploit and aux modules. | https://github.com/pazwant/CVEAutoMatcher | 0 | 1| 
 | 20231109T13:13:25Z | Code to detect/exploit vulnerable metabase application | https://github.com/j0yb0y0h/CVE-2023-38646 | 0 | 0| 
 | 20231109T10:55:09Z | Null | https://github.com/write-exploit/bwapp-register-exploit | 0 | 0| 
 | 20231109T10:52:43Z | Null | https://github.com/truocphan/TP-MassExploit | 0 | 0| 
