@@ -120,6 +120,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231109T01:37:37Z | Null | https://github.com/bernaland/fuzzy-logic | 0 | 0| 
 | 20231108T23:32:42Z | Null | https://github.com/JoaoVictorFBarros/Inteligencia-Computacional-Atividade-05-Sistema-Fuzzy-Funcional | 0 | 0| 
 | 20231108T23:03:58Z | Null | https://github.com/Lucas-Felipe/projeto_logica_fuzzy | 0 | 0| 
 | 20231108T22:15:57Z | Null | https://github.com/3rdn4Li/autofz_fuzzbench_test | 0 | 0| 
@@ -129,7 +130,6 @@
 | 20231108T13:26:10Z | Hopper is a tool for generating fuzzing test cases for libraries automatically using interpretative fuzzing. | https://github.com/FuzzAnything/hopper | 26 | 0| 
 | 20231108T13:15:54Z | learning git push and pull | https://github.com/Sandy-Jan/fuzzy-octo-system | 0 | 0| 
 | 20231108T12:32:58Z | Null | https://github.com/saifchishti900/API-Fuzzer | 0 | 0| 
-| 20231108T12:15:26Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5116 | 548| 
 
 
 
