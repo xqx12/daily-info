@@ -121,6 +121,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231110T01:45:08Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4902 | 1168| 
 | 20231110T01:11:11Z | Url Fuzzer  | https://github.com/ChristophersGIT/Fuzzy | 0 | 0| 
 | 20231109T22:21:17Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9148 | 2034| 
 | 20231109T22:00:23Z | Fuzzers for the Sish simple shell program | https://github.com/JacksonHoggard/sishfuzz | 0 | 0| 
@@ -130,7 +131,6 @@
 | 20231109T13:36:50Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1603 | 233| 
 | 20231109T13:29:23Z | Null | https://github.com/ChinYikMing/ros_topic_fuzzer | 0 | 0| 
 | 20231109T13:18:55Z | A educational implmentation of Browser Router  | https://github.com/iadityanath8/Fuzz_Browser_router | 0 | 0| 
-| 20231109T11:48:07Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4068 | 829| 
 
 
 
