@@ -16,7 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231110T12:48:38Z | CVE-2023-32629 | Ubuntu Privilege Escalation bash one-liner using CVE-2023-32629 & CVE-2023-2640 | https://github.com/ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation | | 
+| 20231110T13:44:48Z | CVE-2023-32629 | Ubuntu Privilege Escalation bash one-liner using CVE-2023-32629 & CVE-2023-2640 | https://github.com/ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation | | 
 | 20231110T12:46:46Z | CVE-2023-22518 | Improper Authorization Vulnerability in Confluence Data Center and Server | https://github.com/ForceFledgling/CVE-2023-22518 | | 
 | 20231110T11:00:14Z | cve-2023-22518 | Ansible Playbook for CVE-2023-22518 | https://github.com/ditekshen/ansible-cve-2023-22518 | | 
 | 20231110T10:38:38Z | cve-2023-44487 | Examples for Implementing cve-2023-44487 ( HTTP/2 Rapid Reset Attack ) Concept | https://github.com/nxenon/cve-2023-44487 | | 
