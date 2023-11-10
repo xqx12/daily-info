@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231110T02:52:44Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0110-0038-app-pl0FY-solve-exploit | 0 | 0| 
 | 20231110T02:04:43Z | Discord typing exploit | https://github.com/CirqueiraDev/discord-typing | 0 | 0| 
 | 20231110T01:53:37Z | GitOps Repository | https://github.com/redhat-appstudio-qe/quarkus-7slSy-exploit-think | 0 | 0| 
 | 20231110T01:52:22Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0028-app-9qWU7-negotiate-exploit | 0 | 0| 
@@ -75,7 +76,6 @@
 | 20231109T23:43:45Z | Interactive lisp as a exploit metaframework | https://github.com/lost-rob0t/hackmode | 0 | 0| 
 | 20231109T23:37:11Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-be | 1 | 0| 
 | 20231109T23:36:16Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-be | 1 | 0| 
-| 20231109T23:35:37Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-be | 1 | 0| 
 
 
 # backdoor on Github 推荐
