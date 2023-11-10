@@ -66,10 +66,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231110T02:04:43Z | Discord typing exploit | https://github.com/CirqueiraDev/discord-typing | 0 | 0| 
 | 20231110T01:53:37Z | GitOps Repository | https://github.com/redhat-appstudio-qe/quarkus-7slSy-exploit-think | 0 | 0| 
 | 20231110T01:52:22Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0028-app-9qWU7-negotiate-exploit | 0 | 0| 
 | 20231110T01:33:10Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0032-app-eQ1QM-like-exploit | 0 | 0| 
-| 20231110T01:30:15Z | Discord typing exploit | https://github.com/CirqueiraDev/discord-typing | 0 | 0| 
 | 20231110T00:50:44Z | Null | https://github.com/adrixxis/Trd-Exploit-test | 0 | 0| 
 | 20231110T00:43:04Z | This repository is a tool to create a .suo that when run by visual studio%s will achieve code execution | https://github.com/moom825/visualstudio-suo-exploit | 0 | 0| 
 | 20231109T23:43:45Z | Interactive lisp as a exploit metaframework | https://github.com/lost-rob0t/hackmode | 0 | 0| 
