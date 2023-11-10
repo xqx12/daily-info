@@ -126,11 +126,11 @@
 | 20231110T01:11:11Z | Url Fuzzer  | https://github.com/ChristophersGIT/Fuzzy | 0 | 0| 
 | 20231109T22:00:23Z | Fuzzers for the Sish simple shell program | https://github.com/JacksonHoggard/sishfuzz | 0 | 0| 
 | 20231109T21:42:58Z | A fuzzy select prompt based on @inquirer/select | https://github.com/hpohlmeyer/inquirer-fuzzy-select | 0 | 0| 
+| 20231109T18:53:31Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5117 | 549| 
 | 20231109T13:43:53Z | SSL and TLS protocol test suite and fuzzer | https://github.com/tlsfuzzer/tlsfuzzer | 505 | 108| 
 | 20231109T13:39:17Z | A educational implmentation of Browser Router  | https://github.com/iadityanath8/Fuzz_router | 0 | 0| 
 | 20231109T13:36:50Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1603 | 233| 
 | 20231109T13:29:23Z | Null | https://github.com/ChinYikMing/ros_topic_fuzzer | 0 | 0| 
-| 20231109T13:18:55Z | A educational implmentation of Browser Router  | https://github.com/iadityanath8/Fuzz_Browser_router | 0 | 0| 
 
 
 
