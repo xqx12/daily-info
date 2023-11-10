@@ -42,7 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231110T13:10:00Z | Weaponized Exploit for Maltrail v0.53 Unauthenticated OS Command Injection (RCE) | https://github.com/AnonymUZ-1/RCE1 | 0 | 0| 
+| 20231110T13:12:59Z | Weaponized Exploit for Maltrail v0.53 Unauthenticated OS Command Injection (RCE) | https://github.com/AnonymUZ-1/RCE1 | 0 | 0| 
 | 20231110T10:44:43Z | Null | https://github.com/MarcoBortolotti987/Consegna-S7-L5-Exploit-Java-RMI | 0 | 0| 
 | 20231110T10:29:53Z | Null | https://github.com/truocphan/TP-MassExploit | 1 | 0| 
 | 20231110T10:10:34Z | weelky project where I had to exploit java-rmi service with metaexploit | https://github.com/Davide-L90/progetto-S7L5 | 0 | 0| 
