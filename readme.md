@@ -56,11 +56,11 @@
 | 20231109T23:36:16Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-be | 1 | 0| 
 | 20231109T23:35:37Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-be | 1 | 0| 
 | 20231109T23:34:40Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-be | 1 | 0| 
+| 20231109T22:52:07Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5639 | 764| 
 | 20231109T13:58:02Z | Amnesiac is a post-exploitation framework entirely written in PowerShell and designed to assist Penetration Testers and Red Teams with lateral movement within Active Directory environments | https://github.com/Leo4j/Amnesiac | 11 | 1| 
 | 20231109T13:56:32Z | Metasploit plugin to parse Metasploit DB for CVE numbers and match these with existing exploit and aux modules. | https://github.com/pazwant/CVEAutoMatcher | 0 | 1| 
 | 20231109T13:13:25Z | Code to detect/exploit vulnerable metabase application | https://github.com/j0yb0y0h/CVE-2023-38646 | 0 | 0| 
 | 20231109T12:34:42Z | exploit for cve-2023-46747 | https://github.com/W01fh4cker/CVE-2023-46747-RCE | 103 | 21| 
-| 20231109T10:55:09Z | Null | https://github.com/write-exploit/bwapp-register-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
