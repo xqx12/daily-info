@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231110T13:38:34Z | This project records tricks trying to reverse engineering the prompts authored behind features provided by ChatGPT official, like data analysis, etc, plugins etc. Inspired by Google Hacking Database https://www.exploit-db.com/google-hacking-database | https://github.com/xianminx/Reverse-Engineering-ChatGPT- | 0 | 0| 
 | 20231110T13:26:13Z | GitOps Repository | https://github.com/redhat-appstudio-qe/nodejs-users-7Y-G4-ensure-exploit | 0 | 0| 
 | 20231110T13:12:59Z | Weaponized Exploit for Maltrail v0.53 Unauthenticated OS Command Injection (RCE) | https://github.com/AnonymUZ-1/RCE1 | 0 | 0| 
 | 20231110T10:44:43Z | Null | https://github.com/MarcoBortolotti987/Consegna-S7-L5-Exploit-Java-RMI | 0 | 0| 
@@ -75,7 +76,6 @@
 | 20231110T09:09:40Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5643 | 716| 
 | 20231110T08:34:18Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 753 | 181| 
 | 20231110T05:34:31Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5473 | 1063| 
-| 20231110T02:52:44Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0110-0038-app-pl0FY-solve-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -121,6 +121,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231110T13:39:20Z | Python Library Crypto Fuzz For Generated and Convereted Any Keys and Mnemonic to Any Type Address Wallet | https://github.com/CryptoFuzzPy/.github | 0 | 0| 
 | 20231110T13:06:10Z | Sales | https://github.com/Pericles19/fuzzy-octo-pancake | 0 | 0| 
 | 20231110T12:51:16Z | Null | https://github.com/xzk202191238/fuzzer_implementation | 0 | 0| 
 | 20231110T12:16:19Z | Null | https://github.com/Hazemi2/fuzzy-octo-winner | 0 | 0| 
@@ -130,7 +131,6 @@
 | 20231110T06:51:30Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1604 | 233| 
 | 20231110T06:16:47Z | Null | https://github.com/google/fuzztest | 455 | 36| 
 | 20231110T01:56:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9149 | 2034| 
-| 20231110T01:11:11Z | Url Fuzzer  | https://github.com/ChristophersGIT/Fuzzy | 0 | 0| 
 
 
 
