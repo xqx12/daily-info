@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231110T13:26:13Z | GitOps Repository | https://github.com/redhat-appstudio-qe/nodejs-users-7Y-G4-ensure-exploit | 0 | 0| 
 | 20231110T13:12:59Z | Weaponized Exploit for Maltrail v0.53 Unauthenticated OS Command Injection (RCE) | https://github.com/AnonymUZ-1/RCE1 | 0 | 0| 
 | 20231110T10:44:43Z | Null | https://github.com/MarcoBortolotti987/Consegna-S7-L5-Exploit-Java-RMI | 0 | 0| 
 | 20231110T10:29:53Z | Null | https://github.com/truocphan/TP-MassExploit | 1 | 0| 
@@ -75,7 +76,6 @@
 | 20231110T08:34:18Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 753 | 181| 
 | 20231110T05:34:31Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5473 | 1063| 
 | 20231110T02:52:44Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0110-0038-app-pl0FY-solve-exploit | 0 | 0| 
-| 20231110T02:04:43Z | Discord typing exploit | https://github.com/CirqueiraDev/discord-typing | 0 | 0| 
 
 
 # backdoor on Github 推荐
