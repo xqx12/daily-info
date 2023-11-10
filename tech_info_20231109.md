@@ -66,9 +66,14 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231109T20:51:47Z | A learning project Start_IT academy student. This game made with unity. She is about backrooms. There is an entity and big map. Explore the maze! | https://github.com/davydtovstyj/Backdoors | 0 | 0| 
+| 20231109T17:09:14Z | Identifying and cataloging scams like honeypots, and intentional backdoors that may be present in token smart contracts within the crypto ecosystem.  | https://github.com/cryptousersecurity/token-risk-classification | 4 | 1| 
+| 20231109T15:36:33Z | Simple backdoor written in C. | https://github.com/NoNameError/Backdoor.c | 0 | 0| 
+| 20231109T14:42:13Z | Spotify C2 in golang | https://github.com/Kaiser784/SoundShell | 0 | 0| 
 | 20231109T09:02:52Z | Null | https://github.com/SaiVinayDasari/backdoor | 0 | 0| 
 | 20231109T06:42:24Z | Welcome to my Database of Malware! | https://github.com/Haroun-Haeder/MalwareDatabase | 9 | 5| 
 | 20231109T06:09:24Z | Null | https://github.com/itsharish4u/Backdoor | 0 | 0| 
+| 20231109T04:35:27Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 251 | 59| 
 | 20231109T01:15:45Z | A curated list of papers & resources linked to data poisoning, backdoor attacks and defenses against them | https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks | 48 | 8| 
 
 
