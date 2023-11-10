@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231110T01:20:27Z | CVE-2021-43609 | Proof of Concept Exploit for CVE-2021-43609 | https://github.com/d5sec/CVE-2021-43609-POC | | 
 | 20231109T19:51:05Z | CVE-2023-46604 |  CVE-2023-46604 ActiveMQ RCE vulnerability verification/exploitation tool | https://github.com/sule01u/CVE-2023-46604 | | 
 | 20231109T14:56:15Z | CVE-2023-38646 | Code to detect/exploit vulnerable metabase application | https://github.com/j0yb0y0h/CVE-2023-38646 | | 
 | 20231109T14:21:16Z | CVE-2023-38408 | Takeover Account OpenSSH | https://github.com/LucasPDiniz/CVE-2023-38408 | | 
@@ -35,7 +36,6 @@
 | 20231109T08:00:21Z | CVE-2023-41425 | Null | https://github.com/prodigiousMind/CVE-2023-41425 | | 
 | 20231109T07:54:32Z | CVE-2023-22518 | Exploit CVE-2023-22518 | https://github.com/0x0d3ad/CVE-2023-22518 | | 
 | 20231109T04:33:51Z | CVE-2020-14882 | Takeover of Oracle WebLogic Server | https://github.com/LucasPDiniz/CVE-2020-14882 | | 
-| 20231109T02:31:58Z | CVE-2023-34048 | Null | https://github.com/K1i7n/CVE-2023-34048-findings | | 
 
 
 # klee on Github 推荐
