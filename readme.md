@@ -23,14 +23,14 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231109T13:13:25Z | CVE-2023-38646 | Code to detect/exploit vulnerable metabase application | https://github.com/j0yb0y0h/CVE-2023-38646 | | 
+| 20231109T19:51:05Z | CVE-2023-46604 |  CVE-2023-46604 ActiveMQ RCE vulnerability verification/exploitation tool | https://github.com/sule01u/CVE-2023-46604 | | 
+| 20231109T14:56:15Z | CVE-2023-38646 | Code to detect/exploit vulnerable metabase application | https://github.com/j0yb0y0h/CVE-2023-38646 | | 
+| 20231109T14:21:16Z | CVE-2023-38408 | Takeover Account OpenSSH | https://github.com/LucasPDiniz/CVE-2023-38408 | | 
 | 20231109T12:34:42Z | CVE-2023-46747 | exploit for cve-2023-46747 | https://github.com/W01fh4cker/CVE-2023-46747-RCE | | 
 | 20231109T11:27:20Z | CVE-2023-46604 | Null | https://github.com/h3x3h0g/ActiveMQ-RCE-CVE-2023-46604-Write-up | | 
-| 20231109T10:18:56Z | CVE-2023-46604 |  CVE-2023-46604 ActiveMQ RCE vulnerability verification/exploitation tool | https://github.com/sule01u/CVE-2023-46604 | | 
 | 20231109T09:27:03Z | CVE-2023-32629 | Ubuntu Privilege Escalation bash one-liner using CVE-2023-32629 & CVE-2023-2640 | https://github.com/ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation | | 
 | 20231109T08:00:21Z | CVE-2023-41425 | Null | https://github.com/prodigiousMind/CVE-2023-41425 | | 
 | 20231109T07:54:32Z | CVE-2023-22518 | Exploit CVE-2023-22518 | https://github.com/0x0d3ad/CVE-2023-22518 | | 
-| 20231109T04:38:14Z | CVE-2023-38408 | Takeover Account OpenSSH | https://github.com/LucasPDiniz/CVE-2023-38408 | | 
 | 20231109T04:33:51Z | CVE-2020-14882 | Takeover of Oracle WebLogic Server | https://github.com/LucasPDiniz/CVE-2020-14882 | | 
 | 20231109T02:31:58Z | CVE-2023-34048 | Null | https://github.com/K1i7n/CVE-2023-34048-findings | | 
 
@@ -38,6 +38,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231109T14:23:15Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2356 | 638| 
 | 20231109T03:15:37Z | Null | https://github.com/adarsh2023calc/klee_tutorials | 0 | 0| 
 
 
@@ -50,15 +51,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231109T23:43:45Z | Interactive lisp as a exploit metaframework | https://github.com/lost-rob0t/hackmode | 0 | 0| 
+| 20231109T23:37:11Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-be | 1 | 0| 
+| 20231109T23:36:16Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-be | 1 | 0| 
+| 20231109T23:35:37Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-be | 1 | 0| 
+| 20231109T23:34:40Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-be | 1 | 0| 
 | 20231109T13:58:02Z | Amnesiac is a post-exploitation framework entirely written in PowerShell and designed to assist Penetration Testers and Red Teams with lateral movement within Active Directory environments | https://github.com/Leo4j/Amnesiac | 11 | 1| 
 | 20231109T13:56:32Z | Metasploit plugin to parse Metasploit DB for CVE numbers and match these with existing exploit and aux modules. | https://github.com/pazwant/CVEAutoMatcher | 0 | 1| 
 | 20231109T13:13:25Z | Code to detect/exploit vulnerable metabase application | https://github.com/j0yb0y0h/CVE-2023-38646 | 0 | 0| 
+| 20231109T12:34:42Z | exploit for cve-2023-46747 | https://github.com/W01fh4cker/CVE-2023-46747-RCE | 103 | 21| 
 | 20231109T10:55:09Z | Null | https://github.com/write-exploit/bwapp-register-exploit | 0 | 0| 
-| 20231109T10:52:43Z | Null | https://github.com/truocphan/TP-MassExploit | 0 | 0| 
-| 20231109T08:33:41Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5639 | 716| 
-| 20231109T06:52:19Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 752 | 181| 
-| 20231109T01:16:29Z | Probe the internet privately. | https://github.com/Aluminum-Depot/Tinf0il-new | 2 | 20| 
-| 20231109T00:52:41Z | executors for android | https://github.com/stysscythe/AndroidExploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -73,6 +75,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231109T14:23:15Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2356 | 638| 
 | 20231109T09:03:52Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 705 | 125| 
 
 
@@ -86,6 +89,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231109T22:21:17Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9148 | 2034| 
+| 20231109T22:00:23Z | Fuzzers for the Sish simple shell program | https://github.com/JacksonHoggard/sishfuzz | 0 | 0| 
+| 20231109T21:42:58Z | A fuzzy select prompt based on @inquirer/select | https://github.com/hpohlmeyer/inquirer-fuzzy-select | 0 | 0| 
 | 20231109T13:43:53Z | SSL and TLS protocol test suite and fuzzer | https://github.com/tlsfuzzer/tlsfuzzer | 505 | 108| 
 | 20231109T13:39:17Z | A educational implmentation of Browser Router  | https://github.com/iadityanath8/Fuzz_router | 0 | 0| 
 | 20231109T13:36:50Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1603 | 233| 
@@ -93,9 +99,6 @@
 | 20231109T13:18:55Z | A educational implmentation of Browser Router  | https://github.com/iadityanath8/Fuzz_Browser_router | 0 | 0| 
 | 20231109T11:48:07Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4068 | 829| 
 | 20231109T10:09:31Z | Project is a web application that implements the FUZZY VIKOR method for decision-making. | https://github.com/serhiidankovych/fuzzy-vikor | 0 | 0| 
-| 20231109T09:49:35Z | Null | https://github.com/jcarlo-vs/fuzzy-meme | 0 | 0| 
-| 20231109T02:55:30Z | Fuzzing script for vuln server and immunity bugger | https://github.com/Hem1700/fuzz.py | 0 | 0| 
-| 20231109T02:28:19Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9144 | 2032| 
 
 
 
