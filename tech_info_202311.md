@@ -26,22 +26,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231110T12:48:38Z | CVE-2023-32629 | Ubuntu Privilege Escalation bash one-liner using CVE-2023-32629 & CVE-2023-2640 | https://github.com/ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation | | 
+| 20231110T12:46:46Z | CVE-2023-22518 | Improper Authorization Vulnerability in Confluence Data Center and Server | https://github.com/ForceFledgling/CVE-2023-22518 | | 
+| 20231110T11:00:14Z | cve-2023-22518 | Ansible Playbook for CVE-2023-22518 | https://github.com/ditekshen/ansible-cve-2023-22518 | | 
+| 20231110T10:38:38Z | cve-2023-44487 | Examples for Implementing cve-2023-44487 ( HTTP/2 Rapid Reset Attack ) Concept | https://github.com/nxenon/cve-2023-44487 | | 
+| 20231110T09:56:10Z | CVE-2023-46747 | exploit for cve-2023-46747 | https://github.com/W01fh4cker/CVE-2023-46747-RCE | | 
+| 20231110T09:37:55Z | CVE-2023-32031 | CVE-2023-32031 MS Exchange PowerShell backend RCE | https://github.com/Avento/CVE-2023-32031 | | 
+| 20231110T07:32:28Z | CVE-2023-34039 | exp | https://github.com/adminxb/CVE-2023-34039 | | 
+| 20231110T05:50:25Z | CVE-2023-24706 | CVE-2023-24706 | https://github.com/hatjwe/CVE-2023-24706 | | 
 | 20231110T01:20:27Z | CVE-2021-43609 | Proof of Concept Exploit for CVE-2021-43609 | https://github.com/d5sec/CVE-2021-43609-POC | | 
 | 20231109T19:51:05Z | CVE-2023-46604 |  CVE-2023-46604 ActiveMQ RCE vulnerability verification/exploitation tool | https://github.com/sule01u/CVE-2023-46604 | | 
-| 20231109T14:56:15Z | CVE-2023-38646 | Code to detect/exploit vulnerable metabase application | https://github.com/j0yb0y0h/CVE-2023-38646 | | 
-| 20231109T14:21:16Z | CVE-2023-38408 | Takeover Account OpenSSH | https://github.com/LucasPDiniz/CVE-2023-38408 | | 
-| 20231109T12:34:42Z | CVE-2023-46747 | exploit for cve-2023-46747 | https://github.com/W01fh4cker/CVE-2023-46747-RCE | | 
-| 20231109T11:27:20Z | CVE-2023-46604 | Null | https://github.com/h3x3h0g/ActiveMQ-RCE-CVE-2023-46604-Write-up | | 
-| 20231109T09:27:03Z | CVE-2023-32629 | Ubuntu Privilege Escalation bash one-liner using CVE-2023-32629 & CVE-2023-2640 | https://github.com/ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation | | 
-| 20231109T08:00:21Z | CVE-2023-41425 | Null | https://github.com/prodigiousMind/CVE-2023-41425 | | 
-| 20231109T07:54:32Z | CVE-2023-22518 | Exploit CVE-2023-22518 | https://github.com/0x0d3ad/CVE-2023-22518 | | 
-| 20231109T04:33:51Z | CVE-2020-14882 | Takeover of Oracle WebLogic Server | https://github.com/LucasPDiniz/CVE-2020-14882 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231109T14:23:15Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2356 | 638| 
+| 20231110T08:12:40Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2357 | 638| 
+| 20231110T06:27:03Z | A 24/7 music bot that streams lofi music | https://github.com/NotKaskus/KleeLofi | 0 | 0| 
 | 20231109T03:15:37Z | Null | https://github.com/adarsh2023calc/klee_tutorials | 0 | 0| 
 | 20231107T13:05:52Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 253 | 32| 
 | 20231106T07:13:46Z | Null | https://github.com/alexzfe/kleenex-repo | 0 | 0| 
@@ -50,7 +51,6 @@
 | 20231105T05:51:36Z | 使用flutter构建的西北民族大学综合软件 | https://github.com/Isatidia/Klee | 0 | 0| 
 | 20231105T05:04:30Z | 基于Node.js对于民大青年请求信息的加密与解密 | https://github.com/Isatidia/Klee-3DES | 0 | 0| 
 | 20231105T02:15:14Z | Null | https://github.com/duduskz/klee_dadada | 2 | 0| 
-| 20231104T14:56:43Z | 基於 Klee One 改造的字型，以傳承字形風格為主。 | https://github.com/Ayaginu-Sue/Astalia | 13 | 0| 
 
 
 # s2e on Github 推荐
@@ -66,21 +66,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231110T10:44:43Z | Null | https://github.com/MarcoBortolotti987/Consegna-S7-L5-Exploit-Java-RMI | 0 | 0| 
+| 20231110T10:29:53Z | Null | https://github.com/truocphan/TP-MassExploit | 1 | 0| 
+| 20231110T10:10:34Z | weelky project where I had to exploit java-rmi service with metaexploit | https://github.com/Davide-L90/progetto-S7L5 | 0 | 0| 
+| 20231110T09:46:52Z | Read, analyze, exploit air pollution emission data | https://github.com/ESMEAirPollutionPrediction/EmissionsData | 0 | 0| 
+| 20231110T09:09:40Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5643 | 716| 
+| 20231110T08:34:18Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 753 | 181| 
+| 20231110T05:34:31Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5473 | 1063| 
 | 20231110T02:52:44Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0110-0038-app-pl0FY-solve-exploit | 0 | 0| 
 | 20231110T02:04:43Z | Discord typing exploit | https://github.com/CirqueiraDev/discord-typing | 0 | 0| 
 | 20231110T01:53:37Z | GitOps Repository | https://github.com/redhat-appstudio-qe/quarkus-7slSy-exploit-think | 0 | 0| 
-| 20231110T01:52:22Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0028-app-9qWU7-negotiate-exploit | 0 | 0| 
-| 20231110T01:33:10Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0032-app-eQ1QM-like-exploit | 0 | 0| 
-| 20231110T00:50:44Z | Null | https://github.com/adrixxis/Trd-Exploit-test | 0 | 0| 
-| 20231110T00:43:04Z | This repository is a tool to create a .suo that when run by visual studio%s will achieve code execution | https://github.com/moom825/visualstudio-suo-exploit | 0 | 0| 
-| 20231109T23:43:45Z | Interactive lisp as a exploit metaframework | https://github.com/lost-rob0t/hackmode | 0 | 0| 
-| 20231109T23:37:11Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-be | 1 | 0| 
-| 20231109T23:36:16Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-be | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231110T11:43:40Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 137 | 23| 
+| 20231110T04:17:08Z | scientific snaut backdoors | https://github.com/elefantesagradodeluzinfinita/backdoors | 0 | 0| 
 | 20231110T01:56:34Z | Null | https://github.com/thanhptit15082001/backdoorandpersistence | 0 | 0| 
 | 20231109T20:51:47Z | A learning project Start_IT academy student. This game made with unity. She is about backrooms. There is an entity and big map. Explore the maze! | https://github.com/davydtovstyj/Backdoors | 0 | 0| 
 | 20231109T17:09:14Z | Identifying and cataloging scams like honeypots, and intentional backdoors that may be present in token smart contracts within the crypto ecosystem.  | https://github.com/cryptousersecurity/token-risk-classification | 4 | 1| 
@@ -89,8 +91,6 @@
 | 20231109T09:02:52Z | Null | https://github.com/SaiVinayDasari/backdoor | 0 | 0| 
 | 20231109T06:42:24Z | Welcome to my Database of Malware! | https://github.com/Haroun-Haeder/MalwareDatabase | 9 | 5| 
 | 20231109T06:09:24Z | Null | https://github.com/itsharish4u/Backdoor | 0 | 0| 
-| 20231109T04:35:27Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 251 | 59| 
-| 20231109T01:15:45Z | A curated list of papers & resources linked to data poisoning, backdoor attacks and defenses against them | https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks | 48 | 8| 
 
 
 # symbolic execution on Github 推荐
@@ -108,10 +108,10 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231110T07:30:25Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 33 | 6| 
 | 20231109T09:12:59Z | Source code for our NDSS%18 paper %Automated Website Fingerprinting through Deep Learning% | https://github.com/DistriNet/DLWF | 84 | 39| 
 | 20231109T04:38:44Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 31 | 2| 
 | 20231107T09:08:59Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 88 | 4| 
-| 20231106T16:22:28Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 32 | 6| 
 | 20231106T03:05:55Z | A carwler for cyber security conferences including the big 4 (SP, Usenix Security, NDSS, CCS) and some software conferences. | https://github.com/QGrain/conference-crawler | 0 | 0| 
 | 20231102T09:11:27Z | Null | https://github.com/Compass-All/NDSS24-CAGE | 0 | 0| 
 | 20231102T03:27:07Z | https://marsvillager.github.io/PaperWorkflowAutomation/summary/visualize.html (Safari, Firefox ✓ Edge, Chrome ✗) 论文爬虫+概述: IEEE Symposium on Security and Privacy (S&P), USENIX Security Symposium, Network and Distributed System Security Symposium (NDSS)  | https://github.com/marsvillager/PaperWorkflowAutomation | 6 | 0| 
@@ -121,16 +121,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231110T02:35:32Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4903 | 1168| 
+| 20231110T12:51:16Z | Null | https://github.com/xzk202191238/fuzzer_implementation | 0 | 0| 
+| 20231110T12:16:19Z | Null | https://github.com/Hazemi2/fuzzy-octo-winner | 0 | 0| 
+| 20231110T11:40:36Z | Provide several copy functions for nvim | https://github.com/jinkyuhan/fuzzier.nvim | 0 | 0| 
+| 20231110T11:20:57Z | Fuzzing Wordlist for Wordpress Endpoints | https://github.com/satyasai1460/wp-Fuzzing-list | 0 | 0| 
+| 20231110T10:33:31Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4904 | 1168| 
+| 20231110T06:51:30Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1604 | 233| 
+| 20231110T06:16:47Z | Null | https://github.com/google/fuzztest | 455 | 36| 
 | 20231110T01:56:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9149 | 2034| 
 | 20231110T01:11:11Z | Url Fuzzer  | https://github.com/ChristophersGIT/Fuzzy | 0 | 0| 
 | 20231109T22:00:23Z | Fuzzers for the Sish simple shell program | https://github.com/JacksonHoggard/sishfuzz | 0 | 0| 
-| 20231109T21:42:58Z | A fuzzy select prompt based on @inquirer/select | https://github.com/hpohlmeyer/inquirer-fuzzy-select | 0 | 0| 
-| 20231109T18:53:31Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5117 | 549| 
-| 20231109T13:43:53Z | SSL and TLS protocol test suite and fuzzer | https://github.com/tlsfuzzer/tlsfuzzer | 505 | 108| 
-| 20231109T13:39:17Z | A educational implmentation of Browser Router  | https://github.com/iadityanath8/Fuzz_router | 0 | 0| 
-| 20231109T13:36:50Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1603 | 233| 
-| 20231109T13:29:23Z | Null | https://github.com/ChinYikMing/ros_topic_fuzzer | 0 | 0| 
 
 
 
