@@ -81,6 +81,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231110T01:56:34Z | Null | https://github.com/thanhptit15082001/backdoorandpersistence | 0 | 0| 
 | 20231109T20:51:47Z | A learning project Start_IT academy student. This game made with unity. She is about backrooms. There is an entity and big map. Explore the maze! | https://github.com/davydtovstyj/Backdoors | 0 | 0| 
 | 20231109T17:09:14Z | Identifying and cataloging scams like honeypots, and intentional backdoors that may be present in token smart contracts within the crypto ecosystem.  | https://github.com/cryptousersecurity/token-risk-classification | 4 | 1| 
 | 20231109T15:36:33Z | Simple backdoor written in C. | https://github.com/NoNameError/Backdoor.c | 0 | 0| 
@@ -90,7 +91,6 @@
 | 20231109T06:09:24Z | Null | https://github.com/itsharish4u/Backdoor | 0 | 0| 
 | 20231109T04:35:27Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 251 | 59| 
 | 20231109T01:15:45Z | A curated list of papers & resources linked to data poisoning, backdoor attacks and defenses against them | https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks | 48 | 8| 
-| 20231108T20:20:09Z | This app allows to get unlimited control over remote system, with some conditions | https://github.com/Maluminge/reverse_backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -121,9 +121,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231110T01:56:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9149 | 2034| 
 | 20231110T01:45:08Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4902 | 1168| 
 | 20231110T01:11:11Z | Url Fuzzer  | https://github.com/ChristophersGIT/Fuzzy | 0 | 0| 
-| 20231109T22:21:17Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9148 | 2034| 
 | 20231109T22:00:23Z | Fuzzers for the Sish simple shell program | https://github.com/JacksonHoggard/sishfuzz | 0 | 0| 
 | 20231109T21:42:58Z | A fuzzy select prompt based on @inquirer/select | https://github.com/hpohlmeyer/inquirer-fuzzy-select | 0 | 0| 
 | 20231109T13:43:53Z | SSL and TLS protocol test suite and fuzzer | https://github.com/tlsfuzzer/tlsfuzzer | 505 | 108| 

@@ -94,7 +94,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231109T22:21:17Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9148 | 2034| 
 | 20231109T22:00:23Z | Fuzzers for the Sish simple shell program | https://github.com/JacksonHoggard/sishfuzz | 0 | 0| 
 | 20231109T21:42:58Z | A fuzzy select prompt based on @inquirer/select | https://github.com/hpohlmeyer/inquirer-fuzzy-select | 0 | 0| 
 | 20231109T13:43:53Z | SSL and TLS protocol test suite and fuzzer | https://github.com/tlsfuzzer/tlsfuzzer | 505 | 108| 
@@ -104,6 +103,7 @@
 | 20231109T13:18:55Z | A educational implmentation of Browser Router  | https://github.com/iadityanath8/Fuzz_Browser_router | 0 | 0| 
 | 20231109T11:48:07Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4068 | 829| 
 | 20231109T10:09:31Z | Project is a web application that implements the FUZZY VIKOR method for decision-making. | https://github.com/serhiidankovych/fuzzy-vikor | 0 | 0| 
+| 20231109T09:49:35Z | Null | https://github.com/jcarlo-vs/fuzzy-meme | 0 | 0| 
 
 
 
