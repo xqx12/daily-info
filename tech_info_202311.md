@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231110T01:33:10Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0032-app-eQ1QM-like-exploit | 0 | 0| 
 | 20231110T01:30:15Z | Discord typing exploit | https://github.com/CirqueiraDev/discord-typing | 0 | 0| 
 | 20231110T00:50:44Z | Null | https://github.com/adrixxis/Trd-Exploit-test | 0 | 0| 
 | 20231110T00:43:04Z | This repository is a tool to create a .suo that when run by visual studio%s will achieve code execution | https://github.com/moom825/visualstudio-suo-exploit | 0 | 0| 
@@ -75,7 +76,6 @@
 | 20231109T23:35:37Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-be | 1 | 0| 
 | 20231109T23:34:40Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-be | 1 | 0| 
 | 20231109T13:58:02Z | Amnesiac is a post-exploitation framework entirely written in PowerShell and designed to assist Penetration Testers and Red Teams with lateral movement within Active Directory environments | https://github.com/Leo4j/Amnesiac | 11 | 1| 
-| 20231109T13:56:32Z | Metasploit plugin to parse Metasploit DB for CVE numbers and match these with existing exploit and aux modules. | https://github.com/pazwant/CVEAutoMatcher | 0 | 1| 
 
 
 # backdoor on Github 推荐
