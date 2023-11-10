@@ -66,7 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231110T01:27:30Z | Discord typing exploit | https://github.com/CirqueiraDev/discord-typing | 0 | 0| 
+| 20231110T01:30:15Z | Discord typing exploit | https://github.com/CirqueiraDev/discord-typing | 0 | 0| 
 | 20231110T00:50:44Z | Null | https://github.com/adrixxis/Trd-Exploit-test | 0 | 0| 
 | 20231110T00:43:04Z | This repository is a tool to create a .suo that when run by visual studio%s will achieve code execution | https://github.com/moom825/visualstudio-suo-exploit | 0 | 0| 
 | 20231109T23:43:45Z | Interactive lisp as a exploit metaframework | https://github.com/lost-rob0t/hackmode | 0 | 0| 
