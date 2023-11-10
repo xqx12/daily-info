@@ -121,6 +121,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231110T13:51:22Z | Example of a fuzzy search bar. | https://github.com/Noyce-Joel/Fuzzy | 0 | 0| 
+| 20231110T13:50:33Z | Example of a fuzzy search bar. | https://github.com/Noyce-Joel/Fuzzy-Search | 0 | 0| 
 | 20231110T13:43:23Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4905 | 1168| 
 | 20231110T13:39:20Z | Python Library Crypto Fuzz For Generated and Convereted Any Keys and Mnemonic to Any Type Address Wallet | https://github.com/CryptoFuzzPy/.github | 0 | 0| 
 | 20231110T13:06:10Z | Sales | https://github.com/Pericles19/fuzzy-octo-pancake | 0 | 0| 
@@ -129,8 +131,6 @@
 | 20231110T11:40:36Z | Provide several copy functions for nvim | https://github.com/jinkyuhan/fuzzier.nvim | 0 | 0| 
 | 20231110T11:20:57Z | Fuzzing Wordlist for Wordpress Endpoints | https://github.com/satyasai1460/wp-Fuzzing-list | 0 | 0| 
 | 20231110T06:51:30Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1604 | 233| 
-| 20231110T06:16:47Z | Null | https://github.com/google/fuzztest | 455 | 36| 
-| 20231110T01:56:36Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9149 | 2034| 
 
 
 
