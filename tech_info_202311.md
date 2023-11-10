@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231110T13:54:00Z | GitOps Repository | https://github.com/redhat-appstudio-qe/build-suite-test-application-jpif-KTXGA-exploit-risk | 0 | 0| 
 | 20231110T13:38:57Z | This project records tricks trying to reverse engineering the prompts authored behind features provided by ChatGPT official, like data analysis, etc, plugins etc. Inspired by Google Hacking Database https://www.exploit-db.com/google-hacking-database | https://github.com/xianminx/Reverse-Engineering-ChatGPT | 0 | 0| 
 | 20231110T13:38:34Z | This project records tricks trying to reverse engineering the prompts authored behind features provided by ChatGPT official, like data analysis, etc, plugins etc. Inspired by Google Hacking Database https://www.exploit-db.com/google-hacking-database | https://github.com/xianminx/Reverse-Engineering-ChatGPT- | 0 | 0| 
 | 20231110T13:26:13Z | GitOps Repository | https://github.com/redhat-appstudio-qe/nodejs-users-7Y-G4-ensure-exploit | 0 | 0| 
@@ -75,7 +76,6 @@
 | 20231110T10:10:34Z | weelky project where I had to exploit java-rmi service with metaexploit | https://github.com/Davide-L90/progetto-S7L5 | 0 | 0| 
 | 20231110T09:46:52Z | Read, analyze, exploit air pollution emission data | https://github.com/ESMEAirPollutionPrediction/EmissionsData | 0 | 0| 
 | 20231110T09:09:40Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5643 | 716| 
-| 20231110T08:34:18Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 753 | 181| 
 
 
 # backdoor on Github 推荐
