@@ -121,6 +121,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231111T02:05:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9151 | 2034| 
 | 20231111T01:46:59Z | Null | https://github.com/rcoderx/fuzzy-couscous | 0 | 0| 
 | 20231110T22:32:09Z | Null | https://github.com/elcieloesellimite77/fuzzy-disco | 0 | 0| 
 | 20231110T22:18:07Z | Differential Fuzzing of Bitcoin implementations and libraries | https://github.com/brunoerg/bitcoinfuzz | 1 | 0| 
@@ -130,7 +131,6 @@
 | 20231110T13:39:20Z | Python Library Crypto Fuzz For Generated and Convereted Any Keys and Mnemonic to Any Type Address Wallet | https://github.com/CryptoFuzzPy/.github | 0 | 0| 
 | 20231110T13:06:10Z | Sales | https://github.com/Pericles19/fuzzy-octo-pancake | 0 | 0| 
 | 20231110T12:51:16Z | Null | https://github.com/xzk202191238/fuzzer_implementation | 0 | 0| 
-| 20231110T12:16:19Z | Null | https://github.com/Hazemi2/fuzzy-octo-winner | 0 | 0| 
 
 
 
