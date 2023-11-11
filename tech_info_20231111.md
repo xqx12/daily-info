@@ -42,7 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231111T13:27:40Z | A simple exploit for CVE-2019-2725. | https://github.com/CalegariMindSec/Exploit-CVE-2019-2725 | 0 | 0| 
+| 20231111T13:30:32Z | A simple exploit for CVE-2019-2725. | https://github.com/CalegariMindSec/Exploit-CVE-2019-2725 | 0 | 0| 
 | 20231111T11:11:51Z | Null | https://github.com/dorian33160/Linux-Kernel-4.4.0-21_EXPLOIT | 0 | 0| 
 | 20231111T09:48:33Z | Null | https://github.com/tmixa1/-phoenix-exploits- | 0 | 0| 
 | 20231111T09:37:05Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5647 | 716| 
