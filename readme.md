@@ -16,15 +16,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231110T13:44:48Z | CVE-2023-32629 | Ubuntu Privilege Escalation bash one-liner using CVE-2023-32629 & CVE-2023-2640 | https://github.com/ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation | | 
-| 20231110T12:46:46Z | CVE-2023-22518 | Improper Authorization Vulnerability in Confluence Data Center and Server | https://github.com/ForceFledgling/CVE-2023-22518 | | 
-| 20231110T11:00:14Z | cve-2023-22518 | Ansible Playbook for CVE-2023-22518 | https://github.com/ditekshen/ansible-cve-2023-22518 | | 
-| 20231110T10:38:38Z | cve-2023-44487 | Examples for Implementing cve-2023-44487 ( HTTP/2 Rapid Reset Attack ) Concept | https://github.com/nxenon/cve-2023-44487 | | 
-| 20231110T09:56:10Z | CVE-2023-46747 | exploit for cve-2023-46747 | https://github.com/W01fh4cker/CVE-2023-46747-RCE | | 
-| 20231110T09:37:55Z | CVE-2023-32031 | CVE-2023-32031 MS Exchange PowerShell backend RCE | https://github.com/Avento/CVE-2023-32031 | | 
-| 20231110T07:32:28Z | CVE-2023-34039 | exp | https://github.com/adminxb/CVE-2023-34039 | | 
-| 20231110T05:50:25Z | CVE-2023-24706 | CVE-2023-24706 | https://github.com/hatjwe/CVE-2023-24706 | | 
-| 20231110T01:20:27Z | CVE-2021-43609 | Proof of Concept Exploit for CVE-2021-43609 | https://github.com/d5sec/CVE-2021-43609-POC | | 
+| 20231110T20:46:30Z | CVE-2023-46017 | Null | https://github.com/ersinerenler/CVE-2023-46017-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability | | 
+| 20231110T20:24:41Z | CVE-2023-46016 | Null | https://github.com/ersinerenler/CVE-2023-46016-Code-Projects-Blood-Bank-1.0-Reflected-Cross-Site-Scripting-Vulnerability | | 
+| 20231110T20:15:16Z | CVE-2023-46015 | Null | https://github.com/ersinerenler/CVE-2023-46015-Code-Projects-Blood-Bank-1.0-Reflected-Cross-Site-Scripting-Vulnerability | | 
+| 20231110T20:01:31Z | CVE-2023-46604 | Null | https://github.com/h3x3h0g/ActiveMQ-RCE-CVE-2023-46604-Write-up | | 
+| 20231110T17:40:37Z | CVE-2023-46014 | Null | https://github.com/ersinerenler/CVE-2023-46014-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability | | 
+| 20231110T17:27:01Z | CVE-2023-22518 | Improper Authorization Vulnerability in Confluence Data Center and Server | https://github.com/ForceFledgling/CVE-2023-22518 | | 
+| 20231110T16:59:29Z | CVE-2023-46747 | exploit for cve-2023-46747 | https://github.com/W01fh4cker/CVE-2023-46747-RCE | | 
+| 20231110T16:27:59Z | CVE-2021-32682 | elFinder Commands Injection (CVE-2021-32682) | https://github.com/nickswink/CVE-2021-32682 | | 
+| 20231110T16:07:42Z | cve-2023-44487 | Examples for Implementing cve-2023-44487 ( HTTP/2 Rapid Reset Attack ) Concept | https://github.com/nxenon/cve-2023-44487 | | 
+| 20231110T15:38:01Z | CVE-2023-47460 | Null | https://github.com/aleksey-vi/CVE-2023-47460 | | 
 
 
 # klee on Github 推荐
@@ -42,6 +43,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231110T21:06:33Z | IEEE Lab where we go over an introduction to binary exploitation through the exploits of basic buffer overflow vulnerabilities | https://github.com/Polidori-112/IEEE_Lab | 0 | 0| 
+| 20231110T15:34:29Z | Null | https://github.com/Cyfrin/sc-exploits-minimized | 12 | 0| 
 | 20231110T13:54:00Z | GitOps Repository | https://github.com/redhat-appstudio-qe/build-suite-test-application-jpif-KTXGA-exploit-risk | 0 | 0| 
 | 20231110T13:38:57Z | This project records tricks trying to reverse engineering the prompts authored behind features provided by ChatGPT official, like data analysis, etc, plugins etc. Inspired by Google Hacking Database https://www.exploit-db.com/google-hacking-database | https://github.com/xianminx/Reverse-Engineering-ChatGPT | 0 | 0| 
 | 20231110T13:38:34Z | This project records tricks trying to reverse engineering the prompts authored behind features provided by ChatGPT official, like data analysis, etc, plugins etc. Inspired by Google Hacking Database https://www.exploit-db.com/google-hacking-database | https://github.com/xianminx/Reverse-Engineering-ChatGPT- | 0 | 0| 
@@ -50,14 +53,13 @@
 | 20231110T10:44:43Z | Null | https://github.com/MarcoBortolotti987/Consegna-S7-L5-Exploit-Java-RMI | 0 | 0| 
 | 20231110T10:29:53Z | Null | https://github.com/truocphan/TP-MassExploit | 1 | 0| 
 | 20231110T10:10:34Z | weelky project where I had to exploit java-rmi service with metaexploit | https://github.com/Davide-L90/progetto-S7L5 | 0 | 0| 
-| 20231110T09:46:52Z | Read, analyze, exploit air pollution emission data | https://github.com/ESMEAirPollutionPrediction/EmissionsData | 0 | 0| 
-| 20231110T09:09:40Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5643 | 716| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231110T11:43:40Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 137 | 23| 
+| 20231110T23:38:20Z | Welcome to my Database of Malware! | https://github.com/Haroun-Haeder/MalwareDatabase | 11 | 5| 
+| 20231110T14:36:36Z | Backdoor utilities for maximum %authority% | https://github.com/CodedMasonry/ArchonDoor | 0 | 0| 
 | 20231110T04:17:08Z | scientific snaut backdoors | https://github.com/elefantesagradodeluzinfinita/backdoors | 0 | 0| 
 | 20231110T01:56:34Z | Null | https://github.com/thanhptit15082001/backdoorandpersistence | 0 | 0| 
 
@@ -79,16 +81,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231110T22:32:09Z | Null | https://github.com/elcieloesellimite77/fuzzy-disco | 0 | 0| 
+| 20231110T22:18:07Z | Differential Fuzzing of Bitcoin implementations and libraries | https://github.com/brunoerg/bitcoinfuzz | 1 | 0| 
+| 20231110T19:59:50Z | Null | https://github.com/rcoderx/fuzzy-couscous | 0 | 0| 
 | 20231110T13:51:22Z | Example of a fuzzy search bar. | https://github.com/Noyce-Joel/Fuzzy | 0 | 0| 
 | 20231110T13:50:33Z | Example of a fuzzy search bar. | https://github.com/Noyce-Joel/Fuzzy-Search | 0 | 0| 
-| 20231110T13:43:23Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4905 | 1168| 
+| 20231110T13:43:23Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4905 | 1167| 
 | 20231110T13:39:20Z | Python Library Crypto Fuzz For Generated and Convereted Any Keys and Mnemonic to Any Type Address Wallet | https://github.com/CryptoFuzzPy/.github | 0 | 0| 
 | 20231110T13:06:10Z | Sales | https://github.com/Pericles19/fuzzy-octo-pancake | 0 | 0| 
 | 20231110T12:51:16Z | Null | https://github.com/xzk202191238/fuzzer_implementation | 0 | 0| 
 | 20231110T12:16:19Z | Null | https://github.com/Hazemi2/fuzzy-octo-winner | 0 | 0| 
-| 20231110T11:40:36Z | Provide several copy functions for nvim | https://github.com/jinkyuhan/fuzzier.nvim | 0 | 0| 
-| 20231110T11:20:57Z | Fuzzing Wordlist for Wordpress Endpoints | https://github.com/satyasai1460/wp-Fuzzing-list | 0 | 0| 
-| 20231110T06:51:30Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1604 | 233| 
 
 
 
