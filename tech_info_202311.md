@@ -66,6 +66,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231111T02:29:07Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0110-0036-app-qsELE-exploit-lend | 0 | 0| 
+| 20231111T02:26:38Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0110-0043-app-yI2GY-reject-exploit | 0 | 0| 
 | 20231111T02:12:17Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0041-app-zVyIZ-bet-exploit | 0 | 0| 
 | 20231111T01:55:05Z | A collection of erc20 solidity token contracts written by me. Contains code/functions that can be used to exploit/mint/rug/scam. For educational purposes only! | https://github.com/mxc69sol/erc20-token-contracts | 0 | 0| 
 | 20231111T01:34:56Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-hp | 1 | 0| 
@@ -74,8 +76,6 @@
 | 20231111T01:31:52Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-hp | 1 | 0| 
 | 20231111T01:21:59Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0005-app-mh162-trust-exploit | 0 | 0| 
 | 20231111T01:21:55Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0049-app-Uqn3d-separate-exploit | 0 | 0| 
-| 20231110T21:06:33Z | IEEE Lab where we go over an introduction to binary exploitation through the exploits of basic buffer overflow vulnerabilities | https://github.com/Polidori-112/IEEE_Lab | 0 | 0| 
-| 20231110T15:34:29Z | Null | https://github.com/Cyfrin/sc-exploits-minimized | 12 | 0| 
 
 
 # backdoor on Github 推荐
