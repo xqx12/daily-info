@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231111T01:31:52Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-hp | 1 | 0| 
 | 20231111T01:21:59Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0005-app-mh162-trust-exploit | 0 | 0| 
 | 20231111T01:21:55Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0049-app-Uqn3d-separate-exploit | 0 | 0| 
 | 20231110T21:06:33Z | IEEE Lab where we go over an introduction to binary exploitation through the exploits of basic buffer overflow vulnerabilities | https://github.com/Polidori-112/IEEE_Lab | 0 | 0| 
@@ -75,7 +76,6 @@
 | 20231110T13:38:34Z | This project records tricks trying to reverse engineering the prompts authored behind features provided by ChatGPT official, like data analysis, etc, plugins etc. Inspired by Google Hacking Database https://www.exploit-db.com/google-hacking-database | https://github.com/xianminx/Reverse-Engineering-ChatGPT- | 0 | 0| 
 | 20231110T13:26:13Z | GitOps Repository | https://github.com/redhat-appstudio-qe/nodejs-users-7Y-G4-ensure-exploit | 0 | 0| 
 | 20231110T13:12:59Z | Weaponized Exploit for Maltrail v0.53 Unauthenticated OS Command Injection (RCE) | https://github.com/AnonymUZ-1/RCE1 | 0 | 0| 
-| 20231110T10:44:43Z | Null | https://github.com/MarcoBortolotti987/Consegna-S7-L5-Exploit-Java-RMI | 0 | 0| 
 
 
 # backdoor on Github 推荐
