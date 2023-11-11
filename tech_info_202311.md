@@ -121,7 +121,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231111T01:45:08Z | Null | https://github.com/rcoderx/fuzzy-couscous | 0 | 0| 
+| 20231111T01:46:59Z | Null | https://github.com/rcoderx/fuzzy-couscous | 0 | 0| 
 | 20231110T22:32:09Z | Null | https://github.com/elcieloesellimite77/fuzzy-disco | 0 | 0| 
 | 20231110T22:18:07Z | Differential Fuzzing of Bitcoin implementations and libraries | https://github.com/brunoerg/bitcoinfuzz | 1 | 0| 
 | 20231110T13:51:22Z | Example of a fuzzy search bar. | https://github.com/Noyce-Joel/Fuzzy | 0 | 0| 
