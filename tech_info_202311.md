@@ -81,6 +81,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231111T02:37:58Z | Null | https://github.com/newstatic/pin-duo-duo_backdoor2 | 0 | 0| 
 | 20231111T00:17:32Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 142 | 23| 
 | 20231110T23:38:20Z | Welcome to my Database of Malware! | https://github.com/Haroun-Haeder/MalwareDatabase | 11 | 5| 
 | 20231110T14:36:36Z | Backdoor utilities for maximum %authority% | https://github.com/CodedMasonry/ArchonDoor | 0 | 0| 
@@ -90,7 +91,6 @@
 | 20231109T17:09:14Z | Identifying and cataloging scams like honeypots, and intentional backdoors that may be present in token smart contracts within the crypto ecosystem.  | https://github.com/cryptousersecurity/token-risk-classification | 4 | 1| 
 | 20231109T15:36:33Z | Simple backdoor written in C. | https://github.com/NoNameError/Backdoor.c | 0 | 0| 
 | 20231109T14:42:13Z | Spotify C2 in golang | https://github.com/Kaiser784/SoundShell | 0 | 0| 
-| 20231109T09:02:52Z | Null | https://github.com/SaiVinayDasari/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
