@@ -84,7 +84,6 @@
 | --- | --- | --- | --- | ---| 
 | 20231110T22:32:09Z | Null | https://github.com/elcieloesellimite77/fuzzy-disco | 0 | 0| 
 | 20231110T22:18:07Z | Differential Fuzzing of Bitcoin implementations and libraries | https://github.com/brunoerg/bitcoinfuzz | 1 | 0| 
-| 20231110T19:59:50Z | Null | https://github.com/rcoderx/fuzzy-couscous | 0 | 0| 
 | 20231110T13:51:22Z | Example of a fuzzy search bar. | https://github.com/Noyce-Joel/Fuzzy | 0 | 0| 
 | 20231110T13:50:33Z | Example of a fuzzy search bar. | https://github.com/Noyce-Joel/Fuzzy-Search | 0 | 0| 
 | 20231110T13:43:23Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4905 | 1167| 
@@ -92,6 +91,7 @@
 | 20231110T13:06:10Z | Sales | https://github.com/Pericles19/fuzzy-octo-pancake | 0 | 0| 
 | 20231110T12:51:16Z | Null | https://github.com/xzk202191238/fuzzer_implementation | 0 | 0| 
 | 20231110T12:16:19Z | Null | https://github.com/Hazemi2/fuzzy-octo-winner | 0 | 0| 
+| 20231110T11:40:36Z | Provide several copy functions for nvim | https://github.com/jinkyuhan/fuzzier.nvim | 0 | 0| 
 
 
 
