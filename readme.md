@@ -65,6 +65,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231111T10:15:19Z | gradient-based symbolic execution engine implemented from scratch | https://github.com/Koukyosyumei/Gymbo | 19 | 0| 
+| 20231111T05:20:38Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 266 | 36| 
 
 
 # big4 on Github 推荐
