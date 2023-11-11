@@ -74,6 +74,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231111T13:11:57Z | Source code for the paper %SLMIA-SR: Speaker-Level Membership Inference Attacks against Speaker Recognition Systems% accepted by NDSS 2024 | https://github.com/S3L-official/SLMIA-SR | 3 | 0| 
 
 
 # fuzz on Github 推荐
