@@ -80,8 +80,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231111T13:21:49Z | Null | https://github.com/Braghadeesh005/Fuzze-Fashions | 0 | 0| 
 | 20231111T13:17:05Z | Null | https://github.com/OpenMandrivaAssociation/fuzzel | 0 | 0| 
-| 20231111T13:04:27Z | Null | https://github.com/Braghadeesh005/Fuzze-Fashions | 0 | 0| 
 | 20231111T12:44:36Z | 1337 Wordlists for Bug Bounty Hunting | https://github.com/0xPugazh/fuzz4bounty | 566 | 112| 
 | 20231111T12:23:19Z | Null | https://github.com/gurkanaktasdev/fuzzy-fishstick | 0 | 0| 
 | 20231111T11:38:34Z | Null | https://github.com/latoriaa/fuzzy-dollop | 0 | 0| 
