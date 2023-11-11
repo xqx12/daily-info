@@ -26,6 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231111T13:03:50Z | CVE-2023-32031 | CVE-2023-32031 MS Exchange PowerShell backend RCE | https://github.com/Avento/CVE-2023-32031 | | 
+| 20231111T13:03:29Z | CVE-2023-47460 | Null | https://github.com/aleksey-vi/CVE-2023-47460 | | 
 | 20231111T10:55:41Z | CVE-2023-46021 | Null | https://github.com/ersinerenler/CVE-2023-46021-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability | | 
 | 20231111T10:54:25Z | CVE-2023-46022 | Null | https://github.com/ersinerenler/CVE-2023-46022-Code-Projects-Blood-Bank-1.0-OOB-SQL-Injection-Vulnerability | | 
 | 20231111T08:37:58Z | CVE-2023-46020 | Null | https://github.com/ersinerenler/CVE-2023-46020-Code-Projects-Blood-Bank-1.0-Stored-Cross-Site-Scripting-Vulnerability | | 
@@ -34,8 +36,6 @@
 | 20231111T02:08:41Z | CVE-2023-32629 | Ubuntu Privilege Escalation bash one-liner using CVE-2023-32629 & CVE-2023-2640 | https://github.com/ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation | | 
 | 20231110T20:46:30Z | CVE-2023-46017 | Null | https://github.com/ersinerenler/CVE-2023-46017-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability | | 
 | 20231110T20:24:41Z | CVE-2023-46016 | Null | https://github.com/ersinerenler/CVE-2023-46016-Code-Projects-Blood-Bank-1.0-Reflected-Cross-Site-Scripting-Vulnerability | | 
-| 20231110T20:15:16Z | CVE-2023-46015 | Null | https://github.com/ersinerenler/CVE-2023-46015-Code-Projects-Blood-Bank-1.0-Reflected-Cross-Site-Scripting-Vulnerability | | 
-| 20231110T20:01:31Z | CVE-2023-46604 | Null | https://github.com/h3x3h0g/ActiveMQ-RCE-CVE-2023-46604-Write-up | | 
 
 
 # klee on Github 推荐
@@ -121,6 +121,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231111T13:04:27Z | Null | https://github.com/Braghadeesh005/Fuzze-Fashions | 0 | 0| 
 | 20231111T12:44:36Z | 1337 Wordlists for Bug Bounty Hunting | https://github.com/0xPugazh/fuzz4bounty | 566 | 112| 
 | 20231111T12:23:19Z | Null | https://github.com/gurkanaktasdev/fuzzy-fishstick | 0 | 0| 
 | 20231111T11:38:34Z | Null | https://github.com/latoriaa/fuzzy-dollop | 0 | 0| 
@@ -130,7 +131,6 @@
 | 20231111T02:05:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9151 | 2034| 
 | 20231111T01:46:59Z | Null | https://github.com/rcoderx/fuzzy-couscous | 0 | 0| 
 | 20231110T22:32:09Z | Null | https://github.com/elcieloesellimite77/fuzzy-disco | 0 | 0| 
-| 20231110T22:18:07Z | Differential Fuzzing of Bitcoin implementations and libraries | https://github.com/brunoerg/bitcoinfuzz | 1 | 0| 
 
 
 

@@ -18,6 +18,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231111T13:03:50Z | CVE-2023-32031 | CVE-2023-32031 MS Exchange PowerShell backend RCE | https://github.com/Avento/CVE-2023-32031 | | 
+| 20231111T13:03:29Z | CVE-2023-47460 | Null | https://github.com/aleksey-vi/CVE-2023-47460 | | 
 | 20231111T10:55:41Z | CVE-2023-46021 | Null | https://github.com/ersinerenler/CVE-2023-46021-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability | | 
 | 20231111T10:54:25Z | CVE-2023-46022 | Null | https://github.com/ersinerenler/CVE-2023-46022-Code-Projects-Blood-Bank-1.0-OOB-SQL-Injection-Vulnerability | | 
 | 20231111T08:37:58Z | CVE-2023-46020 | Null | https://github.com/ersinerenler/CVE-2023-46020-Code-Projects-Blood-Bank-1.0-Stored-Cross-Site-Scripting-Vulnerability | | 
@@ -77,6 +79,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231111T13:04:27Z | Null | https://github.com/Braghadeesh005/Fuzze-Fashions | 0 | 0| 
 | 20231111T12:44:36Z | 1337 Wordlists for Bug Bounty Hunting | https://github.com/0xPugazh/fuzz4bounty | 566 | 112| 
 | 20231111T12:23:19Z | Null | https://github.com/gurkanaktasdev/fuzzy-fishstick | 0 | 0| 
 | 20231111T11:38:34Z | Null | https://github.com/latoriaa/fuzzy-dollop | 0 | 0| 
