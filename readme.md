@@ -50,9 +50,9 @@
 | 20231110T13:38:34Z | This project records tricks trying to reverse engineering the prompts authored behind features provided by ChatGPT official, like data analysis, etc, plugins etc. Inspired by Google Hacking Database https://www.exploit-db.com/google-hacking-database | https://github.com/xianminx/Reverse-Engineering-ChatGPT- | 0 | 0| 
 | 20231110T13:26:13Z | GitOps Repository | https://github.com/redhat-appstudio-qe/nodejs-users-7Y-G4-ensure-exploit | 0 | 0| 
 | 20231110T13:12:59Z | Weaponized Exploit for Maltrail v0.53 Unauthenticated OS Command Injection (RCE) | https://github.com/AnonymUZ-1/RCE1 | 0 | 0| 
+| 20231110T12:53:20Z | CLI tool to embed a ZIP file within a PNG image to create a tweetable and %executable% PNG-ZIP polyglot file. | https://github.com/CleasbyCode/pdvzip | 98 | 4| 
 | 20231110T10:44:43Z | Null | https://github.com/MarcoBortolotti987/Consegna-S7-L5-Exploit-Java-RMI | 0 | 0| 
 | 20231110T10:29:53Z | Null | https://github.com/truocphan/TP-MassExploit | 1 | 0| 
-| 20231110T10:10:34Z | weelky project where I had to exploit java-rmi service with metaexploit | https://github.com/Davide-L90/progetto-S7L5 | 0 | 0| 
 
 
 # backdoor on Github 推荐
