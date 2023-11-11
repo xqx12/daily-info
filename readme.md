@@ -42,6 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231111T13:27:40Z | A simple exploit for CVE-2019-2725. | https://github.com/CalegariMindSec/Exploit-CVE-2019-2725 | 0 | 0| 
 | 20231111T11:11:51Z | Null | https://github.com/dorian33160/Linux-Kernel-4.4.0-21_EXPLOIT | 0 | 0| 
 | 20231111T09:48:33Z | Null | https://github.com/tmixa1/-phoenix-exploits- | 0 | 0| 
 | 20231111T09:37:05Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5647 | 716| 
@@ -51,13 +52,12 @@
 | 20231111T02:29:07Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0110-0036-app-qsELE-exploit-lend | 0 | 0| 
 | 20231111T02:26:38Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0110-0043-app-yI2GY-reject-exploit | 0 | 0| 
 | 20231111T02:12:17Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0041-app-zVyIZ-bet-exploit | 0 | 0| 
-| 20231111T01:55:05Z | A collection of erc20 solidity token contracts written by me. Contains code/functions that can be used to exploit/mint/rug/scam. For educational purposes only! | https://github.com/mxc69sol/erc20-token-contracts | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231111T09:17:54Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7888 | 1827| 
+| 20231111T13:25:47Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7889 | 1827| 
 | 20231111T07:12:57Z | this is a reverse shell program that allows backdoor connection. However, i haven%t add any remote access command to protect program from misuse.  | https://github.com/anonymous-1001/torjan | 0 | 0| 
 | 20231111T06:07:06Z | Null | https://github.com/jackxcode/Backdoor_Scanner | 0 | 0| 
 | 20231111T02:37:58Z | Null | https://github.com/newstatic/pin-duo-duo_backdoor2 | 0 | 0| 
