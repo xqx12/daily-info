@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231111T02:53:55Z | Advanced and powerful Android device controlling tool with a wide range of features and capabilities | https://github.com/loshapiyo/ZenRat | 0 | 0| 
 | 20231111T02:29:07Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0110-0036-app-qsELE-exploit-lend | 0 | 0| 
 | 20231111T02:26:38Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0110-0043-app-yI2GY-reject-exploit | 0 | 0| 
 | 20231111T02:12:17Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0041-app-zVyIZ-bet-exploit | 0 | 0| 
@@ -75,7 +76,6 @@
 | 20231111T01:32:44Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-hp | 1 | 0| 
 | 20231111T01:31:52Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-hp | 1 | 0| 
 | 20231111T01:21:59Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0005-app-mh162-trust-exploit | 0 | 0| 
-| 20231111T01:21:55Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0049-app-Uqn3d-separate-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
