@@ -67,6 +67,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20231111T01:21:59Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0005-app-mh162-trust-exploit | 0 | 0| 
+| 20231111T01:21:55Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0049-app-Uqn3d-separate-exploit | 0 | 0| 
 | 20231110T21:06:33Z | IEEE Lab where we go over an introduction to binary exploitation through the exploits of basic buffer overflow vulnerabilities | https://github.com/Polidori-112/IEEE_Lab | 0 | 0| 
 | 20231110T15:34:29Z | Null | https://github.com/Cyfrin/sc-exploits-minimized | 12 | 0| 
 | 20231110T13:54:00Z | GitOps Repository | https://github.com/redhat-appstudio-qe/build-suite-test-application-jpif-KTXGA-exploit-risk | 0 | 0| 
@@ -75,7 +76,6 @@
 | 20231110T13:26:13Z | GitOps Repository | https://github.com/redhat-appstudio-qe/nodejs-users-7Y-G4-ensure-exploit | 0 | 0| 
 | 20231110T13:12:59Z | Weaponized Exploit for Maltrail v0.53 Unauthenticated OS Command Injection (RCE) | https://github.com/AnonymUZ-1/RCE1 | 0 | 0| 
 | 20231110T10:44:43Z | Null | https://github.com/MarcoBortolotti987/Consegna-S7-L5-Exploit-Java-RMI | 0 | 0| 
-| 20231110T10:29:53Z | Null | https://github.com/truocphan/TP-MassExploit | 1 | 0| 
 
 
 # backdoor on Github 推荐
