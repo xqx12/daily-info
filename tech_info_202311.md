@@ -66,7 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231111T01:38:47Z | A collection of erc20 solidity token contracts written by me. Contains code/functions that can be used to exploit/mint/rug/scam. For educational purposes only! | https://github.com/mxc69sol/erc20-token-contracts | 0 | 0| 
+| 20231111T01:55:05Z | A collection of erc20 solidity token contracts written by me. Contains code/functions that can be used to exploit/mint/rug/scam. For educational purposes only! | https://github.com/mxc69sol/erc20-token-contracts | 0 | 0| 
 | 20231111T01:34:56Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-hp | 1 | 0| 
 | 20231111T01:33:37Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-hp | 1 | 0| 
 | 20231111T01:32:44Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-hp | 1 | 0| 
