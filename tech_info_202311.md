@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231111T01:34:56Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-hp | 1 | 0| 
 | 20231111T01:33:37Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-hp | 1 | 0| 
 | 20231111T01:32:44Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-hp | 1 | 0| 
 | 20231111T01:31:52Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-hp | 1 | 0| 
@@ -75,7 +76,6 @@
 | 20231110T15:34:29Z | Null | https://github.com/Cyfrin/sc-exploits-minimized | 12 | 0| 
 | 20231110T13:54:00Z | GitOps Repository | https://github.com/redhat-appstudio-qe/build-suite-test-application-jpif-KTXGA-exploit-risk | 0 | 0| 
 | 20231110T13:38:57Z | This project records tricks trying to reverse engineering the prompts authored behind features provided by ChatGPT official, like data analysis, etc, plugins etc. Inspired by Google Hacking Database https://www.exploit-db.com/google-hacking-database | https://github.com/xianminx/Reverse-Engineering-ChatGPT | 0 | 0| 
-| 20231110T13:38:34Z | This project records tricks trying to reverse engineering the prompts authored behind features provided by ChatGPT official, like data analysis, etc, plugins etc. Inspired by Google Hacking Database https://www.exploit-db.com/google-hacking-database | https://github.com/xianminx/Reverse-Engineering-ChatGPT- | 0 | 0| 
 
 
 # backdoor on Github 推荐
