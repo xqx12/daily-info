@@ -122,6 +122,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231111T13:17:05Z | Null | https://github.com/OpenMandrivaAssociation/fuzzel | 0 | 0| 
 | 20231111T13:04:27Z | Null | https://github.com/Braghadeesh005/Fuzze-Fashions | 0 | 0| 
 | 20231111T12:44:36Z | 1337 Wordlists for Bug Bounty Hunting | https://github.com/0xPugazh/fuzz4bounty | 566 | 112| 
 | 20231111T12:23:19Z | Null | https://github.com/gurkanaktasdev/fuzzy-fishstick | 0 | 0| 
@@ -131,7 +132,6 @@
 | 20231111T09:50:10Z | Directory fuzzing | https://github.com/YunJoSubba/fuzz | 0 | 0| 
 | 20231111T02:05:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9151 | 2034| 
 | 20231111T01:46:59Z | Null | https://github.com/rcoderx/fuzzy-couscous | 0 | 0| 
-| 20231110T22:32:09Z | Null | https://github.com/elcieloesellimite77/fuzzy-disco | 0 | 0| 
 
 
 
