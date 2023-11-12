@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231112T01:13:50Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0006-app-RNFnu-must-exploit | 0 | 0| 
 | 20231111T23:29:22Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-hq | 1 | 0| 
 | 20231111T23:28:41Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-hq | 1 | 0| 
 | 20231111T23:28:03Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-hq | 1 | 0| 
@@ -75,7 +76,6 @@
 | 20231111T11:52:39Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 4842 | 624| 
 | 20231111T11:11:51Z | Null | https://github.com/dorian33160/Linux-Kernel-4.4.0-21_EXPLOIT | 0 | 0| 
 | 20231111T09:48:33Z | Null | https://github.com/tmixa1/-phoenix-exploits- | 0 | 0| 
-| 20231111T09:37:05Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5647 | 716| 
 
 
 # backdoor on Github 推荐
