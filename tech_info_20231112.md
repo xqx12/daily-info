@@ -65,6 +65,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231112T13:36:46Z | Null | https://github.com/XTard/fuzzy-waffle-subs | 0 | 0| 
 | 20231112T13:00:56Z | Undergraduate Thesis Project Documentation (S1) - Informatics UPN Veteran Jatim | https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot | 1 | 0| 
 | 20231112T12:46:56Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 622 | 76| 
 | 20231112T12:02:37Z | Null | https://github.com/yrris/fuzzy-octo-meme | 0 | 1| 
