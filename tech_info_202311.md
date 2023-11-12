@@ -122,6 +122,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231112T02:57:48Z | Open Redirect Tool/Fuzzer | https://github.com/00xtrace/RE-FuZZ | 0 | 0| 
 | 20231112T02:25:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9154 | 2035| 
 | 20231111T23:48:53Z | Null | https://github.com/alasalamont/Fuzzing-LFI | 0 | 0| 
 | 20231111T23:33:16Z | Null | https://github.com/OlatideJoseph/fuzzy-octo-memory | 0 | 0| 
@@ -131,7 +132,6 @@
 | 20231111T12:23:19Z | Null | https://github.com/gurkanaktasdev/fuzzy-fishstick | 0 | 0| 
 | 20231111T11:38:34Z | Null | https://github.com/latoriaa/fuzzy-dollop | 0 | 0| 
 | 20231111T11:10:36Z | just a flask website | https://github.com/UnKnownnPasta/fuzzy-flask | 0 | 0| 
-| 20231111T10:28:16Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1486 | 111| 
 
 
 
