@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231112T13:53:44Z | CVE-2023-46604 | This script leverages CVE-2023046604 (Apache ActiveMQ) to generate a pseudo shell. The vulnerability allows for remote code execution due to unsafe deserialization within the OpenWire protocol. | https://github.com/duck-sec/CVE-2023-46604-ActiveMQ-RCE-pseudoshell | | 
 | 20231112T05:09:44Z | CVE-2023-22518 | Improper Authorization Vulnerability in Confluence Data Center and Server | https://github.com/ForceFledgling/CVE-2023-22518 | | 
 | 20231111T13:03:50Z | CVE-2023-32031 | CVE-2023-32031 MS Exchange PowerShell backend RCE | https://github.com/Avento/CVE-2023-32031 | | 
 | 20231111T13:03:29Z | CVE-2023-47460 | Null | https://github.com/aleksey-vi/CVE-2023-47460 | | 
@@ -35,7 +36,6 @@
 | 20231111T08:37:58Z | CVE-2023-46020 | Null | https://github.com/ersinerenler/CVE-2023-46020-Code-Projects-Blood-Bank-1.0-Stored-Cross-Site-Scripting-Vulnerability | | 
 | 20231111T08:23:31Z | CVE-2023-46019 | Null | https://github.com/ersinerenler/CVE-2023-46019-Code-Projects-Blood-Bank-1.0-Reflected-Cross-Site-Scripting-Vulnerability | | 
 | 20231111T07:37:57Z | CVE-2023-46018 | Null | https://github.com/ersinerenler/CVE-2023-46018-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability | | 
-| 20231111T02:08:41Z | CVE-2023-32629 | Ubuntu Privilege Escalation bash one-liner using CVE-2023-32629 & CVE-2023-2640 | https://github.com/ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation | | 
 
 
 # klee on Github 推荐
@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231112T13:54:13Z | Exploit to bypass Xiongmai surveillance camera authentication mechanism | https://github.com/d3fudd/Xiongmai-Net-Surveillance-Authentication-Bypass | 0 | 0| 
 | 20231112T13:38:42Z | Are you tired of scammers preying on innocent victims? Do you want to fight back and reclaim a sense of justice? Look no further! This Python script, powered by Selenium, is your ultimate weapon against those who try to exploit others. | https://github.com/AvinashSubhash/Hoax-Hammer | 0 | 0| 
 | 20231112T10:55:10Z | writeups/pocs/exploits | https://github.com/synfosec/pocs | 0 | 0| 
 | 20231112T10:43:32Z | Write-ups for various CTF | https://github.com/nobodyisnobody/write-ups | 113 | 10| 
@@ -75,7 +76,6 @@
 | 20231112T09:06:07Z | A simple, lightweight vulnerability scanner that reports if CVEs are present in the CISA KEV database. | https://github.com/lucasrod16/exploitlens | 0 | 0| 
 | 20231112T01:59:38Z | Docker based HTTP(S) component of the Exploit Host  | https://github.com/Al-Azif/exploit-host-http | 5 | 1| 
 | 20231112T01:59:28Z | Docker based DNS component of the Exploit Host | https://github.com/Al-Azif/exploit-host-dns | 11 | 5| 
-| 20231112T01:13:50Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0006-app-RNFnu-must-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐

@@ -16,6 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231112T13:53:44Z | CVE-2023-46604 | This script leverages CVE-2023046604 (Apache ActiveMQ) to generate a pseudo shell. The vulnerability allows for remote code execution due to unsafe deserialization within the OpenWire protocol. | https://github.com/duck-sec/CVE-2023-46604-ActiveMQ-RCE-pseudoshell | | 
 | 20231112T05:09:44Z | CVE-2023-22518 | Improper Authorization Vulnerability in Confluence Data Center and Server | https://github.com/ForceFledgling/CVE-2023-22518 | | 
 
 
@@ -32,6 +33,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231112T13:54:13Z | Exploit to bypass Xiongmai surveillance camera authentication mechanism | https://github.com/d3fudd/Xiongmai-Net-Surveillance-Authentication-Bypass | 0 | 0| 
 | 20231112T13:38:42Z | Are you tired of scammers preying on innocent victims? Do you want to fight back and reclaim a sense of justice? Look no further! This Python script, powered by Selenium, is your ultimate weapon against those who try to exploit others. | https://github.com/AvinashSubhash/Hoax-Hammer | 0 | 0| 
 | 20231112T10:55:10Z | writeups/pocs/exploits | https://github.com/synfosec/pocs | 0 | 0| 
 | 20231112T10:43:32Z | Write-ups for various CTF | https://github.com/nobodyisnobody/write-ups | 113 | 10| 
@@ -41,7 +43,6 @@
 | 20231112T09:06:07Z | A simple, lightweight vulnerability scanner that reports if CVEs are present in the CISA KEV database. | https://github.com/lucasrod16/exploitlens | 0 | 0| 
 | 20231112T01:59:38Z | Docker based HTTP(S) component of the Exploit Host  | https://github.com/Al-Azif/exploit-host-http | 5 | 1| 
 | 20231112T01:59:28Z | Docker based DNS component of the Exploit Host | https://github.com/Al-Azif/exploit-host-dns | 11 | 5| 
-| 20231112T01:13:50Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0006-app-RNFnu-must-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
