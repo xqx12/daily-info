@@ -66,6 +66,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231112T01:58:24Z | Docker based DNS component of the PS4/PS5 Exploit Host | https://github.com/Al-Azif/exploit-host-dns | 11 | 5| 
+| 20231112T01:58:04Z | Docker based HTTP(S) component of the PS4/PS5 Exploit Host  | https://github.com/Al-Azif/exploit-host-http | 5 | 1| 
 | 20231112T01:13:50Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0006-app-RNFnu-must-exploit | 0 | 0| 
 | 20231111T23:29:22Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-hq | 1 | 0| 
 | 20231111T23:28:41Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-hq | 1 | 0| 
@@ -74,8 +76,6 @@
 | 20231111T22:50:31Z | Donerium is a powerful executor that can bypass byfron! We do executors because we are EXPLOITERS and we make roblox Better 😂😂 | https://github.com/CCguylll/Donerium-BlankCC. | 1 | 0| 
 | 20231111T13:30:32Z | A simple exploit for CVE-2019-2725. | https://github.com/CalegariMindSec/Exploit-CVE-2019-2725 | 0 | 0| 
 | 20231111T11:52:39Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 4842 | 624| 
-| 20231111T11:11:51Z | Null | https://github.com/dorian33160/Linux-Kernel-4.4.0-21_EXPLOIT | 0 | 0| 
-| 20231111T09:48:33Z | Null | https://github.com/tmixa1/-phoenix-exploits- | 0 | 0| 
 
 
 # backdoor on Github 推荐
