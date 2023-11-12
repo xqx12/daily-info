@@ -66,7 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231112T13:09:02Z | Are you tired of scammers preying on innocent victims? Do you want to fight back and reclaim a sense of justice? Look no further! This Python script, powered by Selenium, is your ultimate weapon against those who try to exploit others. | https://github.com/AvinashSubhash/Hoax-Hammer | 0 | 0| 
+| 20231112T13:38:42Z | Are you tired of scammers preying on innocent victims? Do you want to fight back and reclaim a sense of justice? Look no further! This Python script, powered by Selenium, is your ultimate weapon against those who try to exploit others. | https://github.com/AvinashSubhash/Hoax-Hammer | 0 | 0| 
 | 20231112T10:55:10Z | writeups/pocs/exploits | https://github.com/synfosec/pocs | 0 | 0| 
 | 20231112T10:43:32Z | Write-ups for various CTF | https://github.com/nobodyisnobody/write-ups | 113 | 10| 
 | 20231112T10:36:16Z | Robust Exploitive Active Learning | https://github.com/howardwang1997/RExAL | 0 | 0| 
