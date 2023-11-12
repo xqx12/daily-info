@@ -26,16 +26,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231112T05:09:44Z | CVE-2023-22518 | Improper Authorization Vulnerability in Confluence Data Center and Server | https://github.com/ForceFledgling/CVE-2023-22518 | | 
 | 20231111T13:03:50Z | CVE-2023-32031 | CVE-2023-32031 MS Exchange PowerShell backend RCE | https://github.com/Avento/CVE-2023-32031 | | 
 | 20231111T13:03:29Z | CVE-2023-47460 | Null | https://github.com/aleksey-vi/CVE-2023-47460 | | 
 | 20231111T10:55:41Z | CVE-2023-46021 | Null | https://github.com/ersinerenler/CVE-2023-46021-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability | | 
 | 20231111T10:54:25Z | CVE-2023-46022 | Null | https://github.com/ersinerenler/CVE-2023-46022-Code-Projects-Blood-Bank-1.0-OOB-SQL-Injection-Vulnerability | | 
+| 20231111T08:53:57Z | CVE-2023-46604 |  CVE-2023-46604 ActiveMQ RCE vulnerability verification/exploitation tool | https://github.com/sule01u/CVE-2023-46604 | | 
 | 20231111T08:37:58Z | CVE-2023-46020 | Null | https://github.com/ersinerenler/CVE-2023-46020-Code-Projects-Blood-Bank-1.0-Stored-Cross-Site-Scripting-Vulnerability | | 
 | 20231111T08:23:31Z | CVE-2023-46019 | Null | https://github.com/ersinerenler/CVE-2023-46019-Code-Projects-Blood-Bank-1.0-Reflected-Cross-Site-Scripting-Vulnerability | | 
 | 20231111T07:37:57Z | CVE-2023-46018 | Null | https://github.com/ersinerenler/CVE-2023-46018-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability | | 
 | 20231111T02:08:41Z | CVE-2023-32629 | Ubuntu Privilege Escalation bash one-liner using CVE-2023-32629 & CVE-2023-2640 | https://github.com/ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation | | 
-| 20231110T20:46:30Z | CVE-2023-46017 | Null | https://github.com/ersinerenler/CVE-2023-46017-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability | | 
-| 20231110T20:24:41Z | CVE-2023-46016 | Null | https://github.com/ersinerenler/CVE-2023-46016-Code-Projects-Blood-Bank-1.0-Reflected-Cross-Site-Scripting-Vulnerability | | 
 
 
 # klee on Github 推荐
@@ -43,6 +43,7 @@
 | --- | --- | --- | --- | ---| 
 | 20231111T19:04:59Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2358 | 638| 
 | 20231111T18:00:07Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 32 | 2| 
+| 20231111T16:49:58Z | Ansel Klee a porfolio website build using HTML5, CSS3, SCSS, and JavaScript | https://github.com/Rasan3-1416/Ansel-Klee | 0 | 0| 
 | 20231111T08:56:14Z | Whole Program LLVM: wllvm ported to go | https://github.com/SRI-CSL/gllvm | 254 | 32| 
 | 20231110T06:27:03Z | A 24/7 music bot that streams lofi music | https://github.com/NotKaskus/KleeLofi | 0 | 0| 
 | 20231109T03:15:37Z | Null | https://github.com/adarsh2023calc/klee_tutorials | 0 | 0| 
@@ -50,7 +51,6 @@
 | 20231105T18:50:58Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 280 | 54| 
 | 20231105T09:46:01Z | Klee | https://github.com/Kleenn666/Kleenn | 0 | 0| 
 | 20231105T05:51:36Z | 使用flutter构建的西北民族大学综合软件 | https://github.com/Isatidia/Klee | 0 | 0| 
-| 20231105T05:04:30Z | 基于Node.js对于民大青年请求信息的加密与解密 | https://github.com/Isatidia/Klee-3DES | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -66,31 +66,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231112T10:55:10Z | writeups/pocs/exploits | https://github.com/synfosec/pocs | 0 | 0| 
+| 20231112T10:43:32Z | Write-ups for various CTF | https://github.com/nobodyisnobody/write-ups | 113 | 10| 
+| 20231112T10:36:16Z | Robust Exploitive Active Learning | https://github.com/howardwang1997/RExAL | 0 | 0| 
+| 20231112T09:55:19Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5475 | 1065| 
+| 20231112T09:53:28Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 754 | 182| 
+| 20231112T09:06:07Z | A simple, lightweight vulnerability scanner that reports if CVEs are present in the CISA KEV database. | https://github.com/lucasrod16/exploitlens | 0 | 0| 
 | 20231112T01:59:38Z | Docker based HTTP(S) component of the Exploit Host  | https://github.com/Al-Azif/exploit-host-http | 5 | 1| 
 | 20231112T01:59:28Z | Docker based DNS component of the Exploit Host | https://github.com/Al-Azif/exploit-host-dns | 11 | 5| 
 | 20231112T01:13:50Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0006-app-RNFnu-must-exploit | 0 | 0| 
 | 20231111T23:29:22Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-hq | 1 | 0| 
-| 20231111T23:28:41Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-hq | 1 | 0| 
-| 20231111T23:28:03Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-hq | 1 | 0| 
-| 20231111T23:27:07Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-hq | 1 | 0| 
-| 20231111T22:50:31Z | Donerium is a powerful executor that can bypass byfron! We do executors because we are EXPLOITERS and we make roblox Better 😂😂 | https://github.com/CCguylll/Donerium-BlankCC. | 1 | 0| 
-| 20231111T13:30:32Z | A simple exploit for CVE-2019-2725. | https://github.com/CalegariMindSec/Exploit-CVE-2019-2725 | 0 | 0| 
-| 20231111T11:52:39Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 4842 | 624| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231111T13:25:47Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7889 | 1828| 
+| 20231112T12:34:56Z | python based backdoor  | https://github.com/rusiru-19/C2-Discord | 0 | 0| 
+| 20231112T11:51:16Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 143 | 24| 
+| 20231112T08:32:52Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 7890 | 1828| 
 | 20231111T07:12:57Z | this is a reverse shell program that allows backdoor connection. However, i haven%t add any remote access command to protect program from misuse.  | https://github.com/anonymous-1001/torjan | 0 | 0| 
+| 20231111T07:03:27Z | A compact toolbox for backdoor attacks and defenses. | https://github.com/vtu81/backdoor-toolbox | 54 | 6| 
 | 20231111T06:07:06Z | Null | https://github.com/jackxcode/Backdoor_Scanner | 0 | 0| 
 | 20231111T02:37:58Z | Null | https://github.com/newstatic/pin-duo-duo_backdoor2 | 0 | 0| 
-| 20231111T00:17:32Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 142 | 23| 
 | 20231110T23:38:20Z | Welcome to my Database of Malware! | https://github.com/Haroun-Haeder/MalwareDatabase | 11 | 5| 
 | 20231110T14:36:36Z | Backdoor utilities for maximum %authority% | https://github.com/CodedMasonry/ArchonDoor | 0 | 0| 
 | 20231110T04:17:08Z | scientific snaut backdoors | https://github.com/elefantesagradodeluzinfinita/backdoors | 0 | 0| 
-| 20231110T01:56:34Z | Null | https://github.com/thanhptit15082001/backdoorandpersistence | 0 | 0| 
-| 20231109T20:51:47Z | A learning project Start_IT academy student. This game made with unity. She is about backrooms. There is an entity and big map. Explore the maze! | https://github.com/davydtovstyj/Backdoors | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -122,16 +122,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231112T13:00:56Z | Undergraduate Thesis Project Documentation (S1) - Informatics UPN Veteran Jatim | https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot | 1 | 0| 
+| 20231112T12:46:56Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 622 | 76| 
+| 20231112T12:02:37Z | Null | https://github.com/yrris/fuzzy-octo-meme | 0 | 1| 
+| 20231112T11:25:32Z | To my bank accounts called INECOBANK  | https://github.com/9999999-dotcom/fuzzy-chainsaw | 0 | 0| 
+| 20231112T09:22:45Z | Null | https://github.com/ridwanfadilah/Fuzzy_Pentagonal_with_Rank_Centroid_Method | 0 | 0| 
+| 20231112T09:19:18Z | Null | https://github.com/Katleho995/fuzzy-palm-tree | 0 | 0| 
 | 20231112T02:57:48Z | Open Redirect Tool/Fuzzer | https://github.com/00xtrace/RE-FuZZ | 0 | 0| 
 | 20231112T02:25:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9154 | 2035| 
 | 20231111T23:48:53Z | Null | https://github.com/alasalamont/Fuzzing-LFI | 0 | 0| 
 | 20231111T23:33:16Z | Null | https://github.com/OlatideJoseph/fuzzy-octo-memory | 0 | 0| 
-| 20231111T13:21:49Z | Null | https://github.com/Braghadeesh005/Fuzze-Fashions | 0 | 0| 
-| 20231111T13:17:05Z | Null | https://github.com/OpenMandrivaAssociation/fuzzel | 0 | 0| 
-| 20231111T12:44:36Z | 1337 Wordlists for Bug Bounty Hunting | https://github.com/0xPugazh/fuzz4bounty | 566 | 112| 
-| 20231111T12:23:19Z | Null | https://github.com/gurkanaktasdev/fuzzy-fishstick | 0 | 0| 
-| 20231111T11:38:34Z | Null | https://github.com/latoriaa/fuzzy-dollop | 0 | 0| 
-| 20231111T11:10:36Z | just a flask website | https://github.com/UnKnownnPasta/fuzzy-flask | 0 | 0| 
 
 
 
