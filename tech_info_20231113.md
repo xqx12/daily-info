@@ -76,7 +76,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231113T13:37:15Z | Null | https://github.com/555krhariharan555/Fuzz_MAXX | 0 | 0| 
+| 20231113T13:40:48Z | Null | https://github.com/555krhariharan555/Fuzz_MAXX | 0 | 0| 
 | 20231113T13:18:29Z | Null | https://github.com/nenengintan/fuzzy-ssistem | 0 | 0| 
 | 20231113T13:13:08Z | A helper library to provide Fuzzy search in Sqlite Database | https://github.com/fcat97/fuzzyble-java | 0 | 0| 
 | 20231113T13:13:06Z | benchmark for evaluating seed selection | https://github.com/kdsjZh/FishFuzz-Seed-eval | 0 | 0| 
