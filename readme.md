@@ -43,11 +43,11 @@
 | 20231112T22:45:11Z | Repository containing a walkthrough exploiting a Vulnerable Chat server. | https://github.com/DaintyJet/VChat_GTER_EggHunter | 0 | 0| 
 | 20231112T22:43:57Z | Null | https://github.com/drBenanyMM/Introduction-aux-Syst-mes-d-Exploitation | 0 | 0| 
 | 20231112T19:06:34Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5479 | 1066| 
-| 20231112T15:19:42Z | Docker based HTTP(S) component of the Exploit Host  | https://github.com/Al-Azif/exploit-host-http | 6 | 1| 
 | 20231112T15:19:32Z | Docker based DNS component of the Exploit Host | https://github.com/Al-Azif/exploit-host-dns | 12 | 5| 
 | 20231112T14:36:30Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 591 | 114| 
 | 20231112T13:54:13Z | Exploit to bypass Xiongmai surveillance camera authentication mechanism | https://github.com/d3fudd/Xiongmai-Net-Surveillance-Authentication-Bypass | 0 | 0| 
 | 20231112T13:38:42Z | Are you tired of scammers preying on innocent victims? Do you want to fight back and reclaim a sense of justice? Look no further! This Python script, powered by Selenium, is your ultimate weapon against those who try to exploit others. | https://github.com/AvinashSubhash/Hoax-Hammer | 0 | 0| 
+| 20231112T10:55:10Z | writeups/pocs/exploits | https://github.com/synfosec/pocs | 0 | 0| 
 
 
 # backdoor on Github 推荐
