@@ -76,7 +76,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231113T13:40:48Z | Null | https://github.com/555krhariharan555/Fuzz_MAXX | 0 | 0| 
+| 20231113T13:44:30Z | Null | https://github.com/KrystalRay/AFL-Fuzzing | 0 | 0| 
+| 20231113T13:41:55Z | Null | https://github.com/555krhariharan555/Fuzz_MAXX | 0 | 0| 
 | 20231113T13:18:29Z | Null | https://github.com/nenengintan/fuzzy-ssistem | 0 | 0| 
 | 20231113T13:13:08Z | A helper library to provide Fuzzy search in Sqlite Database | https://github.com/fcat97/fuzzyble-java | 0 | 0| 
 | 20231113T13:13:06Z | benchmark for evaluating seed selection | https://github.com/kdsjZh/FishFuzz-Seed-eval | 0 | 0| 
@@ -85,7 +86,6 @@
 | 20231113T10:41:12Z | Null | https://github.com/rivanalamsyah/Clasification-Fuzzy | 0 | 0| 
 | 20231113T08:03:28Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 473 | 61| 
 | 20231113T04:44:39Z | TokTok fuzzing corpus and coverage results. | https://github.com/TokTok/toktok-fuzzer | 4 | 2| 
-| 20231113T04:14:21Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9156 | 2036| 
 
 
 
