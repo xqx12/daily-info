@@ -76,7 +76,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231113T13:44:30Z | Null | https://github.com/KrystalRay/AFL-Fuzzing | 0 | 0| 
+| 20231113T13:54:11Z | Null | https://github.com/KrystalRay/AFL-Fuzzing | 0 | 0| 
 | 20231113T13:41:55Z | Null | https://github.com/555krhariharan555/Fuzz_MAXX | 0 | 0| 
 | 20231113T13:18:29Z | Null | https://github.com/nenengintan/fuzzy-ssistem | 0 | 0| 
 | 20231113T13:13:08Z | A helper library to provide Fuzzy search in Sqlite Database | https://github.com/fcat97/fuzzyble-java | 0 | 0| 
