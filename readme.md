@@ -76,6 +76,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231113T13:10:49Z | Null | https://github.com/IndraBagus0/Water-Quality-For-Koi-Fish-Using-fuzzy-Mamdani | 0 | 0| 
 | 20231113T12:38:30Z | This is a Fuzzer | https://github.com/przybylak1995/FuzzyCooper | 0 | 0| 
 | 20231113T12:33:20Z | benchmark for evaluating seed selection | https://github.com/kdsjZh/FishFuzz-Seed-eval | 0 | 0| 
 | 20231113T10:41:12Z | Null | https://github.com/rivanalamsyah/Clasification-Fuzzy | 0 | 0| 
