@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231113T02:44:42Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0086-app-dqv1y-allow-exploit | 0 | 0| 
 | 20231113T02:44:10Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0067-app-PuIAc-exploit-combine | 0 | 0| 
 | 20231113T02:15:12Z | Null | https://github.com/jiha3/exploit_txs | 0 | 0| 
 | 20231113T01:23:44Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5647 | 764| 
@@ -75,7 +76,6 @@
 | 20231113T00:42:14Z | Exploits ran in Python. | https://github.com/honestoygor/pentestertoolkit | 0 | 0| 
 | 20231113T00:11:45Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-us | 1 | 0| 
 | 20231113T00:10:32Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-us | 1 | 0| 
-| 20231113T00:09:44Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-us | 1 | 0| 
 
 
 # backdoor on Github 推荐
