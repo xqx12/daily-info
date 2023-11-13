@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231113T02:37:12Z | CVE-2023-46604 | CVE-2023-46604环境复现包 | https://github.com/LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_Recurrence | | 
 | 20231112T23:34:07Z | CVE-2023-47119 | A POC for CVE-2023-47119 | https://github.com/BaadMaro/CVE-2023-47119 | | 
 | 20231112T22:37:36Z | CVE-2022-22965 | Spring4Shell Vulnerability RCE - CVE-2022-22965  | https://github.com/LucasPDiniz/CVE-2022-22965 | | 
 | 20231112T21:35:57Z | CVE-2023-46604 |  CVE-2023-46604 ActiveMQ RCE vulnerability verification/exploitation tool | https://github.com/sule01u/CVE-2023-46604 | | 
@@ -35,7 +36,6 @@
 | 20231111T13:03:29Z | CVE-2023-47460 | Null | https://github.com/aleksey-vi/CVE-2023-47460 | | 
 | 20231111T10:55:41Z | CVE-2023-46021 | Null | https://github.com/ersinerenler/CVE-2023-46021-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability | | 
 | 20231111T10:54:25Z | CVE-2023-46022 | Null | https://github.com/ersinerenler/CVE-2023-46022-Code-Projects-Blood-Bank-1.0-OOB-SQL-Injection-Vulnerability | | 
-| 20231111T08:37:58Z | CVE-2023-46020 | Null | https://github.com/ersinerenler/CVE-2023-46020-Code-Projects-Blood-Bank-1.0-Stored-Cross-Site-Scripting-Vulnerability | | 
 
 
 # klee on Github 推荐
