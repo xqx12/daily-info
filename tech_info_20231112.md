@@ -18,7 +18,6 @@
 | --- | --- | --- | --- | ---| 
 | 20231112T23:34:07Z | CVE-2023-47119 | A POC for CVE-2023-47119 | https://github.com/BaadMaro/CVE-2023-47119 | | 
 | 20231112T22:37:36Z | CVE-2022-22965 | Spring4Shell Vulnerability RCE - CVE-2022-22965  | https://github.com/LucasPDiniz/CVE-2022-22965 | | 
-| 20231112T21:35:57Z | CVE-2023-46604 |  CVE-2023-46604 ActiveMQ RCE vulnerability verification/exploitation tool | https://github.com/sule01u/CVE-2023-46604 | | 
 | 20231112T15:09:34Z | CVE-2023-46604 | This script leverages CVE-2023046604 (Apache ActiveMQ) to generate a pseudo shell. The vulnerability allows for remote code execution due to unsafe deserialization within the OpenWire protocol. | https://github.com/duck-sec/CVE-2023-46604-ActiveMQ-RCE-pseudoshell | | 
 | 20231112T05:09:44Z | CVE-2023-22518 | Improper Authorization Vulnerability in Confluence Data Center and Server | https://github.com/ForceFledgling/CVE-2023-22518 | | 
 
