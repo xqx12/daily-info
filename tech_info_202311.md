@@ -122,6 +122,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231113T02:11:53Z | Null | https://github.com/erickfernandox/op_fuzzer | 0 | 0| 
 | 20231113T00:55:10Z | Null | https://github.com/Laretz/IC-Logica-Fuzzy | 0 | 0| 
 | 20231112T20:12:55Z | Null | https://github.com/de-gratis/fuzzy-notes | 0 | 0| 
 | 20231112T17:18:55Z | Null | https://github.com/elsunais6167/fuzzy-SLA | 0 | 0| 
@@ -131,7 +132,6 @@
 | 20231112T12:02:37Z | Null | https://github.com/yrris/fuzzy-octo-meme | 0 | 1| 
 | 20231112T11:25:32Z | To my bank accounts called INECOBANK  | https://github.com/9999999-dotcom/fuzzy-chainsaw | 0 | 0| 
 | 20231112T09:22:45Z | Null | https://github.com/ridwanfadilah/Fuzzy_Pentagonal_with_Rank_Centroid_Method | 0 | 0| 
-| 20231112T09:19:18Z | Null | https://github.com/Katleho995/fuzzy-palm-tree | 0 | 0| 
 
 
 
