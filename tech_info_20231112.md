@@ -86,7 +86,7 @@
 | 20231112T11:25:32Z | To my bank accounts called INECOBANK  | https://github.com/9999999-dotcom/fuzzy-chainsaw | 0 | 0| 
 | 20231112T09:22:45Z | Null | https://github.com/ridwanfadilah/Fuzzy_Pentagonal_with_Rank_Centroid_Method | 0 | 0| 
 | 20231112T09:19:18Z | Null | https://github.com/Katleho995/fuzzy-palm-tree | 0 | 0| 
-| 20231112T03:50:39Z | macOS RootKit that can fuzz binaries/drivers, do kernel r/w, hook kernel and userspace functions, set custom breakpoints, GDB stub (in progress), match KDK kernels with DWARF debug symbols to release kernels, MachOs of all kinds, dyld shared caches, Objective C/Swift metadata,  dump libraries, library injection (e.g. cycript), and crawl iOS apps | https://github.com/YungRaj/MacRootKit | 20 | 2| 
+| 20231112T06:54:18Z | My fuzz wordlis | https://github.com/HackerTXK/qed_fuzz | 0 | 0| 
 
 
 
