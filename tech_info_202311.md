@@ -26,8 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231113T02:57:37Z | CVE-2023-46604 | CVE-2023-46604环境复现包 | https://github.com/LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_Recurrence | | 
 | 20231113T02:39:40Z | CVE-2023-46604 |  CVE-2023-46604 ActiveMQ RCE vulnerability verification/exploitation tool | https://github.com/sule01u/CVE-2023-46604 | | 
-| 20231113T02:37:12Z | CVE-2023-46604 | CVE-2023-46604环境复现包 | https://github.com/LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_Recurrence | | 
 | 20231112T23:34:07Z | CVE-2023-47119 | A POC for CVE-2023-47119 | https://github.com/BaadMaro/CVE-2023-47119 | | 
 | 20231112T22:37:36Z | CVE-2022-22965 | Spring4Shell Vulnerability RCE - CVE-2022-22965  | https://github.com/LucasPDiniz/CVE-2022-22965 | | 
 | 20231112T15:09:34Z | CVE-2023-46604 | This script leverages CVE-2023046604 (Apache ActiveMQ) to generate a pseudo shell. The vulnerability allows for remote code execution due to unsafe deserialization within the OpenWire protocol. | https://github.com/duck-sec/CVE-2023-46604-ActiveMQ-RCE-pseudoshell | | 
@@ -66,10 +66,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231113T02:54:31Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5648 | 764| 
 | 20231113T02:44:42Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0086-app-dqv1y-allow-exploit | 0 | 0| 
 | 20231113T02:44:10Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0067-app-PuIAc-exploit-combine | 0 | 0| 
 | 20231113T02:15:12Z | Null | https://github.com/jiha3/exploit_txs | 0 | 0| 
-| 20231113T01:23:44Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5647 | 764| 
 | 20231113T01:18:34Z | Buffer overflow exploit | https://github.com/ziofab/BufferOverflowExploit | 0 | 0| 
 | 20231113T01:10:07Z | LA CTF hosted by ACM Cyber & Psi Beta Rho! Website for the largest annual cybersecurity competition at UCLA! Whether you are tackling your first exploit or have professional experience, there will be challenges just right for you! | https://github.com/lactf/lactf-website | 9 | 4| 
 | 20231113T01:09:27Z | Docker based HTTP(S) component of the Exploit Host  | https://github.com/Al-Azif/exploit-host-http | 7 | 1| 
