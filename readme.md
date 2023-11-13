@@ -47,11 +47,11 @@
 | 20231113T12:23:48Z | Null | https://github.com/vulsio/vuls-data-raw-exploit-inthewild | 0 | 0| 
 | 20231113T12:23:36Z | Null | https://github.com/vulsio/vuls-data-raw-exploit-github | 0 | 0| 
 | 20231113T12:23:23Z | Null | https://github.com/vulsio/vuls-data-raw-exploit-exploitdb | 0 | 0| 
+| 20231113T12:10:08Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5480 | 1067| 
 | 20231113T11:33:41Z | Project Name : DevBlox  (releasing soon) | https://github.com/selecteduseromg343/roblox-uwp-latest-version-checker-for-exploiters- | 0 | 0| 
 | 20231113T11:25:54Z | Exploiting MyToll | https://github.com/mvknowles/MyToll | 0 | 0| 
 | 20231113T10:11:01Z | CLI tool to embed a ZIP file within a PNG image to create a tweetable and %executable% PNG-ZIP polyglot file. | https://github.com/CleasbyCode/pdvzip | 2 | 0| 
 | 20231113T08:17:33Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5654 | 716| 
-| 20231113T02:54:31Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5648 | 764| 
 
 
 # backdoor on Github 推荐
