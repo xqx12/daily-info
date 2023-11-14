@@ -11,6 +11,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20231114 | 深度剖析GadgetInspector执行逻辑(上) | https://www.sec-in.com/article/2069| 
 | 20231113 | machine unlearning中的灾难遗忘问题的研究 | https://mp.weixin.qq.com/s/fBYXwkg9Tm1uVc8ZmIViRQ| 
 | 20231113 | SecWiki周刊（第506期) | https://www.sec-wiki.com/weekly/506| 
 | 20231113 | CodeQL分析XXL-JOB默认accessToken命令执行漏洞 | https://mp.weixin.qq.com/s/AMqymFxASgKCUYZQAB8Nzw| 
@@ -20,28 +21,28 @@
 | 20231109 | 面向Java开源生态系统的跨项目漏洞安全威胁分析 | https://mp.weixin.qq.com/s/j583ttj0Lv-IdaY1N_KL5g| 
 | 20231109 | Prompt的科学范式（上篇） | https://mp.weixin.qq.com/s/3BHcqTDIJyrvMVdAkm0yhQ| 
 | 20231109 | “黑掉卫星”演习分析 | https://mp.weixin.qq.com/s/pkT5I7lO10zkxjXh7vt3nw| 
-| 20231109 | Apache Commons Compress拒绝服务漏洞 CVE-2021-35515 | https://mp.weixin.qq.com/s/X63XHdVidnRvu41st6fEPg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231114T10:03:13Z | CVE-2022-20338 | Null | https://github.com/Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338 | | 
+| 20231114T09:46:28Z | CVE-2023-22518 | Improper Authorization Vulnerability in Confluence Data Center and Server + bonus 🔥 | https://github.com/ForceFledgling/CVE-2023-22518 | | 
+| 20231114T08:40:50Z | CVE-2023-47668 | Restrict Content <= 3.2.7 - Information Exposure via legacy log file | https://github.com/RandomRobbieBF/CVE-2023-47668 | | 
+| 20231114T08:37:45Z | CVE-2023-32629 | CVE-2023-32629 & CVE-2023-2640  Ubuntu Privilege Escalation POC | https://github.com/Umutkgz/CVE-2023-32629-CVE-2023-2640-Ubuntu-Privilege-Escalation-POC | | 
+| 20231114T08:13:43Z | CVE-2023-47246 | Null | https://github.com/ex0day/CVE-2023-47246 | | 
+| 20231114T08:08:08Z | CVE-2023-47014 | Null | https://github.com/emirhanerdogu/CVE-2023-47014-Sticky-Notes-App-Using-PHP-with-Source-Code-v1.0-CSRF-to-CORS | | 
+| 20231114T08:03:46Z | CVE-2022-45059 | Null | https://github.com/martinvks/CVE-2022-45059-demo | | 
+| 20231114T07:37:13Z | CVE-2022-20338 | Null | https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20338 | | 
+| 20231114T04:31:00Z | CVE-2023-32707 | An improved POC exploit based on the reported CVE on exploitdb | https://github.com/9xN/CVE-2023-32707 | | 
 | 20231114T01:48:29Z | CVE-2021-23017 | PoC for Nginx 0.6.18 - 1.20.0 Memory Overwrite Vulnerability CVE-2021-23017 | https://github.com/M507/CVE-2021-23017-PoC | | 
-| 20231113T21:44:43Z | CVE-2022-45059 | Null | https://github.com/martinvks/CVE-2022-45059-poc | | 
-| 20231113T20:42:27Z | CVE-2023-22518 | Improper Authorization Vulnerability in Confluence Data Center and Server + bonus 🔥 | https://github.com/ForceFledgling/CVE-2023-22518 | | 
-| 20231113T17:27:18Z | cve-2023-5965 | Null | https://github.com/pedrojosenavasperez/cve-2023-5965 | | 
-| 20231113T17:25:12Z | cve-2023-5966 | Null | https://github.com/pedrojosenavasperez/cve-2023-5966 | | 
-| 20231113T17:09:40Z | CVE-2021-44228 | Log4j Vulnerability RCE - CVE-2021-44228 | https://github.com/LucasPDiniz/CVE-2021-44228 | | 
-| 20231113T17:07:15Z | CVE-2023-41064 | Null | https://github.com/MrR0b0t19/CVE-2023-41064 | | 
-| 20231113T12:59:12Z | CVE-2023-5360 | CVE-2023-5360 Exploit/POC | https://github.com/1337r0j4n/CVE-2023-5360 | | 
-| 20231113T12:56:26Z | CVE-2022-24227 | CVE-2022-24227 [Updated]: BoltWire v8.00 vulnerable to "Stored Cross-site Scripting (XSS)" | https://github.com/Cyber-Wo0dy/CVE-2022-24227-updated | | 
-| 20231113T12:25:09Z | CVE-2023-47129 | Statamic CMS versions <4.33.0 vulnerable to "Remote Code Execution"  | https://github.com/Cyber-Wo0dy/CVE-2023-47129 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231113T19:37:15Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2359 | 639| 
+| 20231114T11:21:24Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2359 | 638| 
+| 20231114T11:16:23Z | Config files for my GitHub profile. | https://github.com/Kleemuk/Kleemuk | 0 | 0| 
 | 20231112T17:00:45Z | My personal repository | https://github.com/kleeon0/kleeon0 | 0 | 0| 
 | 20231111T18:00:07Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 32 | 2| 
 | 20231111T16:49:58Z | Ansel Klee a porfolio website build using HTML5, CSS3, SCSS, and JavaScript | https://github.com/Rasan3-1416/Ansel-Klee | 0 | 0| 
@@ -50,7 +51,6 @@
 | 20231109T03:15:37Z | Null | https://github.com/adarsh2023calc/klee_tutorials | 0 | 0| 
 | 20231106T07:13:46Z | Null | https://github.com/alexzfe/kleenex-repo | 0 | 0| 
 | 20231105T18:50:58Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 280 | 54| 
-| 20231105T09:46:01Z | Klee | https://github.com/Kleenn666/Kleenn | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -66,31 +66,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231114T02:45:26Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 754 | 182| 
-| 20231114T02:41:37Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5650 | 764| 
-| 20231114T00:34:41Z | Null | https://github.com/404Felipe/exploit-di | 0 | 0| 
-| 20231114T00:10:53Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-jg | 1 | 0| 
-| 20231114T00:10:02Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-JG | 1 | 0| 
-| 20231114T00:09:25Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-JG | 1 | 0| 
-| 20231114T00:08:42Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-JG | 1 | 0| 
-| 20231113T12:59:12Z | CVE-2023-5360 Exploit/POC | https://github.com/1337r0j4n/CVE-2023-5360 | 0 | 0| 
-| 20231113T12:24:03Z | Null | https://github.com/vulsio/vuls-data-raw-exploit-trickest | 0 | 0| 
-| 20231113T12:23:48Z | Null | https://github.com/vulsio/vuls-data-raw-exploit-inthewild | 0 | 0| 
+| 20231114T12:52:16Z | A collection of ChromeOS exploits free for the public | https://github.com/3kh0/ext-remover | 283 | 301| 
+| 20231114T12:17:48Z | Tool to scan hikvision cameras and identify vulnrable devices | https://github.com/millersartin/Hikvision-Vulnerability-Scanner-POC | 31 | 6| 
+| 20231114T12:12:08Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5486 | 1067| 
+| 20231114T11:49:42Z | Proof-of-Concept Backdoored/Exploit plugin for minecraft paper 1.20.2+ | https://github.com/maxbossing/PoisonedPlugin | 0 | 0| 
+| 20231114T11:34:42Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-golang-nested-DSwQU-exploit-identify | 0 | 0| 
+| 20231114T10:31:26Z | Security and Hacking Tools, Exploits, Proof of Concepts, Shellcodes, Scripts. | https://github.com/nullsecuritynet/tools | 1 | 0| 
+| 20231114T10:11:58Z | Null | https://github.com/dorian33160/Linux-Kernel-4.4.0-21_EXPLOIT | 0 | 0| 
+| 20231114T10:07:25Z | Helper scripts for exploiting the Linux kernel | https://github.com/santaclz/linux-kernel-tools | 0 | 0| 
+| 20231114T06:43:23Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5660 | 716| 
+| 20231114T02:57:42Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 756 | 182| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231114T12:56:26Z | A compact toolbox for backdoor attacks and defenses. | https://github.com/vtu81/backdoor-toolbox | 61 | 6| 
+| 20231114T12:17:48Z | Tool to scan hikvision cameras and identify vulnrable devices | https://github.com/millersartin/Hikvision-Vulnerability-Scanner-POC | 31 | 6| 
+| 20231114T11:49:42Z | Proof-of-Concept Backdoored/Exploit plugin for minecraft paper 1.20.2+ | https://github.com/maxbossing/PoisonedPlugin | 0 | 0| 
+| 20231114T11:41:20Z | Null | https://github.com/BackDoor-TR/backdoorddos-v2 | 0 | 0| 
+| 20231114T09:34:44Z | EA-based backdoor searcher | https://github.com/Lipen/backdoor-searcher | 0 | 1| 
 | 20231114T02:34:10Z | A python script that look for hikvision vulnerable cams with a backdoor | https://github.com/diego-tella/HikvisionIN | 1 | 0| 
 | 20231114T00:28:03Z | An Proof of Concept for Network Interface Backdoors | https://github.com/moorejacob2017/Network_Interface_Backdoors | 0 | 0| 
 | 20231113T22:56:37Z | we can now whatch and play what we want backdoor. | https://github.com/ainsleywya29/Youtube-forever | 0 | 0| 
 | 20231113T18:10:49Z | Null | https://github.com/Rcym/Backdoor_keylogger | 0 | 0| 
 | 20231113T17:42:48Z | Null | https://github.com/phukon/backdoor | 0 | 0| 
-| 20231113T17:06:06Z | Find any backdoor/webshell on your website with Python and Node.js | https://github.com/daniisaahir/DinoScan | 0 | 0| 
-| 20231113T14:50:24Z | A tool for remotely control the android device | https://github.com/VexenaRat/Vexena-Android-Rat | 2 | 0| 
-| 20231113T14:00:22Z | A compact toolbox for backdoor attacks and defenses. | https://github.com/vtu81/backdoor-toolbox | 55 | 6| 
-| 20231113T12:24:15Z | Null | https://github.com/KnoxBlox/BackDoor | 0 | 0| 
-| 20231113T11:29:49Z | Linux PAM Backdoor | https://github.com/zephrax/linux-pam-backdoor | 245 | 73| 
 
 
 # symbolic execution on Github 推荐
@@ -109,11 +109,11 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231114T07:57:07Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 89 | 4| 
 | 20231111T13:11:57Z | Source code for the paper %SLMIA-SR: Speaker-Level Membership Inference Attacks against Speaker Recognition Systems% accepted by NDSS 2024 | https://github.com/S3L-official/SLMIA-SR | 3 | 0| 
 | 20231110T07:30:25Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 33 | 6| 
 | 20231109T09:12:59Z | Source code for our NDSS%18 paper %Automated Website Fingerprinting through Deep Learning% | https://github.com/DistriNet/DLWF | 84 | 39| 
 | 20231109T04:38:44Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 31 | 2| 
-| 20231107T09:08:59Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 88 | 4| 
 | 20231106T03:05:55Z | A carwler for cyber security conferences including the big 4 (SP, Usenix Security, NDSS, CCS) and some software conferences. | https://github.com/QGrain/conference-crawler | 0 | 0| 
 | 20231102T09:11:27Z | Null | https://github.com/Compass-All/NDSS24-CAGE | 0 | 0| 
 | 20231102T03:27:07Z | https://marsvillager.github.io/PaperWorkflowAutomation/summary/visualize.html (Safari, Firefox ✓ Edge, Chrome ✗) 论文爬虫+概述: IEEE Symposium on Security and Privacy (S&P), USENIX Security Symposium, Network and Distributed System Security Symposium (NDSS)  | https://github.com/marsvillager/PaperWorkflowAutomation | 6 | 0| 
@@ -123,16 +123,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231114T02:40:38Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 2325 | 266| 
+| 20231114T12:28:02Z | Null | https://github.com/https-oss-com/fuzzy-octo-bassoon | 0 | 0| 
+| 20231114T11:46:15Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9161 | 2038| 
+| 20231114T11:11:04Z | Null | https://github.com/selmeg111/fuzzy-guacamole | 0 | 0| 
+| 20231114T10:59:07Z | Null | https://github.com/wangsmme/fuzzy-potato | 0 | 0| 
+| 20231114T09:08:14Z | Fuzzy | https://github.com/demigod66/fuzzy | 0 | 0| 
+| 20231114T08:31:26Z | Null | https://github.com/kristina2910/fuzzy-fiesta | 0 | 0| 
+| 20231114T03:36:56Z | Upstream Proxy Burp for fuzzing | https://github.com/nxczje/froxy | 0 | 0| 
+| 20231114T02:40:38Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 2325 | 265| 
 | 20231114T02:01:39Z | Null | https://github.com/Lizdiaz1/fuzzy-dollopauthme | 1 | 0| 
 | 20231113T23:52:41Z | Null | https://github.com/bytemare/fuzzing | 0 | 0| 
-| 20231113T21:18:18Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9159 | 2037| 
-| 20231113T13:54:11Z | Null | https://github.com/KrystalRay/AFL-Fuzzing | 0 | 0| 
-| 20231113T13:41:55Z | Null | https://github.com/555krhariharan555/Fuzz_MAXX | 0 | 0| 
-| 20231113T13:18:29Z | Null | https://github.com/nenengintan/fuzzy-ssistem | 0 | 0| 
-| 20231113T13:13:08Z | A helper library to provide Fuzzy search in Sqlite Database | https://github.com/fcat97/fuzzyble-java | 0 | 0| 
-| 20231113T13:13:06Z | benchmark for evaluating seed selection | https://github.com/kdsjZh/FishFuzz-Seed-eval | 0 | 0| 
-| 20231113T13:10:49Z | Null | https://github.com/IndraBagus0/Water-Quality-For-Koi-Fish-Using-fuzzy-Mamdani | 0 | 0| 
 
 
 
