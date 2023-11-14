@@ -123,6 +123,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231114T13:26:10Z | Fuzzy Matching Library for Rust | https://github.com/lotabout/fuzzy-matcher | 212 | 14| 
 | 20231114T12:28:02Z | Null | https://github.com/https-oss-com/fuzzy-octo-bassoon | 0 | 0| 
 | 20231114T11:46:15Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9161 | 2038| 
 | 20231114T11:11:04Z | Null | https://github.com/selmeg111/fuzzy-guacamole | 0 | 0| 
@@ -132,7 +133,6 @@
 | 20231114T03:36:56Z | Upstream Proxy Burp for fuzzing | https://github.com/nxczje/froxy | 0 | 0| 
 | 20231114T02:40:38Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 2325 | 265| 
 | 20231114T02:01:39Z | Null | https://github.com/Lizdiaz1/fuzzy-dollopauthme | 1 | 0| 
-| 20231113T23:52:41Z | Null | https://github.com/bytemare/fuzzing | 0 | 0| 
 
 
 

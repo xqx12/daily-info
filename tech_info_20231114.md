@@ -83,6 +83,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231114T13:26:10Z | Fuzzy Matching Library for Rust | https://github.com/lotabout/fuzzy-matcher | 212 | 14| 
 | 20231114T12:28:02Z | Null | https://github.com/https-oss-com/fuzzy-octo-bassoon | 0 | 0| 
 | 20231114T11:46:15Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9161 | 2038| 
 | 20231114T11:11:04Z | Null | https://github.com/selmeg111/fuzzy-guacamole | 0 | 0| 
