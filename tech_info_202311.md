@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231114T01:48:29Z | CVE-2021-23017 | PoC for Nginx 0.6.18 - 1.20.0 Memory Overwrite Vulnerability CVE-2021-23017 | https://github.com/M507/CVE-2021-23017-PoC | | 
 | 20231113T21:44:43Z | CVE-2022-45059 | Null | https://github.com/martinvks/CVE-2022-45059-poc | | 
 | 20231113T20:42:27Z | CVE-2023-22518 | Improper Authorization Vulnerability in Confluence Data Center and Server + bonus 🔥 | https://github.com/ForceFledgling/CVE-2023-22518 | | 
 | 20231113T17:27:18Z | cve-2023-5965 | Null | https://github.com/pedrojosenavasperez/cve-2023-5965 | | 
@@ -35,7 +36,6 @@
 | 20231113T12:59:12Z | CVE-2023-5360 | CVE-2023-5360 Exploit/POC | https://github.com/1337r0j4n/CVE-2023-5360 | | 
 | 20231113T12:56:26Z | CVE-2022-24227 | CVE-2022-24227 [Updated]: BoltWire v8.00 vulnerable to "Stored Cross-site Scripting (XSS)" | https://github.com/Cyber-Wo0dy/CVE-2022-24227-updated | | 
 | 20231113T12:25:09Z | CVE-2023-47129 | Statamic CMS versions <4.33.0 vulnerable to "Remote Code Execution"  | https://github.com/Cyber-Wo0dy/CVE-2023-47129 | | 
-| 20231113T10:50:26Z | CVE-2023-47529 | Cloud Templates & Patterns collection <= 1.2.2 - Sensitive Information Exposure via Log File | https://github.com/RandomRobbieBF/CVE-2023-47529 | | 
 
 
 # klee on Github 推荐
