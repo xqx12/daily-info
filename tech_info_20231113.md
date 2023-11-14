@@ -75,6 +75,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231113T19:37:15Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2359 | 639| 
+| 20231113T15:28:32Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 707 | 125| 
 
 
 # big4 on Github 推荐
