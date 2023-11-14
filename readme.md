@@ -59,7 +59,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231114T13:01:21Z | A compact toolbox for backdoor attacks and defenses. | https://github.com/vtu81/backdoor-toolbox | 62 | 6| 
+| 20231114T13:15:40Z | A compact toolbox for backdoor attacks and defenses. | https://github.com/vtu81/backdoor-toolbox | 63 | 6| 
 | 20231114T12:17:48Z | Tool to scan hikvision cameras and identify vulnrable devices | https://github.com/millersartin/Hikvision-Vulnerability-Scanner-POC | 31 | 6| 
 | 20231114T11:49:42Z | Proof-of-Concept Backdoored/Exploit plugin for minecraft paper 1.20.2+ | https://github.com/maxbossing/PoisonedPlugin | 0 | 0| 
 | 20231114T11:41:20Z | Null | https://github.com/BackDoor-TR/backdoorddos-v2 | 0 | 0| 
