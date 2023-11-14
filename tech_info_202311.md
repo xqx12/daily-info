@@ -123,6 +123,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231114T01:31:32Z | Null | https://github.com/Lizdiaz1/fuzzy-dollopauthme | 0 | 0| 
 | 20231113T23:52:41Z | Null | https://github.com/bytemare/fuzzing | 0 | 0| 
 | 20231113T21:18:18Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9159 | 2037| 
 | 20231113T13:54:11Z | Null | https://github.com/KrystalRay/AFL-Fuzzing | 0 | 0| 
@@ -132,7 +133,6 @@
 | 20231113T13:13:06Z | benchmark for evaluating seed selection | https://github.com/kdsjZh/FishFuzz-Seed-eval | 0 | 0| 
 | 20231113T13:10:49Z | Null | https://github.com/IndraBagus0/Water-Quality-For-Koi-Fish-Using-fuzzy-Mamdani | 0 | 0| 
 | 20231113T12:38:30Z | This is a Fuzzer | https://github.com/przybylak1995/FuzzyCooper | 0 | 0| 
-| 20231113T10:41:12Z | Null | https://github.com/rivanalamsyah/Clasification-Fuzzy | 0 | 0| 
 
 
 
