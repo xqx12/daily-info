@@ -123,7 +123,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231114T01:31:32Z | Null | https://github.com/Lizdiaz1/fuzzy-dollopauthme | 0 | 0| 
+| 20231114T02:01:39Z | Null | https://github.com/Lizdiaz1/fuzzy-dollopauthme | 1 | 0| 
 | 20231113T23:52:41Z | Null | https://github.com/bytemare/fuzzing | 0 | 0| 
 | 20231113T21:18:18Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9159 | 2037| 
 | 20231113T13:54:11Z | Null | https://github.com/KrystalRay/AFL-Fuzzing | 0 | 0| 
