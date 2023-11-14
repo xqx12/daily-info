@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231114T02:45:26Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 754 | 182| 
 | 20231114T02:41:37Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5650 | 764| 
 | 20231114T00:34:41Z | Null | https://github.com/404Felipe/exploit-di | 0 | 0| 
 | 20231114T00:10:53Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-jg | 1 | 0| 
@@ -75,7 +76,6 @@
 | 20231113T12:59:12Z | CVE-2023-5360 Exploit/POC | https://github.com/1337r0j4n/CVE-2023-5360 | 0 | 0| 
 | 20231113T12:24:03Z | Null | https://github.com/vulsio/vuls-data-raw-exploit-trickest | 0 | 0| 
 | 20231113T12:23:48Z | Null | https://github.com/vulsio/vuls-data-raw-exploit-inthewild | 0 | 0| 
-| 20231113T12:23:36Z | Null | https://github.com/vulsio/vuls-data-raw-exploit-github | 0 | 0| 
 
 
 # backdoor on Github 推荐
