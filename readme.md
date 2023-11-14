@@ -48,12 +48,12 @@
 | 20231114T13:07:38Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5661 | 716| 
 | 20231114T13:02:07Z | Script generation for penetration testing involves the creation of automated scripts or code snippets that simulate attacks or exploit vulnerabilities in a target system or network. These scripts are designed to mimic real-world attack scenarios and assist penetration testers in assessing the security of the target environment. | https://github.com/mohamedz1000rr/Script-Generation-for-Penetration-Testing-using-Artificial-Intelligence | 0 | 0| 
 | 20231114T12:52:16Z | A collection of ChromeOS exploits free for the public | https://github.com/3kh0/ext-remover | 283 | 301| 
+| 20231114T12:29:57Z | An extension to make the browsing experience in the Skiovox exploit smoother. | https://github.com/bypassiwastaken/skiovox-helper | 7 | 6| 
 | 20231114T12:17:48Z | Tool to scan hikvision cameras and identify vulnrable devices | https://github.com/millersartin/Hikvision-Vulnerability-Scanner-POC | 31 | 6| 
 | 20231114T12:12:08Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5486 | 1067| 
 | 20231114T11:49:42Z | Proof-of-Concept Backdoored/Exploit plugin for minecraft paper 1.20.2+ | https://github.com/maxbossing/PoisonedPlugin | 0 | 0| 
 | 20231114T11:34:42Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-golang-nested-DSwQU-exploit-identify | 0 | 0| 
 | 20231114T10:31:26Z | Security and Hacking Tools, Exploits, Proof of Concepts, Shellcodes, Scripts. | https://github.com/nullsecuritynet/tools | 1 | 0| 
-| 20231114T10:11:58Z | Null | https://github.com/dorian33160/Linux-Kernel-4.4.0-21_EXPLOIT | 0 | 0| 
 
 
 # backdoor on Github 推荐
