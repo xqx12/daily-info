@@ -123,6 +123,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231114T02:37:39Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 2324 | 266| 
 | 20231114T02:01:39Z | Null | https://github.com/Lizdiaz1/fuzzy-dollopauthme | 1 | 0| 
 | 20231113T23:52:41Z | Null | https://github.com/bytemare/fuzzing | 0 | 0| 
 | 20231113T21:18:18Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9159 | 2037| 
@@ -132,7 +133,6 @@
 | 20231113T13:13:08Z | A helper library to provide Fuzzy search in Sqlite Database | https://github.com/fcat97/fuzzyble-java | 0 | 0| 
 | 20231113T13:13:06Z | benchmark for evaluating seed selection | https://github.com/kdsjZh/FishFuzz-Seed-eval | 0 | 0| 
 | 20231113T13:10:49Z | Null | https://github.com/IndraBagus0/Water-Quality-For-Koi-Fish-Using-fuzzy-Mamdani | 0 | 0| 
-| 20231113T12:38:30Z | This is a Fuzzer | https://github.com/przybylak1995/FuzzyCooper | 0 | 0| 
 
 
 
