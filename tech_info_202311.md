@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231114T13:02:07Z | Script generation for penetration testing involves the creation of automated scripts or code snippets that simulate attacks or exploit vulnerabilities in a target system or network. These scripts are designed to mimic real-world attack scenarios and assist penetration testers in assessing the security of the target environment. | https://github.com/mohamedz1000rr/Script-Generation-for-Penetration-Testing-using-Artificial-Intelligence | 0 | 0| 
 | 20231114T12:52:16Z | A collection of ChromeOS exploits free for the public | https://github.com/3kh0/ext-remover | 283 | 301| 
 | 20231114T12:17:48Z | Tool to scan hikvision cameras and identify vulnrable devices | https://github.com/millersartin/Hikvision-Vulnerability-Scanner-POC | 31 | 6| 
 | 20231114T12:12:08Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5486 | 1067| 
@@ -75,13 +76,12 @@
 | 20231114T10:11:58Z | Null | https://github.com/dorian33160/Linux-Kernel-4.4.0-21_EXPLOIT | 0 | 0| 
 | 20231114T10:07:25Z | Helper scripts for exploiting the Linux kernel | https://github.com/santaclz/linux-kernel-tools | 0 | 0| 
 | 20231114T06:43:23Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5660 | 716| 
-| 20231114T02:57:42Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 756 | 182| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231114T12:56:26Z | A compact toolbox for backdoor attacks and defenses. | https://github.com/vtu81/backdoor-toolbox | 61 | 6| 
+| 20231114T13:01:21Z | A compact toolbox for backdoor attacks and defenses. | https://github.com/vtu81/backdoor-toolbox | 62 | 6| 
 | 20231114T12:17:48Z | Tool to scan hikvision cameras and identify vulnrable devices | https://github.com/millersartin/Hikvision-Vulnerability-Scanner-POC | 31 | 6| 
 | 20231114T11:49:42Z | Proof-of-Concept Backdoored/Exploit plugin for minecraft paper 1.20.2+ | https://github.com/maxbossing/PoisonedPlugin | 0 | 0| 
 | 20231114T11:41:20Z | Null | https://github.com/BackDoor-TR/backdoorddos-v2 | 0 | 0| 
@@ -96,7 +96,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231113T19:37:15Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2359 | 639| 
+| 20231114T11:21:24Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2359 | 638| 
 | 20231113T15:28:32Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 707 | 125| 
 | 20231112T18:51:39Z | gradient-based symbolic execution engine implemented from scratch | https://github.com/Koukyosyumei/Gymbo | 20 | 0| 
 | 20231111T05:20:38Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 266 | 36| 
