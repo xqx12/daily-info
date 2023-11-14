@@ -45,7 +45,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231113T18:04:29Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5649 | 764| 
 | 20231113T12:59:12Z | CVE-2023-5360 Exploit/POC | https://github.com/1337r0j4n/CVE-2023-5360 | 0 | 0| 
 | 20231113T12:24:03Z | Null | https://github.com/vulsio/vuls-data-raw-exploit-trickest | 0 | 0| 
 | 20231113T12:23:48Z | Null | https://github.com/vulsio/vuls-data-raw-exploit-inthewild | 0 | 0| 
@@ -55,6 +54,7 @@
 | 20231113T11:33:41Z | Project Name : DevBlox  (releasing soon) | https://github.com/selecteduseromg343/roblox-uwp-latest-version-checker-for-exploiters- | 0 | 0| 
 | 20231113T11:25:54Z | Exploiting MyToll | https://github.com/mvknowles/MyToll | 0 | 0| 
 | 20231113T10:11:01Z | CLI tool to embed a ZIP file within a PNG image to create a tweetable and %executable% PNG-ZIP polyglot file. | https://github.com/CleasbyCode/pdvzip | 2 | 0| 
+| 20231113T08:17:33Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5654 | 716| 
 
 
 # backdoor on Github 推荐
