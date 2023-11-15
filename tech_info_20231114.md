@@ -17,7 +17,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231114T22:35:38Z | CVE-2023-32407 | Null | https://github.com/gergelykalman/CVE-2023-32407-a-macOS-TCC-bypass-in-Metal | | 
 | 20231114T22:02:19Z | CVE-2022-44268 | Null | https://github.com/NataliSemi/-CVE-2022-44268 | | 
 | 20231114T21:49:22Z | CVE-2023-31320 | DoS vulnerability in AMD driver that corrupts the display. | https://github.com/whypet/CVE-2023-31320 | | 
 | 20231114T17:13:18Z | CVE-2023-47488 | Null | https://github.com/nitipoom-jar/CVE-2023-47488 | | 
@@ -27,6 +26,7 @@
 | 20231114T16:51:45Z | CVE-2023-48199 | Null | https://github.com/nitipoom-jar/CVE-2023-48199 | | 
 | 20231114T16:45:56Z | CVE-2023-48198 | Null | https://github.com/nitipoom-jar/CVE-2023-48198 | | 
 | 20231114T16:35:24Z | CVE-2023-48197 | Null | https://github.com/nitipoom-jar/CVE-2023-48197 | | 
+| 20231114T10:03:13Z | CVE-2022-20338 | Null | https://github.com/Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338 | | 
 
 
 # klee on Github 推荐
