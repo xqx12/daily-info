@@ -70,7 +70,6 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231114T17:21:30Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2360 | 638| 
 | 20231114T14:54:42Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 67 | 28| 
 
 
