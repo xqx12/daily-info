@@ -96,7 +96,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231114T11:21:24Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2359 | 638| 
+| 20231114T17:21:30Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2360 | 638| 
+| 20231114T14:54:42Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 67 | 28| 
 | 20231113T15:28:32Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 707 | 125| 
 | 20231112T18:51:39Z | gradient-based symbolic execution engine implemented from scratch | https://github.com/Koukyosyumei/Gymbo | 20 | 0| 
 | 20231111T05:20:38Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 266 | 36| 
