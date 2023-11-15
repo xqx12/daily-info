@@ -33,7 +33,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20231114T17:54:10Z | Null | https://github.com/hoolisoftware/kleewish | 0 | 0| 
-| 20231114T17:21:30Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2360 | 638| 
 | 20231114T11:16:23Z | Config files for my GitHub profile. | https://github.com/Kleemuk/Kleemuk | 0 | 0| 
 
 
