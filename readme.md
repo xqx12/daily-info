@@ -46,7 +46,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20231114T23:50:02Z | Bookmarklet hacks, exploits, and games. Unblocked, in one place. | https://github.com/car-axle-client/car-axle-client | 17 | 12| 
-| 20231114T23:25:31Z | Android Remote Administration Tool. This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, Mac. | https://github.com/BlackHat-Sec/Android_Payload_JPG | 0 | 0| 
 | 20231114T23:03:25Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-qn | 1 | 0| 
 | 20231114T23:02:29Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-qn | 1 | 0| 
 | 20231114T23:01:36Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-qn | 1 | 0| 
@@ -55,12 +54,12 @@
 | 20231114T15:33:08Z | A Post-exploitation Toolset for Interacting with the Microsoft Graph API | https://github.com/dafthack/GraphRunner | 484 | 50| 
 | 20231114T13:10:26Z | GitOps Repository | https://github.com/redhat-appstudio-qe/integ-app-zycs-8PFA6-appear-exploit | 0 | 0| 
 | 20231114T13:07:38Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5661 | 716| 
+| 20231114T13:02:07Z | Script generation for penetration testing involves the creation of automated scripts or code snippets that simulate attacks or exploit vulnerabilities in a target system or network. These scripts are designed to mimic real-world attack scenarios and assist penetration testers in assessing the security of the target environment. | https://github.com/mohamedz1000rr/Script-Generation-for-Penetration-Testing-using-Artificial-Intelligence | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231114T23:25:31Z | Android Remote Administration Tool. This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, Mac. | https://github.com/BlackHat-Sec/Android_Payload_JPG | 0 | 0| 
 | 20231114T12:17:48Z | Tool to scan hikvision cameras and identify vulnrable devices | https://github.com/millersartin/Hikvision-Vulnerability-Scanner-POC | 31 | 6| 
 | 20231114T11:49:42Z | Proof-of-Concept Backdoored/Exploit plugin for minecraft paper 1.20.2+ | https://github.com/maxbossing/PoisonedPlugin | 0 | 0| 
 | 20231114T11:41:20Z | Null | https://github.com/BackDoor-TR/backdoorddos-v2 | 0 | 0| 
