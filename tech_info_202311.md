@@ -26,10 +26,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231115T13:39:41Z | CVE-2023-32407 | Null | https://github.com/gergelykalman/CVE-2023-32407-a-macOS-TCC-bypass-in-Metal | | 
 | 20231115T13:29:42Z | CVE-2023-36427 | Report and exploit of CVE-2023-36427 | https://github.com/tandasat/CVE-2023-36427 | | 
 | 20231115T12:36:49Z | CVE-2023-32629 | Ubuntu Privilege Escalation bash one-liner using CVE-2023-32629 & CVE-2023-2640 | https://github.com/ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation | | 
 | 20231115T12:29:03Z | CVE-2023-22518 | Improper Authorization Vulnerability in Confluence Data Center and Server + bonus 🔥 | https://github.com/ForceFledgling/CVE-2023-22518 | | 
-| 20231115T02:09:55Z | CVE-2023-32407 | Null | https://github.com/gergelykalman/CVE-2023-32407-a-macOS-TCC-bypass-in-Metal | | 
 | 20231114T22:02:19Z | CVE-2022-44268 | Null | https://github.com/NataliSemi/-CVE-2022-44268 | | 
 | 20231114T21:49:22Z | CVE-2023-31320 | DoS vulnerability in AMD driver that corrupts the display. | https://github.com/whypet/CVE-2023-31320 | | 
 | 20231114T17:13:18Z | CVE-2023-47488 | Null | https://github.com/nitipoom-jar/CVE-2023-47488 | | 
@@ -81,8 +81,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231115T13:30:57Z | A compact toolbox for backdoor attacks and defenses. | https://github.com/vtu81/backdoor-toolbox | 93 | 9| 
 | 20231115T12:29:03Z | Improper Authorization Vulnerability in Confluence Data Center and Server + bonus 🔥 | https://github.com/ForceFledgling/CVE-2023-22518 | 34 | 4| 
-| 20231115T12:17:08Z | A compact toolbox for backdoor attacks and defenses. | https://github.com/vtu81/backdoor-toolbox | 92 | 9| 
 | 20231115T08:43:50Z | This tool is used for backdoor,shellcode generation,Information retrieval and POC arrangement for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 153 | 28| 
 | 20231115T04:30:33Z | Android Remote Administration Tool. This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, Mac. | https://github.com/BlackHat-Sec/Android_Payload_JPG | 0 | 1| 
 | 20231114T12:17:48Z | Tool to scan hikvision cameras and identify vulnrable devices | https://github.com/millersartin/Hikvision-Vulnerability-Scanner-POC | 31 | 6| 
