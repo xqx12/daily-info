@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231115T13:51:56Z | CVE-2023-54436 | CVE-2023-54436 | https://github.com/NHPT/CVE-2023-54436 | | 
 | 20231115T13:39:41Z | CVE-2023-32407 | Null | https://github.com/gergelykalman/CVE-2023-32407-a-macOS-TCC-bypass-in-Metal | | 
 | 20231115T13:29:42Z | CVE-2023-36427 | Report and exploit of CVE-2023-36427 | https://github.com/tandasat/CVE-2023-36427 | | 
 | 20231115T12:36:49Z | CVE-2023-32629 | Ubuntu Privilege Escalation bash one-liner using CVE-2023-32629 & CVE-2023-2640 | https://github.com/ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation | | 
@@ -35,7 +36,6 @@
 | 20231114T17:13:18Z | CVE-2023-47488 | Null | https://github.com/nitipoom-jar/CVE-2023-47488 | | 
 | 20231114T17:05:55Z | CVE-2023-47489 | Null | https://github.com/nitipoom-jar/CVE-2023-47489 | | 
 | 20231114T17:02:57Z | CVE-2023-48200 | Null | https://github.com/nitipoom-jar/CVE-2023-48200 | | 
-| 20231114T17:01:21Z | cve-2023-36845 | Ansible Playbook for CVE-2023-36845 | https://github.com/ditekshen/ansible-cve-2023-36845 | | 
 
 
 # klee on Github 推荐

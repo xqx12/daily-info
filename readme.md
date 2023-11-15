@@ -16,6 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231115T13:51:56Z | CVE-2023-54436 | CVE-2023-54436 | https://github.com/NHPT/CVE-2023-54436 | | 
 | 20231115T13:39:41Z | CVE-2023-32407 | Null | https://github.com/gergelykalman/CVE-2023-32407-a-macOS-TCC-bypass-in-Metal | | 
 | 20231115T13:29:42Z | CVE-2023-36427 | Report and exploit of CVE-2023-36427 | https://github.com/tandasat/CVE-2023-36427 | | 
 | 20231115T12:36:49Z | CVE-2023-32629 | Ubuntu Privilege Escalation bash one-liner using CVE-2023-32629 & CVE-2023-2640 | https://github.com/ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation | | 
