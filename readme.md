@@ -16,7 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231115T12:52:52Z | CVE-2023-36427 | Report and exploit of CVE-2023-36427 | https://github.com/tandasat/CVE-2023-36427 | | 
+| 20231115T13:29:42Z | CVE-2023-36427 | Report and exploit of CVE-2023-36427 | https://github.com/tandasat/CVE-2023-36427 | | 
 | 20231115T12:36:49Z | CVE-2023-32629 | Ubuntu Privilege Escalation bash one-liner using CVE-2023-32629 & CVE-2023-2640 | https://github.com/ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation | | 
 | 20231115T12:29:03Z | CVE-2023-22518 | Improper Authorization Vulnerability in Confluence Data Center and Server + bonus 🔥 | https://github.com/ForceFledgling/CVE-2023-22518 | | 
 | 20231115T02:09:55Z | CVE-2023-32407 | Null | https://github.com/gergelykalman/CVE-2023-32407-a-macOS-TCC-bypass-in-Metal | | 
