@@ -69,7 +69,7 @@
 | 20231115T02:00:14Z | Android Remote Administration Tool. This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, Mac. | https://github.com/BlackHat-Sec/Android_Payload_JPG | 1 | 1| 
 | 20231115T01:55:03Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0085-app-vY9YI-exploit-reflect | 0 | 0| 
 | 20231115T01:43:54Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0016-app-aRPIo-exploit-fix | 0 | 0| 
-| 20231115T01:20:12Z | An extension to make the browsing experience in the Skiovox exploit smoother. | https://github.com/bypassiwastaken/skiovox-helper | 10 | 10| 
+| 20231115T01:20:12Z | An extension to make the browsing experience in the Skiovox exploit smoother. | https://github.com/bypassiwastaken/skiovox-helper | 10 | 11| 
 | 20231115T00:59:28Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0067-app-RjrAp-exploit-assume | 0 | 0| 
 | 20231115T00:58:53Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0058-app-a0g3q-open-exploit | 0 | 0| 
 | 20231114T23:50:02Z | Bookmarklet hacks, exploits, and games. Unblocked, in one place. | https://github.com/car-axle-client/car-axle-client | 17 | 12| 
