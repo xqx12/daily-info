@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231115T01:20:12Z | An extension to make the browsing experience in the Skiovox exploit smoother. | https://github.com/bypassiwastaken/skiovox-helper | 10 | 10| 
 | 20231115T00:59:28Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0067-app-RjrAp-exploit-assume | 0 | 0| 
 | 20231115T00:58:53Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0058-app-a0g3q-open-exploit | 0 | 0| 
 | 20231114T23:50:02Z | Bookmarklet hacks, exploits, and games. Unblocked, in one place. | https://github.com/car-axle-client/car-axle-client | 17 | 12| 
@@ -75,7 +76,6 @@
 | 20231114T23:01:36Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-qn | 1 | 0| 
 | 20231114T23:00:27Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ga | 1 | 0| 
 | 20231114T16:45:00Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5488 | 1067| 
-| 20231114T15:33:08Z | A Post-exploitation Toolset for Interacting with the Microsoft Graph API | https://github.com/dafthack/GraphRunner | 484 | 50| 
 
 
 # backdoor on Github 推荐
