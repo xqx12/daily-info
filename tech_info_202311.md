@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231115T01:43:54Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0016-app-aRPIo-exploit-fix | 0 | 0| 
 | 20231115T01:38:59Z | Android Remote Administration Tool. This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, Mac. | https://github.com/BlackHat-Sec/Android_Payload_JPG | 2 | 1| 
 | 20231115T01:20:12Z | An extension to make the browsing experience in the Skiovox exploit smoother. | https://github.com/bypassiwastaken/skiovox-helper | 10 | 10| 
 | 20231115T00:59:28Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0067-app-RjrAp-exploit-assume | 0 | 0| 
@@ -75,7 +76,6 @@
 | 20231114T23:02:29Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-qn | 1 | 0| 
 | 20231114T23:01:36Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-qn | 1 | 0| 
 | 20231114T23:00:27Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ga | 1 | 0| 
-| 20231114T16:45:00Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5488 | 1067| 
 
 
 # backdoor on Github 推荐
