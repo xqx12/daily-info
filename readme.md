@@ -36,6 +36,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231115T13:16:08Z | I found a hack that could change securly. (only for securly) | https://github.com/coolbro12371/School-Hacks-check-desc | 0 | 0| 
 | 20231115T13:06:59Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-f19915d1-ef72-45cf-87f2-8c20716442f8-hCIvg-exploit-generate | 0 | 0| 
 | 20231115T12:03:14Z | This is a host for the PS5 exploit this is meant to run on an ESP32 | https://github.com/sanderbk/PS5_EXPLOITHOST | 0 | 0| 
 | 20231115T11:33:00Z | exploit all target dirs & get dir with response code 200 | https://github.com/cyraxabir/url_response | 0 | 0| 
@@ -45,7 +46,6 @@
 | 20231115T08:03:28Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 757 | 182| 
 | 20231115T02:00:14Z | Android Remote Administration Tool. This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, Mac. | https://github.com/BlackHat-Sec/Android_Payload_JPG | 1 | 1| 
 | 20231115T01:55:03Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0085-app-vY9YI-exploit-reflect | 0 | 0| 
-| 20231115T01:43:54Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0016-app-aRPIo-exploit-fix | 0 | 0| 
 
 
 # backdoor on Github 推荐
