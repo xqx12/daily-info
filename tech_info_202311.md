@@ -11,6 +11,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20231116 | 美国爱因斯坦计划跟踪与解读（2023版） | https://mp.weixin.qq.com/s/zvgOqgGqmdO4BvYsFzDTGw| 
+| 20231116 | Nemesis：蓝军攻击数据协同平台化实践 | https://mp.weixin.qq.com/s/4D2slrxd7t1JnPpJY6CO7g| 
 | 20231115 | 基于大语言模型的零样本漏洞修复研究 | https://mp.weixin.qq.com/s/Oc5WLqXBF_AvI6HAwZKPgA| 
 | 20231114 | 深度剖析GadgetInspector执行逻辑(上) | https://www.sec-in.com/article/2069| 
 | 20231113 | machine unlearning中的灾难遗忘问题的研究 | https://mp.weixin.qq.com/s/fBYXwkg9Tm1uVc8ZmIViRQ| 
@@ -19,34 +21,32 @@
 | 20231111 | 幻觉解决常见方法合集 | https://mp.weixin.qq.com/s/_l9WfUZmQKLmK9Zr6E7ZWw| 
 | 20231111 | 利用LangChain和Neo4j向量索引，构建一个RAG应用程序 | https://mp.weixin.qq.com/s/2OTfM-Agr7hWg-JYY3aIXg| 
 | 20231109 | 攻击检测自动溯源分析技战法 | https://mp.weixin.qq.com/s/mQo36_BjyM10ObMfcvpFig| 
-| 20231109 | 面向Java开源生态系统的跨项目漏洞安全威胁分析 | https://mp.weixin.qq.com/s/j583ttj0Lv-IdaY1N_KL5g| 
-| 20231109 | Prompt的科学范式（上篇） | https://mp.weixin.qq.com/s/3BHcqTDIJyrvMVdAkm0yhQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231116T12:23:24Z | CVE-2023-36427 | Report and exploit of CVE-2023-36427 | https://github.com/tandasat/CVE-2023-36427 | | 
+| 20231116T11:37:54Z | CVE-2023-6063 | CVE-2023-6063 (WP Fastest Cache < 1.2.2 - UnAuth SQL Injection) | https://github.com/motikan2010/CVE-2023-6063-PoC | | 
+| 20231116T07:19:45Z | CVE-2021-28165 | Null | https://github.com/hshivhare67/Jetty_v9.4.31_CVE-2021-28165 | | 
+| 20231116T06:48:43Z | CVE-2020-27223 | Null | https://github.com/hshivhare67/Jetty_v9.4.31_CVE-2020-27223 | | 
+| 20231116T06:25:42Z | CVE-2020-27223 | Null | https://github.com/hshivhare67/Jetty_v9.4.31_CVE-2020-27223_beforepatch | | 
 | 20231116T02:40:40Z | CVE-2023-32629 | Ubuntu Privilege Escalation bash one-liner using CVE-2023-32629 & CVE-2023-2640 | https://github.com/ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation | | 
 | 20231116T02:38:04Z | CVE-2023-46604 | CVE-2023-46604环境复现包 | https://github.com/LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_Recurrence | | 
 | 20231116T02:36:34Z | CVE-2023-22518 | Improper Authorization Vulnerability in Confluence Data Center and Server + bonus 🔥 | https://github.com/ForceFledgling/CVE-2023-22518 | | 
-| 20231116T02:34:48Z | CVE-2023-36427 | Report and exploit of CVE-2023-36427 | https://github.com/tandasat/CVE-2023-36427 | | 
 | 20231115T21:43:13Z | CVE-2023-39539 | PoC for CVE-2023-39539 in Cacti 1.2.22 | https://github.com/AdamWen230/CVE-2023-39539-PoC | | 
 | 20231115T20:53:33Z | CVE-2021-38297 | Working in Progress POC for CVE2021-38297 | https://github.com/gkrishnan724/CVE-2021-38297 | | 
-| 20231115T19:48:45Z | CVE-2023-32422 | Null | https://github.com/gergelykalman/CVE-2023-32422-a-macOS-TCC-bypass-in-sqlite | | 
-| 20231115T19:11:02Z | CVE-2023-46604 | POC repo for CVE-2023-46604 | https://github.com/vjayant93/CVE-2023-46604-POC | | 
-| 20231115T18:49:58Z | CVE-2022-29469 | Null | https://github.com/S4muraiMelayu1337/CVE-2022-29469 | | 
-| 20231115T18:25:51Z | CVE-2023-31320 | DoS vulnerability in AMD driver that corrupts the display. | https://github.com/whypet/CVE-2023-31320 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231116T02:06:16Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14332 | 430| 
+| 20231116T08:48:49Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14340 | 431| 
+| 20231116T07:28:10Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 382 | 8| 
 | 20231115T15:25:46Z | Null | https://github.com/Yudongok/Kleenex | 0 | 0| 
 | 20231115T02:09:25Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2361 | 638| 
 | 20231114T17:54:10Z | Null | https://github.com/hoolisoftware/kleewish | 0 | 0| 
 | 20231114T11:16:23Z | Config files for my GitHub profile. | https://github.com/Kleemuk/Kleemuk | 0 | 0| 
-| 20231114T10:19:52Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 381 | 8| 
 | 20231112T17:00:45Z | My personal repository | https://github.com/kleeon0/kleeon0 | 0 | 0| 
 | 20231111T18:00:07Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 32 | 2| 
 | 20231111T16:49:58Z | Ansel Klee a porfolio website build using HTML5, CSS3, SCSS, and JavaScript | https://github.com/Rasan3-1416/Ansel-Klee | 0 | 0| 
@@ -66,31 +66,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231116T12:26:58Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5669 | 715| 
+| 20231116T12:06:05Z | The Metasploit Exploitation - EternalBlue SMB Exploit module within the Metasploit framework enables security professionals and researchers to test the vulnerability and assess its impact on target systems. This module can also be used to develop custom payloads and exploit techniques for further research and analysis. | https://github.com/AnamolZ/Exploitation | 0 | 0| 
+| 20231116T10:11:38Z | Fixed exploit for THM Simple CTF | https://github.com/GolotaRoman91/exploit_for_THM_Simple_CTF | 0 | 0| 
+| 20231116T09:20:57Z | 𓃌 -  Exploit faster with simplicity and ease using Axer | https://github.com/0romos/Axer | 5 | 2| 
+| 20231116T07:57:26Z | Crack the code! Unveil vulnerabilities, exploits, and defenses with VulnInsights. Dive into secure coding practices. | https://github.com/D4mianWayne/VulnInsights | 0 | 0| 
+| 20231116T07:21:28Z | CLI tool to embed small files (e.g. %workflow.json%) within a JPG image to create a tweetable JPG-ZIP polyglot file. | https://github.com/CleasbyCode/jzp | 3 | 0| 
+| 20231116T04:55:05Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5492 | 1067| 
 | 20231116T02:55:32Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0110-0042-app-VU8Wt-sign-exploit | 0 | 0| 
 | 20231116T02:25:51Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0120-0018-app-ZOVcg-exploit-aim | 0 | 0| 
 | 20231116T02:20:10Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0025-app-8AVxe-exploit-excuse | 0 | 0| 
-| 20231116T01:58:34Z | XSS AND AUTHORIZATION In this session we cover cross-site scripting, very common vulnerabilities, as well as authorization failures.  What to learn XSS (Cross Site Scripting) XSS type Saved Reflected DOM Detection Exploitation Mitigation Bypass authorization and forced browsing Detection Exploitation Mitigation | https://github.com/axlywb/web-hacking-vulnerability-lesson | 0 | 0| 
-| 20231116T01:39:17Z | 𓃌 -  Exploit faster with simplicity and ease using Axer | https://github.com/0romos/Axer | 4 | 2| 
-| 20231116T00:56:58Z | Null | https://github.com/msolimann2cs/R3nd3zv0us_Exploit.sh | 0 | 0| 
-| 20231116T00:22:33Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-pg | 1 | 0| 
-| 20231116T00:21:42Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-pg | 1 | 0| 
-| 20231116T00:21:00Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-pg | 1 | 0| 
-| 20231116T00:20:08Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-pg | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231116T09:32:46Z | A compact toolbox for backdoor attacks and defenses. | https://github.com/vtu81/backdoor-toolbox | 95 | 9| 
+| 20231116T04:46:41Z | Null | https://github.com/Simba-brother/backdoor_detect | 0 | 0| 
+| 20231116T03:56:44Z | Shell Bypass free , Backdoor Free | https://github.com/Mr-7Mind/MiniShell | 33 | 8| 
 | 20231116T02:36:34Z | Improper Authorization Vulnerability in Confluence Data Center and Server + bonus 🔥 | https://github.com/ForceFledgling/CVE-2023-22518 | 35 | 4| 
 | 20231116T02:32:36Z | Various Backdoors and Breaches Scenarios | https://github.com/cybera/BandBCampaigns | 1 | 0| 
 | 20231116T00:11:33Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 144 | 24| 
 | 20231115T22:36:46Z | Null | https://github.com/GaussKd0/BackDoorC2C | 0 | 0| 
-| 20231115T21:19:23Z | A compact toolbox for backdoor attacks and defenses. | https://github.com/vtu81/backdoor-toolbox | 94 | 9| 
 | 20231115T19:39:19Z | Python Remote Administrations Tools for Windows | https://github.com/reztdev/pyRAT | 2 | 5| 
 | 20231115T17:40:28Z | Null | https://github.com/vyass612/prov-def-backdoor-reimp | 0 | 0| 
 | 20231115T15:35:03Z | A tool for remotely control the android device | https://github.com/VexenaRat/Vexena-Android-Rat | 3 | 0| 
-| 20231115T08:43:50Z | This tool is used for backdoor,shellcode generation,Information retrieval and POC arrangement for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 153 | 28| 
-| 20231115T04:30:33Z | Android Remote Administration Tool. This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, Mac. | https://github.com/BlackHat-Sec/Android_Payload_JPG | 0 | 1| 
 
 
 # symbolic execution on Github 推荐
@@ -111,6 +111,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231116T05:32:34Z | Null | https://github.com/marikrishnan04/ndssd | 0 | 0| 
 | 20231114T07:57:07Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 89 | 4| 
 | 20231111T13:11:57Z | Source code for the paper %SLMIA-SR: Speaker-Level Membership Inference Attacks against Speaker Recognition Systems% accepted by NDSS 2024 | https://github.com/S3L-official/SLMIA-SR | 3 | 0| 
 | 20231110T07:30:25Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 33 | 6| 
@@ -125,16 +126,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231116T12:51:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9166 | 2038| 
+| 20231116T12:50:23Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5119 | 550| 
+| 20231116T10:13:05Z | EUBA project for representing Fuzzy sets in python | https://github.com/PeterBednarik/fuzzySets | 0 | 0| 
+| 20231116T10:05:03Z | A project for fuzzing HTTP/1.1 CL.0 Request Smuggling Attack Vectors | https://github.com/Moopinger/CLZero | 2 | 0| 
+| 20231116T07:38:18Z | Null | https://github.com/DerekDang05/fuzzy-goggles | 0 | 0| 
 | 20231116T02:38:58Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4087 | 832| 
 | 20231116T02:27:41Z | kubernets deployment to cloud comp course | https://github.com/lcharles123/fuzzy-umbrella | 0 | 0| 
 | 20231116T01:46:38Z | Null | https://github.com/sarvasvkulpati/FuzzyReverseIndex | 0 | 0| 
+| 20231116T01:12:22Z | ICSE%23 - CoFuzz: Coordinated hybrid fuzzing framework with advanced coordination mode | https://github.com/Tricker-z/CoFuzz | 33 | 4| 
 | 20231115T22:28:54Z | Null | https://github.com/google/fuzztest | 457 | 38| 
-| 20231115T21:46:12Z | Null | https://github.com/PeterBfT/fuzzy-octo-spoon | 0 | 0| 
-| 20231115T21:40:57Z | Null | https://github.com/khmeca/fuzzy-pancake | 0 | 0| 
-| 20231115T20:55:21Z | Null | https://github.com/Sebas03R/Fuzzy-Dice | 0 | 0| 
-| 20231115T20:41:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9165 | 2038| 
-| 20231115T13:51:52Z | Null | https://github.com/nai907/fuzzy-robot | 0 | 0| 
-| 20231115T13:01:15Z | Automated SC-MCC Test Case Generation using Coverage Guided Fuzzing | https://github.com/Monika-rani12/SC-MCC-AFL | 0 | 0| 
 
 
 
