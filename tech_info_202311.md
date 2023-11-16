@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231116T13:52:25Z | CVE-2023-36427 | Report and exploit of CVE-2023-36427 | https://github.com/tandasat/CVE-2023-36427 | | 
+| 20231116T13:55:30Z | CVE-2023-36427 | Report and exploit of CVE-2023-36427 | https://github.com/tandasat/CVE-2023-36427 | | 
 | 20231116T11:37:54Z | CVE-2023-6063 | CVE-2023-6063 (WP Fastest Cache < 1.2.2 - UnAuth SQL Injection) | https://github.com/motikan2010/CVE-2023-6063-PoC | | 
 | 20231116T07:19:45Z | CVE-2021-28165 | Null | https://github.com/hshivhare67/Jetty_v9.4.31_CVE-2021-28165 | | 
 | 20231116T06:48:43Z | CVE-2020-27223 | Null | https://github.com/hshivhare67/Jetty_v9.4.31_CVE-2020-27223 | | 
