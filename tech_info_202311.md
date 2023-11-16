@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231116T02:55:32Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0110-0042-app-VU8Wt-sign-exploit | 0 | 0| 
 | 20231116T02:25:51Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0120-0018-app-ZOVcg-exploit-aim | 0 | 0| 
 | 20231116T02:20:10Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0025-app-8AVxe-exploit-excuse | 0 | 0| 
 | 20231116T01:58:34Z | XSS AND AUTHORIZATION In this session we cover cross-site scripting, very common vulnerabilities, as well as authorization failures.  What to learn XSS (Cross Site Scripting) XSS type Saved Reflected DOM Detection Exploitation Mitigation Bypass authorization and forced browsing Detection Exploitation Mitigation | https://github.com/axlywb/web-hacking-vulnerability-lesson | 0 | 0| 
@@ -75,7 +76,6 @@
 | 20231116T00:21:42Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-pg | 1 | 0| 
 | 20231116T00:21:00Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-pg | 1 | 0| 
 | 20231116T00:20:08Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-pg | 1 | 0| 
-| 20231116T00:14:57Z | A list of ways to get chatgpt to break the law | https://github.com/Original-2/ChatGPT-exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
