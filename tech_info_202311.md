@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231116T01:39:17Z | 𓃌 -  Exploit faster with simplicity and ease using Axer | https://github.com/0romos/Axer | 4 | 2| 
 | 20231116T00:56:58Z | Null | https://github.com/msolimann2cs/R3nd3zv0us_Exploit.sh | 0 | 0| 
 | 20231116T00:22:33Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-pg | 1 | 0| 
 | 20231116T00:21:42Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-pg | 1 | 0| 
@@ -75,7 +76,6 @@
 | 20231115T23:12:22Z | Null | https://github.com/JucaFrr/AbaExploits | 0 | 0| 
 | 20231115T22:48:02Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5491 | 1067| 
 | 20231115T15:08:15Z | 2023 Collaborative CS Cyber Game | https://github.com/paralinguist/Terminal-Exploit | 1 | 4| 
-| 20231115T13:16:08Z | I found a hack that could change securly. (only for securly) | https://github.com/coolbro12371/School-Hacks-check-desc | 0 | 0| 
 
 
 # backdoor on Github 推荐
