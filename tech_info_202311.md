@@ -26,8 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231116T01:25:22Z | CVE-2023-36427 | Report and exploit of CVE-2023-36427 | https://github.com/tandasat/CVE-2023-36427 | | 
 | 20231116T01:23:17Z | CVE-2023-32629 | Ubuntu Privilege Escalation bash one-liner using CVE-2023-32629 & CVE-2023-2640 | https://github.com/ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation | | 
-| 20231116T00:36:35Z | CVE-2023-36427 | Report and exploit of CVE-2023-36427 | https://github.com/tandasat/CVE-2023-36427 | | 
 | 20231115T21:43:13Z | CVE-2023-39539 | PoC for CVE-2023-39539 in Cacti 1.2.22 | https://github.com/AdamWen230/CVE-2023-39539-PoC | | 
 | 20231115T20:53:33Z | CVE-2021-38297 | Working in Progress POC for CVE2021-38297 | https://github.com/gkrishnan724/CVE-2021-38297 | | 
 | 20231115T19:48:45Z | CVE-2023-32422 | Null | https://github.com/gergelykalman/CVE-2023-32422-a-macOS-TCC-bypass-in-sqlite | | 
