@@ -81,14 +81,14 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231116T02:36:34Z | Improper Authorization Vulnerability in Confluence Data Center and Server + bonus 🔥 | https://github.com/ForceFledgling/CVE-2023-22518 | 35 | 4| 
+| 20231116T02:32:36Z | Various Backdoors and Breaches Scenarios | https://github.com/cybera/BandBCampaigns | 1 | 0| 
 | 20231116T00:11:33Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 144 | 24| 
 | 20231115T22:36:46Z | Null | https://github.com/GaussKd0/BackDoorC2C | 0 | 0| 
-| 20231115T21:49:41Z | Various Backdoors and Breaches Scenarios | https://github.com/cybera/BandBCampaigns | 0 | 0| 
 | 20231115T21:19:23Z | A compact toolbox for backdoor attacks and defenses. | https://github.com/vtu81/backdoor-toolbox | 94 | 9| 
 | 20231115T19:39:19Z | Python Remote Administrations Tools for Windows | https://github.com/reztdev/pyRAT | 2 | 5| 
 | 20231115T17:40:28Z | Null | https://github.com/vyass612/prov-def-backdoor-reimp | 0 | 0| 
 | 20231115T15:35:03Z | A tool for remotely control the android device | https://github.com/VexenaRat/Vexena-Android-Rat | 3 | 0| 
-| 20231115T12:29:03Z | Improper Authorization Vulnerability in Confluence Data Center and Server + bonus 🔥 | https://github.com/ForceFledgling/CVE-2023-22518 | 34 | 4| 
 | 20231115T08:43:50Z | This tool is used for backdoor,shellcode generation,Information retrieval and POC arrangement for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 153 | 28| 
 | 20231115T04:30:33Z | Android Remote Administration Tool. This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, Mac. | https://github.com/BlackHat-Sec/Android_Payload_JPG | 0 | 1| 
 
