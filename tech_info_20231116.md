@@ -80,6 +80,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231116T13:57:31Z | Null | https://github.com/gabrielarousseau/fuzzy-octo-dollop | 0 | 0| 
 | 20231116T12:51:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9166 | 2038| 
 | 20231116T12:50:23Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5119 | 550| 
 | 20231116T10:13:05Z | EUBA project for representing Fuzzy sets in python | https://github.com/PeterBednarik/fuzzySets | 0 | 0| 

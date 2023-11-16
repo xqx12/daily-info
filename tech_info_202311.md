@@ -126,6 +126,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231116T13:57:31Z | Null | https://github.com/gabrielarousseau/fuzzy-octo-dollop | 0 | 0| 
 | 20231116T12:51:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9166 | 2038| 
 | 20231116T12:50:23Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5119 | 550| 
 | 20231116T10:13:05Z | EUBA project for representing Fuzzy sets in python | https://github.com/PeterBednarik/fuzzySets | 0 | 0| 
@@ -135,7 +136,6 @@
 | 20231116T02:27:41Z | kubernets deployment to cloud comp course | https://github.com/lcharles123/fuzzy-umbrella | 0 | 0| 
 | 20231116T01:46:38Z | Null | https://github.com/sarvasvkulpati/FuzzyReverseIndex | 0 | 0| 
 | 20231116T01:12:22Z | ICSE%23 - CoFuzz: Coordinated hybrid fuzzing framework with advanced coordination mode | https://github.com/Tricker-z/CoFuzz | 33 | 4| 
-| 20231115T22:28:54Z | Null | https://github.com/google/fuzztest | 457 | 38| 
 
 
 
