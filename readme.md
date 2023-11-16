@@ -43,6 +43,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231116T13:24:05Z | GitOps Repository | https://github.com/redhat-appstudio-qe/build-suite-positive-mc-tkty-sy2NK-head-exploit | 0 | 0| 
 | 20231116T13:05:03Z | Null | https://github.com/mxdelta/WEB_EXPLOIT | 0 | 0| 
 | 20231116T12:26:58Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5669 | 715| 
 | 20231116T12:06:05Z | The Metasploit Exploitation - EternalBlue SMB Exploit module within the Metasploit framework enables security professionals and researchers to test the vulnerability and assess its impact on target systems. This module can also be used to develop custom payloads and exploit techniques for further research and analysis. | https://github.com/AnamolZ/Exploitation | 0 | 0| 
@@ -52,7 +53,6 @@
 | 20231116T07:21:28Z | CLI tool to embed small files (e.g. %workflow.json%) within a JPG image to create a tweetable JPG-ZIP polyglot file. | https://github.com/CleasbyCode/jzp | 3 | 0| 
 | 20231116T04:55:05Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5492 | 1067| 
 | 20231116T02:55:32Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0110-0042-app-VU8Wt-sign-exploit | 0 | 0| 
-| 20231116T02:25:51Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0120-0018-app-ZOVcg-exploit-aim | 0 | 0| 
 
 
 # backdoor on Github 推荐
