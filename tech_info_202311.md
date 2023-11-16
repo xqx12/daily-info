@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231116T02:20:10Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0025-app-8AVxe-exploit-excuse | 0 | 0| 
 | 20231116T01:58:34Z | XSS AND AUTHORIZATION In this session we cover cross-site scripting, very common vulnerabilities, as well as authorization failures.  What to learn XSS (Cross Site Scripting) XSS type Saved Reflected DOM Detection Exploitation Mitigation Bypass authorization and forced browsing Detection Exploitation Mitigation | https://github.com/axlywb/web-hacking-vulnerability-lesson | 0 | 0| 
 | 20231116T01:39:17Z | 𓃌 -  Exploit faster with simplicity and ease using Axer | https://github.com/0romos/Axer | 4 | 2| 
 | 20231116T00:56:58Z | Null | https://github.com/msolimann2cs/R3nd3zv0us_Exploit.sh | 0 | 0| 
@@ -75,7 +76,6 @@
 | 20231116T00:20:08Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-pg | 1 | 0| 
 | 20231116T00:14:57Z | A list of ways to get chatgpt to break the law | https://github.com/Original-2/ChatGPT-exploits | 0 | 0| 
 | 20231115T23:12:22Z | Null | https://github.com/JucaFrr/AbaExploits | 0 | 0| 
-| 20231115T22:48:02Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5491 | 1067| 
 
 
 # backdoor on Github 推荐
