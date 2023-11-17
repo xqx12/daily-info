@@ -16,9 +16,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231117T13:53:41Z | CVE-2023-47246 | exploit for cve-2023-47246 SysAid RCE (shell upload) | https://github.com/W01fh4cker/CVE-2023-47246-EXP | | 
 | 20231117T11:10:23Z | CVE-2023-4357 | Chrome任意文件读取漏洞POC | https://github.com/xcanwin/CVE-2023-4357-Chrome-LFI | | 
 | 20231117T09:50:21Z | CVE-2023-20932 | Null | https://github.com/nidhi7598/packages_apps_EmergencyInfo_AOSP_10_r33_CVE-2023-20932 | | 
-| 20231117T09:31:44Z | CVE-2023-47246 | exploit for cve-2023-47246 SysAid RCE (shell upload) | https://github.com/W01fh4cker/CVE-2023-47246-EXP | | 
 | 20231117T08:47:21Z | CVE-2021-35975 | Path Traversal Vulnerability in Systematica SMTP Adapter and other sub-products | https://github.com/fbkcs/CVE-2021-35975 | | 
 | 20231117T08:43:14Z | CVE-2020-24765 | Authentication Bypass Vulnerability in Mind Server. | https://github.com/fbkcs/CVE-2020-24765 | | 
 | 20231117T06:50:16Z | CVE-2023-44796 | CVE-2023-44796 | https://github.com/Hebing123/CVE-2023-44796 | | 
