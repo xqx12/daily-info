@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231116T23:26:38Z | CVE-2023-36427 | Report and exploit of CVE-2023-36427 | https://github.com/tandasat/CVE-2023-36427 | | 
+| 20231117T02:18:38Z | CVE-2023-36427 | Report and exploit of CVE-2023-36427 | https://github.com/tandasat/CVE-2023-36427 | | 
 | 20231116T20:25:12Z | CVE-2023-29489 | SynixCyberCrimeMY CVE-2023-29489 Scanner By SamuraiMelayu1337 & h4zzzzzz@scc | https://github.com/SynixCyberCrimeMy/CVE-2023-29489 | | 
 | 20231116T19:29:53Z | CVE-2023-48028 | Null | https://github.com/nitipoom-jar/CVE-2023-48028 | | 
 | 20231116T19:01:29Z | CVE-2023-48029 | Null | https://github.com/nitipoom-jar/CVE-2023-48029 | | 
