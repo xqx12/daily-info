@@ -81,6 +81,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231117T02:37:06Z | A python script that look for hikvision vulnerable cams with a backdoor | https://github.com/diego-tella/HikvisionIN | 2 | 0| 
 | 20231117T01:14:53Z | Browser Protector against various stealers, written in C# & C/C++. | https://github.com/AdvDebug/NoMoreCookies | 145 | 23| 
 | 20231116T20:59:25Z | I like cybersecurity, and these are my things. | https://github.com/backDOORtothefuture/backDOORtothefuture | 0 | 0| 
 | 20231116T16:43:47Z | Improper Authorization Vulnerability in Confluence Data Center and Server + bonus 🔥 | https://github.com/ForceFledgling/CVE-2023-22518 | 36 | 4| 
@@ -90,7 +91,6 @@
 | 20231116T02:32:36Z | Various Backdoors and Breaches Scenarios | https://github.com/cybera/BandBCampaigns | 1 | 0| 
 | 20231115T22:36:46Z | Null | https://github.com/GaussKd0/BackDoorC2C | 0 | 0| 
 | 20231115T19:39:19Z | Python Remote Administrations Tools for Windows | https://github.com/reztdev/pyRAT | 2 | 5| 
-| 20231115T17:40:28Z | Null | https://github.com/vyass612/prov-def-backdoor-reimp | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
