@@ -44,6 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231117T13:55:09Z | Use the script loadstring(game:HttpGet(%https://raw.githubusercontent.com/GlitchCode24/RobloxExploits/main/login%))() to use repository.  | https://github.com/GlitchCode24/RobloxExploits | 0 | 0| 
 | 20231117T13:32:07Z | Null | https://github.com/okaybro321/ValoxExploits | 0 | 0| 
 | 20231117T12:19:30Z | Null | https://github.com/okaybro321/VexonExploits | 0 | 0| 
 | 20231117T11:49:50Z | Silent Photos Exploit Builder is an antivirus evasion tool that can convert executables into undetectable jpg\png files. | https://github.com/SilentPulseDeveloper/Silent-Photos-Exploit-Builder-2023 | 0 | 0| 
@@ -53,7 +54,6 @@
 | 20231117T01:17:39Z | extension that restores some features for unblocking exploit | https://github.com/Chaos142/i-hate-frontend | 0 | 0| 
 | 20231117T00:57:43Z | A C# Roblox Exploiting API for the UWP distribution of the game. Its basically WeAreDevs API but it bypasses Byfron. | https://github.com/game-hax/Roblox-Exploit-API | 22 | 7| 
 | 20231117T00:50:18Z | A collection of real world AI/ML exploits for responsibly disclosed vulnerabilities  | https://github.com/protectai/ai-exploits | 128 | 0| 
-| 20231117T00:25:41Z | A collection of bypasses and exploits for eBPF-based cloud security. | https://github.com/Vali-Cyber/ebpf-attacks | 0 | 0| 
 
 
 # backdoor on Github 推荐
