@@ -131,11 +131,11 @@
 | 20231116T23:10:53Z | kjgyhy | https://github.com/trihasanah7/fuzzy-telegram | 0 | 0| 
 | 20231116T20:32:30Z | Rust implementation of fuzzy matching of sequences in FASTQ files | https://github.com/rnabioco/fuzzyfastq-rs | 0 | 0| 
 | 20231116T19:00:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9167 | 2040| 
+| 20231116T14:51:14Z | Null | https://github.com/google/fuzztest | 458 | 38| 
 | 20231116T13:57:31Z | Null | https://github.com/gabrielarousseau/fuzzy-octo-dollop | 0 | 0| 
 | 20231116T12:50:23Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5119 | 550| 
 | 20231116T10:13:05Z | EUBA project for representing Fuzzy sets in python | https://github.com/PeterBednarik/fuzzySets | 0 | 0| 
 | 20231116T10:05:03Z | A project for fuzzing HTTP/1.1 CL.0 Request Smuggling Attack Vectors | https://github.com/Moopinger/CLZero | 2 | 0| 
-| 20231116T07:38:18Z | Null | https://github.com/DerekDang05/fuzzy-goggles | 0 | 0| 
 
 
 
