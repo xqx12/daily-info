@@ -126,6 +126,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231117T02:10:51Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4910 | 1172| 
 | 20231117T00:56:18Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4088 | 835| 
 | 20231117T00:33:57Z | Null | https://github.com/HarryNguyen2023/STM32F103C8T6_Fuzzy_motor_speed | 0 | 0| 
 | 20231116T23:10:53Z | kjgyhy | https://github.com/trihasanah7/fuzzy-telegram | 0 | 0| 
@@ -135,7 +136,6 @@
 | 20231116T13:57:31Z | Null | https://github.com/gabrielarousseau/fuzzy-octo-dollop | 0 | 0| 
 | 20231116T12:50:23Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5119 | 550| 
 | 20231116T10:13:05Z | EUBA project for representing Fuzzy sets in python | https://github.com/PeterBednarik/fuzzySets | 0 | 0| 
-| 20231116T10:05:03Z | A project for fuzzing HTTP/1.1 CL.0 Request Smuggling Attack Vectors | https://github.com/Moopinger/CLZero | 2 | 0| 
 
 
 
