@@ -82,6 +82,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20231116T23:10:53Z | kjgyhy | https://github.com/trihasanah7/fuzzy-telegram | 0 | 0| 
+| 20231116T20:32:30Z | Rust implementation of fuzzy matching of sequences in FASTQ files | https://github.com/rnabioco/fuzzyfastq-rs | 0 | 0| 
 | 20231116T19:00:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9167 | 2040| 
 | 20231116T13:57:31Z | Null | https://github.com/gabrielarousseau/fuzzy-octo-dollop | 0 | 0| 
 | 20231116T12:50:23Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5119 | 550| 
@@ -90,7 +91,6 @@
 | 20231116T07:38:18Z | Null | https://github.com/DerekDang05/fuzzy-goggles | 0 | 0| 
 | 20231116T02:27:41Z | kubernets deployment to cloud comp course | https://github.com/lcharles123/fuzzy-umbrella | 0 | 0| 
 | 20231116T01:46:38Z | Null | https://github.com/sarvasvkulpati/FuzzyReverseIndex | 0 | 0| 
-| 20231116T01:12:22Z | ICSE%23 - CoFuzz: Coordinated hybrid fuzzing framework with advanced coordination mode | https://github.com/Tricker-z/CoFuzz | 33 | 4| 
 
 
 
