@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231117T01:22:15Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-847a9532-4976-4e74-8ac9-e55b2f076a48-Xdh5u-exploit-increase | 0 | 0| 
 | 20231117T01:17:39Z | extension that restores some features for unblocking exploit | https://github.com/Chaos142/i-hate-frontend | 0 | 0| 
 | 20231117T00:57:43Z | A C# Roblox Exploiting API for the UWP distribution of the game. Its basically WeAreDevs API but it bypasses Byfron. | https://github.com/game-hax/Roblox-Exploit-API | 22 | 7| 
 | 20231117T00:50:18Z | A collection of real world AI/ML exploits for responsibly disclosed vulnerabilities  | https://github.com/protectai/ai-exploits | 128 | 0| 
@@ -75,7 +76,6 @@
 | 20231117T00:14:13Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-pd | 1 | 0| 
 | 20231117T00:13:07Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-pd | 1 | 0| 
 | 20231116T14:35:42Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5493 | 1067| 
-| 20231116T13:24:05Z | GitOps Repository | https://github.com/redhat-appstudio-qe/build-suite-positive-mc-tkty-sy2NK-head-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
