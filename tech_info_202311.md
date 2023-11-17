@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231117T01:14:37Z | restores some broken features for kiosk mode exploit | https://github.com/Chaos142/i-hate-frontend | 0 | 0| 
 | 20231117T00:57:43Z | A C# Roblox Exploiting API for the UWP distribution of the game. Its basically WeAreDevs API but it bypasses Byfron. | https://github.com/game-hax/Roblox-Exploit-API | 22 | 7| 
 | 20231117T00:50:18Z | A collection of real world AI/ML exploits for responsibly disclosed vulnerabilities  | https://github.com/protectai/ai-exploits | 128 | 0| 
 | 20231117T00:25:41Z | A collection of bypasses and exploits for eBPF-based cloud security. | https://github.com/Vali-Cyber/ebpf-attacks | 0 | 0| 
@@ -75,7 +76,6 @@
 | 20231117T00:13:07Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-pd | 1 | 0| 
 | 20231116T14:35:42Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5493 | 1067| 
 | 20231116T13:24:05Z | GitOps Repository | https://github.com/redhat-appstudio-qe/build-suite-positive-mc-tkty-sy2NK-head-exploit | 0 | 0| 
-| 20231116T13:05:03Z | Null | https://github.com/mxdelta/WEB_EXPLOIT | 0 | 0| 
 
 
 # backdoor on Github 推荐
