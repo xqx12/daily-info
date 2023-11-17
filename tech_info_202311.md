@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231117T02:56:27Z | CVE-2023-48123 | CVE-2023-54436 Exp | https://github.com/NHPT/CVE-2023-48123 | | 
 | 20231117T02:18:38Z | CVE-2023-36427 | Report and exploit of CVE-2023-36427 | https://github.com/tandasat/CVE-2023-36427 | | 
 | 20231116T20:25:12Z | CVE-2023-29489 | SynixCyberCrimeMY CVE-2023-29489 Scanner By SamuraiMelayu1337 & h4zzzzzz@scc | https://github.com/SynixCyberCrimeMy/CVE-2023-29489 | | 
 | 20231116T19:29:53Z | CVE-2023-48028 | Null | https://github.com/nitipoom-jar/CVE-2023-48028 | | 
@@ -35,13 +36,12 @@
 | 20231116T17:55:22Z | CVE-2023-39539 | PoC for CVE-2023-39539 in Cacti 1.2.22 | https://github.com/AdamWen230/CVE-2023-39539-PoC | | 
 | 20231116T17:54:07Z | CVE-2023-6063 | CVE-2023-6063 (WP Fastest Cache < 1.2.2 - UnAuth SQL Injection) | https://github.com/thesafdari/CVE-2023-6063 | | 
 | 20231116T16:39:39Z | CVE-2023-20198 | CVE-2023-20198 Exploit PoC | https://github.com/smokeintheshell/CVE-2023-20198 | | 
-| 20231116T16:36:45Z | CVE-2023-6063 | Exploiting SQL Injection Vulnerability in WP Fastest Cache (CVE-2023-6063) | https://github.com/hackersroot/CVE-2023-6063-PoC | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231117T02:43:30Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14348 | 431| 
+| 20231117T02:57:08Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14349 | 431| 
 | 20231117T02:36:26Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 384 | 8| 
 | 20231116T14:45:23Z | Null | https://github.com/riesentoaster/klee-software-evolution | 0 | 0| 
 | 20231115T15:25:46Z | Null | https://github.com/Yudongok/Kleenex | 0 | 0| 
