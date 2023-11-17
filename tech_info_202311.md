@@ -66,7 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231117T01:14:37Z | restores some broken features for kiosk mode exploit | https://github.com/Chaos142/i-hate-frontend | 0 | 0| 
+| 20231117T01:17:39Z | extension that restores some features for unblocking exploit | https://github.com/Chaos142/i-hate-frontend | 0 | 0| 
 | 20231117T00:57:43Z | A C# Roblox Exploiting API for the UWP distribution of the game. Its basically WeAreDevs API but it bypasses Byfron. | https://github.com/game-hax/Roblox-Exploit-API | 22 | 7| 
 | 20231117T00:50:18Z | A collection of real world AI/ML exploits for responsibly disclosed vulnerabilities  | https://github.com/protectai/ai-exploits | 128 | 0| 
 | 20231117T00:25:41Z | A collection of bypasses and exploits for eBPF-based cloud security. | https://github.com/Vali-Cyber/ebpf-attacks | 0 | 0| 
