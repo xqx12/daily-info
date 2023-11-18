@@ -66,6 +66,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231118T02:04:28Z | Our team has developed an innovative AI Resume Analyzer that exploits the power of Large Language Models to revolutionize the job application process. This tool enables users to upload their resumes, select or input job descriptions, and receive personalized feedback on how well their profiles match desired positions. | https://github.com/Nekronos-SPN/ResuMasters | 0 | 0| 
+| 20231118T02:03:20Z | # CTF-Walkthroughs  This repository contains detailed walkthroughs of various Capture The Flag (CTF) challenges I%ve completed. It%s a resource for learning and improving cybersecurity skills, covering a range of topics from cryptography to web exploitation. Happy hacking! 🚩👨‍💻🔒 | https://github.com/akshatmehta56/VM-CTFs | 0 | 0| 
 | 20231118T00:47:25Z | Exploit | https://github.com/bestWebboy/brickplanet-exploit | 1 | 0| 
 | 20231117T23:59:34Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-y | 1 | 0| 
 | 20231117T23:58:17Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-yc | 0 | 0| 
@@ -74,8 +76,6 @@
 | 20231117T23:14:53Z | CTI (Cyber Thread Intelligence) Araştırmalarım #StopRansomware | https://github.com/alicangnll/CTI_Arastirmalarim | 2 | 0| 
 | 20231117T22:08:33Z | Null | https://github.com/beneggen2/Microsoft-exploits- | 0 | 0| 
 | 20231117T20:10:26Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 592 | 114| 
-| 20231117T13:55:09Z | Use the script loadstring(game:HttpGet(%https://raw.githubusercontent.com/GlitchCode24/RobloxExploits/main/login%))() to use repository.  | https://github.com/GlitchCode24/RobloxExploits | 0 | 0| 
-| 20231117T13:32:07Z | Null | https://github.com/okaybro321/ValoxExploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
