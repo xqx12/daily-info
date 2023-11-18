@@ -96,6 +96,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231118T01:55:25Z | A pedagogical CTF to teach symbolic execution with the angr toolset | https://github.com/branrickman/learn-angr | 0 | 0| 
 | 20231117T18:11:31Z | A mini symbolic execution engine for simple JavaScript programs | https://github.com/tkhang1999/mini-symex-js | 0 | 0| 
 | 20231117T14:24:59Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 709 | 126| 
 | 20231117T03:19:26Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2362 | 639| 
@@ -105,7 +106,6 @@
 | 20231114T14:54:42Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 67 | 28| 
 | 20231112T18:51:39Z | gradient-based symbolic execution engine implemented from scratch | https://github.com/Koukyosyumei/Gymbo | 20 | 0| 
 | 20231111T05:20:38Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 266 | 36| 
-| 20231108T22:52:26Z | Cairo/Starknet security toolkit (bytecode analyzer, disassembler, decompiler, symbolic execution, SBMC) | https://github.com/FuzzingLabs/thoth | 221 | 21| 
 
 
 # big4 on Github 推荐
