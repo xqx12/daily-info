@@ -126,6 +126,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231118T13:47:36Z | Null | https://github.com/erickfernandox/direction_fuzz | 0 | 0| 
 | 20231118T13:36:32Z | Null | https://github.com/rlnsanz/fuzzy-goggles | 0 | 0| 
 | 20231118T13:32:44Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9171 | 2040| 
 | 20231118T11:21:46Z | Advanced Time-based Blind SQL Injection fuzzer for HTTP Headers | https://github.com/danialhalo/SqliSniper | 0 | 0| 
@@ -135,7 +136,6 @@
 | 20231118T05:49:36Z | A project for fuzzing HTTP/1.1 CL.0 Request Smuggling Attack Vectors | https://github.com/Moopinger/CLZero | 6 | 0| 
 | 20231118T00:47:05Z | Null | https://github.com/Pranestya-GW/fuzzy_js | 0 | 0| 
 | 20231117T22:07:14Z | A fuzzy library for comparing strings | https://github.com/stablecaps/nim-fuzzy-duck-lib | 0 | 0| 
-| 20231117T21:33:29Z | Null | https://github.com/Eureka-Comm/FuzzyGP | 0 | 0| 
 
 
 

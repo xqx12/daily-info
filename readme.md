@@ -81,6 +81,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231118T13:47:36Z | Null | https://github.com/erickfernandox/direction_fuzz | 0 | 0| 
 | 20231118T13:36:32Z | Null | https://github.com/rlnsanz/fuzzy-goggles | 0 | 0| 
 | 20231118T13:32:44Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9171 | 2040| 
 | 20231118T11:21:46Z | Advanced Time-based Blind SQL Injection fuzzer for HTTP Headers | https://github.com/danialhalo/SqliSniper | 0 | 0| 
