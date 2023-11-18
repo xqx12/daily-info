@@ -66,7 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231118T02:04:28Z | Our team has developed an innovative AI Resume Analyzer that exploits the power of Large Language Models to revolutionize the job application process. This tool enables users to upload their resumes, select or input job descriptions, and receive personalized feedback on how well their profiles match desired positions. | https://github.com/Nekronos-SPN/ResuMasters | 0 | 0| 
+| 20231118T02:30:37Z | Our team has developed an innovative AI Resume Analyzer that exploits the power of Large Language Models to revolutionize the job application process. This tool enables users to upload their resumes, select or input job descriptions, and receive personalized feedback on how well their profiles match desired positions. | https://github.com/Nekronos-SPN/ResuMasters | 0 | 0| 
 | 20231118T02:03:20Z | # CTF-Walkthroughs  This repository contains detailed walkthroughs of various Capture The Flag (CTF) challenges I%ve completed. It%s a resource for learning and improving cybersecurity skills, covering a range of topics from cryptography to web exploitation. Happy hacking! 🚩👨‍💻🔒 | https://github.com/akshatmehta56/VM-CTFs | 0 | 0| 
 | 20231118T00:47:25Z | Exploit | https://github.com/bestWebboy/brickplanet-exploit | 1 | 0| 
 | 20231117T23:59:34Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-y | 1 | 0| 
