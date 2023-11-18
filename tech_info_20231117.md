@@ -44,16 +44,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231117T23:59:34Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-y | 1 | 0| 
+| 20231117T23:58:17Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-yc | 0 | 0| 
+| 20231117T23:57:29Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-yc | 1 | 0| 
+| 20231117T23:56:23Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-yc | 1 | 0| 
+| 20231117T23:14:53Z | CTI (Cyber Thread Intelligence) Araştırmalarım #StopRansomware | https://github.com/alicangnll/CTI_Arastirmalarim | 2 | 0| 
+| 20231117T22:08:33Z | Null | https://github.com/beneggen2/Microsoft-exploits- | 0 | 0| 
+| 20231117T20:10:26Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/hktalent/TOP | 592 | 114| 
 | 20231117T13:55:09Z | Use the script loadstring(game:HttpGet(%https://raw.githubusercontent.com/GlitchCode24/RobloxExploits/main/login%))() to use repository.  | https://github.com/GlitchCode24/RobloxExploits | 0 | 0| 
 | 20231117T13:32:07Z | Null | https://github.com/okaybro321/ValoxExploits | 0 | 0| 
 | 20231117T12:19:30Z | Null | https://github.com/okaybro321/VexonExploits | 0 | 0| 
-| 20231117T11:49:50Z | Silent Photos Exploit Builder is an antivirus evasion tool that can convert executables into undetectable jpg\png files. | https://github.com/SilentPulseDeveloper/Silent-Photos-Exploit-Builder-2023 | 0 | 0| 
-| 20231117T11:13:04Z | An extension to make the browsing experience in the Skiovox exploit smoother. | https://github.com/bypassiwastaken/skiovox-helper | 19 | 19| 
-| 20231117T10:47:25Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 61 | 32| 
-| 20231117T01:22:15Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-847a9532-4976-4e74-8ac9-e55b2f076a48-Xdh5u-exploit-increase | 0 | 0| 
-| 20231117T01:17:39Z | extension that restores some features for unblocking exploit | https://github.com/Chaos142/i-hate-frontend | 0 | 0| 
-| 20231117T00:57:43Z | A C# Roblox Exploiting API for the UWP distribution of the game. Its basically WeAreDevs API but it bypasses Byfron. | https://github.com/game-hax/Roblox-Exploit-API | 22 | 7| 
-| 20231117T00:50:18Z | A collection of real world AI/ML exploits for responsibly disclosed vulnerabilities  | https://github.com/protectai/ai-exploits | 128 | 0| 
 
 
 # backdoor on Github 推荐
@@ -74,6 +74,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231117T18:11:31Z | A mini symbolic execution engine for simple JavaScript programs | https://github.com/tkhang1999/mini-symex-js | 0 | 0| 
+| 20231117T14:24:59Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 709 | 126| 
 | 20231117T03:19:26Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2362 | 639| 
 
 
