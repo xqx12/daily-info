@@ -96,7 +96,7 @@
 | 20231117T12:52:07Z | Null | https://github.com/6464ok/fuzzy-umbrella | 0 | 0| 
 | 20231117T11:39:12Z | Null | https://github.com/Hezekiah234/fuzzy-spork | 0 | 0| 
 | 20231117T11:07:02Z | Null | https://github.com/ijusttryit/fuzzy-succotash | 0 | 0| 
-| 20231117T03:22:39Z | Fuzzy search text / notes in the terminal, for any collection of text files | https://github.com/Magnushhoie/fuz | 45 | 4| 
+| 20231117T09:22:03Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 476 | 61| 
 
 
 
