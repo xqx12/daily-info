@@ -46,11 +46,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231118T13:32:08Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 63 | 32| 
 | 20231118T11:14:48Z | Nullify allows you to exploit and manipulate on any educational program you could ever possibly want. | https://github.com/notplu/Nullify | 146 | 177| 
 | 20231118T10:26:41Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5492 | 1067| 
 | 20231118T09:49:01Z | simple switch payload injector module for nixos | https://github.com/nyawox/nix-switch-boot | 1 | 0| 
 | 20231118T08:32:23Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5670 | 715| 
-| 20231118T08:11:28Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 62 | 32| 
 | 20231118T06:29:13Z | Our team has developed an innovative AI Resume Analyzer that exploits the power of Large Language Models to revolutionize the job application process. This tool enables users to upload their resumes, select or input job descriptions, and receive personalized feedback on how well their profiles match desired positions. | https://github.com/Nekronos-SPN/ResuMasters | 0 | 0| 
 | 20231118T02:03:20Z | # CTF-Walkthroughs  This repository contains detailed walkthroughs of various Capture The Flag (CTF) challenges I%ve completed. It%s a resource for learning and improving cybersecurity skills, covering a range of topics from cryptography to web exploitation. Happy hacking! 🚩👨‍💻🔒 | https://github.com/akshatmehta56/VM-CTFs | 0 | 0| 
 | 20231118T00:47:25Z | Exploit | https://github.com/bestWebboy/brickplanet-exploit | 1 | 0| 
@@ -81,6 +81,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231118T13:32:44Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9171 | 2040| 
 | 20231118T13:01:11Z | Null | https://github.com/rlnsanz/fuzzy-goggles | 0 | 0| 
 | 20231118T11:21:46Z | Advanced Time-based Blind SQL Injection fuzzer for HTTP Headers | https://github.com/danialhalo/SqliSniper | 0 | 0| 
 | 20231118T10:50:55Z | Advanced Time-based Blind SQL Injection fuzzer for HTTP Headers | https://github.com/danialhalo/SQLSniper | 0 | 0| 
