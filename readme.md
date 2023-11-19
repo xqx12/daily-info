@@ -75,6 +75,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231119T13:54:18Z | Galaxydrive Transparent Fuzz Guitar Pedal PCB, Schematic ,PCB Gerber and EAGLE files. as well as build documents  | https://github.com/Cursed-Audio/Galaxydrive | 0 | 0| 
 | 20231119T13:28:42Z | Null | https://github.com/fff-vr/smb_fuzzer | 0 | 0| 
 | 20231119T13:00:09Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9174 | 2042| 
 | 20231119T12:10:34Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 475 | 62| 
@@ -84,7 +85,6 @@
 | 20231119T10:06:54Z | LLM-powered generation-based fuzzer. | https://github.com/PrVrSs/circinus | 1 | 0| 
 | 20231119T09:29:15Z | Null | https://github.com/demetrebadzaradze/fuzzy-guide | 0 | 0| 
 | 20231119T09:25:50Z | Null | https://github.com/Ismailking12/fuzzy-space-tribble | 0 | 0| 
-| 20231119T01:56:19Z | Null | https://github.com/Suryy16/Pulmonary-TB-detection-with-Fuzzy-Logic | 0 | 0| 
 
 
 
