@@ -55,11 +55,11 @@
 | 20231118T23:38:57Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-vr | 1 | 0| 
 | 20231118T23:38:09Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-vr | 1 | 0| 
 | 20231118T23:29:45Z | Null | https://github.com/Wesleykiriksilver564/Roblox-Exploit | 1 | 0| 
-| 20231118T23:22:11Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5496 | 1067| 
 | 20231118T20:23:33Z | A collection of ChromeOS exploits free for the public | https://github.com/3kh0/ext-remover | 289 | 303| 
 | 20231118T19:34:44Z | Presenting a singular offering to the discerning realm of gamers, an internal ESP (Extra Sensory Perception) cheat, meticulously architected for the hallowed domain of Fortnite.  | https://github.com/903carlon/Fortnite-Hack-Esp-Exploits-With-Menu | 0 | 0| 
 | 20231118T13:32:08Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 63 | 32| 
 | 20231118T11:14:48Z | Nullify allows you to exploit and manipulate on any educational program you could ever possibly want. | https://github.com/notplu/Nullify | 146 | 177| 
+| 20231118T09:49:01Z | simple switch payload injector module for nixos | https://github.com/nyawox/nix-switch-boot | 1 | 0| 
 
 
 # backdoor on Github 推荐
