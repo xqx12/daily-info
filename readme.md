@@ -17,7 +17,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20231118T21:56:49Z | CVE-2022-44877 | Null | https://github.com/rhymsc/CVE-2022-44877-RCE | | 
-| 20231118T15:59:27Z | CVE-2023-4357 | Chrome XXE 漏洞 POC，实现对访客者本地文件读取 | https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE | | 
 | 20231118T13:14:04Z | CVE-2023-46604 | Null | https://github.com/NKeshawarz/CVE-2023-46604-RCE | | 
 | 20231118T12:45:06Z | CVE-2022-20338 | Null | https://github.com/Trinadh465/frameworks_base_AOSP_10_r33_CVE-2022-20338 | | 
 | 20231118T12:43:05Z | CVE-2023-32571 | Null | https://github.com/Tris0n/CVE-2023-32571-POC | | 
@@ -26,6 +25,7 @@
 | 20231118T12:17:06Z | CVE-2023-36427 | Report and exploit of CVE-2023-36427 | https://github.com/tandasat/CVE-2023-36427 | | 
 | 20231118T08:39:11Z | CVE-2023-21109 | Null | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21109 | | 
 | 20231118T07:50:57Z | CVE-2023-21109 | Null | https://github.com/Trinadh465/frameworks_base_AOSP10_CVE-2023-21109r33_ | | 
+| 20231118T07:46:50Z | CVE-2021-38297 | Working in Progress POC for CVE2021-38297 | https://github.com/gkrishnan724/CVE-2021-38297 | | 
 
 
 # klee on Github 推荐
