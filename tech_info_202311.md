@@ -68,9 +68,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231119T02:28:31Z | 🔓A curated list of modern Android exploitation conference talks.  | https://github.com/actuator/Android-Security-Exploits-YouTube-Curriculum | 276 | 20| 
 | 20231119T02:21:45Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5497 | 1067| 
 | 20231119T02:09:35Z | A driver for the upcoming roblox cheat (Crimson Exploit) | https://github.com/Malware-dev32/Crimson-Exploit-Driver | 0 | 0| 
-| 20231119T00:30:38Z | 🔓A curated list of modern Android exploitation conference talks.  | https://github.com/actuator/Android-Security-Exploits-YouTube-Curriculum | 275 | 20| 
 | 20231118T23:40:37Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-vr | 1 | 0| 
 | 20231118T23:39:45Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-vr | 1 | 0| 
 | 20231118T23:38:57Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-vr | 1 | 0| 
