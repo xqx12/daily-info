@@ -74,6 +74,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231119T13:20:28Z | Null | https://github.com/fff-vr/smb_fuzzer | 0 | 0| 
 | 20231119T13:00:09Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9174 | 2042| 
 | 20231119T12:10:34Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 475 | 62| 
 | 20231119T11:17:41Z | IMPLEMENTASI SISTEM PENUNJANG KEPUTUSAN DENGAN TUJUAN UNTUK DIAGNOSA GANGGUAN KESEHATAN MENTAL DENGAN METODE FUZZY LOGIC | https://github.com/syndronize/fuzzy-diagnosa-gangguan-kesehatan-mental | 0 | 0| 
@@ -83,7 +84,6 @@
 | 20231119T09:29:15Z | Null | https://github.com/demetrebadzaradze/fuzzy-guide | 0 | 0| 
 | 20231119T09:25:50Z | Null | https://github.com/Ismailking12/fuzzy-space-tribble | 0 | 0| 
 | 20231119T01:56:19Z | Null | https://github.com/Suryy16/Pulmonary-TB-detection-with-Fuzzy-Logic | 0 | 0| 
-| 20231119T01:46:56Z |  $ brew edit wget # відкриється в $EDITOR! | https://github.com/Jeka69/fuzzy-invention | 0 | 0| 
 
 
 
