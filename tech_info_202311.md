@@ -68,7 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231119T13:36:55Z | 🔥Growtopia Duplicator Exploit , System Freezer Injection🔥 | https://github.com/L3GOGT/Growtopia-Duplicator-Exploit | 2 | 0| 
+| 20231119T13:41:55Z | 🔥Growtopia Duplicator Exploit , System Freezer Injection🔥 | https://github.com/L3GOGT/Growtopia-Duplicator-Exploit | 3 | 0| 
 | 20231119T13:19:21Z | Null | https://github.com/cavzox/Console-Exploit | 0 | 0| 
 | 20231119T12:08:14Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10906 | 1662| 
 | 20231119T12:03:41Z | useful file which can fix any error related to roblox | https://github.com/N0Tpengu/Cereal-Fixer | 1 | 0| 
