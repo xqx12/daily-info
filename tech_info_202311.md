@@ -128,6 +128,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231119T01:46:56Z |  $ brew edit wget # відкриється в $EDITOR! | https://github.com/Jeka69/fuzzy-invention | 0 | 0| 
 | 20231118T22:29:57Z | Index out of bound fuzzer | https://github.com/martinsander00/python-fuzz | 0 | 0| 
 | 20231118T22:20:23Z | Null | https://github.com/FuzzyLab-UVA/deep-learning-fuzzlab | 0 | 0| 
 | 20231118T21:54:59Z | My dotfiles for Arch Linux, Hyprland, Waybar, and more | https://github.com/wynvern/Fuzzy-Dotfiles | 0 | 0| 
@@ -137,7 +138,6 @@
 | 20231118T13:56:49Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9172 | 2040| 
 | 20231118T13:54:18Z | Null | https://github.com/MemFuzz/MemFuzz | 0 | 0| 
 | 20231118T13:47:36Z | Null | https://github.com/erickfernandox/direction_fuzz | 0 | 0| 
-| 20231118T13:36:32Z | Null | https://github.com/rlnsanz/fuzzy-goggles | 0 | 0| 
 
 
 
