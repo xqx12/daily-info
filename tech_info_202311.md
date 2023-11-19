@@ -26,36 +26,38 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231118T13:31:57Z | CVE-2023-4357 | Chrome XXE 漏洞 POC，实现对访客者本地文件读取 | https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE | | 
+| 20231119T00:14:52Z | CVE-2023-2598 | LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel. | https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598 | | 
+| 20231118T21:56:49Z | CVE-2022-44877 | Null | https://github.com/rhymsc/CVE-2022-44877-RCE | | 
+| 20231118T15:59:27Z | CVE-2023-4357 | Chrome XXE 漏洞 POC，实现对访客者本地文件读取 | https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE | | 
 | 20231118T13:14:04Z | CVE-2023-46604 | Null | https://github.com/NKeshawarz/CVE-2023-46604-RCE | | 
 | 20231118T12:45:06Z | CVE-2022-20338 | Null | https://github.com/Trinadh465/frameworks_base_AOSP_10_r33_CVE-2022-20338 | | 
 | 20231118T12:43:05Z | CVE-2023-32571 | Null | https://github.com/Tris0n/CVE-2023-32571-POC | | 
 | 20231118T12:30:55Z | CVE-2023-47102 | Null | https://github.com/nitipoom-jar/CVE-2023-47102 | | 
 | 20231118T12:20:04Z | CVE-2023-47246 | exploit for cve-2023-47246 SysAid RCE (shell upload) | https://github.com/W01fh4cker/CVE-2023-47246-EXP | | 
-| 20231118T12:17:52Z | CVE-2023-2598 | LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel. | https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598 | | 
+| 20231118T12:17:06Z | CVE-2023-36427 | Report and exploit of CVE-2023-36427 | https://github.com/tandasat/CVE-2023-36427 | | 
 | 20231118T08:39:11Z | CVE-2023-21109 | Null | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21109 | | 
-| 20231118T07:50:57Z | CVE-2023-21109 | Null | https://github.com/Trinadh465/frameworks_base_AOSP10_CVE-2023-21109r33_ | | 
-| 20231118T07:46:50Z | CVE-2021-38297 | Working in Progress POC for CVE2021-38297 | https://github.com/gkrishnan724/CVE-2021-38297 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231118T13:58:56Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14371 | 431| 
+| 20231118T15:38:03Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14373 | 431| 
+| 20231118T15:19:17Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 387 | 8| 
+| 20231118T14:15:38Z | Null | https://github.com/dimitricbrown/KLEEFE | 0 | 0| 
+| 20231118T14:11:07Z | Null | https://github.com/dimitricbrown/KLEEBE | 0 | 0| 
 | 20231118T12:24:15Z | Null | https://github.com/Kleeat/Kleeat.github.io | 0 | 0| 
-| 20231118T09:48:13Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 386 | 8| 
 | 20231118T08:22:00Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2363 | 639| 
 | 20231116T14:45:23Z | Null | https://github.com/riesentoaster/klee-software-evolution | 0 | 0| 
 | 20231115T15:25:46Z | Null | https://github.com/Yudongok/Kleenex | 0 | 0| 
 | 20231114T17:54:10Z | Null | https://github.com/hoolisoftware/kleewish | 0 | 0| 
 | 20231114T11:16:23Z | Config files for my GitHub profile. | https://github.com/Kleemuk/Kleemuk | 0 | 0| 
-| 20231112T21:43:43Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 95 | 21| 
-| 20231112T17:00:45Z | My personal repository | https://github.com/kleeon0/kleeon0 | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231118T22:09:35Z | Null | https://github.com/NereaRva/S2ejercicio2 | 0 | 0| 
+| 20231118T22:08:26Z | Null | https://github.com/NereaRva/S2ejercicio1 | 0 | 0| 
 | 20231118T08:58:13Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 362 | 83| 
 | 20231112T16:00:16Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 38 | 15| 
 | 20231103T14:05:23Z | Null | https://github.com/MelissaCanu/S2E5 | 0 | 0| 
@@ -66,23 +68,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231119T00:30:38Z | 🔓A curated list of modern Android exploitation conference talks.  | https://github.com/actuator/Android-Security-Exploits-YouTube-Curriculum | 275 | 20| 
+| 20231118T23:40:37Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-vr | 1 | 0| 
+| 20231118T23:39:45Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-vr | 1 | 0| 
+| 20231118T23:38:57Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-vr | 1 | 0| 
+| 20231118T23:38:09Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-vr | 1 | 0| 
+| 20231118T23:29:45Z | Null | https://github.com/Wesleykiriksilver564/Roblox-Exploit | 1 | 0| 
+| 20231118T23:22:11Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5496 | 1067| 
+| 20231118T20:23:33Z | A collection of ChromeOS exploits free for the public | https://github.com/3kh0/ext-remover | 289 | 303| 
+| 20231118T19:34:44Z | Presenting a singular offering to the discerning realm of gamers, an internal ESP (Extra Sensory Perception) cheat, meticulously architected for the hallowed domain of Fortnite.  | https://github.com/903carlon/Fortnite-Hack-Esp-Exploits-With-Menu | 0 | 0| 
 | 20231118T13:32:08Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 63 | 32| 
-| 20231118T11:14:48Z | Nullify allows you to exploit and manipulate on any educational program you could ever possibly want. | https://github.com/notplu/Nullify | 146 | 177| 
-| 20231118T10:26:41Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5492 | 1067| 
-| 20231118T09:49:01Z | simple switch payload injector module for nixos | https://github.com/nyawox/nix-switch-boot | 1 | 0| 
-| 20231118T08:32:23Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5670 | 715| 
-| 20231118T06:29:13Z | Our team has developed an innovative AI Resume Analyzer that exploits the power of Large Language Models to revolutionize the job application process. This tool enables users to upload their resumes, select or input job descriptions, and receive personalized feedback on how well their profiles match desired positions. | https://github.com/Nekronos-SPN/ResuMasters | 0 | 0| 
-| 20231118T02:03:20Z | # CTF-Walkthroughs  This repository contains detailed walkthroughs of various Capture The Flag (CTF) challenges I%ve completed. It%s a resource for learning and improving cybersecurity skills, covering a range of topics from cryptography to web exploitation. Happy hacking! 🚩👨‍💻🔒 | https://github.com/akshatmehta56/VM-CTFs | 0 | 0| 
-| 20231118T00:47:25Z | Exploit | https://github.com/bestWebboy/brickplanet-exploit | 1 | 0| 
-| 20231117T23:59:34Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-y | 1 | 0| 
-| 20231117T23:58:17Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-yc | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231118T22:15:22Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 2308 | 867| 
+| 20231118T20:24:09Z | Null | https://github.com/black-backdoor/black-backdoor | 0 | 0| 
 | 20231118T11:37:31Z | In this project, we construct a backdoor of Kyber through mceliece, which shows the potential risk in Kyber. | https://github.com/Summwer/kyber-backdoor | 0 | 0| 
-| 20231118T07:41:56Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 2305 | 866| 
 | 20231117T20:48:07Z | Null | https://github.com/JPAGhosn/BackdoorProjectPython | 0 | 0| 
 | 20231117T18:00:59Z | I like cybersecurity, and these are my things. | https://github.com/backDOORtothefuture/backDOORtothefuture | 0 | 0| 
 | 20231117T17:25:11Z | Null | https://github.com/VKspyder2003/backdoor | 0 | 0| 
@@ -90,7 +93,6 @@
 | 20231117T13:18:20Z | Backdoor Research Environment | https://github.com/csalab-id/barenv | 0 | 0| 
 | 20231117T12:49:44Z | A tool for remotely control the android device | https://github.com/VexenaRat/Vexena-Android-Rat | 4 | 0| 
 | 20231117T12:19:56Z | Null | https://github.com/anxingxing/Backdoor | 0 | 0| 
-| 20231117T07:52:46Z | This tool is used for backdoor,shellcode generation,Information retrieval and POC arrangement for various architecture devices | https://github.com/doudoudedi/hackEmbedded | 154 | 28| 
 
 
 # symbolic execution on Github 推荐
@@ -111,9 +113,9 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231118T23:01:23Z | Source code for the paper %SLMIA-SR: Speaker-Level Membership Inference Attacks against Speaker Recognition Systems% accepted by NDSS 2024 | https://github.com/S3L-official/SLMIA-SR | 4 | 0| 
 | 20231118T01:41:26Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 90 | 4| 
 | 20231116T05:32:34Z | Null | https://github.com/marikrishnan04/ndssd | 0 | 0| 
-| 20231111T13:11:57Z | Source code for the paper %SLMIA-SR: Speaker-Level Membership Inference Attacks against Speaker Recognition Systems% accepted by NDSS 2024 | https://github.com/S3L-official/SLMIA-SR | 3 | 0| 
 | 20231110T07:30:25Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 33 | 6| 
 | 20231109T09:12:59Z | Source code for our NDSS%18 paper %Automated Website Fingerprinting through Deep Learning% | https://github.com/DistriNet/DLWF | 84 | 39| 
 | 20231109T04:38:44Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 31 | 2| 
@@ -126,16 +128,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231118T22:29:57Z | Index out of bound fuzzer | https://github.com/martinsander00/python-fuzz | 0 | 0| 
+| 20231118T22:20:23Z | Null | https://github.com/FuzzyLab-UVA/deep-learning-fuzzlab | 0 | 0| 
+| 20231118T21:54:59Z | My dotfiles for Arch Linux, Hyprland, Waybar, and more | https://github.com/wynvern/Fuzzy-Dotfiles | 0 | 0| 
+| 20231118T21:19:19Z | Null | https://github.com/TheRealJarbean/sse676-fuzzy-camera-tracking | 0 | 0| 
+| 20231118T19:34:57Z | Advanced Time-based Blind SQL Injection fuzzer for HTTP Headers | https://github.com/danialhalo/SqliSniper | 0 | 1| 
+| 20231118T19:22:50Z | Null | https://github.com/Intellidevelopers/fuzzy_app-main | 0 | 0| 
 | 20231118T13:56:49Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9172 | 2040| 
 | 20231118T13:54:18Z | Null | https://github.com/MemFuzz/MemFuzz | 0 | 0| 
 | 20231118T13:47:36Z | Null | https://github.com/erickfernandox/direction_fuzz | 0 | 0| 
 | 20231118T13:36:32Z | Null | https://github.com/rlnsanz/fuzzy-goggles | 0 | 0| 
-| 20231118T11:21:46Z | Advanced Time-based Blind SQL Injection fuzzer for HTTP Headers | https://github.com/danialhalo/SqliSniper | 0 | 0| 
-| 20231118T10:50:55Z | Advanced Time-based Blind SQL Injection fuzzer for HTTP Headers | https://github.com/danialhalo/SQLSniper | 0 | 0| 
-| 20231118T10:14:44Z | Bermain online yg sempurna  | https://github.com/BOCIL-afk/fuzzy-parakeet | 1 | 0| 
-| 20231118T10:05:22Z | My clone repository | https://github.com/Kurlan79/fuzzy-waddle | 0 | 0| 
-| 20231118T05:49:36Z | A project for fuzzing HTTP/1.1 CL.0 Request Smuggling Attack Vectors | https://github.com/Moopinger/CLZero | 6 | 0| 
-| 20231118T00:47:05Z | Null | https://github.com/Pranestya-GW/fuzzy_js | 0 | 0| 
 
 
 
