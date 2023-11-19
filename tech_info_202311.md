@@ -98,16 +98,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231119T12:40:51Z | A prototype tool for symbolic execution of quantum programs (QSE) with symbolic stabilizer states. | https://github.com/njuwfang/QuantumSE.jl | 0 | 0| 
+| 20231119T11:18:41Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 458 | 33| 
 | 20231118T22:52:58Z | A mini symbolic execution engine for simple JavaScript programs | https://github.com/tkhang1999/mini-symex-js | 0 | 0| 
 | 20231118T16:50:49Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 268 | 36| 
 | 20231118T08:59:59Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 710 | 126| 
 | 20231118T08:22:00Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2363 | 639| 
 | 20231118T01:55:25Z | A pedagogical CTF to teach symbolic execution with the angr toolset | https://github.com/branrickman/learn-angr | 0 | 0| 
-| 20231116T04:57:41Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 456 | 33| 
 | 20231115T12:53:12Z | Symbolic execution of LLVM IR with an engine written in Rust | https://github.com/PLSysSec/haybale | 474 | 22| 
 | 20231115T11:53:33Z | Null | https://github.com/Dragos0305/Symbolic-Execution-Malware-Analysis | 0 | 0| 
 | 20231115T11:07:07Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 101 | 4| 
-| 20231114T14:54:42Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 67 | 28| 
 
 
 # big4 on Github 推荐
