@@ -68,7 +68,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231119T12:29:15Z | 🔥Growtopia Duplicator Exploit , System Freezer Injection🔥 | https://github.com/L3GOGT/Growtopia-Duplicator-Exploit | 1 | 0| 
+| 20231119T13:36:55Z | 🔥Growtopia Duplicator Exploit , System Freezer Injection🔥 | https://github.com/L3GOGT/Growtopia-Duplicator-Exploit | 2 | 0| 
+| 20231119T13:19:21Z | Null | https://github.com/cavzox/Console-Exploit | 0 | 0| 
 | 20231119T12:08:14Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10906 | 1662| 
 | 20231119T12:03:41Z | useful file which can fix any error related to roblox | https://github.com/N0Tpengu/Cereal-Fixer | 1 | 0| 
 | 20231119T11:33:34Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5500 | 1067| 
@@ -77,7 +78,6 @@
 | 20231119T09:16:50Z | Frontend-only game and unblock website with a pretty big lib. Only a fun side-project, dont expect daily updates | https://github.com/crllect/zorro | 4 | 2| 
 | 20231119T02:28:31Z | 🔓A curated list of modern Android exploitation conference talks.  | https://github.com/actuator/Android-Security-Exploits-YouTube-Curriculum | 276 | 20| 
 | 20231119T02:09:35Z | A driver for the upcoming roblox cheat (Crimson Exploit) | https://github.com/Malware-dev32/Crimson-Exploit-Driver | 0 | 0| 
-| 20231118T23:40:37Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-vr | 1 | 0| 
 
 
 # backdoor on Github 推荐
