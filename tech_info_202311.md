@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231119T00:14:52Z | CVE-2023-2598 | LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel. | https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598 | | 
+| 20231119T01:58:01Z | CVE-2023-2598 | LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel. | https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598 | | 
 | 20231118T21:56:49Z | CVE-2022-44877 | Null | https://github.com/rhymsc/CVE-2022-44877-RCE | | 
 | 20231118T15:59:27Z | CVE-2023-4357 | Chrome XXE 漏洞 POC，实现对访客者本地文件读取 | https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE | | 
 | 20231118T13:14:04Z | CVE-2023-46604 | Null | https://github.com/NKeshawarz/CVE-2023-46604-RCE | | 
@@ -128,7 +128,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231119T01:53:27Z | Null | https://github.com/Suryy16/Pulmonary-TB-detection-with-Fuzzy-Logic | 0 | 0| 
+| 20231119T01:56:19Z | Null | https://github.com/Suryy16/Pulmonary-TB-detection-with-Fuzzy-Logic | 0 | 0| 
 | 20231119T01:46:56Z |  $ brew edit wget # відкриється в $EDITOR! | https://github.com/Jeka69/fuzzy-invention | 0 | 0| 
 | 20231118T22:29:57Z | Index out of bound fuzzer | https://github.com/martinsander00/python-fuzz | 0 | 0| 
 | 20231118T22:20:23Z | Null | https://github.com/FuzzyLab-UVA/deep-learning-fuzzlab | 0 | 0| 
