@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231119T13:28:15Z | CVE-2023-2598 | LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel. | https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598 | | 
+| 20231119T13:30:14Z | CVE-2023-2598 | LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel. | https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598 | | 
 | 20231119T11:59:54Z | CVE-2023-4357 | Chrome XXE 漏洞 POC，实现对访客者本地文件读取 | https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE | | 
 | 20231119T10:59:43Z | CVE-2023-36427 | Report and exploit of CVE-2023-36427 | https://github.com/tandasat/CVE-2023-36427 | | 
 | 20231118T21:56:49Z | CVE-2022-44877 | Null | https://github.com/rhymsc/CVE-2022-44877-RCE | | 
@@ -128,7 +128,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231119T13:22:18Z | Null | https://github.com/fff-vr/smb_fuzzer | 0 | 0| 
+| 20231119T13:28:42Z | Null | https://github.com/fff-vr/smb_fuzzer | 0 | 0| 
 | 20231119T13:00:09Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9174 | 2042| 
 | 20231119T12:10:34Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 475 | 62| 
 | 20231119T11:17:41Z | IMPLEMENTASI SISTEM PENUNJANG KEPUTUSAN DENGAN TUJUAN UNTUK DIAGNOSA GANGGUAN KESEHATAN MENTAL DENGAN METODE FUZZY LOGIC | https://github.com/syndronize/fuzzy-diagnosa-gangguan-kesehatan-mental | 0 | 0| 
