@@ -26,8 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231120T01:08:58Z | CVE-2023-2598 | LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel. | https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598 | | 
 | 20231120T00:28:24Z | CVE-2023-4357 | Chrome XXE 漏洞 POC，实现对访客者本地文件读取 | https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE | | 
-| 20231119T23:26:01Z | CVE-2023-2598 | LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel. | https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598 | | 
 | 20231119T23:07:59Z | CVE-2023-36427 | Report and exploit of CVE-2023-36427 | https://github.com/tandasat/CVE-2023-36427 | | 
 | 20231119T22:21:35Z | CVE-2023-4357 | Apt style exploitation of Chrome 0day CVE-2023-4357 | https://github.com/OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation | | 
 | 20231118T21:56:49Z | CVE-2022-44877 | Null | https://github.com/rhymsc/CVE-2022-44877-RCE | | 
@@ -128,8 +128,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231120T01:09:20Z | software engineering demo repo | https://github.com/GammaSpark/fuzzy-train | 0 | 0| 
 | 20231120T01:02:56Z | trying to learn usage github | https://github.com/ayala2000/fuzzy-octo-parakeet | 0 | 0| 
-| 20231120T01:01:46Z | Demo repo for software engineering | https://github.com/GammaSpark/fuzzy-train | 0 | 0| 
 | 20231120T00:24:47Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1609 | 237| 
 | 20231119T23:25:57Z | A Python script for web fuzzing in penetration testing. Replace %FUZZ% in the target URL with payloads from a wordlist, customize headers, and filter responses by status codes, length, and size. Inspired by FFUF, this tool aids security assessments with a user-friendly command-line interface. Developed by Wiktor Nowakowski. | https://github.com/s4crifice/vefuzz | 0 | 0| 
 | 20231119T22:05:39Z | Null | https://github.com/jorjikiao/fuzzy-spoon | 0 | 0| 
