@@ -128,16 +128,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231120T01:02:56Z | trying to learn usage github | https://github.com/ayala2000/fuzzy-octo-parakeet | 0 | 0| 
+| 20231120T01:01:46Z | Demo repo for software engineering | https://github.com/GammaSpark/fuzzy-train | 0 | 0| 
 | 20231120T00:24:47Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1609 | 237| 
 | 20231119T23:25:57Z | A Python script for web fuzzing in penetration testing. Replace %FUZZ% in the target URL with payloads from a wordlist, customize headers, and filter responses by status codes, length, and size. Inspired by FFUF, this tool aids security assessments with a user-friendly command-line interface. Developed by Wiktor Nowakowski. | https://github.com/s4crifice/vefuzz | 0 | 0| 
-| 20231119T23:14:01Z | trying to learn usage github | https://github.com/ayala2000/fuzzy-octo-parakeet | 0 | 0| 
 | 20231119T22:05:39Z | Null | https://github.com/jorjikiao/fuzzy-spoon | 0 | 0| 
 | 20231119T21:52:40Z | Null | https://github.com/VladyslavMiliev/fuzzy-analytical-hierarchy-process | 1 | 0| 
 | 20231119T21:43:56Z | homework and supplementary code for performance aware programming series - in java | https://github.com/jonjohnsontc/fuzzy-octo-funicular | 0 | 0| 
 | 20231119T17:38:27Z | Fuzzing CI | https://github.com/Nogginz/AstraAnswer | 0 | 0| 
 | 20231119T13:54:18Z | Galaxydrive Transparent Fuzz Guitar Pedal PCB, Schematic ,PCB Gerber and EAGLE files. as well as build documents  | https://github.com/Cursed-Audio/Galaxydrive | 0 | 0| 
 | 20231119T13:28:42Z | Null | https://github.com/fff-vr/smb_fuzzer | 0 | 0| 
-| 20231119T13:00:09Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9174 | 2042| 
 
 
 
