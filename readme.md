@@ -43,6 +43,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231120T13:09:26Z | Null | https://github.com/Aakash9111/Win-Exploitation | 0 | 0| 
 | 20231120T12:43:39Z | Null | https://github.com/0xpolarzero/storage-exploit-formal-verification | 0 | 0| 
 | 20231120T12:05:09Z | Improved code of Daniele Scanu SQL Injection exploit | https://github.com/byrek/CVE-2019-9053 | 0 | 0| 
 | 20231120T11:41:33Z | Stockage et exploitation de tables de routage | https://github.com/Kazzad/Routeur-ADA | 0 | 0| 
@@ -52,7 +53,6 @@
 | 20231120T02:52:57Z |  IOTgoat is a vulnerable firmware made by the OWASP project. This is a custom made version of the %IOTgoat firmware% built for the A5-V11 mini 3G router. This branch brings back the vulnerable IOT firmware back to a real IOT device, for a more realistic experience of IOT device exploitation on a budget. | https://github.com/knightr1d3r007/OWASP_IOTgoat_for_A5-V11_mini_router | 0 | 0| 
 | 20231120T02:29:29Z | Null | https://github.com/Mat-The-W-26/FTP-Terminal-Exploit | 0 | 0| 
 | 20231120T01:42:10Z | G3nius Tools Sploit is a penetration testing tool with a lot of plugins for advanced cybersecurity attacks. User-friendly, Easy and modular! | https://github.com/witblack/G3nius-Tools-Sploit | 53 | 9| 
-| 20231120T00:37:25Z | Docker based DNS component of the Exploit Host | https://github.com/Al-Azif/exploit-host-dns | 14 | 5| 
 
 
 # backdoor on Github 推荐
