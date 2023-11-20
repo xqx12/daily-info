@@ -128,6 +128,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231120T02:31:25Z | A web directory fuzzer and scanner | https://github.com/TariqShahwan/SpiderScouter | 0 | 0| 
 | 20231120T01:55:05Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4089 | 836| 
 | 20231120T01:09:20Z | software engineering demo repo | https://github.com/GammaSpark/fuzzy-train | 0 | 0| 
 | 20231120T01:02:56Z | trying to learn usage github | https://github.com/ayala2000/fuzzy-octo-parakeet | 0 | 0| 
@@ -137,7 +138,6 @@
 | 20231119T21:52:40Z | Null | https://github.com/VladyslavMiliev/fuzzy-analytical-hierarchy-process | 1 | 0| 
 | 20231119T21:43:56Z | homework and supplementary code for performance aware programming series - in java | https://github.com/jonjohnsontc/fuzzy-octo-funicular | 0 | 0| 
 | 20231119T17:38:27Z | Fuzzing CI | https://github.com/Nogginz/AstraAnswer | 0 | 0| 
-| 20231119T13:54:18Z | Galaxydrive Transparent Fuzz Guitar Pedal PCB, Schematic ,PCB Gerber and EAGLE files. as well as build documents  | https://github.com/Cursed-Audio/Galaxydrive | 0 | 0| 
 
 
 
