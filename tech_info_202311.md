@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231120T02:29:29Z | Null | https://github.com/Mat-The-W-26/FTP-Terminal-Exploit | 0 | 0| 
 | 20231120T01:42:10Z | G3nius Tools Sploit is a penetration testing tool with a lot of plugins for advanced cybersecurity attacks. User-friendly, Easy and modular! | https://github.com/witblack/G3nius-Tools-Sploit | 53 | 9| 
 | 20231120T00:37:25Z | Docker based DNS component of the Exploit Host | https://github.com/Al-Azif/exploit-host-dns | 14 | 5| 
 | 20231120T00:10:02Z | GitOps Repository | https://github.com/redhat-hac-qe/test-app-170043896-6Ktwf-establish-exploit | 0 | 0| 
@@ -77,7 +78,6 @@
 | 20231119T23:39:29Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-cq | 1 | 0| 
 | 20231119T22:49:52Z | Exploit for Webmin servers versions 1.890 through 1.920. | https://github.com/aamfrk/Webmin-CVE-2019-15107 | 0 | 0| 
 | 20231119T22:21:35Z | Apt style exploitation of Chrome 0day CVE-2023-4357 | https://github.com/OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation | 0 | 0| 
-| 20231119T14:49:56Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5500 | 1067| 
 
 
 # backdoor on Github 推荐
