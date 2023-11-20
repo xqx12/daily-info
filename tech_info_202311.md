@@ -15,42 +15,42 @@
 | 20231119 | 多款Java模板引擎对比与模板注入的安全之旅 | https://xz.aliyun.com/t/12969| 
 | 20231119 | Defense Evasion(防御规避) | https://mp.weixin.qq.com/s/F0asRsaqOMvxHcu70kavZg| 
 | 20231119 | 美国推进网络空间安全发展的新举措 | https://mp.weixin.qq.com/s/M6Ot2f9YW-58cbNXs10YbA| 
-| 20231116 | 美国爱因斯坦计划跟踪与解读（2023版） | https://mp.weixin.qq.com/s/zvgOqgGqmdO4BvYsFzDTGw| 
-| 20231116 | Nemesis：蓝军攻击数据协同平台化实践 | https://mp.weixin.qq.com/s/4D2slrxd7t1JnPpJY6CO7g| 
-| 20231115 | 基于大语言模型的零样本漏洞修复研究 | https://mp.weixin.qq.com/s/Oc5WLqXBF_AvI6HAwZKPgA| 
-| 20231114 | 深度剖析GadgetInspector执行逻辑(上) | https://www.sec-in.com/article/2069| 
-| 20231113 | machine unlearning中的灾难遗忘问题的研究 | https://mp.weixin.qq.com/s/fBYXwkg9Tm1uVc8ZmIViRQ| 
-| 20231113 | SecWiki周刊（第506期) | https://www.sec-wiki.com/weekly/506| 
+| 20231119 | Our audit of PyPI | https://blog.trailofbits.com/2023/11/14/our-audit-of-pypi/| 
+| 20231119 | Google WebP图像编解码库漏洞分析(CVE-2023-4863) | https://mp.weixin.qq.com/s/xy4SA9MDe5cPchoc8TJQ0w| 
+| 20231119 | 揭秘 VPN 背后的黑灰产组织 | https://paper.seebug.org/3062/| 
+| 20231119 | PKU GeekGame 2023 - Writeup | https://imlonghao.com/61.html| 
+| 20231119 | 反击黑客团伙Hacking Team | https://feei.cn/hack-back-hacking-team/| 
+| 20231119 | Operation Triangulation 卡巴斯基被黑 - 续 | https://mp.weixin.qq.com/s/ESi0bWF_jQ4nS1-CwjxlEQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231119T13:30:14Z | CVE-2023-2598 | LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel. | https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598 | | 
-| 20231119T11:59:54Z | CVE-2023-4357 | Chrome XXE 漏洞 POC，实现对访客者本地文件读取 | https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE | | 
-| 20231119T10:59:43Z | CVE-2023-36427 | Report and exploit of CVE-2023-36427 | https://github.com/tandasat/CVE-2023-36427 | | 
+| 20231120T00:28:24Z | CVE-2023-4357 | Chrome XXE 漏洞 POC，实现对访客者本地文件读取 | https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE | | 
+| 20231119T23:26:01Z | CVE-2023-2598 | LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel. | https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598 | | 
+| 20231119T23:07:59Z | CVE-2023-36427 | Report and exploit of CVE-2023-36427 | https://github.com/tandasat/CVE-2023-36427 | | 
+| 20231119T22:21:35Z | CVE-2023-4357 | Apt style exploitation of Chrome 0day CVE-2023-4357 | https://github.com/OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation | | 
 | 20231118T21:56:49Z | CVE-2022-44877 | Null | https://github.com/rhymsc/CVE-2022-44877-RCE | | 
 | 20231118T13:14:04Z | CVE-2023-46604 | Null | https://github.com/NKeshawarz/CVE-2023-46604-RCE | | 
 | 20231118T12:45:06Z | CVE-2022-20338 | Null | https://github.com/Trinadh465/frameworks_base_AOSP_10_r33_CVE-2022-20338 | | 
 | 20231118T12:43:05Z | CVE-2023-32571 | Null | https://github.com/Tris0n/CVE-2023-32571-POC | | 
 | 20231118T12:30:55Z | CVE-2023-47102 | Null | https://github.com/nitipoom-jar/CVE-2023-47102 | | 
 | 20231118T12:20:04Z | CVE-2023-47246 | exploit for cve-2023-47246 SysAid RCE (shell upload) | https://github.com/W01fh4cker/CVE-2023-47246-EXP | | 
-| 20231118T08:39:11Z | CVE-2023-21109 | Null | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21109 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231119T12:51:15Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14381 | 431| 
+| 20231120T00:54:57Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14384 | 431| 
+| 20231119T18:56:27Z | This is the one! | https://github.com/klee-os/Klee-OS | 0 | 0| 
+| 20231119T16:21:18Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 388 | 8| 
 | 20231119T01:09:01Z | Null | https://github.com/hoolisoftware/kleewish | 0 | 0| 
-| 20231118T15:19:17Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 387 | 8| 
 | 20231118T14:15:38Z | Null | https://github.com/dimitricbrown/KLEEFE | 0 | 0| 
 | 20231118T14:11:07Z | Null | https://github.com/dimitricbrown/KLEEBE | 0 | 0| 
 | 20231118T12:24:15Z | Null | https://github.com/Kleeat/Kleeat.github.io | 0 | 0| 
 | 20231118T08:22:00Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2363 | 639| 
 | 20231116T14:45:23Z | Null | https://github.com/riesentoaster/klee-software-evolution | 0 | 0| 
 | 20231115T15:25:46Z | Null | https://github.com/Yudongok/Kleenex | 0 | 0| 
-| 20231114T11:16:23Z | Config files for my GitHub profile. | https://github.com/Kleemuk/Kleemuk | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -68,31 +68,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231120T00:37:25Z | Docker based DNS component of the Exploit Host | https://github.com/Al-Azif/exploit-host-dns | 14 | 5| 
+| 20231120T00:10:02Z | GitOps Repository | https://github.com/redhat-hac-qe/test-app-170043896-6Ktwf-establish-exploit | 0 | 0| 
+| 20231119T23:43:59Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-cq | 1 | 0| 
+| 20231119T23:42:44Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-cq | 1 | 0| 
+| 20231119T23:41:47Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-cq | 1 | 0| 
+| 20231119T23:39:29Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-cq | 1 | 0| 
+| 20231119T22:49:52Z | Exploit for Webmin servers versions 1.890 through 1.920. | https://github.com/aamfrk/Webmin-CVE-2019-15107 | 0 | 0| 
+| 20231119T14:49:56Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5500 | 1067| 
 | 20231119T13:52:27Z | 🔥Growtopia Duplicator Exploit , System Freezer Injection🔥 | https://github.com/L3GOGT/Growtopia-Duplicator-Exploit | 5 | 0| 
 | 20231119T13:19:21Z | Null | https://github.com/cavzox/Console-Exploit | 0 | 0| 
-| 20231119T12:08:14Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10906 | 1662| 
-| 20231119T12:03:41Z | useful file which can fix any error related to roblox | https://github.com/N0Tpengu/Cereal-Fixer | 1 | 0| 
-| 20231119T11:33:34Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5500 | 1067| 
-| 20231119T11:19:31Z | Our team has developed an innovative AI Resume Analyzer that exploits the power of Large Language Models to revolutionize the job application process. This tool enables users to upload their resumes, select or input job descriptions, and receive personalized feedback on how well their profiles match desired positions. | https://github.com/Nekronos-SPN/ResuMasters | 0 | 0| 
-| 20231119T10:11:17Z | Null | https://github.com/Gabrielchewbacca-1992/Roblox-Exploit | 1 | 0| 
-| 20231119T09:16:50Z | Frontend-only game and unblock website with a pretty big lib. Only a fun side-project, dont expect daily updates | https://github.com/crllect/zorro | 4 | 2| 
-| 20231119T02:28:31Z | 🔓A curated list of modern Android exploitation conference talks.  | https://github.com/actuator/Android-Security-Exploits-YouTube-Curriculum | 276 | 20| 
-| 20231119T02:09:35Z | A driver for the upcoming roblox cheat (Crimson Exploit) | https://github.com/Malware-dev32/Crimson-Exploit-Driver | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231119T20:59:35Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 2310 | 868| 
+| 20231119T20:22:41Z | BackdoorMan is a fairly simple program that runs in the background doing some naughty stuff >:) | https://github.com/freedombrowser/BackdoorMan | 0 | 0| 
+| 20231119T20:02:32Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 229 | 25| 
+| 20231119T16:49:14Z | Corresponding code for the paper: %Sneaky Spikes: Uncovering Stealthy Backdoor Attacks in Spiking Neural Networks with Neuromorphic Data%, at Network and Distributed System Security (NDSS). | https://github.com/GorkaAbad/Sneaky-Spikes | 0 | 0| 
 | 20231119T10:56:48Z | CLEAN FRESHLY CODED DRAINER, NO BACKDOOR | https://github.com/godfather9916/Multi-Network-Drainer | 0 | 0| 
-| 20231118T22:15:22Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 2308 | 868| 
 | 20231118T20:24:09Z | Null | https://github.com/black-backdoor/black-backdoor | 0 | 0| 
 | 20231118T11:37:31Z | In this project, we construct a backdoor of Kyber through mceliece, which shows the potential risk in Kyber. | https://github.com/Summwer/kyber-backdoor | 0 | 0| 
 | 20231117T20:48:07Z | Null | https://github.com/JPAGhosn/BackdoorProjectPython | 0 | 0| 
 | 20231117T18:00:59Z | I like cybersecurity, and these are my things. | https://github.com/backDOORtothefuture/backDOORtothefuture | 0 | 0| 
 | 20231117T17:25:11Z | Null | https://github.com/VKspyder2003/backdoor | 0 | 0| 
-| 20231117T16:05:33Z | Created backdoor entry within login to see how many people can crack it. | https://github.com/mattrobbt/backdoor_login | 0 | 0| 
-| 20231117T13:18:20Z | Backdoor Research Environment | https://github.com/csalab-id/barenv | 0 | 0| 
-| 20231117T12:49:44Z | A tool for remotely control the android device | https://github.com/VexenaRat/Vexena-Android-Rat | 4 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -128,16 +128,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231120T00:24:47Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1609 | 237| 
+| 20231119T23:25:57Z | A Python script for web fuzzing in penetration testing. Replace %FUZZ% in the target URL with payloads from a wordlist, customize headers, and filter responses by status codes, length, and size. Inspired by FFUF, this tool aids security assessments with a user-friendly command-line interface. Developed by Wiktor Nowakowski. | https://github.com/s4crifice/vefuzz | 0 | 0| 
+| 20231119T23:14:01Z | trying to learn usage github | https://github.com/ayala2000/fuzzy-octo-parakeet | 0 | 0| 
+| 20231119T22:05:39Z | Null | https://github.com/jorjikiao/fuzzy-spoon | 0 | 0| 
+| 20231119T21:52:40Z | Null | https://github.com/VladyslavMiliev/fuzzy-analytical-hierarchy-process | 1 | 0| 
+| 20231119T21:43:56Z | homework and supplementary code for performance aware programming series - in java | https://github.com/jonjohnsontc/fuzzy-octo-funicular | 0 | 0| 
+| 20231119T17:38:27Z | Fuzzing CI | https://github.com/Nogginz/AstraAnswer | 0 | 0| 
 | 20231119T13:54:18Z | Galaxydrive Transparent Fuzz Guitar Pedal PCB, Schematic ,PCB Gerber and EAGLE files. as well as build documents  | https://github.com/Cursed-Audio/Galaxydrive | 0 | 0| 
 | 20231119T13:28:42Z | Null | https://github.com/fff-vr/smb_fuzzer | 0 | 0| 
 | 20231119T13:00:09Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9174 | 2042| 
-| 20231119T12:10:34Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 475 | 62| 
-| 20231119T11:17:41Z | IMPLEMENTASI SISTEM PENUNJANG KEPUTUSAN DENGAN TUJUAN UNTUK DIAGNOSA GANGGUAN KESEHATAN MENTAL DENGAN METODE FUZZY LOGIC | https://github.com/syndronize/fuzzy-diagnosa-gangguan-kesehatan-mental | 0 | 0| 
-| 20231119T11:02:12Z | Fuzzy logic operations visualizer, powered by pyodide and plotly, JS, 2023 | https://github.com/Defasium/FuzzyLogicGraph | 0 | 0| 
-| 20231119T10:53:20Z | Null | https://github.com/loking77/fuzzy-computing-machine | 0 | 0| 
-| 20231119T10:06:54Z | LLM-powered generation-based fuzzer. | https://github.com/PrVrSs/circinus | 1 | 0| 
-| 20231119T09:29:15Z | Null | https://github.com/demetrebadzaradze/fuzzy-guide | 0 | 0| 
-| 20231119T09:25:50Z | Null | https://github.com/Ismailking12/fuzzy-space-tribble | 0 | 0| 
 
 
 
