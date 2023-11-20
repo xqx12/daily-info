@@ -26,9 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231120T01:41:24Z | CVE-2023-36427 | Report and exploit of CVE-2023-36427 | https://github.com/tandasat/CVE-2023-36427 | | 
 | 20231120T01:36:00Z | CVE-2023-2598 | LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel. | https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598 | | 
 | 20231120T01:32:25Z | CVE-2023-4357 | Chrome XXE 漏洞 POC，实现对访客者本地文件读取 | https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE | | 
-| 20231120T01:21:36Z | CVE-2023-36427 | Report and exploit of CVE-2023-36427 | https://github.com/tandasat/CVE-2023-36427 | | 
 | 20231119T22:21:35Z | CVE-2023-4357 | Apt style exploitation of Chrome 0day CVE-2023-4357 | https://github.com/OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation | | 
 | 20231118T21:56:49Z | CVE-2022-44877 | Null | https://github.com/rhymsc/CVE-2022-44877-RCE | | 
 | 20231118T13:14:04Z | CVE-2023-46604 | Null | https://github.com/NKeshawarz/CVE-2023-46604-RCE | | 
@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231120T01:42:10Z | G3nius Tools Sploit is a penetration testing tool with a lot of plugins for advanced cybersecurity attacks. User-friendly, Easy and modular! | https://github.com/witblack/G3nius-Tools-Sploit | 53 | 9| 
 | 20231120T00:37:25Z | Docker based DNS component of the Exploit Host | https://github.com/Al-Azif/exploit-host-dns | 14 | 5| 
 | 20231120T00:10:02Z | GitOps Repository | https://github.com/redhat-hac-qe/test-app-170043896-6Ktwf-establish-exploit | 0 | 0| 
 | 20231119T23:43:59Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-cq | 1 | 0| 
@@ -77,7 +78,6 @@
 | 20231119T22:49:52Z | Exploit for Webmin servers versions 1.890 through 1.920. | https://github.com/aamfrk/Webmin-CVE-2019-15107 | 0 | 0| 
 | 20231119T22:21:35Z | Apt style exploitation of Chrome 0day CVE-2023-4357 | https://github.com/OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation | 0 | 0| 
 | 20231119T14:49:56Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5500 | 1067| 
-| 20231119T13:52:27Z | 🔥Growtopia Duplicator Exploit , System Freezer Injection🔥 | https://github.com/L3GOGT/Growtopia-Duplicator-Exploit | 5 | 0| 
 
 
 # backdoor on Github 推荐
