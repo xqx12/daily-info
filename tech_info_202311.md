@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231120T02:52:57Z |  IOTgoat is a vulnerable firmware made by the OWASP project. This is a custom made version of the %IOTgoat firmware% built for the A5-V11 mini 3G router. This branch brings back the vulnerable IOT firmware back to a real IOT device, for a more realistic experience of IOT device exploitation on a budget. | https://github.com/knightr1d3r007/OWASP_IOTgoat_for_A5-V11_mini_router | 0 | 0| 
 | 20231120T02:29:29Z | Null | https://github.com/Mat-The-W-26/FTP-Terminal-Exploit | 0 | 0| 
 | 20231120T01:42:10Z | G3nius Tools Sploit is a penetration testing tool with a lot of plugins for advanced cybersecurity attacks. User-friendly, Easy and modular! | https://github.com/witblack/G3nius-Tools-Sploit | 53 | 9| 
 | 20231120T00:37:25Z | Docker based DNS component of the Exploit Host | https://github.com/Al-Azif/exploit-host-dns | 14 | 5| 
@@ -77,7 +78,6 @@
 | 20231119T23:41:47Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-cq | 1 | 0| 
 | 20231119T23:39:29Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-cq | 1 | 0| 
 | 20231119T22:49:52Z | Exploit for Webmin servers versions 1.890 through 1.920. | https://github.com/aamfrk/Webmin-CVE-2019-15107 | 0 | 0| 
-| 20231119T22:21:35Z | Apt style exploitation of Chrome 0day CVE-2023-4357 | https://github.com/OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
