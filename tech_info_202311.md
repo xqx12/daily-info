@@ -83,16 +83,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231120T11:50:16Z | 🎯 PHP / ASP - Shell Backdoor List 🎯 | https://github.com/backdoorhub/shell-backdoor-list | 584 | 647| 
+| 20231120T11:44:55Z | Federated Adversarial and Backdoor defense with Causal Inference | https://github.com/YunHao-Von/FABC | 0 | 0| 
+| 20231120T10:46:10Z | Source code for our ICCV 2023 paper %Rickrolling the Artist: Injecting Invisible Backdoors into Text-Guided Image Generation Models%. | https://github.com/LukasStruppek/Rickrolling-the-Artist | 35 | 6| 
+| 20231120T09:26:09Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 230 | 25| 
+| 20231120T09:00:22Z | This project is backdoor attack using Badnets method (data poisoning attack) for Gated-LIF | https://github.com/isoflurane/Gated-LIF-attack | 0 | 0| 
+| 20231120T07:15:59Z | A backdoor detector for BadNets trained on the YouTube Face dataset using the pruning defense. | https://github.com/singh-priyanshi/backdoor-detector_for_BadNets | 0 | 0| 
 | 20231119T20:59:35Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 2310 | 867| 
 | 20231119T20:22:41Z | BackdoorMan is a fairly simple program that runs in the background doing some naughty stuff >:) | https://github.com/freedombrowser/BackdoorMan | 0 | 0| 
-| 20231119T20:02:32Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 229 | 25| 
 | 20231119T16:49:14Z | Corresponding code for the paper: %Sneaky Spikes: Uncovering Stealthy Backdoor Attacks in Spiking Neural Networks with Neuromorphic Data%, at Network and Distributed System Security (NDSS). | https://github.com/GorkaAbad/Sneaky-Spikes | 0 | 0| 
 | 20231119T10:56:48Z | CLEAN FRESHLY CODED DRAINER, NO BACKDOOR | https://github.com/godfather9916/Multi-Network-Drainer | 0 | 0| 
-| 20231118T20:24:09Z | Null | https://github.com/black-backdoor/black-backdoor | 0 | 0| 
-| 20231118T11:37:31Z | In this project, we construct a backdoor of Kyber through mceliece, which shows the potential risk in Kyber. | https://github.com/Summwer/kyber-backdoor | 0 | 0| 
-| 20231117T20:48:07Z | Null | https://github.com/JPAGhosn/BackdoorProjectPython | 0 | 0| 
-| 20231117T18:00:59Z | I like cybersecurity, and these are my things. | https://github.com/backDOORtothefuture/backDOORtothefuture | 0 | 0| 
-| 20231117T17:25:11Z | Null | https://github.com/VKspyder2003/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐

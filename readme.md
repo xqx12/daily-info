@@ -58,6 +58,12 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231120T11:50:16Z | 🎯 PHP / ASP - Shell Backdoor List 🎯 | https://github.com/backdoorhub/shell-backdoor-list | 584 | 647| 
+| 20231120T11:44:55Z | Federated Adversarial and Backdoor defense with Causal Inference | https://github.com/YunHao-Von/FABC | 0 | 0| 
+| 20231120T10:46:10Z | Source code for our ICCV 2023 paper %Rickrolling the Artist: Injecting Invisible Backdoors into Text-Guided Image Generation Models%. | https://github.com/LukasStruppek/Rickrolling-the-Artist | 35 | 6| 
+| 20231120T09:26:09Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 230 | 25| 
+| 20231120T09:00:22Z | This project is backdoor attack using Badnets method (data poisoning attack) for Gated-LIF | https://github.com/isoflurane/Gated-LIF-attack | 0 | 0| 
+| 20231120T07:15:59Z | A backdoor detector for BadNets trained on the YouTube Face dataset using the pruning defense. | https://github.com/singh-priyanshi/backdoor-detector_for_BadNets | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
