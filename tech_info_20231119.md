@@ -27,6 +27,7 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20231119T22:21:35Z | CVE-2023-4357 | Apt style exploitation of Chrome 0day CVE-2023-4357 | https://github.com/OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation | | 
+| 20231119T21:58:48Z | CVE-2023-47246 | exploit for cve-2023-47246 SysAid RCE (shell upload) | https://github.com/W01fh4cker/CVE-2023-47246-EXP | | 
 
 
 # klee on Github 推荐

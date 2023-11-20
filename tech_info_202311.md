@@ -30,12 +30,12 @@
 | 20231120T01:41:24Z | CVE-2023-36427 | Report and exploit of CVE-2023-36427 | https://github.com/tandasat/CVE-2023-36427 | | 
 | 20231120T01:32:25Z | CVE-2023-4357 | Chrome XXE 漏洞 POC，实现对访客者本地文件读取 | https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE | | 
 | 20231119T22:21:35Z | CVE-2023-4357 | Apt style exploitation of Chrome 0day CVE-2023-4357 | https://github.com/OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation | | 
+| 20231119T21:58:48Z | CVE-2023-47246 | exploit for cve-2023-47246 SysAid RCE (shell upload) | https://github.com/W01fh4cker/CVE-2023-47246-EXP | | 
 | 20231118T21:56:49Z | CVE-2022-44877 | Null | https://github.com/rhymsc/CVE-2022-44877-RCE | | 
 | 20231118T13:14:04Z | CVE-2023-46604 | Null | https://github.com/NKeshawarz/CVE-2023-46604-RCE | | 
 | 20231118T12:45:06Z | CVE-2022-20338 | Null | https://github.com/Trinadh465/frameworks_base_AOSP_10_r33_CVE-2022-20338 | | 
 | 20231118T12:43:05Z | CVE-2023-32571 | Null | https://github.com/Tris0n/CVE-2023-32571-POC | | 
 | 20231118T12:30:55Z | CVE-2023-47102 | Null | https://github.com/nitipoom-jar/CVE-2023-47102 | | 
-| 20231118T12:20:04Z | CVE-2023-47246 | exploit for cve-2023-47246 SysAid RCE (shell upload) | https://github.com/W01fh4cker/CVE-2023-47246-EXP | | 
 
 
 # klee on Github 推荐
