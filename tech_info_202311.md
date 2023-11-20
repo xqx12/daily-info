@@ -128,6 +128,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231120T02:45:04Z | Null | https://github.com/erickfernandox/cache_posioning_fuzzer | 0 | 0| 
 | 20231120T02:31:25Z | A web directory fuzzer and scanner | https://github.com/TariqShahwan/SpiderScouter | 0 | 0| 
 | 20231120T01:55:05Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4089 | 836| 
 | 20231120T01:09:20Z | software engineering demo repo | https://github.com/GammaSpark/fuzzy-train | 0 | 0| 
@@ -137,7 +138,6 @@
 | 20231119T22:05:39Z | Null | https://github.com/jorjikiao/fuzzy-spoon | 0 | 0| 
 | 20231119T21:52:40Z | Null | https://github.com/VladyslavMiliev/fuzzy-analytical-hierarchy-process | 1 | 0| 
 | 20231119T21:43:56Z | homework and supplementary code for performance aware programming series - in java | https://github.com/jonjohnsontc/fuzzy-octo-funicular | 0 | 0| 
-| 20231119T17:38:27Z | Fuzzing CI | https://github.com/Nogginz/AstraAnswer | 0 | 0| 
 
 
 
