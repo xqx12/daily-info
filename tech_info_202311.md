@@ -26,9 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231120T02:51:23Z | CVE-2023-2598 | LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel. | https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598 | | 
 | 20231120T02:49:40Z | CVE-2023-4357 | Chrome XXE 漏洞 POC，实现对访客者本地文件读取 | https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE | | 
 | 20231120T02:25:50Z | CVE-2023-46604 | PY | https://github.com/minhangxiaohui/ActiveMQ_CVE-2023-46604 | | 
-| 20231120T02:11:43Z | CVE-2023-2598 | LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel. | https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598 | | 
 | 20231120T01:41:24Z | CVE-2023-36427 | Report and exploit of CVE-2023-36427 | https://github.com/tandasat/CVE-2023-36427 | | 
 | 20231119T22:21:35Z | CVE-2023-4357 | Apt style exploitation of Chrome 0day CVE-2023-4357 | https://github.com/OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation | | 
 | 20231119T21:58:48Z | CVE-2023-47246 | exploit for cve-2023-47246 SysAid RCE (shell upload) | https://github.com/W01fh4cker/CVE-2023-47246-EXP | | 
@@ -41,7 +41,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231120T01:21:57Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14385 | 431| 
+| 20231120T02:52:14Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14386 | 431| 
 | 20231119T18:56:27Z | This is the one! | https://github.com/klee-os/Klee-OS | 0 | 0| 
 | 20231119T16:21:18Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 388 | 8| 
 | 20231119T01:09:01Z | Null | https://github.com/hoolisoftware/kleewish | 0 | 0| 
