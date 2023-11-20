@@ -128,6 +128,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231120T13:44:38Z | Null | https://github.com/Alaete/student-fuzzer | 0 | 0| 
 | 20231120T12:54:16Z | Generate initial seed files using Large Language Models (LLMs). Compatible with many state-of-the-art fuzzers such as AFL++ and libFuzzer. | https://github.com/elwint/seedai | 0 | 0| 
 | 20231120T12:46:37Z | tbh i just want free cross platform ci builds and artifact hosting for fuzzing dnh | https://github.com/demogorgon22/dnethack-observation-center | 0 | 0| 
 | 20231120T12:36:43Z | Null | https://github.com/Alaete/Student-Fuzzer-with-N-Gram-coverage-metric | 0 | 0| 
@@ -137,7 +138,6 @@
 | 20231120T10:30:19Z | Null | https://github.com/fff-vr/smb_fuzzer | 0 | 0| 
 | 20231120T08:43:05Z | Null | https://github.com/sallywang147/fuzzing | 0 | 0| 
 | 20231120T08:10:14Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9176 | 2043| 
-| 20231120T07:18:43Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1610 | 237| 
 
 
 
