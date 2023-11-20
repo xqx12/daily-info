@@ -52,11 +52,11 @@
 | 20231119T23:41:47Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-cq | 1 | 0| 
 | 20231119T23:39:29Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-cq | 1 | 0| 
 | 20231119T22:49:52Z | Exploit for Webmin servers versions 1.890 through 1.920. | https://github.com/aamfrk/Webmin-CVE-2019-15107 | 0 | 0| 
+| 20231119T22:21:35Z | Apt style exploitation of Chrome 0day CVE-2023-4357 | https://github.com/OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation | 0 | 0| 
 | 20231119T14:49:56Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5500 | 1067| 
 | 20231119T13:52:27Z | 🔥Growtopia Duplicator Exploit , System Freezer Injection🔥 | https://github.com/L3GOGT/Growtopia-Duplicator-Exploit | 5 | 0| 
 | 20231119T13:19:21Z | Null | https://github.com/cavzox/Console-Exploit | 0 | 0| 
 | 20231119T12:08:14Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10906 | 1662| 
-| 20231119T12:03:41Z | useful file which can fix any error related to roblox | https://github.com/N0Tpengu/Cereal-Fixer | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -72,8 +72,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231119T19:21:23Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 460 | 33| 
 | 20231119T12:40:51Z | A prototype tool for symbolic execution of quantum programs (QSE) with symbolic stabilizer states. | https://github.com/njuwfang/QuantumSE.jl | 0 | 0| 
-| 20231119T11:18:41Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 458 | 33| 
 
 
 # big4 on Github 推荐
