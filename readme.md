@@ -79,6 +79,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231119T16:49:14Z | Corresponding code for the paper: %Sneaky Spikes: Uncovering Stealthy Backdoor Attacks in Spiking Neural Networks with Neuromorphic Data%, at Network and Distributed System Security (NDSS). | https://github.com/GorkaAbad/Sneaky-Spikes | 0 | 0| 
 | 20231119T10:19:43Z | This is the source code for SSL-WM. Our paper is accepted by the Network and Distributed System Security Symposium (NDSS) 2024. | https://github.com/lvpeizhuo/SSL-WM | 0 | 0| 
 | 20231119T08:00:19Z | NDSS 2024 - CamPro: Camera-based Anti-Facial Recognition | https://github.com/forget2save/CamPro | 0 | 0| 
 
