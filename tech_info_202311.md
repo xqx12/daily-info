@@ -68,16 +68,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231120T13:54:06Z | Null | https://github.com/JavaScripterv4/Tiktok-Coin-Exploit | 0 | 0| 
+| 20231120T13:49:11Z | Null | https://github.com/0xpolarzero/storage-exploit-formal-verification | 0 | 0| 
 | 20231120T13:36:21Z | This is NOT my work, it is a backup of the Henlo exploit (20/11/2023) | https://github.com/AntHJ/henlo_jb | 0 | 0| 
 | 20231120T13:26:54Z | CTI (Cyber Thread Intelligence) Araştırmalarım #StopRansomware | https://github.com/alicangnll/CTI_Arastirmalarim | 3 | 0| 
 | 20231120T13:25:35Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-CxxO7-exploit-achieve | 0 | 0| 
 | 20231120T13:09:26Z | Null | https://github.com/Aakash9111/Win-Exploitation | 0 | 0| 
-| 20231120T12:43:39Z | Null | https://github.com/0xpolarzero/storage-exploit-formal-verification | 0 | 0| 
 | 20231120T12:05:09Z | Improved code of Daniele Scanu SQL Injection exploit | https://github.com/byrek/CVE-2019-9053 | 0 | 0| 
 | 20231120T11:41:33Z | Stockage et exploitation de tables de routage | https://github.com/Kazzad/Routeur-ADA | 0 | 0| 
 | 20231120T11:37:52Z | Null | https://github.com/User-0899/Hack_WiiU_5.5.X_Exploit_2 | 0 | 0| 
 | 20231120T11:29:55Z | This repository contains Exploits of MiTRE tactics | https://github.com/NomanNasirMinhas/GoLang-MITRE-Exploits | 0 | 0| 
-| 20231120T09:56:31Z | Null | https://github.com/M11K33L/Tiny-File-Manager-exploit | 1 | 0| 
 
 
 # backdoor on Github 推荐
