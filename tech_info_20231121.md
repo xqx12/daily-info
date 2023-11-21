@@ -35,8 +35,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231121T13:15:59Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14417 | 433| 
 | 20231121T08:52:44Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2360 | 639| 
-| 20231121T08:05:32Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14416 | 433| 
 | 20231121T01:12:20Z | Config files for my GitHub profile. | https://github.com/Kleeyow/Kleeyow | 0 | 0| 
 
 
@@ -72,6 +72,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231121T13:08:58Z | A prototype tool for symbolic execution of quantum programs (QSE) with symbolic stabilizer states. | https://github.com/njuwfang/QuantumSE.jl | 1 | 1| 
 | 20231121T08:52:44Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2360 | 639| 
 
 

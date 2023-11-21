@@ -41,8 +41,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231121T13:15:59Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14417 | 433| 
 | 20231121T08:52:44Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2360 | 639| 
-| 20231121T08:05:32Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14416 | 433| 
 | 20231121T01:12:20Z | Config files for my GitHub profile. | https://github.com/Kleeyow/Kleeyow | 0 | 0| 
 | 20231120T03:59:24Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 390 | 8| 
 | 20231119T18:56:27Z | This is the one! | https://github.com/klee-os/Klee-OS | 0 | 0| 
@@ -98,9 +98,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231121T13:08:58Z | A prototype tool for symbolic execution of quantum programs (QSE) with symbolic stabilizer states. | https://github.com/njuwfang/QuantumSE.jl | 1 | 1| 
 | 20231121T08:52:44Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2360 | 639| 
 | 20231120T16:08:45Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 466 | 33| 
-| 20231119T12:40:51Z | A prototype tool for symbolic execution of quantum programs (QSE) with symbolic stabilizer states. | https://github.com/njuwfang/QuantumSE.jl | 0 | 1| 
 | 20231118T22:52:58Z | A mini symbolic execution engine for simple JavaScript programs | https://github.com/tkhang1999/mini-symex-js | 0 | 0| 
 | 20231118T16:50:49Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 268 | 36| 
 | 20231118T08:59:59Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 710 | 126| 
