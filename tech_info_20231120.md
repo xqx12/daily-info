@@ -19,7 +19,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231120T23:51:20Z | CVE-2023-4357 | Apt style exploitation of Chrome 0day CVE-2023-4357 | https://github.com/OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation | | 
 | 20231120T20:48:24Z | 未知编号 | CVE_2023_22518_Checker | https://github.com/0x00sector/CVE_2023_22518_Checker | | 
 | 20231120T19:05:51Z | CVE-2023-40600 | EWWW Image Optimizer <= 7.2.0 - Unauthenticated Sensitive Information Exposure via Debug Log | https://github.com/RandomRobbieBF/CVE-2023-40600 | | 
 | 20231120T18:37:25Z | CVE-2023-1177 | Learn more things, not suck all things | https://github.com/tiyeume25112004/CVE-2023-1177-rebuild | | 
@@ -28,7 +27,6 @@
 | 20231120T13:51:44Z | CVE-2021-41773 | Null | https://github.com/Iris288/CVE-2021-41773 | | 
 | 20231120T12:56:27Z | CVE-2023-4357 | CVE-2023-4357. Chrome XXE 漏洞 POC, 实现对访客者本地文件读取. Chrome XXE vulnerability POC, allowing attackers to obtain local files of visitors. | https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE | | 
 | 20231120T11:57:25Z | CVE-2023-46604 | Null | https://github.com/nitzanoligo/CVE-2023-46604-demo | | 
-| 20231120T02:25:50Z | CVE-2023-46604 | PY | https://github.com/minhangxiaohui/ActiveMQ_CVE-2023-46604 | | 
 
 
 # klee on Github 推荐
