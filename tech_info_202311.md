@@ -68,8 +68,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231121T02:26:52Z | A collection of real world AI/ML exploits for responsibly disclosed vulnerabilities  | https://github.com/protectai/ai-exploits | 778 | 28| 
 | 20231121T02:24:12Z | Null | https://github.com/Yasan-Ransika/CVE-Exploit---2011-2523 | 0 | 0| 
-| 20231121T02:15:12Z | A collection of real world AI/ML exploits for responsibly disclosed vulnerabilities  | https://github.com/protectai/ai-exploits | 777 | 28| 
 | 20231121T01:39:12Z | Null | https://github.com/scr1ptie/exploit-programming | 0 | 0| 
 | 20231121T01:37:11Z | Exploit scripts (like IY) that you can build into your game | https://github.com/MaxxusX/RC-Scripts | 0 | 0| 
 | 20231121T00:26:16Z | Rusty Arsenal - A collection of experimental Process Injection and Post-Exploitation Techniques in Rust | https://github.com/memN0ps/arsenal-rs | 153 | 26| 
