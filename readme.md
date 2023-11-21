@@ -85,6 +85,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231121T13:26:23Z | fuzzeREST is an open-source hard fork of Unity%s Hot-Fuzz | https://github.com/sherbie/fuzzerest | 2 | 0| 
 | 20231121T13:10:06Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1611 | 236| 
 | 20231121T11:05:51Z | Null | https://github.com/clementsiegrist/FuzzyShapeReco | 0 | 0| 
 | 20231121T11:05:33Z | Null | https://github.com/rakwaht/EasyFuzzing_AFL_PlusPlus | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20231121T01:48:08Z | space analysis | https://github.com/squeedgy/fuzzy-guide | 0 | 0| 
 | 20231121T00:38:47Z | Null | https://github.com/erickfernandox/ssrf_fuzzer | 0 | 0| 
 | 20231121T00:24:49Z | Master project at VU Amsterdam by Prashanth varma dommaraju.  This project focuses on the application of error fuzzing to Kubernetes structs, leveraging the strengths of protobuf-mutator for comprehensive error testing. | https://github.com/cymtrick/kubefuzzthesis | 0 | 0| 
-| 20231121T00:23:47Z | Null | https://github.com/raballam/fuzzy-eureka | 0 | 0| 
 
 
 
