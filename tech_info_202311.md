@@ -68,16 +68,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231121T02:26:52Z | A collection of real world AI/ML exploits for responsibly disclosed vulnerabilities  | https://github.com/protectai/ai-exploits | 778 | 28| 
+| 20231121T02:38:17Z | A collection of real world AI/ML exploits for responsibly disclosed vulnerabilities  | https://github.com/protectai/ai-exploits | 782 | 28| 
+| 20231121T02:30:06Z | Null | https://github.com/Yasan-Ransika/CVE-Exploit | 0 | 0| 
 | 20231121T02:24:12Z | Null | https://github.com/Yasan-Ransika/CVE-Exploit---2011-2523 | 0 | 0| 
 | 20231121T01:39:12Z | Null | https://github.com/scr1ptie/exploit-programming | 0 | 0| 
 | 20231121T01:37:11Z | Exploit scripts (like IY) that you can build into your game | https://github.com/MaxxusX/RC-Scripts | 0 | 0| 
+| 20231121T01:12:35Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5666 | 765| 
 | 20231121T00:26:16Z | Rusty Arsenal - A collection of experimental Process Injection and Post-Exploitation Techniques in Rust | https://github.com/memN0ps/arsenal-rs | 153 | 26| 
 | 20231121T00:18:03Z | A Wi-Fi honeypot is a fake wireless network that is set up to lure unsuspecting users and collect their data or infect their devices with malware. It is a common technique used by hackers and cybercriminals to exploit the public’s demand for free Wi-Fi access. | https://github.com/DanyBit/M5Stick-CPlus-CaptPort | 0 | 0| 
 | 20231120T23:27:48Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-px | 1 | 0| 
 | 20231120T23:26:12Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-px | 1 | 0| 
-| 20231120T23:25:13Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-px | 1 | 0| 
-| 20231120T23:24:20Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-px | 1 | 0| 
 
 
 # backdoor on Github 推荐
