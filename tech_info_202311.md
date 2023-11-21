@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231121T13:05:01Z | CVE-2023-20911 | Null | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20911 | | 
+| 20231121T13:13:02Z | CVE-2023-20911 | Null | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20911 | | 
 | 20231121T12:41:36Z | CVE-2023-2598 | LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel. | https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598 | | 
 | 20231121T12:22:14Z | CVE-2023-4622 | Null | https://github.com/nidhi7598/linux-4.19.72_net_CVE-2023-4622 | | 
 | 20231121T11:24:54Z | CVE-2021-43798 | Null | https://github.com/Iris288/CVE-2021-43798 | | 
