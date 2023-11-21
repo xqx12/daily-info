@@ -11,37 +11,38 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20231121 | OpenHarmony安全指南 | https://docs.openharmony.cn/pages/v4.0/zh-cn/device-dev/security/security-guidelines-overall.md/| 
+| 20231121 | blazehttp: 可用于安全测试的非标准HTTP协议解析库 | https://github.com/chaitin/blazehttp| 
+| 20231121 | DARPA“内生认知安全”项目综述 | https://mp.weixin.qq.com/s/3ryPezdHitR4PBXWuRsl4g| 
+| 20231121 | 境外认知战作战力量及技术装备综述 | https://mp.weixin.qq.com/s/iDI5DhXKPUAIICb7RTAaFw| 
 | 20231120 | SecWiki周刊（第507期) | https://www.sec-wiki.com/weekly/507| 
 | 20231120 | 深度剖析GadgetInspector执行逻辑(下) | https://www.sec-in.com/article/2083| 
 | 20231120 | 工商银行美国子公司勒索病毒事件分析 | https://mp.weixin.qq.com/s/FKmd5g9tKgznGgmdHB0jPA| 
 | 20231119 | Your printer is not your printer ! - Hacking Printers at P... | https://devco.re/blog/2023/11/06/your-printer-is-not-your-printer-hacking-printers-pwn2own-part2/| 
 | 20231119 | 多款Java模板引擎对比与模板注入的安全之旅 | https://xz.aliyun.com/t/12969| 
 | 20231119 | Defense Evasion(防御规避) | https://mp.weixin.qq.com/s/F0asRsaqOMvxHcu70kavZg| 
-| 20231119 | 美国推进网络空间安全发展的新举措 | https://mp.weixin.qq.com/s/M6Ot2f9YW-58cbNXs10YbA| 
-| 20231119 | Our audit of PyPI | https://blog.trailofbits.com/2023/11/14/our-audit-of-pypi/| 
-| 20231119 | Google WebP图像编解码库漏洞分析(CVE-2023-4863) | https://mp.weixin.qq.com/s/xy4SA9MDe5cPchoc8TJQ0w| 
-| 20231119 | 揭秘 VPN 背后的黑灰产组织 | https://paper.seebug.org/3062/| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231121T12:41:36Z | CVE-2023-2598 | LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel. | https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598 | | 
+| 20231121T12:22:14Z | CVE-2023-4622 | Null | https://github.com/nidhi7598/linux-4.19.72_net_CVE-2023-4622 | | 
+| 20231121T11:24:54Z | CVE-2021-43798 | Null | https://github.com/Iris288/CVE-2021-43798 | | 
+| 20231121T10:55:06Z | CVE-2023-4357 | Apt style exploitation of Chrome 0day CVE-2023-4357 | https://github.com/OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation | | 
+| 20231121T10:47:46Z | CVE-2023-4357 | 全球首款单文件利用 CVE-2023-4357 Chrome XXE 漏洞 EXP, 实现对访客者本地文件窃取. Chrome XXE vulnerability EXP, allowing attackers to obtain local files of visitors. | https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE | | 
+| 20231121T05:39:35Z | CVE-2023-4357 | Null | https://github.com/passwa11/CVE-2023-4357-APT-Style-exploitation | | 
 | 20231121T02:58:20Z | CVE-2023-36427 | Report and exploit of CVE-2023-36427 | https://github.com/tandasat/CVE-2023-36427 | | 
-| 20231121T02:52:18Z | CVE-2023-4357 | CVE-2023-4357. Chrome XXE 漏洞 POC, 实现对访客者本地文件读取. Chrome XXE vulnerability POC, allowing attackers to obtain local files of visitors. | https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE | | 
 | 20231121T02:36:09Z | CVE-2022-0337 | Null | https://github.com/zer0ne1/CVE-2022-0337-RePoC | | 
 | 20231121T01:50:16Z | CVE-2023-46604 | PY | https://github.com/minhangxiaohui/ActiveMQ_CVE-2023-46604 | | 
-| 20231121T01:49:54Z | CVE-2023-4357 | Apt style exploitation of Chrome 0day CVE-2023-4357 | https://github.com/OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation | | 
-| 20231121T01:33:38Z | CVE-2023-2598 | LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel. | https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598 | | 
 | 20231120T20:48:24Z | 未知编号 | CVE_2023_22518_Checker | https://github.com/0x00sector/CVE_2023_22518_Checker | | 
-| 20231120T19:05:51Z | CVE-2023-40600 | EWWW Image Optimizer <= 7.2.0 - Unauthenticated Sensitive Information Exposure via Debug Log | https://github.com/RandomRobbieBF/CVE-2023-40600 | | 
-| 20231120T18:37:25Z | CVE-2023-1177 | Learn more things, not suck all things | https://github.com/tiyeume25112004/CVE-2023-1177-rebuild | | 
-| 20231120T18:31:46Z | CVE-2023-48034 | Weak encryption in Acer Wireless Keyboard SK-9662 allows attacker in physical proximity to both decrypt wireless keystrokes and inject wireless arbitrary keystrokes. | https://github.com/aprkr/CVE-2023-48034 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231121T02:34:12Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14408 | 433| 
+| 20231121T08:52:44Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2360 | 639| 
+| 20231121T08:05:32Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14416 | 433| 
 | 20231121T01:12:20Z | Config files for my GitHub profile. | https://github.com/Kleeyow/Kleeyow | 0 | 0| 
 | 20231120T03:59:24Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 390 | 8| 
 | 20231119T18:56:27Z | This is the one! | https://github.com/klee-os/Klee-OS | 0 | 0| 
@@ -49,7 +50,6 @@
 | 20231118T14:15:38Z | Null | https://github.com/dimitricbrown/KLEEFE | 0 | 0| 
 | 20231118T14:11:07Z | Null | https://github.com/dimitricbrown/KLEEBE | 0 | 0| 
 | 20231118T12:24:15Z | Null | https://github.com/Kleeat/Kleeat.github.io | 0 | 0| 
-| 20231118T08:22:00Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2363 | 639| 
 | 20231116T14:45:23Z | Null | https://github.com/riesentoaster/klee-software-evolution | 0 | 0| 
 
 
@@ -128,16 +128,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231121T11:05:51Z | Null | https://github.com/clementsiegrist/FuzzyShapeReco | 0 | 0| 
+| 20231121T11:05:33Z | Null | https://github.com/rakwaht/EasyFuzzing_AFL_PlusPlus | 0 | 0| 
+| 20231121T09:32:22Z | Null | https://github.com/reddangerous/fuzzy-waffle | 0 | 0| 
+| 20231121T04:21:18Z | Null | https://github.com/fff-vr/smb_fuzzer | 0 | 0| 
 | 20231121T01:55:35Z | Python implementation of Wang-Mendel automatic rule generation.  | https://github.com/mdrs-thiago/fuzzy_autorules | 0 | 0| 
 | 20231121T01:48:08Z | space analysis | https://github.com/squeedgy/fuzzy-guide | 0 | 0| 
 | 20231121T00:38:47Z | Null | https://github.com/erickfernandox/ssrf_fuzzer | 0 | 0| 
 | 20231121T00:24:49Z | Master project at VU Amsterdam by Prashanth varma dommaraju.  This project focuses on the application of error fuzzing to Kubernetes structs, leveraging the strengths of protobuf-mutator for comprehensive error testing. | https://github.com/cymtrick/kubefuzzthesis | 0 | 0| 
 | 20231121T00:23:47Z | Null | https://github.com/raballam/fuzzy-eureka | 0 | 0| 
 | 20231120T23:54:17Z | A repo designed to fuzz and test the secp256r1 implementation on Solana | https://github.com/Bunkr-2FA/SIMD-48-Testing | 0 | 0| 
-| 20231120T22:55:57Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1610 | 237| 
-| 20231120T20:57:46Z | Beginners guide and basic introduction to Fuzzing, specifically Echidna. | https://github.com/GYNXdon/New2Fuzzing | 0 | 0| 
-| 20231120T13:44:38Z | Null | https://github.com/Alaete/student-fuzzer | 0 | 0| 
-| 20231120T13:38:05Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 475 | 61| 
 
 
 
