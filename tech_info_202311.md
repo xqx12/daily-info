@@ -26,9 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231121T02:47:19Z | CVE-2023-36427 | Report and exploit of CVE-2023-36427 | https://github.com/tandasat/CVE-2023-36427 | | 
 | 20231121T02:36:09Z | CVE-2022-0337 | Null | https://github.com/zer0ne1/CVE-2022-0337-RePoC | | 
 | 20231121T02:17:09Z | CVE-2023-4357 | CVE-2023-4357. Chrome XXE 漏洞 POC, 实现对访客者本地文件读取. Chrome XXE vulnerability POC, allowing attackers to obtain local files of visitors. | https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE | | 
-| 20231121T02:01:54Z | CVE-2023-36427 | Report and exploit of CVE-2023-36427 | https://github.com/tandasat/CVE-2023-36427 | | 
 | 20231121T01:50:16Z | CVE-2023-46604 | PY | https://github.com/minhangxiaohui/ActiveMQ_CVE-2023-46604 | | 
 | 20231121T01:49:54Z | CVE-2023-4357 | Apt style exploitation of Chrome 0day CVE-2023-4357 | https://github.com/OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation | | 
 | 20231121T01:33:38Z | CVE-2023-2598 | LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel. | https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598 | | 
