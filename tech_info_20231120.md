@@ -53,8 +53,8 @@
 | 20231120T21:49:01Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5502 | 1068| 
 | 20231120T20:17:15Z | Null | https://github.com/bielzaoo/exploit_port_swigger_sqli | 0 | 0| 
 | 20231120T19:31:50Z | Legion is an open source, easy-to-use, super-extensible and semi-automated network penetration testing tool that aids in discovery, reconnaissance and exploitation of information systems. | https://github.com/GoVanguard/legion | 930 | 169| 
+| 20231120T18:19:11Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 172 | 14| 
 | 20231120T13:54:06Z | Null | https://github.com/JavaScripterv4/Tiktok-Coin-Exploit | 0 | 0| 
-| 20231120T13:49:11Z | Null | https://github.com/0xpolarzero/storage-exploit-formal-verification | 0 | 0| 
 
 
 # backdoor on Github 推荐
