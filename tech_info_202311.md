@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231121T02:24:12Z | Null | https://github.com/Yasan-Ransika/CVE-Exploit---2011-2523 | 0 | 0| 
 | 20231121T02:15:12Z | A collection of real world AI/ML exploits for responsibly disclosed vulnerabilities  | https://github.com/protectai/ai-exploits | 777 | 28| 
 | 20231121T01:39:12Z | Null | https://github.com/scr1ptie/exploit-programming | 0 | 0| 
 | 20231121T01:37:11Z | Exploit scripts (like IY) that you can build into your game | https://github.com/MaxxusX/RC-Scripts | 0 | 0| 
@@ -77,7 +78,6 @@
 | 20231120T23:26:12Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-px | 1 | 0| 
 | 20231120T23:25:13Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-px | 1 | 0| 
 | 20231120T23:24:20Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-px | 1 | 0| 
-| 20231120T22:21:55Z | Basic roblox exploit written in C# using KRNL API  | https://github.com/welfare-systems/phoenix-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
