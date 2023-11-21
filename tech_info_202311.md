@@ -113,13 +113,13 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231121T10:18:55Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 34 | 6| 
 | 20231119T16:49:14Z | Corresponding code for the paper: %Sneaky Spikes: Uncovering Stealthy Backdoor Attacks in Spiking Neural Networks with Neuromorphic Data%, at Network and Distributed System Security (NDSS). | https://github.com/GorkaAbad/Sneaky-Spikes | 0 | 0| 
 | 20231119T10:19:43Z | This is the source code for SSL-WM. Our paper is accepted by the Network and Distributed System Security Symposium (NDSS) 2024. | https://github.com/lvpeizhuo/SSL-WM | 0 | 0| 
 | 20231119T08:00:19Z | NDSS 2024 - CamPro: Camera-based Anti-Facial Recognition | https://github.com/forget2save/CamPro | 0 | 0| 
 | 20231118T23:01:23Z | Source code for the paper %SLMIA-SR: Speaker-Level Membership Inference Attacks against Speaker Recognition Systems% accepted by NDSS 2024 | https://github.com/S3L-official/SLMIA-SR | 4 | 0| 
 | 20231118T01:41:26Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 90 | 4| 
 | 20231116T05:32:34Z | Null | https://github.com/marikrishnan04/ndssd | 0 | 0| 
-| 20231110T07:30:25Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 33 | 6| 
 | 20231109T09:12:59Z | Source code for our NDSS%18 paper %Automated Website Fingerprinting through Deep Learning% | https://github.com/DistriNet/DLWF | 84 | 39| 
 | 20231109T04:38:44Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 31 | 2| 
 | 20231106T03:05:55Z | A carwler for cyber security conferences including the big 4 (SP, Usenix Security, NDSS, CCS) and some software conferences. | https://github.com/QGrain/conference-crawler | 0 | 0| 
