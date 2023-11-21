@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231121T02:17:09Z | CVE-2023-4357 | CVE-2023-4357. Chrome XXE 漏洞 POC, 实现对访客者本地文件读取. Chrome XXE vulnerability POC, allowing attackers to obtain local files of visitors. | https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE | | 
 | 20231121T02:01:54Z | CVE-2023-36427 | Report and exploit of CVE-2023-36427 | https://github.com/tandasat/CVE-2023-36427 | | 
 | 20231121T01:50:16Z | CVE-2023-46604 | PY | https://github.com/minhangxiaohui/ActiveMQ_CVE-2023-46604 | | 
 | 20231121T01:49:54Z | CVE-2023-4357 | Apt style exploitation of Chrome 0day CVE-2023-4357 | https://github.com/OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation | | 
@@ -35,7 +36,6 @@
 | 20231120T18:37:25Z | CVE-2023-1177 | Learn more things, not suck all things | https://github.com/tiyeume25112004/CVE-2023-1177-rebuild | | 
 | 20231120T18:31:46Z | CVE-2023-48034 | Weak encryption in Acer Wireless Keyboard SK-9662 allows attacker in physical proximity to both decrypt wireless keystrokes and inject wireless arbitrary keystrokes. | https://github.com/aprkr/CVE-2023-48034 | | 
 | 20231120T17:36:18Z | CVE-2023-4966 | Scripts to get infos | https://github.com/s-bt/CVE-2023-4966 | | 
-| 20231120T13:51:44Z | CVE-2021-41773 | Null | https://github.com/Iris288/CVE-2021-41773 | | 
 
 
 # klee on Github 推荐

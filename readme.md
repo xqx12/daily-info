@@ -25,7 +25,6 @@
 | 20231120T18:31:46Z | CVE-2023-48034 | Weak encryption in Acer Wireless Keyboard SK-9662 allows attacker in physical proximity to both decrypt wireless keystrokes and inject wireless arbitrary keystrokes. | https://github.com/aprkr/CVE-2023-48034 | | 
 | 20231120T17:36:18Z | CVE-2023-4966 | Scripts to get infos | https://github.com/s-bt/CVE-2023-4966 | | 
 | 20231120T13:51:44Z | CVE-2021-41773 | Null | https://github.com/Iris288/CVE-2021-41773 | | 
-| 20231120T12:56:27Z | CVE-2023-4357 | CVE-2023-4357. Chrome XXE 漏洞 POC, 实现对访客者本地文件读取. Chrome XXE vulnerability POC, allowing attackers to obtain local files of visitors. | https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE | | 
 | 20231120T11:57:25Z | CVE-2023-46604 | Null | https://github.com/nitzanoligo/CVE-2023-46604-demo | | 
 
 
