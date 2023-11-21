@@ -68,7 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231121T02:38:17Z | A collection of real world AI/ML exploits for responsibly disclosed vulnerabilities  | https://github.com/protectai/ai-exploits | 782 | 28| 
+| 20231121T02:46:52Z | A collection of real world AI/ML exploits for responsibly disclosed vulnerabilities  | https://github.com/protectai/ai-exploits | 783 | 28| 
 | 20231121T02:30:06Z | Null | https://github.com/Yasan-Ransika/CVE-Exploit | 0 | 0| 
 | 20231121T02:24:12Z | Null | https://github.com/Yasan-Ransika/CVE-Exploit---2011-2523 | 0 | 0| 
 | 20231121T01:39:12Z | Null | https://github.com/scr1ptie/exploit-programming | 0 | 0| 
