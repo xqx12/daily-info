@@ -128,6 +128,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231121T01:53:40Z | Python implementation of Wang-Mendel automatic rule generation.  | https://github.com/mdrs-thiago/fuzzy_autorules | 0 | 0| 
 | 20231121T01:48:08Z | space analysis | https://github.com/squeedgy/fuzzy-guide | 0 | 0| 
 | 20231121T00:38:47Z | Null | https://github.com/erickfernandox/ssrf_fuzzer | 0 | 0| 
 | 20231121T00:24:49Z | Master project at VU Amsterdam by Prashanth varma dommaraju.  This project focuses on the application of error fuzzing to Kubernetes structs, leveraging the strengths of protobuf-mutator for comprehensive error testing. | https://github.com/cymtrick/kubefuzzthesis | 0 | 0| 
@@ -137,7 +138,6 @@
 | 20231120T20:57:46Z | Beginners guide and basic introduction to Fuzzing, specifically Echidna. | https://github.com/GYNXdon/New2Fuzzing | 0 | 0| 
 | 20231120T13:44:38Z | Null | https://github.com/Alaete/student-fuzzer | 0 | 0| 
 | 20231120T13:38:05Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 475 | 61| 
-| 20231120T12:54:16Z | Generate initial seed files using Large Language Models (LLMs). Compatible with many state-of-the-art fuzzers such as AFL++ and libFuzzer. | https://github.com/elwint/seedai | 0 | 0| 
 
 
 
