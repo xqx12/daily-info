@@ -26,22 +26,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231121T00:51:09Z | CVE-2023-36427 | Report and exploit of CVE-2023-36427 | https://github.com/tandasat/CVE-2023-36427 | | 
+| 20231121T00:35:42Z | CVE-2023-2598 | LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel. | https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598 | | 
+| 20231120T23:51:20Z | CVE-2023-4357 | Apt style exploitation of Chrome 0day CVE-2023-4357 | https://github.com/OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation | | 
+| 20231120T20:48:24Z | 未知编号 | CVE_2023_22518_Checker | https://github.com/0x00sector/CVE_2023_22518_Checker | | 
+| 20231120T19:05:51Z | CVE-2023-40600 | EWWW Image Optimizer <= 7.2.0 - Unauthenticated Sensitive Information Exposure via Debug Log | https://github.com/RandomRobbieBF/CVE-2023-40600 | | 
+| 20231120T18:37:25Z | CVE-2023-1177 | Learn more things, not suck all things | https://github.com/tiyeume25112004/CVE-2023-1177-rebuild | | 
+| 20231120T18:31:46Z | CVE-2023-48034 | Weak encryption in Acer Wireless Keyboard SK-9662 allows attacker in physical proximity to both decrypt wireless keystrokes and inject wireless arbitrary keystrokes. | https://github.com/aprkr/CVE-2023-48034 | | 
+| 20231120T17:36:18Z | CVE-2023-4966 | Scripts to get infos | https://github.com/s-bt/CVE-2023-4966 | | 
 | 20231120T13:51:44Z | CVE-2021-41773 | Null | https://github.com/Iris288/CVE-2021-41773 | | 
-| 20231120T13:43:00Z | CVE-2023-4357 | Apt style exploitation of Chrome 0day CVE-2023-4357 | https://github.com/OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation | | 
 | 20231120T12:56:27Z | CVE-2023-4357 | CVE-2023-4357. Chrome XXE 漏洞 POC, 实现对访客者本地文件读取. Chrome XXE vulnerability POC, allowing attackers to obtain local files of visitors. | https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE | | 
-| 20231120T11:57:25Z | CVE-2023-46604 | Null | https://github.com/nitzanoligo/CVE-2023-46604-demo | | 
-| 20231120T10:49:52Z | CVE-2023-2598 | LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel. | https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598 | | 
-| 20231120T09:05:09Z | CVE-2023-36427 | Report and exploit of CVE-2023-36427 | https://github.com/tandasat/CVE-2023-36427 | | 
-| 20231120T02:25:50Z | CVE-2023-46604 | PY | https://github.com/minhangxiaohui/ActiveMQ_CVE-2023-46604 | | 
-| 20231119T21:58:48Z | CVE-2023-47246 | exploit for cve-2023-47246 SysAid RCE (shell upload) | https://github.com/W01fh4cker/CVE-2023-47246-EXP | | 
-| 20231118T21:56:49Z | CVE-2022-44877 | Null | https://github.com/rhymsc/CVE-2022-44877-RCE | | 
-| 20231118T13:14:04Z | CVE-2023-46604 | Null | https://github.com/NKeshawarz/CVE-2023-46604-RCE | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231120T13:43:50Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14400 | 432| 
+| 20231121T00:36:17Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14404 | 433| 
 | 20231120T03:59:24Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 390 | 8| 
 | 20231119T18:56:27Z | This is the one! | https://github.com/klee-os/Klee-OS | 0 | 0| 
 | 20231119T01:09:01Z | Null | https://github.com/hoolisoftware/kleewish | 0 | 0| 
@@ -68,21 +68,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231120T13:54:06Z | Null | https://github.com/JavaScripterv4/Tiktok-Coin-Exploit | 0 | 0| 
-| 20231120T13:49:11Z | Null | https://github.com/0xpolarzero/storage-exploit-formal-verification | 0 | 0| 
-| 20231120T13:36:21Z | This is NOT my work, it is a backup of the Henlo exploit (20/11/2023) | https://github.com/AntHJ/henlo_jb | 0 | 0| 
-| 20231120T13:26:54Z | CTI (Cyber Thread Intelligence) Araştırmalarım #StopRansomware | https://github.com/alicangnll/CTI_Arastirmalarim | 3 | 0| 
-| 20231120T13:25:35Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-CxxO7-exploit-achieve | 0 | 0| 
-| 20231120T13:09:26Z | Null | https://github.com/Aakash9111/Win-Exploitation | 0 | 0| 
-| 20231120T12:05:09Z | Improved code of Daniele Scanu SQL Injection exploit | https://github.com/byrek/CVE-2019-9053 | 0 | 0| 
-| 20231120T11:41:33Z | Stockage et exploitation de tables de routage | https://github.com/Kazzad/Routeur-ADA | 0 | 0| 
-| 20231120T11:37:52Z | Null | https://github.com/User-0899/Hack_WiiU_5.5.X_Exploit_2 | 0 | 0| 
-| 20231120T11:29:55Z | This repository contains Exploits of MiTRE tactics | https://github.com/NomanNasirMinhas/GoLang-MITRE-Exploits | 0 | 0| 
+| 20231121T00:26:16Z | Rusty Arsenal - A collection of experimental Process Injection and Post-Exploitation Techniques in Rust | https://github.com/memN0ps/arsenal-rs | 153 | 26| 
+| 20231121T00:18:03Z | A Wi-Fi honeypot is a fake wireless network that is set up to lure unsuspecting users and collect their data or infect their devices with malware. It is a common technique used by hackers and cybercriminals to exploit the public’s demand for free Wi-Fi access. | https://github.com/DanyBit/M5Stick-CPlus-CaptPort | 0 | 0| 
+| 20231120T23:27:48Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-px | 1 | 0| 
+| 20231120T23:26:12Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-px | 1 | 0| 
+| 20231120T23:25:13Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-px | 1 | 0| 
+| 20231120T23:24:20Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-px | 1 | 0| 
+| 20231120T22:21:55Z | Basic roblox exploit written in C# using KRNL API  | https://github.com/welfare-systems/phoenix-exploit | 0 | 0| 
+| 20231120T21:49:01Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5502 | 1068| 
+| 20231120T20:17:15Z | Null | https://github.com/bielzaoo/exploit_port_swigger_sqli | 0 | 0| 
+| 20231120T19:31:50Z | Legion is an open source, easy-to-use, super-extensible and semi-automated network penetration testing tool that aids in discovery, reconnaissance and exploitation of information systems. | https://github.com/GoVanguard/legion | 930 | 169| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231120T16:14:54Z | The code for the %Dynamic Backdoor Attacks Against Machine Learning Models% paper | https://github.com/AhmedSalem2/Dynamic-Backdoor | 4 | 0| 
 | 20231120T11:50:16Z | 🎯 PHP / ASP - Shell Backdoor List 🎯 | https://github.com/backdoorhub/shell-backdoor-list | 584 | 647| 
 | 20231120T11:44:55Z | Federated Adversarial and Backdoor defense with Causal Inference | https://github.com/YunHao-Von/FABC | 0 | 0| 
 | 20231120T10:46:10Z | Source code for our ICCV 2023 paper %Rickrolling the Artist: Injecting Invisible Backdoors into Text-Guided Image Generation Models%. | https://github.com/LukasStruppek/Rickrolling-the-Artist | 35 | 6| 
@@ -92,7 +93,6 @@
 | 20231119T20:59:35Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 2310 | 867| 
 | 20231119T20:22:41Z | BackdoorMan is a fairly simple program that runs in the background doing some naughty stuff >:) | https://github.com/freedombrowser/BackdoorMan | 0 | 0| 
 | 20231119T16:49:14Z | Corresponding code for the paper: %Sneaky Spikes: Uncovering Stealthy Backdoor Attacks in Spiking Neural Networks with Neuromorphic Data%, at Network and Distributed System Security (NDSS). | https://github.com/GorkaAbad/Sneaky-Spikes | 0 | 0| 
-| 20231119T10:56:48Z | CLEAN FRESHLY CODED DRAINER, NO BACKDOOR | https://github.com/godfather9916/Multi-Network-Drainer | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -128,16 +128,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231121T00:38:47Z | Null | https://github.com/erickfernandox/ssrf_fuzzer | 0 | 0| 
+| 20231121T00:24:49Z | Master project at VU Amsterdam by Prashanth varma dommaraju.  This project focuses on the application of error fuzzing to Kubernetes structs, leveraging the strengths of protobuf-mutator for comprehensive error testing. | https://github.com/cymtrick/kubefuzzthesis | 0 | 0| 
+| 20231121T00:23:47Z | Null | https://github.com/raballam/fuzzy-eureka | 0 | 0| 
+| 20231120T23:54:17Z | A repo designed to fuzz and test the secp256r1 implementation on Solana | https://github.com/Bunkr-2FA/SIMD-48-Testing | 0 | 0| 
+| 20231120T22:55:57Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1610 | 237| 
+| 20231120T20:57:46Z | Beginners guide and basic introduction to Fuzzing, specifically Echidna. | https://github.com/GYNXdon/New2Fuzzing | 0 | 0| 
 | 20231120T13:44:38Z | Null | https://github.com/Alaete/student-fuzzer | 0 | 0| 
+| 20231120T13:38:05Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 475 | 61| 
 | 20231120T12:54:16Z | Generate initial seed files using Large Language Models (LLMs). Compatible with many state-of-the-art fuzzers such as AFL++ and libFuzzer. | https://github.com/elwint/seedai | 0 | 0| 
 | 20231120T12:46:37Z | tbh i just want free cross platform ci builds and artifact hosting for fuzzing dnh | https://github.com/demogorgon22/dnethack-observation-center | 0 | 0| 
-| 20231120T12:36:43Z | Null | https://github.com/Alaete/Student-Fuzzer-with-N-Gram-coverage-metric | 0 | 0| 
-| 20231120T12:36:21Z | Mediation and Fuzzy Mediation Analysis for Multiple Covariates and Its Applications to Solar Power Data (2021) | https://github.com/dusruddl2/FuzzyMediationAnalysis | 0 | 0| 
-| 20231120T12:33:19Z | Null | https://github.com/vvegnin/fuzzy-sweater | 0 | 0| 
-| 20231120T11:49:12Z | generate Fuzzing Harness by GPT 4.0 | https://github.com/shyswy/fuzzHarnessAutoGenerator | 0 | 0| 
-| 20231120T10:30:19Z | Null | https://github.com/fff-vr/smb_fuzzer | 0 | 0| 
-| 20231120T08:43:05Z | Null | https://github.com/sallywang147/fuzzing | 0 | 0| 
-| 20231120T08:10:14Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9176 | 2043| 
 
 
 
