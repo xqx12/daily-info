@@ -68,7 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231121T13:40:17Z | New Exploit could be used to gather Vulnerable Links  ( PoC ) | https://github.com/9dl/Websploit | 1 | 0| 
+| 20231121T13:43:02Z | New Exploit could be used to gather Vulnerable Links  ( PoC ) | https://github.com/9dl/Websploit | 1 | 0| 
 | 20231121T13:02:34Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 417 | 25| 
 | 20231121T12:22:38Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 70 | 20| 
 | 20231121T10:46:58Z | Specific analysis of the data collected by the sensors for the development of a Machine Learning application, which exploits the correlations discovered in the data set to provide a sufficiently valid and correct prediction regarding a probable failure of a machine. | https://github.com/michele-abruzzese/predictive_maintenance | 0 | 0| 
