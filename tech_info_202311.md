@@ -68,42 +68,42 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231121T13:02:34Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 417 | 25| 
+| 20231121T12:22:38Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 70 | 20| 
+| 20231121T10:46:58Z | Specific analysis of the data collected by the sensors for the development of a Machine Learning application, which exploits the correlations discovered in the data set to provide a sufficiently valid and correct prediction regarding a probable failure of a machine. | https://github.com/michele-abruzzese/predictive_maintenance | 0 | 0| 
+| 20231121T09:49:17Z | GitOps Repository | https://github.com/redhat-appstudio-qe/build-suite-positive-mc-ftjb-n83M--become-exploit | 0 | 0| 
 | 20231121T02:51:39Z | A collection of real world AI/ML exploits for responsibly disclosed vulnerabilities  | https://github.com/protectai/ai-exploits | 785 | 28| 
 | 20231121T02:30:06Z | Null | https://github.com/Yasan-Ransika/CVE-Exploit | 0 | 0| 
 | 20231121T02:24:12Z | Null | https://github.com/Yasan-Ransika/CVE-Exploit---2011-2523 | 0 | 0| 
+| 20231121T02:14:31Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 758 | 182| 
 | 20231121T01:39:12Z | Null | https://github.com/scr1ptie/exploit-programming | 0 | 0| 
 | 20231121T01:37:11Z | Exploit scripts (like IY) that you can build into your game | https://github.com/MaxxusX/RC-Scripts | 0 | 0| 
-| 20231121T01:12:35Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5666 | 765| 
-| 20231121T00:26:16Z | Rusty Arsenal - A collection of experimental Process Injection and Post-Exploitation Techniques in Rust | https://github.com/memN0ps/arsenal-rs | 153 | 26| 
-| 20231121T00:18:03Z | A Wi-Fi honeypot is a fake wireless network that is set up to lure unsuspecting users and collect their data or infect their devices with malware. It is a common technique used by hackers and cybercriminals to exploit the public’s demand for free Wi-Fi access. | https://github.com/DanyBit/M5Stick-CPlus-CaptPort | 0 | 0| 
-| 20231120T23:27:48Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-px | 1 | 0| 
-| 20231120T23:26:12Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-px | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231121T12:57:48Z | On this project we mainly focus ourselves on the following question : Is it possible that defense never wins ? in the context of ML models. Thanks to several articles, websites we define important key notions as trojan attacks, backdoors and so on by given some instances and by explaining briefly some non trivial mechanisms. | https://github.com/Dave78300/Turing-Seminar-Project-MVA-2023 | 0 | 0| 
+| 20231121T09:25:32Z | Null | https://github.com/xiaocangshengGR/CL_backdoor | 0 | 0| 
+| 20231121T09:10:38Z | A backdoor attack using LSB as a trigger. | https://github.com/123000001212/LSB_backdoor | 0 | 0| 
+| 20231121T04:16:27Z | Simple backdoorl for linux and windows for OSCP preparation | https://github.com/Daniel10Barredo/SimpleBackdoor | 0 | 0| 
 | 20231120T16:14:54Z | The code for the %Dynamic Backdoor Attacks Against Machine Learning Models% paper | https://github.com/AhmedSalem2/Dynamic-Backdoor | 4 | 0| 
 | 20231120T11:50:16Z | 🎯 PHP / ASP - Shell Backdoor List 🎯 | https://github.com/backdoorhub/shell-backdoor-list | 584 | 647| 
 | 20231120T11:44:55Z | Federated Adversarial and Backdoor defense with Causal Inference | https://github.com/YunHao-Von/FABC | 0 | 0| 
 | 20231120T10:46:10Z | Source code for our ICCV 2023 paper %Rickrolling the Artist: Injecting Invisible Backdoors into Text-Guided Image Generation Models%. | https://github.com/LukasStruppek/Rickrolling-the-Artist | 35 | 6| 
 | 20231120T09:26:09Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 230 | 25| 
 | 20231120T09:00:22Z | This project is backdoor attack using Badnets method (data poisoning attack) for Gated-LIF | https://github.com/isoflurane/Gated-LIF-attack | 0 | 0| 
-| 20231120T07:15:59Z | A backdoor detector for BadNets trained on the YouTube Face dataset using the pruning defense. | https://github.com/singh-priyanshi/backdoor-detector_for_BadNets | 0 | 0| 
-| 20231119T20:59:35Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 2310 | 867| 
-| 20231119T20:22:41Z | BackdoorMan is a fairly simple program that runs in the background doing some naughty stuff >:) | https://github.com/freedombrowser/BackdoorMan | 0 | 0| 
-| 20231119T16:49:14Z | Corresponding code for the paper: %Sneaky Spikes: Uncovering Stealthy Backdoor Attacks in Spiking Neural Networks with Neuromorphic Data%, at Network and Distributed System Security (NDSS). | https://github.com/GorkaAbad/Sneaky-Spikes | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231121T08:52:44Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2360 | 639| 
 | 20231120T16:08:45Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 466 | 33| 
-| 20231119T12:40:51Z | A prototype tool for symbolic execution of quantum programs (QSE) with symbolic stabilizer states. | https://github.com/njuwfang/QuantumSE.jl | 0 | 0| 
+| 20231119T12:40:51Z | A prototype tool for symbolic execution of quantum programs (QSE) with symbolic stabilizer states. | https://github.com/njuwfang/QuantumSE.jl | 0 | 1| 
 | 20231118T22:52:58Z | A mini symbolic execution engine for simple JavaScript programs | https://github.com/tkhang1999/mini-symex-js | 0 | 0| 
 | 20231118T16:50:49Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 268 | 36| 
 | 20231118T08:59:59Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 710 | 126| 
-| 20231118T08:22:00Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2363 | 639| 
 | 20231118T01:55:25Z | A pedagogical CTF to teach symbolic execution with the angr toolset | https://github.com/branrickman/learn-angr | 0 | 0| 
 | 20231115T12:53:12Z | Symbolic execution of LLVM IR with an engine written in Rust | https://github.com/PLSysSec/haybale | 474 | 22| 
 | 20231115T11:53:33Z | Null | https://github.com/Dragos0305/Symbolic-Execution-Malware-Analysis | 0 | 0| 
