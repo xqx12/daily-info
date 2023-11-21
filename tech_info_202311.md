@@ -83,6 +83,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231121T13:28:50Z | Find any backdoor/webshell on your website with Python and Node.js | https://github.com/daniisaahir/DinoScan | 0 | 0| 
 | 20231121T12:57:48Z | On this project we mainly focus ourselves on the following question : Is it possible that defense never wins ? in the context of ML models. Thanks to several articles, websites we define important key notions as trojan attacks, backdoors and so on by given some instances and by explaining briefly some non trivial mechanisms. | https://github.com/Dave78300/Turing-Seminar-Project-MVA-2023 | 0 | 0| 
 | 20231121T09:25:32Z | Null | https://github.com/xiaocangshengGR/CL_backdoor | 0 | 0| 
 | 20231121T09:10:38Z | A backdoor attack using LSB as a trigger. | https://github.com/123000001212/LSB_backdoor | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20231120T11:44:55Z | Federated Adversarial and Backdoor defense with Causal Inference | https://github.com/YunHao-Von/FABC | 0 | 0| 
 | 20231120T10:46:10Z | Source code for our ICCV 2023 paper %Rickrolling the Artist: Injecting Invisible Backdoors into Text-Guided Image Generation Models%. | https://github.com/LukasStruppek/Rickrolling-the-Artist | 35 | 6| 
 | 20231120T09:26:09Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 230 | 25| 
-| 20231120T09:00:22Z | This project is backdoor attack using Badnets method (data poisoning attack) for Gated-LIF | https://github.com/isoflurane/Gated-LIF-attack | 0 | 0| 
 
 
 # symbolic execution on Github 推荐

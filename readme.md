@@ -63,6 +63,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231121T13:28:50Z | Find any backdoor/webshell on your website with Python and Node.js | https://github.com/daniisaahir/DinoScan | 0 | 0| 
 | 20231121T12:57:48Z | On this project we mainly focus ourselves on the following question : Is it possible that defense never wins ? in the context of ML models. Thanks to several articles, websites we define important key notions as trojan attacks, backdoors and so on by given some instances and by explaining briefly some non trivial mechanisms. | https://github.com/Dave78300/Turing-Seminar-Project-MVA-2023 | 0 | 0| 
 | 20231121T09:25:32Z | Null | https://github.com/xiaocangshengGR/CL_backdoor | 0 | 0| 
 | 20231121T09:10:38Z | A backdoor attack using LSB as a trigger. | https://github.com/123000001212/LSB_backdoor | 0 | 0| 
