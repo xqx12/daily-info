@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231121T01:37:11Z | Exploit scripts (like IY) that you can build into your game | https://github.com/MaxxusX/RC-Scripts | 0 | 0| 
 | 20231121T00:26:16Z | Rusty Arsenal - A collection of experimental Process Injection and Post-Exploitation Techniques in Rust | https://github.com/memN0ps/arsenal-rs | 153 | 26| 
 | 20231121T00:18:03Z | A Wi-Fi honeypot is a fake wireless network that is set up to lure unsuspecting users and collect their data or infect their devices with malware. It is a common technique used by hackers and cybercriminals to exploit the public’s demand for free Wi-Fi access. | https://github.com/DanyBit/M5Stick-CPlus-CaptPort | 0 | 0| 
 | 20231120T23:27:48Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-px | 1 | 0| 
@@ -77,7 +78,6 @@
 | 20231120T22:21:55Z | Basic roblox exploit written in C# using KRNL API  | https://github.com/welfare-systems/phoenix-exploit | 0 | 0| 
 | 20231120T21:49:01Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5502 | 1068| 
 | 20231120T20:17:15Z | Null | https://github.com/bielzaoo/exploit_port_swigger_sqli | 0 | 0| 
-| 20231120T19:31:50Z | Legion is an open source, easy-to-use, super-extensible and semi-automated network penetration testing tool that aids in discovery, reconnaissance and exploitation of information systems. | https://github.com/GoVanguard/legion | 930 | 169| 
 
 
 # backdoor on Github 推荐
