@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231121T13:20:56Z | New Exploit could be used to gather Vulnerable Links  ( PoC ) | https://github.com/9dl/Websploit | 1 | 0| 
 | 20231121T13:02:34Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 417 | 25| 
 | 20231121T12:22:38Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 70 | 20| 
 | 20231121T10:46:58Z | Specific analysis of the data collected by the sensors for the development of a Machine Learning application, which exploits the correlations discovered in the data set to provide a sufficiently valid and correct prediction regarding a probable failure of a machine. | https://github.com/michele-abruzzese/predictive_maintenance | 0 | 0| 
@@ -77,7 +78,6 @@
 | 20231121T02:24:12Z | Null | https://github.com/Yasan-Ransika/CVE-Exploit---2011-2523 | 0 | 0| 
 | 20231121T02:14:31Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 758 | 182| 
 | 20231121T01:39:12Z | Null | https://github.com/scr1ptie/exploit-programming | 0 | 0| 
-| 20231121T01:37:11Z | Exploit scripts (like IY) that you can build into your game | https://github.com/MaxxusX/RC-Scripts | 0 | 0| 
 
 
 # backdoor on Github 推荐
