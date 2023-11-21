@@ -128,7 +128,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231121T01:53:40Z | Python implementation of Wang-Mendel automatic rule generation.  | https://github.com/mdrs-thiago/fuzzy_autorules | 0 | 0| 
+| 20231121T01:55:35Z | Python implementation of Wang-Mendel automatic rule generation.  | https://github.com/mdrs-thiago/fuzzy_autorules | 0 | 0| 
 | 20231121T01:48:08Z | space analysis | https://github.com/squeedgy/fuzzy-guide | 0 | 0| 
 | 20231121T00:38:47Z | Null | https://github.com/erickfernandox/ssrf_fuzzer | 0 | 0| 
 | 20231121T00:24:49Z | Master project at VU Amsterdam by Prashanth varma dommaraju.  This project focuses on the application of error fuzzing to Kubernetes structs, leveraging the strengths of protobuf-mutator for comprehensive error testing. | https://github.com/cymtrick/kubefuzzthesis | 0 | 0| 
