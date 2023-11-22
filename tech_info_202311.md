@@ -129,6 +129,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20231122T02:10:30Z | Null | https://github.com/nikhilualberta/FuzzyAsteroids | 0 | 0| 
+| 20231122T02:09:54Z | Vulnerable region-aware greybox fuzzing | https://github.com/stuartly/RegionFuzz | 1 | 0| 
 | 20231122T01:19:54Z | Null | https://github.com/POSHLAYA/fuzzy-succotash | 110 | 0| 
 | 20231122T01:12:10Z | My dotfiles for Arch Linux, Hyprland, Waybar, and more | https://github.com/wynvern/Fuzzy-Dotfiles | 0 | 0| 
 | 20231122T00:11:01Z | Null | https://github.com/google/fuzztest | 463 | 38| 
@@ -137,7 +138,6 @@
 | 20231121T13:57:38Z | Null | https://github.com/spacemonochrome/csharp_fuzzy_logic_example | 0 | 0| 
 | 20231121T13:30:59Z | A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Development like root cause analysis. | https://github.com/secfigo/Awesome-Fuzzing | 4837 | 814| 
 | 20231121T13:26:23Z | fuzzeREST is an open-source hard fork of Unity%s Hot-Fuzz | https://github.com/sherbie/fuzzerest | 2 | 0| 
-| 20231121T13:22:50Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5120 | 552| 
 
 
 
