@@ -128,6 +128,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231122T01:12:10Z | My dotfiles for Arch Linux, Hyprland, Waybar, and more | https://github.com/wynvern/Fuzzy-Dotfiles | 0 | 0| 
 | 20231122T01:10:52Z | Null | https://github.com/POSHLAYA/fuzzy-succotash | 112 | 0| 
 | 20231122T00:11:01Z | Null | https://github.com/google/fuzztest | 463 | 38| 
 | 20231121T23:18:56Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1612 | 237| 
@@ -137,7 +138,6 @@
 | 20231121T13:26:23Z | fuzzeREST is an open-source hard fork of Unity%s Hot-Fuzz | https://github.com/sherbie/fuzzerest | 2 | 0| 
 | 20231121T13:22:50Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5120 | 552| 
 | 20231121T11:05:51Z | Null | https://github.com/clementsiegrist/FuzzyShapeReco | 0 | 0| 
-| 20231121T11:05:33Z | Null | https://github.com/rakwaht/EasyFuzzing_AFL_PlusPlus | 0 | 0| 
 
 
 
