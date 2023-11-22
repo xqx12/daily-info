@@ -11,6 +11,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20231122 | DARPA之声第73期： 人工智能网络挑战赛--CTF、代码和关键基础... | https://mp.weixin.qq.com/s/Itad7Y-QBcr991JkF3SrIg| 
 
 
 # CVE Github 推荐

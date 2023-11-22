@@ -11,6 +11,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20231122 | DARPA之声第73期： 人工智能网络挑战赛--CTF、代码和关键基础... | https://mp.weixin.qq.com/s/Itad7Y-QBcr991JkF3SrIg| 
 | 20231121 | OpenHarmony安全指南 | https://docs.openharmony.cn/pages/v4.0/zh-cn/device-dev/security/security-guidelines-overall.md/| 
 | 20231121 | blazehttp: 可用于安全测试的非标准HTTP协议解析库 | https://github.com/chaitin/blazehttp| 
 | 20231121 | DARPA“内生认知安全”项目综述 | https://mp.weixin.qq.com/s/3ryPezdHitR4PBXWuRsl4g| 
@@ -20,7 +21,6 @@
 | 20231120 | 工商银行美国子公司勒索病毒事件分析 | https://mp.weixin.qq.com/s/FKmd5g9tKgznGgmdHB0jPA| 
 | 20231119 | Your printer is not your printer ! - Hacking Printers at P... | https://devco.re/blog/2023/11/06/your-printer-is-not-your-printer-hacking-printers-pwn2own-part2/| 
 | 20231119 | 多款Java模板引擎对比与模板注入的安全之旅 | https://xz.aliyun.com/t/12969| 
-| 20231119 | Defense Evasion(防御规避) | https://mp.weixin.qq.com/s/F0asRsaqOMvxHcu70kavZg| 
 
 
 # CVE Github 推荐
