@@ -92,6 +92,7 @@
 | --- | --- | --- | --- | ---| 
 | 20231121T23:18:56Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1612 | 237| 
 | 20231121T22:50:54Z | An unofficial client library for the fuzz-introspector API. | https://github.com/silvergasp/fuzz-introspector-client | 1 | 0| 
+| 20231121T17:57:45Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 4309 | 525| 
 | 20231121T13:57:38Z | Null | https://github.com/spacemonochrome/csharp_fuzzy_logic_example | 0 | 0| 
 | 20231121T13:30:59Z | A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Development like root cause analysis. | https://github.com/secfigo/Awesome-Fuzzing | 4837 | 814| 
 | 20231121T13:26:23Z | fuzzeREST is an open-source hard fork of Unity%s Hot-Fuzz | https://github.com/sherbie/fuzzerest | 2 | 0| 
@@ -99,7 +100,6 @@
 | 20231121T11:05:51Z | Null | https://github.com/clementsiegrist/FuzzyShapeReco | 0 | 0| 
 | 20231121T11:05:33Z | Null | https://github.com/rakwaht/EasyFuzzing_AFL_PlusPlus | 0 | 0| 
 | 20231121T09:32:22Z | Null | https://github.com/reddangerous/fuzzy-waffle | 0 | 0| 
-| 20231121T04:49:15Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 326 | 47| 
 
 
 

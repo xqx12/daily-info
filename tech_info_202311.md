@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231122T02:49:22Z | Null | https://github.com/SSM7676/SSM-EXPLOITER | 0 | 0| 
 | 20231121T23:34:54Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5503 | 1068| 
 | 20231121T23:10:51Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-qo | 1 | 0| 
 | 20231121T23:08:58Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-qo | 1 | 0| 
@@ -77,7 +78,6 @@
 | 20231121T19:16:39Z | This repo for Windows x32-x64 Kernel/Driver/User Mode Exploitation writeups and exploits | https://github.com/Sh3lldon/WinPWN | 1 | 0| 
 | 20231121T18:43:42Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 173 | 14| 
 | 20231121T13:43:02Z | New Exploit could be used to gather Vulnerable Links  ( PoC ) | https://github.com/9dl/Websploit | 1 | 0| 
-| 20231121T13:02:34Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 417 | 25| 
 
 
 # backdoor on Github 推荐
@@ -135,9 +135,9 @@
 | 20231122T00:11:01Z | Null | https://github.com/google/fuzztest | 463 | 38| 
 | 20231121T23:18:56Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1612 | 237| 
 | 20231121T22:50:54Z | An unofficial client library for the fuzz-introspector API. | https://github.com/silvergasp/fuzz-introspector-client | 1 | 0| 
+| 20231121T17:57:45Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 4309 | 525| 
 | 20231121T13:57:38Z | Null | https://github.com/spacemonochrome/csharp_fuzzy_logic_example | 0 | 0| 
 | 20231121T13:30:59Z | A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Development like root cause analysis. | https://github.com/secfigo/Awesome-Fuzzing | 4837 | 814| 
-| 20231121T13:26:23Z | fuzzeREST is an open-source hard fork of Unity%s Hot-Fuzz | https://github.com/sherbie/fuzzerest | 2 | 0| 
 
 
 
