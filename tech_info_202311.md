@@ -26,22 +26,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231121T20:12:11Z | 未知编号 | CVE_2023_22518_Checker | https://github.com/0x00sector/CVE_2023_22518_Checker | | 
+| 20231121T18:16:35Z | 未知编号 | Null | https://github.com/rothilion26/cve2023-data | | 
+| 20231121T14:40:02Z | CVE-2023-4357 | 全球首款单文件利用 CVE-2023-4357 Chrome XXE 漏洞 EXP, 实现对访客者本地文件窃取. Chrome XXE vulnerability EXP, allowing attackers to obtain local files of visitors. | https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE | | 
+| 20231121T14:02:19Z | CVE-2023-4357 | Apt style exploitation of Chrome 0day CVE-2023-4357 | https://github.com/OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation | | 
 | 20231121T13:13:02Z | CVE-2023-20911 | Null | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20911 | | 
 | 20231121T12:41:36Z | CVE-2023-2598 | LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel. | https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598 | | 
 | 20231121T12:22:14Z | CVE-2023-4622 | Null | https://github.com/nidhi7598/linux-4.19.72_net_CVE-2023-4622 | | 
 | 20231121T11:24:54Z | CVE-2021-43798 | Null | https://github.com/Iris288/CVE-2021-43798 | | 
-| 20231121T10:55:06Z | CVE-2023-4357 | Apt style exploitation of Chrome 0day CVE-2023-4357 | https://github.com/OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation | | 
-| 20231121T10:47:46Z | CVE-2023-4357 | 全球首款单文件利用 CVE-2023-4357 Chrome XXE 漏洞 EXP, 实现对访客者本地文件窃取. Chrome XXE vulnerability EXP, allowing attackers to obtain local files of visitors. | https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE | | 
 | 20231121T05:39:35Z | CVE-2023-4357 | Null | https://github.com/passwa11/CVE-2023-4357-APT-Style-exploitation | | 
 | 20231121T02:58:20Z | CVE-2023-36427 | Report and exploit of CVE-2023-36427 | https://github.com/tandasat/CVE-2023-36427 | | 
-| 20231121T02:36:09Z | CVE-2022-0337 | Null | https://github.com/zer0ne1/CVE-2022-0337-RePoC | | 
-| 20231121T01:50:16Z | CVE-2023-46604 | PY | https://github.com/minhangxiaohui/ActiveMQ_CVE-2023-46604 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231121T13:15:59Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14417 | 433| 
+| 20231121T23:44:01Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14420 | 434| 
+| 20231121T16:36:07Z | Null | https://github.com/shafiuzzaman-md/edk2_klee | 0 | 0| 
+| 20231121T14:18:47Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 282 | 54| 
 | 20231121T08:52:44Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2360 | 639| 
 | 20231121T01:12:20Z | Config files for my GitHub profile. | https://github.com/Kleeyow/Kleeyow | 0 | 0| 
 | 20231120T03:59:24Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 390 | 8| 
@@ -49,8 +51,6 @@
 | 20231119T01:09:01Z | Null | https://github.com/hoolisoftware/kleewish | 0 | 0| 
 | 20231118T14:15:38Z | Null | https://github.com/dimitricbrown/KLEEFE | 0 | 0| 
 | 20231118T14:11:07Z | Null | https://github.com/dimitricbrown/KLEEBE | 0 | 0| 
-| 20231118T12:24:15Z | Null | https://github.com/Kleeat/Kleeat.github.io | 0 | 0| 
-| 20231116T14:45:23Z | Null | https://github.com/riesentoaster/klee-software-evolution | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -68,21 +68,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231121T23:34:54Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5503 | 1068| 
+| 20231121T23:10:51Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-qo | 1 | 0| 
+| 20231121T23:08:58Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-qo | 1 | 0| 
+| 20231121T23:05:49Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-qo | 1 | 0| 
+| 20231121T23:04:27Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-qo | 1 | 0| 
+| 20231121T19:48:39Z | Bookmarklet hacks, exploits, and games. Unblocked, in one place. | https://github.com/car-axle-client/car-axle-client | 22 | 12| 
+| 20231121T18:43:42Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 173 | 14| 
 | 20231121T13:43:02Z | New Exploit could be used to gather Vulnerable Links  ( PoC ) | https://github.com/9dl/Websploit | 1 | 0| 
 | 20231121T13:02:34Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 417 | 25| 
 | 20231121T12:22:38Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 70 | 20| 
-| 20231121T10:46:58Z | Specific analysis of the data collected by the sensors for the development of a Machine Learning application, which exploits the correlations discovered in the data set to provide a sufficiently valid and correct prediction regarding a probable failure of a machine. | https://github.com/michele-abruzzese/predictive_maintenance | 0 | 0| 
-| 20231121T09:49:17Z | GitOps Repository | https://github.com/redhat-appstudio-qe/build-suite-positive-mc-ftjb-n83M--become-exploit | 0 | 0| 
-| 20231121T02:51:39Z | A collection of real world AI/ML exploits for responsibly disclosed vulnerabilities  | https://github.com/protectai/ai-exploits | 785 | 28| 
-| 20231121T02:30:06Z | Null | https://github.com/Yasan-Ransika/CVE-Exploit | 0 | 0| 
-| 20231121T02:24:12Z | Null | https://github.com/Yasan-Ransika/CVE-Exploit---2011-2523 | 0 | 0| 
-| 20231121T02:14:31Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 758 | 182| 
-| 20231121T01:39:12Z | Null | https://github.com/scr1ptie/exploit-programming | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231121T15:32:13Z | Code for paper: PoisonPrompt: Backdoor Attack on Prompt-based Large Language Models | https://github.com/grasses/PoisonPrompt | 1 | 0| 
 | 20231121T13:28:50Z | Find any backdoor/webshell on your website with Python and Node.js | https://github.com/daniisaahir/DinoScan | 0 | 0| 
 | 20231121T12:57:48Z | On this project we mainly focus ourselves on the following question : Is it possible that defense never wins ? in the context of ML models. Thanks to several articles, websites we define important key notions as trojan attacks, backdoors and so on by given some instances and by explaining briefly some non trivial mechanisms. | https://github.com/Dave78300/Turing-Seminar-Project-MVA-2023 | 0 | 0| 
 | 20231121T09:25:32Z | Null | https://github.com/xiaocangshengGR/CL_backdoor | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20231120T11:50:16Z | 🎯 PHP / ASP - Shell Backdoor List 🎯 | https://github.com/backdoorhub/shell-backdoor-list | 584 | 647| 
 | 20231120T11:44:55Z | Federated Adversarial and Backdoor defense with Causal Inference | https://github.com/YunHao-Von/FABC | 0 | 0| 
 | 20231120T10:46:10Z | Source code for our ICCV 2023 paper %Rickrolling the Artist: Injecting Invisible Backdoors into Text-Guided Image Generation Models%. | https://github.com/LukasStruppek/Rickrolling-the-Artist | 35 | 6| 
-| 20231120T09:26:09Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 230 | 25| 
 
 
 # symbolic execution on Github 推荐
@@ -128,16 +128,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231122T00:11:01Z | Null | https://github.com/google/fuzztest | 463 | 38| 
+| 20231121T23:58:07Z | Null | https://github.com/POSHLAYA/fuzzy-succotash | 113 | 0| 
+| 20231121T23:18:56Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1612 | 237| 
+| 20231121T22:50:54Z | An unofficial client library for the fuzz-introspector API. | https://github.com/silvergasp/fuzz-introspector-client | 1 | 0| 
 | 20231121T13:57:38Z | Null | https://github.com/spacemonochrome/csharp_fuzzy_logic_example | 0 | 0| 
 | 20231121T13:30:59Z | A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Development like root cause analysis. | https://github.com/secfigo/Awesome-Fuzzing | 4837 | 814| 
 | 20231121T13:26:23Z | fuzzeREST is an open-source hard fork of Unity%s Hot-Fuzz | https://github.com/sherbie/fuzzerest | 2 | 0| 
-| 20231121T13:10:06Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1611 | 236| 
+| 20231121T13:22:50Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5120 | 552| 
 | 20231121T11:05:51Z | Null | https://github.com/clementsiegrist/FuzzyShapeReco | 0 | 0| 
 | 20231121T11:05:33Z | Null | https://github.com/rakwaht/EasyFuzzing_AFL_PlusPlus | 0 | 0| 
-| 20231121T09:32:22Z | Null | https://github.com/reddangerous/fuzzy-waffle | 0 | 0| 
-| 20231121T04:21:18Z | Null | https://github.com/fff-vr/smb_fuzzer | 0 | 0| 
-| 20231121T01:55:35Z | Python implementation of Wang-Mendel automatic rule generation.  | https://github.com/mdrs-thiago/fuzzy_autorules | 0 | 0| 
-| 20231121T01:48:08Z | space analysis | https://github.com/squeedgy/fuzzy-guide | 0 | 0| 
 
 
 
