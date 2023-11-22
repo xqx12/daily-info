@@ -90,7 +90,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231121T23:58:07Z | Null | https://github.com/POSHLAYA/fuzzy-succotash | 113 | 0| 
 | 20231121T23:18:56Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1612 | 237| 
 | 20231121T22:50:54Z | An unofficial client library for the fuzz-introspector API. | https://github.com/silvergasp/fuzz-introspector-client | 1 | 0| 
 | 20231121T13:57:38Z | Null | https://github.com/spacemonochrome/csharp_fuzzy_logic_example | 0 | 0| 
@@ -100,6 +99,7 @@
 | 20231121T11:05:51Z | Null | https://github.com/clementsiegrist/FuzzyShapeReco | 0 | 0| 
 | 20231121T11:05:33Z | Null | https://github.com/rakwaht/EasyFuzzing_AFL_PlusPlus | 0 | 0| 
 | 20231121T09:32:22Z | Null | https://github.com/reddangerous/fuzzy-waffle | 0 | 0| 
+| 20231121T04:49:15Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 326 | 47| 
 
 
 
