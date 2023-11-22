@@ -40,6 +40,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231122T13:51:37Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-nodejs-7REep-promise-exploit | 0 | 0| 
 | 20231122T13:07:48Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5673 | 765| 
 | 20231122T10:29:11Z | exploit all target dirs & get dir with response code 200 | https://github.com/cyraxabir/url_response | 0 | 0| 
 | 20231122T09:44:21Z | Null | https://github.com/werewolf536/Exploit | 0 | 0| 
@@ -49,7 +50,6 @@
 | 20231122T05:19:30Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5676 | 716| 
 | 20231122T04:15:19Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5504 | 1068| 
 | 20231122T02:49:22Z | Null | https://github.com/SSM7676/SSM-EXPLOITER | 0 | 0| 
-| 20231122T01:45:09Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 71 | 20| 
 
 
 # backdoor on Github 推荐
