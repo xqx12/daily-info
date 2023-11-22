@@ -76,7 +76,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231121T13:08:58Z | A prototype tool for symbolic execution of quantum programs (QSE) with symbolic stabilizer states. | https://github.com/njuwfang/QuantumSE.jl | 1 | 1| 
+| 20231121T15:52:57Z | A prototype tool for symbolic execution of quantum programs (QSE) with symbolic stabilizer states. | https://github.com/njuwfang/QuantumSE.jl | 2 | 1| 
+| 20231121T15:22:07Z | Playing with the Tigress software protection. Break some of its protections and solve their reverse engineering challenges. Automatic deobfuscation using symbolic execution, taint analysis and LLVM. | https://github.com/JonathanSalwan/Tigress_protection | 750 | 148| 
 | 20231121T08:52:44Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2360 | 639| 
 
 
