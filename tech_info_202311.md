@@ -128,7 +128,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231122T02:08:34Z | Null | https://github.com/nikhilualberta/FuzzyAsteroids | 0 | 0| 
+| 20231122T02:10:30Z | Null | https://github.com/nikhilualberta/FuzzyAsteroids | 0 | 0| 
 | 20231122T01:19:54Z | Null | https://github.com/POSHLAYA/fuzzy-succotash | 110 | 0| 
 | 20231122T01:12:10Z | My dotfiles for Arch Linux, Hyprland, Waybar, and more | https://github.com/wynvern/Fuzzy-Dotfiles | 0 | 0| 
 | 20231122T00:11:01Z | Null | https://github.com/google/fuzztest | 463 | 38| 
