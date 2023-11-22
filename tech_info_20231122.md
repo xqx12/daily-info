@@ -39,6 +39,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231122T13:07:48Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5673 | 765| 
 | 20231122T10:29:11Z | exploit all target dirs & get dir with response code 200 | https://github.com/cyraxabir/url_response | 0 | 0| 
 | 20231122T09:44:21Z | Null | https://github.com/werewolf536/Exploit | 0 | 0| 
 | 20231122T09:18:56Z | Laravel RCE (CVE-2021-3129) | https://github.com/joshuavanderpoll/CVE-2021-3129 | 48 | 14| 
