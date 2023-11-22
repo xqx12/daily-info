@@ -23,13 +23,13 @@
 | 20231121T20:12:11Z | 未知编号 | CVE_2023_22518_Checker | https://github.com/0x00sector/CVE_2023_22518_Checker | | 
 | 20231121T18:16:35Z | 未知编号 | Null | https://github.com/rothilion26/cve2023-data | | 
 | 20231121T18:07:55Z | CVE-2023-2598 | LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel. | https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598 | | 
-| 20231121T14:40:02Z | CVE-2023-4357 | 全球首款单文件利用 CVE-2023-4357 Chrome XXE 漏洞 EXP, 实现对访客者本地文件窃取. Chrome XXE vulnerability EXP, allowing attackers to obtain local files of visitors. | https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE | | 
 | 20231121T14:02:19Z | CVE-2023-4357 | Apt style exploitation of Chrome 0day CVE-2023-4357 | https://github.com/OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation | | 
 | 20231121T13:13:02Z | CVE-2023-20911 | Null | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20911 | | 
 | 20231121T12:22:14Z | CVE-2023-4622 | Null | https://github.com/nidhi7598/linux-4.19.72_net_CVE-2023-4622 | | 
 | 20231121T11:24:54Z | CVE-2021-43798 | Null | https://github.com/Iris288/CVE-2021-43798 | | 
 | 20231121T05:39:35Z | CVE-2023-4357 | Null | https://github.com/passwa11/CVE-2023-4357-APT-Style-exploitation | | 
 | 20231121T02:58:20Z | CVE-2023-36427 | Report and exploit of CVE-2023-36427 | https://github.com/tandasat/CVE-2023-36427 | | 
+| 20231121T02:36:09Z | CVE-2022-0337 | Null | https://github.com/zer0ne1/CVE-2022-0337-RePoC | | 
 
 
 # klee on Github 推荐
