@@ -56,10 +56,10 @@
 | 20231121T23:05:49Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-qo | 1 | 0| 
 | 20231121T23:04:27Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-qo | 1 | 0| 
 | 20231121T19:48:39Z | Bookmarklet hacks, exploits, and games. Unblocked, in one place. | https://github.com/car-axle-client/car-axle-client | 22 | 12| 
+| 20231121T19:16:39Z | This repo for Windows x32-x64 Kernel/Driver/User Mode Exploitation writeups and exploits | https://github.com/Sh3lldon/WinPWN | 1 | 0| 
 | 20231121T18:43:42Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 173 | 14| 
 | 20231121T13:43:02Z | New Exploit could be used to gather Vulnerable Links  ( PoC ) | https://github.com/9dl/Websploit | 1 | 0| 
 | 20231121T13:02:34Z | PS1 savegame exploit | https://github.com/socram8888/tonyhax | 417 | 25| 
-| 20231121T12:22:38Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 70 | 20| 
 
 
 # backdoor on Github 推荐
