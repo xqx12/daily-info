@@ -133,11 +133,11 @@
 | 20231122T23:41:34Z | Interactive file searching and previews using fd, fzf, ag, and multimedia tools in the command line | https://github.com/5n00py/FuzzyShellSearch | 0 | 0| 
 | 20231122T23:20:58Z | Null | https://github.com/dshatz/fuzzyKat | 0 | 0| 
 | 20231122T23:10:48Z | Null | https://github.com/Jumperlost/fuzzy-meme | 0 | 0| 
+| 20231122T14:26:52Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 111 | 41| 
 | 20231122T12:46:45Z | Null | https://github.com/MarinaLakhneva/FuzzyClustering_degree | 0 | 0| 
 | 20231122T11:49:00Z | Null | https://github.com/JacekGlen/silkworm-fuzztest-poc | 0 | 0| 
 | 20231122T07:54:12Z | This repository provides several payloads for the web application fuzzing process, each of which has a different payload | https://github.com/lazysec0x21/fuzzing | 0 | 0| 
 | 20231122T02:10:30Z | Null | https://github.com/nikhilualberta/FuzzyAsteroids | 0 | 0| 
-| 20231122T02:09:54Z | Vulnerable region-aware greybox fuzzing | https://github.com/stuartly/RegionFuzz | 1 | 0| 
 
 
 
