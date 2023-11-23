@@ -83,6 +83,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231123T01:53:06Z | Null | https://github.com/wang2226/Backdoor-Activation-Attack | 0 | 0| 
 | 20231122T20:53:31Z | Null | https://github.com/adebanjofalade/window-backdoor | 0 | 0| 
 | 20231122T14:07:32Z | Find any backdoor/webshell on your website with Python | https://github.com/daniisaahir/DinoScan | 0 | 0| 
 | 20231122T06:13:15Z | Null | https://github.com/vgkskaka/Script-backdoor | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20231121T09:10:38Z | A backdoor attack using LSB as a trigger. | https://github.com/123000001212/LSB_backdoor | 0 | 0| 
 | 20231121T04:16:27Z | Simple backdoorl for linux and windows for OSCP preparation | https://github.com/Daniel10Barredo/SimpleBackdoor | 0 | 0| 
 | 20231120T16:14:54Z | The code for the %Dynamic Backdoor Attacks Against Machine Learning Models% paper | https://github.com/AhmedSalem2/Dynamic-Backdoor | 4 | 0| 
-| 20231120T11:50:16Z | 🎯 PHP / ASP - Shell Backdoor List 🎯 | https://github.com/backdoorhub/shell-backdoor-list | 584 | 647| 
 
 
 # symbolic execution on Github 推荐
