@@ -37,7 +37,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231123T13:35:23Z | A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings. | https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass | 122 | 49| 
+| 20231123T13:42:12Z | A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings. | https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass | 123 | 52| 
+| 20231123T13:39:28Z | Une page web pour le cours de SNT | https://github.com/eipaca/systemes-exploitation | 0 | 0| 
+| 20231123T13:37:37Z | Null | https://github.com/virus-exploit01/virus-exploit01 | 0 | 0| 
 | 20231123T13:30:06Z | GitOps Repository | https://github.com/redhat-appstudio-qe/integ-app-zyie-SZBxX-exploit-experience | 0 | 0| 
 | 20231123T12:01:05Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5508 | 1069| 
 | 20231123T12:00:23Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5679 | 716| 
@@ -45,8 +47,6 @@
 | 20231123T11:54:08Z | Null | https://github.com/VenomTools/SILENT-XLS-EXPLOIT-2024 | 1 | 0| 
 | 20231123T11:53:32Z | https://venom.software | https://github.com/VenomTools/SILENT-PDF-EXPLOIT-2024 | 3 | 0| 
 | 20231123T10:43:00Z | MirrorFlow: Exploiting Symmetries in Joint Optical Flow and Occlusion Estimation (ICCV 2017) | https://github.com/visinf/mirrorflow | 0 | 0| 
-| 20231123T10:34:08Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5676 | 766| 
-| 20231123T10:30:23Z | This repo for Windows x32-x64 Kernel/Driver/User Mode Exploitation writeups and exploits | https://github.com/Sh3lldon/WinPWN | 2 | 0| 
 
 
 # backdoor on Github 推荐
