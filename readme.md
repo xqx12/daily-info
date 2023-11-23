@@ -69,7 +69,6 @@
 | 20231122T22:04:18Z | Playing with the Tigress software protection. Break some of its protections and solve their reverse engineering challenges. Automatic deobfuscation using symbolic execution, taint analysis and LLVM. | https://github.com/JonathanSalwan/Tigress_protection | 751 | 148| 
 | 20231122T16:18:11Z | Unicorn: Symbolic Execution, Bounded Model Checking, and Code Optimization of RISC-V Code using Classical Solvers and Quantum Computers | https://github.com/cksystemsgroup/unicorn | 19 | 8| 
 | 20231122T09:46:46Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 711 | 127| 
-| 20231122T09:45:59Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2361 | 639| 
 
 
 # big4 on Github 推荐
