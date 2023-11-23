@@ -11,6 +11,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20231123 | 工业和信息化领域数据安全行政处罚裁量指引（试行）（征求意见... | https://www.miit.gov.cn/gzcy/yjzj/art/2023/art_2fb5b9dff755480284099f08eebdfa1e.html| 
 | 20231122 | DARPA之声第73期： 人工智能网络挑战赛--CTF、代码和关键基础... | https://mp.weixin.qq.com/s/Itad7Y-QBcr991JkF3SrIg| 
 | 20231121 | OpenHarmony安全指南 | https://docs.openharmony.cn/pages/v4.0/zh-cn/device-dev/security/security-guidelines-overall.md/| 
 | 20231121 | blazehttp: 可用于安全测试的非标准HTTP协议解析库 | https://github.com/chaitin/blazehttp| 
@@ -20,13 +21,14 @@
 | 20231120 | 深度剖析GadgetInspector执行逻辑(下) | https://www.sec-in.com/article/2083| 
 | 20231120 | 工商银行美国子公司勒索病毒事件分析 | https://mp.weixin.qq.com/s/FKmd5g9tKgznGgmdHB0jPA| 
 | 20231119 | Your printer is not your printer ! - Hacking Printers at P... | https://devco.re/blog/2023/11/06/your-printer-is-not-your-printer-hacking-printers-pwn2own-part2/| 
-| 20231119 | 多款Java模板引擎对比与模板注入的安全之旅 | https://xz.aliyun.com/t/12969| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231122T17:04:39Z | CVE-2023-49103 | PoC for the CVE-2023-49103 | https://github.com/creacitysec/CVE-2023-49103 | | 
+| 20231123T06:43:54Z | CVE-2023-49103 | PoC for the CVE-2023-49103 | https://github.com/creacitysec/CVE-2023-49103 | | 
+| 20231123T05:32:01Z | CVE-2023-4207 | Null | https://github.com/nidhi7598/linux-4.19.72_net_CVE-2023-4207 | | 
+| 20231123T05:05:30Z | CVE-2023-36553 | CVE-2023-36553 unauthenticated RCE PoC for Fortinet Fortisiem | https://github.com/kenit7s/CVE-2023-36553-RCE | | 
 | 20231122T16:53:40Z | CVE-2023-4357 | 全球首款单文件利用 CVE-2023-4357 Chrome XXE 漏洞 EXP, 实现对访客者本地文件窃取. Chrome XXE vulnerability EXP, allowing attackers to obtain local files of visitors. | https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE | | 
 | 20231122T15:47:12Z | CVE-2020-0022 | A fully public exploit of the CVE-2020-0022 BlueFrag Android RCE Vulnerability (tested on Pixel 3 XL) | https://github.com/themmokhtar/CVE-2020-0022 | | 
 | 20231122T15:07:44Z | CVE-2023-23583 | This script can help determine the CPU ID for the processor of your system, please note that I have not added every CPU ID to this script, edit as needed. | https://github.com/Mav3r1ck0x1/CVE-2023-23583-Reptar- | | 
@@ -34,15 +36,13 @@
 | 20231122T12:29:49Z | CVE-2023-47246 | Null | https://github.com/tucommenceapousser/CVE-2023-47246 | | 
 | 20231122T11:43:28Z | CVE-2023-36427 | Report and exploit of CVE-2023-36427 | https://github.com/tandasat/CVE-2023-36427 | | 
 | 20231122T11:09:20Z | cve-2022-1364 | Null | https://github.com/A1Lin/cve-2022-1364 | | 
-| 20231122T09:18:56Z | CVE-2021-3129 | Laravel RCE (CVE-2021-3129) | https://github.com/joshuavanderpoll/CVE-2021-3129 | | 
-| 20231122T08:13:52Z | CVE-2023-47246 | exploit for cve-2023-47246 SysAid RCE (shell upload) | https://github.com/rainbowhatrkn/CVE-2023-47246 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231123T02:54:23Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14437 | 434| 
-| 20231122T09:45:59Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2361 | 639| 
+| 20231123T11:34:25Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14442 | 434| 
+| 20231123T02:59:57Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2362 | 639| 
 | 20231121T16:36:07Z | Null | https://github.com/shafiuzzaman-md/edk2_klee | 0 | 0| 
 | 20231121T14:18:47Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 282 | 54| 
 | 20231121T01:12:20Z | Config files for my GitHub profile. | https://github.com/Kleeyow/Kleeyow | 0 | 0| 
@@ -68,21 +68,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231122T23:31:43Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-e | 1 | 0| 
-| 20231122T23:30:45Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-el | 1 | 0| 
-| 20231122T23:29:37Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-el | 1 | 0| 
-| 20231122T23:28:57Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-el | 1 | 0| 
-| 20231122T19:19:42Z | CTI (Cyber Thread Intelligence) Araştırmalarım #StopRansomware | https://github.com/alicangnll/CTI_Arastirmalarim | 4 | 0| 
-| 20231122T16:50:02Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5506 | 1068| 
-| 20231122T13:51:37Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-nodejs-7REep-promise-exploit | 0 | 0| 
-| 20231122T13:07:48Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5673 | 765| 
-| 20231122T10:29:11Z | exploit all target dirs & get dir with response code 200 | https://github.com/cyraxabir/url_response | 0 | 0| 
-| 20231122T09:44:21Z | Null | https://github.com/werewolf536/Exploit | 0 | 0| 
+| 20231123T12:58:26Z | A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings. | https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass | 112 | 47| 
+| 20231123T12:01:05Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5508 | 1069| 
+| 20231123T12:00:23Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5679 | 716| 
+| 20231123T11:54:22Z | Null | https://github.com/VenomTools/SILENT-DOC-EXPLOIT-2024 | 1 | 0| 
+| 20231123T11:54:08Z | Null | https://github.com/VenomTools/SILENT-XLS-EXPLOIT-2024 | 1 | 0| 
+| 20231123T11:53:32Z | https://venom.software | https://github.com/VenomTools/SILENT-PDF-EXPLOIT-2024 | 3 | 0| 
+| 20231123T10:43:00Z | MirrorFlow: Exploiting Symmetries in Joint Optical Flow and Occlusion Estimation (ICCV 2017) | https://github.com/visinf/mirrorflow | 0 | 0| 
+| 20231123T10:34:08Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5676 | 766| 
+| 20231123T10:30:23Z | This repo for Windows x32-x64 Kernel/Driver/User Mode Exploitation writeups and exploits | https://github.com/Sh3lldon/WinPWN | 2 | 0| 
+| 20231123T10:30:06Z | Exploit echo.ac driver | https://github.com/ezkkakka/echo-poc | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231123T04:22:20Z | Null | https://github.com/Limule-Cams/backdoor | 1 | 0| 
 | 20231123T02:01:22Z | Null | https://github.com/wang2226/Backdoor-Activation-Attack | 0 | 0| 
 | 20231122T20:53:31Z | Null | https://github.com/adebanjofalade/window-backdoor | 0 | 0| 
 | 20231122T14:07:32Z | Find any backdoor/webshell on your website with Python | https://github.com/daniisaahir/DinoScan | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20231121T09:25:32Z | Null | https://github.com/xiaocangshengGR/CL_backdoor | 0 | 0| 
 | 20231121T09:10:38Z | A backdoor attack using LSB as a trigger. | https://github.com/123000001212/LSB_backdoor | 0 | 0| 
 | 20231121T04:16:27Z | Simple backdoorl for linux and windows for OSCP preparation | https://github.com/Daniel10Barredo/SimpleBackdoor | 0 | 0| 
-| 20231120T16:14:54Z | The code for the %Dynamic Backdoor Attacks Against Machine Learning Models% paper | https://github.com/AhmedSalem2/Dynamic-Backdoor | 4 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -113,13 +113,13 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231123T12:23:27Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 92 | 4| 
+| 20231123T11:31:09Z | Source code for the paper %SLMIA-SR: Speaker-Level Membership Inference Attacks against Speaker Recognition Systems% accepted by NDSS 2024 | https://github.com/S3L-official/SLMIA-SR | 3 | 0| 
 | 20231122T08:58:23Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 32 | 2| 
 | 20231121T10:18:55Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 34 | 6| 
 | 20231119T16:49:14Z | Corresponding code for the paper: %Sneaky Spikes: Uncovering Stealthy Backdoor Attacks in Spiking Neural Networks with Neuromorphic Data%, at Network and Distributed System Security (NDSS). | https://github.com/GorkaAbad/Sneaky-Spikes | 0 | 0| 
 | 20231119T10:19:43Z | This is the source code for SSL-WM. Our paper is accepted by the Network and Distributed System Security Symposium (NDSS) 2024. | https://github.com/lvpeizhuo/SSL-WM | 0 | 0| 
 | 20231119T08:00:19Z | NDSS 2024 - CamPro: Camera-based Anti-Facial Recognition | https://github.com/forget2save/CamPro | 0 | 0| 
-| 20231118T23:01:23Z | Source code for the paper %SLMIA-SR: Speaker-Level Membership Inference Attacks against Speaker Recognition Systems% accepted by NDSS 2024 | https://github.com/S3L-official/SLMIA-SR | 4 | 0| 
-| 20231118T01:41:26Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 90 | 4| 
 | 20231116T05:32:34Z | Null | https://github.com/marikrishnan04/ndssd | 0 | 0| 
 | 20231109T09:12:59Z | Source code for our NDSS%18 paper %Automated Website Fingerprinting through Deep Learning% | https://github.com/DistriNet/DLWF | 84 | 39| 
 | 20231106T03:05:55Z | A carwler for cyber security conferences including the big 4 (SP, Usenix Security, NDSS, CCS) and some software conferences. | https://github.com/QGrain/conference-crawler | 0 | 0| 
@@ -128,16 +128,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231123T09:44:08Z | BlockBash Project. | https://github.com/Ritinder-Singh/fuzzyoctodoodle | 0 | 0| 
+| 20231123T08:57:39Z | Null | https://github.com/sakshi1710-del/fuzzy-octo-couscous | 0 | 0| 
+| 20231123T06:59:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9183 | 2044| 
+| 20231123T04:26:55Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 625 | 76| 
 | 20231123T02:36:43Z | :exclamation: This is a read-only mirror of the CRAN R package repository.  FuzzyResampling — Resampling Methods for Triangular and Trapezoidal Fuzzy Numbers. Homepage: https://github.com/mroman-ibs/FuzzyResampling  Report bugs for this package: https://github.com/mroman-ibs/FuzzyResampling/issues | https://github.com/cran/FuzzyResampling | 0 | 0| 
 | 20231123T01:59:17Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 4310 | 525| 
 | 20231123T01:05:38Z | um repositório para testes da logica fuzzy | https://github.com/SUPerchokki/controle-fuzzy | 0 | 0| 
-| 20231123T00:42:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9182 | 2044| 
 | 20231122T23:41:34Z | Interactive file searching and previews using fd, fzf, ag, and multimedia tools in the command line | https://github.com/5n00py/FuzzyShellSearch | 0 | 0| 
 | 20231122T23:20:58Z | Null | https://github.com/dshatz/fuzzyKat | 0 | 0| 
 | 20231122T23:10:48Z | Null | https://github.com/Jumperlost/fuzzy-meme | 0 | 0| 
-| 20231122T14:26:52Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 111 | 41| 
-| 20231122T12:46:45Z | Null | https://github.com/MarinaLakhneva/FuzzyClustering_degree | 0 | 0| 
-| 20231122T11:49:00Z | Null | https://github.com/JacekGlen/silkworm-fuzztest-poc | 0 | 0| 
 
 
 
