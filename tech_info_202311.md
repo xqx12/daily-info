@@ -128,6 +128,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231123T01:59:17Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 4310 | 525| 
 | 20231123T01:05:38Z | um repositório para testes da logica fuzzy | https://github.com/SUPerchokki/controle-fuzzy | 0 | 0| 
 | 20231123T00:42:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9182 | 2044| 
 | 20231122T23:41:34Z | Interactive file searching and previews using fd, fzf, ag, and multimedia tools in the command line | https://github.com/5n00py/FuzzyShellSearch | 0 | 0| 
@@ -137,7 +138,6 @@
 | 20231122T12:46:45Z | Null | https://github.com/MarinaLakhneva/FuzzyClustering_degree | 0 | 0| 
 | 20231122T11:49:00Z | Null | https://github.com/JacekGlen/silkworm-fuzztest-poc | 0 | 0| 
 | 20231122T07:54:12Z | This repository provides several payloads for the web application fuzzing process, each of which has a different payload | https://github.com/lazysec0x21/fuzzing | 0 | 0| 
-| 20231122T02:10:30Z | Null | https://github.com/nikhilualberta/FuzzyAsteroids | 0 | 0| 
 
 
 
