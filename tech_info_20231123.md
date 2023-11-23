@@ -37,7 +37,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231123T13:42:12Z | A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings. | https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass | 123 | 52| 
+| 20231123T13:50:59Z | A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings. | https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass | 124 | 52| 
 | 20231123T13:39:28Z | Une page web pour le cours de SNT | https://github.com/eipaca/systemes-exploitation | 0 | 0| 
 | 20231123T13:37:37Z | Null | https://github.com/virus-exploit01/virus-exploit01 | 0 | 0| 
 | 20231123T13:30:06Z | GitOps Repository | https://github.com/redhat-appstudio-qe/integ-app-zyie-SZBxX-exploit-experience | 0 | 0| 
