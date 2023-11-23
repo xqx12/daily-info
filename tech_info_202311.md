@@ -68,7 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231123T13:05:02Z | A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings. | https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass | 115 | 47| 
+| 20231123T13:07:47Z | A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings. | https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass | 116 | 48| 
 | 20231123T12:01:05Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5508 | 1069| 
 | 20231123T12:00:23Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5679 | 716| 
 | 20231123T11:54:22Z | Null | https://github.com/VenomTools/SILENT-DOC-EXPLOIT-2024 | 1 | 0| 
