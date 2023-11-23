@@ -21,6 +21,7 @@
 | 20231122T16:53:40Z | CVE-2023-4357 | 全球首款单文件利用 CVE-2023-4357 Chrome XXE 漏洞 EXP, 实现对访客者本地文件窃取. Chrome XXE vulnerability EXP, allowing attackers to obtain local files of visitors. | https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE | | 
 | 20231122T15:47:12Z | CVE-2020-0022 | A fully public exploit of the CVE-2020-0022 BlueFrag Android RCE Vulnerability (tested on Pixel 3 XL) | https://github.com/themmokhtar/CVE-2020-0022 | | 
 | 20231122T15:07:44Z | CVE-2023-23583 | This script can help determine the CPU ID for the processor of your system, please note that I have not added every CPU ID to this script, edit as needed. | https://github.com/Mav3r1ck0x1/CVE-2023-23583-Reptar- | | 
+| 20231122T14:05:11Z | 未知编号 | CVE_2023_22518_Checker | https://github.com/0x00sector/CVE_2023_22518_Checker | | 
 | 20231122T12:29:49Z | CVE-2023-47246 | Null | https://github.com/tucommenceapousser/CVE-2023-47246 | | 
 | 20231122T11:43:28Z | CVE-2023-36427 | Report and exploit of CVE-2023-36427 | https://github.com/tandasat/CVE-2023-36427 | | 
 | 20231122T11:09:20Z | cve-2022-1364 | Null | https://github.com/A1Lin/cve-2022-1364 | | 
