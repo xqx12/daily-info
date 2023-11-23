@@ -37,7 +37,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231123T13:25:39Z | A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings. | https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass | 118 | 48| 
+| 20231123T13:32:50Z | A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings. | https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass | 121 | 48| 
+| 20231123T13:30:06Z | GitOps Repository | https://github.com/redhat-appstudio-qe/integ-app-zyie-SZBxX-exploit-experience | 0 | 0| 
 | 20231123T12:01:05Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5508 | 1069| 
 | 20231123T12:00:23Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5679 | 716| 
 | 20231123T11:54:22Z | Null | https://github.com/VenomTools/SILENT-DOC-EXPLOIT-2024 | 1 | 0| 
@@ -46,7 +47,6 @@
 | 20231123T10:43:00Z | MirrorFlow: Exploiting Symmetries in Joint Optical Flow and Occlusion Estimation (ICCV 2017) | https://github.com/visinf/mirrorflow | 0 | 0| 
 | 20231123T10:34:08Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5676 | 766| 
 | 20231123T10:30:23Z | This repo for Windows x32-x64 Kernel/Driver/User Mode Exploitation writeups and exploits | https://github.com/Sh3lldon/WinPWN | 2 | 0| 
-| 20231123T10:30:06Z | Exploit echo.ac driver | https://github.com/ezkkakka/echo-poc | 0 | 0| 
 
 
 # backdoor on Github 推荐
