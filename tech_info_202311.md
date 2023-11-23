@@ -128,6 +128,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231123T13:40:29Z | Null | https://github.com/JacekGlen/silkworm-fuzztest-poc | 0 | 0| 
+| 20231123T13:36:13Z | Null | https://github.com/Khenz0/IS_Lab3_Fuzzy-Logic-Control | 0 | 0| 
 | 20231123T13:20:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9184 | 2044| 
 | 20231123T09:44:08Z | BlockBash Project. | https://github.com/Ritinder-Singh/fuzzyoctodoodle | 0 | 0| 
 | 20231123T08:57:39Z | Null | https://github.com/sakshi1710-del/fuzzy-octo-couscous | 0 | 0| 
@@ -136,8 +138,6 @@
 | 20231123T01:59:17Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 4310 | 525| 
 | 20231123T01:05:38Z | um repositório para testes da logica fuzzy | https://github.com/SUPerchokki/controle-fuzzy | 0 | 0| 
 | 20231122T23:41:34Z | Interactive file searching and previews using fd, fzf, ag, and multimedia tools in the command line | https://github.com/5n00py/FuzzyShellSearch | 0 | 0| 
-| 20231122T23:20:58Z | Null | https://github.com/dshatz/fuzzyKat | 0 | 0| 
-| 20231122T23:10:48Z | Null | https://github.com/Jumperlost/fuzzy-meme | 0 | 0| 
 
 
 
