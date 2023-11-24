@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231124T13:23:08Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 174 | 14| 
 | 20231124T12:34:06Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5509 | 1070| 
 | 20231124T12:28:49Z | Exploit SeImpersonatePrivilege | https://github.com/copywrited/PrintSpooferNet | 0 | 0| 
 | 20231124T12:04:52Z | A docker container based on arch and blackarch linux to spawn a quick binary exploitation environment. | https://github.com/ashtrace/pwncon | 0 | 0| 
@@ -77,7 +78,6 @@
 | 20231124T09:42:24Z | Penetration testing, exploitation interactions and credential harvest. | https://github.com/Polka17/InCS_Project | 0 | 0| 
 | 20231124T09:27:14Z | Exploit forCVE-2020-29607 | https://github.com/0xN7y/CVE-2020-29607 | 0 | 0| 
 | 20231124T09:18:41Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5674 | 766| 
-| 20231124T04:09:06Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10922 | 1662| 
 
 
 # backdoor on Github 推荐
