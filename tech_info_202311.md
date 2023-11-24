@@ -68,9 +68,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231124T02:03:18Z | reproduce kyber-elastic exploit | https://github.com/paco0x/kyber-exploit-example | 3 | 0| 
 | 20231124T01:51:49Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5509 | 1069| 
 | 20231124T01:46:21Z | blog for reverse engineering, exploit development, and red team concepts | https://github.com/MemoryMeld/memorymeld.github.io | 0 | 0| 
-| 20231124T01:45:26Z | reproduce kyber-elastic exploit | https://github.com/paco0x/kyber-exploit-example | 2 | 0| 
 | 20231124T01:39:41Z | My personal toolkit focused in application exploitation | https://github.com/Sp1derM0rph3us/overflowtoolkit | 0 | 0| 
 | 20231124T01:24:54Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0030-app-oving-describe-exploit | 0 | 0| 
 | 20231124T01:24:53Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0068-app-t7avn-identify-exploit | 0 | 0| 
@@ -128,6 +128,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231124T02:05:06Z | Fuzzy search done using elasticsearch, it searches the keywords and gives the desc ( Question) | https://github.com/Kingyakstha/Fuzzy-Search-es- | 0 | 0| 
 | 20231123T22:51:59Z | Null | https://github.com/Zaydenbacon/Dpin-Fuzzer | 0 | 0| 
 | 20231123T22:42:05Z | Null | https://github.com/peanutChowder/XFC-fuzzy-agent | 0 | 0| 
 | 20231123T22:31:34Z | Null | https://github.com/M11K33L/tomcat-manager-fuzzer | 0 | 0| 
@@ -137,7 +138,6 @@
 | 20231123T13:36:13Z | Null | https://github.com/Khenz0/IS_Lab3_Fuzzy-Logic-Control | 0 | 0| 
 | 20231123T13:20:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9184 | 2044| 
 | 20231123T09:44:08Z | BlockBash Project. | https://github.com/Ritinder-Singh/fuzzyoctodoodle | 0 | 0| 
-| 20231123T08:57:39Z | Null | https://github.com/sakshi1710-del/fuzzy-octo-couscous | 0 | 0| 
 
 
 
