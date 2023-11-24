@@ -68,7 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231124T00:32:09Z | blog for reverse engineering, exploit development, and red team concepts | https://github.com/MemoryMeld/memorymeld.github.io | 0 | 0| 
+| 20231124T01:16:51Z | blog for reverse engineering, exploit development, and red team concepts | https://github.com/MemoryMeld/memorymeld.github.io | 0 | 0| 
 | 20231123T23:46:02Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-yf | 1 | 0| 
 | 20231123T23:43:59Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-yf | 1 | 0| 
 | 20231123T23:43:12Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-yf | 1 | 0| 
