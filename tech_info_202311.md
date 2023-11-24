@@ -68,7 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231124T02:03:18Z | reproduce kyber-elastic exploit | https://github.com/paco0x/kyber-exploit-example | 3 | 0| 
+| 20231124T02:07:17Z | reproduce kyber-elastic exploit | https://github.com/paco0x/kyber-exploit-example | 4 | 0| 
 | 20231124T01:51:49Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5509 | 1069| 
 | 20231124T01:46:21Z | blog for reverse engineering, exploit development, and red team concepts | https://github.com/MemoryMeld/memorymeld.github.io | 0 | 0| 
 | 20231124T01:39:41Z | My personal toolkit focused in application exploitation | https://github.com/Sp1derM0rph3us/overflowtoolkit | 0 | 0| 
