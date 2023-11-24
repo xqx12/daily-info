@@ -26,22 +26,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231124T11:51:45Z | CVE-2022-41853 | Research into CVE-2022-41853. Using static functions to obtian RCE via Java Deserialization | https://github.com/mbadanoiu/CVE-2022-41853 | | 
+| 20231124T11:22:29Z | CVE-2023-34212 | CVE-2023-34212: Java Deserialization via JNDI Components in Apache NiFi | https://github.com/mbadanoiu/CVE-2023-34212 | | 
+| 20231124T11:08:47Z | CVE-2023-49103 | PoC for the CVE-2023-49103 | https://github.com/creacitysec/CVE-2023-49103 | | 
+| 20231124T09:27:14Z | CVE-2020-29607 | Exploit forCVE-2020-29607 | https://github.com/0xN7y/CVE-2020-29607 | | 
+| 20231124T08:35:50Z | CVE-2023-3452 | Wordpress Plugin Canto < 3.0.5 - Remote File Inclusion (RFI) and Remote Code Execution (RCE) | https://github.com/leoanggal1/CVE-2023-3452-PoC | | 
+| 20231124T08:33:03Z | CVE-2023-4207 | Null | https://github.com/nidhi7598/linux-4.19.72_net_CVE-2023-4207 | | 
+| 20231124T04:38:07Z | CVE-2022-46169 | Exploit for CVE-2022-46169  | https://github.com/0xN7y/CVE-2022-46169 | | 
+| 20231124T03:09:53Z | CVE-2023-47246 | Null | https://github.com/tucommenceapousser/CVE-2023-47246 | | 
 | 20231123T22:59:49Z | CVE-2021-46364 | CVE-2021-46364: YAML Deserialization in Magnolia CMS | https://github.com/mbadanoiu/CVE-2021-46364 | | 
 | 20231123T22:55:29Z | CVE-2023-40037 | CVE-2023-40037: Incomplete Validation of JDBC and JNDI Connection URLs in Apache NiFi | https://github.com/mbadanoiu/CVE-2023-40037 | | 
-| 20231123T22:53:20Z | CVE-2023-34212 | CVE-2023-34212: Java Deserialization via JNDI Components in Apache NiFi | https://github.com/mbadanoiu/CVE-2023-34212 | | 
-| 20231123T22:51:34Z | CVE-2023-26269 | CVE-2023-26269: Misconfigured JMX in Apache James | https://github.com/mbadanoiu/CVE-2023-26269 | | 
-| 20231123T21:20:34Z | CVE-2023-36427 | Report and exploit of CVE-2023-36427 | https://github.com/tandasat/CVE-2023-36427 | | 
-| 20231123T20:15:00Z | CVE-2023-44353 | Null | https://github.com/JC175/CVE-2023-44353-Nuclei-Template | | 
-| 20231123T19:06:49Z | CVE-2023-3452 | Wordpress Plugin Canto < 3.0.5 - Remote File Inclusion (RFI) and Remote Code Execution (RCE) | https://github.com/leoanggal1/CVE-2023-3452-PoC | | 
-| 20231123T18:14:45Z | CVE-2022-46169 | Exploit for CVE-2022-46169  | https://github.com/0xN7y/CVE-2022-46169 | | 
-| 20231123T14:51:32Z | CVE-2023-49103 | PoC for the CVE-2023-49103 | https://github.com/creacitysec/CVE-2023-49103 | | 
-| 20231123T14:41:24Z | CVE-2023-32571 | Null | https://github.com/Tris0n/CVE-2023-32571-POC | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231124T02:39:01Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14448 | 434| 
+| 20231124T09:57:51Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 33 | 2| 
+| 20231124T09:30:12Z | A utility library for spigot plugin development | https://github.com/KleeSup/KleePluginBase | 0 | 0| 
+| 20231124T07:55:39Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14453 | 434| 
 | 20231123T02:59:57Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2362 | 639| 
 | 20231121T16:36:07Z | Null | https://github.com/shafiuzzaman-md/edk2_klee | 0 | 0| 
 | 20231121T14:18:47Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 282 | 54| 
@@ -49,8 +51,6 @@
 | 20231120T03:59:24Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 390 | 8| 
 | 20231119T18:56:27Z | This is the one! | https://github.com/klee-os/Klee-OS | 0 | 0| 
 | 20231119T01:09:01Z | Null | https://github.com/hoolisoftware/kleewish | 0 | 0| 
-| 20231118T14:15:38Z | Null | https://github.com/dimitricbrown/KLEEFE | 0 | 0| 
-| 20231118T14:11:07Z | Null | https://github.com/dimitricbrown/KLEEBE | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -68,21 +68,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231124T02:44:00Z | Null | https://github.com/Orplane/Exploit-Dev | 0 | 0| 
-| 20231124T02:43:56Z | reproduce kyber-elastic exploit | https://github.com/paco0x/kyber-exploit-example | 6 | 0| 
-| 20231124T02:26:41Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0049-app-2c8Jj-exploit-wan | 0 | 0| 
-| 20231124T01:51:49Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5509 | 1069| 
-| 20231124T01:46:21Z | blog for reverse engineering, exploit development, and red team concepts | https://github.com/MemoryMeld/memorymeld.github.io | 0 | 0| 
-| 20231124T01:39:41Z | My personal toolkit focused in application exploitation | https://github.com/Sp1derM0rph3us/overflowtoolkit | 0 | 0| 
-| 20231124T01:24:54Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0030-app-oving-describe-exploit | 0 | 0| 
-| 20231124T01:24:53Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0068-app-t7avn-identify-exploit | 0 | 0| 
-| 20231123T23:46:02Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-yf | 1 | 0| 
-| 20231123T23:43:59Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-yf | 1 | 0| 
+| 20231124T12:34:06Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5509 | 1070| 
+| 20231124T12:28:49Z | Exploit SeImpersonatePrivilege | https://github.com/copywrited/PrintSpooferNet | 0 | 0| 
+| 20231124T12:04:52Z | A docker container based on arch and blackarch linux to spawn a quick binary exploitation environment. | https://github.com/ashtrace/pwncon | 0 | 0| 
+| 20231124T11:59:50Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5684 | 716| 
+| 20231124T11:23:05Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 760 | 182| 
+| 20231124T10:09:57Z | Null | https://github.com/prox11/CTF-Writeups | 1 | 0| 
+| 20231124T09:42:24Z | Penetration testing, exploitation interactions and credential harvest. | https://github.com/Polka17/InCS_Project | 0 | 0| 
+| 20231124T09:27:14Z | Exploit forCVE-2020-29607 | https://github.com/0xN7y/CVE-2020-29607 | 0 | 0| 
+| 20231124T09:18:41Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5674 | 766| 
+| 20231124T04:09:06Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10922 | 1662| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231124T09:07:30Z | Null | https://github.com/juhye0p/Stealth_Backdoor | 0 | 0| 
+| 20231124T06:04:16Z | Null | https://github.com/lixi1994/backdoor_KD_FL | 0 | 0| 
 | 20231123T23:51:03Z | A python script that look for hikvision vulnerable cams with a backdoor | https://github.com/diego-tella/HikvisionIN | 5 | 0| 
 | 20231123T22:01:51Z | Null | https://github.com/kazuyagodsz/backdoor | 0 | 0| 
 | 20231123T19:47:51Z | An AWS Pentesting tool that lets you use one-liner commands to backdoor an AWS account%s resources with a rogue AWS account - or share the resources with the entire internet | https://github.com/catdever/endgame | 0 | 0| 
@@ -91,8 +93,6 @@
 | 20231123T04:22:20Z | Null | https://github.com/Limule-Cams/backdoor | 1 | 0| 
 | 20231123T02:01:22Z | Null | https://github.com/wang2226/Backdoor-Activation-Attack | 0 | 0| 
 | 20231122T20:53:31Z | Null | https://github.com/adebanjofalade/window-backdoor | 0 | 0| 
-| 20231122T14:07:32Z | Find any backdoor/webshell on your website with Python | https://github.com/daniisaahir/DinoScan | 0 | 0| 
-| 20231122T06:13:15Z | Null | https://github.com/vgkskaka/Script-backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -113,6 +113,8 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231124T08:35:03Z | (NDSS 2024) Optimizing Decompiler Output with LLM | https://github.com/PeiweiHu/DeGPT | 1 | 0| 
+| 20231124T04:16:56Z | Source code for our NDSS%18 paper %Automated Website Fingerprinting through Deep Learning% | https://github.com/DistriNet/DLWF | 85 | 39| 
 | 20231123T12:23:27Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 92 | 4| 
 | 20231123T11:31:09Z | Source code for the paper %SLMIA-SR: Speaker-Level Membership Inference Attacks against Speaker Recognition Systems% accepted by NDSS 2024 | https://github.com/S3L-official/SLMIA-SR | 3 | 0| 
 | 20231122T08:58:23Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 32 | 2| 
@@ -121,23 +123,21 @@
 | 20231119T10:19:43Z | This is the source code for SSL-WM. Our paper is accepted by the Network and Distributed System Security Symposium (NDSS) 2024. | https://github.com/lvpeizhuo/SSL-WM | 0 | 0| 
 | 20231119T08:00:19Z | NDSS 2024 - CamPro: Camera-based Anti-Facial Recognition | https://github.com/forget2save/CamPro | 0 | 0| 
 | 20231116T05:32:34Z | Null | https://github.com/marikrishnan04/ndssd | 0 | 0| 
-| 20231109T09:12:59Z | Source code for our NDSS%18 paper %Automated Website Fingerprinting through Deep Learning% | https://github.com/DistriNet/DLWF | 84 | 39| 
-| 20231106T03:05:55Z | A carwler for cyber security conferences including the big 4 (SP, Usenix Security, NDSS, CCS) and some software conferences. | https://github.com/QGrain/conference-crawler | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231124T12:53:01Z | Null | https://github.com/xchrisbailey/fuzzy_yellow_balls | 0 | 0| 
+| 20231124T12:43:08Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50194 | 23319| 
+| 20231124T11:49:37Z | Null | https://github.com/incrediblesofo/fuzzy-guide | 0 | 0| 
+| 20231124T11:42:44Z | Packer-Fuzzer升级版，功能更强大 | https://github.com/BigYoungs/Packer-Fuzzer-Plus | 0 | 0| 
+| 20231124T11:20:55Z | print=(%%iroonman%%) | https://github.com/1qfhjhgtylmjkhklvzgtyoifzdgt/fuzzy-happiness | 0 | 0| 
+| 20231124T10:44:30Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 475 | 62| 
+| 20231124T09:47:20Z | Here I visualized the Fuzzy Logic example | https://github.com/rahul-stark16/Fuzzy-Logic-example | 0 | 0| 
+| 20231124T09:15:06Z | a minimalistic example | https://github.com/dainiusjocas/vespa-fuzzy-bolding-problem | 0 | 0| 
 | 20231124T02:38:27Z | Null | https://github.com/Orplane/python3-fuzzer-script | 0 | 0| 
 | 20231124T02:26:28Z | Fuzzy search done using elasticsearch, it searches the keywords and gives the desc ( Question) | https://github.com/Kingyakstha/Fuzzy-Search-es- | 0 | 0| 
-| 20231123T22:51:59Z | Null | https://github.com/Zaydenbacon/Dpin-Fuzzer | 0 | 0| 
-| 20231123T22:42:05Z | Null | https://github.com/peanutChowder/XFC-fuzzy-agent | 0 | 0| 
-| 20231123T22:31:34Z | Null | https://github.com/M11K33L/tomcat-manager-fuzzer | 0 | 0| 
-| 20231123T22:16:14Z | A fuzzy library for comparing strings | https://github.com/stablecaps/nim-fuzzy-duck-lib | 1 | 0| 
-| 20231123T13:45:57Z | Null | https://github.com/taosuyyt/fuzzy-garbanzo | 0 | 0| 
-| 20231123T13:40:29Z | Null | https://github.com/JacekGlen/silkworm-fuzztest-poc | 0 | 0| 
-| 20231123T13:36:13Z | Null | https://github.com/Khenz0/IS_Lab3_Fuzzy-Logic-Control | 0 | 0| 
-| 20231123T13:20:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9184 | 2044| 
 
 
 
