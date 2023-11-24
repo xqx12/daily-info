@@ -26,22 +26,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231123T06:43:54Z | CVE-2023-49103 | PoC for the CVE-2023-49103 | https://github.com/creacitysec/CVE-2023-49103 | | 
-| 20231123T05:32:01Z | CVE-2023-4207 | Null | https://github.com/nidhi7598/linux-4.19.72_net_CVE-2023-4207 | | 
-| 20231123T05:05:30Z | CVE-2023-36553 | CVE-2023-36553 unauthenticated RCE PoC for Fortinet Fortisiem | https://github.com/kenit7s/CVE-2023-36553-RCE | | 
-| 20231122T16:53:40Z | CVE-2023-4357 | 全球首款单文件利用 CVE-2023-4357 Chrome XXE 漏洞 EXP, 实现对访客者本地文件窃取. Chrome XXE vulnerability EXP, allowing attackers to obtain local files of visitors. | https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE | | 
-| 20231122T15:47:12Z | CVE-2020-0022 | A fully public exploit of the CVE-2020-0022 BlueFrag Android RCE Vulnerability (tested on Pixel 3 XL) | https://github.com/themmokhtar/CVE-2020-0022 | | 
-| 20231122T15:07:44Z | CVE-2023-23583 | This script can help determine the CPU ID for the processor of your system, please note that I have not added every CPU ID to this script, edit as needed. | https://github.com/Mav3r1ck0x1/CVE-2023-23583-Reptar- | | 
-| 20231122T14:05:11Z | 未知编号 | CVE_2023_22518_Checker | https://github.com/0x00sector/CVE_2023_22518_Checker | | 
-| 20231122T12:29:49Z | CVE-2023-47246 | Null | https://github.com/tucommenceapousser/CVE-2023-47246 | | 
-| 20231122T11:43:28Z | CVE-2023-36427 | Report and exploit of CVE-2023-36427 | https://github.com/tandasat/CVE-2023-36427 | | 
-| 20231122T11:09:20Z | cve-2022-1364 | Null | https://github.com/A1Lin/cve-2022-1364 | | 
+| 20231123T22:59:49Z | CVE-2021-46364 | CVE-2021-46364: YAML Deserialization in Magnolia CMS | https://github.com/mbadanoiu/CVE-2021-46364 | | 
+| 20231123T22:55:29Z | CVE-2023-40037 | CVE-2023-40037: Incomplete Validation of JDBC and JNDI Connection URLs in Apache NiFi | https://github.com/mbadanoiu/CVE-2023-40037 | | 
+| 20231123T22:53:20Z | CVE-2023-34212 | CVE-2023-34212: Java Deserialization via JNDI Components in Apache NiFi | https://github.com/mbadanoiu/CVE-2023-34212 | | 
+| 20231123T22:51:34Z | CVE-2023-26269 | CVE-2023-26269: Misconfigured JMX in Apache James | https://github.com/mbadanoiu/CVE-2023-26269 | | 
+| 20231123T21:20:34Z | CVE-2023-36427 | Report and exploit of CVE-2023-36427 | https://github.com/tandasat/CVE-2023-36427 | | 
+| 20231123T20:15:00Z | CVE-2023-44353 | Null | https://github.com/JC175/CVE-2023-44353-Nuclei-Template | | 
+| 20231123T19:06:49Z | CVE-2023-3452 | Wordpress Plugin Canto < 3.0.5 - Remote File Inclusion (RFI) and Remote Code Execution (RCE) | https://github.com/leoanggal1/CVE-2023-3452-PoC | | 
+| 20231123T18:14:45Z | CVE-2022-46169 | Exploit for CVE-2022-46169  | https://github.com/0xN7y/CVE-2022-46169 | | 
+| 20231123T14:51:32Z | CVE-2023-49103 | PoC for the CVE-2023-49103 | https://github.com/creacitysec/CVE-2023-49103 | | 
+| 20231123T14:41:24Z | CVE-2023-32571 | Null | https://github.com/Tris0n/CVE-2023-32571-POC | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231123T13:42:01Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14444 | 434| 
+| 20231123T23:14:19Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14447 | 434| 
 | 20231123T02:59:57Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2362 | 639| 
 | 20231121T16:36:07Z | Null | https://github.com/shafiuzzaman-md/edk2_klee | 0 | 0| 
 | 20231121T14:18:47Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 282 | 54| 
@@ -68,31 +68,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231124T00:32:09Z | blog for reverse engineering, exploit development, and red team concepts | https://github.com/MemoryMeld/memorymeld.github.io | 0 | 0| 
+| 20231123T23:46:02Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-yf | 1 | 0| 
+| 20231123T23:43:59Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-yf | 1 | 0| 
+| 20231123T23:43:12Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-yf | 1 | 0| 
+| 20231123T23:42:25Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-yf | 1 | 0| 
+| 20231123T23:10:39Z | reproduce kyber-elastic exploit | https://github.com/paco0x/kyber-exploit-example | 0 | 0| 
+| 20231123T23:05:45Z | Null | https://github.com/Ch33z3head/x86-Exploitation-Works | 0 | 0| 
+| 20231123T22:39:27Z | A place-break patch extension of JobsReborn plugin for Bukkit servers (Minecraft). | https://github.com/Djaytan/mc-jobs-reborn-patch-place-break | 3 | 0| 
+| 20231123T14:24:43Z | Local File Inclusion discovery and exploitation tool | https://github.com/hansmach1ne/LFImap | 147 | 22| 
 | 20231123T13:50:59Z | A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings. | https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass | 124 | 52| 
-| 20231123T13:39:28Z | Une page web pour le cours de SNT | https://github.com/eipaca/systemes-exploitation | 0 | 0| 
-| 20231123T13:37:37Z | Null | https://github.com/virus-exploit01/virus-exploit01 | 0 | 0| 
-| 20231123T13:30:06Z | GitOps Repository | https://github.com/redhat-appstudio-qe/integ-app-zyie-SZBxX-exploit-experience | 0 | 0| 
-| 20231123T12:01:05Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5508 | 1069| 
-| 20231123T12:00:23Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5679 | 716| 
-| 20231123T11:54:22Z | Null | https://github.com/VenomTools/SILENT-DOC-EXPLOIT-2024 | 1 | 0| 
-| 20231123T11:54:08Z | Null | https://github.com/VenomTools/SILENT-XLS-EXPLOIT-2024 | 1 | 0| 
-| 20231123T11:53:32Z | https://venom.software | https://github.com/VenomTools/SILENT-PDF-EXPLOIT-2024 | 3 | 0| 
-| 20231123T10:43:00Z | MirrorFlow: Exploiting Symmetries in Joint Optical Flow and Occlusion Estimation (ICCV 2017) | https://github.com/visinf/mirrorflow | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231123T23:51:03Z | A python script that look for hikvision vulnerable cams with a backdoor | https://github.com/diego-tella/HikvisionIN | 5 | 0| 
+| 20231123T22:01:51Z | Null | https://github.com/kazuyagodsz/backdoor | 0 | 0| 
+| 20231123T19:47:51Z | An AWS Pentesting tool that lets you use one-liner commands to backdoor an AWS account%s resources with a rogue AWS account - or share the resources with the entire internet | https://github.com/catdever/endgame | 0 | 0| 
+| 20231123T16:15:41Z | Just a simple backdoor, responsive and fast. Made with Team CLAY Hacker , Download | https://github.com/teamclayhacker/TCH_220-shell | 0 | 0| 
+| 20231123T14:01:16Z | Implementation of %Beating Backdoor Attack at Its Own Game% (ICCV-23). | https://github.com/damianliumin/non-adversarial_backdoor | 7 | 0| 
 | 20231123T04:22:20Z | Null | https://github.com/Limule-Cams/backdoor | 1 | 0| 
 | 20231123T02:01:22Z | Null | https://github.com/wang2226/Backdoor-Activation-Attack | 0 | 0| 
 | 20231122T20:53:31Z | Null | https://github.com/adebanjofalade/window-backdoor | 0 | 0| 
 | 20231122T14:07:32Z | Find any backdoor/webshell on your website with Python | https://github.com/daniisaahir/DinoScan | 0 | 0| 
 | 20231122T06:13:15Z | Null | https://github.com/vgkskaka/Script-backdoor | 0 | 0| 
-| 20231121T15:32:13Z | Code for paper: PoisonPrompt: Backdoor Attack on Prompt-based Large Language Models | https://github.com/grasses/PoisonPrompt | 1 | 0| 
-| 20231121T12:57:48Z | On this project we mainly focus ourselves on the following question : Is it possible that defense never wins ? in the context of ML models. Thanks to several articles, websites we define important key notions as trojan attacks, backdoors and so on by given some instances and by explaining briefly some non trivial mechanisms. | https://github.com/Dave78300/Turing-Seminar-Project-MVA-2023 | 0 | 0| 
-| 20231121T09:25:32Z | Null | https://github.com/xiaocangshengGR/CL_backdoor | 0 | 0| 
-| 20231121T09:10:38Z | A backdoor attack using LSB as a trigger. | https://github.com/123000001212/LSB_backdoor | 0 | 0| 
-| 20231121T04:16:27Z | Simple backdoorl for linux and windows for OSCP preparation | https://github.com/Daniel10Barredo/SimpleBackdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -128,16 +128,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231123T22:51:59Z | Null | https://github.com/Zaydenbacon/Dpin-Fuzzer | 0 | 0| 
+| 20231123T22:42:05Z | Null | https://github.com/peanutChowder/XFC-fuzzy-agent | 0 | 0| 
+| 20231123T22:31:34Z | Null | https://github.com/M11K33L/tomcat-manager-fuzzer | 0 | 0| 
+| 20231123T22:16:14Z | A fuzzy library for comparing strings | https://github.com/stablecaps/nim-fuzzy-duck-lib | 1 | 0| 
 | 20231123T13:45:57Z | Null | https://github.com/taosuyyt/fuzzy-garbanzo | 0 | 0| 
 | 20231123T13:40:29Z | Null | https://github.com/JacekGlen/silkworm-fuzztest-poc | 0 | 0| 
 | 20231123T13:36:13Z | Null | https://github.com/Khenz0/IS_Lab3_Fuzzy-Logic-Control | 0 | 0| 
 | 20231123T13:20:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9184 | 2044| 
 | 20231123T09:44:08Z | BlockBash Project. | https://github.com/Ritinder-Singh/fuzzyoctodoodle | 0 | 0| 
 | 20231123T08:57:39Z | Null | https://github.com/sakshi1710-del/fuzzy-octo-couscous | 0 | 0| 
-| 20231123T04:26:55Z | Fuzzing cryptographic libraries. Magic bug printer go brrrr. | https://github.com/guidovranken/cryptofuzz | 625 | 76| 
-| 20231123T02:36:43Z | :exclamation: This is a read-only mirror of the CRAN R package repository.  FuzzyResampling — Resampling Methods for Triangular and Trapezoidal Fuzzy Numbers. Homepage: https://github.com/mroman-ibs/FuzzyResampling  Report bugs for this package: https://github.com/mroman-ibs/FuzzyResampling/issues | https://github.com/cran/FuzzyResampling | 0 | 0| 
-| 20231123T01:59:17Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/hktalent/scan4all | 4310 | 525| 
-| 20231123T01:05:38Z | um repositório para testes da logica fuzzy | https://github.com/SUPerchokki/controle-fuzzy | 0 | 0| 
 
 
 
