@@ -128,6 +128,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231124T02:38:27Z | Null | https://github.com/Orplane/python3-fuzzer-script | 0 | 0| 
 | 20231124T02:26:28Z | Fuzzy search done using elasticsearch, it searches the keywords and gives the desc ( Question) | https://github.com/Kingyakstha/Fuzzy-Search-es- | 0 | 0| 
 | 20231123T22:51:59Z | Null | https://github.com/Zaydenbacon/Dpin-Fuzzer | 0 | 0| 
 | 20231123T22:42:05Z | Null | https://github.com/peanutChowder/XFC-fuzzy-agent | 0 | 0| 
@@ -137,7 +138,6 @@
 | 20231123T13:40:29Z | Null | https://github.com/JacekGlen/silkworm-fuzztest-poc | 0 | 0| 
 | 20231123T13:36:13Z | Null | https://github.com/Khenz0/IS_Lab3_Fuzzy-Logic-Control | 0 | 0| 
 | 20231123T13:20:25Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9184 | 2044| 
-| 20231123T09:44:08Z | BlockBash Project. | https://github.com/Ritinder-Singh/fuzzyoctodoodle | 0 | 0| 
 
 
 
