@@ -68,7 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231124T13:23:08Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 174 | 14| 
+| 20231124T13:41:07Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 175 | 14| 
 | 20231124T12:34:06Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5509 | 1070| 
 | 20231124T12:28:49Z | Exploit SeImpersonatePrivilege | https://github.com/copywrited/PrintSpooferNet | 0 | 0| 
 | 20231124T12:04:52Z | A docker container based on arch and blackarch linux to spawn a quick binary exploitation environment. | https://github.com/ashtrace/pwncon | 0 | 0| 
