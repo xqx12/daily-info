@@ -48,12 +48,12 @@
 | 20231123T23:43:59Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-yf | 1 | 0| 
 | 20231123T23:43:12Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-yf | 1 | 0| 
 | 20231123T23:42:25Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-yf | 1 | 0| 
-| 20231123T23:10:39Z | reproduce kyber-elastic exploit | https://github.com/paco0x/kyber-exploit-example | 0 | 0| 
 | 20231123T23:05:45Z | Null | https://github.com/Ch33z3head/x86-Exploitation-Works | 0 | 0| 
 | 20231123T22:39:27Z | A place-break patch extension of JobsReborn plugin for Bukkit servers (Minecraft). | https://github.com/Djaytan/mc-jobs-reborn-patch-place-break | 3 | 0| 
 | 20231123T14:24:43Z | Local File Inclusion discovery and exploitation tool | https://github.com/hansmach1ne/LFImap | 147 | 22| 
 | 20231123T13:50:59Z | A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings. | https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass | 124 | 52| 
 | 20231123T13:39:28Z | Une page web pour le cours de SNT | https://github.com/eipaca/systemes-exploitation | 0 | 0| 
+| 20231123T13:37:37Z | Null | https://github.com/virus-exploit01/virus-exploit01 | 0 | 0| 
 
 
 # backdoor on Github 推荐
