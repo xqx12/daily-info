@@ -68,7 +68,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231124T02:38:47Z | reproduce kyber-elastic exploit | https://github.com/paco0x/kyber-exploit-example | 5 | 0| 
+| 20231124T02:44:00Z | Null | https://github.com/Orplane/Exploit-Dev | 0 | 0| 
+| 20231124T02:43:56Z | reproduce kyber-elastic exploit | https://github.com/paco0x/kyber-exploit-example | 6 | 0| 
 | 20231124T02:26:41Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0049-app-2c8Jj-exploit-wan | 0 | 0| 
 | 20231124T01:51:49Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5509 | 1069| 
 | 20231124T01:46:21Z | blog for reverse engineering, exploit development, and red team concepts | https://github.com/MemoryMeld/memorymeld.github.io | 0 | 0| 
@@ -77,7 +78,6 @@
 | 20231124T01:24:53Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0068-app-t7avn-identify-exploit | 0 | 0| 
 | 20231123T23:46:02Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-yf | 1 | 0| 
 | 20231123T23:43:59Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-yf | 1 | 0| 
-| 20231123T23:43:12Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-yf | 1 | 0| 
 
 
 # backdoor on Github 推荐
