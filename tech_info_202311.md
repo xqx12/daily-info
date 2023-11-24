@@ -128,8 +128,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231124T13:29:25Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50195 | 23319| 
+| 20231124T13:24:54Z | My master thesis about fuzzy entropy in feature selection | https://github.com/ist198521/Fuzzy_Thesis | 0 | 0| 
 | 20231124T12:53:01Z | Null | https://github.com/xchrisbailey/fuzzy_yellow_balls | 0 | 0| 
-| 20231124T12:43:08Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50194 | 23319| 
 | 20231124T11:49:37Z | Null | https://github.com/incrediblesofo/fuzzy-guide | 0 | 0| 
 | 20231124T11:42:44Z | Packer-Fuzzer升级版，功能更强大 | https://github.com/BigYoungs/Packer-Fuzzer-Plus | 0 | 0| 
 | 20231124T11:20:55Z | print=(%%iroonman%%) | https://github.com/1qfhjhgtylmjkhklvzgtyoifzdgt/fuzzy-happiness | 0 | 0| 
@@ -137,7 +138,6 @@
 | 20231124T09:47:20Z | Here I visualized the Fuzzy Logic example | https://github.com/rahul-stark16/Fuzzy-Logic-example | 0 | 0| 
 | 20231124T09:15:06Z | a minimalistic example | https://github.com/dainiusjocas/vespa-fuzzy-bolding-problem | 0 | 0| 
 | 20231124T02:38:27Z | Null | https://github.com/Orplane/python3-fuzzer-script | 0 | 0| 
-| 20231124T02:26:28Z | Fuzzy search done using elasticsearch, it searches the keywords and gives the desc ( Question) | https://github.com/Kingyakstha/Fuzzy-Search-es- | 0 | 0| 
 
 
 
