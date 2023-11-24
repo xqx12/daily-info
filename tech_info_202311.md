@@ -68,7 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231124T01:43:53Z | reproduce kyber-elastic exploit | https://github.com/paco0x/kyber-exploit-example | 1 | 0| 
+| 20231124T01:45:26Z | reproduce kyber-elastic exploit | https://github.com/paco0x/kyber-exploit-example | 2 | 0| 
 | 20231124T01:39:41Z | My personal toolkit focused in application exploitation | https://github.com/Sp1derM0rph3us/overflowtoolkit | 0 | 0| 
 | 20231124T01:24:54Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0030-app-oving-describe-exploit | 0 | 0| 
 | 20231124T01:24:53Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0068-app-t7avn-identify-exploit | 0 | 0| 
