@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231125T13:27:41Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5509 | 1070| 
 | 20231125T11:54:34Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6170 | 809| 
 | 20231125T09:57:25Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5684 | 716| 
 | 20231125T07:47:56Z | adsadasd | https://github.com/vinit989/websockets_exploit | 0 | 0| 
@@ -77,7 +78,6 @@
 | 20231125T01:03:44Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-go | 1 | 0| 
 | 20231125T01:02:40Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-go | 1 | 0| 
 | 20231125T00:53:02Z | Office Macro Exploit Builder 🚀 Opensource & Free Excel Word Macro Exploit Builder - Oneclick Silent Macro Exploit Docx Excel Word Pdf Macro Exploit Xls Word Macro Exploit Excel Macro Exploit Oneclick Silent Macro Exploit Docx Excel Word Pdf Macro Exploit Xls Word Macro Exploit Excel Macro Exploit | https://github.com/3442011le32/doc-macro-exploit | 0 | 1| 
-| 20231125T00:23:12Z | Repository containing a walkthrough exploiting a Vulnerable Chat server. | https://github.com/DaintyJet/VChat_GMON_SEH | 0 | 0| 
 
 
 # backdoor on Github 推荐
