@@ -26,14 +26,14 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231125T13:17:03Z | CVE-2021-46364 | CVE-2021-46364: YAML Deserialization in Magnolia CMS | https://github.com/mbadanoiu/CVE-2021-46364 | | 
+| 20231125T13:16:26Z | CVE-2023-26269 | CVE-2023-26269: Misconfigured JMX in Apache James | https://github.com/mbadanoiu/CVE-2023-26269 | | 
 | 20231125T13:16:00Z | CVE-2023-40037 | CVE-2023-40037: Incomplete Validation of JDBC and JNDI Connection URLs in Apache NiFi | https://github.com/mbadanoiu/CVE-2023-40037 | | 
-| 20231125T13:15:15Z | CVE-2021-46364 | CVE-2021-46364: YAML Deserialization in Magnolia CMS | https://github.com/mbadanoiu/CVE-2021-46364 | | 
 | 20231125T13:14:31Z | CVE-2022-41853 | Research into CVE-2022-41853. Using static functions to obtian RCE via Java Deserialization | https://github.com/mbadanoiu/CVE-2022-41853 | | 
 | 20231125T12:57:01Z | CVE-2023-34212 | CVE-2023-34212: Java Deserialization via JNDI Components in Apache NiFi | https://github.com/mbadanoiu/CVE-2023-34212 | | 
 | 20231125T12:51:28Z | CVE-2023-34468 | CVE-2023-34468: Remote Code Execution via DB Components in Apache NiFi | https://github.com/mbadanoiu/CVE-2023-34468 | | 
 | 20231125T04:06:54Z | CVE-2022-22720 | Null | https://github.com/Benasin/CVE-2022-22720 | | 
 | 20231124T22:43:16Z | CVE-2023-45857 | Null | https://github.com/fuyuooumi1027/CVE-2023-45857-Demo | | 
-| 20231124T20:48:33Z | CVE-2023-26269 | CVE-2023-26269: Misconfigured JMX in Apache James | https://github.com/mbadanoiu/CVE-2023-26269 | | 
 | 20231124T13:50:01Z | CVE-2023-49103 | PoC for the CVE-2023-49103 | https://github.com/creacitysec/CVE-2023-49103 | | 
 | 20231124T09:27:14Z | CVE-2020-29607 | Exploit forCVE-2020-29607 | https://github.com/0xN7y/CVE-2020-29607 | | 
 
