@@ -88,11 +88,11 @@
 | 20231124T09:07:30Z | Null | https://github.com/juhye0p/Stealth_Backdoor | 0 | 0| 
 | 20231124T06:04:16Z | Null | https://github.com/lixi1994/backdoor_KD_FL | 0 | 0| 
 | 20231123T23:51:03Z | A python script that look for hikvision vulnerable cams with a backdoor | https://github.com/diego-tella/HikvisionIN | 5 | 0| 
+| 20231123T23:00:07Z | Digital Forensics and Incident Response (DFIR) | https://github.com/RENANZG/My-Forensics | 64 | 10| 
 | 20231123T22:01:51Z | Null | https://github.com/kazuyagodsz/backdoor | 0 | 0| 
 | 20231123T19:47:51Z | An AWS Pentesting tool that lets you use one-liner commands to backdoor an AWS account%s resources with a rogue AWS account - or share the resources with the entire internet | https://github.com/catdever/endgame | 0 | 0| 
 | 20231123T16:15:41Z | Just a simple backdoor, responsive and fast. Made with Team CLAY Hacker , Download | https://github.com/teamclayhacker/TCH_220-shell | 0 | 0| 
 | 20231123T14:01:16Z | Implementation of %Beating Backdoor Attack at Its Own Game% (ICCV-23). | https://github.com/damianliumin/non-adversarial_backdoor | 7 | 0| 
-| 20231123T04:22:20Z | Null | https://github.com/Limule-Cams/backdoor | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
