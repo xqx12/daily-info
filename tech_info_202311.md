@@ -128,7 +128,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231125T00:31:13Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50204 | 23318| 
+| 20231125T01:48:47Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50205 | 23318| 
 | 20231124T22:57:19Z | Null | https://github.com/Gavair/fuzzy_mkr2 | 0 | 0| 
 | 20231124T19:23:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9184 | 2044| 
 | 20231124T18:55:27Z | This is my custom afl mutator to fuzz counter strike. I compiled Kisak-Strike and then fuzzed it using this custom mutator. | https://github.com/personnumber3377/Csgoprotofuzz | 0 | 0| 
