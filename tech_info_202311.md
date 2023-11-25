@@ -26,7 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231125T02:40:42Z | CVE-2023-34212 | CVE-2023-34212: Java Deserialization via JNDI Components in Apache NiFi | https://github.com/mbadanoiu/CVE-2023-34212 | | 
+| 20231125T12:57:01Z | CVE-2023-34212 | CVE-2023-34212: Java Deserialization via JNDI Components in Apache NiFi | https://github.com/mbadanoiu/CVE-2023-34212 | | 
+| 20231125T12:51:28Z | CVE-2023-34468 | CVE-2023-34468: Remote Code Execution via DB Components in Apache NiFi | https://github.com/mbadanoiu/CVE-2023-34468 | | 
+| 20231125T04:06:54Z | CVE-2022-22720 | Null | https://github.com/Benasin/CVE-2022-22720 | | 
 | 20231124T22:43:16Z | CVE-2023-45857 | Null | https://github.com/fuyuooumi1027/CVE-2023-45857-Demo | | 
 | 20231124T20:49:03Z | CVE-2021-46364 | CVE-2021-46364: YAML Deserialization in Magnolia CMS | https://github.com/mbadanoiu/CVE-2021-46364 | | 
 | 20231124T20:48:33Z | CVE-2023-26269 | CVE-2023-26269: Misconfigured JMX in Apache James | https://github.com/mbadanoiu/CVE-2023-26269 | | 
@@ -34,14 +36,13 @@
 | 20231124T13:50:01Z | CVE-2023-49103 | PoC for the CVE-2023-49103 | https://github.com/creacitysec/CVE-2023-49103 | | 
 | 20231124T11:51:45Z | CVE-2022-41853 | Research into CVE-2022-41853. Using static functions to obtian RCE via Java Deserialization | https://github.com/mbadanoiu/CVE-2022-41853 | | 
 | 20231124T09:27:14Z | CVE-2020-29607 | Exploit forCVE-2020-29607 | https://github.com/0xN7y/CVE-2020-29607 | | 
-| 20231124T08:35:50Z | CVE-2023-3452 | Wordpress Plugin Canto < 3.0.5 - Remote File Inclusion (RFI) and Remote Code Execution (RCE) | https://github.com/leoanggal1/CVE-2023-3452-PoC | | 
-| 20231124T08:33:03Z | CVE-2023-4207 | Null | https://github.com/nidhi7598/linux-4.19.72_net_CVE-2023-4207 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231124T20:11:11Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14455 | 434| 
+| 20231125T12:18:07Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14456 | 434| 
+| 20231125T05:00:00Z | 112 Project , Python Video Game | https://github.com/mjeong246/Klee-s-Kitchen | 0 | 0| 
 | 20231124T19:12:40Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2361 | 639| 
 | 20231124T09:57:51Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 33 | 2| 
 | 20231124T09:30:12Z | A utility library for spigot plugin development | https://github.com/KleeSup/KleePluginBase | 0 | 0| 
@@ -50,7 +51,6 @@
 | 20231121T01:12:20Z | Config files for my GitHub profile. | https://github.com/Kleeyow/Kleeyow | 0 | 0| 
 | 20231120T03:59:24Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 390 | 8| 
 | 20231119T18:56:27Z | This is the one! | https://github.com/klee-os/Klee-OS | 0 | 0| 
-| 20231119T01:09:01Z | Null | https://github.com/hoolisoftware/kleewish | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -68,31 +68,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231125T11:54:34Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6170 | 809| 
+| 20231125T09:57:25Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5684 | 716| 
+| 20231125T07:47:56Z | adsadasd | https://github.com/vinit989/websockets_exploit | 0 | 0| 
 | 20231125T02:45:24Z | A simple CTF utilizing the SkyBin exploit protection software to create and power the CTF! Find the two flags :D | https://github.com/SkyPenguinLabs/SkyBin_Protect_CTF | 0 | 0| 
-| 20231125T01:33:52Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6168 | 809| 
 | 20231125T01:05:35Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-go | 1 | 0| 
 | 20231125T01:05:01Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-go | 1 | 0| 
 | 20231125T01:03:44Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-go | 1 | 0| 
 | 20231125T01:02:40Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-go | 1 | 0| 
 | 20231125T00:53:02Z | Office Macro Exploit Builder 🚀 Opensource & Free Excel Word Macro Exploit Builder - Oneclick Silent Macro Exploit Docx Excel Word Pdf Macro Exploit Xls Word Macro Exploit Excel Macro Exploit Oneclick Silent Macro Exploit Docx Excel Word Pdf Macro Exploit Xls Word Macro Exploit Excel Macro Exploit | https://github.com/3442011le32/doc-macro-exploit | 0 | 1| 
 | 20231125T00:23:12Z | Repository containing a walkthrough exploiting a Vulnerable Chat server. | https://github.com/DaintyJet/VChat_GMON_SEH | 0 | 0| 
-| 20231125T00:20:50Z | Exploit scripts (like IY) but without custom exploit functions | https://github.com/MaxxusX/RC-Scripts | 0 | 0| 
-| 20231125T00:15:51Z | Repository containing a walkthrough exploiting a Vulnerable Chat server. | https://github.com/DaintyJet/VChat_GTER_CodeReuse | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231125T12:05:15Z | Digital Forensics and Incident Response (DFIR) | https://github.com/RENANZG/My-Forensics | 64 | 10| 
+| 20231125T07:05:38Z | Null | https://github.com/necrology/backdoor | 0 | 0| 
+| 20231125T05:56:36Z | This is the python code used as backdoor that can be embedded into any files like videos and pdfs etc.. | https://github.com/aashishsec/pyBackDoor | 1 | 0| 
+| 20231125T05:06:12Z | Red Script with Python | https://github.com/laerson-hammes/red-scripts | 0 | 0| 
 | 20231124T19:58:36Z | A Windows & Linux pwn library to play with modern C++ (and yeah, it%s pwn++, not pwn--). It%s mostly a toy library constantly changing, don%t expect stability | https://github.com/hugsy/pwn-- | 104 | 13| 
 | 20231124T16:31:48Z | A backdoor to remotely execute system commands on a target host | https://github.com/Bill-Benson/Backdoor-Malware- | 0 | 0| 
 | 20231124T09:07:30Z | Null | https://github.com/juhye0p/Stealth_Backdoor | 0 | 0| 
 | 20231124T06:04:16Z | Null | https://github.com/lixi1994/backdoor_KD_FL | 0 | 0| 
 | 20231123T23:51:03Z | A python script that look for hikvision vulnerable cams with a backdoor | https://github.com/diego-tella/HikvisionIN | 5 | 0| 
-| 20231123T23:00:07Z | Digital Forensics and Incident Response (DFIR) | https://github.com/RENANZG/My-Forensics | 64 | 10| 
 | 20231123T22:01:51Z | Null | https://github.com/kazuyagodsz/backdoor | 0 | 0| 
-| 20231123T19:47:51Z | An AWS Pentesting tool that lets you use one-liner commands to backdoor an AWS account%s resources with a rogue AWS account - or share the resources with the entire internet | https://github.com/catdever/endgame | 0 | 0| 
-| 20231123T16:15:41Z | Just a simple backdoor, responsive and fast. Made with Team CLAY Hacker , Download | https://github.com/teamclayhacker/TCH_220-shell | 0 | 0| 
-| 20231123T14:01:16Z | Implementation of %Beating Backdoor Attack at Its Own Game% (ICCV-23). | https://github.com/damianliumin/non-adversarial_backdoor | 7 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -128,16 +128,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231125T12:39:14Z | WasmDiff is a discrepancy detector that is based on differential fuzzing to automate the detection of discrepancy exhibited by C/C++ code porting to Wasm | https://github.com/WebAssembly-Diff/WasmDiff | 0 | 0| 
+| 20231125T12:23:44Z | Null | https://github.com/tejas7777/FuzzySystem | 0 | 0| 
+| 20231125T11:32:18Z | Qarminer is fuzzer which automatically test Godot and its modules | https://github.com/qarmin/Qarminer | 23 | 2| 
+| 20231125T11:25:31Z | Null | https://github.com/voronalk/fuzzy-octo-dollop | 0 | 0| 
+| 20231125T10:23:56Z | Converting Gray Scale image to intuitionistic fuzzy  Images and convert this Fuzzy Image to RGB using intuitionistic Fuzzy Entropy  . | https://github.com/shahfulan/Converting-simple-images-to-Intuitionistic-fuzzy-image- | 0 | 0| 
 | 20231125T02:59:01Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50207 | 23318| 
 | 20231125T02:29:23Z | Null | https://github.com/Jovinull/fuzzy-system | 0 | 0| 
 | 20231125T01:03:25Z | Null | https://github.com/FelipeHanada/akinator-fuzzy-logic | 0 | 0| 
 | 20231124T22:57:19Z | Null | https://github.com/Gavair/fuzzy_mkr2 | 0 | 0| 
 | 20231124T19:23:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9184 | 2044| 
-| 20231124T18:55:27Z | This is my custom afl mutator to fuzz counter strike. I compiled Kisak-Strike and then fuzzed it using this custom mutator. | https://github.com/personnumber3377/Csgoprotofuzz | 0 | 0| 
-| 20231124T18:43:21Z | Script for automatic Fuzzy Search on POE Trade | https://github.com/D4Enjoyer/poe-trade-fuzzy-search | 0 | 0| 
-| 20231124T13:24:54Z | My master thesis about fuzzy entropy in feature selection | https://github.com/ist198521/Fuzzy_Thesis | 0 | 0| 
-| 20231124T12:53:01Z | Null | https://github.com/xchrisbailey/fuzzy_yellow_balls | 0 | 0| 
-| 20231124T11:49:37Z | Null | https://github.com/incrediblesofo/fuzzy-guide | 0 | 0| 
 
 
 
