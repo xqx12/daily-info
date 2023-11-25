@@ -68,16 +68,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231125T02:45:24Z | A simple CTF utilizing the SkyBin exploit protection software to create and power the CTF! Find the two flags :D | https://github.com/SkyPenguinLabs/SkyBin_Protect_CTF | 0 | 0| 
 | 20231125T01:33:52Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6168 | 809| 
 | 20231125T01:05:35Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-go | 1 | 0| 
 | 20231125T01:05:01Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-go | 1 | 0| 
 | 20231125T01:03:44Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-go | 1 | 0| 
 | 20231125T01:02:40Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-go | 1 | 0| 
-| 20231125T00:53:02Z | Office Macro Exploit Builder 🚀 Opensource & Free Excel Word Macro Exploit Builder - Oneclick Silent Macro Exploit Docx Excel Word Pdf Macro Exploit Xls Word Macro Exploit Excel Macro Exploit Oneclick Silent Macro Exploit Docx Excel Word Pdf Macro Exploit Xls Word Macro Exploit Excel Macro Exploit | https://github.com/3442011le32/doc-macro-exploit | 0 | 0| 
+| 20231125T00:53:02Z | Office Macro Exploit Builder 🚀 Opensource & Free Excel Word Macro Exploit Builder - Oneclick Silent Macro Exploit Docx Excel Word Pdf Macro Exploit Xls Word Macro Exploit Excel Macro Exploit Oneclick Silent Macro Exploit Docx Excel Word Pdf Macro Exploit Xls Word Macro Exploit Excel Macro Exploit | https://github.com/3442011le32/doc-macro-exploit | 0 | 1| 
 | 20231125T00:23:12Z | Repository containing a walkthrough exploiting a Vulnerable Chat server. | https://github.com/DaintyJet/VChat_GMON_SEH | 0 | 0| 
 | 20231125T00:20:50Z | Exploit scripts (like IY) but without custom exploit functions | https://github.com/MaxxusX/RC-Scripts | 0 | 0| 
 | 20231125T00:15:51Z | Repository containing a walkthrough exploiting a Vulnerable Chat server. | https://github.com/DaintyJet/VChat_GTER_CodeReuse | 0 | 0| 
-| 20231125T00:14:45Z | This was a challenge from PortSwigger in which I had to brute force each field to discover a hidden field that will let be brute force a reset password token and change the user%s password. | https://github.com/NatteeSetobol/Password-Reset-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
