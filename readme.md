@@ -19,13 +19,13 @@
 | 20231124T22:43:16Z | CVE-2023-45857 | Null | https://github.com/fuyuooumi1027/CVE-2023-45857-Demo | | 
 | 20231124T20:49:03Z | CVE-2021-46364 | CVE-2021-46364: YAML Deserialization in Magnolia CMS | https://github.com/mbadanoiu/CVE-2021-46364 | | 
 | 20231124T20:48:33Z | CVE-2023-26269 | CVE-2023-26269: Misconfigured JMX in Apache James | https://github.com/mbadanoiu/CVE-2023-26269 | | 
-| 20231124T20:48:08Z | CVE-2023-34212 | CVE-2023-34212: Java Deserialization via JNDI Components in Apache NiFi | https://github.com/mbadanoiu/CVE-2023-34212 | | 
 | 20231124T20:47:45Z | CVE-2023-40037 | CVE-2023-40037: Incomplete Validation of JDBC and JNDI Connection URLs in Apache NiFi | https://github.com/mbadanoiu/CVE-2023-40037 | | 
 | 20231124T13:50:01Z | CVE-2023-49103 | PoC for the CVE-2023-49103 | https://github.com/creacitysec/CVE-2023-49103 | | 
 | 20231124T11:51:45Z | CVE-2022-41853 | Research into CVE-2022-41853. Using static functions to obtian RCE via Java Deserialization | https://github.com/mbadanoiu/CVE-2022-41853 | | 
 | 20231124T09:27:14Z | CVE-2020-29607 | Exploit forCVE-2020-29607 | https://github.com/0xN7y/CVE-2020-29607 | | 
 | 20231124T08:35:50Z | CVE-2023-3452 | Wordpress Plugin Canto < 3.0.5 - Remote File Inclusion (RFI) and Remote Code Execution (RCE) | https://github.com/leoanggal1/CVE-2023-3452-PoC | | 
 | 20231124T08:33:03Z | CVE-2023-4207 | Null | https://github.com/nidhi7598/linux-4.19.72_net_CVE-2023-4207 | | 
+| 20231124T04:38:07Z | CVE-2022-46169 | Exploit for CVE-2022-46169  | https://github.com/0xN7y/CVE-2022-46169 | | 
 
 
 # klee on Github 推荐
