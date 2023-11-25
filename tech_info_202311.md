@@ -68,6 +68,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231125T01:03:44Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-go | 1 | 0| 
+| 20231125T01:02:40Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-go | 1 | 0| 
 | 20231125T00:53:02Z | Office Macro Exploit Builder 🚀 Opensource & Free Excel Word Macro Exploit Builder - Oneclick Silent Macro Exploit Docx Excel Word Pdf Macro Exploit Xls Word Macro Exploit Excel Macro Exploit Oneclick Silent Macro Exploit Docx Excel Word Pdf Macro Exploit Xls Word Macro Exploit Excel Macro Exploit | https://github.com/3442011le32/doc-macro-exploit | 0 | 0| 
 | 20231125T00:23:12Z | Repository containing a walkthrough exploiting a Vulnerable Chat server. | https://github.com/DaintyJet/VChat_GMON_SEH | 0 | 0| 
 | 20231125T00:20:50Z | Exploit scripts (like IY) but without custom exploit functions | https://github.com/MaxxusX/RC-Scripts | 0 | 0| 
@@ -76,8 +78,6 @@
 | 20231124T23:18:23Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10922 | 1662| 
 | 20231124T22:35:05Z | Exploitation-Framework for Android devices - Framework that allows you to search for vulnerable android devices across the world and exploit them. A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side  | https://github.com/AryanVBW/Andro-CLI | 5 | 0| 
 | 20231124T19:57:03Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5508 | 1070| 
-| 20231124T19:48:10Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3735 | 542| 
-| 20231124T13:41:07Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 175 | 14| 
 
 
 # backdoor on Github 推荐
