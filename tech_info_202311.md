@@ -128,6 +128,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231126T02:58:38Z | Null | https://github.com/GlitchyCrafting/glitchcandy-fuzzel | 0 | 0| 
 | 20231126T01:31:00Z | Null | https://github.com/HGCFER/fuzzy-octo-fortnight | 37 | 0| 
 | 20231126T01:20:25Z | Null | https://github.com/15039904060/fuzzy-pancake | 0 | 0| 
 | 20231126T01:13:39Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50227 | 23322| 
@@ -137,7 +138,6 @@
 | 20231125T13:46:02Z | Null | https://github.com/Hisuich/fuzzy-controller-Lab1 | 0 | 0| 
 | 20231125T12:39:14Z | WasmDiff is a discrepancy detector that is based on differential fuzzing to automate the detection of discrepancy exhibited by C/C++ code porting to Wasm | https://github.com/WebAssembly-Diff/WasmDiff | 0 | 0| 
 | 20231125T12:23:44Z | Null | https://github.com/tejas7777/FuzzySystem | 0 | 0| 
-| 20231125T12:21:32Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 105 | 14| 
 
 
 
