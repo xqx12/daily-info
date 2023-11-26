@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231126T01:36:50Z | Repository containing a walkthrough exploiting a Vulnerable Chat server. | https://github.com/DaintyJet/VChat_GMON_SEH | 0 | 0| 
 | 20231126T01:35:37Z | Prevent minecraft command exploit by prohibiting the command that have potential problems. This project made for Korean users. | https://github.com/DahunDev/BlockCMDExploit | 0 | 0| 
 | 20231126T00:29:58Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 72 | 20| 
 | 20231125T23:32:03Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-j | 1 | 0| 
@@ -77,7 +78,6 @@
 | 20231125T20:13:43Z | Docker based DNS component of the Exploit Host | https://github.com/Al-Azif/exploit-host-dns | 15 | 6| 
 | 20231125T20:08:24Z | Docker based HTTP(S) component of the Exploit Host  | https://github.com/Al-Azif/exploit-host-http | 9 | 1| 
 | 20231125T13:27:41Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5509 | 1070| 
-| 20231125T11:54:34Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6170 | 809| 
 
 
 # backdoor on Github 推荐
