@@ -128,6 +128,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231126T13:44:08Z | Null | https://github.com/elsunais6167/fuzzy-inference | 0 | 0| 
 | 20231126T13:34:42Z | User enumeration tool for Moodle | https://github.com/luismxlina/moodle-fuzzer | 0 | 0| 
 | 20231126T12:55:49Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50238 | 23324| 
 | 20231126T11:29:45Z | This repository contains exercises from CISPA Helmholtz Center for Information Security to implement a fuzzing techniques from scratch using Python. | https://github.com/sagarkishore-7/SecurityTesting | 0 | 0| 
@@ -137,7 +138,6 @@
 | 20231126T01:31:00Z | Null | https://github.com/HGCFER/fuzzy-octo-fortnight | 37 | 0| 
 | 20231126T01:20:25Z | Null | https://github.com/15039904060/fuzzy-pancake | 0 | 0| 
 | 20231125T22:45:32Z | Null | https://github.com/Ashes-Mondal/Fuzzy-Time-Series-Forecasting-for-Software-Fault | 0 | 0| 
-| 20231125T21:03:17Z | Null | https://github.com/JBreitenbr/fuzzy-octo-bassoon | 0 | 0| 
 
 
 
