@@ -137,7 +137,7 @@
 | 20231125T13:46:02Z | Null | https://github.com/Hisuich/fuzzy-controller-Lab1 | 0 | 0| 
 | 20231125T12:39:14Z | WasmDiff is a discrepancy detector that is based on differential fuzzing to automate the detection of discrepancy exhibited by C/C++ code porting to Wasm | https://github.com/WebAssembly-Diff/WasmDiff | 0 | 0| 
 | 20231125T12:23:44Z | Null | https://github.com/tejas7777/FuzzySystem | 0 | 0| 
-| 20231125T11:32:18Z | Qarminer is fuzzer which automatically test Godot and its modules | https://github.com/qarmin/Qarminer | 23 | 2| 
+| 20231125T12:21:32Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 105 | 14| 
 
 
 
