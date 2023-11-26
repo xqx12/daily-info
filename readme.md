@@ -47,12 +47,12 @@
 | 20231125T23:30:33Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-jz | 1 | 0| 
 | 20231125T23:29:39Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-jz | 1 | 0| 
 | 20231125T23:28:49Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-jz | 1 | 0| 
+| 20231125T21:23:44Z | 🔓A curated list of modern Android exploitation conference talks.  | https://github.com/actuator/Android-Security-Exploits-YouTube-Curriculum | 289 | 22| 
 | 20231125T20:13:43Z | Docker based DNS component of the Exploit Host | https://github.com/Al-Azif/exploit-host-dns | 15 | 6| 
 | 20231125T20:08:24Z | Docker based HTTP(S) component of the Exploit Host  | https://github.com/Al-Azif/exploit-host-http | 9 | 1| 
 | 20231125T13:27:41Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5509 | 1070| 
 | 20231125T11:54:34Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6170 | 809| 
 | 20231125T09:57:25Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5684 | 716| 
-| 20231125T07:47:56Z | adsadasd | https://github.com/vinit989/websockets_exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐

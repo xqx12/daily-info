@@ -76,8 +76,8 @@
 | 20231125T23:30:33Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-jz | 1 | 0| 
 | 20231125T23:29:39Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-jz | 1 | 0| 
 | 20231125T23:28:49Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-jz | 1 | 0| 
+| 20231125T21:23:44Z | 🔓A curated list of modern Android exploitation conference talks.  | https://github.com/actuator/Android-Security-Exploits-YouTube-Curriculum | 289 | 22| 
 | 20231125T20:13:43Z | Docker based DNS component of the Exploit Host | https://github.com/Al-Azif/exploit-host-dns | 15 | 6| 
-| 20231125T20:08:24Z | Docker based HTTP(S) component of the Exploit Host  | https://github.com/Al-Azif/exploit-host-http | 9 | 1| 
 
 
 # backdoor on Github 推荐
