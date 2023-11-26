@@ -11,6 +11,9 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20231125 | JA4+网络指纹 | https://mp.weixin.qq.com/s/ELaSuYCfIE74sVMV19DH5Q| 
+| 20231125 | 应对攻击面的未来之路：持续威胁暴露管理（CTEM） | https://mp.weixin.qq.com/s/e-WmasBS6XE3k09KKuM2zQ| 
+| 20231125 | 美国NAVY发布首份网络战略 | https://mp.weixin.qq.com/s/zSkEpBUQ7pt0MscFm-XZBg| 
 | 20231123 | 工业和信息化领域数据安全行政处罚裁量指引（试行）（征求意见... | https://www.miit.gov.cn/gzcy/yjzj/art/2023/art_2fb5b9dff755480284099f08eebdfa1e.html| 
 | 20231122 | DARPA之声第73期： 人工智能网络挑战赛--CTF、代码和关键基础... | https://mp.weixin.qq.com/s/Itad7Y-QBcr991JkF3SrIg| 
 | 20231121 | OpenHarmony安全指南 | https://docs.openharmony.cn/pages/v4.0/zh-cn/device-dev/security/security-guidelines-overall.md/| 
@@ -18,30 +21,27 @@
 | 20231121 | DARPA“内生认知安全”项目综述 | https://mp.weixin.qq.com/s/3ryPezdHitR4PBXWuRsl4g| 
 | 20231121 | 境外认知战作战力量及技术装备综述 | https://mp.weixin.qq.com/s/iDI5DhXKPUAIICb7RTAaFw| 
 | 20231120 | SecWiki周刊（第507期) | https://www.sec-wiki.com/weekly/507| 
-| 20231120 | 深度剖析GadgetInspector执行逻辑(下) | https://www.sec-in.com/article/2083| 
-| 20231120 | 工商银行美国子公司勒索病毒事件分析 | https://mp.weixin.qq.com/s/FKmd5g9tKgznGgmdHB0jPA| 
-| 20231119 | Your printer is not your printer ! - Hacking Printers at P... | https://devco.re/blog/2023/11/06/your-printer-is-not-your-printer-hacking-printers-pwn2own-part2/| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231125T13:17:43Z | CVE-2023-26269 | CVE-2023-26269: Misconfigured JMX in Apache James | https://github.com/mbadanoiu/CVE-2023-26269 | | 
+| 20231125T21:41:29Z | CVE-2023-26269 | CVE-2023-26269: Misconfigured JMX in Apache James | https://github.com/mbadanoiu/CVE-2023-26269 | | 
+| 20231125T21:40:07Z | CVE-2021-46364 | CVE-2021-46364: YAML Deserialization in Magnolia CMS | https://github.com/mbadanoiu/CVE-2021-46364 | | 
+| 20231125T21:39:42Z | CVE-2022-41853 | Research into CVE-2022-41853. Using static functions to obtian RCE via Java Deserialization | https://github.com/mbadanoiu/CVE-2022-41853 | | 
+| 20231125T21:37:15Z | CVE-2023-34212 | CVE-2023-34212: Java Deserialization via JNDI Components in Apache NiFi | https://github.com/mbadanoiu/CVE-2023-34212 | | 
+| 20231125T19:22:26Z | CVE-2021-20253 | CVE-2021-20253: Privilege Escalation via Job Isolation Escape in Ansible Tower | https://github.com/mbadanoiu/CVE-2021-20253 | | 
 | 20231125T13:17:27Z | CVE-2023-40037 | CVE-2023-40037: Incomplete Validation of JDBC and JNDI Connection URLs in Apache NiFi | https://github.com/mbadanoiu/CVE-2023-40037 | | 
-| 20231125T13:17:03Z | CVE-2021-46364 | CVE-2021-46364: YAML Deserialization in Magnolia CMS | https://github.com/mbadanoiu/CVE-2021-46364 | | 
-| 20231125T13:14:31Z | CVE-2022-41853 | Research into CVE-2022-41853. Using static functions to obtian RCE via Java Deserialization | https://github.com/mbadanoiu/CVE-2022-41853 | | 
-| 20231125T12:57:01Z | CVE-2023-34212 | CVE-2023-34212: Java Deserialization via JNDI Components in Apache NiFi | https://github.com/mbadanoiu/CVE-2023-34212 | | 
 | 20231125T12:51:28Z | CVE-2023-34468 | CVE-2023-34468: Remote Code Execution via DB Components in Apache NiFi | https://github.com/mbadanoiu/CVE-2023-34468 | | 
 | 20231125T04:06:54Z | CVE-2022-22720 | Null | https://github.com/Benasin/CVE-2022-22720 | | 
 | 20231124T22:43:16Z | CVE-2023-45857 | Null | https://github.com/fuyuooumi1027/CVE-2023-45857-Demo | | 
 | 20231124T13:50:01Z | CVE-2023-49103 | PoC for the CVE-2023-49103 | https://github.com/creacitysec/CVE-2023-49103 | | 
-| 20231124T09:27:14Z | CVE-2020-29607 | Exploit forCVE-2020-29607 | https://github.com/0xN7y/CVE-2020-29607 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231125T13:08:15Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14457 | 434| 
+| 20231125T16:04:43Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14459 | 434| 
 | 20231125T05:00:00Z | 112 Project , Python Video Game | https://github.com/mjeong246/Klee-s-Kitchen | 0 | 0| 
 | 20231124T19:12:40Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2361 | 639| 
 | 20231124T09:57:51Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 33 | 2| 
@@ -68,31 +68,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231126T00:29:58Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 72 | 20| 
+| 20231125T23:32:03Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-j | 1 | 0| 
+| 20231125T23:30:33Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-jz | 1 | 0| 
+| 20231125T23:29:39Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-jz | 1 | 0| 
+| 20231125T23:28:49Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-jz | 1 | 0| 
+| 20231125T20:13:43Z | Docker based DNS component of the Exploit Host | https://github.com/Al-Azif/exploit-host-dns | 15 | 6| 
+| 20231125T20:08:24Z | Docker based HTTP(S) component of the Exploit Host  | https://github.com/Al-Azif/exploit-host-http | 9 | 1| 
 | 20231125T13:27:41Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5509 | 1070| 
 | 20231125T11:54:34Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6170 | 809| 
 | 20231125T09:57:25Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5684 | 716| 
-| 20231125T07:47:56Z | adsadasd | https://github.com/vinit989/websockets_exploit | 0 | 0| 
-| 20231125T02:45:24Z | A simple CTF utilizing the SkyBin exploit protection software to create and power the CTF! Find the two flags :D | https://github.com/SkyPenguinLabs/SkyBin_Protect_CTF | 0 | 0| 
-| 20231125T01:05:35Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-go | 1 | 0| 
-| 20231125T01:05:01Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-go | 1 | 0| 
-| 20231125T01:03:44Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-go | 1 | 0| 
-| 20231125T01:02:40Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-go | 1 | 0| 
-| 20231125T00:53:02Z | Office Macro Exploit Builder 🚀 Opensource & Free Excel Word Macro Exploit Builder - Oneclick Silent Macro Exploit Docx Excel Word Pdf Macro Exploit Xls Word Macro Exploit Excel Macro Exploit Oneclick Silent Macro Exploit Docx Excel Word Pdf Macro Exploit Xls Word Macro Exploit Excel Macro Exploit | https://github.com/3442011le32/doc-macro-exploit | 0 | 1| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231125T13:22:55Z | a backdoor that dose not capturing a port on the pc, this way no one will see that a backdoor is exists.. | https://github.com/R3tr0H4ck/SilentBackDoor | 0 | 0| 
+| 20231126T00:34:20Z | Linea para script que se introduce en cualquier server (servidor suyo o permitido [uso responsable]) en un script de un servidor FiveM, es un backdoor (puerta trasera) para %hackear% una base de datos de un servidor en red.  | https://github.com/Sonklol/backdoor-fivemsql-discord | 10 | 4| 
+| 20231125T19:47:00Z | a backdoor that dose not capturing a port on the pc, this way no one will see that a backdoor is exists.. | https://github.com/R3tr0H4ck/SilentBackDoor | 1 | 0| 
+| 20231125T17:58:23Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 231 | 28| 
+| 20231125T16:54:11Z | Fast integration of backdoor attacks in machine learning and federated learning. | https://github.com/mtuann/fedlearn-backdoor-attacks | 29 | 0| 
+| 20231125T16:33:04Z | Null | https://github.com/tqybtmyath/Backdoor | 0 | 0| 
+| 20231125T14:23:24Z | backdoor | https://github.com/afzan354/shell | 0 | 0| 
 | 20231125T12:05:15Z | Digital Forensics and Incident Response (DFIR) | https://github.com/RENANZG/My-Forensics | 64 | 10| 
 | 20231125T07:05:38Z | Null | https://github.com/necrology/backdoor | 0 | 0| 
 | 20231125T05:56:36Z | This is the python code used as backdoor that can be embedded into any files like videos and pdfs etc.. | https://github.com/aashishsec/pyBackDoor | 1 | 0| 
 | 20231125T05:06:12Z | Red Script with Python | https://github.com/laerson-hammes/red-scripts | 0 | 0| 
-| 20231124T19:58:36Z | A Windows & Linux pwn library to play with modern C++ (and yeah, it%s pwn++, not pwn--). It%s mostly a toy library constantly changing, don%t expect stability | https://github.com/hugsy/pwn-- | 104 | 13| 
-| 20231124T16:31:48Z | A backdoor to remotely execute system commands on a target host | https://github.com/Bill-Benson/Backdoor-Malware- | 0 | 0| 
-| 20231124T09:07:30Z | Null | https://github.com/juhye0p/Stealth_Backdoor | 0 | 0| 
-| 20231124T06:04:16Z | Null | https://github.com/lixi1994/backdoor_KD_FL | 0 | 0| 
-| 20231123T23:51:03Z | A python script that look for hikvision vulnerable cams with a backdoor | https://github.com/diego-tella/HikvisionIN | 5 | 0| 
 
 
 # symbolic execution on Github 推荐
