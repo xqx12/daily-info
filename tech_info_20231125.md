@@ -84,15 +84,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231125T23:52:50Z | Null | https://github.com/HGCFER/fuzzy-octo-fortnight | 38 | 0| 
+| 20231125T22:45:32Z | Null | https://github.com/Ashes-Mondal/Fuzzy-Time-Series-Forecasting-for-Software-Fault | 0 | 0| 
+| 20231125T22:37:21Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50226 | 23322| 
+| 20231125T21:03:17Z | Null | https://github.com/JBreitenbr/fuzzy-octo-bassoon | 0 | 0| 
+| 20231125T19:34:20Z | Null | https://github.com/wpmccormick/fuzzy_match | 0 | 0| 
 | 20231125T13:46:02Z | Null | https://github.com/Hisuich/fuzzy-controller-Lab1 | 0 | 0| 
 | 20231125T12:39:14Z | WasmDiff is a discrepancy detector that is based on differential fuzzing to automate the detection of discrepancy exhibited by C/C++ code porting to Wasm | https://github.com/WebAssembly-Diff/WasmDiff | 0 | 0| 
 | 20231125T12:23:44Z | Null | https://github.com/tejas7777/FuzzySystem | 0 | 0| 
 | 20231125T11:32:18Z | Qarminer is fuzzer which automatically test Godot and its modules | https://github.com/qarmin/Qarminer | 23 | 2| 
 | 20231125T11:25:31Z | Null | https://github.com/voronalk/fuzzy-octo-dollop | 0 | 0| 
-| 20231125T10:23:56Z | Converting Gray Scale image to intuitionistic fuzzy  Images and convert this Fuzzy Image to RGB using intuitionistic Fuzzy Entropy  . | https://github.com/shahfulan/Converting-simple-images-to-Intuitionistic-fuzzy-image- | 0 | 0| 
-| 20231125T02:59:01Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50207 | 23318| 
-| 20231125T02:29:23Z | Null | https://github.com/Jovinull/fuzzy-system | 0 | 0| 
-| 20231125T01:03:25Z | Null | https://github.com/FelipeHanada/akinator-fuzzy-logic | 0 | 0| 
 
 
 
