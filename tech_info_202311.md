@@ -68,7 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231126T11:27:26Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5686 | 716| 
+| 20231126T13:01:42Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5687 | 717| 
 | 20231126T11:20:53Z | Homemade project of on bike data acquisition and exploit to enhance bike%s performance | https://github.com/Nathancrz/MTB-telemetry | 0 | 0| 
 | 20231126T08:01:05Z | All non-NDA signed vulns/bugs/exploits I found and discolsed. | https://github.com/ByteXenon/SecurityResearchWriteups | 1 | 0| 
 | 20231126T07:50:00Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6171 | 809| 
