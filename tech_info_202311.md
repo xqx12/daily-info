@@ -72,12 +72,12 @@
 | 20231126T11:20:53Z | Homemade project of on bike data acquisition and exploit to enhance bike%s performance | https://github.com/Nathancrz/MTB-telemetry | 0 | 0| 
 | 20231126T08:01:05Z | All non-NDA signed vulns/bugs/exploits I found and discolsed. | https://github.com/ByteXenon/SecurityResearchWriteups | 1 | 0| 
 | 20231126T07:50:00Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6171 | 809| 
+| 20231126T07:28:12Z | Simple fastboot-like tool made from scratch designed to be used for researching bootloader exploits | https://github.com/TheClogger666/mtktool | 0 | 0| 
 | 20231126T02:19:38Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0061-app-J8tp7-exploit-claim | 0 | 0| 
 | 20231126T01:36:50Z | Repository containing a walkthrough exploiting a Vulnerable Chat server. | https://github.com/DaintyJet/VChat_GMON_SEH | 0 | 0| 
 | 20231126T01:35:37Z | Prevent minecraft command exploit by prohibiting the command that have potential problems. This project made for Korean users. | https://github.com/DahunDev/BlockCMDExploit | 0 | 0| 
 | 20231126T00:29:58Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 72 | 20| 
 | 20231125T23:32:03Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-j | 1 | 0| 
-| 20231125T23:30:33Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-jz | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -101,7 +101,7 @@
 | 20231125T18:17:45Z | Playing with the Tigress software protection. Break some of its protections and solve their reverse engineering challenges. Automatic deobfuscation using symbolic execution, taint analysis and LLVM. | https://github.com/JonathanSalwan/Tigress_protection | 752 | 148| 
 | 20231124T20:10:45Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 267 | 36| 
 | 20231124T20:03:53Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 710 | 127| 
-| 20231124T19:12:40Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2361 | 639| 
+| 20231124T19:12:40Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2361 | 640| 
 | 20231124T00:04:34Z | Unicorn: Symbolic Execution, Bounded Model Checking, and Code Optimization of RISC-V Code using Classical Solvers and Quantum Computers | https://github.com/cksystemsgroup/unicorn | 25 | 8| 
 | 20231123T02:52:48Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 200 | 42| 
 | 20231121T15:52:57Z | A prototype tool for symbolic execution of quantum programs (QSE) with symbolic stabilizer states. | https://github.com/njuwfang/QuantumSE.jl | 2 | 2| 

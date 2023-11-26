@@ -48,6 +48,7 @@
 | 20231126T11:20:53Z | Homemade project of on bike data acquisition and exploit to enhance bike%s performance | https://github.com/Nathancrz/MTB-telemetry | 0 | 0| 
 | 20231126T08:01:05Z | All non-NDA signed vulns/bugs/exploits I found and discolsed. | https://github.com/ByteXenon/SecurityResearchWriteups | 1 | 0| 
 | 20231126T07:50:00Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6171 | 809| 
+| 20231126T07:28:12Z | Simple fastboot-like tool made from scratch designed to be used for researching bootloader exploits | https://github.com/TheClogger666/mtktool | 0 | 0| 
 | 20231126T02:19:38Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0061-app-J8tp7-exploit-claim | 0 | 0| 
 | 20231126T01:36:50Z | Repository containing a walkthrough exploiting a Vulnerable Chat server. | https://github.com/DaintyJet/VChat_GMON_SEH | 0 | 0| 
 | 20231126T01:35:37Z | Prevent minecraft command exploit by prohibiting the command that have potential problems. This project made for Korean users. | https://github.com/DahunDev/BlockCMDExploit | 0 | 0| 
