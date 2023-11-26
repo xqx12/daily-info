@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231126T13:09:28Z | cve-2022-33891 | Null | https://github.com/elsvital/cve-2022-33891-fix | | 
 | 20231126T12:24:34Z | CVE-2022-41853 | Research into CVE-2022-41853. Using static functions to obtian RCE via Java Deserialization | https://github.com/mbadanoiu/CVE-2022-41853 | | 
 | 20231126T12:24:31Z | CVE-2023-3452 | Wordpress Plugin Canto < 3.0.5 - Remote File Inclusion (RFI) and Remote Code Execution (RCE) | https://github.com/leoanggal1/CVE-2023-3452-PoC | | 
 | 20231126T12:24:28Z | CVE-2023-26269 | CVE-2023-26269: Misconfigured JMX in Apache James | https://github.com/mbadanoiu/CVE-2023-26269 | | 
@@ -35,7 +36,6 @@
 | 20231125T21:40:07Z | CVE-2021-46364 | CVE-2021-46364: YAML Deserialization in Magnolia CMS | https://github.com/mbadanoiu/CVE-2021-46364 | | 
 | 20231125T21:37:15Z | CVE-2023-34212 | CVE-2023-34212: Java Deserialization via JNDI Components in Apache NiFi | https://github.com/mbadanoiu/CVE-2023-34212 | | 
 | 20231125T16:37:20Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
-| 20231125T13:17:27Z | CVE-2023-40037 | CVE-2023-40037: Incomplete Validation of JDBC and JNDI Connection URLs in Apache NiFi | https://github.com/mbadanoiu/CVE-2023-40037 | | 
 
 
 # klee on Github 推荐
