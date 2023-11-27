@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231127T02:42:14Z | CVE-2023-36025 | Windows Defendor SmartScreen Bypass | https://github.com/DamnIt74/CVE-2023-36025 | | 
 | 20231126T21:25:08Z | CVE-2023-22515 | Null | https://github.com/edsonjt81/CVE-2023-22515-Scan. | | 
 | 20231126T18:35:08Z | CVE-2023-28432 | https://github.com/AbelChe/evil_minio/tree/main 打包留存 | https://github.com/Fw-fW-fw/CVE-2023-28432-minio_update_rce | | 
 | 20231126T15:19:45Z | CVE-2020-8254 | CVE-2020-8254: Zip Slip in Pulse Secure VPN Windows Client | https://github.com/mbadanoiu/CVE-2020-8254 | | 
@@ -35,7 +36,6 @@
 | 20231126T13:47:47Z | cve-2022-33891 | Null | https://github.com/elsvital/cve-2022-33891-fix | | 
 | 20231126T12:24:34Z | CVE-2022-41853 | Research into CVE-2022-41853. Using static functions to obtian RCE via Java Deserialization | https://github.com/mbadanoiu/CVE-2022-41853 | | 
 | 20231126T12:24:31Z | CVE-2023-3452 | Wordpress Plugin Canto < 3.0.5 - Remote File Inclusion (RFI) and Remote Code Execution (RCE) | https://github.com/leoanggal1/CVE-2023-3452-PoC | | 
-| 20231126T12:24:28Z | CVE-2023-26269 | CVE-2023-26269: Misconfigured JMX in Apache James | https://github.com/mbadanoiu/CVE-2023-26269 | | 
 
 
 # klee on Github 推荐
