@@ -73,11 +73,11 @@
 | 20231127T00:07:23Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-bo | 1 | 0| 
 | 20231127T00:06:19Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-bo | 1 | 0| 
 | 20231126T23:09:21Z | Null | https://github.com/RiotDevelopment/LuffyExploits | 0 | 0| 
+| 20231126T23:03:21Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 759 | 182| 
 | 20231126T16:47:17Z | Hash collisions and exploitations | https://github.com/corkami/collisions | 2660 | 173| 
 | 20231126T13:01:42Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5687 | 717| 
 | 20231126T11:20:53Z | Homemade project of on bike data acquisition and exploit to enhance bike%s performance | https://github.com/Nathancrz/MTB-telemetry | 0 | 0| 
 | 20231126T08:01:05Z | All non-NDA signed vulns/bugs/exploits I found and discolsed. | https://github.com/ByteXenon/SecurityResearchWriteups | 1 | 0| 
-| 20231126T07:50:00Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6171 | 809| 
 
 
 # backdoor on Github 推荐
@@ -128,6 +128,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231127T01:16:23Z | Null | https://github.com/Topaz52/Heart-Disease-using-fuzzy | 0 | 0| 
 | 20231127T01:00:58Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50246 | 23326| 
 | 20231126T22:06:58Z | Null | https://github.com/GabrielPedrotti/fuzzyControl | 0 | 0| 
 | 20231126T21:14:46Z | Null | https://github.com/Davis-Garrad/fuzzy-sniffle | 0 | 0| 
@@ -137,7 +138,6 @@
 | 20231126T11:13:34Z | Null | https://github.com/lokanadamvj/TEXT-FROM-AN-IMAGE-USING-FUZZY-LOGIC | 0 | 0| 
 | 20231126T06:23:20Z | A collection of blender tools for an efficient 1-person pipeline | https://github.com/sagotoons/fuzzytools | 1 | 0| 
 | 20231126T02:58:38Z | Null | https://github.com/GlitchyCrafting/glitchcandy-fuzzel | 0 | 0| 
-| 20231126T01:31:00Z | Null | https://github.com/HGCFER/fuzzy-octo-fortnight | 37 | 0| 
 
 
 

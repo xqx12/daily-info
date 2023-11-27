@@ -47,6 +47,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20231126T23:09:21Z | Null | https://github.com/RiotDevelopment/LuffyExploits | 0 | 0| 
+| 20231126T23:03:21Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 759 | 182| 
 | 20231126T16:47:17Z | Hash collisions and exploitations | https://github.com/corkami/collisions | 2660 | 173| 
 | 20231126T13:01:42Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5687 | 717| 
 | 20231126T11:20:53Z | Homemade project of on bike data acquisition and exploit to enhance bike%s performance | https://github.com/Nathancrz/MTB-telemetry | 0 | 0| 
@@ -55,7 +56,6 @@
 | 20231126T07:28:12Z | Simple fastboot-like tool made from scratch designed to be used for researching bootloader exploits | https://github.com/TheClogger666/mtktool | 0 | 0| 
 | 20231126T02:19:38Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0061-app-J8tp7-exploit-claim | 0 | 0| 
 | 20231126T01:36:50Z | Repository containing a walkthrough exploiting a Vulnerable Chat server. | https://github.com/DaintyJet/VChat_GMON_SEH | 0 | 0| 
-| 20231126T01:35:37Z | Prevent minecraft command exploit by prohibiting the command that have potential problems. This project made for Korean users. | https://github.com/DahunDev/BlockCMDExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
