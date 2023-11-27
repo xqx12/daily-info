@@ -26,28 +26,28 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231126T21:25:08Z | CVE-2023-22515 | Null | https://github.com/edsonjt81/CVE-2023-22515-Scan. | | 
+| 20231126T18:35:08Z | CVE-2023-28432 | https://github.com/AbelChe/evil_minio/tree/main 打包留存 | https://github.com/Fw-fW-fw/CVE-2023-28432-minio_update_rce | | 
+| 20231126T15:19:45Z | CVE-2020-8254 | CVE-2020-8254: Zip Slip in Pulse Secure VPN Windows Client | https://github.com/mbadanoiu/CVE-2020-8254 | | 
+| 20231126T15:17:45Z | CVE-2020-8250 | CVE-2020-8250: Privilege Escalation via Command Injection in Pulse Secure VPN Linux Client | https://github.com/mbadanoiu/CVE-2020-8250 | | 
+| 20231126T15:13:22Z | CVE-2020-8249 | CVE-2020-8249: Buffer Overflow in Pulse Secure VPN Linux Client | https://github.com/mbadanoiu/CVE-2020-8249 | | 
+| 20231126T15:09:20Z | CVE-2020-8248 | CVE-2020-8248: Privilege Escalation via Zip Wildcard Exploit in Pulse Secure VPN Linux Client | https://github.com/mbadanoiu/CVE-2020-8248 | | 
 | 20231126T13:47:47Z | cve-2022-33891 | Null | https://github.com/elsvital/cve-2022-33891-fix | | 
 | 20231126T12:24:34Z | CVE-2022-41853 | Research into CVE-2022-41853. Using static functions to obtian RCE via Java Deserialization | https://github.com/mbadanoiu/CVE-2022-41853 | | 
 | 20231126T12:24:31Z | CVE-2023-3452 | Wordpress Plugin Canto < 3.0.5 - Remote File Inclusion (RFI) and Remote Code Execution (RCE) | https://github.com/leoanggal1/CVE-2023-3452-PoC | | 
 | 20231126T12:24:28Z | CVE-2023-26269 | CVE-2023-26269: Misconfigured JMX in Apache James | https://github.com/mbadanoiu/CVE-2023-26269 | | 
-| 20231126T12:24:23Z | CVE-2023-34468 | CVE-2023-34468: Remote Code Execution via DB Components in Apache NiFi | https://github.com/mbadanoiu/CVE-2023-34468 | | 
-| 20231126T12:24:16Z | CVE-2021-20253 | CVE-2021-20253: Privilege Escalation via Job Isolation Escape in Ansible Tower | https://github.com/mbadanoiu/CVE-2021-20253 | | 
-| 20231126T08:30:26Z | CVE-2020-29607 | Exploit forCVE-2020-29607 | https://github.com/0xN7y/CVE-2020-29607 | | 
-| 20231125T21:40:07Z | CVE-2021-46364 | CVE-2021-46364: YAML Deserialization in Magnolia CMS | https://github.com/mbadanoiu/CVE-2021-46364 | | 
-| 20231125T21:37:15Z | CVE-2023-34212 | CVE-2023-34212: Java Deserialization via JNDI Components in Apache NiFi | https://github.com/mbadanoiu/CVE-2023-34212 | | 
-| 20231125T16:37:20Z | CVE-2023-38831 | CVE-2023-38831 winrar exploit generator | https://github.com/b1tg/CVE-2023-38831-winrar-exploit | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231127T00:25:36Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 283 | 54| 
 | 20231126T12:17:26Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14468 | 435| 
 | 20231125T05:00:00Z | 112 Project , Python Video Game | https://github.com/mjeong246/Klee-s-Kitchen | 0 | 0| 
 | 20231124T19:12:40Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2361 | 640| 
 | 20231124T09:57:51Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 33 | 2| 
 | 20231124T09:30:12Z | A utility library for spigot plugin development | https://github.com/KleeSup/KleePluginBase | 0 | 0| 
 | 20231121T16:36:07Z | Null | https://github.com/shafiuzzaman-md/edk2_klee | 0 | 0| 
-| 20231121T14:18:47Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 282 | 54| 
 | 20231121T01:12:20Z | Config files for my GitHub profile. | https://github.com/Kleeyow/Kleeyow | 0 | 0| 
 | 20231120T03:59:24Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 390 | 8| 
 | 20231119T18:56:27Z | This is the one! | https://github.com/klee-os/Klee-OS | 0 | 0| 
@@ -68,21 +68,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231127T00:09:09Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-bo | 1 | 0| 
+| 20231127T00:08:15Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-bo | 1 | 0| 
+| 20231127T00:07:23Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-bo | 1 | 0| 
+| 20231127T00:06:19Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-bo | 1 | 0| 
+| 20231126T23:09:21Z | Null | https://github.com/RiotDevelopment/LuffyExploits | 0 | 0| 
+| 20231126T16:47:17Z | Hash collisions and exploitations | https://github.com/corkami/collisions | 2660 | 173| 
 | 20231126T13:01:42Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5687 | 717| 
 | 20231126T11:20:53Z | Homemade project of on bike data acquisition and exploit to enhance bike%s performance | https://github.com/Nathancrz/MTB-telemetry | 0 | 0| 
 | 20231126T08:01:05Z | All non-NDA signed vulns/bugs/exploits I found and discolsed. | https://github.com/ByteXenon/SecurityResearchWriteups | 1 | 0| 
 | 20231126T07:50:00Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6171 | 809| 
-| 20231126T07:28:12Z | Simple fastboot-like tool made from scratch designed to be used for researching bootloader exploits | https://github.com/TheClogger666/mtktool | 0 | 0| 
-| 20231126T02:19:38Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0061-app-J8tp7-exploit-claim | 0 | 0| 
-| 20231126T01:36:50Z | Repository containing a walkthrough exploiting a Vulnerable Chat server. | https://github.com/DaintyJet/VChat_GMON_SEH | 0 | 0| 
-| 20231126T01:35:37Z | Prevent minecraft command exploit by prohibiting the command that have potential problems. This project made for Korean users. | https://github.com/DahunDev/BlockCMDExploit | 0 | 0| 
-| 20231126T00:29:58Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 72 | 20| 
-| 20231125T23:32:03Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-j | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231126T20:39:44Z | The open-sourced Python toolbox for backdoor attacks and defenses. | https://github.com/THUYimingLi/BackdoorBox | 321 | 56| 
+| 20231126T14:05:53Z | Peas create serialized payload for deserialization RCE attack on python driven applications where pickle ,pyYAML, ruamel.yaml or jsonpickle module is used for deserialization of serialized data. I will update it with more attack vectors to targets other modules.  | https://github.com/j0lt-github/python-deserialization-attack-payload-generator | 81 | 23| 
 | 20231126T00:34:20Z | Linea para script que se introduce en cualquier server (servidor suyo o permitido [uso responsable]) en un script de un servidor FiveM, es un backdoor (puerta trasera) para %hackear% una base de datos de un servidor en red.  | https://github.com/Sonklol/backdoor-fivemsql-discord | 10 | 4| 
 | 20231125T19:47:00Z | a backdoor that dose not capturing a port on the pc, this way no one will see that a backdoor is exists.. | https://github.com/R3tr0H4ck/SilentBackDoor | 1 | 0| 
 | 20231125T17:58:23Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 231 | 28| 
@@ -91,8 +93,6 @@
 | 20231125T14:23:24Z | backdoor | https://github.com/afzan354/shell | 0 | 0| 
 | 20231125T12:05:15Z | Digital Forensics and Incident Response (DFIR) | https://github.com/RENANZG/My-Forensics | 64 | 10| 
 | 20231125T07:05:38Z | Null | https://github.com/necrology/backdoor | 0 | 0| 
-| 20231125T05:56:36Z | This is the python code used as backdoor that can be embedded into any files like videos and pdfs etc.. | https://github.com/aashishsec/pyBackDoor | 1 | 0| 
-| 20231125T05:06:12Z | Red Script with Python | https://github.com/laerson-hammes/red-scripts | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -128,16 +128,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231127T01:00:58Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50246 | 23326| 
+| 20231126T22:06:58Z | Null | https://github.com/GabrielPedrotti/fuzzyControl | 0 | 0| 
+| 20231126T21:14:46Z | Null | https://github.com/Davis-Garrad/fuzzy-sniffle | 0 | 0| 
 | 20231126T13:44:08Z | Null | https://github.com/elsunais6167/fuzzy-inference | 0 | 0| 
 | 20231126T13:34:42Z | User enumeration tool for Moodle | https://github.com/luismxlina/moodle-fuzzer | 0 | 0| 
-| 20231126T12:55:49Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50238 | 23324| 
 | 20231126T11:29:45Z | This repository contains exercises from CISPA Helmholtz Center for Information Security to implement a fuzzing techniques from scratch using Python. | https://github.com/sagarkishore-7/SecurityTesting | 0 | 0| 
 | 20231126T11:13:34Z | Null | https://github.com/lokanadamvj/TEXT-FROM-AN-IMAGE-USING-FUZZY-LOGIC | 0 | 0| 
 | 20231126T06:23:20Z | A collection of blender tools for an efficient 1-person pipeline | https://github.com/sagotoons/fuzzytools | 1 | 0| 
 | 20231126T02:58:38Z | Null | https://github.com/GlitchyCrafting/glitchcandy-fuzzel | 0 | 0| 
 | 20231126T01:31:00Z | Null | https://github.com/HGCFER/fuzzy-octo-fortnight | 37 | 0| 
-| 20231126T01:20:25Z | Null | https://github.com/15039904060/fuzzy-pancake | 0 | 0| 
-| 20231125T22:45:32Z | Null | https://github.com/Ashes-Mondal/Fuzzy-Time-Series-Forecasting-for-Software-Fault | 0 | 0| 
 
 
 
