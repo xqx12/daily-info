@@ -40,7 +40,6 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231126T07:54:38Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 39 | 15| 
 
 
 # exploit on Github 推荐
