@@ -68,6 +68,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231127T02:34:52Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 758 | 182| 
+| 20231127T02:34:50Z | All in one exploit  | https://github.com/Capitos/All-in-one-exploit | 0 | 0| 
 | 20231127T02:17:40Z | Repositório onde será desenvolvido um trabalho prático sobre segurança de redes e exploit de vulnerabilidade | https://github.com/felipearmat/seguranca-de-redes | 0 | 0| 
 | 20231127T01:55:33Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5654 | 766| 
 | 20231127T01:52:26Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0036-app-a53zo-provide-exploit | 0 | 0| 
@@ -76,8 +78,6 @@
 | 20231127T00:15:35Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 61 | 12| 
 | 20231127T00:09:09Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-bo | 1 | 0| 
 | 20231127T00:08:15Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-bo | 1 | 0| 
-| 20231127T00:07:23Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-bo | 1 | 0| 
-| 20231127T00:06:19Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-bo | 1 | 0| 
 
 
 # backdoor on Github 推荐
