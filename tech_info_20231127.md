@@ -42,16 +42,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231127T13:30:04Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5644 | 766| 
 | 20231127T11:24:59Z | Exploit code on various platforms | https://github.com/ocxh/exploit_code | 0 | 0| 
 | 20231127T10:25:36Z | Phpsploit-Framework is an open source CTF framework and vulnerability exploitation development library. | https://github.com/huc0day/phpsploit-framework | 0 | 0| 
 | 20231127T10:18:29Z | Hand Object detection, exploiting FrankMocap. | https://github.com/samueleruffino99/handobjdet_frankmocap | 0 | 0| 
 | 20231127T10:10:28Z | Null | https://github.com/vanhaucute/WebExploitation | 0 | 0| 
 | 20231127T07:52:28Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5510 | 1070| 
 | 20231127T05:58:07Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5691 | 718| 
+| 20231127T05:16:23Z | Post-exploitation agent for Merlin | https://github.com/Ne0nd0g/merlin-agent | 142 | 49| 
 | 20231127T03:14:36Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 62 | 12| 
-| 20231127T02:58:48Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5653 | 766| 
 | 20231127T02:47:57Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0056-app-u-OZ_-recover-exploit | 0 | 0| 
-| 20231127T02:44:59Z | # Telegram For Best and Prv8 Tool Contact Me @Capitos_Kamal | https://github.com/Capitos/Laravel-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
