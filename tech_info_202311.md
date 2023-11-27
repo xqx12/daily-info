@@ -11,6 +11,9 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20231127 | 可扩展和语义保持的反病毒引擎标签挖掘 | https://mp.weixin.qq.com/s/_VPJuztJa3oGcRiLjpxUFg| 
+| 20231127 | amazon-redshift-jdbc-driver 任意代码执行漏洞 | https://www.sec-in.com/article/896| 
+| 20231127 | Unveiling a Critical Authentication Bypass Vulnerability i... | https://securingbits.com/bypassing-google-cloud-api-gateway| 
 | 20231126 | 基于UI交互意图理解的异常检测方法 | https://tech.meituan.com/2023/11/23/the-intent-of-ui-interaction-understanding.html| 
 | 20231126 | Pin动态二进制插桩技术详解 | https://xz.aliyun.com/t/13103| 
 | 20231126 | 如何检测加密软件中的缓存侧信道？ | https://mp.weixin.qq.com/s/qivAlm8g-1dllN36C1XArg| 
@@ -18,30 +21,27 @@
 | 20231125 | JA4+网络指纹 | https://mp.weixin.qq.com/s/ELaSuYCfIE74sVMV19DH5Q| 
 | 20231125 | 应对攻击面的未来之路：持续威胁暴露管理（CTEM） | https://mp.weixin.qq.com/s/e-WmasBS6XE3k09KKuM2zQ| 
 | 20231125 | 美国NAVY发布首份网络战略 | https://mp.weixin.qq.com/s/zSkEpBUQ7pt0MscFm-XZBg| 
-| 20231123 | 工业和信息化领域数据安全行政处罚裁量指引（试行）（征求意见... | https://www.miit.gov.cn/gzcy/yjzj/art/2023/art_2fb5b9dff755480284099f08eebdfa1e.html| 
-| 20231122 | DARPA之声第73期： 人工智能网络挑战赛--CTF、代码和关键基础... | https://mp.weixin.qq.com/s/Itad7Y-QBcr991JkF3SrIg| 
-| 20231121 | OpenHarmony安全指南 | https://docs.openharmony.cn/pages/v4.0/zh-cn/device-dev/security/security-guidelines-overall.md/| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231127T12:31:44Z | CVE-2023-46948 | Null | https://github.com/AzraelsBlade/CVE-2023-46948 | | 
+| 20231127T09:52:07Z | CVE-2023-4966 | Programm to exploit a range of ip adresses | https://github.com/byte4RR4Y/CVE-2023-4966 | | 
+| 20231127T08:22:33Z | CVE-2023-34468 | CVE-2023-34468: Remote Code Execution via DB Components in Apache NiFi | https://github.com/mbadanoiu/CVE-2023-34468 | | 
+| 20231127T07:20:44Z | CVE-2023-26048 | Null | https://github.com/hshivhare67/Jetty-v9.4.31_CVE-2023-26048 | | 
 | 20231127T02:42:14Z | CVE-2023-36025 | Windows Defendor SmartScreen Bypass | https://github.com/DamnIt74/CVE-2023-36025 | | 
 | 20231126T21:25:08Z | CVE-2023-22515 | Null | https://github.com/edsonjt81/CVE-2023-22515-Scan. | | 
 | 20231126T18:35:08Z | CVE-2023-28432 | https://github.com/AbelChe/evil_minio/tree/main 打包留存 | https://github.com/Fw-fW-fw/CVE-2023-28432-minio_update_rce | | 
 | 20231126T15:19:45Z | CVE-2020-8254 | CVE-2020-8254: Zip Slip in Pulse Secure VPN Windows Client | https://github.com/mbadanoiu/CVE-2020-8254 | | 
 | 20231126T15:17:45Z | CVE-2020-8250 | CVE-2020-8250: Privilege Escalation via Command Injection in Pulse Secure VPN Linux Client | https://github.com/mbadanoiu/CVE-2020-8250 | | 
 | 20231126T15:13:22Z | CVE-2020-8249 | CVE-2020-8249: Buffer Overflow in Pulse Secure VPN Linux Client | https://github.com/mbadanoiu/CVE-2020-8249 | | 
-| 20231126T15:09:20Z | CVE-2020-8248 | CVE-2020-8248: Privilege Escalation via Zip Wildcard Exploit in Pulse Secure VPN Linux Client | https://github.com/mbadanoiu/CVE-2020-8248 | | 
-| 20231126T13:47:47Z | cve-2022-33891 | Null | https://github.com/elsvital/cve-2022-33891-fix | | 
-| 20231126T12:24:34Z | CVE-2022-41853 | Research into CVE-2022-41853. Using static functions to obtian RCE via Java Deserialization | https://github.com/mbadanoiu/CVE-2022-41853 | | 
-| 20231126T12:24:31Z | CVE-2023-3452 | Wordpress Plugin Canto < 3.0.5 - Remote File Inclusion (RFI) and Remote Code Execution (RCE) | https://github.com/leoanggal1/CVE-2023-3452-PoC | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231127T02:35:53Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14471 | 435| 
+| 20231127T10:32:18Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14478 | 435| 
 | 20231127T00:25:36Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 283 | 54| 
 | 20231125T05:00:00Z | 112 Project , Python Video Game | https://github.com/mjeong246/Klee-s-Kitchen | 0 | 0| 
 | 20231124T19:12:40Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2361 | 640| 
@@ -98,12 +98,12 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231127T12:33:27Z | Unicorn: Symbolic Execution, Bounded Model Checking, and Code Optimization of RISC-V Code using Classical Solvers and Quantum Computers | https://github.com/cksystemsgroup/unicorn | 26 | 8| 
 | 20231126T16:05:24Z | Playing with the Tigress software protection. Break some of its protections and solve their reverse engineering challenges. Automatic deobfuscation using symbolic execution, taint analysis and LLVM. | https://github.com/JonathanSalwan/Tigress_protection | 753 | 149| 
 | 20231126T16:01:49Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 467 | 33| 
 | 20231124T20:10:45Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 267 | 36| 
 | 20231124T20:03:53Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 710 | 127| 
 | 20231124T19:12:40Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2361 | 640| 
-| 20231124T00:04:34Z | Unicorn: Symbolic Execution, Bounded Model Checking, and Code Optimization of RISC-V Code using Classical Solvers and Quantum Computers | https://github.com/cksystemsgroup/unicorn | 25 | 8| 
 | 20231123T02:52:48Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 200 | 42| 
 | 20231121T15:52:57Z | A prototype tool for symbolic execution of quantum programs (QSE) with symbolic stabilizer states. | https://github.com/njuwfang/QuantumSE.jl | 2 | 2| 
 | 20231118T22:52:58Z | A mini symbolic execution engine for simple JavaScript programs | https://github.com/tkhang1999/mini-symex-js | 0 | 0| 
@@ -128,6 +128,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231127T10:37:58Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1616 | 238| 
+| 20231127T09:42:23Z | Null | https://github.com/dyawbot/FuzzyMushRoom | 0 | 0| 
+| 20231127T09:08:50Z | A fuzzer for pwner | https://github.com/Du-Mu/PwnFuzzer | 0 | 0| 
 | 20231127T02:53:36Z | Null | https://github.com/vasekkokorin/fuzzy-stream | 0 | 0| 
 | 20231127T02:24:04Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50249 | 23326| 
 | 20231127T02:16:02Z | Null | https://github.com/kbornhutter/fuzzy-chainsaw | 0 | 0| 
@@ -135,9 +138,6 @@
 | 20231127T01:25:36Z | Null | https://github.com/sapepin/fuzzy-fortnight | 0 | 0| 
 | 20231127T01:17:46Z | Null | https://github.com/Topaz52/Heart-Disease-using-fuzzy | 0 | 0| 
 | 20231126T23:57:45Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 475 | 62| 
-| 20231126T22:06:58Z | Null | https://github.com/GabrielPedrotti/fuzzyControl | 0 | 0| 
-| 20231126T21:14:46Z | Null | https://github.com/Davis-Garrad/fuzzy-sniffle | 0 | 0| 
-| 20231126T13:44:08Z | Null | https://github.com/elsunais6167/fuzzy-inference | 0 | 0| 
 
 
 
