@@ -42,21 +42,26 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231127T11:24:59Z | Exploit code on various platforms | https://github.com/ocxh/exploit_code | 0 | 0| 
+| 20231127T10:25:36Z | Phpsploit-Framework is an open source CTF framework and vulnerability exploitation development library. | https://github.com/huc0day/phpsploit-framework | 0 | 0| 
+| 20231127T10:18:29Z | Hand Object detection, exploiting FrankMocap. | https://github.com/samueleruffino99/handobjdet_frankmocap | 0 | 0| 
+| 20231127T10:10:28Z | Null | https://github.com/vanhaucute/WebExploitation | 0 | 0| 
+| 20231127T07:52:28Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5510 | 1070| 
+| 20231127T05:58:07Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5691 | 718| 
+| 20231127T03:14:36Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 62 | 12| 
 | 20231127T02:58:48Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5653 | 766| 
 | 20231127T02:47:57Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0056-app-u-OZ_-recover-exploit | 0 | 0| 
 | 20231127T02:44:59Z | # Telegram For Best and Prv8 Tool Contact Me @Capitos_Kamal | https://github.com/Capitos/Laravel-Exploit | 0 | 0| 
-| 20231127T02:41:17Z | This Tool Exploit Wordpress ( XMLRPC ) | https://github.com/Capitos/BAYGO | 0 | 0| 
-| 20231127T02:37:06Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5508 | 1070| 
-| 20231127T02:34:52Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 758 | 182| 
-| 20231127T02:34:50Z | All in one exploit  | https://github.com/Capitos/All-in-one-exploit | 0 | 0| 
-| 20231127T02:17:40Z | Repositório onde será desenvolvido um trabalho prático sobre segurança de redes e exploit de vulnerabilidade | https://github.com/felipearmat/seguranca-de-redes | 0 | 0| 
-| 20231127T01:52:26Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0036-app-a53zo-provide-exploit | 0 | 0| 
-| 20231127T01:42:18Z | An innovative deep learning framework leveraging the CAT (Convolutions, Attention & Transformers) architecture to seamlessly integrate visual and textual modalities. This model exploits the prowess of CNNs for image feature extraction and Transformers for intricate textual pattern recognition, setting a new paradigm in multimodal learning. | https://github.com/XavierSpycy/CAT-ImageTextIntegrator | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231127T12:46:23Z | Digital Forensics and Incident Response (DFIR) | https://github.com/RENANZG/My-Forensics | 64 | 10| 
+| 20231127T12:14:26Z | Fast integration of backdoor attacks in machine learning and federated learning. | https://github.com/mtuann/fedlearn-backdoor-attacks | 30 | 0| 
+| 20231127T09:58:13Z | Null | https://github.com/akankshar05/ml_model_backdoor | 0 | 0| 
+| 20231127T04:07:44Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 232 | 28| 
+| 20231127T03:36:38Z | Manage local ssh connections with HTML/Nodejs app ~ You can inspect the code and won%t find any backdoor | https://github.com/Pispros/free-html-local-ssh-manager | 0 | 0| 
 | 20231127T02:28:51Z | The open-sourced Python toolbox for backdoor attacks and defenses. | https://github.com/THUYimingLi/BackdoorBox | 322 | 56| 
 | 20231127T01:48:23Z | Null | https://github.com/nnebp/LLM-Fine-tuning-Backdoor | 0 | 0| 
 
