@@ -128,6 +128,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231127T02:53:36Z | Null | https://github.com/vasekkokorin/fuzzy-stream | 0 | 0| 
 | 20231127T02:24:04Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50249 | 23326| 
 | 20231127T02:16:02Z | Null | https://github.com/kbornhutter/fuzzy-chainsaw | 0 | 0| 
 | 20231127T01:57:09Z | Null | https://github.com/Nahasrobert/SPK-FUZZY | 0 | 0| 
@@ -137,7 +138,6 @@
 | 20231126T22:06:58Z | Null | https://github.com/GabrielPedrotti/fuzzyControl | 0 | 0| 
 | 20231126T21:14:46Z | Null | https://github.com/Davis-Garrad/fuzzy-sniffle | 0 | 0| 
 | 20231126T13:44:08Z | Null | https://github.com/elsunais6167/fuzzy-inference | 0 | 0| 
-| 20231126T13:34:42Z | User enumeration tool for Moodle | https://github.com/luismxlina/moodle-fuzzer | 0 | 0| 
 
 
 
