@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231127T01:42:18Z | An innovative deep learning framework leveraging the CAT (Convolutions, Attention & Transformers) architecture to seamlessly integrate visual and textual modalities. This model exploits the prowess of CNNs for image feature extraction and Transformers for intricate textual pattern recognition, setting a new paradigm in multimodal learning. | https://github.com/XavierSpycy/CAT-ImageTextIntegrator | 0 | 0| 
 | 20231127T01:28:20Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0069-app-Fbuni-miss-exploit | 0 | 0| 
 | 20231127T00:09:09Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-bo | 1 | 0| 
 | 20231127T00:08:15Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-bo | 1 | 0| 
@@ -77,7 +78,6 @@
 | 20231126T23:03:21Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 759 | 182| 
 | 20231126T16:47:17Z | Hash collisions and exploitations | https://github.com/corkami/collisions | 2660 | 173| 
 | 20231126T13:01:42Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5687 | 717| 
-| 20231126T11:20:53Z | Homemade project of on bike data acquisition and exploit to enhance bike%s performance | https://github.com/Nathancrz/MTB-telemetry | 0 | 0| 
 
 
 # backdoor on Github 推荐
