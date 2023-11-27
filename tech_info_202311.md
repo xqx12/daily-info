@@ -68,16 +68,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231127T01:52:26Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0036-app-a53zo-provide-exploit | 0 | 0| 
 | 20231127T01:42:18Z | An innovative deep learning framework leveraging the CAT (Convolutions, Attention & Transformers) architecture to seamlessly integrate visual and textual modalities. This model exploits the prowess of CNNs for image feature extraction and Transformers for intricate textual pattern recognition, setting a new paradigm in multimodal learning. | https://github.com/XavierSpycy/CAT-ImageTextIntegrator | 0 | 0| 
 | 20231127T01:28:20Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0069-app-Fbuni-miss-exploit | 0 | 0| 
+| 20231127T00:54:43Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5655 | 766| 
 | 20231127T00:09:09Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-bo | 1 | 0| 
 | 20231127T00:08:15Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-bo | 1 | 0| 
 | 20231127T00:07:23Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-bo | 1 | 0| 
 | 20231127T00:06:19Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-bo | 1 | 0| 
 | 20231126T23:09:21Z | Null | https://github.com/RiotDevelopment/LuffyExploits | 0 | 0| 
 | 20231126T23:03:21Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 759 | 182| 
-| 20231126T16:47:17Z | Hash collisions and exploitations | https://github.com/corkami/collisions | 2660 | 173| 
-| 20231126T13:01:42Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5687 | 717| 
 
 
 # backdoor on Github 推荐
