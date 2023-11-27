@@ -82,6 +82,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231127T12:58:19Z | Null | https://github.com/NVHMH/Self_Balancing_Robot_Fuzzy | 1 | 0| 
 | 20231127T10:37:58Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1616 | 238| 
 | 20231127T09:42:23Z | Null | https://github.com/dyawbot/FuzzyMushRoom | 0 | 0| 
 | 20231127T09:08:50Z | A fuzzer for pwner | https://github.com/Du-Mu/PwnFuzzer | 0 | 0| 
