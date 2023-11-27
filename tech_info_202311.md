@@ -128,8 +128,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231127T01:33:51Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50248 | 23326| 
 | 20231127T01:25:36Z | Null | https://github.com/sapepin/fuzzy-fortnight | 0 | 0| 
-| 20231127T01:24:02Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50247 | 23326| 
 | 20231127T01:17:46Z | Null | https://github.com/Topaz52/Heart-Disease-using-fuzzy | 0 | 0| 
 | 20231126T22:06:58Z | Null | https://github.com/GabrielPedrotti/fuzzyControl | 0 | 0| 
 | 20231126T21:14:46Z | Null | https://github.com/Davis-Garrad/fuzzy-sniffle | 0 | 0| 
