@@ -82,6 +82,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231126T23:57:45Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 475 | 62| 
 | 20231126T22:06:58Z | Null | https://github.com/GabrielPedrotti/fuzzyControl | 0 | 0| 
 | 20231126T21:14:46Z | Null | https://github.com/Davis-Garrad/fuzzy-sniffle | 0 | 0| 
 | 20231126T13:44:08Z | Null | https://github.com/elsunais6167/fuzzy-inference | 0 | 0| 
@@ -91,7 +92,6 @@
 | 20231126T06:23:20Z | A collection of blender tools for an efficient 1-person pipeline | https://github.com/sagotoons/fuzzytools | 1 | 0| 
 | 20231126T02:58:38Z | Null | https://github.com/GlitchyCrafting/glitchcandy-fuzzel | 0 | 0| 
 | 20231126T01:31:00Z | Null | https://github.com/HGCFER/fuzzy-octo-fortnight | 37 | 0| 
-| 20231126T01:20:25Z | Null | https://github.com/15039904060/fuzzy-pancake | 0 | 0| 
 
 
 
