@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231127T02:47:57Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0056-app-u-OZ_-recover-exploit | 0 | 0| 
 | 20231127T02:44:59Z | # Telegram For Best and Prv8 Tool Contact Me @Capitos_Kamal | https://github.com/Capitos/Laravel-Exploit | 0 | 0| 
 | 20231127T02:41:17Z | This Tool Exploit Wordpress ( XMLRPC ) | https://github.com/Capitos/BAYGO | 0 | 0| 
 | 20231127T02:37:06Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5508 | 1070| 
@@ -77,7 +78,6 @@
 | 20231127T01:55:33Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5654 | 766| 
 | 20231127T01:52:26Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0036-app-a53zo-provide-exploit | 0 | 0| 
 | 20231127T01:42:18Z | An innovative deep learning framework leveraging the CAT (Convolutions, Attention & Transformers) architecture to seamlessly integrate visual and textual modalities. This model exploits the prowess of CNNs for image feature extraction and Transformers for intricate textual pattern recognition, setting a new paradigm in multimodal learning. | https://github.com/XavierSpycy/CAT-ImageTextIntegrator | 0 | 0| 
-| 20231127T01:28:20Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0069-app-Fbuni-miss-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
