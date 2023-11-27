@@ -42,6 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231127T13:40:09Z | Java libraries for working with available vulnerability data sources (GitHub Security Advisories, NVD, EPSS, CISA Known Exploited Vulnerabilities, etc.) | https://github.com/jeremylong/Open-Vulnerability-Project | 50 | 12| 
 | 20231127T13:30:04Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5644 | 766| 
 | 20231127T11:24:59Z | Exploit code on various platforms | https://github.com/ocxh/exploit_code | 0 | 0| 
 | 20231127T10:25:36Z | Phpsploit-Framework is an open source CTF framework and vulnerability exploitation development library. | https://github.com/huc0day/phpsploit-framework | 0 | 0| 
@@ -51,7 +52,6 @@
 | 20231127T05:58:07Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5691 | 718| 
 | 20231127T05:16:23Z | Post-exploitation agent for Merlin | https://github.com/Ne0nd0g/merlin-agent | 142 | 49| 
 | 20231127T03:14:36Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 62 | 12| 
-| 20231127T02:47:57Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0056-app-u-OZ_-recover-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -86,12 +86,12 @@
 | 20231127T10:37:58Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1616 | 238| 
 | 20231127T09:42:23Z | Null | https://github.com/dyawbot/FuzzyMushRoom | 0 | 0| 
 | 20231127T09:08:50Z | A fuzzer for pwner | https://github.com/Du-Mu/PwnFuzzer | 0 | 0| 
+| 20231127T04:32:42Z | Null | https://github.com/ShooterBiswa/fuzzy-carnival | 0 | 0| 
 | 20231127T02:53:36Z | Null | https://github.com/vasekkokorin/fuzzy-stream | 0 | 0| 
 | 20231127T02:24:04Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50249 | 23326| 
 | 20231127T02:16:02Z | Null | https://github.com/kbornhutter/fuzzy-chainsaw | 0 | 0| 
 | 20231127T01:57:09Z | Null | https://github.com/Nahasrobert/SPK-FUZZY | 0 | 0| 
 | 20231127T01:25:36Z | Null | https://github.com/sapepin/fuzzy-fortnight | 0 | 0| 
-| 20231127T01:17:46Z | Null | https://github.com/Topaz52/Heart-Disease-using-fuzzy | 0 | 0| 
 
 
 
