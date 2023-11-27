@@ -82,8 +82,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231127T13:57:57Z | vim などにある fuzzy search を実現するために検索ワードを強制的に fuzzy な正規表現に変換して検索する VSCODE Extension です | https://github.com/hatappo/fuzzy-fuzzy | 0 | 0| 
 | 20231127T13:54:53Z | A tool for running Native Go Fuzz tests in CI pipelines | https://github.com/form3tech-oss/go-ci-fuzz | 0 | 0| 
-| 20231127T13:53:00Z | vim などにある fuzzy searchc を実現するために検索ワードを強制的に fuzzy な正規表現に変換して検索する VSCODE Extension です | https://github.com/hatappo/fuzzy-fuzzy | 0 | 0| 
 | 20231127T13:43:16Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4919 | 1173| 
 | 20231127T12:58:19Z | Null | https://github.com/NVHMH/Self_Balancing_Robot_Fuzzy | 1 | 0| 
 | 20231127T10:37:58Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1616 | 238| 
