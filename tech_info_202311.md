@@ -68,16 +68,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231127T02:17:40Z | Repositório onde será desenvolvido um trabalho prático sobre segurança de redes e exploit de vulnerabilidade | https://github.com/felipearmat/seguranca-de-redes | 0 | 0| 
 | 20231127T01:55:33Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5654 | 766| 
 | 20231127T01:52:26Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0036-app-a53zo-provide-exploit | 0 | 0| 
 | 20231127T01:42:18Z | An innovative deep learning framework leveraging the CAT (Convolutions, Attention & Transformers) architecture to seamlessly integrate visual and textual modalities. This model exploits the prowess of CNNs for image feature extraction and Transformers for intricate textual pattern recognition, setting a new paradigm in multimodal learning. | https://github.com/XavierSpycy/CAT-ImageTextIntegrator | 0 | 0| 
 | 20231127T01:28:20Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0069-app-Fbuni-miss-exploit | 0 | 0| 
+| 20231127T00:15:35Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 61 | 12| 
 | 20231127T00:09:09Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-bo | 1 | 0| 
 | 20231127T00:08:15Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-bo | 1 | 0| 
 | 20231127T00:07:23Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-bo | 1 | 0| 
 | 20231127T00:06:19Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-bo | 1 | 0| 
-| 20231126T23:09:21Z | Null | https://github.com/RiotDevelopment/LuffyExploits | 0 | 0| 
-| 20231126T23:03:21Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 759 | 182| 
 
 
 # backdoor on Github 推荐
