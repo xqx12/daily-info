@@ -82,6 +82,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231127T13:43:16Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4919 | 1173| 
 | 20231127T12:58:19Z | Null | https://github.com/NVHMH/Self_Balancing_Robot_Fuzzy | 1 | 0| 
 | 20231127T10:37:58Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1616 | 238| 
 | 20231127T09:42:23Z | Null | https://github.com/dyawbot/FuzzyMushRoom | 0 | 0| 
@@ -91,7 +92,6 @@
 | 20231127T02:24:04Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50249 | 23326| 
 | 20231127T02:16:02Z | Null | https://github.com/kbornhutter/fuzzy-chainsaw | 0 | 0| 
 | 20231127T01:57:09Z | Null | https://github.com/Nahasrobert/SPK-FUZZY | 0 | 0| 
-| 20231127T01:25:36Z | Null | https://github.com/sapepin/fuzzy-fortnight | 0 | 0| 
 
 
 
