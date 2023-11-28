@@ -68,7 +68,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231128T01:59:07Z | It to exploit and have fun on roblox | https://github.com/bothelpersgpt/Roblox-Exploits-scripts | 0 | 0| 
+| 20231128T02:02:53Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0003-app-xOm2w-increase-exploit | 0 | 0| 
+| 20231128T02:01:52Z | It to exploit and have fun on roblox | https://github.com/bothelpersgpt/Roblox-Exploits-scripts | 0 | 0| 
 | 20231128T01:43:13Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 759 | 183| 
 | 20231128T01:37:11Z | Exploits i made for HacktheBox Machines  | https://github.com/BearClaw96/Exploiting-and-Enumerating-Scripts | 0 | 0| 
 | 20231128T01:34:47Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0059-app-tuBNb-depend-exploit | 0 | 0| 
@@ -77,7 +78,6 @@
 | 20231127T23:59:35Z | A dylib injection vulnerability in XMachOViewer 0.04 allows attackers to compromise integrity. By exploiting this, unauthorized code can be injected into the product%s processes, potentially leading to remote control and unauthorized access to sensitive user data. | https://github.com/louiselalanne/CVE-2023-49313 | 0 | 0| 
 | 20231127T22:56:47Z | An small os to be used on an iPhone with checkm8 exploit | https://github.com/ElectroBoy404NotFound/TinyiOS | 0 | 0| 
 | 20231127T22:47:42Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5511 | 1070| 
-| 20231127T22:35:44Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-s | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -129,6 +129,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20231128T01:59:17Z | A collection of blender tools for an efficient 1-person pipeline | https://github.com/sagotoons/fuzzytools | 3 | 0| 
+| 20231128T01:44:12Z | Null | https://github.com/houjingyi233/awesome-fuzz | 52 | 3| 
 | 20231128T00:33:04Z | Null | https://github.com/OdayAli2249/Images-Segmentation-Using-Fuzzy-C-means-Algorithm | 0 | 0| 
 | 20231127T23:56:44Z | Null | https://github.com/SpaghetNMeatballs/fuzzylogicproject2023 | 0 | 0| 
 | 20231127T23:08:07Z | Null | https://github.com/Felipembits/fuzzyLogic | 2 | 0| 
@@ -137,7 +138,6 @@
 | 20231127T19:31:35Z | A snapshotting, coverage-guided fuzzer for software (UEFI, Kernel, firmware, BIOS) built on SIMICS | https://github.com/intel/tsffs | 213 | 11| 
 | 20231127T16:06:23Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 109 | 14| 
 | 20231127T13:57:57Z | vim などにある fuzzy search を実現するために検索ワードを強制的に fuzzy な正規表現に変換して検索する VSCODE Extension です | https://github.com/hatappo/fuzzy-fuzzy | 0 | 0| 
-| 20231127T13:54:53Z | A tool for running Native Go Fuzz tests in CI pipelines | https://github.com/form3tech-oss/go-ci-fuzz | 0 | 0| 
 
 
 
