@@ -68,6 +68,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231128T12:59:18Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2362 | 640| 
+| 20231128T12:06:47Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 41 | 28| 
+| 20231128T03:47:38Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 46 | 7| 
+| 20231128T03:24:36Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 65 | 9| 
 
 
 # big4 on Github 推荐
