@@ -11,40 +11,40 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20231128 | SecGPT：网络安全大模型 | https://mp.weixin.qq.com/s/WsyuAWqyA185uyrQAaNzeQ| 
+| 20231128 | 大型语言模型：原理、实现与发展 | https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.202330303| 
+| 20231128 | ItyFuzz：基于快照的智能合约模糊测试 | https://mp.weixin.qq.com/s/z5YERA_r0bsJWh9R1PdV_g| 
+| 20231128 | Dress Code - Analysis of the current status of the Content... | https://sensepost.com/blog/2023/dress-code-the-talk/| 
 | 20231127 | 可扩展和语义保持的反病毒引擎标签挖掘 | https://mp.weixin.qq.com/s/_VPJuztJa3oGcRiLjpxUFg| 
 | 20231127 | amazon-redshift-jdbc-driver 任意代码执行漏洞 | https://www.sec-in.com/article/896| 
 | 20231127 | Unveiling a Critical Authentication Bypass Vulnerability i... | https://securingbits.com/bypassing-google-cloud-api-gateway| 
 | 20231127 | SecWiki周刊（第508期) | https://www.sec-wiki.com/weekly/508| 
 | 20231126 | 基于UI交互意图理解的异常检测方法 | https://tech.meituan.com/2023/11/23/the-intent-of-ui-interaction-understanding.html| 
 | 20231126 | Pin动态二进制插桩技术详解 | https://xz.aliyun.com/t/13103| 
-| 20231126 | 如何检测加密软件中的缓存侧信道？ | https://mp.weixin.qq.com/s/qivAlm8g-1dllN36C1XArg| 
-| 20231126 | 对安全通信协议提供的密码学可否认性认可情况的调研 | https://mp.weixin.qq.com/s/7N7xhwJUjLcXxRMqmJm5SA| 
-| 20231125 | JA4+网络指纹 | https://mp.weixin.qq.com/s/ELaSuYCfIE74sVMV19DH5Q| 
-| 20231125 | 应对攻击面的未来之路：持续威胁暴露管理（CTEM） | https://mp.weixin.qq.com/s/e-WmasBS6XE3k09KKuM2zQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231128T10:39:20Z | CVE-2023-49314 | Asana Desktop 2.1.0 on macOS allows code injection because of specific Electron Fuses. There is inadequate protection against code injection through settings such as RunAsNode and  enableNodeCliInspectArguments, and thus r3ggi/electroniz3r can be used to perform an attack. | https://github.com/louiselalanne/CVE-2023-49314 | | 
+| 20231128T10:35:35Z | CVE-2023-36025 | test repo for CVE-2023-36025 | https://github.com/J466Y/test_CVE-2023-36025 | | 
+| 20231128T10:06:33Z | CVE-2023-25157 | Geoserver SQL Injection Exploit | https://github.com/dr-cable-tv/Geoserver-CVE-2023-25157 | | 
+| 20231128T05:41:02Z | CVE-2023-22518 | Confluence CVE-2023-22518 | https://github.com/C1ph3rX13/CVE-2023-22518 | | 
 | 20231128T00:55:24Z | CVE-2023-41993 | Null | https://github.com/ZZY3312/CVE-2023-41993 | | 
 | 20231128T00:53:53Z | CVE-2023-41991 | Null | https://github.com/ZZY3312/CVE-2023-41991 | | 
 | 20231127T23:43:40Z | CVE-2023-4911 | Privilege Escalation - Heap Buffer Overflow Vulnerability | https://github.com/WhiteH4T-Dev/CVE-2023-4911-Looney-Tunables | | 
 | 20231127T20:57:39Z | CVE-2023-36664 | Proof of concept developed for the CVE-2023-36664 | https://github.com/JeanChpt/CVE-2023-36664 | | 
 | 20231127T14:33:10Z | CVE-2023-49052 | Microweber version 2.0.4 vulnerable to "Uploading Malicious Files"  | https://github.com/Cyber-Wo0dy/CVE-2023-49052 | | 
 | 20231127T12:31:44Z | CVE-2023-46948 | Null | https://github.com/AzraelsBlade/CVE-2023-46948 | | 
-| 20231127T09:52:07Z | CVE-2023-4966 | Programm to exploit a range of ip adresses | https://github.com/byte4RR4Y/CVE-2023-4966 | | 
-| 20231127T08:22:33Z | CVE-2023-34468 | CVE-2023-34468: Remote Code Execution via DB Components in Apache NiFi | https://github.com/mbadanoiu/CVE-2023-34468 | | 
-| 20231127T07:20:44Z | CVE-2023-26048 | Null | https://github.com/hshivhare67/Jetty-v9.4.31_CVE-2023-26048 | | 
-| 20231127T02:42:14Z | CVE-2023-36025 | Windows Defendor SmartScreen Bypass | https://github.com/DamnIt74/CVE-2023-36025 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231128T02:30:49Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14480 | 435| 
-| 20231127T00:25:36Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 283 | 54| 
+| 20231128T12:59:18Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2362 | 640| 
+| 20231128T12:37:40Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14488 | 435| 
+| 20231128T07:11:01Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 286 | 54| 
 | 20231125T05:00:00Z | 112 Project , Python Video Game | https://github.com/mjeong246/Klee-s-Kitchen | 0 | 0| 
-| 20231124T19:12:40Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2361 | 640| 
 | 20231124T09:57:51Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 33 | 2| 
 | 20231124T09:30:12Z | A utility library for spigot plugin development | https://github.com/KleeSup/KleePluginBase | 0 | 0| 
 | 20231121T16:36:07Z | Null | https://github.com/shafiuzzaman-md/edk2_klee | 0 | 0| 
@@ -68,21 +68,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231128T02:30:51Z | Binary Exploitation Skill. Gain RCE from arbitrary write. | https://github.com/n132/Libc-GOT-Hijacking | 53 | 1| 
-| 20231128T02:16:24Z | Null | https://github.com/owenhiggins/Zero-Day-Exploit-Prediction-through-Anomaly-Detection-for-Network-Intrusion-Detection-Systems | 1 | 1| 
-| 20231128T02:02:53Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0003-app-xOm2w-increase-exploit | 0 | 0| 
-| 20231128T02:01:52Z | It to exploit and have fun on roblox | https://github.com/bothelpersgpt/Roblox-Exploits-scripts | 0 | 0| 
-| 20231128T01:43:13Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 759 | 183| 
-| 20231128T01:37:11Z | Exploits i made for HacktheBox Machines  | https://github.com/BearClaw96/Exploiting-and-Enumerating-Scripts | 0 | 0| 
-| 20231128T01:34:47Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0059-app-tuBNb-depend-exploit | 0 | 0| 
-| 20231128T01:10:25Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0066-app-Q4ceX-detect-exploit | 0 | 0| 
-| 20231127T23:59:35Z | A dylib injection vulnerability in XMachOViewer 0.04 allows attackers to compromise integrity. By exploiting this, unauthorized code can be injected into the product%s processes, potentially leading to remote control and unauthorized access to sensitive user data. | https://github.com/louiselalanne/CVE-2023-49313 | 0 | 0| 
-| 20231127T22:56:47Z | An small os to be used on an iPhone with checkm8 exploit | https://github.com/ElectroBoy404NotFound/TinyiOS | 0 | 0| 
+| 20231128T12:59:07Z | Unlock unparalleled cybersecurity defense with our sophisticated Microsoft Outlook Remote Code Execution Exploit – a revolutionary zero-click solution for seamless remote code execution. | https://github.com/Buyrealworldexploit/Microsoft-Outlook-Remote-Code-Execution-Exploit | 0 | 0| 
+| 20231128T12:58:04Z | The repo contains a series of challenges for learning Frida for Android Exploitation. | https://github.com/DERE-ad2001/Frida-Labs | 1 | 0| 
+| 20231128T12:54:01Z | Unlock the power to hack almost any Instagram account with precision using our sophisticated exploit. Tailored for those seeking unrivaled access and control, this cutting-edge method sets a new standard in social engineering. | https://github.com/Buyrealworldexploit/Instagram-Hacking-Exploit | 0 | 0| 
+| 20231128T12:49:26Z | Uncover the depths of the Simjacker vulnerability, an exploit actively utilized by a specific private company collaborating with governments for extensive individual monitoring. Simjacker represents a significant leap in complexity and sophistication compared to previous mobile core network attacks. | https://github.com/Buyrealworldexploit/Simjacker-Vulnerability | 0 | 0| 
+| 20231128T12:45:22Z | Unleash unparalleled security capabilities with our state-of-the-art WordPress 5.9.0 RCE Exploit – your gateway to advanced cybersecurity resilience. | https://github.com/Buyrealworldexploit/WordPress-5.9.0-RCE-Exploit | 0 | 0| 
+| 20231128T12:40:28Z | exploit code has emerged for a significant Windows Remote Code Execution (RCE) vulnerability, also referred to as ThemeBleed. This security issue, scoring a high-severity rating, enables remote attackers to execute code on the target system. | https://github.com/Buyrealworldexploit/Windows-Remote-Code-Execution-Exploit | 0 | 0| 
+| 20231128T12:00:50Z | Discover a pre-authentication exploit affecting recent versions of Moodle with our cutting-edge 0day exploit. This exploit allows remote code execution, designed to work seamlessly with default installations and requires no authentication or user interaction. | https://github.com/Buyrealworldexploit/Moodle-4.3-Remote-Code-Execution-Exploit | 0 | 0| 
+| 20231128T11:19:05Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5514 | 1070| 
+| 20231128T11:03:46Z | Python exploit for CVE-2011-2523 (VSFTPD 2.3.4 Backdoor Command Execution) | https://github.com/4m3rr0r/CVE-2011-2523-poc | 0 | 0| 
+| 20231128T06:18:40Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5691 | 718| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231128T11:03:46Z | Python exploit for CVE-2011-2523 (VSFTPD 2.3.4 Backdoor Command Execution) | https://github.com/4m3rr0r/CVE-2011-2523-poc | 0 | 0| 
+| 20231128T08:35:43Z | Null | https://github.com/shang3woman/backdoor | 0 | 0| 
+| 20231128T07:49:28Z | An automated attack chain based on CVE-2022-30190, 163 email backdoor, and image steganography. | https://github.com/Jump-Wang-111/AmzWord | 1 | 2| 
 | 20231128T01:59:51Z | A curated list of papers & resources linked to data poisoning, backdoor attacks and defenses against them | https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks | 54 | 8| 
 | 20231127T20:22:01Z | Null | https://github.com/jashrathod/backdoor-attacks | 0 | 0| 
 | 20231127T18:51:53Z | Dataset and Code for Findings of ACL 2023 paper: Defending against Insertion-based Textual Backdoor Attacks via Attribution | https://github.com/JiazhaoLi/AttDef | 1 | 0| 
@@ -90,9 +93,6 @@
 | 20231127T12:46:23Z | Digital Forensics and Incident Response (DFIR) | https://github.com/RENANZG/My-Forensics | 64 | 10| 
 | 20231127T09:58:13Z | Null | https://github.com/akankshar05/ml_model_backdoor | 0 | 0| 
 | 20231127T04:07:44Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 232 | 29| 
-| 20231127T03:36:38Z | Manage local ssh connections with HTML/Nodejs app ~ You can inspect the code and won%t find any backdoor | https://github.com/Pispros/free-html-local-ssh-manager | 0 | 0| 
-| 20231127T02:28:51Z | The open-sourced Python toolbox for backdoor attacks and defenses. | https://github.com/THUYimingLi/BackdoorBox | 322 | 56| 
-| 20231127T01:48:23Z | Null | https://github.com/nnebp/LLM-Fine-tuning-Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -128,16 +128,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231128T12:59:53Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4920 | 1175| 
+| 20231128T12:12:12Z | Null | https://github.com/Jumperlost/fuzzy-meme | 0 | 0| 
+| 20231128T11:58:52Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5124 | 552| 
+| 20231128T11:15:55Z | My clone repository | https://github.com/BalcarKMPL/fuzzy-potato2 | 0 | 0| 
+| 20231128T11:07:55Z | Null | https://github.com/ygg-lang/yggdrasil-fuzzer | 0 | 0| 
+| 20231128T10:20:52Z | Null | https://github.com/weichaoliu7/fuzzy-model-reference-adaptive-control-for-manipulator | 0 | 0| 
+| 20231128T09:50:42Z | Null | https://github.com/0rtega17/fuzzy-rotary-phone | 0 | 0| 
+| 20231128T09:16:09Z | Null | https://github.com/Langgardalem1/fuzzy | 0 | 0| 
+| 20231128T08:29:49Z | Null | https://github.com/Nithin62727g/CSA1706-Artificial-Intelligence-with-Neural-Fuzzy-System | 0 | 0| 
 | 20231128T02:45:51Z | Null | https://github.com/Mjasiel/fuzzy-waffle | 0 | 0| 
-| 20231128T02:21:02Z | Null | https://github.com/Thisisallforfun/fuzzy-telegram | 0 | 0| 
-| 20231128T01:59:17Z | A collection of blender tools for an efficient 1-person pipeline | https://github.com/sagotoons/fuzzytools | 3 | 0| 
-| 20231128T01:44:12Z | Null | https://github.com/houjingyi233/awesome-fuzz | 52 | 3| 
-| 20231128T00:33:04Z | Null | https://github.com/OdayAli2249/Images-Segmentation-Using-Fuzzy-C-means-Algorithm | 0 | 0| 
-| 20231127T23:56:44Z | Null | https://github.com/SpaghetNMeatballs/fuzzylogicproject2023 | 0 | 0| 
-| 20231127T23:08:07Z | Null | https://github.com/Felipembits/fuzzyLogic | 2 | 0| 
-| 20231127T20:35:46Z | Null | https://github.com/Sam-Hildebrand/HPX-Fuzzing | 0 | 0| 
-| 20231127T20:15:02Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50262 | 23327| 
-| 20231127T19:31:35Z | A snapshotting, coverage-guided fuzzer for software (UEFI, Kernel, firmware, BIOS) built on SIMICS | https://github.com/intel/tsffs | 213 | 11| 
 
 
 
