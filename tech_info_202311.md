@@ -68,8 +68,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231128T01:37:11Z | Exploits i made for HacktheBox Machines  | https://github.com/BearClaw96/Exploiting-and-Enumerating-Scripts | 0 | 0| 
+| 20231128T01:34:47Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0059-app-tuBNb-depend-exploit | 0 | 0| 
 | 20231128T01:10:25Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0066-app-Q4ceX-detect-exploit | 0 | 0| 
-| 20231128T01:07:25Z | Exploits i made for HacktheBox Machines  | https://github.com/BearClaw96/Exploiting-and-Enumerating-Scripts | 0 | 0| 
 | 20231127T23:59:35Z | A dylib injection vulnerability in XMachOViewer 0.04 allows attackers to compromise integrity. By exploiting this, unauthorized code can be injected into the product%s processes, potentially leading to remote control and unauthorized access to sensitive user data. | https://github.com/louiselalanne/CVE-2023-49313 | 0 | 0| 
 | 20231127T22:56:47Z | An small os to be used on an iPhone with checkm8 exploit | https://github.com/ElectroBoy404NotFound/TinyiOS | 0 | 0| 
 | 20231127T22:47:42Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5511 | 1070| 
@@ -77,7 +78,6 @@
 | 20231127T22:34:32Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-sg | 1 | 0| 
 | 20231127T22:33:40Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-sg | 1 | 0| 
 | 20231127T21:33:38Z | Project Sloth UI (But not exploitable) | https://github.com/KamuiKody/k-ui | 3 | 0| 
-| 20231127T16:49:32Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 4875 | 632| 
 
 
 # backdoor on Github 推荐
@@ -133,11 +133,11 @@
 | 20231127T23:08:07Z | Null | https://github.com/Felipembits/fuzzyLogic | 2 | 0| 
 | 20231127T20:35:46Z | Null | https://github.com/Sam-Hildebrand/HPX-Fuzzing | 0 | 0| 
 | 20231127T20:15:02Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50262 | 23327| 
+| 20231127T19:31:35Z | A snapshotting, coverage-guided fuzzer for software (UEFI, Kernel, firmware, BIOS) built on SIMICS | https://github.com/intel/tsffs | 213 | 11| 
 | 20231127T16:06:23Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 109 | 14| 
 | 20231127T13:57:57Z | vim などにある fuzzy search を実現するために検索ワードを強制的に fuzzy な正規表現に変換して検索する VSCODE Extension です | https://github.com/hatappo/fuzzy-fuzzy | 0 | 0| 
 | 20231127T13:54:53Z | A tool for running Native Go Fuzz tests in CI pipelines | https://github.com/form3tech-oss/go-ci-fuzz | 0 | 0| 
 | 20231127T13:43:16Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4919 | 1173| 
-| 20231127T12:58:19Z | Null | https://github.com/NVHMH/Self_Balancing_Robot_Fuzzy | 1 | 0| 
 
 
 
