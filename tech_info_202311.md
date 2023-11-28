@@ -128,6 +128,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231128T02:45:51Z | Null | https://github.com/Mjasiel/fuzzy-waffle | 0 | 0| 
 | 20231128T02:21:02Z | Null | https://github.com/Thisisallforfun/fuzzy-telegram | 0 | 0| 
 | 20231128T01:59:17Z | A collection of blender tools for an efficient 1-person pipeline | https://github.com/sagotoons/fuzzytools | 3 | 0| 
 | 20231128T01:44:12Z | Null | https://github.com/houjingyi233/awesome-fuzz | 52 | 3| 
@@ -137,7 +138,6 @@
 | 20231127T20:35:46Z | Null | https://github.com/Sam-Hildebrand/HPX-Fuzzing | 0 | 0| 
 | 20231127T20:15:02Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50262 | 23327| 
 | 20231127T19:31:35Z | A snapshotting, coverage-guided fuzzer for software (UEFI, Kernel, firmware, BIOS) built on SIMICS | https://github.com/intel/tsffs | 213 | 11| 
-| 20231127T16:06:23Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 109 | 14| 
 
 
 
