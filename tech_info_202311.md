@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231128T01:43:13Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 759 | 183| 
 | 20231128T01:37:11Z | Exploits i made for HacktheBox Machines  | https://github.com/BearClaw96/Exploiting-and-Enumerating-Scripts | 0 | 0| 
 | 20231128T01:34:47Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0059-app-tuBNb-depend-exploit | 0 | 0| 
 | 20231128T01:10:25Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0066-app-Q4ceX-detect-exploit | 0 | 0| 
@@ -77,7 +78,6 @@
 | 20231127T22:35:44Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-s | 1 | 0| 
 | 20231127T22:34:32Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-sg | 1 | 0| 
 | 20231127T22:33:40Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-sg | 1 | 0| 
-| 20231127T21:33:38Z | Project Sloth UI (But not exploitable) | https://github.com/KamuiKody/k-ui | 3 | 0| 
 
 
 # backdoor on Github 推荐
