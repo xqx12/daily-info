@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231128T13:50:52Z | GitOps Repository | https://github.com/redhat-appstudio-qe/test-app-zdcw-YCUxW-exploit-escape | 0 | 0| 
 | 20231128T13:49:29Z | GitOps Repository | https://github.com/redhat-appstudio-qe/integ-app-gfrr-d-Z-v-exploit-survive | 0 | 0| 
 | 20231128T13:37:34Z | SharkXploit Wordpress Auto Exploit is a great tools for search vulnerability in wordpress | https://github.com/InMyMine7/SharkXploit | 0 | 0| 
 | 20231128T13:33:21Z | The repo contains a series of challenges for learning Frida for Android Exploitation. | https://github.com/DERE-ad2001/Frida-Labs | 2 | 0| 
@@ -77,7 +78,6 @@
 | 20231128T12:49:26Z | Uncover the depths of the Simjacker vulnerability, an exploit actively utilized by a specific private company collaborating with governments for extensive individual monitoring. Simjacker represents a significant leap in complexity and sophistication compared to previous mobile core network attacks. | https://github.com/Buyrealworldexploit/Simjacker-Vulnerability | 0 | 0| 
 | 20231128T12:45:22Z | Unleash unparalleled security capabilities with our state-of-the-art WordPress 5.9.0 RCE Exploit – your gateway to advanced cybersecurity resilience. | https://github.com/Buyrealworldexploit/WordPress-5.9.0-RCE-Exploit | 0 | 0| 
 | 20231128T12:40:28Z | exploit code has emerged for a significant Windows Remote Code Execution (RCE) vulnerability, also referred to as ThemeBleed. This security issue, scoring a high-severity rating, enables remote attackers to execute code on the target system. | https://github.com/Buyrealworldexploit/Windows-Remote-Code-Execution-Exploit | 0 | 0| 
-| 20231128T11:19:05Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5514 | 1070| 
 
 
 # backdoor on Github 推荐
