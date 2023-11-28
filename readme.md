@@ -52,10 +52,10 @@
 | 20231127T22:35:44Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-s | 1 | 0| 
 | 20231127T22:34:32Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-sg | 1 | 0| 
 | 20231127T22:33:40Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-sg | 1 | 0| 
+| 20231127T21:33:38Z | Project Sloth UI (But not exploitable) | https://github.com/KamuiKody/k-ui | 3 | 0| 
 | 20231127T16:49:32Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 4875 | 632| 
 | 20231127T13:40:09Z | Java libraries for working with available vulnerability data sources (GitHub Security Advisories, NVD, EPSS, CISA Known Exploited Vulnerabilities, etc.) | https://github.com/jeremylong/Open-Vulnerability-Project | 50 | 12| 
 | 20231127T13:30:04Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5644 | 766| 
-| 20231127T11:24:59Z | Exploit code on various platforms | https://github.com/ocxh/exploit_code | 0 | 0| 
 
 
 # backdoor on Github 推荐
