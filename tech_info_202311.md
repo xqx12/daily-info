@@ -128,6 +128,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231128T13:03:30Z | Null | https://github.com/rogall-e/fuzzy-octo-chainsaw | 0 | 0| 
 | 20231128T12:59:53Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4920 | 1175| 
 | 20231128T12:12:12Z | Null | https://github.com/Jumperlost/fuzzy-meme | 0 | 0| 
 | 20231128T11:58:52Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5124 | 552| 
@@ -137,7 +138,6 @@
 | 20231128T09:50:42Z | Null | https://github.com/0rtega17/fuzzy-rotary-phone | 0 | 0| 
 | 20231128T09:16:09Z | Null | https://github.com/Langgardalem1/fuzzy | 0 | 0| 
 | 20231128T08:29:49Z | Null | https://github.com/Nithin62727g/CSA1706-Artificial-Intelligence-with-Neural-Fuzzy-System | 0 | 0| 
-| 20231128T02:45:51Z | Null | https://github.com/Mjasiel/fuzzy-waffle | 0 | 0| 
 
 
 
