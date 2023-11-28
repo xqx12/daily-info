@@ -60,7 +60,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231127T22:14:23Z | A curated list of papers & resources linked to data poisoning, backdoor attacks and defenses against them | https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks | 53 | 8| 
 | 20231127T20:22:01Z | Null | https://github.com/jashrathod/backdoor-attacks | 0 | 0| 
 | 20231127T18:51:53Z | Dataset and Code for Findings of ACL 2023 paper: Defending against Insertion-based Textual Backdoor Attacks via Attribution | https://github.com/JiazhaoLi/AttDef | 1 | 0| 
 | 20231127T14:44:11Z | Fast integration of backdoor attacks in machine learning and federated learning. | https://github.com/mtuann/fedlearn-backdoor-attacks | 31 | 0| 
