@@ -68,6 +68,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231128T02:16:24Z | Null | https://github.com/owenhiggins/Zero-Day-Exploit-Prediction-through-Anomaly-Detection-for-Network-Intrusion-Detection-Systems | 1 | 1| 
 | 20231128T02:13:09Z | Binary Exploitation Skill. Gain RCE from arbitrary write. | https://github.com/n132/Libc-GOT-Hijacking | 52 | 1| 
 | 20231128T02:02:53Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0003-app-xOm2w-increase-exploit | 0 | 0| 
 | 20231128T02:01:52Z | It to exploit and have fun on roblox | https://github.com/bothelpersgpt/Roblox-Exploits-scripts | 0 | 0| 
@@ -77,7 +78,6 @@
 | 20231128T01:10:25Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0066-app-Q4ceX-detect-exploit | 0 | 0| 
 | 20231127T23:59:35Z | A dylib injection vulnerability in XMachOViewer 0.04 allows attackers to compromise integrity. By exploiting this, unauthorized code can be injected into the product%s processes, potentially leading to remote control and unauthorized access to sensitive user data. | https://github.com/louiselalanne/CVE-2023-49313 | 0 | 0| 
 | 20231127T22:56:47Z | An small os to be used on an iPhone with checkm8 exploit | https://github.com/ElectroBoy404NotFound/TinyiOS | 0 | 0| 
-| 20231127T22:47:42Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5511 | 1070| 
 
 
 # backdoor on Github 推荐
