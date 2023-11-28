@@ -68,12 +68,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231128T02:13:09Z | Binary Exploitation Skill. Gain RCE from arbitrary write. | https://github.com/n132/Libc-GOT-Hijacking | 52 | 1| 
 | 20231128T02:02:53Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0003-app-xOm2w-increase-exploit | 0 | 0| 
 | 20231128T02:01:52Z | It to exploit and have fun on roblox | https://github.com/bothelpersgpt/Roblox-Exploits-scripts | 0 | 0| 
 | 20231128T01:43:13Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 759 | 183| 
 | 20231128T01:37:11Z | Exploits i made for HacktheBox Machines  | https://github.com/BearClaw96/Exploiting-and-Enumerating-Scripts | 0 | 0| 
 | 20231128T01:34:47Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0059-app-tuBNb-depend-exploit | 0 | 0| 
-| 20231128T01:22:08Z | Binary Exploitation Skill. Gain RCE from arbitrary write. | https://github.com/n132/Libc-GOT-Hijacking | 51 | 1| 
 | 20231128T01:10:25Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0066-app-Q4ceX-detect-exploit | 0 | 0| 
 | 20231127T23:59:35Z | A dylib injection vulnerability in XMachOViewer 0.04 allows attackers to compromise integrity. By exploiting this, unauthorized code can be injected into the product%s processes, potentially leading to remote control and unauthorized access to sensitive user data. | https://github.com/louiselalanne/CVE-2023-49313 | 0 | 0| 
 | 20231127T22:56:47Z | An small os to be used on an iPhone with checkm8 exploit | https://github.com/ElectroBoy404NotFound/TinyiOS | 0 | 0| 
