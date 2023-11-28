@@ -68,9 +68,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231128T13:33:21Z | The repo contains a series of challenges for learning Frida for Android Exploitation. | https://github.com/DERE-ad2001/Frida-Labs | 2 | 0| 
 | 20231128T13:04:45Z | Discover a pre-authentication exploit affecting recent versions of Moodle with our cutting-edge 0day exploit. This exploit allows remote code execution, designed to work seamlessly with default installations and requires no authentication or user interaction. | https://github.com/Buyrealworldexploit/Moodle-4.3-Remote-Code-Execution-Exploit | 0 | 0| 
 | 20231128T12:59:07Z | Unlock unparalleled cybersecurity defense with our sophisticated Microsoft Outlook Remote Code Execution Exploit – a revolutionary zero-click solution for seamless remote code execution. | https://github.com/Buyrealworldexploit/Microsoft-Outlook-Remote-Code-Execution-Exploit | 0 | 0| 
-| 20231128T12:58:04Z | The repo contains a series of challenges for learning Frida for Android Exploitation. | https://github.com/DERE-ad2001/Frida-Labs | 1 | 0| 
 | 20231128T12:54:01Z | Unlock the power to hack almost any Instagram account with precision using our sophisticated exploit. Tailored for those seeking unrivaled access and control, this cutting-edge method sets a new standard in social engineering. | https://github.com/Buyrealworldexploit/Instagram-Hacking-Exploit | 0 | 0| 
 | 20231128T12:49:26Z | Uncover the depths of the Simjacker vulnerability, an exploit actively utilized by a specific private company collaborating with governments for extensive individual monitoring. Simjacker represents a significant leap in complexity and sophistication compared to previous mobile core network attacks. | https://github.com/Buyrealworldexploit/Simjacker-Vulnerability | 0 | 0| 
 | 20231128T12:45:22Z | Unleash unparalleled security capabilities with our state-of-the-art WordPress 5.9.0 RCE Exploit – your gateway to advanced cybersecurity resilience. | https://github.com/Buyrealworldexploit/WordPress-5.9.0-RCE-Exploit | 0 | 0| 
