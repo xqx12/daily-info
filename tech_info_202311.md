@@ -68,8 +68,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231128T02:30:51Z | Binary Exploitation Skill. Gain RCE from arbitrary write. | https://github.com/n132/Libc-GOT-Hijacking | 53 | 1| 
 | 20231128T02:16:24Z | Null | https://github.com/owenhiggins/Zero-Day-Exploit-Prediction-through-Anomaly-Detection-for-Network-Intrusion-Detection-Systems | 1 | 1| 
-| 20231128T02:13:09Z | Binary Exploitation Skill. Gain RCE from arbitrary write. | https://github.com/n132/Libc-GOT-Hijacking | 52 | 1| 
 | 20231128T02:02:53Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0003-app-xOm2w-increase-exploit | 0 | 0| 
 | 20231128T02:01:52Z | It to exploit and have fun on roblox | https://github.com/bothelpersgpt/Roblox-Exploits-scripts | 0 | 0| 
 | 20231128T01:43:13Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 759 | 183| 
