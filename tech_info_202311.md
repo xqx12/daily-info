@@ -69,6 +69,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231129T01:14:47Z | GitOps Repository | https://github.com/redhat-appstudio-qe/test-app-gips-Uzwcq-should-exploit | 0 | 0| 
 | 20231129T01:07:12Z | 🔓A curated list of modern Android exploitation conference talks.  | https://github.com/actuator/Android-Security-Exploits-YouTube-Curriculum | 319 | 24| 
 | 20231129T00:35:33Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-si | 1 | 0| 
 | 20231129T00:34:52Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-si | 1 | 0| 
@@ -78,7 +79,6 @@
 | 20231128T23:48:40Z | Binary Exploitation Skill. Gain RCE from arbitrary write. | https://github.com/n132/Libc-GOT-Hijacking | 68 | 1| 
 | 20231128T15:38:22Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5515 | 1070| 
 | 20231128T13:50:52Z | GitOps Repository | https://github.com/redhat-appstudio-qe/test-app-zdcw-YCUxW-exploit-escape | 0 | 0| 
-| 20231128T13:49:29Z | GitOps Repository | https://github.com/redhat-appstudio-qe/integ-app-gfrr-d-Z-v-exploit-survive | 0 | 0| 
 
 
 # backdoor on Github 推荐
