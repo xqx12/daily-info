@@ -69,8 +69,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231129T13:50:38Z | Amnesiac is a post-exploitation framework entirely written in PowerShell and designed to assist with lateral movement within Active Directory environments | https://github.com/Leo4j/Amnesiac | 65 | 11| 
 | 20231129T13:42:57Z | Assembly examples and exploitation of software vulnerable to buffer overflow  | https://github.com/ntLocalSystem/Buffer-Overflow-Assembly | 0 | 0| 
-| 20231129T13:11:13Z | Amnesiac is a post-exploitation framework entirely written in PowerShell and designed to assist with lateral movement within Active Directory environments | https://github.com/Leo4j/Amnesiac | 64 | 11| 
 | 20231129T13:02:35Z | Learning Exploit Development for Web. POCs for CVEs which was assigned to me. | https://github.com/1337-L3V1ATH0N/Exploit_Development | 0 | 0| 
 | 20231129T13:01:47Z | Null | https://github.com/BitWalls-Sec/exploit | 0 | 0| 
 | 20231129T12:46:35Z | Null | https://github.com/aqyuki/password-exploiter | 0 | 0| 
