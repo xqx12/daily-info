@@ -56,6 +56,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231129T13:57:27Z | Null | https://github.com/milto-rgb/S2E3 | 0 | 0| 
 | 20231128T17:38:19Z | Null | https://github.com/milto-rgb/S2E2 | 0 | 0| 
 | 20231127T01:17:28Z | Spacecraft Simulation Environment Core codes | https://github.com/ut-issl/s2e-core | 40 | 15| 
 | 20231118T22:09:35Z | Null | https://github.com/NereaRva/S2ejercicio2 | 0 | 0| 
@@ -69,8 +70,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231129T13:57:59Z | This is An Offensive Hacking Tool which can be used by hackers and for penetration testing purposes. Hack Responsibly!!!!!!! | https://github.com/BitWalls-Sec/exploit | 0 | 0| 
+| 20231129T13:57:03Z | ✨ Cutting-edge, high-quality hacks crafted by seasoned developers  🎮 A diverse range of game hacks and cheats with exceptional features  🕐 Round-the-clock customer support  🛡️ Shielding against anti-cheat software  🔐 Utmost security and undetectability | https://github.com/Jh4Hc/ExploitX-HWID-Spoofer-and-Cheat | 0 | 0| 
 | 20231129T13:56:29Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5626 | 764| 
-| 20231129T13:53:40Z | This is An Offensive Hacking Tool which can be used by hackers and for penetration testing purposes. Hack Responsibly!!!!!!! | https://github.com/BitWalls-Sec/exploit | 0 | 0| 
 | 20231129T13:50:38Z | Amnesiac is a post-exploitation framework entirely written in PowerShell and designed to assist with lateral movement within Active Directory environments | https://github.com/Leo4j/Amnesiac | 65 | 11| 
 | 20231129T13:42:57Z | Assembly examples and exploitation of software vulnerable to buffer overflow  | https://github.com/ntLocalSystem/Buffer-Overflow-Assembly | 0 | 0| 
 | 20231129T13:02:35Z | Learning Exploit Development for Web. POCs for CVEs which was assigned to me. | https://github.com/1337-L3V1ATH0N/Exploit_Development | 0 | 0| 
@@ -78,7 +80,6 @@
 | 20231129T11:20:04Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5515 | 1070| 
 | 20231129T10:58:45Z | interesting Mod menu on Roblox ;) no abuse plz no for toxic people | https://github.com/Roblox4dev/SynapseX- | 1 | 0| 
 | 20231129T10:54:01Z | Null | https://github.com/tienpa99/exploitpoc | 0 | 0| 
-| 20231129T06:52:06Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 758 | 183| 
 
 
 # backdoor on Github 推荐
