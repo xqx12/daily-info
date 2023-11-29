@@ -26,25 +26,25 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231129T10:22:23Z | CVE-2023-36025 | Quick test for CVE-2023-26025 behaviours | https://github.com/ka7ana/CVE-2023-36025 | | 
+| 20231129T09:54:41Z | CVE-2023-4357 | poc | https://github.com/sunu11/chrome-CVE-2023-4357 | | 
+| 20231129T08:33:07Z | CVE-2023-36025 | test repo for CVE-2023-36025 | https://github.com/J466Y/test_CVE-2023-36025 | | 
+| 20231129T06:50:59Z | CVE-2023-20921 | Null | https://github.com/Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921 | | 
+| 20231129T06:25:25Z | CVE-2023-20944 | Null | https://github.com/nidhi7598/frameworks_base_AOSP_06_r22_core_CVE-2023-20944 | | 
+| 20231129T05:54:39Z | 未知编号 | Null | https://github.com/maixuany/detect_CVE_2021_31166 | | 
 | 20231129T01:37:35Z | cve-2023-22515 | Confluence broken access control to code execution | https://github.com/INTfinityConsulting/cve-2023-22515 | | 
 | 20231128T20:05:44Z | CVE-2023-6289 | Swift Performance Lite <= 2.3.6.14 - Missing Authorization to Unauthenticated Settings Export | https://github.com/RandomRobbieBF/CVE-2023-6289 | | 
 | 20231128T16:13:36Z | CVE-2022-26923 | A proof of concept exploiting CVE-2022-26923. | https://github.com/Gh-Badr/CVE-2022-26923 | | 
 | 20231128T16:09:42Z | CVE-2023-23752 | CVE-2023-23752  | https://github.com/Youns92/Joomla-v4.2.8---CVE-2023-23752 | | 
-| 20231128T14:56:17Z | CVE-2023-41991 | Null | https://github.com/ZZY3312/CVE-2023-41991 | | 
-| 20231128T10:39:20Z | CVE-2023-49314 | Asana Desktop 2.1.0 on macOS allows code injection because of specific Electron Fuses. There is inadequate protection against code injection through settings such as RunAsNode and  enableNodeCliInspectArguments, and thus r3ggi/electroniz3r can be used to perform an attack. | https://github.com/louiselalanne/CVE-2023-49314 | | 
-| 20231128T10:35:35Z | CVE-2023-36025 | test repo for CVE-2023-36025 | https://github.com/J466Y/test_CVE-2023-36025 | | 
-| 20231128T10:06:33Z | CVE-2023-25157 | Geoserver SQL Injection Exploit | https://github.com/dr-cable-tv/Geoserver-CVE-2023-25157 | | 
-| 20231128T05:41:02Z | CVE-2023-22518 | Confluence CVE-2023-22518 | https://github.com/C1ph3rX13/CVE-2023-22518 | | 
-| 20231128T00:55:24Z | CVE-2023-41993 | Null | https://github.com/ZZY3312/CVE-2023-41993 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231129T02:34:52Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14492 | 435| 
+| 20231129T12:53:42Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14497 | 435| 
+| 20231129T12:04:30Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2363 | 640| 
 | 20231128T17:55:10Z | Witch-KLEE - A KLEE-based error witness checker | https://github.com/ayazip/witch-klee | 5 | 0| 
 | 20231128T14:25:38Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 287 | 54| 
-| 20231128T12:59:18Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2362 | 640| 
 | 20231125T05:00:00Z | 112 Project , Python Video Game | https://github.com/mjeong246/Klee-s-Kitchen | 0 | 0| 
 | 20231124T09:57:51Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 33 | 2| 
 | 20231124T09:30:12Z | A utility library for spigot plugin development | https://github.com/KleeSup/KleePluginBase | 0 | 0| 
@@ -69,21 +69,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231129T12:58:55Z | Learning Exploit Development for Web. POCs for CVEs which was assigned to me. | https://github.com/1337-L3V1ATH0N/Exploit_Development | 0 | 0| 
+| 20231129T12:49:12Z | Amnesiac is a post-exploitation framework entirely written in PowerShell and designed to assist with lateral movement within Active Directory environments | https://github.com/Leo4j/Amnesiac | 63 | 11| 
+| 20231129T12:46:35Z | Null | https://github.com/aqyuki/password-exploiter | 0 | 0| 
+| 20231129T11:51:16Z | Null | https://github.com/BitWalls-Sec/exploit | 0 | 0| 
+| 20231129T11:20:04Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5515 | 1070| 
+| 20231129T10:58:45Z | interesting Mod menu on Roblox ;) no abuse plz no for toxic people | https://github.com/Roblox4dev/SynapseX- | 1 | 0| 
+| 20231129T10:54:01Z | Null | https://github.com/tienpa99/exploitpoc | 0 | 0| 
+| 20231129T06:52:06Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 758 | 183| 
 | 20231129T02:08:57Z | 🔓A curated list of modern Android exploitation conference talks.  | https://github.com/actuator/Android-Security-Exploits-YouTube-Curriculum | 319 | 24| 
 | 20231129T01:22:08Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5627 | 764| 
-| 20231129T01:14:47Z | GitOps Repository | https://github.com/redhat-appstudio-qe/test-app-gips-Uzwcq-should-exploit | 0 | 0| 
-| 20231129T00:35:33Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-si | 1 | 0| 
-| 20231129T00:34:52Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-si | 1 | 0| 
-| 20231129T00:33:46Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-si | 1 | 0| 
-| 20231129T00:33:06Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-si | 1 | 0| 
-| 20231128T23:56:09Z | going to store some solutions to ctfs in nightmare | https://github.com/RootY0U/ctf-exploits | 0 | 0| 
-| 20231128T23:48:40Z | Binary Exploitation Skill. Gain RCE from arbitrary write. | https://github.com/n132/Libc-GOT-Hijacking | 68 | 1| 
-| 20231128T15:38:22Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5515 | 1070| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231129T09:48:32Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 235 | 29| 
+| 20231129T09:02:20Z | Multi-client Cross-platform Python Backdoor/Reverse Shell/RAT with AES Encryption | https://github.com/Y4hL/PyDoor | 70 | 28| 
 | 20231128T19:34:25Z | access for my tools | https://github.com/mrbla4ck/BackdoorAccess | 0 | 0| 
 | 20231128T11:03:46Z | Python exploit for CVE-2011-2523 (VSFTPD 2.3.4 Backdoor Command Execution) | https://github.com/4m3rr0r/CVE-2011-2523-poc | 0 | 0| 
 | 20231128T08:35:43Z | Null | https://github.com/shang3woman/backdoor | 0 | 0| 
@@ -92,8 +94,6 @@
 | 20231127T20:22:01Z | Null | https://github.com/jashrathod/backdoor-attacks | 0 | 0| 
 | 20231127T18:51:53Z | Dataset and Code for Findings of ACL 2023 paper: Defending against Insertion-based Textual Backdoor Attacks via Attribution | https://github.com/JiazhaoLi/AttDef | 1 | 0| 
 | 20231127T14:44:11Z | Fast integration of backdoor attacks in machine learning and federated learning. | https://github.com/mtuann/fedlearn-backdoor-attacks | 31 | 0| 
-| 20231127T12:46:23Z | Digital Forensics and Incident Response (DFIR) | https://github.com/RENANZG/My-Forensics | 64 | 10| 
-| 20231127T09:58:13Z | Null | https://github.com/akankshar05/ml_model_backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -114,31 +114,31 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231129T08:49:53Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 72 | 8| 
+| 20231129T07:22:35Z | This repository contains the code that implements the Distributed and Oclussion-Robust Patch (DorPatch) described in our paper %DorPatch: Distributed and Occlusion-Robust adversarial Patch to Evade Certifiable Defenses% published at NDSS 2024. | https://github.com/CGCL-codes/DorPatch | 0 | 0| 
+| 20231129T06:35:53Z | Null | https://github.com/userserge/NDSS | 0 | 0| 
+| 20231129T03:03:00Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 95 | 4| 
 | 20231127T06:32:18Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 33 | 2| 
-| 20231127T02:50:12Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 94 | 4| 
 | 20231126T04:49:27Z | Null | https://github.com/Edison9419/ndss | 0 | 0| 
 | 20231124T08:35:03Z | (NDSS 2024) Optimizing Decompiler Output with LLM | https://github.com/PeiweiHu/DeGPT | 1 | 0| 
 | 20231124T04:16:56Z | Source code for our NDSS%18 paper %Automated Website Fingerprinting through Deep Learning% | https://github.com/DistriNet/DLWF | 85 | 39| 
 | 20231123T11:31:09Z | Source code for the paper %SLMIA-SR: Speaker-Level Membership Inference Attacks against Speaker Recognition Systems% accepted by NDSS 2024 | https://github.com/S3L-official/SLMIA-SR | 3 | 0| 
 | 20231121T10:18:55Z | Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation (NDSS%23). | https://github.com/dongtsi/OWAD | 34 | 6| 
-| 20231119T16:49:14Z | Corresponding code for the paper: %Sneaky Spikes: Uncovering Stealthy Backdoor Attacks in Spiking Neural Networks with Neuromorphic Data%, at Network and Distributed System Security (NDSS). | https://github.com/GorkaAbad/Sneaky-Spikes | 0 | 0| 
-| 20231119T10:19:43Z | This is the source code for SSL-WM. Our paper is accepted by the Network and Distributed System Security Symposium (NDSS) 2024. | https://github.com/lvpeizhuo/SSL-WM | 0 | 0| 
-| 20231119T08:00:19Z | NDSS 2024 - CamPro: Camera-based Anti-Facial Recognition | https://github.com/forget2save/CamPro | 0 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231129T11:34:25Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50291 | 23330| 
+| 20231129T10:58:36Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4923 | 1175| 
+| 20231129T10:54:38Z | A comparion of solidity fuzzing tools Foundry and Echidna | https://github.com/devdacian/solidity-fuzzing-comparison | 0 | 0| 
+| 20231129T10:19:08Z | Null | https://github.com/abhilasha-n-satish/Maven-Fuzzy-Factory-SQL-Project | 0 | 0| 
 | 20231129T02:09:20Z | matlabl project | https://github.com/ffifdyop/Fuzzy-control | 0 | 0| 
 | 20231129T02:02:08Z | Fuzzy Logic yang menggunakan metode sugeno untuk pengontrol suhu, level air, dan pompa pada kolam ikan. | https://github.com/Jawaaa/Fuzzy-Logic | 0 | 0| 
 | 20231129T01:13:42Z | block game web server code or somethin | https://github.com/EnjoyYourBan/fuzzy-octo-fishstick | 0 | 0| 
 | 20231129T00:01:48Z | Null | https://github.com/z-yftn/FuzzySets | 0 | 0| 
 | 20231128T23:37:59Z | Null | https://github.com/iSenko1/fuzzy-algorithms | 0 | 0| 
 | 20231128T23:32:15Z | Null | https://github.com/marcsmark/Fuzzy-logic | 0 | 0| 
-| 20231128T22:59:36Z | Null | https://github.com/viceroye/fuzzy-moon | 0 | 0| 
-| 20231128T20:46:27Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9195 | 2051| 
-| 20231128T13:21:41Z | Null | https://github.com/erickfernandox/ssti_fuzzer | 0 | 0| 
-| 20231128T13:03:30Z | Null | https://github.com/rogall-e/fuzzy-octo-chainsaw | 0 | 0| 
 
 
 
