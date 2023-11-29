@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231129T01:34:35Z | cve-2023-22515 | Confluence broken access control to code execution | https://github.com/INTfinityConsulting/cve-2023-22515 | | 
+| 20231129T01:37:35Z | cve-2023-22515 | Confluence broken access control to code execution | https://github.com/INTfinityConsulting/cve-2023-22515 | | 
 | 20231128T20:05:44Z | CVE-2023-6289 | Swift Performance Lite <= 2.3.6.14 - Missing Authorization to Unauthenticated Settings Export | https://github.com/RandomRobbieBF/CVE-2023-6289 | | 
 | 20231128T16:13:36Z | CVE-2022-26923 | A proof of concept exploiting CVE-2022-26923. | https://github.com/Gh-Badr/CVE-2022-26923 | | 
 | 20231128T16:09:42Z | CVE-2023-23752 | CVE-2023-23752  | https://github.com/Youns92/Joomla-v4.2.8---CVE-2023-23752 | | 
