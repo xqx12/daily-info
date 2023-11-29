@@ -69,8 +69,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231129T01:07:12Z | 🔓A curated list of modern Android exploitation conference talks.  | https://github.com/actuator/Android-Security-Exploits-YouTube-Curriculum | 319 | 24| 
 | 20231129T00:35:33Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-si | 1 | 0| 
-| 20231129T00:35:13Z | 🔓A curated list of modern Android exploitation conference talks.  | https://github.com/actuator/Android-Security-Exploits-YouTube-Curriculum | 318 | 24| 
 | 20231129T00:34:52Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-si | 1 | 0| 
 | 20231129T00:33:46Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-si | 1 | 0| 
 | 20231129T00:33:06Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-si | 1 | 0| 
@@ -129,6 +129,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231129T01:13:42Z | block game web server code or somethin | https://github.com/EnjoyYourBan/fuzzy-octo-fishstick | 0 | 0| 
 | 20231129T00:01:48Z | Null | https://github.com/z-yftn/FuzzySets | 0 | 0| 
 | 20231128T23:37:59Z | Null | https://github.com/iSenko1/fuzzy-algorithms | 0 | 0| 
 | 20231128T23:32:15Z | Null | https://github.com/marcsmark/Fuzzy-logic | 0 | 0| 
@@ -138,7 +139,6 @@
 | 20231128T13:03:30Z | Null | https://github.com/rogall-e/fuzzy-octo-chainsaw | 0 | 0| 
 | 20231128T12:59:53Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4920 | 1175| 
 | 20231128T12:12:12Z | Null | https://github.com/Jumperlost/fuzzy-meme | 0 | 0| 
-| 20231128T11:58:52Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5124 | 552| 
 
 
 
