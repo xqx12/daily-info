@@ -69,8 +69,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231129T02:08:57Z | 🔓A curated list of modern Android exploitation conference talks.  | https://github.com/actuator/Android-Security-Exploits-YouTube-Curriculum | 319 | 24| 
 | 20231129T01:14:47Z | GitOps Repository | https://github.com/redhat-appstudio-qe/test-app-gips-Uzwcq-should-exploit | 0 | 0| 
-| 20231129T01:07:12Z | 🔓A curated list of modern Android exploitation conference talks.  | https://github.com/actuator/Android-Security-Exploits-YouTube-Curriculum | 319 | 24| 
 | 20231129T00:35:33Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-si | 1 | 0| 
 | 20231129T00:34:52Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-si | 1 | 0| 
 | 20231129T00:33:46Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-si | 1 | 0| 
@@ -129,6 +129,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231129T02:09:20Z | matlabl project | https://github.com/ffifdyop/Fuzzy-control | 0 | 0| 
 | 20231129T02:02:08Z | Fuzzy Logic yang menggunakan metode sugeno untuk pengontrol suhu, level air, dan pompa pada kolam ikan. | https://github.com/Jawaaa/Fuzzy-Logic | 0 | 0| 
 | 20231129T01:13:42Z | block game web server code or somethin | https://github.com/EnjoyYourBan/fuzzy-octo-fishstick | 0 | 0| 
 | 20231129T00:01:48Z | Null | https://github.com/z-yftn/FuzzySets | 0 | 0| 
@@ -138,7 +139,6 @@
 | 20231128T20:46:27Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9195 | 2051| 
 | 20231128T13:21:41Z | Null | https://github.com/erickfernandox/ssti_fuzzer | 0 | 0| 
 | 20231128T13:03:30Z | Null | https://github.com/rogall-e/fuzzy-octo-chainsaw | 0 | 0| 
-| 20231128T12:59:53Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4920 | 1175| 
 
 
 
