@@ -69,10 +69,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231129T12:58:55Z | Learning Exploit Development for Web. POCs for CVEs which was assigned to me. | https://github.com/1337-L3V1ATH0N/Exploit_Development | 0 | 0| 
+| 20231129T13:02:35Z | Learning Exploit Development for Web. POCs for CVEs which was assigned to me. | https://github.com/1337-L3V1ATH0N/Exploit_Development | 0 | 0| 
+| 20231129T13:01:47Z | Null | https://github.com/BitWalls-Sec/exploit | 0 | 0| 
 | 20231129T12:49:12Z | Amnesiac is a post-exploitation framework entirely written in PowerShell and designed to assist with lateral movement within Active Directory environments | https://github.com/Leo4j/Amnesiac | 63 | 11| 
 | 20231129T12:46:35Z | Null | https://github.com/aqyuki/password-exploiter | 0 | 0| 
-| 20231129T11:51:16Z | Null | https://github.com/BitWalls-Sec/exploit | 0 | 0| 
 | 20231129T11:20:04Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5515 | 1070| 
 | 20231129T10:58:45Z | interesting Mod menu on Roblox ;) no abuse plz no for toxic people | https://github.com/Roblox4dev/SynapseX- | 1 | 0| 
 | 20231129T10:54:01Z | Null | https://github.com/tienpa99/exploitpoc | 0 | 0| 
@@ -99,7 +99,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231128T12:59:18Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2362 | 640| 
+| 20231129T12:04:30Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2363 | 640| 
 | 20231128T12:06:47Z | Symbolic execution engine for .NET Core | https://github.com/VSharp-team/VSharp | 41 | 28| 
 | 20231128T03:47:38Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 46 | 7| 
 | 20231128T03:24:36Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 65 | 9| 
