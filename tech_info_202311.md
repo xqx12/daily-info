@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231129T13:14:17Z | CVE-2023-49314 | Asana Desktop 2.1.0 on macOS allows code injection because of specific Electron Fuses. There is inadequate protection against code injection through settings such as RunAsNode and  enableNodeCliInspectArguments, and thus r3ggi/electroniz3r can be used to perform an attack. | https://github.com/louiselalanne/CVE-2023-49314 | | 
 | 20231129T10:22:23Z | CVE-2023-36025 | Quick test for CVE-2023-26025 behaviours | https://github.com/ka7ana/CVE-2023-36025 | | 
 | 20231129T09:54:41Z | CVE-2023-4357 | poc | https://github.com/sunu11/chrome-CVE-2023-4357 | | 
 | 20231129T08:33:07Z | CVE-2023-36025 | test repo for CVE-2023-36025 | https://github.com/J466Y/test_CVE-2023-36025 | | 
@@ -35,7 +36,6 @@
 | 20231129T01:37:35Z | cve-2023-22515 | Confluence broken access control to code execution | https://github.com/INTfinityConsulting/cve-2023-22515 | | 
 | 20231128T20:05:44Z | CVE-2023-6289 | Swift Performance Lite <= 2.3.6.14 - Missing Authorization to Unauthenticated Settings Export | https://github.com/RandomRobbieBF/CVE-2023-6289 | | 
 | 20231128T16:13:36Z | CVE-2022-26923 | A proof of concept exploiting CVE-2022-26923. | https://github.com/Gh-Badr/CVE-2022-26923 | | 
-| 20231128T16:09:42Z | CVE-2023-23752 | CVE-2023-23752  | https://github.com/Youns92/Joomla-v4.2.8---CVE-2023-23752 | | 
 
 
 # klee on Github 推荐
@@ -129,6 +129,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231129T13:14:05Z | Null | https://github.com/JehanD11/Calculate-Acceleration-Fuzzy-Logic | 0 | 0| 
 | 20231129T11:34:25Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50291 | 23330| 
 | 20231129T10:58:36Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4923 | 1175| 
 | 20231129T10:54:38Z | A comparion of solidity fuzzing tools Foundry and Echidna | https://github.com/devdacian/solidity-fuzzing-comparison | 0 | 0| 
@@ -138,7 +139,6 @@
 | 20231129T01:13:42Z | block game web server code or somethin | https://github.com/EnjoyYourBan/fuzzy-octo-fishstick | 0 | 0| 
 | 20231129T00:01:48Z | Null | https://github.com/z-yftn/FuzzySets | 0 | 0| 
 | 20231128T23:37:59Z | Null | https://github.com/iSenko1/fuzzy-algorithms | 0 | 0| 
-| 20231128T23:32:15Z | Null | https://github.com/marcsmark/Fuzzy-logic | 0 | 0| 
 
 
 
