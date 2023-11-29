@@ -129,6 +129,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231129T01:46:10Z | Fuzzy Logic yang menggunakan metode sugeno untuk pengontrol suhu, level air, dan pompa pada kolam ikan. | https://github.com/Jawaaa/Fuzzy-Logic | 0 | 0| 
 | 20231129T01:13:42Z | block game web server code or somethin | https://github.com/EnjoyYourBan/fuzzy-octo-fishstick | 0 | 0| 
 | 20231129T00:01:48Z | Null | https://github.com/z-yftn/FuzzySets | 0 | 0| 
 | 20231128T23:37:59Z | Null | https://github.com/iSenko1/fuzzy-algorithms | 0 | 0| 
@@ -138,7 +139,6 @@
 | 20231128T13:21:41Z | Null | https://github.com/erickfernandox/ssti_fuzzer | 0 | 0| 
 | 20231128T13:03:30Z | Null | https://github.com/rogall-e/fuzzy-octo-chainsaw | 0 | 0| 
 | 20231128T12:59:53Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4920 | 1175| 
-| 20231128T12:12:12Z | Null | https://github.com/Jumperlost/fuzzy-meme | 0 | 0| 
 
 
 
