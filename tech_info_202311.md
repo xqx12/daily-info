@@ -129,6 +129,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231129T13:52:50Z | Null | https://github.com/github-cloudlabsuser-101/fuzzy-couscous | 0 | 0| 
 | 20231129T13:16:38Z | Null | https://github.com/fuzzyfruit7/fuzzyfruit7.github.io | 0 | 0| 
 | 20231129T13:14:05Z | Null | https://github.com/JehanD11/Calculate-Acceleration-Fuzzy-Logic | 0 | 0| 
 | 20231129T11:34:25Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50291 | 23330| 
@@ -138,7 +139,6 @@
 | 20231129T02:09:20Z | matlabl project | https://github.com/ffifdyop/Fuzzy-control | 0 | 0| 
 | 20231129T02:02:08Z | Fuzzy Logic yang menggunakan metode sugeno untuk pengontrol suhu, level air, dan pompa pada kolam ikan. | https://github.com/Jawaaa/Fuzzy-Logic | 0 | 0| 
 | 20231129T01:13:42Z | block game web server code or somethin | https://github.com/EnjoyYourBan/fuzzy-octo-fishstick | 0 | 0| 
-| 20231129T00:01:48Z | Null | https://github.com/z-yftn/FuzzySets | 0 | 0| 
 
 
 
