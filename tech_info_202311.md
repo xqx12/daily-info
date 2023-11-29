@@ -84,6 +84,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231129T13:39:16Z | Null | https://github.com/sidsingh1809/lab4-backdoor-attacks | 0 | 0| 
 | 20231129T09:48:32Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 235 | 29| 
 | 20231129T09:02:20Z | Multi-client Cross-platform Python Backdoor/Reverse Shell/RAT with AES Encryption | https://github.com/Y4hL/PyDoor | 70 | 28| 
 | 20231128T19:34:25Z | access for my tools | https://github.com/mrbla4ck/BackdoorAccess | 0 | 0| 
@@ -93,7 +94,6 @@
 | 20231128T01:59:51Z | A curated list of papers & resources linked to data poisoning, backdoor attacks and defenses against them | https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks | 54 | 8| 
 | 20231127T20:22:01Z | Null | https://github.com/jashrathod/backdoor-attacks | 0 | 0| 
 | 20231127T18:51:53Z | Dataset and Code for Findings of ACL 2023 paper: Defending against Insertion-based Textual Backdoor Attacks via Attribution | https://github.com/JiazhaoLi/AttDef | 1 | 0| 
-| 20231127T14:44:11Z | Fast integration of backdoor attacks in machine learning and federated learning. | https://github.com/mtuann/fedlearn-backdoor-attacks | 31 | 0| 
 
 
 # symbolic execution on Github 推荐

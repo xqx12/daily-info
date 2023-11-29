@@ -56,6 +56,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231129T13:39:16Z | Null | https://github.com/sidsingh1809/lab4-backdoor-attacks | 0 | 0| 
 | 20231129T09:48:32Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 235 | 29| 
 | 20231129T09:02:20Z | Multi-client Cross-platform Python Backdoor/Reverse Shell/RAT with AES Encryption | https://github.com/Y4hL/PyDoor | 70 | 28| 
 
