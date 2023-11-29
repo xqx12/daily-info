@@ -48,8 +48,8 @@
 | 20231129T10:58:45Z | interesting Mod menu on Roblox ;) no abuse plz no for toxic people | https://github.com/Roblox4dev/SynapseX- | 1 | 0| 
 | 20231129T10:54:01Z | Null | https://github.com/tienpa99/exploitpoc | 0 | 0| 
 | 20231129T06:52:06Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 758 | 183| 
+| 20231129T04:20:40Z | SharkXploit Wordpress Auto Exploit is a great tools for search vulnerability in wordpress | https://github.com/InMyMine7/SharkXploit | 1 | 1| 
 | 20231129T02:08:57Z | 🔓A curated list of modern Android exploitation conference talks.  | https://github.com/actuator/Android-Security-Exploits-YouTube-Curriculum | 319 | 24| 
-| 20231129T01:22:08Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5627 | 764| 
 
 
 # backdoor on Github 推荐
