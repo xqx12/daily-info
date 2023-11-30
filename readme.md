@@ -73,6 +73,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231129T23:33:25Z | Our project enables Concolic Execution, a powerful testing strategy that efficiently explores program paths by combining symbolic and concrete execution techniques. By targeting LLVM bitcode, it offers versatility for testing various languages and utilizes LLVM passes for comprehensive path exploration. | https://github.com/hildebrandt-carl/ConcolicTesting | 0 | 0| 
 | 20231129T12:04:30Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2363 | 640| 
 
 
