@@ -41,7 +41,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231130T00:50:41Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14499 | 435| 
+| 20231130T06:18:58Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14501 | 435| 
 | 20231129T12:04:30Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2363 | 640| 
 | 20231128T17:55:10Z | Witch-KLEE - A KLEE-based error witness checker | https://github.com/ayazip/witch-klee | 5 | 0| 
 | 20231128T14:25:38Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 287 | 54| 
@@ -70,21 +70,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231130T02:05:29Z | Null | https://github.com/virus-exploit01/exploiter | 0 | 0| 
-| 20231130T01:49:26Z | Binary Exploitation Skill. Gain RCE from arbitrary write. | https://github.com/n132/Libc-GOT-Hijacking | 76 | 3| 
-| 20231130T01:47:35Z | going to store some solutions to ctfs in nightmare | https://github.com/RootY0U/ctf-exploits | 0 | 0| 
-| 20231130T01:43:27Z | 🔓A curated list of modern Android exploitation conference talks.  | https://github.com/actuator/Android-Security-Exploits-YouTube-Curriculum | 322 | 26| 
-| 20231130T00:58:26Z | Bookmarklet hacks, exploits, and games. Unblocked, in one place. | https://github.com/car-axle-client/car-axle-client | 26 | 14| 
-| 20231130T00:24:01Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-i | 1 | 0| 
-| 20231130T00:23:19Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-id | 1 | 0| 
-| 20231130T00:22:08Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-id | 1 | 0| 
-| 20231130T00:21:28Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-id | 1 | 0| 
-| 20231129T16:38:22Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5517 | 1070| 
+| 20231130T12:38:30Z | Exploit Hack Delta In Discord Link: https://discord.gg/w5t9nKgW Script: loadstring(game:HttpGet(%https://raw.githubusercontent.com/1st-Mars/Annie/main/1st.lua%))() | https://github.com/khanhzzzz/scrit-Redhubz | 0 | 0| 
+| 20231130T12:37:35Z | Exploit Hack Delta In Discord Link: | https://github.com/khanhzzzz/script | 0 | 0| 
+| 20231130T12:33:54Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/jdoe-app-3sEJy-re-exploit | 0 | 0| 
+| 20231130T12:04:56Z | 𓃌 - Targeting Millenium MP3 Studio 2.0 with PLS | https://github.com/0romos/MilleniumMP3Exploit | 0 | 0| 
+| 20231130T11:51:56Z | Cyber lab to explore different memory exploits | https://github.com/gemesa/shadow-shell | 1 | 1| 
+| 20231130T11:51:20Z | создан | https://github.com/reddydub1ty/exploit-transparent-web-services | 0 | 0| 
+| 20231130T11:20:03Z | image restoration tasks that exploits the inherent structure of deep neural networks, and provides an alternative to traditional data-driven approaches such as Denoising and Inpainting | https://github.com/wolfblunt/Deep-Image-Prior | 0 | 0| 
+| 20231130T10:37:46Z | For the Lolz | https://github.com/besstiolle/KaliosExploit | 0 | 0| 
+| 20231130T09:30:47Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 64 | 12| 
+| 20231130T09:24:00Z | Exploiting Diffusion Prior for Real-World Image Super-Resolution | https://github.com/IceClear/StableSR | 1380 | 82| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231130T11:15:03Z | Invisible backdoor attack with dynamic triggers against person re-identification (IEEE T-IFS 2023) | https://github.com/Vill-Lab/2023-TIFS-DTIBA | 0 | 0| 
+| 20231130T05:09:32Z | Its a trojan-horse-virus/backdoor or whatever it it its cool and written in python. | https://github.com/Zahin-Tajwar/Trojan_Horse | 2 | 1| 
 | 20231130T02:56:38Z | Jarbou3 is  rat  tool  coded in python with C&C which can accept multiple connections from clients | https://github.com/TheNewAttacker64/jarbou3 | 0 | 0| 
 | 20231129T19:33:42Z | A backdoor detector for BadNets trained on the YouTube Face dataset using the pruning defense. | https://github.com/sudoDollar/NYUMLSecLab4 | 0 | 0| 
 | 20231129T19:20:48Z | Null | https://github.com/OldKokoroz/Red-BackDoor | 0 | 0| 
@@ -93,8 +95,6 @@
 | 20231129T16:43:09Z | PCI Express DIY hacking toolkit for Xilinx SP605. This repository is also home of Hyper-V Backdoor and Boot Backdoor, check readme for links and info | https://github.com/Cr4sh/s6_pcie_microblaze | 643 | 142| 
 | 20231129T13:39:16Z | Null | https://github.com/sidsingh1809/lab4-backdoor-attacks | 0 | 0| 
 | 20231129T09:48:32Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 235 | 29| 
-| 20231129T09:02:20Z | Multi-client Cross-platform Python Backdoor/Reverse Shell/RAT with AES Encryption | https://github.com/Y4hL/PyDoor | 70 | 28| 
-| 20231128T19:34:25Z | access for my tools | https://github.com/mrbla4ck/BackdoorAccess | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -130,16 +130,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231130T12:41:47Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 247 | 40| 
+| 20231130T12:32:02Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50303 | 23333| 
+| 20231130T11:02:54Z | Conduct an in-depth analysis of message parsing within the open-source Signal messaging app to identify potential vulnerabilities and enhance overall security. Implement a custom fuzzer using Frida to dynamically analyze the message interactions and evaluate the app%s resilience against various message payloads. | https://github.com/GodfredArmani/Message-Parsing-Reverse-Engineering- | 0 | 0| 
+| 20231130T10:01:11Z | Null | https://github.com/0x1h3r/fuzzer | 0 | 0| 
+| 20231130T09:16:06Z | Burp Upstream Proxy for fuzzing | https://github.com/tontacteam-NG/froxify | 3 | 1| 
+| 20231130T08:55:47Z | A collection of blender tools for an efficient 1-person pipeline. | https://github.com/sagotoons/fuzzytools | 2 | 0| 
+| 20231130T07:52:51Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST, GraphQL and RPC (e.g., gRPC and Thrift). | https://github.com/EMResearch/EvoMaster | 383 | 69| 
+| 20231130T06:40:14Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9202 | 2050| 
 | 20231130T02:38:26Z | Artifacts of TOSEM%23 submission: *DiPri: Distance-based Seed Prioritization for Greybox Fuzzing* | https://github.com/QRXqrx/dipri-artifacts | 0 | 0| 
 | 20231130T02:36:50Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5126 | 553| 
-| 20231130T02:23:07Z | Artifacts for TOSEM%23-DiPri: Distance-based Seed Prioritization for Greybox Fuzzing | https://github.com/QRXqrx/aflpp-dipri | 0 | 0| 
-| 20231130T02:17:36Z | Null | https://github.com/leonardodomeraski/I5SHGG50-ftp..fuzzysparkle..com-20231129231735-EITEE26T | 0 | 0| 
-| 20231130T02:11:46Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9201 | 2049| 
-| 20231130T02:04:35Z | Null | https://github.com/ShapFuzz/ShapFuzz | 0 | 0| 
-| 20231130T00:57:31Z | Null | https://github.com/beleiverh09/fuzzy-train | 0 | 0| 
-| 20231129T23:58:09Z | CI for GCC, based on upstream riscv-gnu-toolchain | https://github.com/patrick-rivos/gcc-fuzz-ci | 0 | 0| 
-| 20231129T23:34:27Z | Null | https://github.com/JurekAndrzejewski/Fuzzy-control | 0 | 0| 
-| 20231129T21:44:37Z | Null | https://github.com/MohamadAlturky/fuzzy-logic | 0 | 0| 
 
 
 
