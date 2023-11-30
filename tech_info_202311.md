@@ -130,6 +130,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231130T02:04:35Z | Null | https://github.com/ShapFuzz/ShapFuzz | 0 | 0| 
 | 20231130T00:57:31Z | Null | https://github.com/beleiverh09/fuzzy-train | 0 | 0| 
 | 20231130T00:56:29Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9200 | 2049| 
 | 20231129T23:58:09Z | CI for GCC, based on upstream riscv-gnu-toolchain | https://github.com/patrick-rivos/gcc-fuzz-ci | 0 | 0| 
@@ -139,7 +140,6 @@
 | 20231129T14:05:10Z | Null | https://github.com/Bamorph/s3Fuzz | 0 | 0| 
 | 20231129T13:52:50Z | Null | https://github.com/github-cloudlabsuser-101/fuzzy-couscous | 0 | 0| 
 | 20231129T13:16:38Z | Null | https://github.com/fuzzyfruit7/fuzzyfruit7.github.io | 0 | 0| 
-| 20231129T13:14:05Z | Null | https://github.com/JehanD11/Calculate-Acceleration-Fuzzy-Logic | 0 | 0| 
 
 
 
