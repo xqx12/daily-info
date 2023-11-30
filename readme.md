@@ -57,6 +57,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231130T07:28:26Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 712 | 127| 
+| 20231130T06:40:18Z | Our project enables Concolic Execution, a powerful testing strategy that efficiently explores program paths by combining symbolic and concrete execution techniques. By targeting LLVM bitcode, it offers versatility for testing various languages and utilizes LLVM passes for comprehensive path exploration. | https://github.com/hildebrandt-carl/ConcolicTesting | 1 | 0| 
+| 20231130T05:30:23Z | A high-performance, parallel, compilation-based symbolic execution engine | https://github.com/Generative-Program-Analysis/GenSym | 103 | 4| 
+| 20231130T04:00:44Z | gradient-based symbolic execution engine implemented from scratch | https://github.com/Koukyosyumei/Gymbo | 20 | 0| 
 
 
 # big4 on Github 推荐
