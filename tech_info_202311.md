@@ -70,6 +70,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231130T13:49:46Z | Dockerized version of Nebula, from https://exploit.education | https://github.com/packetgeek/nebula-docker | 0 | 0| 
 | 20231130T13:10:40Z | GitOps Repository | https://github.com/redhat-appstudio-qe/test-app-jdfh-S5yy5-rise-exploit | 0 | 0| 
 | 20231130T12:38:30Z | Exploit Hack Delta In Discord Link: https://discord.gg/w5t9nKgW Script: loadstring(game:HttpGet(%https://raw.githubusercontent.com/1st-Mars/Annie/main/1st.lua%))() | https://github.com/khanhzzzz/scrit-Redhubz | 0 | 0| 
 | 20231130T12:37:35Z | Exploit Hack Delta In Discord Link: | https://github.com/khanhzzzz/script | 0 | 0| 
@@ -79,7 +80,6 @@
 | 20231130T11:51:20Z | создан | https://github.com/reddydub1ty/exploit-transparent-web-services | 0 | 0| 
 | 20231130T11:20:03Z | image restoration tasks that exploits the inherent structure of deep neural networks, and provides an alternative to traditional data-driven approaches such as Denoising and Inpainting | https://github.com/wolfblunt/Deep-Image-Prior | 0 | 0| 
 | 20231130T10:37:46Z | For the Lolz | https://github.com/besstiolle/KaliosExploit | 0 | 0| 
-| 20231130T09:30:47Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 64 | 12| 
 
 
 # backdoor on Github 推荐
