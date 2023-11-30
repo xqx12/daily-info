@@ -70,6 +70,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231130T01:43:27Z | 🔓A curated list of modern Android exploitation conference talks.  | https://github.com/actuator/Android-Security-Exploits-YouTube-Curriculum | 322 | 26| 
 | 20231130T00:58:26Z | Bookmarklet hacks, exploits, and games. Unblocked, in one place. | https://github.com/car-axle-client/car-axle-client | 26 | 14| 
 | 20231130T00:24:01Z | Null | https://github.com/codingcore12/Extremely-Silent-JPG-Exploit-NEW-i | 1 | 0| 
 | 20231130T00:23:19Z | Null | https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-id | 1 | 0| 
@@ -79,7 +80,6 @@
 | 20231129T15:58:12Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 6060 | 680| 
 | 20231129T13:57:59Z | This is An Offensive Hacking Tool which can be used by hackers and for penetration testing purposes. Hack Responsibly!!!!!!! | https://github.com/BitWalls-Sec/exploit | 0 | 0| 
 | 20231129T13:57:03Z | ✨ Cutting-edge, high-quality hacks crafted by seasoned developers  🎮 A diverse range of game hacks and cheats with exceptional features  🕐 Round-the-clock customer support  🛡️ Shielding against anti-cheat software  🔐 Utmost security and undetectability | https://github.com/Jh4Hc/ExploitX-HWID-Spoofer-and-Cheat | 0 | 0| 
-| 20231129T13:56:29Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5626 | 764| 
 
 
 # backdoor on Github 推荐
