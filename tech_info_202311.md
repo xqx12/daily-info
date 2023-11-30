@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231130T02:50:23Z | CVE-2023-48984 | Null | https://github.com/l00neyhacker/CVE-2023-48984 | | 
 | 20231130T00:52:33Z | CVE-2023-36025 | test repo for CVE-2023-36025 | https://github.com/J466Y/test_CVE-2023-36025 | | 
 | 20231129T23:52:43Z | CVE-2023-47840 | Qode Essential Addons <= 1.5.2 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Plugin Installation/Activation | https://github.com/RandomRobbieBF/CVE-2023-47840 | | 
 | 20231129T19:33:52Z | cve-2023-49103 | Ansible Playbook for CVE-2023-49103 | https://github.com/ditekshen/ansible-cve-2023-49103 | | 
@@ -35,7 +36,6 @@
 | 20231129T16:47:08Z | CVE-2023-49314 | Asana Desktop 2.1.0 on macOS allows code injection because of specific Electron Fuses. There is inadequate protection against code injection through settings such as RunAsNode and  enableNodeCliInspectArguments, and thus r3ggi/electroniz3r can be used to perform an attack. | https://github.com/louiselalanne/CVE-2023-49314 | | 
 | 20231129T16:20:25Z | CVE-2020-13405 | MicroWeber Unauthenticated User Database Disclosure - CVE-2020-13405 | https://github.com/mrnazu/CVE-2020-13405 | | 
 | 20231129T10:22:23Z | CVE-2023-36025 | Quick test for CVE-2023-26025 behaviours | https://github.com/ka7ana/CVE-2023-36025 | | 
-| 20231129T09:54:41Z | CVE-2023-4357 | poc | https://github.com/sunu11/chrome-CVE-2023-4357 | | 
 
 
 # klee on Github 推荐
