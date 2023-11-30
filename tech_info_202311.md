@@ -71,6 +71,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20231130T02:05:29Z | Null | https://github.com/virus-exploit01/exploiter | 0 | 0| 
+| 20231130T01:49:26Z | Binary Exploitation Skill. Gain RCE from arbitrary write. | https://github.com/n132/Libc-GOT-Hijacking | 76 | 3| 
 | 20231130T01:47:35Z | going to store some solutions to ctfs in nightmare | https://github.com/RootY0U/ctf-exploits | 0 | 0| 
 | 20231130T01:43:27Z | 🔓A curated list of modern Android exploitation conference talks.  | https://github.com/actuator/Android-Security-Exploits-YouTube-Curriculum | 322 | 26| 
 | 20231130T00:58:26Z | Bookmarklet hacks, exploits, and games. Unblocked, in one place. | https://github.com/car-axle-client/car-axle-client | 26 | 14| 
@@ -79,7 +80,6 @@
 | 20231130T00:22:08Z | Null | https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-id | 1 | 0| 
 | 20231130T00:21:28Z | Null | https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-id | 1 | 0| 
 | 20231129T16:38:22Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5517 | 1070| 
-| 20231129T15:58:12Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 6060 | 680| 
 
 
 # backdoor on Github 推荐
