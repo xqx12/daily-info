@@ -71,6 +71,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231130T13:07:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9203 | 2050| 
 | 20231130T12:41:47Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 247 | 40| 
 | 20231130T12:32:02Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50303 | 23333| 
 | 20231130T11:02:54Z | Conduct an in-depth analysis of message parsing within the open-source Signal messaging app to identify potential vulnerabilities and enhance overall security. Implement a custom fuzzer using Frida to dynamically analyze the message interactions and evaluate the app%s resilience against various message payloads. | https://github.com/GodfredArmani/Message-Parsing-Reverse-Engineering- | 0 | 0| 
@@ -78,7 +79,6 @@
 | 20231130T09:16:06Z | Burp Upstream Proxy for fuzzing | https://github.com/tontacteam-NG/froxify | 3 | 1| 
 | 20231130T08:55:47Z | A collection of blender tools for an efficient 1-person pipeline. | https://github.com/sagotoons/fuzzytools | 2 | 0| 
 | 20231130T07:52:51Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST, GraphQL and RPC (e.g., gRPC and Thrift). | https://github.com/EMResearch/EvoMaster | 383 | 69| 
-| 20231130T06:40:14Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9202 | 2050| 
 | 20231130T02:38:26Z | Artifacts of TOSEM%23 submission: *DiPri: Distance-based Seed Prioritization for Greybox Fuzzing* | https://github.com/QRXqrx/dipri-artifacts | 0 | 0| 
 | 20231130T02:36:50Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5126 | 553| 
 
