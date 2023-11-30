@@ -85,6 +85,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231130T02:56:38Z | Jarbou3 is  rat  tool  coded in python with C&C which can accept multiple connections from clients | https://github.com/TheNewAttacker64/jarbou3 | 0 | 0| 
 | 20231129T19:33:42Z | A backdoor detector for BadNets trained on the YouTube Face dataset using the pruning defense. | https://github.com/sudoDollar/NYUMLSecLab4 | 0 | 0| 
 | 20231129T19:20:48Z | Null | https://github.com/OldKokoroz/Red-BackDoor | 0 | 0| 
 | 20231129T18:15:44Z | This is a dahua backdoor code on coding language Python | https://github.com/1EDNAHIBANAROZOVAROZA/Dahua-BackDoor-PYTHON | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20231129T09:48:32Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 235 | 29| 
 | 20231129T09:02:20Z | Multi-client Cross-platform Python Backdoor/Reverse Shell/RAT with AES Encryption | https://github.com/Y4hL/PyDoor | 70 | 28| 
 | 20231128T19:34:25Z | access for my tools | https://github.com/mrbla4ck/BackdoorAccess | 0 | 0| 
-| 20231128T11:03:46Z | Python exploit for CVE-2011-2523 (VSFTPD 2.3.4 Backdoor Command Execution) | https://github.com/4m3rr0r/CVE-2011-2523-poc | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
