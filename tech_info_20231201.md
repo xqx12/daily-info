@@ -78,6 +78,7 @@
 | 20231201T13:23:30Z | Null | https://github.com/RioSatriatama/Fuzzy-Inference-System | 0 | 0| 
 | 20231201T12:20:07Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1619 | 238| 
 | 20231201T11:57:00Z | Yup | https://github.com/Junkyham/fuzzy-lamp | 0 | 0| 
+| 20231201T09:49:30Z | Null | https://github.com/pgarcia-dev/regulated_fuzzy_logic_controller | 1 | 1| 
 | 20231201T02:37:06Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50318 | 23335| 
 | 20231201T02:08:10Z | Transform C DT into a DT-Fuzz | https://github.com/JX-Zhang98/Ctest2Fuzz | 0 | 0| 
 | 20231201T02:02:24Z | Null | https://github.com/gabdarth/fuzzy-eureka | 0 | 0| 
