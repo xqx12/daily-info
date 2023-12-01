@@ -51,7 +51,7 @@
 | 20231130T12:04:56Z | 𓃌 - Targeting Millenium MP3 Studio 2.0 with PLS | https://github.com/0romos/MilleniumMP3Exploit | 0 | 0| 
 | 20231130T11:51:56Z | Cyber lab to explore different memory exploits | https://github.com/gemesa/shadow-shell | 1 | 1| 
 | 20231130T11:51:20Z | создан | https://github.com/reddydub1ty/exploit-transparent-web-services | 0 | 0| 
-| 20231130T11:20:03Z | image restoration tasks that exploits the inherent structure of deep neural networks, and provides an alternative to traditional data-driven approaches such as Denoising and Inpainting | https://github.com/wolfblunt/Deep-Image-Prior | 0 | 0| 
+| 20231130T11:26:00Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 234 | 17| 
 
 
 # backdoor on Github 推荐
