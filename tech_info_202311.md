@@ -134,9 +134,9 @@
 | 20231130T22:12:01Z | Null | https://github.com/MyBooty165/fuzzy-dollop | 0 | 0| 
 | 20231130T21:30:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9204 | 2051| 
 | 20231130T20:52:05Z | DirGrep is a bash script designed to automate the process of directory fuzzing and keyword searching within a specified domain. It uses Gobuster for directory fuzzing and curl for sending HTTP requests. | https://github.com/sockykali/DirGrep | 0 | 0| 
+| 20231130T16:32:00Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 110 | 14| 
 | 20231130T15:18:04Z | UB-free and deterministic rustc fuzzer | https://github.com/cbeuw/rustlantis | 21 | 1| 
 | 20231130T12:41:47Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 247 | 40| 
-| 20231130T12:32:02Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50303 | 23333| 
 | 20231130T11:02:54Z | Conduct an in-depth analysis of message parsing within the open-source Signal messaging app to identify potential vulnerabilities and enhance overall security. Implement a custom fuzzer using Frida to dynamically analyze the message interactions and evaluate the app%s resilience against various message payloads. | https://github.com/GodfredArmani/Message-Parsing-Reverse-Engineering- | 0 | 0| 
 | 20231130T10:01:11Z | Null | https://github.com/0x1h3r/fuzzer | 0 | 0| 
 | 20231130T09:16:06Z | Burp Upstream Proxy for fuzzing | https://github.com/tontacteam-NG/froxify | 3 | 1| 
