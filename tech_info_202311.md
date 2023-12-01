@@ -74,13 +74,13 @@
 | 20231130T21:52:54Z | Null | https://github.com/jaibirsingh/Exploitation | 0 | 0| 
 | 20231130T21:19:19Z | It to exploit and have fun on roblox | https://github.com/bothelpersgpt/Roblox-Exploits-scripts | 1 | 0| 
 | 20231130T20:20:40Z | Sonic-X is a roblox exploit for pc only, please notice that this might crash alot since this is made by two people only! | https://github.com/Sonico32/Sonic-X | 0 | 0| 
+| 20231130T16:09:49Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5625 | 764| 
 | 20231130T13:49:46Z | Dockerized version of Nebula, from https://exploit.education | https://github.com/packetgeek/nebula-docker | 0 | 0| 
 | 20231130T13:10:40Z | GitOps Repository | https://github.com/redhat-appstudio-qe/test-app-jdfh-S5yy5-rise-exploit | 0 | 0| 
 | 20231130T12:38:30Z | Exploit Hack Delta In Discord Link: https://discord.gg/w5t9nKgW Script: loadstring(game:HttpGet(%https://raw.githubusercontent.com/1st-Mars/Annie/main/1st.lua%))() | https://github.com/khanhzzzz/scrit-Redhubz | 0 | 0| 
 | 20231130T12:37:35Z | Exploit Hack Delta In Discord Link: | https://github.com/khanhzzzz/script | 0 | 0| 
 | 20231130T12:33:54Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/jdoe-app-3sEJy-re-exploit | 0 | 0| 
 | 20231130T12:04:56Z | 𓃌 - Targeting Millenium MP3 Studio 2.0 with PLS | https://github.com/0romos/MilleniumMP3Exploit | 0 | 0| 
-| 20231130T11:51:56Z | Cyber lab to explore different memory exploits | https://github.com/gemesa/shadow-shell | 1 | 1| 
 
 
 # backdoor on Github 推荐
