@@ -72,6 +72,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20231130T21:52:54Z | Null | https://github.com/jaibirsingh/Exploitation | 0 | 0| 
+| 20231130T20:20:40Z | Sonic-X is a roblox exploit for pc only, please notice that this might crash alot since this is made by two people only! | https://github.com/Sonico32/Sonic-X | 0 | 0| 
 | 20231130T13:49:46Z | Dockerized version of Nebula, from https://exploit.education | https://github.com/packetgeek/nebula-docker | 0 | 0| 
 | 20231130T13:10:40Z | GitOps Repository | https://github.com/redhat-appstudio-qe/test-app-jdfh-S5yy5-rise-exploit | 0 | 0| 
 | 20231130T12:38:30Z | Exploit Hack Delta In Discord Link: https://discord.gg/w5t9nKgW Script: loadstring(game:HttpGet(%https://raw.githubusercontent.com/1st-Mars/Annie/main/1st.lua%))() | https://github.com/khanhzzzz/scrit-Redhubz | 0 | 0| 
@@ -80,7 +81,6 @@
 | 20231130T12:04:56Z | 𓃌 - Targeting Millenium MP3 Studio 2.0 with PLS | https://github.com/0romos/MilleniumMP3Exploit | 0 | 0| 
 | 20231130T11:51:56Z | Cyber lab to explore different memory exploits | https://github.com/gemesa/shadow-shell | 1 | 1| 
 | 20231130T11:51:20Z | создан | https://github.com/reddydub1ty/exploit-transparent-web-services | 0 | 0| 
-| 20231130T11:26:00Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 234 | 17| 
 
 
 # backdoor on Github 推荐
