@@ -37,6 +37,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231201T13:37:44Z | Java libraries for working with available vulnerability data sources (GitHub Security Advisories, NVD, EPSS, CISA Known Exploited Vulnerabilities, etc.) | https://github.com/jeremylong/Open-Vulnerability-Project | 52 | 13| 
 | 20231201T12:17:56Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5520 | 1072| 
 | 20231201T11:58:13Z | A Vulnerable and Exploitable version of UniShare Project | https://github.com/flxnzz/UniXploit | 0 | 0| 
 | 20231201T10:09:30Z | a repository of bots that i exploit / pull the source of and nuke | https://github.com/cop-discord/skidarchive | 0 | 0| 
@@ -46,7 +47,6 @@
 | 20231201T00:18:12Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW | 1 | 0| 
 | 20231201T00:17:33Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN | 1 | 0| 
 | 20231201T00:16:35Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN | 1 | 0| 
-| 20231201T00:15:53Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN | 1 | 0| 
 
 
 # backdoor on Github 推荐
