@@ -89,6 +89,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231202T13:52:22Z | Null | https://github.com/Bernardo0173/fuzzy-memory | 0 | 0| 
 | 20231202T13:48:03Z | Null | https://github.com/FuzzyPickles92/FuzzyPickles92 | 0 | 0| 
 | 20231202T13:38:30Z | Null | https://github.com/xeasctar/fuzzy-moon | 0 | 0| 
 | 20231202T11:13:22Z | Решение задач нечёткой логики | https://github.com/dakone22/FuzzyLogic | 0 | 0| 
@@ -98,7 +99,6 @@
 | 20231202T02:41:17Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50339 | 23339| 
 | 20231202T01:51:18Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4925 | 1176| 
 | 20231202T01:30:07Z | Approximate Bayesian Computation as an Informed Fuzzy Inference System | https://github.com/cvaisnor/fuzzy_inference_with_ABC | 0 | 0| 
-| 20231201T14:52:05Z | Null | https://github.com/weichaoliu7/fuzzy-robust-stabilization-truck-trailer-backing-up-control | 0 | 0| 
 
 
 

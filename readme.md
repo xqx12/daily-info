@@ -75,6 +75,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231202T13:52:22Z | Null | https://github.com/Bernardo0173/fuzzy-memory | 0 | 0| 
 | 20231202T13:48:03Z | Null | https://github.com/FuzzyPickles92/FuzzyPickles92 | 0 | 0| 
 | 20231202T13:38:30Z | Null | https://github.com/xeasctar/fuzzy-moon | 0 | 0| 
 | 20231202T11:13:22Z | Решение задач нечёткой логики | https://github.com/dakone22/FuzzyLogic | 0 | 0| 
