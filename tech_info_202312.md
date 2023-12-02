@@ -79,6 +79,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231202T01:51:18Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4925 | 1176| 
 | 20231202T01:30:07Z | Approximate Bayesian Computation as an Informed Fuzzy Inference System | https://github.com/cvaisnor/fuzzy_inference_with_ABC | 0 | 0| 
 | 20231202T01:11:55Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50338 | 23339| 
 | 20231201T13:23:30Z | Null | https://github.com/RioSatriatama/Fuzzy-Inference-System | 0 | 0| 
@@ -88,7 +89,6 @@
 | 20231201T09:43:08Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 112 | 14| 
 | 20231201T02:08:10Z | Transform C DT into a DT-Fuzz | https://github.com/JX-Zhang98/Ctest2Fuzz | 0 | 0| 
 | 20231201T02:02:24Z | Null | https://github.com/gabdarth/fuzzy-eureka | 0 | 0| 
-| 20231201T01:17:24Z | Aplicativo para a API do Projeto-Fuzzy | https://github.com/mauricioabc/Projeto-Fuzzy-Expo | 0 | 0| 
 
 
 
