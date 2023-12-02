@@ -39,6 +39,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231202T01:41:32Z | A chrome extension designed to be used with the chromebook skiovox exploit that aims to replicate the original ChromeOS dock | https://github.com/LagTheSystem/Skiodock | 0 | 0| 
 | 20231201T23:40:05Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW- | 1 | 0| 
 | 20231201T23:39:31Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN- | 1 | 0| 
 | 20231201T23:38:40Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN- | 1 | 0| 
@@ -48,7 +49,6 @@
 | 20231201T13:37:44Z | Java libraries for working with available vulnerability data sources (GitHub Security Advisories, NVD, EPSS, CISA Known Exploited Vulnerabilities, etc.) | https://github.com/jeremylong/Open-Vulnerability-Project | 52 | 13| 
 | 20231201T11:58:13Z | A Vulnerable and Exploitable version of UniShare Project | https://github.com/flxnzz/UniXploit | 0 | 0| 
 | 20231201T10:09:30Z | a repository of bots that i exploit / pull the source of and nuke | https://github.com/cop-discord/skidarchive | 0 | 0| 
-| 20231201T05:50:17Z |  A list of resources for the talk Rowhammer Revisited: From Exploration to Exploitation and Mitigation | https://github.com/s8lvg/rowhammer-revisited-talk | 2 | 0| 
 
 
 # backdoor on Github 推荐
