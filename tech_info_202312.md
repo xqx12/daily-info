@@ -39,7 +39,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231202T01:41:32Z | A chrome extension designed to be used with the chromebook skiovox exploit that aims to replicate the original ChromeOS dock | https://github.com/LagTheSystem/Skiodock | 0 | 0| 
+| 20231202T02:09:22Z | A chrome extension designed to be used with the chromebook skiovox exploit that aims to replicate the original ChromeOS dock | https://github.com/LagTheSystem/Skiodock | 0 | 0| 
 | 20231201T23:40:05Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW- | 1 | 0| 
 | 20231201T23:39:31Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN- | 1 | 0| 
 | 20231201T23:38:40Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN- | 1 | 0| 
