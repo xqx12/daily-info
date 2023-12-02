@@ -89,6 +89,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231202T13:38:30Z | Null | https://github.com/xeasctar/fuzzy-moon | 0 | 0| 
 | 20231202T11:13:22Z | Решение задач нечёткой логики | https://github.com/dakone22/FuzzyLogic | 0 | 0| 
 | 20231202T07:54:41Z | Null | https://github.com/zainab-yousaf/FYP-Fuzzing | 0 | 0| 
 | 20231202T06:15:06Z | A collection of blender tools for an efficient 1-person pipeline and multi-camera workflow. | https://github.com/sagotoons/fuzzytools | 2 | 0| 
@@ -98,7 +99,6 @@
 | 20231202T01:30:07Z | Approximate Bayesian Computation as an Informed Fuzzy Inference System | https://github.com/cvaisnor/fuzzy_inference_with_ABC | 0 | 0| 
 | 20231201T14:52:05Z | Null | https://github.com/weichaoliu7/fuzzy-robust-stabilization-truck-trailer-backing-up-control | 0 | 0| 
 | 20231201T13:23:30Z | Null | https://github.com/RioSatriatama/Fuzzy-Inference-System | 0 | 0| 
-| 20231201T12:20:07Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1619 | 238| 
 
 
 

@@ -75,6 +75,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231202T13:38:30Z | Null | https://github.com/xeasctar/fuzzy-moon | 0 | 0| 
 | 20231202T11:13:22Z | Решение задач нечёткой логики | https://github.com/dakone22/FuzzyLogic | 0 | 0| 
 | 20231202T07:54:41Z | Null | https://github.com/zainab-yousaf/FYP-Fuzzing | 0 | 0| 
 | 20231202T06:15:06Z | A collection of blender tools for an efficient 1-person pipeline and multi-camera workflow. | https://github.com/sagotoons/fuzzytools | 2 | 0| 
