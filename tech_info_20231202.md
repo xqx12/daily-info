@@ -44,6 +44,7 @@
 | 20231202T10:17:06Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10971 | 1667| 
 | 20231202T09:50:52Z | Playing with security tools studying vulnerabilities writing exploits | https://github.com/violentr/infosec_playground | 1 | 1| 
 | 20231202T09:25:03Z | ExploitMe.XSS is a simple bash script designed to test for potential Cross-Site Scripting (XSS) vulnerabilities by injecting various code snippets into URL parameters and checking if the injected code is reflected in the source code of a specified webpage. | https://github.com/Cyb2rW1z/ExploitMe.XSS | 0 | 0| 
+| 20231202T09:10:49Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 5829 | 1867| 
 | 20231202T07:24:35Z | Exploit AD CS misconfiguration allowing privilege escalation and persistence from any child domain to full forest compromise | https://github.com/MWR-CyberSec/AD-CS-Forest-Exploiter | 0 | 0| 
 | 20231202T02:09:22Z | A chrome extension designed to be used with the chromebook skiovox exploit that aims to replicate the original ChromeOS dock | https://github.com/LagTheSystem/Skiodock | 0 | 0| 
 
