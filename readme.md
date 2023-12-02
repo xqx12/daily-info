@@ -45,10 +45,10 @@
 | 20231201T23:38:01Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN- | 1 | 0| 
 | 20231201T21:47:00Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5521 | 1072| 
 | 20231201T21:43:45Z | Coding a clone of the chromeos dock to use in a chrome extension for the skiovox exploit | https://github.com/LagTheSystem/ChromeOS-Dock | 0 | 0| 
+| 20231201T19:16:44Z | A largely text-based story about a corrupt Internet through the eyes of a Web exploiter | https://github.com/Cinnapoodle/chronospace-dreamscape | 1 | 0| 
 | 20231201T13:37:44Z | Java libraries for working with available vulnerability data sources (GitHub Security Advisories, NVD, EPSS, CISA Known Exploited Vulnerabilities, etc.) | https://github.com/jeremylong/Open-Vulnerability-Project | 52 | 13| 
 | 20231201T11:58:13Z | A Vulnerable and Exploitable version of UniShare Project | https://github.com/flxnzz/UniXploit | 0 | 0| 
 | 20231201T10:09:30Z | a repository of bots that i exploit / pull the source of and nuke | https://github.com/cop-discord/skidarchive | 0 | 0| 
-| 20231201T05:50:17Z |  A list of resources for the talk Rowhammer Revisited: From Exploration to Exploitation and Mitigation | https://github.com/s8lvg/rowhammer-revisited-talk | 2 | 0| 
 
 
 # backdoor on Github 推荐
