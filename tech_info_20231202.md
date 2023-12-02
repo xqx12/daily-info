@@ -17,6 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231202T13:04:14Z | CVE-2022-40635 | CVE-2022-40635: Groovy Sandbox Bypass in CrafterCMS | https://github.com/mbadanoiu/CVE-2022-40635 | | 
 | 20231202T11:23:30Z | CVE-2023-49103 | CVE-2023-49103 scanner for shodan.io downloaded json files | https://github.com/MixColumns/CVE-2023-49103 | | 
 | 20231202T10:57:44Z | CVE-2023-49103 | PoC for the CVE-2023-49103 | https://github.com/creacitysec/CVE-2023-49103 | | 
 | 20231202T10:52:18Z | cve-2023-34034 | Demonstration of CVE-2023-24034 authorization bypass in Spring Security  | https://github.com/hotblac/cve-2023-34034 | | 

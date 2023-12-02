@@ -18,13 +18,13 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231202T13:04:14Z | CVE-2022-40635 | CVE-2022-40635: Groovy Sandbox Bypass in CrafterCMS | https://github.com/mbadanoiu/CVE-2022-40635 | | 
 | 20231202T11:23:30Z | CVE-2023-49103 | CVE-2023-49103 scanner for shodan.io downloaded json files | https://github.com/MixColumns/CVE-2023-49103 | | 
 | 20231202T10:57:44Z | CVE-2023-49103 | PoC for the CVE-2023-49103 | https://github.com/creacitysec/CVE-2023-49103 | | 
 | 20231202T10:52:18Z | cve-2023-34034 | Demonstration of CVE-2023-24034 authorization bypass in Spring Security  | https://github.com/hotblac/cve-2023-34034 | | 
 | 20231202T10:33:28Z | CVE-2023-36664 | Proof of concept developed for the CVE-2023-36664 | https://github.com/JeanChpt/CVE-2023-36664 | | 
 | 20231201T13:31:38Z | CVE-2022-38694 | User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20231201T11:24:26Z | CVE-2023-48849 | Null | https://github.com/delsploit/CVE-2023-48849 | | 
-| 20231201T10:36:41Z | CVE-2022-40635 | CVE-2022-40635: Groovy Sandbox Bypass in CrafterCMS | https://github.com/mbadanoiu/CVE-2022-40635 | | 
 | 20231201T10:26:02Z | CVE-2022-40634 | CVE-2022-40634: FreeMarker Server-Side Template Injection in CrafterCMS | https://github.com/mbadanoiu/CVE-2022-40634 | | 
 | 20231201T08:20:08Z | CVE-2022-38691 | Null | https://github.com/TomKing062/CVE-2022-38691_38692 | | 
 
