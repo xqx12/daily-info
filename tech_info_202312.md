@@ -79,6 +79,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231202T01:30:07Z | Approximate Bayesian Computation as an Informed Fuzzy Inference System | https://github.com/cvaisnor/fuzzy_inference_with_ABC | 0 | 0| 
 | 20231202T01:11:55Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50338 | 23339| 
 | 20231201T13:23:30Z | Null | https://github.com/RioSatriatama/Fuzzy-Inference-System | 0 | 0| 
 | 20231201T12:20:07Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1619 | 238| 
