@@ -16,7 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231203T13:26:03Z | CVE-2020-14179 | Sensitive data exposure via /secure/QueryComponent!Default.jspa endpoint - CVE-2020-14179 | https://github.com/mrnazu/CVE-2020-14179 | | 
+| 20231203T13:34:48Z | CVE-2020-14179 | Sensitive data exposure via /secure/QueryComponent!Default.jspa endpoint - CVE-2020-14179 | https://github.com/mrnazu/CVE-2020-14179 | | 
 | 20231203T10:00:03Z | CVE-2023-48842 | Null | https://github.com/creacitysec/CVE-2023-48842 | | 
 
 
@@ -70,8 +70,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231203T13:33:54Z | Null | https://github.com/FuzzzyYeti/FuzzyYeti.github.io | 0 | 0| 
 | 20231203T13:29:51Z | Null | https://github.com/AfifuddinM/fuzzyLogic2023 | 0 | 0| 
-| 20231203T12:10:30Z | Null | https://github.com/FuzzzyYeti/FuzzyYeti.github.io | 0 | 0| 
 | 20231203T11:58:56Z | Null | https://github.com/raphael12346/CPU-Fan-Control-Using-Fuzzy-Logic | 0 | 0| 
 | 20231203T11:47:53Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9206 | 2053| 
 | 20231203T11:12:11Z | Neuro-Fuzzy tip calculator in Python | https://github.com/Yurii-Levchenko/neuro-fuzzy-tip-calc | 0 | 0| 
