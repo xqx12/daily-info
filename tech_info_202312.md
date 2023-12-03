@@ -91,7 +91,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231203T13:33:54Z | Null | https://github.com/FuzzzyYeti/FuzzyYeti.github.io | 0 | 0| 
+| 20231203T13:54:14Z | Null | https://github.com/FuzzzyYeti/FuzzyYeti.github.io | 0 | 0| 
 | 20231203T13:29:51Z | Null | https://github.com/AfifuddinM/fuzzyLogic2023 | 0 | 0| 
 | 20231203T11:58:56Z | Null | https://github.com/raphael12346/CPU-Fan-Control-Using-Fuzzy-Logic | 0 | 0| 
 | 20231203T11:47:53Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9206 | 2053| 
