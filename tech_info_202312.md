@@ -91,6 +91,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231203T01:21:57Z | Null | https://github.com/FuzzzyYeti/FuzzyYeti.github.io | 0 | 0| 
+| 20231203T01:21:22Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9205 | 2053| 
 | 20231203T01:18:11Z | Config files for my GitHub profile. | https://github.com/FuzzzyYeti/FuzzzyYeti | 0 | 0| 
 | 20231203T01:14:59Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50361 | 23347| 
 | 20231202T20:50:39Z | It is a greenhouse automation application using fuzzy logic based on the thesis written by Mehmet Nuri Ödük. | https://github.com/spacemonochrome/csharp_fuzzy_logic_example | 0 | 0| 
@@ -99,8 +101,6 @@
 | 20231202T19:12:44Z | Fuzzy TOPSIS is a multi-criteria decision-making method used to find the best alternative from a set of options, considering multiple criteria and their respective importance. | https://github.com/serhiidankovych/fuzzy-topsis | 0 | 0| 
 | 20231202T17:56:08Z | Null | https://github.com/Joaohsd/fuzzy-control | 0 | 0| 
 | 20231202T13:52:22Z | Null | https://github.com/Bernardo0173/fuzzy-memory | 0 | 0| 
-| 20231202T13:48:03Z | Null | https://github.com/FuzzyPickles92/FuzzyPickles92 | 0 | 0| 
-| 20231202T13:38:30Z | Null | https://github.com/xeasctar/fuzzy-moon | 0 | 0| 
 
 
 
