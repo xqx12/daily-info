@@ -16,6 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231203T13:26:03Z | CVE-2020-14179 | Sensitive data exposure via /secure/QueryComponent!Default.jspa endpoint - CVE-2020-14179 | https://github.com/mrnazu/CVE-2020-14179 | | 
 | 20231203T10:00:03Z | CVE-2023-48842 | Null | https://github.com/creacitysec/CVE-2023-48842 | | 
 
 

@@ -18,6 +18,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231203T13:26:03Z | CVE-2020-14179 | Sensitive data exposure via /secure/QueryComponent!Default.jspa endpoint - CVE-2020-14179 | https://github.com/mrnazu/CVE-2020-14179 | | 
 | 20231203T10:00:03Z | CVE-2023-48842 | Null | https://github.com/creacitysec/CVE-2023-48842 | | 
 | 20231202T15:11:38Z | CVE-2021-0485 | Picture in Picture Exploit in Android R V 11 | https://github.com/aatharvauti/CVE-2021-0485 | | 
 | 20231202T13:04:14Z | CVE-2022-40635 | CVE-2022-40635: Groovy Sandbox Bypass in CrafterCMS | https://github.com/mbadanoiu/CVE-2022-40635 | | 
@@ -27,7 +28,6 @@
 | 20231202T10:33:28Z | CVE-2023-36664 | Proof of concept developed for the CVE-2023-36664 | https://github.com/JeanChpt/CVE-2023-36664 | | 
 | 20231201T13:31:38Z | CVE-2022-38694 | User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20231201T11:24:26Z | CVE-2023-48849 | Null | https://github.com/delsploit/CVE-2023-48849 | | 
-| 20231201T10:26:02Z | CVE-2022-40634 | CVE-2022-40634: FreeMarker Server-Side Template Injection in CrafterCMS | https://github.com/mbadanoiu/CVE-2022-40634 | | 
 
 
 # klee on Github 推荐
