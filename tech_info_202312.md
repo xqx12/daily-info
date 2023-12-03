@@ -46,6 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231203T13:55:54Z | This is the ringzer0 writeup of web exploitation catagery. The name is %Word mean something% | https://github.com/PlayExploits/picoctf---web-challenges | 1 | 0| 
 | 20231203T12:41:15Z | Create an advanced Capture The Flag (CTF) platform for cybersecurity enthusiasts to practice and enhance their skills in a realistic and gamified environment. The platform will host a variety of challenges, ranging from web exploitation and cryptography to binary analysis and network security. | https://github.com/ThatBoiWitZm/Hacker-s-Playground---Capture-The-Flag-Platform | 0 | 0| 
 | 20231203T12:26:09Z | 🔓A curated list of modern Android exploitation conference talks.  | https://github.com/actuator/Android-Security-Exploits-YouTube-Curriculum | 332 | 26| 
 | 20231203T12:25:53Z | Bandit mission and exploration/exploitation | https://github.com/RomaIsnazarov/Bandit-mission-and-exploration-exploitation | 0 | 0| 
@@ -55,7 +56,6 @@
 | 20231203T08:41:34Z | Automated NoSQL database enumeration and web application exploitation tool. | https://github.com/codingo/NoSQLMap | 2586 | 575| 
 | 20231203T00:05:16Z | afk answer answers assignment auto automation bot bypass cheat clicker edgentweaks edgenuity edgeplus edgesploit edgybot exploit extension fast free github glitch hack hacking hacks helper homework key math pastebin quizlet reddit robot scraper script scripts search skip skipper tampermonkey test tool tools unit unlock unlocker video videos watcher | https://github.com/Databones/Edgesploit | 7 | 0| 
 | 20231202T23:40:51Z | Null | https://github.com/codingcore13/Silent-JPG-Exploit-NEW | 1 | 0| 
-| 20231202T23:40:01Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-i | 1 | 0| 
 
 
 # backdoor on Github 推荐
