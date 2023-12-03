@@ -49,8 +49,8 @@
 | 20231202T22:25:16Z | My exploit for secret tunnel | https://github.com/renukabhu/secret-tunnel | 0 | 0| 
 | 20231202T22:24:28Z | Dedsec_wifi_vendo_time is a time stealer exploit for wifi vendo machine | https://github.com/0xbitx/DEDSEC_WIFI_VENDO_TIME | 2 | 0| 
 | 20231202T22:21:15Z | Null | https://github.com/Malware-dev32/Crimson-Exploit | 0 | 0| 
+| 20231202T22:19:33Z | This is a exploit with the capability to control ip camera movement even without a username and password. | https://github.com/0xbitx/DEDSEC_PTZ_EXPLOIT | 4 | 0| 
 | 20231202T18:00:43Z | GHSL-2023-149 exploit experiments | https://github.com/mindstorm38/ensimag-secu3a-ghsl-2023-149 | 0 | 0| 
-| 20231202T14:32:44Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5523 | 1072| 
 
 
 # backdoor on Github 推荐

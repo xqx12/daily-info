@@ -55,7 +55,7 @@
 | 20231202T22:25:16Z | My exploit for secret tunnel | https://github.com/renukabhu/secret-tunnel | 0 | 0| 
 | 20231202T22:24:28Z | Dedsec_wifi_vendo_time is a time stealer exploit for wifi vendo machine | https://github.com/0xbitx/DEDSEC_WIFI_VENDO_TIME | 2 | 0| 
 | 20231202T22:21:15Z | Null | https://github.com/Malware-dev32/Crimson-Exploit | 0 | 0| 
-| 20231202T18:00:43Z | GHSL-2023-149 exploit experiments | https://github.com/mindstorm38/ensimag-secu3a-ghsl-2023-149 | 0 | 0| 
+| 20231202T22:19:33Z | This is a exploit with the capability to control ip camera movement even without a username and password. | https://github.com/0xbitx/DEDSEC_PTZ_EXPLOIT | 4 | 0| 
 
 
 # backdoor on Github 推荐
@@ -91,7 +91,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231203T00:19:03Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50360 | 23347| 
+| 20231203T01:14:59Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50361 | 23347| 
 | 20231202T20:50:39Z | It is a greenhouse automation application using fuzzy logic based on the thesis written by Mehmet Nuri Ödük. | https://github.com/spacemonochrome/csharp_fuzzy_logic_example | 0 | 0| 
 | 20231202T20:22:05Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4109 | 842| 
 | 20231202T20:08:19Z | Null | https://github.com/OmarAlkadri/find_speed_using_FUZZY_LOGIC | 0 | 0| 
