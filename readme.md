@@ -56,6 +56,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231203T05:06:46Z | gradient-based symbolic execution engine implemented from scratch | https://github.com/Koukyosyumei/Gymbo | 24 | 0| 
+| 20231203T03:05:03Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2365 | 641| 
 
 
 # big4 on Github 推荐
