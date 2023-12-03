@@ -18,7 +18,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231203T13:34:48Z | CVE-2020-14179 | Sensitive data exposure via /secure/QueryComponent!Default.jspa endpoint - CVE-2020-14179 | https://github.com/mrnazu/CVE-2020-14179 | | 
+| 20231203T13:57:38Z | CVE-2020-14179 | Sensitive data exposure via /secure/QueryComponent!Default.jspa endpoint - CVE-2020-14179 | https://github.com/mrnazu/CVE-2020-14179 | | 
 | 20231203T10:00:03Z | CVE-2023-48842 | Null | https://github.com/creacitysec/CVE-2023-48842 | | 
 | 20231202T15:11:38Z | CVE-2021-0485 | Picture in Picture Exploit in Android R V 11 | https://github.com/aatharvauti/CVE-2021-0485 | | 
 | 20231202T13:04:14Z | CVE-2022-40635 | CVE-2022-40635: Groovy Sandbox Bypass in CrafterCMS | https://github.com/mbadanoiu/CVE-2022-40635 | | 
