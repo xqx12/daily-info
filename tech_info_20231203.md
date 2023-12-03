@@ -36,6 +36,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20231203T12:41:15Z | Create an advanced Capture The Flag (CTF) platform for cybersecurity enthusiasts to practice and enhance their skills in a realistic and gamified environment. The platform will host a variety of challenges, ranging from web exploitation and cryptography to binary analysis and network security. | https://github.com/ThatBoiWitZm/Hacker-s-Playground---Capture-The-Flag-Platform | 0 | 0| 
+| 20231203T12:26:09Z | 🔓A curated list of modern Android exploitation conference talks.  | https://github.com/actuator/Android-Security-Exploits-YouTube-Curriculum | 332 | 26| 
 | 20231203T12:25:53Z | Bandit mission and exploration/exploitation | https://github.com/RomaIsnazarov/Bandit-mission-and-exploration-exploitation | 0 | 0| 
 | 20231203T10:16:06Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5523 | 1072| 
 | 20231203T10:12:13Z | dataset for paper %Exploiting GPT-4 Vision for Zero-shot Point Cloud Understanding% | https://github.com/qsun1/pointcloud_subset | 0 | 0| 
