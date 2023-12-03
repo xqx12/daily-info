@@ -61,6 +61,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231203T13:20:01Z | Null | https://github.com/hoangsvn/ptit-attack-and-backdoor | 0 | 0| 
 | 20231203T13:15:31Z | Null | https://github.com/OjolCyberArmy/Webshell-backdoor-list | 0 | 0| 
 | 20231203T10:53:51Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 2344 | 873| 
 | 20231203T06:43:11Z | Null | https://github.com/anonymous-1001/backdoor | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20231202T15:54:55Z | no1seAndroRAT is a remote access tool that utilizes msfvenom and apktool, all in one script for your convenience. | https://github.com/no1se2/no1seAndroRAT---Android-Remote-Administration-Tool-RAT | 14 | 4| 
 | 20231202T12:11:42Z | Null | https://github.com/hoangsvn/attack-and-backdoor | 0 | 0| 
 | 20231202T11:45:09Z | This lab course work is done as part of the course %EL-GY-9163: Machine Learning for Cyber-security% | https://github.com/m0hith/Backdoor-Attacks | 2 | 0| 
-| 20231202T10:10:34Z | This is a very simple interactive web shell | https://github.com/WH1T3-E4GL3/whxite-shell | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
