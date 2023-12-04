@@ -49,6 +49,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231204T02:36:27Z | Null | https://github.com/vanatka10/exploit | 0 | 0| 
 | 20231204T02:24:00Z | Coding a clone of the chromeos dock to use in a chrome extension for the skiovox exploit | https://github.com/LagTheSystem/ChromeOS-Dock | 0 | 0| 
 | 20231204T00:45:51Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5526 | 1073| 
 | 20231204T00:38:08Z | This Python implementation serves an educational purpose by demonstrating the exploitation of CVE-2023-23752. The code provides insight into the vulnerability%s exploitation. | https://github.com/Fernando-olv/Joomla-CVE-2023-23752 | 2 | 0| 
@@ -58,7 +59,6 @@
 | 20231203T22:51:03Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-j | 1 | 0| 
 | 20231203T22:50:28Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-j | 1 | 0| 
 | 20231203T22:49:47Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-j | 1 | 0| 
-| 20231203T13:55:54Z | This is the ringzer0 writeup of web exploitation catagery. The name is %Word mean something% | https://github.com/PlayExploits/picoctf---web-challenges | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -94,6 +94,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231204T02:37:05Z | Null | https://github.com/zhafranammar/fuzzy-madm-implementation | 0 | 0| 
 | 20231204T02:15:17Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50386 | 23352| 
 | 20231204T01:46:42Z | Null | https://github.com/CarsonChannn/fuzzy-couscous | 0 | 0| 
 | 20231204T01:21:39Z | Null | https://github.com/LuisMartinezMoreno/fuzzingHashingAlgortihtmsBenchmark | 0 | 0| 
@@ -103,7 +104,6 @@
 | 20231203T21:44:45Z | Null | https://github.com/tetteres/fuzzy-moon | 0 | 0| 
 | 20231203T21:25:17Z | Modified llvm-17 source tree for DissFuzz project | https://github.com/NikitaEvs/fuzzcoin_llvm | 0 | 0| 
 | 20231203T21:15:50Z | Null | https://github.com/helio-rocha/Trabalho_C213_Fuzzy | 0 | 0| 
-| 20231203T14:31:45Z | Null | https://github.com/FuzzzyYeti/FuzzyYeti.github.io | 0 | 0| 
 
 
 
