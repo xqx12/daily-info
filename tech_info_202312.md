@@ -19,7 +19,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231204T13:33:47Z | CVE-2023-23752 | A PoC exploit for CVE-2023-23752 - Joomla Improper Access Check | https://github.com/K3ysTr0K3R/CVE-2023-23752-EXPLOIT | | 
+| 20231204T13:36:13Z | CVE-2023-23752 | A PoC exploit for CVE-2023-23752 - Joomla Improper Access Check in Versions 4.0.0 through 4.2.7 | https://github.com/K3ysTr0K3R/CVE-2023-23752-EXPLOIT | | 
 | 20231204T11:16:10Z | CVE-2023-38831 | Proof-of-concept of CVE-2023-38831 | https://github.com/MyStuffYT/CVE-2023-38831-POC | | 
 | 20231204T09:17:49Z | CVE-2022-38694 | User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20231204T08:48:34Z | CVE-2022-44268 | Null | https://github.com/CygnusX-26/CVE-2022-44268-fixed-PoC | | 
