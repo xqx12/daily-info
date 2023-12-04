@@ -19,6 +19,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231204T13:05:08Z | CVE-2023-23752 | Null | https://github.com/K3ysTr0K3R/CVE-2023-23752-EXPLOIT | | 
 | 20231204T11:16:10Z | CVE-2023-38831 | Proof-of-concept of CVE-2023-38831 | https://github.com/MyStuffYT/CVE-2023-38831-POC | | 
 | 20231204T09:17:49Z | CVE-2022-38694 | User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20231204T08:48:34Z | CVE-2022-44268 | Null | https://github.com/CygnusX-26/CVE-2022-44268-fixed-PoC | | 
@@ -28,7 +29,6 @@
 | 20231203T13:57:38Z | CVE-2020-14179 | Sensitive data exposure via /secure/QueryComponent!Default.jspa endpoint - CVE-2020-14179 | https://github.com/mrnazu/CVE-2020-14179 | | 
 | 20231202T15:11:38Z | CVE-2021-0485 | Picture in Picture Exploit in Android R V 11 | https://github.com/aatharvauti/CVE-2021-0485 | | 
 | 20231202T13:04:14Z | CVE-2022-40635 | CVE-2022-40635: Groovy Sandbox Bypass in CrafterCMS | https://github.com/mbadanoiu/CVE-2022-40635 | | 
-| 20231202T11:23:30Z | CVE-2023-49103 | CVE-2023-49103 scanner for shodan.io downloaded json files | https://github.com/MixColumns/CVE-2023-49103 | | 
 
 
 # klee on Github 推荐
