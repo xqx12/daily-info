@@ -42,7 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231204T13:05:08Z | Null | https://github.com/K3ysTr0K3R/CVE-2023-23752-EXPLOIT | 0 | 0| 
+| 20231204T13:10:07Z | Null | https://github.com/K3ysTr0K3R/CVE-2023-23752-EXPLOIT | 0 | 0| 
 | 20231204T13:00:11Z | Python implementation of ϵ-greedy, UCB, and Tompson Sampling Algorithms for the multi-armed bandits Exploration-Exploitation problem in Reinforcement Learning | https://github.com/tmhrt/multi-armed-bandits | 0 | 0| 
 | 20231204T12:36:15Z | This is a reversed exploit used in a flashloan attack on Raft.Fi | https://github.com/ArtemIrgebaev/RaftReversedExploit | 0 | 0| 
 | 20231204T11:51:56Z | Amnesiac is a post-exploitation framework entirely written in PowerShell and designed to assist with lateral movement within Active Directory environments | https://github.com/Leo4j/Amnesiac | 127 | 30| 
