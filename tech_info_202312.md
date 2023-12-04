@@ -51,6 +51,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231204T13:05:08Z | Null | https://github.com/K3ysTr0K3R/CVE-2023-23752-EXPLOIT | 0 | 0| 
 | 20231204T13:00:11Z | Python implementation of ϵ-greedy, UCB, and Tompson Sampling Algorithms for the multi-armed bandits Exploration-Exploitation problem in Reinforcement Learning | https://github.com/tmhrt/multi-armed-bandits | 0 | 0| 
 | 20231204T12:36:15Z | This is a reversed exploit used in a flashloan attack on Raft.Fi | https://github.com/ArtemIrgebaev/RaftReversedExploit | 0 | 0| 
 | 20231204T11:51:56Z | Amnesiac is a post-exploitation framework entirely written in PowerShell and designed to assist with lateral movement within Active Directory environments | https://github.com/Leo4j/Amnesiac | 127 | 30| 
@@ -60,7 +61,6 @@
 | 20231204T02:24:00Z | Coding a clone of the chromeos dock to use in a chrome extension for the skiovox exploit | https://github.com/LagTheSystem/ChromeOS-Dock | 0 | 0| 
 | 20231204T00:38:08Z | This Python implementation serves an educational purpose by demonstrating the exploitation of CVE-2023-23752. The code provides insight into the vulnerability%s exploitation. | https://github.com/Fernando-olv/Joomla-CVE-2023-23752 | 2 | 0| 
 | 20231203T23:07:10Z | Slayer07 Dicord Exploit API | https://github.com/KriegerDev/Slayer07API | 0 | 0| 
-| 20231203T23:05:28Z | setup for Slayer07 discord exploit | https://github.com/KriegerDev/Discord-Slayer07 | 0 | 0| 
 
 
 # backdoor on Github 推荐
