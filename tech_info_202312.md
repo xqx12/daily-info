@@ -55,12 +55,12 @@
 | 20231204T13:00:11Z | Python implementation of ϵ-greedy, UCB, and Tompson Sampling Algorithms for the multi-armed bandits Exploration-Exploitation problem in Reinforcement Learning | https://github.com/tmhrt/multi-armed-bandits | 0 | 0| 
 | 20231204T12:36:15Z | This is a reversed exploit used in a flashloan attack on Raft.Fi | https://github.com/ArtemIrgebaev/RaftReversedExploit | 0 | 0| 
 | 20231204T11:51:56Z | Amnesiac is a post-exploitation framework entirely written in PowerShell and designed to assist with lateral movement within Active Directory environments | https://github.com/Leo4j/Amnesiac | 127 | 30| 
+| 20231204T10:35:17Z | Offensive and Defensive Cybersecurity Course Challenges at polimi | https://github.com/gio-del/ODC-Challenges-CTF | 0 | 0| 
+| 20231204T10:29:31Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 65 | 12| 
 | 20231204T08:44:26Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5530 | 1075| 
 | 20231204T03:44:35Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5701 | 720| 
 | 20231204T02:36:27Z | Null | https://github.com/vanatka10/exploit | 0 | 0| 
 | 20231204T02:24:00Z | Coding a clone of the chromeos dock to use in a chrome extension for the skiovox exploit | https://github.com/LagTheSystem/ChromeOS-Dock | 0 | 0| 
-| 20231204T00:38:08Z | This Python implementation serves an educational purpose by demonstrating the exploitation of CVE-2023-23752. The code provides insight into the vulnerability%s exploitation. | https://github.com/Fernando-olv/Joomla-CVE-2023-23752 | 2 | 0| 
-| 20231203T23:07:10Z | Slayer07 Dicord Exploit API | https://github.com/KriegerDev/Slayer07API | 0 | 0| 
 
 
 # backdoor on Github 推荐
