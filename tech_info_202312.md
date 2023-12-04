@@ -100,6 +100,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231204T13:30:06Z | Null | https://github.com/Omi160/fuzzy-parakeet | 0 | 0| 
 | 20231204T13:16:30Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9208 | 2053| 
 | 20231204T09:22:39Z | Null | https://github.com/raphael12346/CPU-Fan-Control-Using-Fuzzy-Logic | 0 | 0| 
 | 20231204T03:49:12Z | Null | https://github.com/RizkiAlkarim/fuzzy_bmi_calculator | 0 | 0| 
@@ -109,7 +110,6 @@
 | 20231204T02:37:05Z | Null | https://github.com/zhafranammar/fuzzy-madm-implementation | 0 | 0| 
 | 20231204T01:46:42Z | Null | https://github.com/CarsonChannn/fuzzy-couscous | 0 | 0| 
 | 20231204T01:21:39Z | Null | https://github.com/LuisMartinezMoreno/fuzzingHashingAlgortihtmsBenchmark | 0 | 0| 
-| 20231204T01:01:44Z | Automated On-Chain Fuzzing | https://github.com/jjjutla/GeckoFuzz | 3 | 0| 
 
 
 
