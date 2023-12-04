@@ -33,7 +33,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231204T02:50:30Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14541 | 435| 
+| 20231204T02:51:48Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14542 | 435| 
 | 20231204T02:03:02Z | Null | https://github.com/dimitricbrown/KLEEBE | 0 | 0| 
 | 20231203T21:59:15Z | Null | https://github.com/martmull/kleep-coding-game | 0 | 0| 
 | 20231203T18:38:26Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 289 | 54| 
@@ -49,9 +49,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231204T02:52:33Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5527 | 1075| 
 | 20231204T02:36:27Z | Null | https://github.com/vanatka10/exploit | 0 | 0| 
 | 20231204T02:24:00Z | Coding a clone of the chromeos dock to use in a chrome extension for the skiovox exploit | https://github.com/LagTheSystem/ChromeOS-Dock | 0 | 0| 
-| 20231204T00:45:51Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5526 | 1073| 
 | 20231204T00:38:08Z | This Python implementation serves an educational purpose by demonstrating the exploitation of CVE-2023-23752. The code provides insight into the vulnerability%s exploitation. | https://github.com/Fernando-olv/Joomla-CVE-2023-23752 | 2 | 0| 
 | 20231203T23:07:10Z | Slayer07 Dicord Exploit API | https://github.com/KriegerDev/Slayer07API | 0 | 0| 
 | 20231203T23:05:28Z | setup for Slayer07 discord exploit | https://github.com/KriegerDev/Discord-Slayer07 | 0 | 0| 
