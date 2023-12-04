@@ -93,6 +93,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231204T01:46:42Z | Null | https://github.com/CarsonChannn/fuzzy-couscous | 0 | 0| 
 | 20231204T01:21:39Z | Null | https://github.com/LuisMartinezMoreno/fuzzingHashingAlgortihtmsBenchmark | 0 | 0| 
 | 20231204T01:01:44Z | Automated On-Chain Fuzzing | https://github.com/jjjutla/GeckoFuzz | 3 | 0| 
 | 20231204T00:51:46Z | Null | https://github.com/HeyNinety/FUZZ-godot-4-brown-noise-player | 0 | 0| 
@@ -102,7 +103,6 @@
 | 20231203T21:25:17Z | Modified llvm-17 source tree for DissFuzz project | https://github.com/NikitaEvs/fuzzcoin_llvm | 0 | 0| 
 | 20231203T21:15:50Z | Null | https://github.com/helio-rocha/Trabalho_C213_Fuzzy | 0 | 0| 
 | 20231203T14:31:45Z | Null | https://github.com/FuzzzyYeti/FuzzyYeti.github.io | 0 | 0| 
-| 20231203T13:29:51Z | Null | https://github.com/AfifuddinM/fuzzyLogic2023 | 0 | 0| 
 
 
 
