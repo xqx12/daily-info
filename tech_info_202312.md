@@ -49,6 +49,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231204T02:24:00Z | Coding a clone of the chromeos dock to use in a chrome extension for the skiovox exploit | https://github.com/LagTheSystem/ChromeOS-Dock | 0 | 0| 
 | 20231204T00:45:51Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5526 | 1073| 
 | 20231204T00:38:08Z | This Python implementation serves an educational purpose by demonstrating the exploitation of CVE-2023-23752. The code provides insight into the vulnerability%s exploitation. | https://github.com/Fernando-olv/Joomla-CVE-2023-23752 | 2 | 0| 
 | 20231203T23:07:10Z | Slayer07 Dicord Exploit API | https://github.com/KriegerDev/Slayer07API | 0 | 0| 
@@ -58,7 +59,6 @@
 | 20231203T22:50:28Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-j | 1 | 0| 
 | 20231203T22:49:47Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-j | 1 | 0| 
 | 20231203T13:55:54Z | This is the ringzer0 writeup of web exploitation catagery. The name is %Word mean something% | https://github.com/PlayExploits/picoctf---web-challenges | 1 | 0| 
-| 20231203T12:41:15Z | Create an advanced Capture The Flag (CTF) platform for cybersecurity enthusiasts to practice and enhance their skills in a realistic and gamified environment. The platform will host a variety of challenges, ranging from web exploitation and cryptography to binary analysis and network security. | https://github.com/ThatBoiWitZm/Hacker-s-Playground---Capture-The-Flag-Platform | 0 | 0| 
 
 
 # backdoor on Github 推荐
