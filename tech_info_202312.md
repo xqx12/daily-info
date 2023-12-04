@@ -51,7 +51,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231204T13:33:47Z | A PoC exploit for CVE-2023-23752 - Joomla Improper Access Check | https://github.com/K3ysTr0K3R/CVE-2023-23752-EXPLOIT | 0 | 0| 
+| 20231204T13:43:10Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8991 | 2063| 
+| 20231204T13:36:13Z | A PoC exploit for CVE-2023-23752 - Joomla Improper Access Check in Versions 4.0.0 through 4.2.7 | https://github.com/K3ysTr0K3R/CVE-2023-23752-EXPLOIT | 0 | 0| 
+| 20231204T13:10:58Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5633 | 765| 
 | 20231204T13:00:11Z | Python implementation of ϵ-greedy, UCB, and Tompson Sampling Algorithms for the multi-armed bandits Exploration-Exploitation problem in Reinforcement Learning | https://github.com/tmhrt/multi-armed-bandits | 0 | 0| 
 | 20231204T12:36:15Z | This is a reversed exploit used in a flashloan attack on Raft.Fi | https://github.com/ArtemIrgebaev/RaftReversedExploit | 0 | 0| 
 | 20231204T11:51:56Z | Amnesiac is a post-exploitation framework entirely written in PowerShell and designed to assist with lateral movement within Active Directory environments | https://github.com/Leo4j/Amnesiac | 127 | 30| 
@@ -59,8 +61,6 @@
 | 20231204T10:29:31Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 65 | 12| 
 | 20231204T08:44:26Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5530 | 1075| 
 | 20231204T03:44:35Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5701 | 720| 
-| 20231204T02:36:27Z | Null | https://github.com/vanatka10/exploit | 0 | 0| 
-| 20231204T02:24:00Z | Coding a clone of the chromeos dock to use in a chrome extension for the skiovox exploit | https://github.com/LagTheSystem/ChromeOS-Dock | 0 | 0| 
 
 
 # backdoor on Github 推荐
