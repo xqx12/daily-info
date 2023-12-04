@@ -33,7 +33,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231204T02:48:37Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14540 | 435| 
+| 20231204T02:50:30Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14541 | 435| 
 | 20231204T02:03:02Z | Null | https://github.com/dimitricbrown/KLEEBE | 0 | 0| 
 | 20231203T21:59:15Z | Null | https://github.com/martmull/kleep-coding-game | 0 | 0| 
 | 20231203T18:38:26Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 289 | 54| 
