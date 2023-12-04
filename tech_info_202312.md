@@ -96,6 +96,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231204T02:53:52Z | Null | https://github.com/OtavioNegrizolli/fuzzy-enigma | 0 | 0| 
 | 20231204T02:46:30Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50387 | 23352| 
 | 20231204T02:37:05Z | Null | https://github.com/zhafranammar/fuzzy-madm-implementation | 0 | 0| 
 | 20231204T01:46:42Z | Null | https://github.com/CarsonChannn/fuzzy-couscous | 0 | 0| 
@@ -105,7 +106,6 @@
 | 20231204T00:33:44Z | mi portafolio personal | https://github.com/KaeruDev/fuzzy-garbanzo | 0 | 0| 
 | 20231203T21:44:45Z | Null | https://github.com/tetteres/fuzzy-moon | 0 | 0| 
 | 20231203T21:25:17Z | Modified llvm-17 source tree for DissFuzz project | https://github.com/NikitaEvs/fuzzcoin_llvm | 0 | 0| 
-| 20231203T21:15:50Z | Null | https://github.com/helio-rocha/Trabalho_C213_Fuzzy | 0 | 0| 
 
 
 
