@@ -93,9 +93,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231204T01:01:44Z | Automated On-Chain Fuzzing | https://github.com/jjjutla/GeckoFuzz | 3 | 0| 
 | 20231204T00:51:46Z | Null | https://github.com/HeyNinety/FUZZ-godot-4-brown-noise-player | 0 | 0| 
 | 20231204T00:47:03Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50385 | 23352| 
-| 20231204T00:42:10Z | Automated On-Chain Fuzzing | https://github.com/jjjutla/GeckoFuzz | 0 | 0| 
 | 20231204T00:33:44Z | mi portafolio personal | https://github.com/KaeruDev/fuzzy-garbanzo | 0 | 0| 
 | 20231203T21:44:45Z | Null | https://github.com/tetteres/fuzzy-moon | 0 | 0| 
 | 20231203T21:25:17Z | Modified llvm-17 source tree for DissFuzz project | https://github.com/NikitaEvs/fuzzcoin_llvm | 0 | 0| 
