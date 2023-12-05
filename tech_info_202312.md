@@ -102,13 +102,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231205T13:16:33Z | Penetration-List: A comprehensive resource for testers, covering all types of vulnerabilities and materials used in Penetration Testing. Includes payloads, dorks, fuzzing materials, and offers in-depth theory sections. Visit our Medium profile for more information. | https://github.com/AlbusSec/Penetration-List | 646 | 151| 
 | 20231205T12:40:22Z | Repository for the semesterproject of wi23/24, automatic test-generation with generated fuzzing via jqf | https://github.com/moleukert/Semesterproject2023 | 0 | 0| 
 | 20231205T10:49:07Z | A simple AI demo using fuzzy system. | https://github.com/HyungseobKim/FuzzySystemDemo | 0 | 0| 
 | 20231205T10:35:59Z | Null | https://github.com/codecorrect/Vulnserver-Fuzzer-Lab | 0 | 0| 
 | 20231205T10:23:12Z | Null | https://github.com/Temmarie/fuzzy-octo-spoon | 0 | 0| 
 | 20231205T10:09:15Z | Fuzzers studied for cybersecurity class project. Written in python.  | https://github.com/codecorrect/Fuzzer-Study-Lab | 0 | 0| 
 | 20231205T09:21:39Z | Null | https://github.com/Yuhannakapali/fuzzy-pancake-be | 0 | 0| 
-| 20231205T05:34:46Z | Penetration-List: A comprehensive resource for testers, covering all types of vulnerabilities and materials used in Penetration Testing. Includes payloads, dorks, fuzzing materials, and offers in-depth theory sections. Visit our Medium profile for more information. | https://github.com/AlbusSec/Penetration-List | 645 | 151| 
 | 20231205T04:18:55Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2395 | 307| 
 | 20231205T02:26:42Z | Null | https://github.com/fallnell/Axis-Symmetry_Fuzzy-points | 0 | 0| 
 | 20231205T01:12:37Z | Null | https://github.com/DiegoPriess/fuzzi-atividade-ia | 0 | 0| 
