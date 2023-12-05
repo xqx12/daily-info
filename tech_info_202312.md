@@ -66,6 +66,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231205T02:17:20Z | Null | https://github.com/Nagharjun17/ML-for-Cybersec---Pruning-for-Backdoor-Detection-in-Neural-Nets | 0 | 0| 
 | 20231205T01:57:22Z | ys5250 NYU_MLforCyberSecurity_Lab4_BackdoorAttacks | https://github.com/yogyagit/NYU_MLforCyberSecurity_Lab4_BackdoorAttacks | 0 | 0| 
 | 20231205T01:41:39Z | Null | https://github.com/mannalkamble/Lab-4-Backdoor-Attacks | 0 | 0| 
 | 20231205T01:40:30Z | Null | https://github.com/sukritimacker/backdoor-attack-ML_Lab | 0 | 0| 
@@ -75,7 +76,6 @@
 | 20231205T00:50:49Z | Null | https://github.com/srivikas777/Backdoors | 0 | 0| 
 | 20231205T00:17:12Z | Repo for NYU%s Machine Leraning for Cyber Security course assignment %Backdoor Attacks% | https://github.com/AmruthaPatil/NYU-MLCS-Backdoor-Attacks | 0 | 0| 
 | 20231204T23:31:55Z | Null | https://github.com/ris0801/ML-CyberSecurity-BackdoorAttacks | 0 | 0| 
-| 20231204T22:37:13Z | Null | https://github.com/asishb212/Backdoor-attack-ML-in-cybersec-Lab3 | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
