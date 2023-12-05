@@ -102,7 +102,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231205T13:16:33Z | Penetration-List: A comprehensive resource for testers, covering all types of vulnerabilities and materials used in Penetration Testing. Includes payloads, dorks, fuzzing materials, and offers in-depth theory sections. Visit our Medium profile for more information. | https://github.com/AlbusSec/Penetration-List | 646 | 151| 
+| 20231205T13:16:33Z | Penetration-List: A comprehensive resource for testers, covering all types of vulnerabilities and materials used in Penetration Testing. Includes payloads, dorks, fuzzing materials, and offers in-depth theory sections. Visit our Medium profile for more information. | https://github.com/AlbusSec/Penetration-List | 646 | 152| 
 | 20231205T12:40:22Z | Repository for the semesterproject of wi23/24, automatic test-generation with generated fuzzing via jqf | https://github.com/moleukert/Semesterproject2023 | 0 | 0| 
 | 20231205T10:49:07Z | A simple AI demo using fuzzy system. | https://github.com/HyungseobKim/FuzzySystemDemo | 0 | 0| 
 | 20231205T10:35:59Z | Null | https://github.com/codecorrect/Vulnserver-Fuzzer-Lab | 0 | 0| 
