@@ -66,6 +66,9 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231205T02:49:57Z | Null | https://github.com/NoelNebu2206/MLforCyberSecurity_Lab4_BackdoorAttacks | 0 | 0| 
+| 20231205T02:45:03Z | Null | https://github.com/OmarAlshatti/Backdoor-attacks-lab | 0 | 0| 
+| 20231205T02:40:38Z | Null | https://github.com/moinkhan3012/Backdoor_Pruning_Defence | 0 | 0| 
 | 20231205T02:29:26Z | Null | https://github.com/vamsikrishh0099/ECE-GY-9163-Backdoor-Attack | 0 | 0| 
 | 20231205T02:25:55Z | A backdoor detector for BadNets trained on the YouTube Face dataset using the pruning defense. | https://github.com/singh-priyanshi/backdoor-detector_for_BadNets | 0 | 0| 
 | 20231205T02:17:20Z | Null | https://github.com/Nagharjun17/ML-for-Cybersec---Pruning-for-Backdoor-Detection-in-Neural-Nets | 0 | 0| 
@@ -73,9 +76,6 @@
 | 20231205T01:41:39Z | Null | https://github.com/mannalkamble/Lab-4-Backdoor-Attacks | 0 | 0| 
 | 20231205T01:40:30Z | Null | https://github.com/sukritimacker/backdoor-attack-ML_Lab | 0 | 0| 
 | 20231205T01:18:06Z | Null | https://github.com/sidsingh1809/lab4-backdoor-attacks | 0 | 0| 
-| 20231205T01:14:00Z | Assignment 4 / Lab4 | https://github.com/aniketpant83/MLCS-Backdoor | 0 | 0| 
-| 20231205T00:55:50Z | Null | https://github.com/shreya1313/backdoor-detector | 0 | 0| 
-| 20231205T00:50:49Z | Null | https://github.com/srivikas777/Backdoors | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
