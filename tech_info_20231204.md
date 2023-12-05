@@ -51,9 +51,9 @@
 | 20231204T14:56:37Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 90 | 32| 
 | 20231204T13:43:10Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8991 | 2062| 
 | 20231204T13:36:13Z | A PoC exploit for CVE-2023-23752 - Joomla Improper Access Check in Versions 4.0.0 through 4.2.7 | https://github.com/K3ysTr0K3R/CVE-2023-23752-EXPLOIT | 0 | 0| 
+| 20231204T13:18:28Z | Nacos漏洞综合利用GUI工具，集成了默认口令漏洞、SQL注入漏洞、身份认证绕过漏洞、反序列化漏洞的检测及其利用 | https://github.com/charonlight/NacosExploitGUI | 375 | 22| 
 | 20231204T13:10:58Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5633 | 765| 
 | 20231204T13:00:11Z | Python implementation of ϵ-greedy, UCB, and Tompson Sampling Algorithms for the multi-armed bandits Exploration-Exploitation problem in Reinforcement Learning | https://github.com/tmhrt/multi-armed-bandits | 0 | 0| 
-| 20231204T12:36:15Z | This is a reversed exploit used in a flashloan attack on Raft.Fi | https://github.com/ArtemIrgebaev/RaftReversedExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
