@@ -25,9 +25,9 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231205T12:37:07Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14551 | 436| 
 | 20231205T12:31:32Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 290 | 54| 
 | 20231205T05:22:23Z | Null | https://github.com/wxsonz/op-klee-page | 0 | 0| 
-| 20231205T02:53:51Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14547 | 436| 
 | 20231205T02:33:50Z | Null | https://github.com/dimitricbrown/KLEEBE | 0 | 0| 
 
 
@@ -66,6 +66,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231205T09:23:36Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 714 | 127| 
 | 20231205T00:18:34Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 66 | 9| 
 
 
