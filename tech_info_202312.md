@@ -53,6 +53,7 @@
 | --- | --- | --- | --- | ---| 
 | 20231205T00:38:29Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5532 | 1075| 
 | 20231204T23:10:39Z | Bookmarklet hacks, exploits, and games. Unblocked, in one place. | https://github.com/car-axle-client/car-axle-client | 29 | 16| 
+| 20231204T21:31:36Z | Ronin is a Free and Open Source Ruby Toolkit for Security Research and Development. Ronin also allows for the rapid development and distribution of code, exploits, payloads, etc, via 3rd party git repositories. | https://github.com/ronin-rb/ronin | 592 | 51| 
 | 20231204T18:11:12Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 69 | 35| 
 | 20231204T17:46:40Z | ✨ All NFTs, ETH & Tokens - Multichain & Blur, X2Y2 & Seaport Private Exploits (Better than Pink, Inferno, Monkey, Venom, & Angel) | https://github.com/SolanaDrainers/Crypto-Drainer | 1 | 5| 
 | 20231204T15:24:54Z | 🔓A curated list of modern Android exploitation conference talks.  | https://github.com/actuator/Android-Security-Exploits-YouTube-Curriculum | 334 | 26| 
@@ -60,7 +61,6 @@
 | 20231204T13:43:10Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8991 | 2062| 
 | 20231204T13:36:13Z | A PoC exploit for CVE-2023-23752 - Joomla Improper Access Check in Versions 4.0.0 through 4.2.7 | https://github.com/K3ysTr0K3R/CVE-2023-23752-EXPLOIT | 0 | 0| 
 | 20231204T13:18:28Z | Nacos漏洞综合利用GUI工具，集成了默认口令漏洞、SQL注入漏洞、身份认证绕过漏洞、反序列化漏洞的检测及其利用 | https://github.com/charonlight/NacosExploitGUI | 375 | 22| 
-| 20231204T13:10:58Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5633 | 765| 
 
 
 # backdoor on Github 推荐
