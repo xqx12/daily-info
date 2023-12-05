@@ -51,6 +51,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231205T02:39:05Z | Final project for ECO 386E Introduction to Game Theory, where I present an evolutionary IPD strategy called Chameleon, that attempts to exploit other group strategies through mimicry. | https://github.com/peter1357908/Chameleon | 0 | 0| 
 | 20231205T02:26:29Z | 泛微最近的漏洞利用工具（PS：2023） | https://github.com/zhaoyumi/WeaverExploit_All | 350 | 36| 
 | 20231205T00:38:29Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5532 | 1075| 
 | 20231204T23:10:39Z | Bookmarklet hacks, exploits, and games. Unblocked, in one place. | https://github.com/car-axle-client/car-axle-client | 29 | 16| 
@@ -60,7 +61,6 @@
 | 20231204T15:24:54Z | 🔓A curated list of modern Android exploitation conference talks.  | https://github.com/actuator/Android-Security-Exploits-YouTube-Curriculum | 334 | 26| 
 | 20231204T14:56:37Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 90 | 32| 
 | 20231204T13:43:10Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8991 | 2062| 
-| 20231204T13:36:13Z | A PoC exploit for CVE-2023-23752 - Joomla Improper Access Check in Versions 4.0.0 through 4.2.7 | https://github.com/K3ysTr0K3R/CVE-2023-23752-EXPLOIT | 0 | 0| 
 
 
 # backdoor on Github 推荐
