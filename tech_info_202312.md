@@ -101,6 +101,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231205T02:26:42Z | Null | https://github.com/fallnell/Axis-Symmetry_Fuzzy-points | 0 | 0| 
 | 20231205T01:12:37Z | Null | https://github.com/DiegoPriess/fuzzi-atividade-ia | 0 | 0| 
 | 20231205T00:38:07Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50398 | 23350| 
 | 20231204T23:11:20Z | Null | https://github.com/Danigreen215/fuzzy-octo-disco | 0 | 0| 
@@ -110,7 +111,6 @@
 | 20231204T18:09:29Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9207 | 2053| 
 | 20231204T13:30:06Z | Null | https://github.com/Omi160/fuzzy-parakeet | 0 | 0| 
 | 20231204T09:22:39Z | Null | https://github.com/raphael12346/CPU-Fan-Control-Using-Fuzzy-Logic | 0 | 0| 
-| 20231204T03:49:12Z | Null | https://github.com/RizkiAlkarim/fuzzy_bmi_calculator | 0 | 0| 
 
 
 
