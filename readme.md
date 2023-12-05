@@ -39,6 +39,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231205T12:53:53Z | Cyber lab to explore different memory exploits | https://github.com/gemesa/shadow-shell | 5 | 1| 
 | 20231205T12:21:55Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5703 | 721| 
 | 20231205T09:56:52Z | Null | https://github.com/rpizziol/exploring-exploiting-index | 0 | 0| 
 | 20231205T02:39:05Z | Final project for ECO 386E Introduction to Game Theory, where I present an evolutionary IPD strategy called Chameleon, that attempts to exploit other group strategies through mimicry. | https://github.com/peter1357908/Chameleon | 0 | 0| 

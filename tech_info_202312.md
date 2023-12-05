@@ -52,6 +52,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231205T12:53:53Z | Cyber lab to explore different memory exploits | https://github.com/gemesa/shadow-shell | 5 | 1| 
 | 20231205T12:21:55Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5703 | 721| 
 | 20231205T09:56:52Z | Null | https://github.com/rpizziol/exploring-exploiting-index | 0 | 0| 
 | 20231205T02:39:05Z | Final project for ECO 386E Introduction to Game Theory, where I present an evolutionary IPD strategy called Chameleon, that attempts to exploit other group strategies through mimicry. | https://github.com/peter1357908/Chameleon | 0 | 0| 
@@ -61,7 +62,6 @@
 | 20231205T00:38:29Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5532 | 1075| 
 | 20231204T23:10:39Z | Bookmarklet hacks, exploits, and games. Unblocked, in one place. | https://github.com/car-axle-client/car-axle-client | 29 | 16| 
 | 20231204T21:31:36Z | Ronin is a Free and Open Source Ruby Toolkit for Security Research and Development. Ronin also allows for the rapid development and distribution of code, exploits, payloads, etc, via 3rd party git repositories. | https://github.com/ronin-rb/ronin | 592 | 51| 
-| 20231204T18:11:12Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 69 | 35| 
 
 
 # backdoor on Github 推荐
