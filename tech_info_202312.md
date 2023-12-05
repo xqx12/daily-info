@@ -66,6 +66,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231205T01:18:06Z | Null | https://github.com/sidsingh1809/lab4-backdoor-attacks | 0 | 0| 
+| 20231205T01:14:00Z | Assignment 4 / Lab4 | https://github.com/aniketpant83/MLCS-Backdoor | 0 | 0| 
 | 20231205T00:55:50Z | Null | https://github.com/shreya1313/backdoor-detector | 0 | 0| 
 | 20231205T00:50:49Z | Null | https://github.com/srivikas777/Backdoors | 0 | 0| 
 | 20231205T00:48:05Z | Null | https://github.com/sukritimacker/backdoor-attack-ML_Lab | 0 | 0| 
@@ -74,8 +76,6 @@
 | 20231204T22:37:13Z | Null | https://github.com/asishb212/Backdoor-attack-ML-in-cybersec-Lab3 | 0 | 0| 
 | 20231204T22:34:12Z | Null | https://github.com/Purvav0511/MLSec-BackDoor-Attacks | 0 | 0| 
 | 20231204T21:29:36Z | Null | https://github.com/jashrathod/backdoor-attacks | 0 | 0| 
-| 20231204T21:16:04Z | Null | https://github.com/ctj0710/ML-Cybersec--Backdoor-detector | 0 | 0| 
-| 20231204T20:53:06Z | A demo of a custom-made spigot plugin backdoor. | https://github.com/Nygosaki/SpigotBackdoor | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
