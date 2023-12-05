@@ -51,6 +51,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231205T02:26:29Z | 泛微最近的漏洞利用工具（PS：2023） | https://github.com/zhaoyumi/WeaverExploit_All | 350 | 36| 
 | 20231205T00:38:29Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5532 | 1075| 
 | 20231204T23:10:39Z | Bookmarklet hacks, exploits, and games. Unblocked, in one place. | https://github.com/car-axle-client/car-axle-client | 29 | 16| 
 | 20231204T21:31:36Z | Ronin is a Free and Open Source Ruby Toolkit for Security Research and Development. Ronin also allows for the rapid development and distribution of code, exploits, payloads, etc, via 3rd party git repositories. | https://github.com/ronin-rb/ronin | 592 | 51| 
@@ -60,12 +61,12 @@
 | 20231204T14:56:37Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 90 | 32| 
 | 20231204T13:43:10Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 8991 | 2062| 
 | 20231204T13:36:13Z | A PoC exploit for CVE-2023-23752 - Joomla Improper Access Check in Versions 4.0.0 through 4.2.7 | https://github.com/K3ysTr0K3R/CVE-2023-23752-EXPLOIT | 0 | 0| 
-| 20231204T13:18:28Z | Nacos漏洞综合利用GUI工具，集成了默认口令漏洞、SQL注入漏洞、身份认证绕过漏洞、反序列化漏洞的检测及其利用 | https://github.com/charonlight/NacosExploitGUI | 375 | 22| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231205T02:25:55Z | A backdoor detector for BadNets trained on the YouTube Face dataset using the pruning defense. | https://github.com/singh-priyanshi/backdoor-detector_for_BadNets | 0 | 0| 
 | 20231205T02:17:20Z | Null | https://github.com/Nagharjun17/ML-for-Cybersec---Pruning-for-Backdoor-Detection-in-Neural-Nets | 0 | 0| 
 | 20231205T01:57:22Z | ys5250 NYU_MLforCyberSecurity_Lab4_BackdoorAttacks | https://github.com/yogyagit/NYU_MLforCyberSecurity_Lab4_BackdoorAttacks | 0 | 0| 
 | 20231205T01:41:39Z | Null | https://github.com/mannalkamble/Lab-4-Backdoor-Attacks | 0 | 0| 
@@ -75,7 +76,6 @@
 | 20231205T00:55:50Z | Null | https://github.com/shreya1313/backdoor-detector | 0 | 0| 
 | 20231205T00:50:49Z | Null | https://github.com/srivikas777/Backdoors | 0 | 0| 
 | 20231205T00:17:12Z | Repo for NYU%s Machine Leraning for Cyber Security course assignment %Backdoor Attacks% | https://github.com/AmruthaPatil/NYU-MLCS-Backdoor-Attacks | 0 | 0| 
-| 20231204T23:31:55Z | Null | https://github.com/ris0801/ML-CyberSecurity-BackdoorAttacks | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
