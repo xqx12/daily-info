@@ -78,13 +78,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231206T13:58:17Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4933 | 1176| 
 | 20231206T13:52:27Z | A comparion of solidity fuzzing tools Foundry, Echidna & Medusa | https://github.com/devdacian/solidity-fuzzing-comparison | 6 | 1| 
 | 20231206T13:41:39Z | Null | https://github.com/ttrssreal/dnsmasq-fuzz | 0 | 0| 
 | 20231206T13:31:30Z | Null | https://github.com/yusufkggoglu/golang-FuzzingTool | 0 | 0| 
 | 20231206T13:19:17Z | Null | https://github.com/Just-Tamizha/fuzzy-guacamole-Tamizha | 0 | 0| 
 | 20231206T12:27:30Z | Null | https://github.com/sanjana-sree/fuzzy | 0 | 0| 
 | 20231206T12:04:16Z | Fuzzy system (For tips) using Sugeno and Mamdani | https://github.com/alaaodeh95/fuzzy | 0 | 0| 
-| 20231206T11:24:42Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4933 | 1176| 
 | 20231206T11:09:07Z | Null | https://github.com/aljahane/fuzzy-octo-engine | 0 | 0| 
 | 20231206T09:34:28Z | Null | https://github.com/TheTremblingDoe/go_fuzz_poc | 0 | 0| 
 | 20231206T02:43:44Z | Null | https://github.com/paulolopestech/fuzzy_control | 0 | 0| 
