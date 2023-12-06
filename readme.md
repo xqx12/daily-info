@@ -72,7 +72,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20231205T20:42:19Z | Optimized the movements of Kachua, Performed Fuzzing, Symbolic Execution and Abstract Interpretation | https://github.com/sudikshanavik/CS639_PAVT | 1 | 0| 
-| 20231205T09:23:36Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 714 | 127| 
 | 20231205T00:18:34Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 66 | 9| 
 
 
