@@ -103,7 +103,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231206T01:32:57Z | Fuzzy Search using NodeJS and MongoDB Altas | https://github.com/ksericpro/fuzzysearch | 0 | 0| 
+| 20231206T01:35:51Z | Fuzzy Search using NodeJS and MongoDB Altas | https://github.com/ksericpro/fuzzysearch | 0 | 0| 
 | 20231206T01:31:20Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50434 | 23353| 
 | 20231206T01:16:45Z | A comparion of solidity fuzzing tools Foundry and Echidna | https://github.com/devdacian/solidity-fuzzing-comparison | 1 | 0| 
 | 20231205T23:26:00Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9209 | 2055| 
