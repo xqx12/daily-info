@@ -108,6 +108,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231206T13:23:05Z | Null | https://github.com/ttrssreal/dnsmasq-fuzz | 0 | 0| 
+| 20231206T13:19:17Z | Null | https://github.com/Just-Tamizha/fuzzy-guacamole-Tamizha | 0 | 0| 
 | 20231206T12:51:23Z | A comparion of solidity fuzzing tools Foundry and Echidna | https://github.com/devdacian/solidity-fuzzing-comparison | 5 | 1| 
 | 20231206T12:27:30Z | Null | https://github.com/sanjana-sree/fuzzy | 0 | 0| 
 | 20231206T12:04:16Z | Fuzzy system (For tips) using Sugeno and Mamdani | https://github.com/alaaodeh95/fuzzy | 0 | 0| 
@@ -116,8 +118,6 @@
 | 20231206T09:34:28Z | Null | https://github.com/TheTremblingDoe/go_fuzz_poc | 0 | 0| 
 | 20231206T02:43:44Z | Null | https://github.com/paulolopestech/fuzzy_control | 0 | 0| 
 | 20231206T02:43:10Z | Null | https://github.com/gtrgeg/fuzzy-parakeet | 0 | 0| 
-| 20231206T02:23:40Z | Null | https://github.com/ChinhNT224/Health-index_Fuzzy-logic | 0 | 0| 
-| 20231206T02:05:11Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50433 | 23354| 
 
 
 
