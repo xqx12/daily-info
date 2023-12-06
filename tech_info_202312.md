@@ -103,6 +103,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231206T02:43:44Z | Null | https://github.com/paulolopestech/fuzzy_control | 0 | 0| 
 | 20231206T02:43:10Z | Null | https://github.com/gtrgeg/fuzzy-parakeet | 0 | 0| 
 | 20231206T02:23:55Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4931 | 1177| 
 | 20231206T02:23:40Z | Null | https://github.com/ChinhNT224/Health-index_Fuzzy-logic | 0 | 0| 
@@ -112,7 +113,6 @@
 | 20231205T23:26:00Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9209 | 2055| 
 | 20231205T22:58:07Z | Null | https://github.com/guillaumePoidatz/fuzzy-inference-system-for-smart-grid | 0 | 0| 
 | 20231205T22:15:47Z | Fuzzy%s Last is a web based game where the player enters in a word that is checked against an unknown list of words.  Using a fuzzy search algorithm the player is given the percentage close to a word in the list their guess is.  | https://github.com/baldridgewebdev/fuzzys-last | 0 | 0| 
-| 20231205T13:48:47Z | Null | https://github.com/mdrs-thiago/fuzzy_aggregator_router | 0 | 0| 
 
 
 
