@@ -19,22 +19,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231205T05:54:47Z | CVE-2021-44790 | Thực nghiệm CVE-2021-44790 | https://github.com/nuPacaChi/-CVE-2021-44790 | | 
+| 20231206T00:07:41Z | CVE-2023-1326 | A proof of concept for CVE-2023–1326 in apport-cli 2.26.0 | https://github.com/diego-tella/CVE-2023-1326-PoC | | 
+| 20231205T21:42:32Z | CVE-2021-38297 | A Proof of concept scenario for exploitation of CVE2021-38297 GO WASM buffer-overflow | https://github.com/gkrishnan724/CVE-2021-38297 | | 
+| 20231205T19:23:46Z | CVE-2023-49948 | Null | https://github.com/codeb0ss/CVE-2023-49948-PoC | | 
+| 20231205T17:08:43Z | CVE-2021-44790 | Thực nghiệm CVE-2021-44790 | https://github.com/nuPacaChi/-CVE-2021-44790 | | 
+| 20231205T07:23:00Z | CVE-2023-20198 | CVE-2023-20198 Exploit PoC | https://github.com/smokeintheshell/CVE-2023-20198 | | 
 | 20231205T05:24:57Z | CVE-2023-25690 | Null | https://github.com/thanhlam-attt/CVE-2023-25690 | | 
 | 20231205T05:21:17Z | CVE-2023-24100 | nuclei templates CVE RCE CNVD IoT | https://github.com/badboycxcc/CVE-2023-24100 | | 
 | 20231205T03:24:20Z | CVE-2023-48842 | Null | https://github.com/creacitysec/CVE-2023-48842 | | 
 | 20231204T16:16:48Z | CVE-2023-2024 | For Aina | https://github.com/team890/CVE-2023-2024 | | 
 | 20231204T13:36:13Z | CVE-2023-23752 | A PoC exploit for CVE-2023-23752 - Joomla Improper Access Check in Versions 4.0.0 through 4.2.7 | https://github.com/K3ysTr0K3R/CVE-2023-23752-EXPLOIT | | 
-| 20231204T11:16:10Z | CVE-2023-38831 | Proof-of-concept of CVE-2023-38831 | https://github.com/MyStuffYT/CVE-2023-38831-POC | | 
-| 20231204T09:17:49Z | CVE-2022-38694 | User can execute unsigned binaries with BootROM privileges, which can be used to unlock bootloader | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
-| 20231204T08:48:34Z | CVE-2022-44268 | Null | https://github.com/CygnusX-26/CVE-2022-44268-fixed-PoC | | 
-| 20231204T07:30:15Z | CVE-2023-49103 | PoC for the CVE-2023-49103 | https://github.com/creacitysec/CVE-2023-49103 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231205T13:33:13Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14552 | 436| 
+| 20231206T00:37:29Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14558 | 436| 
 | 20231205T12:31:32Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 290 | 54| 
 | 20231205T05:22:23Z | Null | https://github.com/wxsonz/op-klee-page | 0 | 0| 
 | 20231205T02:33:50Z | Null | https://github.com/dimitricbrown/KLEEBE | 0 | 0| 
@@ -52,31 +52,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231206T00:49:06Z | Null | https://github.com/joaoFinder/Silent-Excel-Exploit-2023 | 0 | 0| 
+| 20231206T00:46:50Z | Silent PDF Exploit | https://github.com/joaoFinder/Silent-PDF-Exploit-2024 | 0 | 0| 
+| 20231206T00:04:10Z | Chrome OS Exploits, is an website that has everything you need for unblocking games or proxies or just websites in general! | https://github.com/i8mb/Chrome-OS-Exploits | 0 | 0| 
+| 20231205T23:29:47Z | This repository contains python and bash scripts that automate exploitations of different HTB machines and THM CTFs | https://github.com/goretti16kate/machine_automations | 0 | 0| 
+| 20231205T23:17:14Z | Null | https://github.com/DockerExploitationFramework/DockerExploitationFramework.github.io | 0 | 0| 
 | 20231205T13:39:53Z | Cyber lab to explore different memory exploits | https://github.com/gemesa/shadow-shell | 5 | 1| 
 | 20231205T12:21:55Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5703 | 721| 
 | 20231205T09:56:52Z | Null | https://github.com/rpizziol/exploring-exploiting-index | 0 | 0| 
 | 20231205T09:22:03Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5532 | 1075| 
-| 20231205T02:39:05Z | Final project for ECO 386E Introduction to Game Theory, where I present an evolutionary IPD strategy called Chameleon, that attempts to exploit other group strategies through mimicry. | https://github.com/peter1357908/Chameleon | 0 | 0| 
-| 20231205T02:26:29Z | 泛微最近的漏洞利用工具（PS：2023） | https://github.com/zhaoyumi/WeaverExploit_All | 350 | 36| 
-| 20231205T01:49:01Z | Null | https://github.com/VulnExpo/ExploitHunter | 13 | 1| 
-| 20231205T01:38:45Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 759 | 184| 
-| 20231204T23:10:39Z | Bookmarklet hacks, exploits, and games. Unblocked, in one place. | https://github.com/car-axle-client/car-axle-client | 29 | 16| 
-| 20231204T21:31:36Z | Ronin is a Free and Open Source Ruby Toolkit for Security Research and Development. Ronin also allows for the rapid development and distribution of code, exploits, payloads, etc, via 3rd party git repositories. | https://github.com/ronin-rb/ronin | 592 | 51| 
+| 20231205T07:23:00Z | CVE-2023-20198 Exploit PoC | https://github.com/smokeintheshell/CVE-2023-20198 | 6 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231205T05:59:58Z | OJSP-ICAPSS : Universalizing Speech Backdoor Attacks: Overcoming the Limitations of Audio Triggers | https://github.com/OrsonTyphanel93/ICAPSS | 0 | 0| 
+| 20231205T23:20:40Z | Null | https://github.com/bka2022/ECE9163_Lab4_BackdoorAttacks | 0 | 0| 
+| 20231205T22:11:35Z | Very very simple Anydesk backdoor. | https://github.com/red5us/VerySimpleAnyDeskBackdoor | 0 | 0| 
+| 20231205T21:21:35Z | A webshell that can bypass some system security, all code has been obfuscated to bypass malware scans freely. | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 118 | 67| 
+| 20231205T20:55:48Z | OJSP-ICAPSS : Universalizing Speech Backdoor Attacks: Overcoming the Limitations of Audio Triggers | https://github.com/OrsonTyphanel93/ICAPSS | 0 | 0| 
+| 20231205T20:40:04Z | Null | https://github.com/pk6797/MLCyber-BackdoorAttacks | 0 | 0| 
+| 20231205T17:44:47Z | Null | https://github.com/AuxGrep/unix_backdoor-socket | 0 | 1| 
+| 20231205T15:38:49Z | Null | https://github.com/daothinh/ptit-shell-backdoor | 0 | 0| 
+| 20231205T14:26:41Z | VySecator Is a Python Script Obfuscation Tool, Which can be used to Obfuscate your hand written Malwares and your Hand Written Scripts! | https://github.com/Vedant-Bhalgama/VySecator | 69 | 11| 
 | 20231205T05:05:07Z | Null | https://github.com/NoelNebu2206/MLforCyberSecurity_Lab4_BackdoorAttacks | 0 | 0| 
 | 20231205T04:54:38Z | Null | https://github.com/jayanthguduru/Lab4-BackdoorAttacks | 0 | 0| 
-| 20231205T04:52:49Z | Null | https://github.com/codeshark2/Backdoor_detector | 0 | 0| 
-| 20231205T04:51:28Z | Null | https://github.com/ris0801/ML-CyberSecurity-BackdoorAttacks | 0 | 0| 
-| 20231205T04:48:58Z | Null | https://github.com/sidsingh1809/lab4-backdoor-attacks | 0 | 0| 
-| 20231205T04:39:22Z | Codebase for the work done as part of the Backdoor Attacks assignment. | https://github.com/shashankshekhardehradun/ML_For_CyberSec_Backdoor_Attacks | 0 | 0| 
-| 20231205T04:28:04Z | Null | https://github.com/sprihajha/BackdoorAttacks | 0 | 0| 
-| 20231205T04:21:59Z | Null | https://github.com/dgh007786/BackdoorAttacks | 0 | 0| 
-| 20231205T04:17:49Z | Null | https://github.com/avinash4720/ML-For-Cybersecurity--Analysis-and-Evaluation-of-Backdoor-Detection-in-Cybersecurity-Models---BadNet | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -102,16 +102,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231206T00:55:57Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50431 | 23353| 
+| 20231205T23:26:00Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9209 | 2055| 
+| 20231205T22:58:07Z | Null | https://github.com/guillaumePoidatz/fuzzy-inference-system-for-smart-grid | 0 | 0| 
+| 20231205T22:15:47Z | Fuzzy%s Last is a web based game where the player enters in a word that is checked against an unknown list of words.  Using a fuzzy search algorithm the player is given the percentage close to a word in the list their guess is.  | https://github.com/baldridgewebdev/fuzzys-last | 0 | 0| 
 | 20231205T13:48:47Z | Null | https://github.com/mdrs-thiago/fuzzy_aggregator_router | 0 | 0| 
 | 20231205T13:46:31Z | Penetration-List: A comprehensive resource for testers, covering all types of vulnerabilities and materials used in Penetration Testing. Includes payloads, dorks, fuzzing materials, and offers in-depth theory sections. Visit our Medium profile for more information. | https://github.com/AlbusSec/Penetration-List | 647 | 152| 
 | 20231205T13:38:33Z | Bulanık mantık tabanlı mikrodalga fırın kontrol sistemi | https://github.com/zeynepinan02/Fuzzy-Logic-Based-Microwave-Oven | 0 | 0| 
 | 20231205T12:40:22Z | Repository for the semesterproject of wi23/24, automatic test-generation with generated fuzzing via jqf | https://github.com/moleukert/Semesterproject2023 | 0 | 0| 
 | 20231205T11:25:32Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4931 | 1177| 
 | 20231205T10:49:07Z | A simple AI demo using fuzzy system. | https://github.com/HyungseobKim/FuzzySystemDemo | 0 | 0| 
-| 20231205T10:35:59Z | Null | https://github.com/codecorrect/Vulnserver-Fuzzer-Lab | 0 | 0| 
-| 20231205T10:23:12Z | Null | https://github.com/Temmarie/fuzzy-octo-spoon | 0 | 0| 
-| 20231205T10:09:15Z | Fuzzers studied for cybersecurity class project. Written in python.  | https://github.com/codecorrect/Fuzzer-Study-Lab | 0 | 0| 
-| 20231205T09:21:39Z | Null | https://github.com/Yuhannakapali/fuzzy-pancake-be | 0 | 0| 
 
 
 
