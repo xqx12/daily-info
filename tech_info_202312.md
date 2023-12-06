@@ -103,9 +103,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231206T01:59:19Z | A comparion of solidity fuzzing tools Foundry and Echidna | https://github.com/devdacian/solidity-fuzzing-comparison | 2 | 1| 
 | 20231206T01:35:51Z | Fuzzy Search using NodeJS and MongoDB Altas | https://github.com/ksericpro/fuzzysearch | 0 | 0| 
 | 20231206T01:31:20Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50434 | 23353| 
-| 20231206T01:16:45Z | A comparion of solidity fuzzing tools Foundry and Echidna | https://github.com/devdacian/solidity-fuzzing-comparison | 1 | 0| 
 | 20231205T23:26:00Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9209 | 2055| 
 | 20231205T22:58:07Z | Null | https://github.com/guillaumePoidatz/fuzzy-inference-system-for-smart-grid | 0 | 0| 
 | 20231205T22:15:47Z | Fuzzy%s Last is a web based game where the player enters in a word that is checked against an unknown list of words.  Using a fuzzy search algorithm the player is given the percentage close to a word in the list their guess is.  | https://github.com/baldridgewebdev/fuzzys-last | 0 | 0| 
