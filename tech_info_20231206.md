@@ -40,6 +40,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231206T13:03:14Z | This System allows you to change your uuid, therefor allows you to abuse some bungeecord exploits | https://github.com/SimonDE2107-DEV/BungeeHack | 0 | 0| 
 | 20231206T13:01:31Z | PDF Silent EXPLOIT 0DAY | https://github.com/AureoleHuertose2/PDF | 1 | 0| 
 | 20231206T12:38:38Z | My Binary Exploitation Collection. | https://github.com/anishferoz007/Binary-Exploitation | 0 | 0| 
 | 20231206T11:52:48Z | Null | https://github.com/hitfounder/exploit | 0 | 0| 
