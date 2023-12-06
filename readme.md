@@ -40,7 +40,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231206T12:38:42Z | PDF Silent EXPLOIT 0DAY | https://github.com/AureoleHuertose2/PDF | 0 | 0| 
+| 20231206T13:01:31Z | PDF Silent EXPLOIT 0DAY | https://github.com/AureoleHuertose2/PDF | 1 | 0| 
 | 20231206T12:38:38Z | My Binary Exploitation Collection. | https://github.com/anishferoz007/Binary-Exploitation | 0 | 0| 
 | 20231206T11:52:48Z | Null | https://github.com/hitfounder/exploit | 0 | 0| 
 | 20231206T11:04:59Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5707 | 722| 
@@ -62,6 +62,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231206T11:34:38Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2366 | 643| 
+| 20231206T07:47:36Z | Playing with the Tigress software protection. Break some of its protections and solve their reverse engineering challenges. Automatic deobfuscation using symbolic execution, taint analysis and LLVM. | https://github.com/JonathanSalwan/Tigress_protection | 754 | 148| 
 | 20231206T02:23:09Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 713 | 127| 
 
 

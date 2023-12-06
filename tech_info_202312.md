@@ -56,7 +56,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231206T12:38:42Z | PDF Silent EXPLOIT 0DAY | https://github.com/AureoleHuertose2/PDF | 0 | 0| 
+| 20231206T13:01:31Z | PDF Silent EXPLOIT 0DAY | https://github.com/AureoleHuertose2/PDF | 1 | 0| 
 | 20231206T12:38:38Z | My Binary Exploitation Collection. | https://github.com/anishferoz007/Binary-Exploitation | 0 | 0| 
 | 20231206T11:52:48Z | Null | https://github.com/hitfounder/exploit | 0 | 0| 
 | 20231206T11:04:59Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5707 | 722| 
@@ -86,12 +86,13 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231206T11:34:38Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2366 | 643| 
+| 20231206T07:47:36Z | Playing with the Tigress software protection. Break some of its protections and solve their reverse engineering challenges. Automatic deobfuscation using symbolic execution, taint analysis and LLVM. | https://github.com/JonathanSalwan/Tigress_protection | 754 | 148| 
 | 20231206T02:23:09Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 713 | 127| 
 | 20231205T20:42:19Z | Optimized the movements of Kachua, Performed Fuzzing, Symbolic Execution and Abstract Interpretation | https://github.com/sudikshanavik/CS639_PAVT | 1 | 0| 
 | 20231205T00:18:34Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 66 | 9| 
 | 20231204T02:43:15Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 268 | 36| 
 | 20231203T05:06:46Z | gradient-based symbolic execution engine implemented from scratch | https://github.com/Koukyosyumei/Gymbo | 24 | 0| 
-| 20231203T03:05:03Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2365 | 641| 
 | 20231201T13:49:48Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 470 | 33| 
 | 20231201T05:53:04Z | A symbolic execution engine for peephole optimization | https://github.com/skberkeley/sepo | 1 | 0| 
 
