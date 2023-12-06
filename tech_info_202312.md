@@ -57,11 +57,11 @@
 | 20231206T00:04:10Z | Chrome OS Exploits, is an website that has everything you need for unblocking games or proxies or just websites in general! | https://github.com/i8mb/Chrome-OS-Exploits | 0 | 0| 
 | 20231205T23:29:47Z | This repository contains python and bash scripts that automate exploitations of different HTB machines and THM CTFs | https://github.com/goretti16kate/machine_automations | 0 | 0| 
 | 20231205T23:17:14Z | Null | https://github.com/DockerExploitationFramework/DockerExploitationFramework.github.io | 0 | 0| 
+| 20231205T16:43:55Z | A linearity-exploiting sparse nonlinear constrained optimization problem solver that uses the interior-point method. | https://github.com/SleipnirGroup/Sleipnir | 20 | 3| 
 | 20231205T13:39:53Z | Cyber lab to explore different memory exploits | https://github.com/gemesa/shadow-shell | 5 | 1| 
 | 20231205T12:21:55Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5703 | 721| 
 | 20231205T09:56:52Z | Null | https://github.com/rpizziol/exploring-exploiting-index | 0 | 0| 
 | 20231205T09:22:03Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5532 | 1075| 
-| 20231205T07:23:00Z | CVE-2023-20198 Exploit PoC | https://github.com/smokeintheshell/CVE-2023-20198 | 6 | 0| 
 
 
 # backdoor on Github 推荐

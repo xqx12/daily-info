@@ -43,6 +43,7 @@
 | --- | --- | --- | --- | ---| 
 | 20231205T23:29:47Z | This repository contains python and bash scripts that automate exploitations of different HTB machines and THM CTFs | https://github.com/goretti16kate/machine_automations | 0 | 0| 
 | 20231205T23:17:14Z | Null | https://github.com/DockerExploitationFramework/DockerExploitationFramework.github.io | 0 | 0| 
+| 20231205T16:43:55Z | A linearity-exploiting sparse nonlinear constrained optimization problem solver that uses the interior-point method. | https://github.com/SleipnirGroup/Sleipnir | 20 | 3| 
 | 20231205T13:39:53Z | Cyber lab to explore different memory exploits | https://github.com/gemesa/shadow-shell | 5 | 1| 
 | 20231205T12:21:55Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5703 | 721| 
 | 20231205T09:56:52Z | Null | https://github.com/rpizziol/exploring-exploiting-index | 0 | 0| 
@@ -50,7 +51,6 @@
 | 20231205T07:23:00Z | CVE-2023-20198 Exploit PoC | https://github.com/smokeintheshell/CVE-2023-20198 | 6 | 0| 
 | 20231205T02:39:05Z | Final project for ECO 386E Introduction to Game Theory, where I present an evolutionary IPD strategy called Chameleon, that attempts to exploit other group strategies through mimicry. | https://github.com/peter1357908/Chameleon | 0 | 0| 
 | 20231205T02:26:29Z | 泛微最近的漏洞利用工具（PS：2023） | https://github.com/zhaoyumi/WeaverExploit_All | 350 | 36| 
-| 20231205T01:49:01Z | Null | https://github.com/VulnExpo/ExploitHunter | 13 | 1| 
 
 
 # backdoor on Github 推荐
