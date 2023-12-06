@@ -67,6 +67,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231206T02:13:49Z | Title: Remote Command Execution with Python Backdoor : This setup involves two Python scripts – %backdoor% and %server.% After deploying the %backdoor% script on a Windows system and initiating the %server% on a Linux machine, a secure communication channel is established. This allows the user to remotely execute commands on the Windows shell | https://github.com/bbabayaga/BackDoor- | 0 | 0| 
 | 20231205T23:20:40Z | Null | https://github.com/bka2022/ECE9163_Lab4_BackdoorAttacks | 0 | 0| 
 | 20231205T22:11:35Z | Very very simple Anydesk backdoor. | https://github.com/red5us/VerySimpleAnyDeskBackdoor | 0 | 0| 
 | 20231205T21:21:35Z | A webshell that can bypass some system security, all code has been obfuscated to bypass malware scans freely. | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 118 | 67| 
@@ -76,7 +77,6 @@
 | 20231205T15:38:49Z | Null | https://github.com/daothinh/ptit-shell-backdoor | 0 | 0| 
 | 20231205T14:26:41Z | VySecator Is a Python Script Obfuscation Tool, Which can be used to Obfuscate your hand written Malwares and your Hand Written Scripts! | https://github.com/Vedant-Bhalgama/VySecator | 69 | 11| 
 | 20231205T05:05:07Z | Null | https://github.com/NoelNebu2206/MLforCyberSecurity_Lab4_BackdoorAttacks | 0 | 0| 
-| 20231205T04:54:38Z | Null | https://github.com/jayanthguduru/Lab4-BackdoorAttacks | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
