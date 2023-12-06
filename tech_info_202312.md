@@ -23,6 +23,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231206T13:05:22Z | CVE-2023-46474 | PoC for CVE-2023-46474. | https://github.com/Xn2/CVE-2023-46474 | | 
 | 20231206T12:44:12Z | CVE-2023-1326 | A proof of concept for CVE-2023–1326 in apport-cli 2.26.0 | https://github.com/diego-tella/CVE-2023-1326-PoC | | 
 | 20231206T12:35:36Z | CVE-2022-28672 | Foxit PDF Reader Remote Code Execution Exploit | https://github.com/hacksysteam/CVE-2022-28672 | | 
 | 20231206T10:47:54Z | CVE-2020-25213 | Null | https://github.com/Nguyen-id/CVE-2020-25213 | | 
@@ -32,7 +33,6 @@
 | 20231205T07:23:00Z | CVE-2023-20198 | CVE-2023-20198 Exploit PoC | https://github.com/smokeintheshell/CVE-2023-20198 | | 
 | 20231205T05:24:57Z | CVE-2023-25690 | Null | https://github.com/thanhlam-attt/CVE-2023-25690 | | 
 | 20231205T05:21:17Z | CVE-2023-24100 | nuclei templates CVE RCE CNVD IoT | https://github.com/badboycxcc/CVE-2023-24100 | | 
-| 20231205T03:24:20Z | CVE-2023-48842 | Null | https://github.com/creacitysec/CVE-2023-48842 | | 
 
 
 # klee on Github 推荐
