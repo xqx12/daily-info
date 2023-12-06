@@ -103,6 +103,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231206T02:22:01Z | Null | https://github.com/ChinhNT224/Health-index_Fuzzy-logic | 0 | 0| 
 | 20231206T02:05:11Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50433 | 23354| 
 | 20231206T01:59:19Z | A comparion of solidity fuzzing tools Foundry and Echidna | https://github.com/devdacian/solidity-fuzzing-comparison | 2 | 1| 
 | 20231206T01:35:51Z | Fuzzy Search using NodeJS and MongoDB Altas | https://github.com/ksericpro/fuzzysearch | 0 | 0| 
@@ -112,7 +113,6 @@
 | 20231205T13:48:47Z | Null | https://github.com/mdrs-thiago/fuzzy_aggregator_router | 0 | 0| 
 | 20231205T13:46:31Z | Penetration-List: A comprehensive resource for testers, covering all types of vulnerabilities and materials used in Penetration Testing. Includes payloads, dorks, fuzzing materials, and offers in-depth theory sections. Visit our Medium profile for more information. | https://github.com/AlbusSec/Penetration-List | 647 | 152| 
 | 20231205T13:38:33Z | Bulanık mantık tabanlı mikrodalga fırın kontrol sistemi | https://github.com/zeynepinan02/Fuzzy-Logic-Based-Microwave-Oven | 0 | 0| 
-| 20231205T12:40:22Z | Repository for the semesterproject of wi23/24, automatic test-generation with generated fuzzing via jqf | https://github.com/moleukert/Semesterproject2023 | 0 | 0| 
 
 
 
