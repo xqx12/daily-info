@@ -41,6 +41,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231206T13:49:48Z | Null | https://github.com/AdrienT34490/Projet_exploitation_donnees | 0 | 0| 
 | 20231206T13:03:14Z | This System allows you to change your uuid, therefor allows you to abuse some bungeecord exploits | https://github.com/SimonDE2107-DEV/BungeeHack | 0 | 0| 
 | 20231206T13:01:31Z | PDF Silent EXPLOIT 0DAY | https://github.com/AureoleHuertose2/PDF | 1 | 0| 
 | 20231206T12:38:38Z | My Binary Exploitation Collection. | https://github.com/anishferoz007/Binary-Exploitation | 0 | 0| 
@@ -50,7 +51,6 @@
 | 20231206T06:52:49Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5533 | 1075| 
 | 20231206T00:49:06Z | Null | https://github.com/joaoFinder/Silent-Excel-Exploit-2023 | 0 | 0| 
 | 20231206T00:46:50Z | Silent PDF Exploit | https://github.com/joaoFinder/Silent-PDF-Exploit-2024 | 0 | 0| 
-| 20231206T00:04:10Z | Chrome OS Exploits, is an website that has everything you need for unblocking games or proxies or just websites in general! | https://github.com/i8mb/Chrome-OS-Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
