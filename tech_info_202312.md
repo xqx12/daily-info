@@ -76,11 +76,11 @@
 | 20231206T02:49:25Z | Title: Remote Command Execution with Python Backdoor : This setup involves two Python scripts – %backdoor% and %server.% After deploying the %backdoor% script on a Windows system and initiating the %server% on a Linux machine, a secure communication channel is established. This allows the user to remotely execute commands on the Windows shell | https://github.com/bbabayaga/BackDoor- | 0 | 0| 
 | 20231205T23:20:40Z | Null | https://github.com/bka2022/ECE9163_Lab4_BackdoorAttacks | 0 | 0| 
 | 20231205T22:11:35Z | Very very simple Anydesk backdoor. | https://github.com/red5us/VerySimpleAnyDeskBackdoor | 0 | 0| 
+| 20231205T21:20:58Z | Python 3 ChatBot / Botnet | https://github.com/trackmastersteve/HackServ | 34 | 22| 
 | 20231205T20:55:48Z | OJSP-ICAPSS : Universalizing Speech Backdoor Attacks: Overcoming the Limitations of Audio Triggers | https://github.com/OrsonTyphanel93/ICAPSS | 0 | 0| 
 | 20231205T17:44:47Z | Null | https://github.com/AuxGrep/unix_backdoor-socket | 0 | 1| 
 | 20231205T15:38:49Z | Null | https://github.com/daothinh/ptit-shell-backdoor | 0 | 0| 
 | 20231205T14:26:41Z | VySecator Is a Python Script Obfuscation Tool, Which can be used to Obfuscate your hand written Malwares and your Hand Written Scripts! | https://github.com/Vedant-Bhalgama/VySecator | 69 | 11| 
-| 20231205T13:17:31Z | PHP shell backdoors list  ( collection ) | https://github.com/1337r0j4n/php-backdoors | 80 | 32| 
 
 
 # symbolic execution on Github 推荐
