@@ -63,6 +63,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231207T06:08:26Z | Playing with the Tigress software protection. Break some of its protections and solve their reverse engineering challenges. Automatic deobfuscation using symbolic execution, taint analysis and LLVM. | https://github.com/JonathanSalwan/Tigress_protection | 755 | 149| 
+| 20231207T03:04:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2367 | 643| 
 
 
 # big4 on Github 推荐
