@@ -61,11 +61,11 @@
 | 20231206T23:18:15Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-y | 1 | 0| 
 | 20231206T23:17:40Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-y | 1 | 0| 
 | 20231206T23:17:05Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-y | 1 | 0| 
+| 20231206T20:12:19Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 236 | 17| 
 | 20231206T13:49:48Z | Null | https://github.com/AdrienT34490/Projet_exploitation_donnees | 0 | 0| 
 | 20231206T13:03:14Z | This System allows you to change your uuid, therefor allows you to abuse some bungeecord exploits | https://github.com/SimonDE2107-DEV/BungeeHack | 0 | 0| 
 | 20231206T13:01:31Z | PDF Silent EXPLOIT 0DAY | https://github.com/AureoleHuertose2/PDF | 1 | 0| 
 | 20231206T12:38:38Z | My Binary Exploitation Collection. | https://github.com/anishferoz007/Binary-Exploitation | 0 | 0| 
-| 20231206T11:52:48Z | Null | https://github.com/hitfounder/exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
