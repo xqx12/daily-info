@@ -56,6 +56,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231207T01:05:31Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-b86828c5-7a4e-43d5-9374-69cba606f9ec-_TZ-g-exploit-help | 0 | 0| 
 | 20231207T00:36:53Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5534 | 1075| 
 | 20231206T23:18:15Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-y | 1 | 0| 
 | 20231206T23:17:40Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-y | 1 | 0| 
@@ -65,7 +66,6 @@
 | 20231206T13:01:31Z | PDF Silent EXPLOIT 0DAY | https://github.com/AureoleHuertose2/PDF | 1 | 0| 
 | 20231206T12:38:38Z | My Binary Exploitation Collection. | https://github.com/anishferoz007/Binary-Exploitation | 0 | 0| 
 | 20231206T11:52:48Z | Null | https://github.com/hitfounder/exploit | 0 | 0| 
-| 20231206T11:04:59Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5707 | 722| 
 
 
 # backdoor on Github 推荐
