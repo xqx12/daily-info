@@ -109,7 +109,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20231207T00:28:37Z | Null | https://github.com/RicksGhost/fuzzy-happiness | 0 | 0| 
-| 20231207T00:15:53Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50453 | 23360| 
+| 20231207T00:15:53Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50453 | 23361| 
 | 20231207T00:03:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9212 | 2057| 
 | 20231207T00:00:29Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2905 | 536| 
 | 20231206T21:56:47Z | a small coverage guided fuzzer in c++ | https://github.com/scriptus-longus/tinyfuzz | 0 | 0| 
