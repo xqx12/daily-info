@@ -77,6 +77,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231207T13:48:51Z | Null | https://github.com/BlueSpider0130/Ruby_Fuzzle | 0 | 0| 
 | 20231207T13:30:22Z | Null | https://github.com/Suneelvijay/fuzzy | 0 | 0| 
 | 20231207T12:32:21Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9214 | 2057| 
 | 20231207T12:12:26Z | Null | https://github.com/KKaramurza/fuzzy-engine | 1 | 0| 
@@ -86,7 +87,6 @@
 | 20231207T02:36:13Z | A collection of blender tools for an efficient 1-person pipeline with multi-camera workflow. | https://github.com/sagotoons/fuzzytools | 3 | 0| 
 | 20231207T01:12:23Z | A quiz taking and making website, similar to BuzzFeed Quizzes. | https://github.com/robertjshirts/BizzFuzz | 1 | 0| 
 | 20231207T00:28:37Z | Null | https://github.com/RicksGhost/fuzzy-happiness | 0 | 0| 
-| 20231207T00:00:29Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2905 | 536| 
 
 
 
