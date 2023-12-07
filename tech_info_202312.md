@@ -56,6 +56,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231207T02:07:52Z | Null | https://github.com/bluesniffer/exploit-development | 0 | 0| 
 | 20231207T01:58:34Z | Null | https://github.com/exploitzscripterson/exploitzscriperson.github.io | 0 | 0| 
 | 20231207T01:05:31Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-b86828c5-7a4e-43d5-9374-69cba606f9ec-_TZ-g-exploit-help | 0 | 0| 
 | 20231207T00:36:53Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5534 | 1075| 
@@ -65,7 +66,6 @@
 | 20231206T20:12:19Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 236 | 17| 
 | 20231206T13:49:48Z | Null | https://github.com/AdrienT34490/Projet_exploitation_donnees | 0 | 0| 
 | 20231206T13:03:14Z | This System allows you to change your uuid, therefor allows you to abuse some bungeecord exploits | https://github.com/SimonDE2107-DEV/BungeeHack | 0 | 0| 
-| 20231206T13:01:31Z | PDF Silent EXPLOIT 0DAY | https://github.com/AureoleHuertose2/PDF | 1 | 0| 
 
 
 # backdoor on Github 推荐
