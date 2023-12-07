@@ -71,6 +71,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231207T01:56:13Z | A Discord Bot for Backdoors and Breaches. Pre-Alpha State Is Not Fully Functional | https://github.com/simeononsecurity/discord-backdoors-and-breaches | 6 | 2| 
 | 20231207T00:53:18Z | %Lab3-BackDoor-Attacks% project, a comprehensive exploration and solution for identifying and mitigating backdoor attacks in neural networks, specifically focusing on BadNets trained on the YouTube Face dataset. | https://github.com/aneekroy/Lab3-BackDoor-Attacks | 0 | 0| 
 | 20231207T00:37:37Z | Official implementation of S&P%24 paper: ODSCAN: Backdoor Scanning for Object Detection Models | https://github.com/Megum1/ODSCAN | 1 | 0| 
 | 20231207T00:30:05Z | A webshell that can bypass some system security, all code has been obfuscated to bypass malware scans freely. | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 128 | 68| 
@@ -80,7 +81,6 @@
 | 20231206T17:29:10Z | BACKDOOR, CLIENT BACKDOOR | https://github.com/lucaman93/S3-L2 | 0 | 0| 
 | 20231206T17:00:41Z | This is a simple backdoor script trigerer | https://github.com/MuhireIghor/netsec_backdoor | 0 | 0| 
 | 20231206T10:26:23Z | Null | https://github.com/SCLBD/BackdoorBench | 248 | 34| 
-| 20231206T07:00:22Z | Null | https://github.com/pk6797/MLCyber-BackdoorAttacks | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
