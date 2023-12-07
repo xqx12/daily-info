@@ -23,23 +23,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231207T08:08:52Z | CVE-2023-21285 | Null | https://github.com/uthrasri/framework_base_CVE-2023-21285_NoPatch | | 
+| 20231207T07:38:41Z | CVE-2023-21145 | Null | https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-21145 | | 
+| 20231207T06:17:39Z | CVE-2023-28432 | CVE-2023-28432 Minio Information isclosure Exploit | https://github.com/C1ph3rX13/CVE-2023-28432 | | 
+| 20231207T03:47:00Z | CVE-2023-24078 | Null | https://github.com/ag-rodriguez/CVE-2023-24078 | | 
 | 20231206T21:25:52Z | CVE-2022-26923 | A proof of concept exploiting CVE-2022-26923. | https://github.com/Gh-Badr/CVE-2022-26923 | | 
 | 20231206T13:05:22Z | CVE-2023-46474 | PoC for CVE-2023-46474. | https://github.com/Xn2/CVE-2023-46474 | | 
 | 20231206T12:44:12Z | CVE-2023-1326 | A proof of concept for CVE-2023–1326 in apport-cli 2.26.0 | https://github.com/diego-tella/CVE-2023-1326-PoC | | 
 | 20231206T12:35:36Z | CVE-2022-28672 | Foxit PDF Reader Remote Code Execution Exploit | https://github.com/hacksysteam/CVE-2022-28672 | | 
 | 20231206T10:47:54Z | CVE-2020-25213 | Null | https://github.com/Nguyen-id/CVE-2020-25213 | | 
 | 20231205T21:42:32Z | CVE-2021-38297 | A Proof of concept scenario for exploitation of CVE2021-38297 GO WASM buffer-overflow | https://github.com/gkrishnan724/CVE-2021-38297 | | 
-| 20231205T19:23:46Z | CVE-2023-49948 | Null | https://github.com/codeb0ss/CVE-2023-49948-PoC | | 
-| 20231205T17:08:43Z | CVE-2021-44790 | Thực nghiệm CVE-2021-44790 | https://github.com/nuPacaChi/-CVE-2021-44790 | | 
-| 20231205T07:23:00Z | CVE-2023-20198 | CVE-2023-20198 Exploit PoC | https://github.com/smokeintheshell/CVE-2023-20198 | | 
-| 20231205T05:24:57Z | CVE-2023-25690 | Null | https://github.com/thanhlam-attt/CVE-2023-25690 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231207T01:05:49Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14566 | 435| 
-| 20231206T15:38:40Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2366 | 643| 
+| 20231207T12:52:20Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14572 | 435| 
+| 20231207T03:04:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2367 | 643| 
 | 20231205T12:31:32Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 290 | 54| 
 | 20231205T05:22:23Z | Null | https://github.com/wxsonz/op-klee-page | 0 | 0| 
 | 20231205T02:33:50Z | Null | https://github.com/dimitricbrown/KLEEBE | 0 | 0| 
@@ -56,31 +56,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231207T12:24:32Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5536 | 1076| 
+| 20231207T11:18:46Z | Location Tracking using SS7 exploits | https://github.com/SS7Hacking/locationtracking | 0 | 0| 
+| 20231207T09:15:15Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5708 | 722| 
+| 20231207T09:14:58Z | Null | https://github.com/vulsio/vuls-data-raw-exploit-inthewild | 1 | 1| 
+| 20231207T03:03:00Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 176 | 14| 
 | 20231207T02:13:51Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5638 | 765| 
 | 20231207T02:07:52Z | Null | https://github.com/bluesniffer/exploit-development | 0 | 0| 
 | 20231207T01:58:34Z | Null | https://github.com/exploitzscripterson/exploitzscriperson.github.io | 0 | 0| 
 | 20231207T01:05:31Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-b86828c5-7a4e-43d5-9374-69cba606f9ec-_TZ-g-exploit-help | 0 | 0| 
-| 20231207T00:36:53Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5534 | 1076| 
 | 20231206T23:18:15Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-y | 1 | 0| 
-| 20231206T23:17:40Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-y | 1 | 0| 
-| 20231206T23:17:05Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-y | 1 | 0| 
-| 20231206T20:12:19Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 236 | 17| 
-| 20231206T13:49:48Z | Null | https://github.com/AdrienT34490/Projet_exploitation_donnees | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231207T10:53:11Z | A webshell that can bypass some system security, all code has been obfuscated to bypass malware scans freely. | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 130 | 69| 
+| 20231207T07:40:00Z | This is a simple backdoor script trigerer | https://github.com/MuhireIghor/netsec_backdoor | 1 | 0| 
+| 20231207T05:41:39Z | Null | https://github.com/jayanthguduru/Lab4-BackdoorAttacks | 0 | 0| 
 | 20231207T01:56:13Z | A Discord Bot for Backdoors and Breaches. Pre-Alpha State Is Not Fully Functional | https://github.com/simeononsecurity/discord-backdoors-and-breaches | 6 | 2| 
 | 20231207T00:53:18Z | %Lab3-BackDoor-Attacks% project, a comprehensive exploration and solution for identifying and mitigating backdoor attacks in neural networks, specifically focusing on BadNets trained on the YouTube Face dataset. | https://github.com/aneekroy/Lab3-BackDoor-Attacks | 0 | 0| 
 | 20231207T00:37:37Z | Official implementation of S&P%24 paper: ODSCAN: Backdoor Scanning for Object Detection Models | https://github.com/Megum1/ODSCAN | 1 | 0| 
-| 20231207T00:30:05Z | A webshell that can bypass some system security, all code has been obfuscated to bypass malware scans freely. | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 128 | 68| 
 | 20231207T00:12:34Z | Null | https://github.com/DrQu89757/backdoor_attack_in_WFL | 0 | 0| 
 | 20231206T21:28:05Z | Cloak can backdoor any python script with some tricks. | https://github.com/MohammedSalama/Cloak | 0 | 0| 
 | 20231206T18:08:18Z | The open-sourced Python toolbox for backdoor attacks and defenses. | https://github.com/THUYimingLi/BackdoorBox | 325 | 57| 
 | 20231206T17:29:10Z | BACKDOOR, CLIENT BACKDOOR | https://github.com/lucaman93/S3-L2 | 0 | 0| 
-| 20231206T17:00:41Z | This is a simple backdoor script trigerer | https://github.com/MuhireIghor/netsec_backdoor | 0 | 0| 
-| 20231206T10:26:23Z | Null | https://github.com/SCLBD/BackdoorBench | 248 | 34| 
 
 
 # symbolic execution on Github 推荐
@@ -108,16 +108,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231207T12:32:21Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9214 | 2057| 
+| 20231207T12:12:26Z | Null | https://github.com/KKaramurza/fuzzy-engine | 1 | 0| 
+| 20231207T10:00:48Z | My second DTProject for Duckietown | https://github.com/WojtekW1/fuzzy-goggles | 0 | 0| 
+| 20231207T05:35:01Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1624 | 241| 
 | 20231207T02:46:23Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50457 | 23362| 
+| 20231207T02:36:13Z | A collection of blender tools for an efficient 1-person pipeline with multi-camera workflow. | https://github.com/sagotoons/fuzzytools | 3 | 0| 
 | 20231207T01:12:23Z | A quiz taking and making website, similar to BuzzFeed Quizzes. | https://github.com/robertjshirts/BizzFuzz | 1 | 0| 
 | 20231207T00:28:37Z | Null | https://github.com/RicksGhost/fuzzy-happiness | 0 | 0| 
-| 20231207T00:03:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9212 | 2057| 
 | 20231207T00:00:29Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2905 | 536| 
 | 20231206T21:56:47Z | a small coverage guided fuzzer in c++ | https://github.com/scriptus-longus/tinyfuzz | 0 | 0| 
-| 20231206T19:29:09Z | Null | https://github.com/google/fuzztest | 474 | 38| 
-| 20231206T15:07:20Z | File Tree Fuzzer creates a pseudo-random directory hierarchy filled with some number of files. | https://github.com/SUPERCILEX/ftzz | 36 | 2| 
-| 20231206T13:59:24Z | A comparion of solidity fuzzing tools Foundry, Echidna & Medusa | https://github.com/devdacian/solidity-fuzzing-comparison | 7 | 1| 
-| 20231206T13:58:17Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4933 | 1176| 
 
 
 
