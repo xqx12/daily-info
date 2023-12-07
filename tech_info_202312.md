@@ -114,10 +114,10 @@
 | 20231207T00:03:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9212 | 2057| 
 | 20231207T00:00:29Z | Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based) | https://github.com/google/honggfuzz | 2905 | 536| 
 | 20231206T21:56:47Z | a small coverage guided fuzzer in c++ | https://github.com/scriptus-longus/tinyfuzz | 0 | 0| 
+| 20231206T19:29:09Z | Null | https://github.com/google/fuzztest | 474 | 38| 
 | 20231206T15:07:20Z | File Tree Fuzzer creates a pseudo-random directory hierarchy filled with some number of files. | https://github.com/SUPERCILEX/ftzz | 36 | 2| 
 | 20231206T13:59:24Z | A comparion of solidity fuzzing tools Foundry, Echidna & Medusa | https://github.com/devdacian/solidity-fuzzing-comparison | 7 | 1| 
 | 20231206T13:58:17Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4933 | 1176| 
-| 20231206T13:41:39Z | Null | https://github.com/ttrssreal/dnsmasq-fuzz | 0 | 0| 
 
 
 
