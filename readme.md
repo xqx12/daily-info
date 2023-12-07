@@ -76,6 +76,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231207T13:30:22Z | Null | https://github.com/Suneelvijay/fuzzy | 0 | 0| 
 | 20231207T12:32:21Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9214 | 2057| 
 | 20231207T12:12:26Z | Null | https://github.com/KKaramurza/fuzzy-engine | 1 | 0| 
 | 20231207T10:00:48Z | My second DTProject for Duckietown | https://github.com/WojtekW1/fuzzy-goggles | 0 | 0| 
