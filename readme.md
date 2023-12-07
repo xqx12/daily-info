@@ -69,9 +69,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231206T11:34:38Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2366 | 643| 
+| 20231206T20:20:25Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 714 | 128| 
+| 20231206T15:38:40Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2366 | 643| 
 | 20231206T07:47:36Z | Playing with the Tigress software protection. Break some of its protections and solve their reverse engineering challenges. Automatic deobfuscation using symbolic execution, taint analysis and LLVM. | https://github.com/JonathanSalwan/Tigress_protection | 754 | 148| 
-| 20231206T02:23:09Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 713 | 127| 
 
 
 # big4 on Github 推荐
