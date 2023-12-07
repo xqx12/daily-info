@@ -37,8 +37,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231207T12:24:32Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5536 | 1076| 
+| 20231207T13:24:21Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5538 | 1076| 
 | 20231207T11:18:46Z | Location Tracking using SS7 exploits | https://github.com/SS7Hacking/locationtracking | 0 | 0| 
+| 20231207T09:47:53Z |  A Web Application which will enable the farmer to sell his livestock to the customer without any constraints and exploitation of the middleman. | https://github.com/smith961/farm_mart_backend | 0 | 1| 
 | 20231207T09:15:15Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5708 | 722| 
 | 20231207T09:14:58Z | Null | https://github.com/vulsio/vuls-data-raw-exploit-inthewild | 1 | 1| 
 | 20231207T03:03:00Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 176 | 14| 
