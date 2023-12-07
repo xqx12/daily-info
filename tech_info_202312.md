@@ -60,7 +60,7 @@
 | 20231207T02:07:52Z | Null | https://github.com/bluesniffer/exploit-development | 0 | 0| 
 | 20231207T01:58:34Z | Null | https://github.com/exploitzscripterson/exploitzscriperson.github.io | 0 | 0| 
 | 20231207T01:05:31Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-b86828c5-7a4e-43d5-9374-69cba606f9ec-_TZ-g-exploit-help | 0 | 0| 
-| 20231207T00:36:53Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5534 | 1075| 
+| 20231207T00:36:53Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5534 | 1076| 
 | 20231206T23:18:15Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-y | 1 | 0| 
 | 20231206T23:17:40Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-y | 1 | 0| 
 | 20231206T23:17:05Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-y | 1 | 0| 
