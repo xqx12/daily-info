@@ -71,9 +71,11 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231208T01:26:20Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 471 | 33| 
+| 20231208T06:49:33Z | Playing with the Tigress software protection. Break some of its protections and solve their reverse engineering challenges. Automatic deobfuscation using symbolic execution, taint analysis and LLVM. | https://github.com/JonathanSalwan/Tigress_protection | 757 | 149| 
+| 20231208T06:39:17Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 715 | 128| 
+| 20231208T03:57:52Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 472 | 33| 
 | 20231208T01:20:58Z | gradient-based symbolic execution engine implemented from scratch | https://github.com/Koukyosyumei/Gymbo | 26 | 0| 
-| 20231208T00:42:53Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2368 | 643| 
+| 20231208T00:42:53Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2368 | 644| 
 
 
 # big4 on Github 推荐
