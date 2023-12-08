@@ -71,28 +71,29 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231207T10:53:11Z | A webshell that can bypass some system security, all code has been obfuscated to bypass malware scans freely. | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 130 | 69| 
+| 20231207T23:18:01Z | A webshell that can bypass some system security, all code has been obfuscated to bypass malware scans freely. | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 131 | 69| 
+| 20231207T19:02:51Z | Official implementation of S&P%24 paper: ODSCAN: Backdoor Scanning for Object Detection Models | https://github.com/Megum1/ODSCAN | 2 | 0| 
+| 20231207T14:56:32Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 238 | 48| 
 | 20231207T07:40:00Z | This is a simple backdoor script trigerer | https://github.com/MuhireIghor/netsec_backdoor | 1 | 0| 
 | 20231207T05:41:39Z | Null | https://github.com/jayanthguduru/Lab4-BackdoorAttacks | 0 | 0| 
 | 20231207T01:56:13Z | A Discord Bot for Backdoors and Breaches. Pre-Alpha State Is Not Fully Functional | https://github.com/simeononsecurity/discord-backdoors-and-breaches | 6 | 2| 
 | 20231207T00:53:18Z | %Lab3-BackDoor-Attacks% project, a comprehensive exploration and solution for identifying and mitigating backdoor attacks in neural networks, specifically focusing on BadNets trained on the YouTube Face dataset. | https://github.com/aneekroy/Lab3-BackDoor-Attacks | 0 | 0| 
-| 20231207T00:37:37Z | Official implementation of S&P%24 paper: ODSCAN: Backdoor Scanning for Object Detection Models | https://github.com/Megum1/ODSCAN | 1 | 0| 
 | 20231207T00:12:34Z | Null | https://github.com/DrQu89757/backdoor_attack_in_WFL | 0 | 0| 
 | 20231206T21:28:05Z | Cloak can backdoor any python script with some tricks. | https://github.com/MohammedSalama/Cloak | 0 | 0| 
 | 20231206T18:08:18Z | The open-sourced Python toolbox for backdoor attacks and defenses. | https://github.com/THUYimingLi/BackdoorBox | 325 | 57| 
-| 20231206T17:29:10Z | BACKDOOR, CLIENT BACKDOOR | https://github.com/lucaman93/S3-L2 | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231208T00:42:53Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2368 | 643| 
+| 20231207T18:02:05Z | Path-optimal symbolic execution (anonymized) | https://github.com/ananon-user/pose-anonymized | 0 | 0| 
+| 20231207T17:08:55Z | gradient-based symbolic execution engine implemented from scratch | https://github.com/Koukyosyumei/Gymbo | 25 | 0| 
 | 20231207T06:08:26Z | Playing with the Tigress software protection. Break some of its protections and solve their reverse engineering challenges. Automatic deobfuscation using symbolic execution, taint analysis and LLVM. | https://github.com/JonathanSalwan/Tigress_protection | 755 | 149| 
-| 20231207T03:04:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2367 | 643| 
 | 20231206T20:20:25Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 714 | 128| 
 | 20231205T20:42:19Z | Optimized the movements of Kachua, Performed Fuzzing, Symbolic Execution and Abstract Interpretation | https://github.com/sudikshanavik/CS639_PAVT | 1 | 0| 
 | 20231205T00:18:34Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 66 | 9| 
 | 20231204T02:43:15Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 268 | 36| 
-| 20231203T05:06:46Z | gradient-based symbolic execution engine implemented from scratch | https://github.com/Koukyosyumei/Gymbo | 24 | 0| 
 | 20231201T13:49:48Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 470 | 33| 
 | 20231201T05:53:04Z | A symbolic execution engine for peephole optimization | https://github.com/skberkeley/sepo | 1 | 0| 
 

@@ -51,20 +51,22 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231207T10:53:11Z | A webshell that can bypass some system security, all code has been obfuscated to bypass malware scans freely. | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 130 | 69| 
+| 20231207T23:18:01Z | A webshell that can bypass some system security, all code has been obfuscated to bypass malware scans freely. | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 131 | 69| 
+| 20231207T19:02:51Z | Official implementation of S&P%24 paper: ODSCAN: Backdoor Scanning for Object Detection Models | https://github.com/Megum1/ODSCAN | 2 | 0| 
+| 20231207T14:56:32Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 238 | 48| 
 | 20231207T07:40:00Z | This is a simple backdoor script trigerer | https://github.com/MuhireIghor/netsec_backdoor | 1 | 0| 
 | 20231207T05:41:39Z | Null | https://github.com/jayanthguduru/Lab4-BackdoorAttacks | 0 | 0| 
 | 20231207T01:56:13Z | A Discord Bot for Backdoors and Breaches. Pre-Alpha State Is Not Fully Functional | https://github.com/simeononsecurity/discord-backdoors-and-breaches | 6 | 2| 
 | 20231207T00:53:18Z | %Lab3-BackDoor-Attacks% project, a comprehensive exploration and solution for identifying and mitigating backdoor attacks in neural networks, specifically focusing on BadNets trained on the YouTube Face dataset. | https://github.com/aneekroy/Lab3-BackDoor-Attacks | 0 | 0| 
-| 20231207T00:37:37Z | Official implementation of S&P%24 paper: ODSCAN: Backdoor Scanning for Object Detection Models | https://github.com/Megum1/ODSCAN | 1 | 0| 
 | 20231207T00:12:34Z | Null | https://github.com/DrQu89757/backdoor_attack_in_WFL | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231207T18:02:05Z | Path-optimal symbolic execution (anonymized) | https://github.com/ananon-user/pose-anonymized | 0 | 0| 
+| 20231207T17:08:55Z | gradient-based symbolic execution engine implemented from scratch | https://github.com/Koukyosyumei/Gymbo | 25 | 0| 
 | 20231207T06:08:26Z | Playing with the Tigress software protection. Break some of its protections and solve their reverse engineering challenges. Automatic deobfuscation using symbolic execution, taint analysis and LLVM. | https://github.com/JonathanSalwan/Tigress_protection | 755 | 149| 
-| 20231207T03:04:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2367 | 643| 
 
 
 # big4 on Github 推荐
