@@ -75,6 +75,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231208T13:15:59Z | BitRAT CrackedIt is meticulously constructed utilizing the C++ programming language. It stands as the most recent iteration of the premier PC RAT for the year 2023. Regarded as a prized tool | https://github.com/Eugenexb/Bitrat-Hvnc-Rat-Remote-Control-Av-Bypass | 0 | 0| 
+| 20231208T13:15:55Z | AsyncRAT stands as a Remote Access Tool (RAT) conceived for the purpose of distant supervision and command over remote computers through an encrypted connection ensuring security. | https://github.com/Eugenexb/AsyncRAT-Fud-Fixed-Dll-Remote-Administration-Tool-New | 0 | 0| 
 | 20231208T13:14:55Z | Computing) capabilities. It boasts compatibility with a spectrum of 20 concealed browsers. Pegasus HVNC facet facilitates the orchestration of a concealed desktop environment | https://github.com/Eugenexb/Pegasus-Pantheon-HVNC-V2-VNC-Hidden-Browser-Remote-Administration-Rat | 0 | 0| 
 | 20231208T13:14:48Z | VenomControl Rat is a Remote Access Tool (RAT) designed to remotely monitor and control other computers through a secure encrypted connection | https://github.com/Eugenexb/VenomControl-Rat-Crack-Source | 0 | 0| 
 | 20231208T12:45:39Z | A webshell that can bypass some system security, all code has been obfuscated to bypass malware scans freely. | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 132 | 69| 
@@ -83,8 +85,6 @@
 | 20231208T01:35:07Z | Official implementation of S&P%24 paper: ODSCAN: Backdoor Scanning for Object Detection Models | https://github.com/Megum1/ODSCAN | 3 | 0| 
 | 20231208T01:18:40Z | Null | https://github.com/SCLBD/BackdoorBench | 249 | 35| 
 | 20231207T14:56:32Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 238 | 48| 
-| 20231207T07:40:00Z | This is a simple backdoor script trigerer | https://github.com/MuhireIghor/netsec_backdoor | 1 | 0| 
-| 20231207T05:41:39Z | Null | https://github.com/jayanthguduru/Lab4-BackdoorAttacks | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
