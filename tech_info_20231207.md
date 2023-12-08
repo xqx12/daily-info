@@ -52,7 +52,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20231207T23:18:01Z | A webshell that can bypass some system security, all code has been obfuscated to bypass malware scans freely. | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 131 | 69| 
-| 20231207T19:02:51Z | Official implementation of S&P%24 paper: ODSCAN: Backdoor Scanning for Object Detection Models | https://github.com/Megum1/ODSCAN | 2 | 0| 
 | 20231207T14:56:32Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 238 | 48| 
 | 20231207T07:40:00Z | This is a simple backdoor script trigerer | https://github.com/MuhireIghor/netsec_backdoor | 1 | 0| 
 | 20231207T05:41:39Z | Null | https://github.com/jayanthguduru/Lab4-BackdoorAttacks | 0 | 0| 
