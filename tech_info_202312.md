@@ -109,6 +109,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231208T01:35:07Z | Null | https://github.com/v-buba/fuzzy-sweater | 0 | 0| 
 | 20231208T00:56:44Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50474 | 23365| 
 | 20231208T00:46:12Z | Null | https://github.com/Selmabanzema/Fuzzy-Logic-Applications | 0 | 0| 
 | 20231208T00:41:58Z | Fuzzy logic example | https://github.com/saffd96/FuzzyLogic | 0 | 0| 
@@ -118,7 +119,6 @@
 | 20231207T23:17:50Z | website for the punk band Sound Of Fuzz | https://github.com/julieprunaret/SoundOfFuzz | 0 | 0| 
 | 20231207T22:58:16Z | Null | https://github.com/jms-dcksn/uipath-fuzzywuzzy | 0 | 0| 
 | 20231207T21:11:54Z | Null | https://github.com/google/fuzztest | 476 | 38| 
-| 20231207T13:48:51Z | Null | https://github.com/BlueSpider0130/Ruby_Fuzzle | 0 | 0| 
 
 
 
