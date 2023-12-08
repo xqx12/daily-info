@@ -56,6 +56,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231208T01:45:17Z | Exploits for GL.iNet CVE-2023-46454, CVE-2023-46455 and CVE-2023-46456 | https://github.com/cyberaz0r/GL.iNet-Multiple-Vulnerabilities | 0 | 0| 
 | 20231207T23:34:09Z | All bugs and bugs have been updated. It is flawless and very fast to use. | https://github.com/Soloratsoffical/APK-TO-JPG-EXPLOIT | 2 | 0| 
 | 20231207T23:31:44Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-a | 1 | 0| 
 | 20231207T23:31:09Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-a | 1 | 0| 
@@ -65,7 +66,6 @@
 | 20231207T11:18:46Z | Location Tracking using SS7 exploits | https://github.com/SS7Hacking/locationtracking | 0 | 0| 
 | 20231207T09:47:53Z |  A Web Application which will enable the farmer to sell his livestock to the customer without any constraints and exploitation of the middleman. | https://github.com/smith961/farm_mart_backend | 0 | 1| 
 | 20231207T09:15:15Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5708 | 722| 
-| 20231207T09:14:58Z | Null | https://github.com/vulsio/vuls-data-raw-exploit-inthewild | 1 | 1| 
 
 
 # backdoor on Github 推荐
