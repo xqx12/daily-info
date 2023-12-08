@@ -75,6 +75,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231208T13:14:55Z | Computing) capabilities. It boasts compatibility with a spectrum of 20 concealed browsers. Pegasus HVNC facet facilitates the orchestration of a concealed desktop environment | https://github.com/Eugenexb/Pegasus-Pantheon-HVNC-V2-VNC-Hidden-Browser-Remote-Administration-Rat | 0 | 0| 
+| 20231208T13:14:48Z | VenomControl Rat is a Remote Access Tool (RAT) designed to remotely monitor and control other computers through a secure encrypted connection | https://github.com/Eugenexb/VenomControl-Rat-Crack-Source | 0 | 0| 
 | 20231208T12:45:39Z | A webshell that can bypass some system security, all code has been obfuscated to bypass malware scans freely. | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 132 | 69| 
 | 20231208T11:55:58Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 189 | 37| 
 | 20231208T08:44:38Z | An unofficial implementation of the detector cleanse introduced in the paper BadDet: Backdoor Attacks on Object Detection.   | https://github.com/jeongjin0/detector-cleanse | 0 | 0| 
@@ -83,8 +85,6 @@
 | 20231207T14:56:32Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 238 | 48| 
 | 20231207T07:40:00Z | This is a simple backdoor script trigerer | https://github.com/MuhireIghor/netsec_backdoor | 1 | 0| 
 | 20231207T05:41:39Z | Null | https://github.com/jayanthguduru/Lab4-BackdoorAttacks | 0 | 0| 
-| 20231207T01:56:13Z | A Discord Bot for Backdoors and Breaches. Pre-Alpha State Is Not Fully Functional | https://github.com/simeononsecurity/discord-backdoors-and-breaches | 6 | 2| 
-| 20231207T00:53:18Z | %Lab3-BackDoor-Attacks% project, a comprehensive exploration and solution for identifying and mitigating backdoor attacks in neural networks, specifically focusing on BadNets trained on the YouTube Face dataset. | https://github.com/aneekroy/Lab3-BackDoor-Attacks | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
