@@ -55,12 +55,12 @@
 | 20231208T23:34:10Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-c | 1 | 0| 
 | 20231208T23:32:47Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-c | 1 | 0| 
 | 20231208T23:31:12Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-c | 1 | 0| 
-| 20231208T21:03:07Z | A collection of ChromeOS exploits free for the public | https://github.com/3kh0/ext-remover | 298 | 319| 
 | 20231208T20:32:16Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5545 | 1077| 
 | 20231208T19:11:54Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 68 | 12| 
 | 20231208T15:06:07Z | Bitcoin Randstorm Exploit - Very Fast Private Key and Address Generator | https://github.com/RandstormBTC/randstorm | 1 | 1| 
 | 20231208T12:51:48Z | Here we attempt at improving the readout protocol by exploiting ML-aided classification methods | https://github.com/quantumJAK/Readout-classifier | 0 | 0| 
 | 20231208T12:43:47Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5706 | 723| 
+| 20231208T12:41:13Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10992 | 1672| 
 
 
 # backdoor on Github 推荐
