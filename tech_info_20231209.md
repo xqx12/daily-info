@@ -36,7 +36,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231209T13:00:35Z | Null | https://github.com/Niviana1/My-Roblox-exploit-personal-open-source- | 0 | 0| 
+| 20231209T13:03:18Z | Null | https://github.com/Niviana1/My-Roblox-exploit-personal-open-source- | 0 | 0| 
 | 20231209T12:23:29Z | OAuth 2.0 exploitation, attack and research tools. | https://github.com/JeffJerseyCow/evil-oauth | 0 | 0| 
 | 20231209T11:44:40Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 760 | 185| 
 | 20231209T11:29:10Z | Create tar/zip/tgz/bz2 archives that can exploit directory traversal and symlink vulnerabilities | https://github.com/tarimoe/evilarc-go | 0 | 0| 
@@ -68,6 +68,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231209T13:05:15Z | An Angular Project | https://github.com/av1v3k/fuzzy-giggle | 0 | 0| 
 | 20231209T12:38:33Z | metode perhitungan fuzzy tsukamoto kualitas air ikan | https://github.com/rahimin10/fuzzy_tsukamoto_kuair | 0 | 0| 
 | 20231209T12:07:36Z | This Java-based project aims to predict the probability of a heart attack based on user input, including factors such as sleep duration and monthly consumption of fatty foods.  | https://github.com/BeytullahYayla/Heart-Attack-Probability-Prediction-and-Fuzzy-Logic-Control | 1 | 0| 
 | 20231209T06:38:14Z | Null | https://github.com/ColaGuevz/Alcohol-Consumption-Fuzzy-System | 0 | 0| 
