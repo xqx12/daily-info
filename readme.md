@@ -69,7 +69,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231209T13:05:15Z | An Angular Project | https://github.com/av1v3k/fuzzy-giggle | 0 | 0| 
+| 20231209T13:22:38Z | An Angular Project | https://github.com/av1v3k/fuzzy-giggle | 0 | 0| 
 | 20231209T12:38:33Z | metode perhitungan fuzzy tsukamoto kualitas air ikan | https://github.com/rahimin10/fuzzy_tsukamoto_kuair | 0 | 0| 
 | 20231209T12:07:36Z | This Java-based project aims to predict the probability of a heart attack based on user input, including factors such as sleep duration and monthly consumption of fatty foods.  | https://github.com/BeytullahYayla/Heart-Attack-Probability-Prediction-and-Fuzzy-Logic-Control | 1 | 0| 
 | 20231209T06:38:14Z | Null | https://github.com/ColaGuevz/Alcohol-Consumption-Fuzzy-System | 0 | 0| 
