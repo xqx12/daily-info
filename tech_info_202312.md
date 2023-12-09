@@ -61,8 +61,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231209T01:40:49Z | A collection of ChromeOS exploits free for the public | https://github.com/3kh0/ext-remover | 300 | 319| 
 | 20231209T01:24:05Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-b3c0d9e0-064b-4405-9385-86bd603b2039--srOX-impose-exploit | 0 | 0| 
-| 20231209T01:21:04Z | A collection of ChromeOS exploits free for the public | https://github.com/3kh0/ext-remover | 299 | 319| 
 | 20231209T01:20:30Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-b8d6d2b6-ed4e-499b-8da0-9a2fbb9b33e7-miFJq-teach-exploit | 0 | 0| 
 | 20231208T23:35:32Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-c | 1 | 0| 
 | 20231208T23:34:10Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-c | 1 | 0| 
