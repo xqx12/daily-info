@@ -41,8 +41,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231209T01:22:42Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14577 | 434| 
 | 20231209T00:49:43Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2369 | 644| 
-| 20231208T16:11:23Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14576 | 434| 
 | 20231208T06:58:31Z | To-Do List App2 (client) - Next.js14, swr | https://github.com/sekine-kibo/alaskan-klee-kai | 0 | 0| 
 | 20231208T03:44:07Z | Null | https://github.com/wxsonz/op-klee-page | 0 | 0| 
 | 20231206T20:48:56Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/TwelveIterationMods/KleeSlabs | 15 | 7| 
@@ -61,6 +61,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231209T01:24:05Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-b3c0d9e0-064b-4405-9385-86bd603b2039--srOX-impose-exploit | 0 | 0| 
 | 20231209T01:21:04Z | A collection of ChromeOS exploits free for the public | https://github.com/3kh0/ext-remover | 299 | 319| 
 | 20231209T01:20:30Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-b8d6d2b6-ed4e-499b-8da0-9a2fbb9b33e7-miFJq-teach-exploit | 0 | 0| 
 | 20231208T23:35:32Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-c | 1 | 0| 
@@ -70,7 +71,6 @@
 | 20231208T20:32:16Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5545 | 1077| 
 | 20231208T19:11:54Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 68 | 12| 
 | 20231208T15:06:07Z | Bitcoin Randstorm Exploit - Very Fast Private Key and Address Generator | https://github.com/RandstormBTC/randstorm | 1 | 1| 
-| 20231208T12:51:48Z | Here we attempt at improving the readout protocol by exploiting ML-aided classification methods | https://github.com/quantumJAK/Readout-classifier | 0 | 0| 
 
 
 # backdoor on Github 推荐
