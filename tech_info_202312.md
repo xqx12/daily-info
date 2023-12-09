@@ -114,7 +114,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231209T01:40:09Z | Null | https://github.com/kadhiravan123/fuzzy-octo-eureka | 0 | 0| 
+| 20231209T01:41:09Z | Null | https://github.com/kadhiravan123/fuzzy-octo-eureka | 0 | 0| 
 | 20231208T23:05:21Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50483 | 23370| 
 | 20231208T22:52:36Z | Fight for things with benefits  | https://github.com/Jimmilism/fuzzy-octo-funicular | 0 | 0| 
 | 20231208T20:58:17Z | Grid based 2D Gamengine built using the pygame frame work | https://github.com/owf684/fuzzy | 0 | 0| 
