@@ -23,19 +23,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231208T21:12:00Z | CVE-2023-20198 | Check for and remediate conditions that make an IOS-XE device vulnerable to CVE-2023-20198 | https://github.com/netbell/CVE-2023-20198-Fix | | 
+| 20231208T20:56:07Z | Cve-2023- | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/tovbumacius/Jpg-Png-Exploit-Slient--Builder-Exploit-Database-Cve-2023-Malwaree | | 
+| 20231208T20:53:45Z | Cve-2023- | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/tovbumacius/Slient-PDF-FUD-Exploit-Slient--Builder-Exploit-Database-Cve-2023-Malware | | 
+| 20231208T20:53:45Z | Cve-2023- | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/tovbumacius/Jpg-Png-Exploit-Slient--Builder-Exploit-Database-Cve-2023-Malware | | 
+| 20231208T20:53:45Z | Cve-2023- | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/tovbumacius/Hta-Exploit-Builder-Slient--Builder-Exploit-Database-Cve-2023-Malware | | 
+| 20231208T20:53:45Z | Cve-2023- | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/tovbumacius/Slient-Url-Exploit-Slient--Builder-Exploit-Database-Cve-2023-Malware | | 
+| 20231208T20:39:44Z | CVE-2022-21392 | CVE-2022-21392: Local Privilege Escalation via NMR SUID in Oracle Enterprise Manager  | https://github.com/mbadanoiu/CVE-2022-21392 | | 
+| 20231208T20:21:14Z | CVE-2023-38646 | POC for CVE-2023-38646 | https://github.com/securezeron/CVE-2023-38646 | | 
 | 20231208T11:31:11Z | CVE-2023-21118 | Null | https://github.com/Trinadh465/frameworks_native_AOSP-10_r33_CVE-2023-21118 | | 
 | 20231208T10:34:06Z | cve-2023-4966 | Python script to search Citrix NetScaler logs for possible CVE-2023-4966 exploitation. | https://github.com/jmussmann/cve-2023-4966-iocs | | 
-| 20231208T10:30:20Z | CVE-2024-0001 | Null | https://github.com/jiupta/CVE-2024-0001-EXP | | 
-| 20231208T07:53:06Z | 未知编号 | Null | https://github.com/teasmiler/CVE-18-20250 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231208T09:56:11Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14575 | 434| 
+| 20231208T16:11:23Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14576 | 434| 
 | 20231208T06:58:31Z | To-Do List App2 (client) - Next.js14, swr | https://github.com/sekine-kibo/alaskan-klee-kai | 0 | 0| 
 | 20231208T03:44:07Z | Null | https://github.com/wxsonz/op-klee-page | 0 | 0| 
-| 20231208T00:42:53Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2368 | 644| 
 
 
 # s2e on Github 推荐
@@ -46,31 +51,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231208T13:43:59Z | Randstorm Bitcoin Exploit | https://github.com/RandstormBTC/randstorm | 0 | 0| 
-| 20231208T12:59:15Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 66 | 12| 
+| 20231208T23:35:32Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-c | 1 | 0| 
+| 20231208T23:34:10Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-c | 1 | 0| 
+| 20231208T23:32:47Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-c | 1 | 0| 
+| 20231208T23:31:12Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-c | 1 | 0| 
+| 20231208T21:03:07Z | A collection of ChromeOS exploits free for the public | https://github.com/3kh0/ext-remover | 298 | 319| 
+| 20231208T20:32:16Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5545 | 1077| 
+| 20231208T19:11:54Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 68 | 12| 
+| 20231208T15:06:07Z | Bitcoin Randstorm Exploit - Very Fast Private Key and Address Generator | https://github.com/RandstormBTC/randstorm | 1 | 1| 
 | 20231208T12:51:48Z | Here we attempt at improving the readout protocol by exploiting ML-aided classification methods | https://github.com/quantumJAK/Readout-classifier | 0 | 0| 
 | 20231208T12:43:47Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5706 | 723| 
-| 20231208T12:41:24Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5542 | 1077| 
-| 20231208T12:41:13Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 10992 | 1672| 
-| 20231208T12:38:48Z | :bug: Bugs and Exploits found! :bug: | https://github.com/ryanshatch/CanvasHairCo-SecurityAssessment | 0 | 0| 
-| 20231208T12:34:46Z | External cheat for Rainbow Six Siege offering ESP, aimbot, and various tactical advantages. | https://github.com/hibini/Klar-gg-Rainbow-Six-Siege-RS6-Esp-NoRroil-Hwid-Spoofer-Exploit | 0 | 0| 
-| 20231208T12:33:44Z | Developed for Escape From Tarkov and written in C++ and C#. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/hibini/Escape-From-Tarkov-Eft-Aimbot-esp-Loots-Exploits-Max-Skills-High-Jump | 0 | 0| 
-| 20231208T12:11:04Z | FreeBSD Stack-Based Overflow | https://github.com/Symbolexe/DrayTek-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231208T21:10:28Z | BitRAT CrackedIt is meticulously constructed utilizing the C++ programming language. It stands as the most recent iteration of the premier PC RAT for the year 2023. Regarded as a prized tool | https://github.com/muxixd/Bitrat-Hvnc-Rat-Remote-Control-Av-Bypass | 0 | 0| 
+| 20231208T21:10:27Z | AsyncRAT stands as a Remote Access Tool (RAT) conceived for the purpose of distant supervision and command over remote computers through an encrypted connection ensuring security. | https://github.com/muxixd/AsyncRAT-Fud-Fixed-Dll-Remote-Administration-Tool-New | 0 | 0| 
+| 20231208T21:09:00Z | VenomControl Rat is a Remote Access Tool (RAT) designed to remotely monitor and control other computers through a secure encrypted connection | https://github.com/muxixd/VenomControl-Rat-Crack-Source | 0 | 0| 
+| 20231208T21:08:54Z | Computing) capabilities. It boasts compatibility with a spectrum of 20 concealed browsers. Pegasus HVNC facet facilitates the orchestration of a concealed desktop environment | https://github.com/muxixd/Pegasus-Pantheon-HVNC-V2-VNC-Hidden-Browser-Remote-Administration-Rat | 0 | 0| 
+| 20231208T20:56:27Z | The S-500 G2 Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/tovbumacius/S500-RAT-HVNC-HAPP-HIdden-BROWSER-HRDP-REVERSE-PROXY-CRYPTO-MONITOR | 0 | 0| 
+| 20231208T20:56:20Z | OJSP : Speech Backdoor Attacks: Overcoming the Limitations of Audio Triggers | https://github.com/OrsonTyphanel93/ICAPSS | 0 | 0| 
+| 20231208T20:56:03Z | Hidden VNC constitutes an ingenious stratagem harnessed by the most adept connoisseurs of technology. This method, by far, presents an exhilarating modality to govern the operation | https://github.com/tovbumacius/Pandora-hVNC-2FABypass-WebGL-Hidden-Desktop-Outlook-Foxmail-Stealer-Hidden-Browser | 0 | 0| 
+| 20231208T20:55:25Z | Remote Administration Either you are a private user wanting to control your PC from afar, or a big company which wants to administrate hundreds of machines from a single computer, | https://github.com/tovbumacius/ICARUS-NET2-NET4-BAT-VBS-VBA-HVNC-BINDER-PHP-FTPLOGS-RECOVERY-KEYLOG-WEBGL-ROOKIT- | 0 | 0| 
+| 20231208T20:55:00Z | The X-Worm Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/tovbumacius/XWorm-V5.2-Edition-HVNC-RAT-DDOS-PASSWORDS-RANSOMWARE-CLIPPER-KEYLOGGER-UAC-BYPASS | 0 | 0| 
 | 20231208T13:53:05Z | Null | https://github.com/malcolmmamalnach/php-backdoors | 0 | 0| 
-| 20231208T13:15:59Z | BitRAT CrackedIt is meticulously constructed utilizing the C++ programming language. It stands as the most recent iteration of the premier PC RAT for the year 2023. Regarded as a prized tool | https://github.com/Eugenexb/Bitrat-Hvnc-Rat-Remote-Control-Av-Bypass | 0 | 0| 
-| 20231208T13:15:55Z | AsyncRAT stands as a Remote Access Tool (RAT) conceived for the purpose of distant supervision and command over remote computers through an encrypted connection ensuring security. | https://github.com/Eugenexb/AsyncRAT-Fud-Fixed-Dll-Remote-Administration-Tool-New | 0 | 0| 
-| 20231208T13:14:55Z | Computing) capabilities. It boasts compatibility with a spectrum of 20 concealed browsers. Pegasus HVNC facet facilitates the orchestration of a concealed desktop environment | https://github.com/Eugenexb/Pegasus-Pantheon-HVNC-V2-VNC-Hidden-Browser-Remote-Administration-Rat | 0 | 0| 
-| 20231208T13:14:48Z | VenomControl Rat is a Remote Access Tool (RAT) designed to remotely monitor and control other computers through a secure encrypted connection | https://github.com/Eugenexb/VenomControl-Rat-Crack-Source | 0 | 0| 
-| 20231208T12:45:39Z | A webshell that can bypass some system security, all code has been obfuscated to bypass malware scans freely. | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 132 | 69| 
-| 20231208T11:55:58Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 189 | 37| 
-| 20231208T08:44:38Z | An unofficial implementation of the detector cleanse introduced in the paper BadDet: Backdoor Attacks on Object Detection.   | https://github.com/jeongjin0/detector-cleanse | 0 | 0| 
-| 20231208T01:35:07Z | Official implementation of S&P%24 paper: ODSCAN: Backdoor Scanning for Object Detection Models | https://github.com/Megum1/ODSCAN | 3 | 0| 
-| 20231208T01:18:40Z | Null | https://github.com/SCLBD/BackdoorBench | 249 | 35| 
 
 
 # symbolic execution on Github 推荐
@@ -92,16 +97,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231208T23:05:21Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50483 | 23370| 
+| 20231208T22:52:36Z | Fight for things with benefits  | https://github.com/Jimmilism/fuzzy-octo-funicular | 0 | 0| 
+| 20231208T20:58:17Z | Grid based 2D Gamengine built using the pygame frame work | https://github.com/owf684/fuzzy | 0 | 0| 
+| 20231208T19:20:35Z | Null | https://github.com/QianY0n/InFuzz | 0 | 0| 
 | 20231208T13:27:22Z | totally | https://github.com/sOdEeP406/fuzzy-goggles | 0 | 0| 
-| 20231208T13:05:12Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50477 | 23368| 
 | 20231208T12:57:05Z | Null | https://github.com/Kaeryv/FuzzySwarmBenchmarks | 0 | 0| 
+| 20231208T10:06:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9217 | 2057| 
 | 20231208T09:54:12Z | Null | https://github.com/JonathanRaines/phd-um-coursework-fuzzy-sets | 0 | 0| 
 | 20231208T08:05:35Z | Null | https://github.com/sqlonglong/fuzzy-happiness | 0 | 0| 
-| 20231208T04:43:49Z | Fuzz Project for CS6223 | https://github.com/Mick235711/cs6223-fuzz-test | 0 | 0| 
-| 20231208T02:49:33Z | My clone repository | https://github.com/xtt051211/fuzzy-octo-sniffle | 0 | 0| 
-| 20231208T02:24:08Z | Null | https://github.com/meena668/fuzzy-chainsaw | 0 | 0| 
-| 20231208T01:35:07Z | Null | https://github.com/v-buba/fuzzy-sweater | 0 | 0| 
-| 20231208T00:46:12Z | Null | https://github.com/Selmabanzema/Fuzzy-Logic-Applications | 0 | 0| 
+| 20231208T06:40:03Z | Null | https://github.com/google/fuzztest | 477 | 38| 
 
 
 
