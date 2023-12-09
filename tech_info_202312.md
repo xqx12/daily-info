@@ -61,6 +61,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231209T01:20:30Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-b8d6d2b6-ed4e-499b-8da0-9a2fbb9b33e7-miFJq-teach-exploit | 0 | 0| 
 | 20231208T23:35:32Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-c | 1 | 0| 
 | 20231208T23:34:10Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-c | 1 | 0| 
 | 20231208T23:32:47Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-c | 1 | 0| 
@@ -70,7 +71,6 @@
 | 20231208T19:11:54Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 68 | 12| 
 | 20231208T15:06:07Z | Bitcoin Randstorm Exploit - Very Fast Private Key and Address Generator | https://github.com/RandstormBTC/randstorm | 1 | 1| 
 | 20231208T12:51:48Z | Here we attempt at improving the readout protocol by exploiting ML-aided classification methods | https://github.com/quantumJAK/Readout-classifier | 0 | 0| 
-| 20231208T12:43:47Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5706 | 723| 
 
 
 # backdoor on Github 推荐
