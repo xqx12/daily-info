@@ -61,6 +61,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231209T02:15:31Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5546 | 1077| 
 | 20231209T02:08:39Z | A collection of ChromeOS exploits free for the public | https://github.com/3kh0/ext-remover | 301 | 320| 
 | 20231209T01:24:05Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-b3c0d9e0-064b-4405-9385-86bd603b2039--srOX-impose-exploit | 0 | 0| 
 | 20231209T01:20:30Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/load-app-b8d6d2b6-ed4e-499b-8da0-9a2fbb9b33e7-miFJq-teach-exploit | 0 | 0| 
@@ -68,7 +69,6 @@
 | 20231208T23:34:10Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-c | 1 | 0| 
 | 20231208T23:32:47Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-c | 1 | 0| 
 | 20231208T23:31:12Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-c | 1 | 0| 
-| 20231208T20:32:16Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5545 | 1077| 
 | 20231208T19:11:54Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 68 | 12| 
 | 20231208T15:06:07Z | Bitcoin Randstorm Exploit - Very Fast Private Key and Address Generator | https://github.com/RandstormBTC/randstorm | 1 | 1| 
 
