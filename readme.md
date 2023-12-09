@@ -69,6 +69,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231209T13:42:02Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1495 | 109| 
 | 20231209T13:30:52Z | Null | https://github.com/Krt-dev/Fuzzy_logic_calculator | 0 | 0| 
 | 20231209T13:22:38Z | An Angular Project | https://github.com/av1v3k/fuzzy-giggle | 0 | 0| 
 | 20231209T12:38:33Z | metode perhitungan fuzzy tsukamoto kualitas air ikan | https://github.com/rahimin10/fuzzy_tsukamoto_kuair | 0 | 0| 

@@ -114,6 +114,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231209T13:42:02Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1495 | 109| 
 | 20231209T13:30:52Z | Null | https://github.com/Krt-dev/Fuzzy_logic_calculator | 0 | 0| 
 | 20231209T13:22:38Z | An Angular Project | https://github.com/av1v3k/fuzzy-giggle | 0 | 0| 
 | 20231209T12:38:33Z | metode perhitungan fuzzy tsukamoto kualitas air ikan | https://github.com/rahimin10/fuzzy_tsukamoto_kuair | 0 | 0| 
@@ -123,7 +124,6 @@
 | 20231209T01:41:09Z | Null | https://github.com/kadhiravan123/fuzzy-octo-eureka | 0 | 0| 
 | 20231208T23:05:21Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50483 | 23370| 
 | 20231208T22:52:36Z | Fight for things with benefits  | https://github.com/Jimmilism/fuzzy-octo-funicular | 0 | 0| 
-| 20231208T20:58:17Z | Grid based 2D Gamengine built using the pygame frame work | https://github.com/owf684/fuzzy | 0 | 0| 
 
 
 
