@@ -117,6 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231210T02:27:50Z | Null | https://github.com/zitroeth/FuzzySystems | 0 | 0| 
 | 20231210T02:22:08Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50499 | 23370| 
 | 20231209T23:53:51Z | Null | https://github.com/Aimeedeer/soroban-token-fuzzer | 0 | 1| 
 | 20231209T23:03:23Z | Null | https://github.com/citizenyves/Fuzzy_cmeans | 0 | 0| 
@@ -126,7 +127,6 @@
 | 20231209T13:22:38Z | An Angular Project | https://github.com/av1v3k/fuzzy-giggle | 0 | 0| 
 | 20231209T12:38:33Z | metode perhitungan fuzzy tsukamoto kualitas air ikan | https://github.com/rahimin10/fuzzy_tsukamoto_kuair | 0 | 0| 
 | 20231209T12:07:36Z | This Java-based project aims to predict the probability of a heart attack based on user input, including factors such as sleep duration and monthly consumption of fatty foods.  | https://github.com/BeytullahYayla/Heart-Attack-Probability-Prediction-and-Fuzzy-Logic-Control | 1 | 0| 
-| 20231209T06:38:14Z | Null | https://github.com/ColaGuevz/Alcohol-Consumption-Fuzzy-System | 0 | 0| 
 
 
 
