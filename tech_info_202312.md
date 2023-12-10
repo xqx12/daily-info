@@ -94,16 +94,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231210T00:12:58Z | gradient-based symbolic execution engine implemented from scratch | https://github.com/Koukyosyumei/Gymbo | 27 | 0| 
+| 20231209T18:51:07Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 364 | 83| 
+| 20231209T18:05:54Z | Playing with the Tigress software protection. Break some of its protections and solve their reverse engineering challenges. Automatic deobfuscation using symbolic execution, taint analysis and LLVM. | https://github.com/JonathanSalwan/Tigress_protection | 758 | 149| 
 | 20231209T08:24:46Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2370 | 644| 
 | 20231209T03:59:40Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 716 | 128| 
-| 20231208T06:49:33Z | Playing with the Tigress software protection. Break some of its protections and solve their reverse engineering challenges. Automatic deobfuscation using symbolic execution, taint analysis and LLVM. | https://github.com/JonathanSalwan/Tigress_protection | 757 | 149| 
 | 20231208T03:57:52Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 472 | 33| 
-| 20231208T01:20:58Z | gradient-based symbolic execution engine implemented from scratch | https://github.com/Koukyosyumei/Gymbo | 26 | 0| 
 | 20231207T18:02:05Z | Path-optimal symbolic execution (anonymized) | https://github.com/ananon-user/pose-anonymized | 0 | 0| 
 | 20231205T20:42:19Z | Optimized the movements of Kachua, Performed Fuzzing, Symbolic Execution and Abstract Interpretation | https://github.com/sudikshanavik/CS639_PAVT | 1 | 0| 
 | 20231205T00:18:34Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 66 | 9| 
 | 20231204T02:43:15Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 268 | 36| 
-| 20231201T05:53:04Z | A symbolic execution engine for peephole optimization | https://github.com/skberkeley/sepo | 1 | 0| 
 
 
 # big4 on Github 推荐
