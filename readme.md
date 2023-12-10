@@ -50,7 +50,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231210T12:42:42Z | Gel4y-Mini-Shell-Backdoor-Decode | https://github.com/AabyssZG/Gel4y-Mini-Shell-Backdoor-Decode | 23 | 6| 
+| 20231210T13:08:37Z | Gel4y-Mini-Shell-Backdoor-Decode | https://github.com/AabyssZG/Gel4y-Mini-Shell-Backdoor-Decode | 24 | 6| 
 | 20231210T09:24:03Z | Null | https://github.com/SCLBD/BackdoorBench | 250 | 35| 
 | 20231210T08:45:49Z | Null | https://github.com/passwa11/Gel4y-Mini-Shell-Backdoor-Decode | 0 | 0| 
 | 20231210T08:27:44Z | Backdoor project with python | https://github.com/PrinciMixtiy2/backdoor-with-sockets | 0 | 0| 
@@ -71,7 +71,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231210T13:08:00Z | Null | https://github.com/emran-tech/fuzzy-octo-barnacle | 152 | 0| 
+| 20231210T13:09:35Z | Null | https://github.com/emran-tech/fuzzy-octo-barnacle | 151 | 0| 
 | 20231210T12:06:14Z | Null | https://github.com/Krt-dev/Fuzzy_logic_calculator | 0 | 0| 
 | 20231210T07:52:33Z | Online Exam System for Image Base Examinations  | https://github.com/Adhikram/fuzzy_tutor | 0 | 0| 
 | 20231210T02:27:50Z | Null | https://github.com/zitroeth/FuzzySystems | 0 | 0| 
