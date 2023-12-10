@@ -29,7 +29,6 @@
 | 20231209T21:10:02Z | Null | https://github.com/MATF-Software-Verification/2023_bgein_KLEE | 0 | 0| 
 | 20231209T21:09:52Z | Null | https://github.com/MATF-Software-Verification/2023_VLC-Media-Player_KLEE | 0 | 0| 
 | 20231209T12:41:46Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14583 | 434| 
-| 20231209T08:24:46Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2370 | 644| 
 
 
 # s2e on Github 推荐
