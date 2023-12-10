@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231210T01:08:09Z | An extension to make the browsing experience in the Skiovox exploit smoother. | https://github.com/bypassiwastaken/skiovox-helper | 33 | 44| 
 | 20231210T00:18:37Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-b | 1 | 0| 
 | 20231210T00:16:03Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-b | 1 | 0| 
 | 20231210T00:15:12Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-b | 1 | 0| 
@@ -73,7 +74,6 @@
 | 20231209T19:18:29Z | A C# Roblox Exploiting API for the UWP distribution of the game. Its basically WeAreDevs API but it bypasses Byfron. - GitHub - game-hax/Roblox-Exploit-API: A C# Roblox Exploiting API for the UWP distribution of the game. Its basically WeAreDevs API but it bypasses Byfron. | https://github.com/Madalievnkx/Roblox-Exploit-API | 0 | 0| 
 | 20231209T19:01:19Z | A light and very basic level 8 custom DLL Roblox exploit, updated weekly. UI not included. - GitHub - plusgiant5/TaaprWareV3: A light and very basic level 8 custom DLL Roblox exploit, updated weekly. UI not included. | https://github.com/Madalievnkx/TaaprWareV3 | 0 | 0| 
 | 20231209T13:03:18Z | Null | https://github.com/Niviana1/My-Roblox-exploit-personal-open-source- | 0 | 0| 
-| 20231209T12:23:29Z | OAuth 2.0 exploitation, attack and research tools. | https://github.com/JeffJerseyCow/evil-oauth | 0 | 1| 
 
 
 # backdoor on Github 推荐
