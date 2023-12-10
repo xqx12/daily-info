@@ -72,6 +72,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231210T13:45:48Z | Null | https://github.com/LorrainePosthuma/fuzzy-game | 0 | 0| 
 | 20231210T13:29:25Z | Black box fuzzing on contract bytecode to reveal malicious funtionalities | https://github.com/apehex/web3-attack-simulation | 0 | 0| 
 | 20231210T13:21:19Z | Null | https://github.com/SRetip/test_for_fuzz | 0 | 0| 
 | 20231210T13:09:35Z | Null | https://github.com/emran-tech/fuzzy-octo-barnacle | 151 | 0| 
