@@ -24,7 +24,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231210T12:45:08Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14588 | 434| 
+| 20231210T13:09:36Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14589 | 434| 
 | 20231210T01:32:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2371 | 644| 
 
 
@@ -36,6 +36,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231210T13:13:00Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5656 | 765| 
+| 20231210T13:06:16Z | A series of challenges that revolves around binary exploitation and source code reconstruction | https://github.com/neosizzle/rainfall | 0 | 0| 
 | 20231210T12:11:32Z | Porting the CVE-2020-0674 exploit for Windows8.1 and Windows10 | https://github.com/Micky-Thongam/Internet-Explorer-UAF | 0 | 0| 
 | 20231210T11:21:39Z | PoC Exploit  for VM2 Sandbox Escape Vulnerability | https://github.com/rvizx/CVE-2023-30547 | 0 | 0| 
 | 20231210T07:50:16Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5711 | 723| 
@@ -44,7 +46,6 @@
 | 20231210T00:18:37Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-b | 1 | 0| 
 | 20231210T00:16:03Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-b | 1 | 0| 
 | 20231210T00:15:12Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-b | 1 | 0| 
-| 20231210T00:14:03Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-b | 1 | 0| 
 
 
 # backdoor on Github 推荐
