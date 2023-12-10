@@ -44,12 +44,12 @@
 | 20231209T22:22:17Z | Exploit 2022 + open source code, Support Adobe Reader V9 & Foxit Reader | https://github.com/K3rnel-Dev/PDF-EXPLOIT-2022 | 0 | 0| 
 | 20231209T19:18:29Z | A C# Roblox Exploiting API for the UWP distribution of the game. Its basically WeAreDevs API but it bypasses Byfron. - GitHub - game-hax/Roblox-Exploit-API: A C# Roblox Exploiting API for the UWP distribution of the game. Its basically WeAreDevs API but it bypasses Byfron. | https://github.com/Madalievnkx/Roblox-Exploit-API | 0 | 0| 
 | 20231209T19:01:19Z | A light and very basic level 8 custom DLL Roblox exploit, updated weekly. UI not included. - GitHub - plusgiant5/TaaprWareV3: A light and very basic level 8 custom DLL Roblox exploit, updated weekly. UI not included. | https://github.com/Madalievnkx/TaaprWareV3 | 0 | 0| 
+| 20231209T17:53:58Z | You%ve found a website that lets you input remote templates for rendering. Your task is to exploit this system%s vulnerabilities to access and retrieve a hidden flag. Good luck! | https://github.com/patzj/HTB-Challenges-Web-RenderQuest | 0 | 0| 
 | 20231209T13:03:18Z | Null | https://github.com/Niviana1/My-Roblox-exploit-personal-open-source- | 0 | 0| 
 | 20231209T12:23:29Z | OAuth 2.0 exploitation, attack and research tools. | https://github.com/JeffJerseyCow/evil-oauth | 0 | 1| 
 | 20231209T11:44:40Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 760 | 185| 
 | 20231209T11:29:10Z | Create tar/zip/tgz/bz2 archives that can exploit directory traversal and symlink vulnerabilities | https://github.com/tarimoe/evilarc-go | 0 | 0| 
 | 20231209T04:32:56Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5708 | 723| 
-| 20231209T04:29:55Z | Scraper for daily renewal of the Known Exploited Vulnerabilities Catalog by CISA | https://github.com/BenjiTrapp/cisa-known-vuln-scraper | 2 | 1| 
 
 
 # backdoor on Github 推荐

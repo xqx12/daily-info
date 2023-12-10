@@ -73,7 +73,7 @@
 | 20231209T22:22:17Z | Exploit 2022 + open source code, Support Adobe Reader V9 & Foxit Reader | https://github.com/K3rnel-Dev/PDF-EXPLOIT-2022 | 0 | 0| 
 | 20231209T19:18:29Z | A C# Roblox Exploiting API for the UWP distribution of the game. Its basically WeAreDevs API but it bypasses Byfron. - GitHub - game-hax/Roblox-Exploit-API: A C# Roblox Exploiting API for the UWP distribution of the game. Its basically WeAreDevs API but it bypasses Byfron. | https://github.com/Madalievnkx/Roblox-Exploit-API | 0 | 0| 
 | 20231209T19:01:19Z | A light and very basic level 8 custom DLL Roblox exploit, updated weekly. UI not included. - GitHub - plusgiant5/TaaprWareV3: A light and very basic level 8 custom DLL Roblox exploit, updated weekly. UI not included. | https://github.com/Madalievnkx/TaaprWareV3 | 0 | 0| 
-| 20231209T13:03:18Z | Null | https://github.com/Niviana1/My-Roblox-exploit-personal-open-source- | 0 | 0| 
+| 20231209T17:53:58Z | You%ve found a website that lets you input remote templates for rendering. Your task is to exploit this system%s vulnerabilities to access and retrieve a hidden flag. Good luck! | https://github.com/patzj/HTB-Challenges-Web-RenderQuest | 0 | 0| 
 
 
 # backdoor on Github 推荐
