@@ -35,7 +35,7 @@
 | 20231209T10:20:17Z | CVE-2023-49964 | CVE-2023-49964: FreeMarker Server-Side Template Injection in Alfresco | https://github.com/mbadanoiu/CVE-2023-49964 | | 
 | 20231208T21:12:00Z | CVE-2023-20198 | Check for and remediate conditions that make an IOS-XE device vulnerable to CVE-2023-20198 | https://github.com/netbell/CVE-2023-20198-Fix | | 
 | 20231208T20:56:07Z | Cve-2023- | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/tovbumacius/Jpg-Png-Exploit-Slient--Builder-Exploit-Database-Cve-2023-Malwaree | | 
-| 20231208T20:53:45Z | Cve-2023- | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/tovbumacius/Slient-PDF-FUD-Exploit-Slient--Builder-Exploit-Database-Cve-2023-Malware | | 
+| 20231208T20:53:45Z | Cve-2023- | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/tovbumacius/Hta-Exploit-Builder-Slient--Builder-Exploit-Database-Cve-2023-Malware | | 
 
 
 # klee on Github 推荐
