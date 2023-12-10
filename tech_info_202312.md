@@ -117,16 +117,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231210T13:08:00Z | Null | https://github.com/emran-tech/fuzzy-octo-barnacle | 152 | 0| 
+| 20231210T12:06:14Z | Null | https://github.com/Krt-dev/Fuzzy_logic_calculator | 0 | 0| 
+| 20231210T07:52:33Z | Online Exam System for Image Base Examinations  | https://github.com/Adhikram/fuzzy_tutor | 0 | 0| 
 | 20231210T02:27:50Z | Null | https://github.com/zitroeth/FuzzySystems | 0 | 0| 
 | 20231210T02:22:08Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50499 | 23370| 
 | 20231209T23:53:51Z | Null | https://github.com/Aimeedeer/soroban-token-fuzzer | 0 | 1| 
 | 20231209T23:03:23Z | Null | https://github.com/citizenyves/Fuzzy_cmeans | 0 | 0| 
 | 20231209T22:25:09Z | UB-free and deterministic rustc fuzzer | https://github.com/cbeuw/rustlantis | 25 | 1| 
+| 20231209T20:07:48Z | Using a Fuzzy control algorithm and MPU605 sensor to balance a two-wheeled robot  (in process). | https://github.com/hoantrau2/Self_balancing_robot_Fuzzy | 1 | 0| 
 | 20231209T13:42:02Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1495 | 109| 
-| 20231209T13:30:52Z | Null | https://github.com/Krt-dev/Fuzzy_logic_calculator | 0 | 0| 
-| 20231209T13:22:38Z | An Angular Project | https://github.com/av1v3k/fuzzy-giggle | 0 | 0| 
-| 20231209T12:38:33Z | metode perhitungan fuzzy tsukamoto kualitas air ikan | https://github.com/rahimin10/fuzzy_tsukamoto_kuair | 0 | 0| 
-| 20231209T12:07:36Z | This Java-based project aims to predict the probability of a heart attack based on user input, including factors such as sleep duration and monthly consumption of fatty foods.  | https://github.com/BeytullahYayla/Heart-Attack-Probability-Prediction-and-Fuzzy-Logic-Control | 1 | 0| 
 
 
 

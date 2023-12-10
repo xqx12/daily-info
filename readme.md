@@ -71,6 +71,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231210T13:08:00Z | Null | https://github.com/emran-tech/fuzzy-octo-barnacle | 152 | 0| 
+| 20231210T12:06:14Z | Null | https://github.com/Krt-dev/Fuzzy_logic_calculator | 0 | 0| 
+| 20231210T07:52:33Z | Online Exam System for Image Base Examinations  | https://github.com/Adhikram/fuzzy_tutor | 0 | 0| 
 | 20231210T02:27:50Z | Null | https://github.com/zitroeth/FuzzySystems | 0 | 0| 
 | 20231210T02:22:08Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50499 | 23370| 
 
