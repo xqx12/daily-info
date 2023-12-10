@@ -117,6 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231210T13:21:19Z | Null | https://github.com/SRetip/test_for_fuzz | 0 | 0| 
 | 20231210T13:09:35Z | Null | https://github.com/emran-tech/fuzzy-octo-barnacle | 151 | 0| 
 | 20231210T12:06:14Z | Null | https://github.com/Krt-dev/Fuzzy_logic_calculator | 0 | 0| 
 | 20231210T07:52:33Z | Online Exam System for Image Base Examinations  | https://github.com/Adhikram/fuzzy_tutor | 0 | 0| 
@@ -126,7 +127,6 @@
 | 20231209T23:53:51Z | Null | https://github.com/Aimeedeer/soroban-token-fuzzer | 0 | 1| 
 | 20231209T23:03:23Z | Null | https://github.com/citizenyves/Fuzzy_cmeans | 0 | 0| 
 | 20231209T22:25:09Z | UB-free and deterministic rustc fuzzer | https://github.com/cbeuw/rustlantis | 25 | 1| 
-| 20231209T20:07:48Z | Using a Fuzzy control algorithm and MPU605 sensor to balance a two-wheeled robot  (in process). | https://github.com/hoantrau2/Self_balancing_robot_Fuzzy | 1 | 0| 
 
 
 

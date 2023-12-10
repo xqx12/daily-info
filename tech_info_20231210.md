@@ -72,6 +72,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231210T13:21:19Z | Null | https://github.com/SRetip/test_for_fuzz | 0 | 0| 
 | 20231210T13:09:35Z | Null | https://github.com/emran-tech/fuzzy-octo-barnacle | 151 | 0| 
 | 20231210T12:06:14Z | Null | https://github.com/Krt-dev/Fuzzy_logic_calculator | 0 | 0| 
 | 20231210T07:52:33Z | Online Exam System for Image Base Examinations  | https://github.com/Adhikram/fuzzy_tutor | 0 | 0| 
