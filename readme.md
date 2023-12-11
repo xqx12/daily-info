@@ -76,8 +76,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231211T13:24:27Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/GhostTroops/scan4all | 4484 | 547| 
 | 20231211T12:58:07Z | Null | https://github.com/bishar877/fuzzy-rotary-phone | 0 | 0| 
-| 20231211T12:25:11Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/GhostTroops/scan4all | 4483 | 547| 
 | 20231211T12:12:31Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9221 | 2059| 
 | 20231211T12:01:30Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4130 | 848| 
 | 20231211T11:57:26Z | This repository contains the Sequence-To-Sequence model for generating Q# quantum programs.  | https://github.com/MiguelTrinca/qsharp-fuzz | 0 | 0| 
