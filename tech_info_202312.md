@@ -26,22 +26,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231210T11:21:39Z | CVE-2023-30547 | PoC Exploit  for VM2 Sandbox Escape Vulnerability | https://github.com/rvizx/CVE-2023-30547 | | 
+| 20231211T00:37:10Z | CVE-2023-30547 | PoC Exploit  for VM2 Sandbox Escape Vulnerability | https://github.com/rvizx/CVE-2023-30547 | | 
+| 20231210T23:02:12Z | cve-2022-41352 | Null | https://github.com/qailanet/cve-2022-41352-zimbra-rce | | 
+| 20231210T22:17:34Z | CVE-2023-38646 | Metabase postgres (org.h2.Driver)  RCE without INIT | https://github.com/0utl4nder/Another-Metabase-RCE-CVE-2023-38646 | | 
+| 20231210T18:13:57Z | CVE-2023-49964 | CVE-2023-49964: FreeMarker Server-Side Template Injection in Alfresco | https://github.com/mbadanoiu/CVE-2023-49964 | | 
+| 20231210T16:14:01Z | 未知编号 | Python  version of https://www.exploit-db.com/exploits/15222 by ALEXANDRE ZANNI | https://github.com/raystr-atearedteam/CVE2023-23752 | | 
+| 20231210T15:48:49Z | CVE-2022-21907 | Vulnerability in HTTP Protocol Stack Enabling Remote Code Execution and Potential System Crash. | https://github.com/kamal-marouane/CVE-2022-21907 | | 
 | 20231210T07:19:06Z | CVE-2023-38831 | Null | https://github.com/80r1ng/CVE-2023-38831-EXP | | 
-| 20231210T04:41:18Z | CVE-2022-21907 | HTTP Protocol Stack Remote Code Execution or System Crashing Vulnerability. | https://github.com/kamal-marouane/CVE-2022-21907 | | 
 | 20231209T20:27:10Z | CVE-2023-20273 | CVE-2023-20273 Exploit PoC | https://github.com/smokeintheshell/CVE-2023-20273 | | 
 | 20231209T19:32:34Z | CVE-2023-46604 | Exploit for CVE-2023-46604 | https://github.com/mrpentst/CVE-2023-46604 | | 
 | 20231209T10:39:00Z | CVE-2021-36393 | Error-based blind SQL injection with bit-shifting approach for Moodle 3.10.4 | https://github.com/StackOverflowExcept1on/CVE-2021-36393 | | 
-| 20231209T10:20:17Z | CVE-2023-49964 | CVE-2023-49964: FreeMarker Server-Side Template Injection in Alfresco | https://github.com/mbadanoiu/CVE-2023-49964 | | 
-| 20231208T21:12:00Z | CVE-2023-20198 | Check for and remediate conditions that make an IOS-XE device vulnerable to CVE-2023-20198 | https://github.com/netbell/CVE-2023-20198-Fix | | 
-| 20231208T20:56:07Z | Cve-2023- | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/tovbumacius/Jpg-Png-Exploit-Slient--Builder-Exploit-Database-Cve-2023-Malwaree | | 
-| 20231208T20:53:45Z | Cve-2023- | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/tovbumacius/Slient-PDF-FUD-Exploit-Slient--Builder-Exploit-Database-Cve-2023-Malware | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231210T13:09:36Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14589 | 434| 
+| 20231210T19:58:50Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14590 | 434| 
+| 20231210T15:23:26Z | Null | https://github.com/metametamoon/klee-fork | 0 | 0| 
 | 20231210T01:32:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2371 | 644| 
 | 20231209T21:10:02Z | Null | https://github.com/MATF-Software-Verification/2023_bgein_KLEE | 0 | 0| 
 | 20231209T21:09:52Z | Null | https://github.com/MATF-Software-Verification/2023_VLC-Media-Player_KLEE | 0 | 0| 
@@ -50,7 +51,6 @@
 | 20231206T20:48:56Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/TwelveIterationMods/KleeSlabs | 15 | 7| 
 | 20231206T07:03:00Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 97 | 21| 
 | 20231205T12:31:32Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 290 | 54| 
-| 20231205T02:33:50Z | Null | https://github.com/dimitricbrown/KLEEBE | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -64,31 +64,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231210T13:47:50Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5549 | 1078| 
+| 20231211T01:00:27Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-p | 1 | 0| 
+| 20231211T00:59:29Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-p | 1 | 0| 
+| 20231210T23:47:46Z | Checkm8 exploit GUI application for macOS. | https://github.com/sen0rxol0/rook | 0 | 0| 
+| 20231210T21:30:14Z | My write-up for the Nebula sequence from Exploit Education | https://github.com/AraeKeres/nebula-writeup | 0 | 0| 
+| 20231210T16:56:53Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5550 | 1079| 
 | 20231210T13:13:00Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5656 | 765| 
 | 20231210T13:06:16Z | A series of challenges that revolves around binary exploitation and source code reconstruction | https://github.com/neosizzle/rainfall | 0 | 0| 
 | 20231210T12:11:32Z | Porting the CVE-2020-0674 exploit for Windows8.1 and Windows10 | https://github.com/Micky-Thongam/Internet-Explorer-UAF | 0 | 0| 
 | 20231210T11:21:39Z | PoC Exploit  for VM2 Sandbox Escape Vulnerability | https://github.com/rvizx/CVE-2023-30547 | 0 | 0| 
 | 20231210T07:50:16Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5711 | 723| 
-| 20231210T01:08:09Z | An extension to make the browsing experience in the Skiovox exploit smoother. | https://github.com/bypassiwastaken/skiovox-helper | 33 | 44| 
-| 20231210T00:18:37Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-b | 1 | 0| 
-| 20231210T00:16:03Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-b | 1 | 0| 
-| 20231210T00:15:12Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-b | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231210T13:57:21Z | Gel4y-Mini-Shell-Backdoor-Decode | https://github.com/AabyssZG/Gel4y-Mini-Shell-Backdoor-Decode | 27 | 6| 
+| 20231211T00:54:27Z | Gel4y-Mini-Shell-Backdoor-Decode | https://github.com/AabyssZG/Gel4y-Mini-Shell-Backdoor-Decode | 51 | 7| 
+| 20231210T21:51:51Z | Official implementation of S&P%24 paper: ODSCAN: Backdoor Scanning for Object Detection Models | https://github.com/Megum1/ODSCAN | 6 | 0| 
+| 20231210T20:27:08Z | Null | https://github.com/ruizegao/backdoor-evasion | 1 | 0| 
+| 20231210T19:36:57Z | An unofficial implementation of the detector cleanse introduced in the paper BadDet: Backdoor Attacks on Object Detection.   | https://github.com/jeongjin0/detector-cleanse | 0 | 0| 
+| 20231210T15:49:44Z | Digital Forensics and Incident Response (DFIR) | https://github.com/RENANZG/My-Forensics | 66 | 10| 
 | 20231210T09:24:03Z | Null | https://github.com/SCLBD/BackdoorBench | 250 | 35| 
 | 20231210T08:45:49Z | Null | https://github.com/passwa11/Gel4y-Mini-Shell-Backdoor-Decode | 0 | 0| 
 | 20231210T08:27:44Z | Backdoor project with python | https://github.com/PrinciMixtiy2/backdoor-with-sockets | 0 | 0| 
 | 20231209T10:53:48Z | Проект в технопарк на курс %информационная безопасность% | https://github.com/Rub1dium/Backdoor-Cpp-Tgbot | 0 | 0| 
 | 20231209T03:03:25Z | This bot allows for you to gain backdoor administrator powers with server owner allowing acess | https://github.com/Alecsis/Discord-API-Backdoor | 0 | 0| 
-| 20231208T21:10:28Z | BitRAT CrackedIt is meticulously constructed utilizing the C++ programming language. It stands as the most recent iteration of the premier PC RAT for the year 2023. Regarded as a prized tool | https://github.com/muxixd/Bitrat-Hvnc-Rat-Remote-Control-Av-Bypass | 0 | 0| 
-| 20231208T21:10:27Z | AsyncRAT stands as a Remote Access Tool (RAT) conceived for the purpose of distant supervision and command over remote computers through an encrypted connection ensuring security. | https://github.com/muxixd/AsyncRAT-Fud-Fixed-Dll-Remote-Administration-Tool-New | 0 | 0| 
-| 20231208T21:09:00Z | VenomControl Rat is a Remote Access Tool (RAT) designed to remotely monitor and control other computers through a secure encrypted connection | https://github.com/muxixd/VenomControl-Rat-Crack-Source | 0 | 0| 
-| 20231208T21:08:54Z | Computing) capabilities. It boasts compatibility with a spectrum of 20 concealed browsers. Pegasus HVNC facet facilitates the orchestration of a concealed desktop environment | https://github.com/muxixd/Pegasus-Pantheon-HVNC-V2-VNC-Hidden-Browser-Remote-Administration-Rat | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -117,16 +117,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231211T01:00:21Z | Null | https://github.com/Grinkers/edn-rs_fuzzer | 0 | 0| 
+| 20231211T00:33:40Z | Null | https://github.com/joan-kirstien/fuzzy-logic | 0 | 0| 
+| 20231211T00:06:36Z | Null | https://github.com/wowinter13/fuzzy_matcher | 0 | 0| 
+| 20231210T23:23:53Z | Null | https://github.com/beanduan22/Fuzzing_DLLs_via_LLM | 0 | 0| 
+| 20231210T23:01:44Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50519 | 23369| 
+| 20231210T16:57:33Z | Null | https://github.com/joonkim0625/fuzzball-ghidrascript | 0 | 0| 
+| 20231210T16:53:01Z | Null | https://github.com/Sharon0c9/fuzzy-funicular | 0 | 0| 
 | 20231210T13:45:48Z | Null | https://github.com/LorrainePosthuma/fuzzy-game | 0 | 0| 
 | 20231210T13:29:25Z | Black box fuzzing on contract bytecode to reveal malicious funtionalities | https://github.com/apehex/web3-attack-simulation | 0 | 0| 
 | 20231210T13:21:19Z | Null | https://github.com/SRetip/test_for_fuzz | 0 | 0| 
-| 20231210T13:09:35Z | Null | https://github.com/emran-tech/fuzzy-octo-barnacle | 151 | 0| 
-| 20231210T12:06:14Z | Null | https://github.com/Krt-dev/Fuzzy_logic_calculator | 0 | 0| 
-| 20231210T07:52:33Z | Online Exam System for Image Base Examinations  | https://github.com/Adhikram/fuzzy_tutor | 0 | 0| 
-| 20231210T06:16:48Z | ECE 5725 Final Project Website. This uses a robotic arm to identify different types of fruit and sorts them into buckets.  | https://github.com/eshitasangani/fuzzy-fruit-picker-web | 0 | 0| 
-| 20231210T02:27:50Z | Null | https://github.com/zitroeth/FuzzySystems | 0 | 0| 
-| 20231210T02:22:08Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50499 | 23370| 
-| 20231209T23:53:51Z | Null | https://github.com/Aimeedeer/soroban-token-fuzzer | 0 | 1| 
 
 
 
