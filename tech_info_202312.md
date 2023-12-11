@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231211T00:37:10Z | CVE-2023-30547 | PoC Exploit  for VM2 Sandbox Escape Vulnerability | https://github.com/rvizx/CVE-2023-30547 | | 
+| 20231211T02:15:38Z | CVE-2023-30547 | PoC Exploit  for VM2 Sandbox Escape Vulnerability | https://github.com/rvizx/CVE-2023-30547 | | 
 | 20231210T23:02:12Z | cve-2022-41352 | Null | https://github.com/qailanet/cve-2022-41352-zimbra-rce | | 
 | 20231210T22:17:34Z | CVE-2023-38646 | Metabase postgres (org.h2.Driver)  RCE without INIT | https://github.com/0utl4nder/Another-Metabase-RCE-CVE-2023-38646 | | 
 | 20231210T18:13:57Z | CVE-2023-49964 | CVE-2023-49964: FreeMarker Server-Side Template Injection in Alfresco | https://github.com/mbadanoiu/CVE-2023-49964 | | 
