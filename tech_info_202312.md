@@ -41,7 +41,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231210T19:58:50Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14590 | 434| 
+| 20231211T02:58:40Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14591 | 434| 
 | 20231210T15:23:26Z | Null | https://github.com/metametamoon/klee-fork | 0 | 0| 
 | 20231210T01:32:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2371 | 644| 
 | 20231209T21:10:02Z | Null | https://github.com/MATF-Software-Verification/2023_bgein_KLEE | 0 | 0| 
@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231211T02:57:38Z | A series of challenges that revolves around binary exploitation and source code reconstruction | https://github.com/neosizzle/rainfall | 0 | 0| 
 | 20231211T02:09:08Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5659 | 766| 
 | 20231211T02:06:27Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 69 | 12| 
 | 20231211T01:38:41Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5552 | 1079| 
@@ -73,7 +74,6 @@
 | 20231211T00:59:29Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-p | 1 | 0| 
 | 20231210T23:47:46Z | Checkm8 exploit GUI application for macOS. | https://github.com/sen0rxol0/rook | 0 | 0| 
 | 20231210T23:11:04Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 237 | 18| 
-| 20231210T21:30:14Z | My write-up for the Nebula sequence from Exploit Education | https://github.com/AraeKeres/nebula-writeup | 0 | 0| 
 
 
 # backdoor on Github 推荐
