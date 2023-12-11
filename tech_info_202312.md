@@ -117,6 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231211T01:14:40Z | Modelagem de Sistema Fuzzy - Controlador de Temperatura de um forno industrial | https://github.com/DiegoDwt/SistemaFuzzy | 0 | 0| 
 | 20231211T01:00:21Z | Null | https://github.com/Grinkers/edn-rs_fuzzer | 0 | 0| 
 | 20231211T00:33:40Z | Null | https://github.com/joan-kirstien/fuzzy-logic | 0 | 0| 
 | 20231211T00:06:36Z | Null | https://github.com/wowinter13/fuzzy_matcher | 0 | 0| 
@@ -126,7 +127,6 @@
 | 20231210T16:53:01Z | Null | https://github.com/Sharon0c9/fuzzy-funicular | 0 | 0| 
 | 20231210T13:45:48Z | Null | https://github.com/LorrainePosthuma/fuzzy-game | 0 | 0| 
 | 20231210T13:29:25Z | Black box fuzzing on contract bytecode to reveal malicious funtionalities | https://github.com/apehex/web3-attack-simulation | 0 | 0| 
-| 20231210T13:21:19Z | Null | https://github.com/SRetip/test_for_fuzz | 0 | 0| 
 
 
 
