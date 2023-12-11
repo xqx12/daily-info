@@ -117,12 +117,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231211T01:30:13Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50520 | 23369| 
 | 20231211T01:16:53Z | Modelagem de Sistema Fuzzy - Controlador de Temperatura de um forno industrial | https://github.com/DiegoDwt/SistemaFuzzy | 0 | 0| 
 | 20231211T01:00:21Z | Null | https://github.com/Grinkers/edn-rs_fuzzer | 0 | 0| 
 | 20231211T00:33:40Z | Null | https://github.com/joan-kirstien/fuzzy-logic | 0 | 0| 
 | 20231211T00:06:36Z | Null | https://github.com/wowinter13/fuzzy_matcher | 0 | 0| 
 | 20231210T23:23:53Z | Null | https://github.com/beanduan22/Fuzzing_DLLs_via_LLM | 0 | 0| 
-| 20231210T23:01:44Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50519 | 23369| 
 | 20231210T16:57:33Z | Null | https://github.com/joonkim0625/fuzzball-ghidrascript | 0 | 0| 
 | 20231210T16:53:01Z | Null | https://github.com/Sharon0c9/fuzzy-funicular | 0 | 0| 
 | 20231210T13:45:48Z | Null | https://github.com/LorrainePosthuma/fuzzy-game | 0 | 0| 
