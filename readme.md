@@ -20,7 +20,6 @@
 | 20231210T22:17:34Z | CVE-2023-38646 | Metabase postgres (org.h2.Driver)  RCE without INIT | https://github.com/0utl4nder/Another-Metabase-RCE-CVE-2023-38646 | | 
 | 20231210T18:13:57Z | CVE-2023-49964 | CVE-2023-49964: FreeMarker Server-Side Template Injection in Alfresco | https://github.com/mbadanoiu/CVE-2023-49964 | | 
 | 20231210T16:14:01Z | 未知编号 | Python  version of https://www.exploit-db.com/exploits/15222 by ALEXANDRE ZANNI | https://github.com/raystr-atearedteam/CVE2023-23752 | | 
-| 20231210T15:48:49Z | CVE-2022-21907 | Vulnerability in HTTP Protocol Stack Enabling Remote Code Execution and Potential System Crash. | https://github.com/kamal-marouane/CVE-2022-21907 | | 
 | 20231210T07:19:06Z | CVE-2023-38831 | Null | https://github.com/80r1ng/CVE-2023-38831-EXP | | 
 
 

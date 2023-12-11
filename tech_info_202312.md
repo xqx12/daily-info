@@ -26,12 +26,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231211T02:39:57Z | CVE-2022-21907 | Vulnerability in HTTP Protocol Stack Enabling Remote Code Execution and Potential System Crash. | https://github.com/kamal-marouane/CVE-2022-21907 | | 
 | 20231211T02:15:38Z | CVE-2023-30547 | PoC Exploit  for VM2 Sandbox Escape Vulnerability | https://github.com/rvizx/CVE-2023-30547 | | 
 | 20231210T23:02:12Z | cve-2022-41352 | Null | https://github.com/qailanet/cve-2022-41352-zimbra-rce | | 
 | 20231210T22:17:34Z | CVE-2023-38646 | Metabase postgres (org.h2.Driver)  RCE without INIT | https://github.com/0utl4nder/Another-Metabase-RCE-CVE-2023-38646 | | 
 | 20231210T18:13:57Z | CVE-2023-49964 | CVE-2023-49964: FreeMarker Server-Side Template Injection in Alfresco | https://github.com/mbadanoiu/CVE-2023-49964 | | 
 | 20231210T16:14:01Z | 未知编号 | Python  version of https://www.exploit-db.com/exploits/15222 by ALEXANDRE ZANNI | https://github.com/raystr-atearedteam/CVE2023-23752 | | 
-| 20231210T15:48:49Z | CVE-2022-21907 | Vulnerability in HTTP Protocol Stack Enabling Remote Code Execution and Potential System Crash. | https://github.com/kamal-marouane/CVE-2022-21907 | | 
 | 20231210T07:19:06Z | CVE-2023-38831 | Null | https://github.com/80r1ng/CVE-2023-38831-EXP | | 
 | 20231209T20:27:10Z | CVE-2023-20273 | CVE-2023-20273 Exploit PoC | https://github.com/smokeintheshell/CVE-2023-20273 | | 
 | 20231209T19:32:34Z | CVE-2023-46604 | Exploit for CVE-2023-46604 | https://github.com/mrpentst/CVE-2023-46604 | | 
