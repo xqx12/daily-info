@@ -42,7 +42,6 @@
 | --- | --- | --- | --- | ---| 
 | 20231210T23:47:46Z | Checkm8 exploit GUI application for macOS. | https://github.com/sen0rxol0/rook | 0 | 0| 
 | 20231210T21:30:14Z | My write-up for the Nebula sequence from Exploit Education | https://github.com/AraeKeres/nebula-writeup | 0 | 0| 
-| 20231210T16:56:53Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5550 | 1079| 
 | 20231210T13:13:00Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5656 | 765| 
 | 20231210T13:06:16Z | A series of challenges that revolves around binary exploitation and source code reconstruction | https://github.com/neosizzle/rainfall | 0 | 0| 
 | 20231210T12:11:32Z | Porting the CVE-2020-0674 exploit for Windows8.1 and Windows10 | https://github.com/Micky-Thongam/Internet-Explorer-UAF | 0 | 0| 
@@ -50,6 +49,7 @@
 | 20231210T07:50:16Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5711 | 723| 
 | 20231210T01:08:09Z | An extension to make the browsing experience in the Skiovox exploit smoother. | https://github.com/bypassiwastaken/skiovox-helper | 33 | 44| 
 | 20231210T00:18:37Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-b | 1 | 0| 
+| 20231210T00:16:03Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-b | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -67,6 +67,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231210T18:02:39Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 717 | 128| 
 | 20231210T01:32:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2371 | 644| 
 | 20231210T00:12:58Z | gradient-based symbolic execution engine implemented from scratch | https://github.com/Koukyosyumei/Gymbo | 27 | 0| 
 
@@ -74,6 +75,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231210T15:16:36Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 125 | 10| 
 
 
 # fuzz on Github 推荐

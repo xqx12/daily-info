@@ -64,16 +64,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231211T01:01:55Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-p | 1 | 0| 
+| 20231211T01:01:29Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5551 | 1079| 
+| 20231211T01:01:10Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-p | 1 | 0| 
 | 20231211T01:00:27Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-p | 1 | 0| 
 | 20231211T00:59:29Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-p | 1 | 0| 
 | 20231210T23:47:46Z | Checkm8 exploit GUI application for macOS. | https://github.com/sen0rxol0/rook | 0 | 0| 
 | 20231210T21:30:14Z | My write-up for the Nebula sequence from Exploit Education | https://github.com/AraeKeres/nebula-writeup | 0 | 0| 
-| 20231210T16:56:53Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5550 | 1079| 
 | 20231210T13:13:00Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5656 | 765| 
 | 20231210T13:06:16Z | A series of challenges that revolves around binary exploitation and source code reconstruction | https://github.com/neosizzle/rainfall | 0 | 0| 
 | 20231210T12:11:32Z | Porting the CVE-2020-0674 exploit for Windows8.1 and Windows10 | https://github.com/Micky-Thongam/Internet-Explorer-UAF | 0 | 0| 
-| 20231210T11:21:39Z | PoC Exploit  for VM2 Sandbox Escape Vulnerability | https://github.com/rvizx/CVE-2023-30547 | 0 | 0| 
-| 20231210T07:50:16Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5711 | 723| 
 
 
 # backdoor on Github 推荐
@@ -94,11 +94,11 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231210T18:02:39Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 717 | 128| 
 | 20231210T01:32:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2371 | 644| 
 | 20231210T00:12:58Z | gradient-based symbolic execution engine implemented from scratch | https://github.com/Koukyosyumei/Gymbo | 27 | 0| 
 | 20231209T18:51:07Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 364 | 83| 
 | 20231209T18:05:54Z | Playing with the Tigress software protection. Break some of its protections and solve their reverse engineering challenges. Automatic deobfuscation using symbolic execution, taint analysis and LLVM. | https://github.com/JonathanSalwan/Tigress_protection | 758 | 149| 
-| 20231209T03:59:40Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 716 | 128| 
 | 20231208T03:57:52Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 472 | 33| 
 | 20231207T18:02:05Z | Path-optimal symbolic execution (anonymized) | https://github.com/ananon-user/pose-anonymized | 0 | 0| 
 | 20231205T20:42:19Z | Optimized the movements of Kachua, Performed Fuzzing, Symbolic Execution and Abstract Interpretation | https://github.com/sudikshanavik/CS639_PAVT | 1 | 0| 
@@ -109,7 +109,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231208T15:46:42Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 124 | 10| 
+| 20231210T15:16:36Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 125 | 10| 
 | 20231208T02:45:45Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 100 | 4| 
 | 20231201T16:33:57Z | 🧩 Local Minecraft server NGROK to deSEC forward script. Make your local server accessible by everyone with your custom domain!  | https://github.com/Minionguyjpro/NDSS | 1 | 0| 
 
