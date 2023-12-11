@@ -11,6 +11,9 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20231211 | SecWiki周刊（第510期) | https://www.sec-wiki.com/weekly/510| 
+| 20231211 | 使用知识图谱和Llama-Index实现基于大模型的RAG | https://mp.weixin.qq.com/s/d8iJ-Qmml4ZgSCIyWnQPYA| 
+| 20231211 | 对某嵌入式设备声波配网的研究 | https://mp.weixin.qq.com/s/pFtAfVEFoYQy5EziiAbcMw| 
 | 20231208 | 代码审计 , call_user_func 命令执行 | https://mp.weixin.qq.com/s/eFYvh0vNWZx1v_CuiikCyw| 
 | 20231208 | 源站IP ACL绕过的风险 | https://fangpsh.github.io/posts/2023/2023-10-02.html| 
 | 20231208 | 安全运营中的加密流量检测技术 | https://mp.weixin.qq.com/s/memYq9lLMsPmN46YoBS5zg| 
@@ -18,30 +21,27 @@
 | 20231208 | 网络社会安全：一门新兴科学（上） | https://mp.weixin.qq.com/s/USgl8S41fyORJgOOqOmPkg| 
 | 20231208 | ObserverStealer 窃密木马分析及拓线 | https://mp.weixin.qq.com/s/iLuis0npdkSR98F43yv4ww| 
 | 20231208 | AI 如何赋能恶意软件分析 | https://mp.weixin.qq.com/s/-0l0O48PYxmqg6Hd84D-CQ| 
-| 20231206 | 2023年黑灰产攻防最新趋势 | https://mp.weixin.qq.com/s/jusqCymbMUSMtMqLntnuMQ| 
-| 20231206 | 从ChatGPT代码执行逃逸到LLMs应用安全思考 | https://mp.weixin.qq.com/s/XAH4y1F0ukyyqdQx_XYhYg| 
-| 20231206 | LLMs安全：针对业务模型应用场景下提示词的攻击手段与危害 | https://mp.weixin.qq.com/s/2bm7nuXkORLZ20mfpOmwrA| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231211T11:47:58Z | CVE-2023-20198 | Cisco CVE-2023-20198 | https://github.com/Vulnmachines/Cisco_CVE-2023-20198 | | 
+| 20231211T10:07:57Z | CVE-2023-30547 | PoC Exploit  for VM2 Sandbox Escape Vulnerability | https://github.com/rvizx/CVE-2023-30547 | | 
+| 20231211T08:23:15Z | CVE-2023-20909 | Null | https://github.com/Trinadh465/platform_frameworks_base_AOSP10_r33_CVE-2023-20909 | | 
+| 20231211T06:20:09Z | CVE-2023-20909 | Null | https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20909 | | 
 | 20231211T02:39:57Z | CVE-2022-21907 | Vulnerability in HTTP Protocol Stack Enabling Remote Code Execution and Potential System Crash. | https://github.com/kamal-marouane/CVE-2022-21907 | | 
-| 20231211T02:15:38Z | CVE-2023-30547 | PoC Exploit  for VM2 Sandbox Escape Vulnerability | https://github.com/rvizx/CVE-2023-30547 | | 
 | 20231210T23:02:12Z | cve-2022-41352 | Null | https://github.com/qailanet/cve-2022-41352-zimbra-rce | | 
 | 20231210T22:17:34Z | CVE-2023-38646 | Metabase postgres (org.h2.Driver)  RCE without INIT | https://github.com/0utl4nder/Another-Metabase-RCE-CVE-2023-38646 | | 
 | 20231210T18:13:57Z | CVE-2023-49964 | CVE-2023-49964: FreeMarker Server-Side Template Injection in Alfresco | https://github.com/mbadanoiu/CVE-2023-49964 | | 
 | 20231210T16:14:01Z | 未知编号 | Python  version of https://www.exploit-db.com/exploits/15222 by ALEXANDRE ZANNI | https://github.com/raystr-atearedteam/CVE2023-23752 | | 
 | 20231210T07:19:06Z | CVE-2023-38831 | Null | https://github.com/80r1ng/CVE-2023-38831-EXP | | 
-| 20231209T20:27:10Z | CVE-2023-20273 | CVE-2023-20273 Exploit PoC | https://github.com/smokeintheshell/CVE-2023-20273 | | 
-| 20231209T19:32:34Z | CVE-2023-46604 | Exploit for CVE-2023-46604 | https://github.com/mrpentst/CVE-2023-46604 | | 
-| 20231209T10:39:00Z | CVE-2021-36393 | Error-based blind SQL injection with bit-shifting approach for Moodle 3.10.4 | https://github.com/StackOverflowExcept1on/CVE-2021-36393 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231211T02:58:40Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14591 | 434| 
+| 20231211T12:39:54Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14598 | 434| 
 | 20231210T15:23:26Z | Null | https://github.com/metametamoon/klee-fork | 0 | 0| 
 | 20231210T01:32:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2371 | 644| 
 | 20231209T21:10:02Z | Null | https://github.com/MATF-Software-Verification/2023_bgein_KLEE | 0 | 0| 
@@ -64,31 +64,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231211T12:36:52Z | Projet de système d%exploitation | https://github.com/Wecingoma/systemeExploitationGroupe22 | 0 | 0| 
+| 20231211T12:17:05Z | bypassing the twitter safety link firewall :) | https://github.com/robinroy03/twitter-phishing | 1 | 0| 
+| 20231211T12:05:22Z | Null | https://github.com/BoBpiler/CompilerBug-Exploits | 0 | 0| 
+| 20231211T11:47:21Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5555 | 1079| 
+| 20231211T11:21:17Z | MC6 is a Roblox exploitation gui. | https://github.com/kernelcore32/MC6 | 0 | 0| 
+| 20231211T11:16:44Z |  A Web Application which will enable the farmer to sell his livestock to the customer without any constraints and exploitation of the middleman. | https://github.com/smith961/farm_mart_backend | 1 | 1| 
+| 20231211T10:00:20Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5712 | 723| 
+| 20231211T06:18:18Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 761 | 185| 
+| 20231211T06:17:27Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 176 | 14| 
 | 20231211T02:57:38Z | A series of challenges that revolves around binary exploitation and source code reconstruction | https://github.com/neosizzle/rainfall | 0 | 0| 
-| 20231211T02:09:08Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5659 | 766| 
-| 20231211T02:06:27Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 69 | 12| 
-| 20231211T01:38:41Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5552 | 1079| 
-| 20231211T01:01:55Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-p | 1 | 0| 
-| 20231211T01:01:10Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-p | 1 | 0| 
-| 20231211T01:00:27Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-p | 1 | 0| 
-| 20231211T00:59:29Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-p | 1 | 0| 
-| 20231210T23:47:46Z | Checkm8 exploit GUI application for macOS. | https://github.com/sen0rxol0/rook | 0 | 0| 
-| 20231210T23:11:04Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 237 | 18| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231211T02:54:17Z | Gel4y-Mini-Shell-Backdoor-Decode | https://github.com/AabyssZG/Gel4y-Mini-Shell-Backdoor-Decode | 61 | 8| 
+| 20231211T11:00:42Z | Gel4y-Mini-Shell-Backdoor-Decode | https://github.com/AabyssZG/Gel4y-Mini-Shell-Backdoor-Decode | 91 | 12| 
+| 20231211T09:37:43Z | Backdoor Collection 👾 | https://github.com/adilhyz/WebShell | 7 | 0| 
+| 20231211T09:30:21Z | Android Mobile | https://github.com/RENANZG/My-Android-Mobile | 4 | 1| 
+| 20231211T09:30:09Z | Digital Forensics and Incident Response (DFIR) | https://github.com/RENANZG/My-Forensics | 67 | 10| 
+| 20231211T09:29:45Z | KIZAGAN is a python computer backdoor(RAT) and it can take camera pictures,screenshot,browser datas and cookies etc... | https://github.com/st4inl3s5/kizagan | 74 | 15| 
+| 20231211T05:58:04Z | Null | https://github.com/BaarTeek123/android_binary_backdoor | 0 | 0| 
 | 20231210T21:51:51Z | Official implementation of S&P%24 paper: ODSCAN: Backdoor Scanning for Object Detection Models | https://github.com/Megum1/ODSCAN | 6 | 0| 
 | 20231210T20:27:08Z | Null | https://github.com/ruizegao/backdoor-evasion | 1 | 0| 
+| 20231210T20:14:45Z | The shadow tracker - Environment for tracking the shadow on the backdoor activity | https://github.com/csalab-id/thestrack | 0 | 0| 
 | 20231210T19:36:57Z | An unofficial implementation of the detector cleanse introduced in the paper BadDet: Backdoor Attacks on Object Detection.   | https://github.com/jeongjin0/detector-cleanse | 0 | 0| 
-| 20231210T15:49:44Z | Digital Forensics and Incident Response (DFIR) | https://github.com/RENANZG/My-Forensics | 66 | 10| 
-| 20231210T09:24:03Z | Null | https://github.com/SCLBD/BackdoorBench | 250 | 35| 
-| 20231210T08:45:49Z | Null | https://github.com/passwa11/Gel4y-Mini-Shell-Backdoor-Decode | 0 | 0| 
-| 20231210T08:27:44Z | Backdoor project with python | https://github.com/PrinciMixtiy2/backdoor-with-sockets | 0 | 0| 
-| 20231209T10:53:48Z | Проект в технопарк на курс %информационная безопасность% | https://github.com/Rub1dium/Backdoor-Cpp-Tgbot | 0 | 0| 
-| 20231209T03:03:25Z | This bot allows for you to gain backdoor administrator powers with server owner allowing acess | https://github.com/Alecsis/Discord-API-Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -117,16 +117,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231211T12:58:07Z | Null | https://github.com/bishar877/fuzzy-rotary-phone | 0 | 0| 
+| 20231211T12:25:11Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/GhostTroops/scan4all | 4483 | 547| 
+| 20231211T12:12:31Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9221 | 2059| 
+| 20231211T12:01:30Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4130 | 848| 
+| 20231211T11:57:26Z | This repository contains the Sequence-To-Sequence model for generating Q# quantum programs.  | https://github.com/MiguelTrinca/qsharp-fuzz | 0 | 0| 
+| 20231211T11:43:40Z | Null | https://github.com/Kimberly6h7/fuzzy-waffle | 0 | 0| 
+| 20231211T11:00:48Z | Null | https://github.com/Techwise-BigTee/fuzzy-broccoli | 0 | 0| 
+| 20231211T09:11:06Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5129 | 554| 
 | 20231211T02:48:24Z | Null | https://github.com/vanek-reshetnikov/fuzzy-stream | 0 | 0| 
 | 20231211T02:17:30Z | Null | https://github.com/n3rdrag3/file-upload-fuzzing | 0 | 0| 
-| 20231211T02:15:31Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50522 | 23369| 
-| 20231211T01:56:38Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 113 | 14| 
-| 20231211T01:16:53Z | Modelagem de Sistema Fuzzy - Controlador de Temperatura de um forno industrial | https://github.com/DiegoDwt/SistemaFuzzy | 0 | 0| 
-| 20231211T01:00:21Z | Null | https://github.com/Grinkers/edn-rs_fuzzer | 0 | 0| 
-| 20231211T00:33:40Z | Null | https://github.com/joan-kirstien/fuzzy-logic | 0 | 0| 
-| 20231211T00:06:36Z | Null | https://github.com/wowinter13/fuzzy_matcher | 0 | 0| 
-| 20231210T23:23:53Z | Null | https://github.com/beanduan22/Fuzzing_DLLs_via_LLM | 0 | 0| 
-| 20231210T21:27:05Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 486 | 62| 
 
 
 
