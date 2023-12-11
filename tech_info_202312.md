@@ -79,7 +79,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231211T01:11:39Z | Gel4y-Mini-Shell-Backdoor-Decode | https://github.com/AabyssZG/Gel4y-Mini-Shell-Backdoor-Decode | 52 | 7| 
+| 20231211T01:58:19Z | Gel4y-Mini-Shell-Backdoor-Decode | https://github.com/AabyssZG/Gel4y-Mini-Shell-Backdoor-Decode | 53 | 7| 
 | 20231210T21:51:51Z | Official implementation of S&P%24 paper: ODSCAN: Backdoor Scanning for Object Detection Models | https://github.com/Megum1/ODSCAN | 6 | 0| 
 | 20231210T20:27:08Z | Null | https://github.com/ruizegao/backdoor-evasion | 1 | 0| 
 | 20231210T19:36:57Z | An unofficial implementation of the detector cleanse introduced in the paper BadDet: Backdoor Attacks on Object Detection.   | https://github.com/jeongjin0/detector-cleanse | 0 | 0| 
@@ -117,16 +117,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231211T01:56:38Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 113 | 14| 
 | 20231211T01:49:36Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50521 | 23369| 
 | 20231211T01:16:53Z | Modelagem de Sistema Fuzzy - Controlador de Temperatura de um forno industrial | https://github.com/DiegoDwt/SistemaFuzzy | 0 | 0| 
 | 20231211T01:00:21Z | Null | https://github.com/Grinkers/edn-rs_fuzzer | 0 | 0| 
 | 20231211T00:33:40Z | Null | https://github.com/joan-kirstien/fuzzy-logic | 0 | 0| 
 | 20231211T00:06:36Z | Null | https://github.com/wowinter13/fuzzy_matcher | 0 | 0| 
 | 20231210T23:23:53Z | Null | https://github.com/beanduan22/Fuzzing_DLLs_via_LLM | 0 | 0| 
+| 20231210T21:27:05Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 486 | 62| 
 | 20231210T16:57:33Z | Null | https://github.com/joonkim0625/fuzzball-ghidrascript | 0 | 0| 
 | 20231210T16:53:01Z | Null | https://github.com/Sharon0c9/fuzzy-funicular | 0 | 0| 
-| 20231210T13:45:48Z | Null | https://github.com/LorrainePosthuma/fuzzy-game | 0 | 0| 
-| 20231210T13:29:25Z | Black box fuzzing on contract bytecode to reveal malicious funtionalities | https://github.com/apehex/web3-attack-simulation | 0 | 0| 
 
 
 

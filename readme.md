@@ -82,6 +82,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20231210T23:23:53Z | Null | https://github.com/beanduan22/Fuzzing_DLLs_via_LLM | 0 | 0| 
+| 20231210T21:27:05Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 486 | 62| 
 | 20231210T16:57:33Z | Null | https://github.com/joonkim0625/fuzzball-ghidrascript | 0 | 0| 
 | 20231210T16:53:01Z | Null | https://github.com/Sharon0c9/fuzzy-funicular | 0 | 0| 
 | 20231210T13:45:48Z | Null | https://github.com/LorrainePosthuma/fuzzy-game | 0 | 0| 
@@ -90,7 +91,6 @@
 | 20231210T13:09:35Z | Null | https://github.com/emran-tech/fuzzy-octo-barnacle | 151 | 0| 
 | 20231210T12:06:14Z | Null | https://github.com/Krt-dev/Fuzzy_logic_calculator | 0 | 0| 
 | 20231210T07:52:33Z | Online Exam System for Image Base Examinations  | https://github.com/Adhikram/fuzzy_tutor | 0 | 0| 
-| 20231210T06:16:48Z | ECE 5725 Final Project Website. This uses a robotic arm to identify different types of fruit and sorts them into buckets.  | https://github.com/eshitasangani/fuzzy-fruit-picker-web | 0 | 0| 
 
 
 
