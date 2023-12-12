@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231212T02:28:13Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0016-app-95c-h-make-exploit | 0 | 0| 
 | 20231212T01:15:08Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-K | 1 | 0| 
 | 20231212T01:13:58Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-K | 1 | 0| 
 | 20231212T01:13:20Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-K | 1 | 0| 
@@ -73,7 +74,6 @@
 | 20231212T00:44:59Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 70 | 12| 
 | 20231211T21:00:48Z | Null | https://github.com/jaibirsingh/Post-exploitation | 1 | 0| 
 | 20231211T18:28:18Z | An in-dept guide to stack based buffer overflow, exploiting a Windows 32bit vulnerable webserver by TryHackMe. | https://github.com/marcourbano/Stack-Buffer-Overflow-Guide | 0 | 0| 
-| 20231211T14:06:19Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5556 | 1079| 
 
 
 # backdoor on Github 推荐
@@ -117,6 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231212T02:26:03Z | Null | https://github.com/FuruyaSKR/Controle-Autom-tico-de-Velocidade-do-Limpador---Fuzzy | 0 | 0| 
 | 20231212T02:16:53Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/GhostTroops/scan4all | 4491 | 550| 
 | 20231212T02:04:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9223 | 2062| 
 | 20231212T00:40:45Z | Null | https://github.com/hansuh/fuzzy-octo-waddle | 0 | 0| 
@@ -126,7 +127,6 @@
 | 20231211T22:38:59Z | Null | https://github.com/Nancy2o3/fuzzy-octo-spork | 0 | 0| 
 | 20231211T14:01:21Z | Fuzz a language by mixing up only few words. | https://github.com/sthagen/afasi | 1 | 0| 
 | 20231211T12:58:07Z | Null | https://github.com/bishar877/fuzzy-rotary-phone | 0 | 0| 
-| 20231211T12:01:30Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4130 | 848| 
 
 
 
