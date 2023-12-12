@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231212T02:32:33Z | A simple, vulnerable application and a CSRF attack exploiting it. | https://github.com/nickknapton12/CSRF-Attack-Example | 0 | 0| 
 | 20231212T02:30:17Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0110-app-F3R92-preserve-exploit | 0 | 0| 
 | 20231212T02:28:13Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0016-app-95c-h-make-exploit | 0 | 0| 
 | 20231212T01:15:08Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-K | 1 | 0| 
@@ -73,7 +74,6 @@
 | 20231212T01:12:38Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0061-app-kiFjv-take-exploit | 0 | 0| 
 | 20231212T00:53:49Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0052-app-VbU8U-insist-exploit | 0 | 0| 
 | 20231212T00:44:59Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 70 | 12| 
-| 20231211T21:00:48Z | Null | https://github.com/jaibirsingh/Post-exploitation | 1 | 0| 
 
 
 # backdoor on Github 推荐
