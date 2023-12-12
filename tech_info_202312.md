@@ -117,16 +117,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231212T12:49:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9225 | 2063| 
+| 20231212T12:36:19Z |  In this Code I%ve implemented custom activation functions based on fuzzy logic for my Conv2D layers. | https://github.com/HindEL3/CIFAR-10-100Classification-Fuzzy-Approach- | 0 | 0| 
+| 20231212T12:35:46Z | Generating Fuzzy Test Drivers Using LLM | https://github.com/YancyLii/LLM4FuzzDrivers | 0 | 0| 
+| 20231212T12:08:27Z | Null | https://github.com/yrmani/fuzzy-moon | 0 | 0| 
+| 20231212T11:54:53Z | Null | https://github.com/Research-Squirrel-Engineers/fuzzy-sl-ontology | 0 | 0| 
+| 20231212T11:20:53Z | Development of a Fuzzy Logic Wall Following & obstacle avoiding Mobile Robot | https://github.com/avishka777dilshan/Development-of-a-Fuzzy-Logic-Wall-Following-obstacle-avoiding-Mobile-Robot | 0 | 0| 
+| 20231212T10:55:06Z | Scrut is an a testing toolkit for CLI applications. A tool to scrutinize terminal programs without fuzz. | https://github.com/facebookincubator/scrut | 2 | 0| 
+| 20231212T10:43:52Z | Null | https://github.com/vannussina/fuzz-targets | 0 | 0| 
 | 20231212T02:53:52Z | Neural Network Fuzzy Controller Project | https://github.com/ZikraAknes/Neural_Network_Fuzzy_Controller | 0 | 0| 
 | 20231212T02:50:51Z | Model Reference Fuzzy Controller Project | https://github.com/ZikraAknes/Model_Reference_Fuzzy_Controller | 0 | 0| 
-| 20231212T02:48:43Z | PID Like Fuzzy Controller Project | https://github.com/ZikraAknes/PID_Like_Fuzzy_Controller | 0 | 0| 
-| 20231212T02:41:31Z | Conventional Fuzzy Controller Project | https://github.com/ZikraAknes/Conventional_Fuzzy_Controller | 0 | 0| 
-| 20231212T02:38:03Z | Using neural network concept in fuzzy controller | https://github.com/ajusdwimantara/Fuzzy-Neural-Network | 0 | 0| 
-| 20231212T02:36:40Z | Null | https://github.com/FuruyaSKR/Controle-Autom-tico-de-Velocidade-do-Limpador---Fuzzy | 0 | 0| 
-| 20231212T02:16:53Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/GhostTroops/scan4all | 4491 | 550| 
-| 20231212T02:04:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9223 | 2062| 
-| 20231212T00:40:45Z | Null | https://github.com/hansuh/fuzzy-octo-waddle | 0 | 0| 
-| 20231212T00:40:13Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50539 | 23371| 
 
 
 
