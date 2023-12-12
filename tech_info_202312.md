@@ -117,8 +117,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231212T02:16:53Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/GhostTroops/scan4all | 4491 | 550| 
 | 20231212T02:04:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9223 | 2062| 
-| 20231212T01:17:29Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/GhostTroops/scan4all | 4490 | 550| 
 | 20231212T00:40:45Z | Null | https://github.com/hansuh/fuzzy-octo-waddle | 0 | 0| 
 | 20231212T00:40:13Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50539 | 23371| 
 | 20231212T00:24:16Z | Nmap + fuzzing x2 | https://github.com/wolffart-luca/eva01.sh | 0 | 0| 
