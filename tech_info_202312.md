@@ -50,7 +50,7 @@
 | 20231208T06:58:31Z | To-Do List App2 (client) - Next.js14, swr | https://github.com/sekine-kibo/alaskan-klee-kai | 0 | 0| 
 | 20231208T03:44:07Z | Null | https://github.com/wxsonz/op-klee-page | 0 | 0| 
 | 20231206T20:48:56Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/TwelveIterationMods/KleeSlabs | 15 | 7| 
-| 20231206T07:03:00Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 97 | 21| 
+| 20231206T07:03:00Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 97 | 22| 
 
 
 # s2e on Github 推荐
