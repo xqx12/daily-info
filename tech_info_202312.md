@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231212T02:52:21Z | PyroCMS Exploit Framework  | https://github.com/scumdestroy/ArsonAssistant | 0 | 0| 
 | 20231212T02:32:33Z | A simple, vulnerable application and a CSRF attack exploiting it. | https://github.com/nickknapton12/CSRF-Attack-Example | 0 | 0| 
 | 20231212T02:30:17Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0110-app-F3R92-preserve-exploit | 0 | 0| 
 | 20231212T02:28:13Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0016-app-95c-h-make-exploit | 0 | 0| 
@@ -73,15 +74,14 @@
 | 20231212T01:12:44Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-K | 1 | 0| 
 | 20231212T01:12:38Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0061-app-kiFjv-take-exploit | 0 | 0| 
 | 20231212T00:53:49Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0052-app-VbU8U-insist-exploit | 0 | 0| 
-| 20231212T00:44:59Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 70 | 12| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231212T02:52:44Z | A webshell that can bypass some system security, all code has been obfuscated to bypass malware scans freely. | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 169 | 74| 
 | 20231212T02:47:52Z | 支持注入内存马和Bypass WAF | https://github.com/wafinfo/MeterSphere-plugin-Backdoor | 2 | 0| 
 | 20231212T02:36:35Z | Gel4y-Mini-Shell-Backdoor-Decode | https://github.com/AabyssZG/Gel4y-Mini-Shell-Backdoor-Decode | 99 | 14| 
-| 20231212T01:38:31Z | A webshell that can bypass some system security, all code has been obfuscated to bypass malware scans freely. | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 168 | 74| 
 | 20231211T21:13:23Z | BPF-powered LPE backdoor | https://github.com/vobst/bpf-backdoor | 0 | 0| 
 | 20231211T09:37:43Z | Backdoor Collection 👾 | https://github.com/adilhyz/WebShell | 7 | 0| 
 | 20231211T09:30:21Z | Android Mobile | https://github.com/RENANZG/My-Android-Mobile | 4 | 1| 
