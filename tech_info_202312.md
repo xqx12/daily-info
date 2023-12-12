@@ -117,6 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231212T01:17:29Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/GhostTroops/scan4all | 4490 | 549| 
 | 20231212T00:41:56Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9224 | 2061| 
 | 20231212T00:40:45Z | Null | https://github.com/hansuh/fuzzy-octo-waddle | 0 | 0| 
 | 20231212T00:40:13Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50539 | 23371| 
@@ -124,7 +125,6 @@
 | 20231211T23:07:21Z | Automated On-Chain Fuzzing | https://github.com/jjjutla/Gecko-Fuzz | 0 | 0| 
 | 20231211T22:38:59Z | Null | https://github.com/Nancy2o3/fuzzy-octo-spork | 0 | 0| 
 | 20231211T14:01:21Z | Fuzz a language by mixing up only few words. | https://github.com/sthagen/afasi | 1 | 0| 
-| 20231211T13:44:11Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/GhostTroops/scan4all | 4485 | 548| 
 | 20231211T12:58:07Z | Null | https://github.com/bishar877/fuzzy-rotary-phone | 0 | 0| 
 | 20231211T12:01:30Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4130 | 848| 
 

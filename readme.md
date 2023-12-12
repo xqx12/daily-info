@@ -45,13 +45,13 @@
 | 20231211T21:00:48Z | Null | https://github.com/jaibirsingh/Post-exploitation | 1 | 0| 
 | 20231211T18:28:18Z | An in-dept guide to stack based buffer overflow, exploiting a Windows 32bit vulnerable webserver by TryHackMe. | https://github.com/marcourbano/Stack-Buffer-Overflow-Guide | 0 | 0| 
 | 20231211T14:06:19Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5556 | 1079| 
+| 20231211T13:14:52Z | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.. | https://github.com/KingOfBugbounty/KingOfBugBountyTips | 3836 | 744| 
 | 20231211T12:36:52Z | Projet de système d%exploitation | https://github.com/Wecingoma/systemeExploitationGroupe22 | 0 | 0| 
 | 20231211T12:17:05Z | bypassing the twitter safety link firewall :) | https://github.com/robinroy03/twitter-phishing | 1 | 0| 
 | 20231211T12:05:22Z | Null | https://github.com/BoBpiler/CompilerBug-Exploits | 0 | 0| 
 | 20231211T11:21:17Z | MC6 is a Roblox exploitation gui. | https://github.com/kernelcore32/MC6 | 0 | 0| 
 | 20231211T11:16:44Z |  A Web Application which will enable the farmer to sell his livestock to the customer without any constraints and exploitation of the middleman. | https://github.com/smith961/farm_mart_backend | 1 | 1| 
 | 20231211T10:00:20Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5712 | 723| 
-| 20231211T06:18:18Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 761 | 185| 
 
 
 # backdoor on Github 推荐
@@ -84,13 +84,13 @@
 | 20231211T23:07:21Z | Automated On-Chain Fuzzing | https://github.com/jjjutla/Gecko-Fuzz | 0 | 0| 
 | 20231211T22:38:59Z | Null | https://github.com/Nancy2o3/fuzzy-octo-spork | 0 | 0| 
 | 20231211T14:01:21Z | Fuzz a language by mixing up only few words. | https://github.com/sthagen/afasi | 1 | 0| 
-| 20231211T13:44:11Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/GhostTroops/scan4all | 4485 | 548| 
 | 20231211T12:58:07Z | Null | https://github.com/bishar877/fuzzy-rotary-phone | 0 | 0| 
 | 20231211T12:01:30Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4130 | 848| 
 | 20231211T11:57:26Z | This repository contains the Sequence-To-Sequence model for generating Q# quantum programs.  | https://github.com/MiguelTrinca/qsharp-fuzz | 0 | 0| 
 | 20231211T11:43:40Z | Null | https://github.com/Kimberly6h7/fuzzy-waffle | 0 | 0| 
 | 20231211T11:00:48Z | Null | https://github.com/Techwise-BigTee/fuzzy-broccoli | 0 | 0| 
 | 20231211T09:11:06Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5129 | 554| 
+| 20231211T04:02:07Z | Null | https://github.com/n3rdrag3/file-upload-fuzzing | 0 | 0| 
 
 
 
