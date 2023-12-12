@@ -79,7 +79,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231212T02:44:10Z | 支持注入内存马和Bypass WAF | https://github.com/wafinfo/MeterSphere-plugin-Backdoor | 1 | 0| 
+| 20231212T02:47:52Z | 支持注入内存马和Bypass WAF | https://github.com/wafinfo/MeterSphere-plugin-Backdoor | 2 | 0| 
 | 20231212T02:36:35Z | Gel4y-Mini-Shell-Backdoor-Decode | https://github.com/AabyssZG/Gel4y-Mini-Shell-Backdoor-Decode | 99 | 14| 
 | 20231212T01:38:31Z | A webshell that can bypass some system security, all code has been obfuscated to bypass malware scans freely. | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 168 | 74| 
 | 20231211T21:13:23Z | BPF-powered LPE backdoor | https://github.com/vobst/bpf-backdoor | 0 | 0| 
@@ -117,6 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231212T02:48:43Z | PID Like Fuzzy Controller Project | https://github.com/ZikraAknes/PID_Like_Fuzzy_Controller | 0 | 0| 
 | 20231212T02:41:31Z | Conventional Fuzzy Controller Project | https://github.com/ZikraAknes/Conventional_Fuzzy_Controller | 0 | 0| 
 | 20231212T02:38:03Z | Using neural network concept in fuzzy controller | https://github.com/ajusdwimantara/Fuzzy-Neural-Network | 0 | 0| 
 | 20231212T02:36:40Z | Null | https://github.com/FuruyaSKR/Controle-Autom-tico-de-Velocidade-do-Limpador---Fuzzy | 0 | 0| 
@@ -126,7 +127,6 @@
 | 20231212T00:40:13Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50539 | 23371| 
 | 20231212T00:24:16Z | Nmap + fuzzing x2 | https://github.com/wolffart-luca/eva01.sh | 0 | 0| 
 | 20231211T23:07:21Z | Automated On-Chain Fuzzing | https://github.com/jjjutla/Gecko-Fuzz | 0 | 0| 
-| 20231211T22:38:59Z | Null | https://github.com/Nancy2o3/fuzzy-octo-spork | 0 | 0| 
 
 
 
