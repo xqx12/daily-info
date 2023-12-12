@@ -44,13 +44,13 @@
 | 20231211T21:00:48Z | Null | https://github.com/jaibirsingh/Post-exploitation | 1 | 0| 
 | 20231211T18:28:18Z | An in-dept guide to stack based buffer overflow, exploiting a Windows 32bit vulnerable webserver by TryHackMe. | https://github.com/marcourbano/Stack-Buffer-Overflow-Guide | 0 | 0| 
 | 20231211T14:06:19Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5556 | 1079| 
+| 20231211T13:17:38Z | 🔓A curated list of modern Android exploitation conference talks.  | https://github.com/actuator/Android-Security-Exploits-YouTube-Curriculum | 338 | 26| 
 | 20231211T13:14:52Z | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.. | https://github.com/KingOfBugbounty/KingOfBugBountyTips | 3836 | 744| 
 | 20231211T12:36:52Z | Projet de système d%exploitation | https://github.com/Wecingoma/systemeExploitationGroupe22 | 0 | 0| 
 | 20231211T12:17:05Z | bypassing the twitter safety link firewall :) | https://github.com/robinroy03/twitter-phishing | 1 | 0| 
 | 20231211T12:05:22Z | Null | https://github.com/BoBpiler/CompilerBug-Exploits | 0 | 0| 
 | 20231211T11:21:17Z | MC6 is a Roblox exploitation gui. | https://github.com/kernelcore32/MC6 | 0 | 0| 
 | 20231211T11:16:44Z |  A Web Application which will enable the farmer to sell his livestock to the customer without any constraints and exploitation of the middleman. | https://github.com/smith961/farm_mart_backend | 1 | 1| 
-| 20231211T10:00:20Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5712 | 723| 
 
 
 # backdoor on Github 推荐
