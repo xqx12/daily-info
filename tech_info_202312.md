@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231212T13:07:31Z | GitOps Repository | https://github.com/redhat-appstudio-qe/private-devfile-MxrnP-visit-exploit | 0 | 0| 
 | 20231212T12:09:49Z | CVE-2021-40438 Apache <= 2.4.48 SSRF exploit | https://github.com/sergiovks/CVE-2021-40438-Apache-2.4.48-SSRF-exploit | 0 | 0| 
 | 20231212T11:33:11Z | This project focuses on ethical hacking practices, also known as penetration testing or white-hat hacking. Ethical hacking involves the authorized assessment of computer systems, networks, or applications to identify and address security vulnerabilities before they can be exploited by malicious actors. | https://github.com/Ruban2205/ethical-hacking | 1 | 0| 
 | 20231212T10:37:08Z | Null | https://github.com/Catherine5136/Kubelet-Symlink-Exploit | 0 | 0| 
@@ -73,7 +74,6 @@
 | 20231212T02:59:57Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 71 | 12| 
 | 20231212T02:52:21Z | PyroCMS Exploit Framework  | https://github.com/scumdestroy/ArsonAssistant | 0 | 0| 
 | 20231212T02:32:33Z | A simple, vulnerable application and a CSRF attack exploiting it. | https://github.com/nickknapton12/CSRF-Attack-Example | 0 | 0| 
-| 20231212T02:30:17Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0110-app-F3R92-preserve-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
