@@ -117,6 +117,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231212T02:53:52Z | Neural Network Fuzzy Controller Project | https://github.com/ZikraAknes/Neural_Network_Fuzzy_Controller | 0 | 0| 
+| 20231212T02:50:51Z | Model Reference Fuzzy Controller Project | https://github.com/ZikraAknes/Model_Reference_Fuzzy_Controller | 0 | 0| 
 | 20231212T02:48:43Z | PID Like Fuzzy Controller Project | https://github.com/ZikraAknes/PID_Like_Fuzzy_Controller | 0 | 0| 
 | 20231212T02:41:31Z | Conventional Fuzzy Controller Project | https://github.com/ZikraAknes/Conventional_Fuzzy_Controller | 0 | 0| 
 | 20231212T02:38:03Z | Using neural network concept in fuzzy controller | https://github.com/ajusdwimantara/Fuzzy-Neural-Network | 0 | 0| 
@@ -125,8 +127,6 @@
 | 20231212T02:04:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9223 | 2062| 
 | 20231212T00:40:45Z | Null | https://github.com/hansuh/fuzzy-octo-waddle | 0 | 0| 
 | 20231212T00:40:13Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50539 | 23371| 
-| 20231212T00:24:16Z | Nmap + fuzzing x2 | https://github.com/wolffart-luca/eva01.sh | 0 | 0| 
-| 20231211T23:07:21Z | Automated On-Chain Fuzzing | https://github.com/jjjutla/Gecko-Fuzz | 0 | 0| 
 
 
 

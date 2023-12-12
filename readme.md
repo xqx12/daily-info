@@ -49,8 +49,8 @@
 | 20231211T12:36:52Z | Projet de système d%exploitation | https://github.com/Wecingoma/systemeExploitationGroupe22 | 0 | 0| 
 | 20231211T12:17:05Z | bypassing the twitter safety link firewall :) | https://github.com/robinroy03/twitter-phishing | 1 | 0| 
 | 20231211T12:05:22Z | Null | https://github.com/BoBpiler/CompilerBug-Exploits | 0 | 0| 
+| 20231211T11:22:12Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5666 | 769| 
 | 20231211T11:21:17Z | MC6 is a Roblox exploitation gui. | https://github.com/kernelcore32/MC6 | 0 | 0| 
-| 20231211T11:16:44Z |  A Web Application which will enable the farmer to sell his livestock to the customer without any constraints and exploitation of the middleman. | https://github.com/smith961/farm_mart_backend | 1 | 1| 
 
 
 # backdoor on Github 推荐
