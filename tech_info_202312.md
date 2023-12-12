@@ -64,6 +64,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231212T01:15:08Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-K | 1 | 0| 
+| 20231212T01:13:58Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-K | 1 | 0| 
 | 20231212T01:13:20Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-K | 1 | 0| 
 | 20231212T01:12:44Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-K | 1 | 0| 
 | 20231212T01:12:38Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0061-app-kiFjv-take-exploit | 0 | 0| 
@@ -72,8 +74,6 @@
 | 20231211T21:00:48Z | Null | https://github.com/jaibirsingh/Post-exploitation | 1 | 0| 
 | 20231211T18:28:18Z | An in-dept guide to stack based buffer overflow, exploiting a Windows 32bit vulnerable webserver by TryHackMe. | https://github.com/marcourbano/Stack-Buffer-Overflow-Guide | 0 | 0| 
 | 20231211T14:06:19Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5556 | 1079| 
-| 20231211T12:36:52Z | Projet de système d%exploitation | https://github.com/Wecingoma/systemeExploitationGroupe22 | 0 | 0| 
-| 20231211T12:17:05Z | bypassing the twitter safety link firewall :) | https://github.com/robinroy03/twitter-phishing | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -94,8 +94,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231212T01:09:13Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 719 | 128| 
 | 20231212T00:57:27Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2374 | 644| 
-| 20231211T17:51:27Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 718 | 128| 
 | 20231211T15:52:07Z | gradient-based symbolic execution engine implemented from scratch | https://github.com/Koukyosyumei/Gymbo | 28 | 0| 
 | 20231209T18:51:07Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 364 | 83| 
 | 20231209T18:05:54Z | Playing with the Tigress software protection. Break some of its protections and solve their reverse engineering challenges. Automatic deobfuscation using symbolic execution, taint analysis and LLVM. | https://github.com/JonathanSalwan/Tigress_protection | 758 | 149| 
