@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231212T00:59:31Z | CVE-2023-30547 | PoC Exploit  for VM2 Sandbox Escape Vulnerability | https://github.com/rvizx/CVE-2023-30547 | | 
+| 20231212T01:20:13Z | CVE-2023-30547 | PoC Exploit  for VM2 Sandbox Escape Vulnerability | https://github.com/rvizx/CVE-2023-30547 | | 
 | 20231211T23:27:40Z | CVE-2023-26035 | Unauthenticated RCE in ZoneMinder Snapshots - Poc Exploit | https://github.com/rvizx/CVE-2023-26035 | | 
 | 20231211T23:13:25Z | CVE-2023-44487 | Null | https://github.com/sigridou/CVE-2023-44487- | | 
 | 20231211T20:32:49Z | CVE-2022-21907 | Vulnerability in HTTP Protocol Stack Enabling Remote Code Execution and Potential System Crash. | https://github.com/kamal-marouane/CVE-2022-21907 | | 
