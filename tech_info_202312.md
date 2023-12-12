@@ -64,16 +64,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231212T13:57:38Z | Repo for exploiting windows 10 | https://github.com/rajkshk2/windows-10-18362.30 | 0 | 0| 
+| 20231212T13:53:55Z | 实战场景较通用的 Java Rce 相关漏洞的利用方式 , Common Exploitation Techniques for Java RCE Vulnerabilities in Real-World Scenarios | https://github.com/Whoopsunix/JavaRce | 210 | 19| 
 | 20231212T13:07:31Z | GitOps Repository | https://github.com/redhat-appstudio-qe/private-devfile-MxrnP-visit-exploit | 0 | 0| 
 | 20231212T12:09:49Z | CVE-2021-40438 Apache <= 2.4.48 SSRF exploit | https://github.com/sergiovks/CVE-2021-40438-Apache-2.4.48-SSRF-exploit | 0 | 0| 
 | 20231212T11:33:11Z | This project focuses on ethical hacking practices, also known as penetration testing or white-hat hacking. Ethical hacking involves the authorized assessment of computer systems, networks, or applications to identify and address security vulnerabilities before they can be exploited by malicious actors. | https://github.com/Ruban2205/ethical-hacking | 1 | 0| 
 | 20231212T10:37:08Z | Null | https://github.com/Catherine5136/Kubelet-Symlink-Exploit | 0 | 0| 
 | 20231212T09:33:47Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5560 | 1080| 
-| 20231212T09:08:18Z | 实战场景较通用的 Java Rce 相关漏洞的利用方式 , Common Exploitation Techniques for Java RCE Vulnerabilities in Real-World Scenarios | https://github.com/Whoopsunix/JavaRce | 209 | 19| 
 | 20231212T07:06:37Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5712 | 723| 
 | 20231212T02:59:57Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 71 | 12| 
 | 20231212T02:52:21Z | PyroCMS Exploit Framework  | https://github.com/scumdestroy/ArsonAssistant | 0 | 0| 
-| 20231212T02:32:33Z | A simple, vulnerable application and a CSRF attack exploiting it. | https://github.com/nickknapton12/CSRF-Attack-Example | 0 | 0| 
 
 
 # backdoor on Github 推荐
