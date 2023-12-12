@@ -79,6 +79,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231212T01:56:02Z | 支持注入内存马和Bypass WAF | https://github.com/wafinfo/MeterSphere-plugin-Backdoor | 0 | 0| 
 | 20231212T01:38:31Z | A webshell that can bypass some system security, all code has been obfuscated to bypass malware scans freely. | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 168 | 74| 
 | 20231211T23:50:36Z | Gel4y-Mini-Shell-Backdoor-Decode | https://github.com/AabyssZG/Gel4y-Mini-Shell-Backdoor-Decode | 97 | 13| 
 | 20231211T21:13:23Z | BPF-powered LPE backdoor | https://github.com/vobst/bpf-backdoor | 0 | 0| 
@@ -88,7 +89,6 @@
 | 20231211T09:29:45Z | KIZAGAN is a python computer backdoor(RAT) and it can take camera pictures,screenshot,browser datas and cookies etc... | https://github.com/st4inl3s5/kizagan | 74 | 15| 
 | 20231211T05:58:04Z | Null | https://github.com/BaarTeek123/android_binary_backdoor | 0 | 0| 
 | 20231210T21:51:51Z | Official implementation of S&P%24 paper: ODSCAN: Backdoor Scanning for Object Detection Models | https://github.com/Megum1/ODSCAN | 6 | 0| 
-| 20231210T20:27:08Z | Null | https://github.com/ruizegao/backdoor-evasion | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
