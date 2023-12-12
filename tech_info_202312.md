@@ -117,6 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231212T02:35:39Z | Using neural network concept in fuzzy controller | https://github.com/ajusdwimantara/Fuzzy-Neural-Network | 0 | 0| 
 | 20231212T02:26:03Z | Null | https://github.com/FuruyaSKR/Controle-Autom-tico-de-Velocidade-do-Limpador---Fuzzy | 0 | 0| 
 | 20231212T02:16:53Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/GhostTroops/scan4all | 4491 | 550| 
 | 20231212T02:04:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9223 | 2062| 
@@ -126,7 +127,6 @@
 | 20231211T23:07:21Z | Automated On-Chain Fuzzing | https://github.com/jjjutla/Gecko-Fuzz | 0 | 0| 
 | 20231211T22:38:59Z | Null | https://github.com/Nancy2o3/fuzzy-octo-spork | 0 | 0| 
 | 20231211T14:01:21Z | Fuzz a language by mixing up only few words. | https://github.com/sthagen/afasi | 1 | 0| 
-| 20231211T12:58:07Z | Null | https://github.com/bishar877/fuzzy-rotary-phone | 0 | 0| 
 
 
 
