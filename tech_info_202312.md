@@ -69,11 +69,11 @@
 | 20231213T11:13:02Z | Small and simple Python exploitation tool to craft custom exploits for CTFs and ethical hacking | https://github.com/synfosec/flagger | 0 | 0| 
 | 20231213T11:05:25Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 74 | 12| 
 | 20231213T10:31:01Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5715 | 724| 
+| 20231213T03:13:11Z | PoC. Severity critical. | https://github.com/getdrive/PoC | 31 | 13| 
 | 20231213T02:46:00Z | Null | https://github.com/moemen34/Exploiting-Wordpress-Vulnerabilities | 0 | 0| 
 | 20231213T02:24:18Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), artificial intelligence security, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 15306 | 2713| 
 | 20231213T02:11:54Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6213 | 812| 
 | 20231213T01:50:53Z | Null | https://github.com/BigyanKalakheti/CozyExploit | 0 | 0| 
-| 20231213T01:45:21Z | This paper analyzes the Dec 2022 PayPal data breach: Exploited vulnerabilities, affected data, and user impact. Perpetrators% techniques and motivations. PayPal%s response, notification, and remediation efforts. Financial and reputational damage for PayPal and users. Long-term consequences, including identity theft and fraud.  | https://github.com/neilmachado/Research-paper | 0 | 0| 
 
 
 # backdoor on Github 推荐
