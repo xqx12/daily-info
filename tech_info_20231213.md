@@ -17,7 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231213T09:31:36Z | CVE-2023-50164 | A critical security vulnerability, identified as CVE-2023-50164 (CVE: 9.8) was found in Apache Struts, allowing attackers to manipulate file upload parameters that can potentially lead to unauthorized path traversal and remote code execution (RCE). | https://github.com/jakabakos/CVE-2023-50164-Apache-Struts-RCE | | 
+| 20231213T13:18:22Z | CVE-2023-50164 | A critical security vulnerability, identified as CVE-2023-50164 (CVE: 9.8) was found in Apache Struts, allowing attackers to manipulate file upload parameters that can potentially lead to unauthorized path traversal and remote code execution (RCE). | https://github.com/jakabakos/CVE-2023-50164-Apache-Struts-RCE | | 
 | 20231213T09:19:39Z | CVE-2020-25668 | Null | https://github.com/hshivhare67/Kernel_4.1.15_CVE-2020-25668 | | 
 | 20231213T03:32:32Z | CVE-2023-23752 | CVE-2023-23752 Joomla Unauthenticated Information Disclosure | https://github.com/C1ph3rX13/CVE-2023-23752 | | 
 | 20231213T01:17:38Z | CVE-2023-26035 | Unauthenticated RCE in ZoneMinder Snapshots - Poc Exploit | https://github.com/rvizx/CVE-2023-26035 | | 
