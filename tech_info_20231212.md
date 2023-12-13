@@ -88,16 +88,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231212T23:44:26Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50563 | 23373| 
+| 20231212T22:21:10Z | Null | https://github.com/Jacopobracaloni/NTUSF-Not-The-Usual-Stupid-Fuzzer | 0 | 0| 
+| 20231212T22:04:25Z | Fuzzy Sets (with membership functions) implementation in Kotlin | https://github.com/argraur/fuzzy-logic | 0 | 0| 
+| 20231212T22:01:31Z | Null | https://github.com/ArtKropalik/fuzzy-engine | 0 | 0| 
+| 20231212T21:41:18Z | Null | https://github.com/matt-vaude/fuzz | 0 | 0| 
+| 20231212T20:32:50Z | Null | https://github.com/aabuhijleh/tip-fuzzy-system | 0 | 0| 
+| 20231212T17:26:56Z | CVSS Fuzzing Utility | https://github.com/jzebor/cvssfuzz | 0 | 0| 
 | 20231212T12:49:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9225 | 2063| 
 | 20231212T12:36:19Z |  In this Code I%ve implemented custom activation functions based on fuzzy logic for my Conv2D layers. | https://github.com/HindEL3/CIFAR-10-100Classification-Fuzzy-Approach- | 0 | 0| 
 | 20231212T12:35:46Z | Generating Fuzzy Test Drivers Using LLM | https://github.com/YancyLii/LLM4FuzzDrivers | 0 | 0| 
-| 20231212T12:08:27Z | Null | https://github.com/yrmani/fuzzy-moon | 0 | 0| 
-| 20231212T11:54:53Z | Null | https://github.com/Research-Squirrel-Engineers/fuzzy-sl-ontology | 0 | 0| 
-| 20231212T11:20:53Z | Development of a Fuzzy Logic Wall Following & obstacle avoiding Mobile Robot | https://github.com/avishka777dilshan/Development-of-a-Fuzzy-Logic-Wall-Following-obstacle-avoiding-Mobile-Robot | 0 | 0| 
-| 20231212T10:55:06Z | Scrut is an a testing toolkit for CLI applications. A tool to scrutinize terminal programs without fuzz. | https://github.com/facebookincubator/scrut | 2 | 0| 
-| 20231212T10:43:52Z | Null | https://github.com/vannussina/fuzz-targets | 0 | 0| 
-| 20231212T02:53:52Z | Neural Network Fuzzy Controller Project | https://github.com/ZikraAknes/Neural_Network_Fuzzy_Controller | 0 | 0| 
-| 20231212T02:50:51Z | Model Reference Fuzzy Controller Project | https://github.com/ZikraAknes/Model_Reference_Fuzzy_Controller | 0 | 0| 
 
 
 
