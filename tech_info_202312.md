@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231213T02:46:00Z | Null | https://github.com/moemen34/Exploiting-Wordpress-Vulnerabilities | 0 | 0| 
 | 20231213T02:24:18Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), artificial intelligence security, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 15306 | 2713| 
 | 20231213T02:11:54Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6213 | 812| 
 | 20231213T01:50:53Z | Null | https://github.com/BigyanKalakheti/CozyExploit | 0 | 0| 
@@ -73,7 +74,6 @@
 | 20231213T00:58:00Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-l | 1 | 0| 
 | 20231213T00:57:16Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-l | 1 | 0| 
 | 20231213T00:56:43Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-l | 1 | 0| 
-| 20231213T00:51:56Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 238 | 18| 
 
 
 # backdoor on Github 推荐
