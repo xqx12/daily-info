@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231213T02:11:54Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6213 | 812| 
 | 20231213T01:50:53Z | Null | https://github.com/BigyanKalakheti/CozyExploit | 0 | 0| 
 | 20231213T01:45:21Z | This paper analyzes the Dec 2022 PayPal data breach: Exploited vulnerabilities, affected data, and user impact. Perpetrators% techniques and motivations. PayPal%s response, notification, and remediation efforts. Financial and reputational damage for PayPal and users. Long-term consequences, including identity theft and fraud.  | https://github.com/neilmachado/Research-paper | 0 | 0| 
 | 20231213T01:43:41Z | This paper analyzes the Dec 2022 PayPal data breach: Exploited vulnerabilities, affected data, and user impact. Perpetrators% techniques and motivations. PayPal%s response, notification, and remediation efforts. Financial and reputational damage for PayPal and users. Long-term consequences, including identity theft and fraud.  | https://github.com/neilmachado/Projects | 0 | 0| 
@@ -73,7 +74,6 @@
 | 20231213T00:56:43Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-l | 1 | 0| 
 | 20231213T00:51:56Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 238 | 18| 
 | 20231212T21:43:44Z | Exploits with pwntools library in Python3. ROP, BOF, SHELLCODE. | https://github.com/davidenetti/SoftwareSecurityNotes | 0 | 0| 
-| 20231212T19:33:26Z | An in-dept guide to stack based buffer overflow, exploiting a Windows 32bit vulnerable webserver by TryHackMe. | https://github.com/marcourbano/Stack-Buffer-Overflow-Guide | 2 | 0| 
 
 
 # backdoor on Github 推荐
