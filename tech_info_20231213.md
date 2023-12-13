@@ -76,6 +76,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231213T13:53:11Z | Null | https://github.com/AWtnb/fuzzy-daypick | 0 | 0| 
 | 20231213T11:55:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9231 | 2066| 
 | 20231213T11:18:14Z | FuzzyLogic | https://github.com/unlugir/PII_Fuzzy_Logic | 0 | 0| 
 | 20231213T10:57:40Z | Null | https://github.com/thiagoedson/fuzzy-garbanzo | 0 | 0| 
@@ -85,7 +86,6 @@
 | 20231213T05:36:17Z | A comprehensive repository of reported bugs found using the BoBpiler fuzzer, showcasing detailed reports and analyses of compiler optimization bugs across various architectures and compilers. | https://github.com/BoBpiler/bug-list | 1 | 0| 
 | 20231213T02:57:29Z | This is a gui system designed around pygame  | https://github.com/owf684/FuzzyForms | 0 | 0| 
 | 20231213T02:56:56Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50566 | 23373| 
-| 20231213T02:51:38Z | Null | https://github.com/thom4321/fuzzy-moon | 0 | 0| 
 
 
 
