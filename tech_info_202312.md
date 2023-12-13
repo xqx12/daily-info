@@ -79,8 +79,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231213T02:41:09Z | Gel4y-Mini-Shell-Backdoor-Decode | https://github.com/AabyssZG/Gel4y-Mini-Shell-Backdoor-Decode | 112 | 16| 
 | 20231213T01:24:12Z | A webshell that can bypass some system security, all code has been obfuscated to bypass malware scans freely. | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 177 | 74| 
-| 20231212T19:01:13Z | Gel4y-Mini-Shell-Backdoor-Decode | https://github.com/AabyssZG/Gel4y-Mini-Shell-Backdoor-Decode | 111 | 16| 
 | 20231212T16:51:56Z | Backdooring attacks against deep neural networks for malware detection. | https://github.com/DMario93/malware-dnn-backdooring | 0 | 0| 
 | 20231212T16:19:58Z | An Medium Level Based POC  Windows Antivirus Tool written in python to detect ransomware , viruses  , backdoors , payloads and  completely removes it from system . | https://github.com/Whitecat18/Mavoc-Antivirus | 6 | 1| 
 | 20231212T10:06:50Z | 支持注入内存马和Bypass WAF | https://github.com/wafinfo/MeterSphere-plugin-Backdoor | 6 | 0| 
@@ -117,8 +117,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231213T02:43:06Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50565 | 23373| 
 | 20231213T02:38:06Z | Generating Fuzzy Test Drivers Using LLM | https://github.com/YancyLii/LLM4FuzzDrivers | 0 | 0| 
-| 20231213T01:17:46Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50564 | 23373| 
 | 20231213T01:13:40Z | OAPI Fuzz Test | https://github.com/dextermallo/oapi-fuzz | 0 | 0| 
 | 20231213T00:26:26Z | Null | https://github.com/Kimberly5k5/fuzzy-journey | 0 | 0| 
 | 20231212T22:21:10Z | Null | https://github.com/Jacopobracaloni/NTUSF-Not-The-Usual-Stupid-Fuzzer | 0 | 0| 
