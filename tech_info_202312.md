@@ -117,6 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231213T02:51:38Z | Null | https://github.com/thom4321/fuzzy-moon | 0 | 0| 
 | 20231213T02:43:06Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50565 | 23373| 
 | 20231213T02:38:06Z | Generating Fuzzy Test Drivers Using LLM | https://github.com/YancyLii/LLM4FuzzDrivers | 0 | 0| 
 | 20231213T01:13:40Z | OAPI Fuzz Test | https://github.com/dextermallo/oapi-fuzz | 0 | 0| 
@@ -126,7 +127,6 @@
 | 20231212T22:01:31Z | Null | https://github.com/ArtKropalik/fuzzy-engine | 0 | 0| 
 | 20231212T21:41:18Z | Null | https://github.com/matt-vaude/fuzz | 0 | 0| 
 | 20231212T20:32:50Z | Null | https://github.com/aabuhijleh/tip-fuzzy-system | 0 | 0| 
-| 20231212T17:26:56Z | CVSS Fuzzing Utility | https://github.com/jzebor/cvssfuzz | 0 | 0| 
 
 
 
