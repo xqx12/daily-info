@@ -79,26 +79,26 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231213T10:00:02Z | Multi-metrics adaptively identifies backdoors in Federated learning | https://github.com/siquanhuang/Multi-metrics | 13 | 1| 
+| 20231213T07:59:32Z | Chronic Poisoning: Backdoor Attack Against Split Learning (AAAI 2024) | https://github.com/chaoge123456/chronic_poisoning | 0 | 0| 
+| 20231213T04:53:49Z | [IEEE Transactions on Information Forensics & Security 2024] Imperceptible and Robust Backdoor Attack in 3D Point Cloud | https://github.com/KuofengGao/IRBA | 6 | 1| 
+| 20231213T03:36:02Z | This is the official implementation of our paper %DataElixir: Purifying Poisoned Dataset to Mitigate Backdoor Attacks via Diffusion Models%, accepted by AAAI 2024. | https://github.com/Manu21JC/DataElixir | 0 | 0| 
 | 20231213T02:49:23Z | A webshell that can bypass some system security, all code has been obfuscated to bypass malware scans freely. | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 178 | 74| 
 | 20231213T02:41:09Z | Gel4y-Mini-Shell-Backdoor-Decode | https://github.com/AabyssZG/Gel4y-Mini-Shell-Backdoor-Decode | 112 | 16| 
 | 20231212T16:51:56Z | Backdooring attacks against deep neural networks for malware detection. | https://github.com/DMario93/malware-dnn-backdooring | 0 | 0| 
 | 20231212T16:19:58Z | An Medium Level Based POC  Windows Antivirus Tool written in python to detect ransomware , viruses  , backdoors , payloads and  completely removes it from system . | https://github.com/Whitecat18/Mavoc-Antivirus | 6 | 1| 
+| 20231212T10:11:07Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 238 | 29| 
 | 20231212T10:06:50Z | 支持注入内存马和Bypass WAF | https://github.com/wafinfo/MeterSphere-plugin-Backdoor | 6 | 0| 
-| 20231212T08:15:01Z | Exploring vulnerabilities PoC and stealth backdoor scenarios leveraging compiler optimization bugs. | https://github.com/BoBpiler/compiler-bug-vulnerability | 1 | 0| 
-| 20231212T07:16:58Z | Null | https://github.com/Lyz1213/Backdoored_PPLM | 6 | 0| 
-| 20231212T06:58:49Z | It is the source of the AAAI-24 paper %Invisible Backdoor Attack against 3D Point Cloud Classifier in Graph Spectral Domain% | https://github.com/f-lk/IBAPC | 0 | 0| 
-| 20231211T21:13:23Z | BPF-powered LPE backdoor | https://github.com/vobst/bpf-backdoor | 0 | 0| 
-| 20231211T09:37:43Z | Backdoor Collection 👾 | https://github.com/adilhyz/WebShell | 7 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231212T23:21:24Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2373 | 644| 
+| 20231213T12:16:05Z | Playing with the Tigress software protection. Break some of its protections and solve their reverse engineering challenges. Automatic deobfuscation using symbolic execution, taint analysis and LLVM. | https://github.com/JonathanSalwan/Tigress_protection | 759 | 149| 
+| 20231212T23:21:24Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2373 | 645| 
 | 20231212T16:38:21Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 720 | 128| 
 | 20231212T06:46:10Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 363 | 83| 
 | 20231211T15:52:07Z | gradient-based symbolic execution engine implemented from scratch | https://github.com/Koukyosyumei/Gymbo | 28 | 0| 
-| 20231209T18:05:54Z | Playing with the Tigress software protection. Break some of its protections and solve their reverse engineering challenges. Automatic deobfuscation using symbolic execution, taint analysis and LLVM. | https://github.com/JonathanSalwan/Tigress_protection | 758 | 149| 
 | 20231208T03:57:52Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 472 | 33| 
 | 20231207T18:02:05Z | Path-optimal symbolic execution (anonymized) | https://github.com/ananon-user/pose-anonymized | 0 | 0| 
 | 20231205T20:42:19Z | Optimized the movements of Kachua, Performed Fuzzing, Symbolic Execution and Abstract Interpretation | https://github.com/sudikshanavik/CS639_PAVT | 1 | 0| 

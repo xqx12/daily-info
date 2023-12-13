@@ -53,6 +53,10 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231213T10:00:02Z | Multi-metrics adaptively identifies backdoors in Federated learning | https://github.com/siquanhuang/Multi-metrics | 13 | 1| 
+| 20231213T07:59:32Z | Chronic Poisoning: Backdoor Attack Against Split Learning (AAAI 2024) | https://github.com/chaoge123456/chronic_poisoning | 0 | 0| 
+| 20231213T04:53:49Z | [IEEE Transactions on Information Forensics & Security 2024] Imperceptible and Robust Backdoor Attack in 3D Point Cloud | https://github.com/KuofengGao/IRBA | 6 | 1| 
+| 20231213T03:36:02Z | This is the official implementation of our paper %DataElixir: Purifying Poisoned Dataset to Mitigate Backdoor Attacks via Diffusion Models%, accepted by AAAI 2024. | https://github.com/Manu21JC/DataElixir | 0 | 0| 
 | 20231213T02:49:23Z | A webshell that can bypass some system security, all code has been obfuscated to bypass malware scans freely. | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 178 | 74| 
 | 20231213T02:41:09Z | Gel4y-Mini-Shell-Backdoor-Decode | https://github.com/AabyssZG/Gel4y-Mini-Shell-Backdoor-Decode | 112 | 16| 
 
@@ -60,6 +64,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231213T12:16:05Z | Playing with the Tigress software protection. Break some of its protections and solve their reverse engineering challenges. Automatic deobfuscation using symbolic execution, taint analysis and LLVM. | https://github.com/JonathanSalwan/Tigress_protection | 759 | 149| 
 
 
 # big4 on Github 推荐
