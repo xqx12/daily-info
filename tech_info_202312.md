@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231213T01:17:38Z | CVE-2023-26035 | Unauthenticated RCE in ZoneMinder Snapshots - Poc Exploit | https://github.com/rvizx/CVE-2023-26035 | | 
 | 20231212T16:53:16Z | CVE-2023-23752 | PoC for CVE-2023-23752 (joomla CMS) | https://github.com/WhiteOwl-Pub/Joomla-PoC-CVE-2023-23752 | | 
 | 20231212T16:18:51Z | CVE-2023-23333 | PoC for CVE-2023-23333 | https://github.com/WhiteOwl-Pub/SolarView-PoC-CVE-2023-23333 | | 
 | 20231212T16:07:24Z | CVE-2023-36845 | proof of Concept and Vulnerability Detector for CVE-2023-36845 | https://github.com/WhiteOwl-Pub/Juniper-PoC-CVE-2023-36845 | | 
@@ -35,7 +36,6 @@
 | 20231212T07:41:07Z | CVE-2023-31546 | Null | https://github.com/ran9ege/CVE-2023-31546 | | 
 | 20231212T05:59:46Z | CVE-2023-21144 | Null | https://github.com/hshivhare67/Framework_base_AOSP10_r33_CVE-2023-21144_new | | 
 | 20231212T05:15:05Z | CVE-2023-21144 | Null | https://github.com/hshivhare67/Framework_base_AOSP10_r33_CVE-2023-21144 | | 
-| 20231212T03:26:37Z | CVE-2023-38646 | Metabase postgres (org.h2.Driver)  RCE without INIT | https://github.com/0utl4nder/Another-Metabase-RCE-CVE-2023-38646 | | 
 
 
 # klee on Github 推荐
@@ -68,12 +68,12 @@
 | 20231213T00:58:00Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-l | 1 | 0| 
 | 20231213T00:57:16Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-l | 1 | 0| 
 | 20231213T00:56:43Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-l | 1 | 0| 
+| 20231213T00:51:56Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 238 | 18| 
 | 20231212T21:43:44Z | Exploits with pwntools library in Python3. ROP, BOF, SHELLCODE. | https://github.com/davidenetti/SoftwareSecurityNotes | 0 | 0| 
 | 20231212T19:33:26Z | An in-dept guide to stack based buffer overflow, exploiting a Windows 32bit vulnerable webserver by TryHackMe. | https://github.com/marcourbano/Stack-Buffer-Overflow-Guide | 2 | 0| 
 | 20231212T16:09:18Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5561 | 1080| 
 | 20231212T13:57:38Z | Repo for exploiting windows 10 | https://github.com/rajkshk2/windows-10-18362.30 | 0 | 0| 
 | 20231212T13:53:55Z | 实战场景较通用的 Java Rce 相关漏洞的利用方式 , Common Exploitation Techniques for Java RCE Vulnerabilities in Real-World Scenarios | https://github.com/Whoopsunix/JavaRce | 210 | 19| 
-| 20231212T13:07:31Z | GitOps Repository | https://github.com/redhat-appstudio-qe/private-devfile-MxrnP-visit-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -117,9 +117,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231213T01:17:46Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50564 | 23373| 
 | 20231213T01:13:40Z | OAPI Fuzz Test | https://github.com/dextermallo/oapi-fuzz | 0 | 0| 
 | 20231213T00:26:26Z | Null | https://github.com/Kimberly5k5/fuzzy-journey | 0 | 0| 
-| 20231212T23:44:26Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50563 | 23373| 
 | 20231212T22:21:10Z | Null | https://github.com/Jacopobracaloni/NTUSF-Not-The-Usual-Stupid-Fuzzer | 0 | 0| 
 | 20231212T22:04:25Z | Fuzzy Sets (with membership functions) implementation in Kotlin | https://github.com/argraur/fuzzy-logic | 0 | 0| 
 | 20231212T22:01:31Z | Null | https://github.com/ArtKropalik/fuzzy-engine | 0 | 0| 

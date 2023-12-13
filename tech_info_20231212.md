@@ -88,7 +88,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231212T23:44:26Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50563 | 23373| 
 | 20231212T22:21:10Z | Null | https://github.com/Jacopobracaloni/NTUSF-Not-The-Usual-Stupid-Fuzzer | 0 | 0| 
 | 20231212T22:04:25Z | Fuzzy Sets (with membership functions) implementation in Kotlin | https://github.com/argraur/fuzzy-logic | 0 | 0| 
 | 20231212T22:01:31Z | Null | https://github.com/ArtKropalik/fuzzy-engine | 0 | 0| 
@@ -98,6 +97,7 @@
 | 20231212T12:49:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9225 | 2063| 
 | 20231212T12:36:19Z |  In this Code I%ve implemented custom activation functions based on fuzzy logic for my Conv2D layers. | https://github.com/HindEL3/CIFAR-10-100Classification-Fuzzy-Approach- | 0 | 0| 
 | 20231212T12:35:46Z | Generating Fuzzy Test Drivers Using LLM | https://github.com/YancyLii/LLM4FuzzDrivers | 0 | 0| 
+| 20231212T12:08:27Z | Null | https://github.com/yrmani/fuzzy-moon | 0 | 0| 
 
 
 
