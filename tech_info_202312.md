@@ -11,6 +11,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20231213 | 2024年网络安全趋势简析 | https://mp.weixin.qq.com/s/bw-v8PMMiaS5RvZizqw-1A| 
 | 20231211 | SecWiki周刊（第510期) | https://www.sec-wiki.com/weekly/510| 
 | 20231211 | 使用知识图谱和Llama-Index实现基于大模型的RAG | https://mp.weixin.qq.com/s/d8iJ-Qmml4ZgSCIyWnQPYA| 
 | 20231211 | 对某嵌入式设备声波配网的研究 | https://mp.weixin.qq.com/s/pFtAfVEFoYQy5EziiAbcMw| 
@@ -20,12 +21,14 @@
 | 20231208 | 网络社会安全：一门新兴科学（下） | https://mp.weixin.qq.com/s/j4m6ZL-dE0RyyewASs7ydA| 
 | 20231208 | 网络社会安全：一门新兴科学（上） | https://mp.weixin.qq.com/s/USgl8S41fyORJgOOqOmPkg| 
 | 20231208 | ObserverStealer 窃密木马分析及拓线 | https://mp.weixin.qq.com/s/iLuis0npdkSR98F43yv4ww| 
-| 20231208 | AI 如何赋能恶意软件分析 | https://mp.weixin.qq.com/s/-0l0O48PYxmqg6Hd84D-CQ| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231213T09:31:36Z | CVE-2023-50164 | A critical security vulnerability, identified as CVE-2023-50164 (CVE: 9.8) was found in Apache Struts, allowing attackers to manipulate file upload parameters that can potentially lead to unauthorized path traversal and remote code execution (RCE). | https://github.com/jakabakos/CVE-2023-50164-Apache-Struts-RCE | | 
+| 20231213T09:19:39Z | CVE-2020-25668 | Null | https://github.com/hshivhare67/Kernel_4.1.15_CVE-2020-25668 | | 
+| 20231213T03:32:32Z | CVE-2023-23752 | CVE-2023-23752 Joomla Unauthenticated Information Disclosure | https://github.com/C1ph3rX13/CVE-2023-23752 | | 
 | 20231213T01:17:38Z | CVE-2023-26035 | Unauthenticated RCE in ZoneMinder Snapshots - Poc Exploit | https://github.com/rvizx/CVE-2023-26035 | | 
 | 20231212T16:53:16Z | CVE-2023-23752 | PoC for CVE-2023-23752 (joomla CMS) | https://github.com/WhiteOwl-Pub/Joomla-PoC-CVE-2023-23752 | | 
 | 20231212T16:18:51Z | CVE-2023-23333 | PoC for CVE-2023-23333 | https://github.com/WhiteOwl-Pub/SolarView-PoC-CVE-2023-23333 | | 
@@ -33,19 +36,16 @@
 | 20231212T15:51:05Z | CVE-2023-42793 | proof of concept of CVE-2023-42793 vulnerability in TeamCity JetBrains | https://github.com/WhiteOwl-Pub/JetBrains-PoC-CVE-2023-42793 | | 
 | 20231212T12:26:48Z | CVE-2023-30547 | PoC Exploit  for VM2 Sandbox Escape Vulnerability | https://github.com/rvizx/CVE-2023-30547 | | 
 | 20231212T12:09:49Z | CVE-2021-40438 | CVE-2021-40438 Apache <= 2.4.48 SSRF exploit | https://github.com/sergiovks/CVE-2021-40438-Apache-2.4.48-SSRF-exploit | | 
-| 20231212T07:41:07Z | CVE-2023-31546 | Null | https://github.com/ran9ege/CVE-2023-31546 | | 
-| 20231212T05:59:46Z | CVE-2023-21144 | Null | https://github.com/hshivhare67/Framework_base_AOSP10_r33_CVE-2023-21144_new | | 
-| 20231212T05:15:05Z | CVE-2023-21144 | Null | https://github.com/hshivhare67/Framework_base_AOSP10_r33_CVE-2023-21144 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231213T02:53:57Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14612 | 434| 
-| 20231212T23:21:24Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2373 | 644| 
+| 20231213T11:53:28Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14620 | 434| 
+| 20231213T10:34:42Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 99 | 22| 
+| 20231212T23:21:24Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2373 | 645| 
 | 20231212T18:33:52Z | A library for displaying state machine diagrams | https://github.com/coderocket/Cuis-Smalltalk-Kleene | 0 | 0| 
 | 20231212T17:00:02Z | Null | https://github.com/noahknapen/afl_and_klee_projects | 0 | 0| 
-| 20231212T16:29:50Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 98 | 22| 
 | 20231210T15:23:26Z | Null | https://github.com/metametamoon/klee-fork | 0 | 0| 
 | 20231209T21:10:02Z | Null | https://github.com/MATF-Software-Verification/2023_bgein_KLEE | 0 | 0| 
 | 20231209T21:09:52Z | Null | https://github.com/MATF-Software-Verification/2023_VLC-Media-Player_KLEE | 0 | 0| 
@@ -64,16 +64,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231213T12:05:39Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5566 | 1082| 
+| 20231213T11:29:28Z | For exploiting the proj build in vs code | https://github.com/rohithvarma444/visual | 0 | 0| 
+| 20231213T11:13:02Z | Small and simple Python exploitation tool to craft custom exploits for CTFs and ethical hacking | https://github.com/synfosec/flagger | 0 | 0| 
+| 20231213T11:05:25Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 74 | 12| 
+| 20231213T10:31:01Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5715 | 724| 
 | 20231213T02:46:00Z | Null | https://github.com/moemen34/Exploiting-Wordpress-Vulnerabilities | 0 | 0| 
 | 20231213T02:24:18Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), artificial intelligence security, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 15306 | 2713| 
 | 20231213T02:11:54Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6213 | 812| 
 | 20231213T01:50:53Z | Null | https://github.com/BigyanKalakheti/CozyExploit | 0 | 0| 
 | 20231213T01:45:21Z | This paper analyzes the Dec 2022 PayPal data breach: Exploited vulnerabilities, affected data, and user impact. Perpetrators% techniques and motivations. PayPal%s response, notification, and remediation efforts. Financial and reputational damage for PayPal and users. Long-term consequences, including identity theft and fraud.  | https://github.com/neilmachado/Research-paper | 0 | 0| 
-| 20231213T01:43:41Z | This paper analyzes the Dec 2022 PayPal data breach: Exploited vulnerabilities, affected data, and user impact. Perpetrators% techniques and motivations. PayPal%s response, notification, and remediation efforts. Financial and reputational damage for PayPal and users. Long-term consequences, including identity theft and fraud.  | https://github.com/neilmachado/Projects | 0 | 0| 
-| 20231213T00:58:40Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-l | 1 | 0| 
-| 20231213T00:58:00Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-l | 1 | 0| 
-| 20231213T00:57:16Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-l | 1 | 0| 
-| 20231213T00:56:43Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-l | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -117,16 +117,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231213T11:55:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9231 | 2066| 
+| 20231213T11:18:14Z | FuzzyLogic | https://github.com/unlugir/PII_Fuzzy_Logic | 0 | 0| 
+| 20231213T10:57:40Z | Null | https://github.com/thiagoedson/fuzzy-garbanzo | 0 | 0| 
+| 20231213T10:39:11Z | React Native application designed to simplify the computation of t-norms and s-norms used in fuzzy logic systems. | https://github.com/serhiidankovych/fuzzy-norm | 0 | 0| 
+| 20231213T10:09:12Z | self-use fuzz mutator | https://github.com/Jay-Waves/trooper | 0 | 0| 
+| 20231213T05:36:35Z | A versatile fuzzer for detecting compiler optimization bugs across multiple architectures and compilers. Equipped with advanced code generators for comprehensive fuzzing. | https://github.com/BoBpiler/master-fuzzer | 4 | 0| 
+| 20231213T05:36:17Z | A comprehensive repository of reported bugs found using the BoBpiler fuzzer, showcasing detailed reports and analyses of compiler optimization bugs across various architectures and compilers. | https://github.com/BoBpiler/bug-list | 1 | 0| 
 | 20231213T02:57:29Z | This is a gui system designed around pygame  | https://github.com/owf684/FuzzyForms | 0 | 0| 
 | 20231213T02:56:56Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50566 | 23373| 
 | 20231213T02:51:38Z | Null | https://github.com/thom4321/fuzzy-moon | 0 | 0| 
-| 20231213T02:38:06Z | Generating Fuzzy Test Drivers Using LLM | https://github.com/YancyLii/LLM4FuzzDrivers | 0 | 0| 
-| 20231213T01:13:40Z | OAPI Fuzz Test | https://github.com/dextermallo/oapi-fuzz | 0 | 0| 
-| 20231213T00:26:26Z | Null | https://github.com/Kimberly5k5/fuzzy-journey | 0 | 0| 
-| 20231212T22:21:10Z | Null | https://github.com/Jacopobracaloni/NTUSF-Not-The-Usual-Stupid-Fuzzer | 0 | 0| 
-| 20231212T22:04:25Z | Fuzzy Sets (with membership functions) implementation in Kotlin | https://github.com/argraur/fuzzy-logic | 0 | 0| 
-| 20231212T22:01:31Z | Null | https://github.com/ArtKropalik/fuzzy-engine | 0 | 0| 
-| 20231212T21:41:18Z | Null | https://github.com/matt-vaude/fuzz | 0 | 0| 
 
 
 
