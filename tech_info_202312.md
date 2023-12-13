@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231213T01:43:41Z | This paper analyzes the Dec 2022 PayPal data breach: Exploited vulnerabilities, affected data, and user impact. Perpetrators% techniques and motivations. PayPal%s response, notification, and remediation efforts. Financial and reputational damage for PayPal and users. Long-term consequences, including identity theft and fraud.  | https://github.com/neilmachado/Projects | 0 | 0| 
 | 20231213T01:32:36Z | Null | https://github.com/BigyanKalakheti/CozyExploit | 0 | 0| 
 | 20231213T00:58:40Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-l | 1 | 0| 
 | 20231213T00:58:00Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-l | 1 | 0| 
@@ -73,7 +74,6 @@
 | 20231212T21:43:44Z | Exploits with pwntools library in Python3. ROP, BOF, SHELLCODE. | https://github.com/davidenetti/SoftwareSecurityNotes | 0 | 0| 
 | 20231212T19:33:26Z | An in-dept guide to stack based buffer overflow, exploiting a Windows 32bit vulnerable webserver by TryHackMe. | https://github.com/marcourbano/Stack-Buffer-Overflow-Guide | 2 | 0| 
 | 20231212T16:09:18Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5561 | 1080| 
-| 20231212T13:57:38Z | Repo for exploiting windows 10 | https://github.com/rajkshk2/windows-10-18362.30 | 0 | 0| 
 
 
 # backdoor on Github 推荐
