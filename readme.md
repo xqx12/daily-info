@@ -33,7 +33,6 @@
 | --- | --- | --- | --- | ---| 
 | 20231212T23:21:24Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2373 | 644| 
 | 20231212T18:33:52Z | A library for displaying state machine diagrams | https://github.com/coderocket/Cuis-Smalltalk-Kleene | 0 | 0| 
-| 20231212T17:22:58Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14610 | 434| 
 | 20231212T17:00:02Z | Null | https://github.com/noahknapen/afl_and_klee_projects | 0 | 0| 
 | 20231212T16:29:50Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 98 | 22| 
 
@@ -83,6 +82,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231212T14:25:58Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 101 | 4| 
 
 
 # fuzz on Github 推荐
