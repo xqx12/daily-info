@@ -64,8 +64,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231213T02:24:18Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), artificial intelligence security, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 15306 | 2713| 
 | 20231213T02:11:54Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6213 | 812| 
-| 20231213T01:58:19Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), artificial intelligence security, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 15305 | 2713| 
 | 20231213T01:50:53Z | Null | https://github.com/BigyanKalakheti/CozyExploit | 0 | 0| 
 | 20231213T01:45:21Z | This paper analyzes the Dec 2022 PayPal data breach: Exploited vulnerabilities, affected data, and user impact. Perpetrators% techniques and motivations. PayPal%s response, notification, and remediation efforts. Financial and reputational damage for PayPal and users. Long-term consequences, including identity theft and fraud.  | https://github.com/neilmachado/Research-paper | 0 | 0| 
 | 20231213T01:43:41Z | This paper analyzes the Dec 2022 PayPal data breach: Exploited vulnerabilities, affected data, and user impact. Perpetrators% techniques and motivations. PayPal%s response, notification, and remediation efforts. Financial and reputational damage for PayPal and users. Long-term consequences, including identity theft and fraud.  | https://github.com/neilmachado/Projects | 0 | 0| 
