@@ -117,6 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231213T02:57:29Z | This is a gui system designed around pygame  | https://github.com/owf684/FuzzyForms | 0 | 0| 
 | 20231213T02:56:56Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50566 | 23373| 
 | 20231213T02:51:38Z | Null | https://github.com/thom4321/fuzzy-moon | 0 | 0| 
 | 20231213T02:38:06Z | Generating Fuzzy Test Drivers Using LLM | https://github.com/YancyLii/LLM4FuzzDrivers | 0 | 0| 
@@ -126,7 +127,6 @@
 | 20231212T22:04:25Z | Fuzzy Sets (with membership functions) implementation in Kotlin | https://github.com/argraur/fuzzy-logic | 0 | 0| 
 | 20231212T22:01:31Z | Null | https://github.com/ArtKropalik/fuzzy-engine | 0 | 0| 
 | 20231212T21:41:18Z | Null | https://github.com/matt-vaude/fuzz | 0 | 0| 
-| 20231212T20:32:50Z | Null | https://github.com/aabuhijleh/tip-fuzzy-system | 0 | 0| 
 
 
 
