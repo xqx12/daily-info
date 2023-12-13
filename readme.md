@@ -95,8 +95,8 @@
 | 20231212T17:26:56Z | CVSS Fuzzing Utility | https://github.com/jzebor/cvssfuzz | 0 | 0| 
 | 20231212T12:49:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9225 | 2063| 
 | 20231212T12:36:19Z |  In this Code I%ve implemented custom activation functions based on fuzzy logic for my Conv2D layers. | https://github.com/HindEL3/CIFAR-10-100Classification-Fuzzy-Approach- | 0 | 0| 
-| 20231212T12:35:46Z | Generating Fuzzy Test Drivers Using LLM | https://github.com/YancyLii/LLM4FuzzDrivers | 0 | 0| 
 | 20231212T12:08:27Z | Null | https://github.com/yrmani/fuzzy-moon | 0 | 0| 
+| 20231212T11:54:53Z | Null | https://github.com/Research-Squirrel-Engineers/fuzzy-sl-ontology | 0 | 0| 
 
 
 
