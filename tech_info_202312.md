@@ -26,11 +26,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231214T13:39:20Z | CVE-2023-42793 | JetBrains TeamCity Authentication Bypass CVE-2023-42793 Exploit | https://github.com/H454NSec/CVE-2023-42793 | | 
 | 20231214T13:32:59Z | CVE-2023-50164 | A critical security vulnerability, identified as CVE-2023-50164 (CVE: 9.8) was found in Apache Struts, allowing attackers to manipulate file upload parameters that can potentially lead to unauthorized path traversal and remote code execution (RCE). | https://github.com/jakabakos/CVE-2023-50164-Apache-Struts-RCE | | 
 | 20231214T13:21:29Z | CVE-2023-6553 | Backup Migration <= 1.3.7 - Unauthenticated Remote Code Execution | https://github.com/Chocapikk/CVE-2023-6553 | | 
 | 20231214T10:30:51Z | CVE-2023-49070 | Null | https://github.com/abdoghazy2015/ofbiz-CVE-2023-49070-RCE-POC | | 
 | 20231214T09:12:12Z | CVE-2023-22524 | Null | https://github.com/imperva/CVE-2023-22524 | | 
-| 20231214T08:52:16Z | CVE-2023-42793 | JetBrains TeamCity Authentication Bypass CVE-2023-42793 Exploit | https://github.com/H454NSec/CVE-2023-42793 | | 
 | 20231214T07:51:06Z | CVE-2022-4047 | CVE-2022-4047 poc | https://github.com/entroychang/CVE-2022-4047 | | 
 | 20231214T01:49:52Z | CVE-2023-49038 | CVE-2023-49038 | https://github.com/christopher-pace/CVE-2023-49038 | | 
 | 20231213T22:51:13Z | CVE-2023-20198 | CVE-2023-20198 / 0day - Cisco - Authentication Bypass/RCE | https://github.com/codeb0ss/CVE-2023-20198-PoC | | 
