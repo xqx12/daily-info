@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231214T01:49:52Z | CVE-2023-49038 | CVE-2023-49038 | https://github.com/christopher-pace/CVE-2023-49038 | | 
 | 20231213T22:51:13Z | CVE-2023-20198 | CVE-2023-20198 / 0day - Cisco - Authentication Bypass/RCE | https://github.com/codeb0ss/CVE-2023-20198-PoC | | 
 | 20231213T20:30:51Z | CVE-2023-6553 | Backup Migration <= 1.3.7 - Unauthenticated Remote Code Execution | https://github.com/Chocapikk/CVE-2023-6553 | | 
 | 20231213T20:06:39Z | CVE-2023-38831 | CVE-2023-38831 Proof-of-concept code | https://github.com/SpamixOfficial/CVE-2023-38831 | | 
@@ -35,7 +36,6 @@
 | 20231213T15:54:23Z | CVE-2023-31546 | Null | https://github.com/ran9ege/CVE-2023-31546 | | 
 | 20231213T15:46:28Z | CVE-2023-26035 | POC script for CVE-2023-26035 (zoneminder 1.36.32)  | https://github.com/heapbytes/CVE-2023-26035 | | 
 | 20231213T09:19:39Z | CVE-2020-25668 | Null | https://github.com/hshivhare67/Kernel_4.1.15_CVE-2020-25668 | | 
-| 20231213T03:32:32Z | CVE-2023-23752 | CVE-2023-23752 Joomla Unauthenticated Information Disclosure | https://github.com/C1ph3rX13/CVE-2023-23752 | | 
 
 
 # klee on Github 推荐
@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231214T01:50:55Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0056-app-GdRA3-imagine-exploit | 0 | 0| 
 | 20231214T01:09:19Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-g | 1 | 0| 
 | 20231214T01:08:12Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-g | 1 | 0| 
 | 20231214T01:07:14Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-g | 1 | 0| 
@@ -73,7 +74,6 @@
 | 20231213T23:47:56Z | Exploits Research by @pwn0sec Team | https://github.com/imhunterand/Exploits | 0 | 0| 
 | 20231213T23:44:33Z | reimplementation of pwntools in c in order to exploit drivers in C and with swig bindings to exploit user land programs in python | https://github.com/gogo2464/pwnto-driver | 0 | 1| 
 | 20231213T20:18:02Z | Exploiting surveys from INE and BDE ( EFF and ECV basically) using R package surveyr and data.table features | https://github.com/iliciuv/petit-rentier-HFCS | 0 | 0| 
-| 20231213T19:46:31Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 70 | 35| 
 
 
 # backdoor on Github 推荐
