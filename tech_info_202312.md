@@ -64,6 +64,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231214T01:07:14Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-g | 1 | 0| 
+| 20231214T01:06:23Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-g | 1 | 0| 
 | 20231214T01:04:29Z | Repository for the class CS 370 - Intro to Security at Oregon State University - Ecampus, Fall 2023.  Includes concepts such as encryption, Bloom Filters, one-time passwords, and vulnerability exploitation/defense.  | https://github.com/sweisss/CS370-Intro_to_Security | 0 | 0| 
 | 20231214T01:01:30Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0033-app-g-vb3-exploit-count | 0 | 0| 
 | 20231213T23:47:56Z | Exploits Research by @pwn0sec Team | https://github.com/imhunterand/Exploits | 0 | 0| 
@@ -72,8 +74,6 @@
 | 20231213T19:46:31Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 70 | 35| 
 | 20231213T12:05:39Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5566 | 1082| 
 | 20231213T11:29:28Z | For exploiting the proj build in vs code | https://github.com/rohithvarma444/visual | 0 | 0| 
-| 20231213T11:13:02Z | Small and simple Python exploitation tool to craft custom exploits for CTFs and ethical hacking | https://github.com/synfosec/flagger | 0 | 0| 
-| 20231213T11:05:25Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 74 | 12| 
 
 
 # backdoor on Github 推荐
