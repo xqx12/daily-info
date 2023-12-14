@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231214T02:20:03Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0075-app-yrYjb-exploit-comply | 0 | 0| 
 | 20231214T01:50:55Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0056-app-GdRA3-imagine-exploit | 0 | 0| 
 | 20231214T01:09:19Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-g | 1 | 0| 
 | 20231214T01:08:12Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-g | 1 | 0| 
@@ -73,7 +74,6 @@
 | 20231214T01:01:30Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0033-app-g-vb3-exploit-count | 0 | 0| 
 | 20231213T23:47:56Z | Exploits Research by @pwn0sec Team | https://github.com/imhunterand/Exploits | 0 | 0| 
 | 20231213T23:44:33Z | reimplementation of pwntools in c in order to exploit drivers in C and with swig bindings to exploit user land programs in python | https://github.com/gogo2464/pwnto-driver | 0 | 1| 
-| 20231213T20:18:02Z | Exploiting surveys from INE and BDE ( EFF and ECV basically) using R package surveyr and data.table features | https://github.com/iliciuv/petit-rentier-HFCS | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -117,7 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231214T02:09:19Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50581 | 23373| 
+| 20231214T02:09:19Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50581 | 23372| 
 | 20231214T01:58:55Z | A snapshotting, coverage-guided fuzzer for software (UEFI, Kernel, firmware, BIOS) built on SIMICS | https://github.com/intel/tsffs | 223 | 12| 
 | 20231213T23:09:51Z | Null | https://github.com/thevoiddev/ta-scm-fuzzy-tsukamoto | 0 | 0| 
 | 20231213T22:43:07Z | Null | https://github.com/automatic-waffle-special-octo-disco/fuzzy-waddle | 0 | 0| 
