@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231214T01:04:29Z | Repository for the class CS 370 - Intro to Security at Oregon State University - Ecampus, Fall 2023.  Includes concepts such as encryption, Bloom Filters, one-time passwords, and vulnerability exploitation/defense.  | https://github.com/sweisss/CS370-Intro_to_Security | 0 | 0| 
 | 20231214T01:01:30Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0033-app-g-vb3-exploit-count | 0 | 0| 
 | 20231213T23:47:56Z | Exploits Research by @pwn0sec Team | https://github.com/imhunterand/Exploits | 0 | 0| 
 | 20231213T23:44:33Z | reimplementation of pwntools in c in order to exploit drivers in C and with swig bindings to exploit user land programs in python | https://github.com/gogo2464/pwnto-driver | 0 | 1| 
@@ -73,7 +74,6 @@
 | 20231213T11:29:28Z | For exploiting the proj build in vs code | https://github.com/rohithvarma444/visual | 0 | 0| 
 | 20231213T11:13:02Z | Small and simple Python exploitation tool to craft custom exploits for CTFs and ethical hacking | https://github.com/synfosec/flagger | 0 | 0| 
 | 20231213T11:05:25Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 74 | 12| 
-| 20231213T10:31:01Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5715 | 724| 
 
 
 # backdoor on Github 推荐
