@@ -117,12 +117,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231214T01:58:55Z | A snapshotting, coverage-guided fuzzer for software (UEFI, Kernel, firmware, BIOS) built on SIMICS | https://github.com/intel/tsffs | 223 | 12| 
 | 20231214T01:55:15Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50580 | 23373| 
 | 20231213T23:09:51Z | Null | https://github.com/thevoiddev/ta-scm-fuzzy-tsukamoto | 0 | 0| 
 | 20231213T22:43:07Z | Null | https://github.com/automatic-waffle-special-octo-disco/fuzzy-waddle | 0 | 0| 
 | 20231213T22:25:52Z | Null | https://github.com/StarProxima/fuzzy_math | 0 | 0| 
 | 20231213T20:45:55Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9232 | 2066| 
-| 20231213T17:39:38Z | A snapshotting, coverage-guided fuzzer for software (UEFI, Kernel, firmware, BIOS) built on SIMICS | https://github.com/intel/tsffs | 222 | 12| 
 | 20231213T13:53:11Z | Null | https://github.com/AWtnb/fuzzy-daypick | 0 | 0| 
 | 20231213T12:14:36Z | Null | https://github.com/google/fuzztest | 480 | 38| 
 | 20231213T11:18:14Z | FuzzyLogic | https://github.com/unlugir/PII_Fuzzy_Logic | 0 | 0| 

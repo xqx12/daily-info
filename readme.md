@@ -88,12 +88,12 @@
 | 20231213T22:43:07Z | Null | https://github.com/automatic-waffle-special-octo-disco/fuzzy-waddle | 0 | 0| 
 | 20231213T22:25:52Z | Null | https://github.com/StarProxima/fuzzy_math | 0 | 0| 
 | 20231213T20:45:55Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9232 | 2066| 
-| 20231213T17:39:38Z | A snapshotting, coverage-guided fuzzer for software (UEFI, Kernel, firmware, BIOS) built on SIMICS | https://github.com/intel/tsffs | 222 | 12| 
 | 20231213T13:53:11Z | Null | https://github.com/AWtnb/fuzzy-daypick | 0 | 0| 
 | 20231213T12:14:36Z | Null | https://github.com/google/fuzztest | 480 | 38| 
 | 20231213T11:18:14Z | FuzzyLogic | https://github.com/unlugir/PII_Fuzzy_Logic | 0 | 0| 
 | 20231213T10:57:40Z | Null | https://github.com/thiagoedson/fuzzy-garbanzo | 0 | 0| 
 | 20231213T10:39:11Z | React Native application designed to simplify the computation of t-norms and s-norms used in fuzzy logic systems. | https://github.com/serhiidankovych/fuzzy-norm | 0 | 0| 
+| 20231213T10:09:12Z | self-use fuzz mutator | https://github.com/Jay-Waves/trooper | 0 | 0| 
 
 
 
