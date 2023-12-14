@@ -41,6 +41,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231214T13:48:28Z | Whatsapp Exploit to spoofing impersonate of reply message  | https://github.com/lichti/whats-spoofing | 3 | 2| 
 | 20231214T13:35:19Z | only enter ip address if your ssh is vulnerable so your ssh is exploit  | https://github.com/Hacker8833/ssh-hacking-using-nmap | 0 | 0| 
 | 20231214T13:21:29Z | Backup Migration <= 1.3.7 - Unauthenticated Remote Code Execution | https://github.com/Chocapikk/CVE-2023-6553 | 6 | 4| 
 | 20231214T13:03:47Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 91 | 33| 
@@ -50,7 +51,6 @@
 | 20231214T12:52:16Z | Notes and tasks related to web security and  exploitation | https://github.com/winters0x64/WebSec | 2 | 0| 
 | 20231214T12:43:44Z | delegatecall exploit example | https://github.com/Lerr1uqs/delegatecall-exp-example | 0 | 0| 
 | 20231214T12:35:11Z | A platform for both policy makers and  policy owners for smart contract exploit insurance | https://github.com/cherrypopsicle/insurance-platform | 0 | 0| 
-| 20231214T12:34:12Z | Whatsapp Exploit to spoofing impersonate of reply message  | https://github.com/lichti/whats-spoofing | 2 | 2| 
 
 
 # backdoor on Github 推荐
