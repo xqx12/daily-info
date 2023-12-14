@@ -17,8 +17,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231214T13:14:59Z | CVE-2023-50164 | A critical security vulnerability, identified as CVE-2023-50164 (CVE: 9.8) was found in Apache Struts, allowing attackers to manipulate file upload parameters that can potentially lead to unauthorized path traversal and remote code execution (RCE). | https://github.com/jakabakos/CVE-2023-50164-Apache-Struts-RCE | | 
 | 20231214T10:30:51Z | CVE-2023-49070 | Null | https://github.com/abdoghazy2015/ofbiz-CVE-2023-49070-RCE-POC | | 
-| 20231214T10:02:13Z | CVE-2023-50164 | A critical security vulnerability, identified as CVE-2023-50164 (CVE: 9.8) was found in Apache Struts, allowing attackers to manipulate file upload parameters that can potentially lead to unauthorized path traversal and remote code execution (RCE). | https://github.com/jakabakos/CVE-2023-50164-Apache-Struts-RCE | | 
 | 20231214T09:12:12Z | CVE-2023-22524 | Null | https://github.com/imperva/CVE-2023-22524 | | 
 | 20231214T08:52:16Z | CVE-2023-42793 | JetBrains TeamCity Authentication Bypass CVE-2023-42793 Exploit | https://github.com/H454NSec/CVE-2023-42793 | | 
 | 20231214T08:25:08Z | CVE-2023-6553 | Backup Migration <= 1.3.7 - Unauthenticated Remote Code Execution | https://github.com/Chocapikk/CVE-2023-6553 | | 
@@ -49,8 +49,8 @@
 | 20231214T12:52:16Z | Notes and tasks related to web security and  exploitation | https://github.com/winters0x64/WebSec | 2 | 0| 
 | 20231214T12:43:44Z | delegatecall exploit example | https://github.com/Lerr1uqs/delegatecall-exp-example | 0 | 0| 
 | 20231214T12:35:11Z | A platform for both policy makers and  policy owners for smart contract exploit insurance | https://github.com/cherrypopsicle/insurance-platform | 0 | 0| 
+| 20231214T12:34:12Z | Whatsapp Exploit to spoofing impersonate of reply message  | https://github.com/lichti/whats-spoofing | 2 | 2| 
 | 20231214T12:26:54Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 684 | 40| 
-| 20231214T10:16:42Z | Android BugBazaar: Your mobile appsec playground to Explore, Exploit, Excel | https://github.com/payatu/BugBazaar | 5 | 1| 
 
 
 # backdoor on Github 推荐
@@ -77,6 +77,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231214T13:15:11Z | Null | https://github.com/cafan/Container_Related_Fuzzing_Paper | 0 | 0| 
 | 20231214T13:07:53Z | Null | https://github.com/yarizindabad1/fuzzy-giggle | 0 | 0| 
 | 20231214T12:13:58Z | Null | https://github.com/songtaehyeon/whs1st_fuzzingTeam | 0 | 0| 
 | 20231214T12:10:40Z | Fuzzy Logic Systeem in Python | https://github.com/GijsSi/FuzzyLogic | 0 | 0| 
