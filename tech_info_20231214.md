@@ -77,6 +77,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231214T13:07:53Z | Null | https://github.com/yarizindabad1/fuzzy-giggle | 0 | 0| 
 | 20231214T12:13:58Z | Null | https://github.com/songtaehyeon/whs1st_fuzzingTeam | 0 | 0| 
 | 20231214T12:10:40Z | Fuzzy Logic Systeem in Python | https://github.com/GijsSi/FuzzyLogic | 0 | 0| 
 | 20231214T11:56:53Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9237 | 2067| 
