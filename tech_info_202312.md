@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231214T01:01:30Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0033-app-g-vb3-exploit-count | 0 | 0| 
 | 20231213T23:47:56Z | Exploits Research by @pwn0sec Team | https://github.com/imhunterand/Exploits | 0 | 0| 
 | 20231213T23:44:33Z | reimplementation of pwntools in c in order to exploit drivers in C and with swig bindings to exploit user land programs in python | https://github.com/gogo2464/pwnto-driver | 0 | 1| 
 | 20231213T20:18:02Z | Exploiting surveys from INE and BDE ( EFF and ECV basically) using R package surveyr and data.table features | https://github.com/iliciuv/petit-rentier-HFCS | 0 | 0| 
@@ -73,7 +74,6 @@
 | 20231213T11:13:02Z | Small and simple Python exploitation tool to craft custom exploits for CTFs and ethical hacking | https://github.com/synfosec/flagger | 0 | 0| 
 | 20231213T11:05:25Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 74 | 12| 
 | 20231213T10:31:01Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5715 | 724| 
-| 20231213T03:13:11Z | PoC. Severity critical. | https://github.com/getdrive/PoC | 31 | 13| 
 
 
 # backdoor on Github 推荐
@@ -94,6 +94,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231213T14:15:36Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 25 | 12| 
 | 20231213T12:16:05Z | Playing with the Tigress software protection. Break some of its protections and solve their reverse engineering challenges. Automatic deobfuscation using symbolic execution, taint analysis and LLVM. | https://github.com/JonathanSalwan/Tigress_protection | 759 | 149| 
 | 20231212T23:21:24Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2373 | 645| 
 | 20231212T16:38:21Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 720 | 128| 
@@ -103,7 +104,6 @@
 | 20231207T18:02:05Z | Path-optimal symbolic execution (anonymized) | https://github.com/ananon-user/pose-anonymized | 0 | 0| 
 | 20231205T20:42:19Z | Optimized the movements of Kachua, Performed Fuzzing, Symbolic Execution and Abstract Interpretation | https://github.com/sudikshanavik/CS639_PAVT | 1 | 0| 
 | 20231205T00:18:34Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 66 | 9| 
-| 20231204T02:43:15Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 268 | 36| 
 
 
 # big4 on Github 推荐
