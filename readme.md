@@ -41,6 +41,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231214T13:59:31Z | PDF PNG Exploit Spoofer X1na  | https://github.com/X1naa2x/Apk-to-Png | 0 | 0| 
 | 20231214T13:57:21Z | Whatsapp Exploit to spoofing impersonate of reply message  | https://github.com/lichti/whats-spoofing | 4 | 2| 
 | 20231214T13:35:19Z | only enter ip address if your ssh is vulnerable so your ssh is exploit  | https://github.com/Hacker8833/ssh-hacking-using-nmap | 0 | 0| 
 | 20231214T13:21:29Z | Backup Migration <= 1.3.7 - Unauthenticated Remote Code Execution | https://github.com/Chocapikk/CVE-2023-6553 | 6 | 4| 
@@ -50,7 +51,6 @@
 | 20231214T12:54:42Z | OAuth 2.0 exploitation, attack and research tools. | https://github.com/JeffJerseyCow/evil-oauth | 1 | 1| 
 | 20231214T12:52:16Z | Notes and tasks related to web security and  exploitation | https://github.com/winters0x64/WebSec | 2 | 0| 
 | 20231214T12:43:44Z | delegatecall exploit example | https://github.com/Lerr1uqs/delegatecall-exp-example | 0 | 0| 
-| 20231214T12:35:11Z | A platform for both policy makers and  policy owners for smart contract exploit insurance | https://github.com/cherrypopsicle/insurance-platform | 0 | 0| 
 
 
 # backdoor on Github 推荐
