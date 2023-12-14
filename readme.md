@@ -58,8 +58,8 @@
 | --- | --- | --- | --- | ---| 
 | 20231214T11:29:39Z | BitRAT CrackedIt is meticulously constructed utilizing the C++ programming language. It stands as the most recent iteration of the premier PC RAT for the year 2023. Regarded as a prized tool | https://github.com/nobunuke/Bitrat-Hvnc-Rat-Remote-Control-Av-Bypass | 0 | 0| 
 | 20231214T11:29:36Z | AsyncRAT stands as a Remote Access Tool (RAT) conceived for the purpose of distant supervision and command over remote computers through an encrypted connection ensuring security. | https://github.com/nobunuke/AsyncRAT-Fud-Fixed-Dll-Remote-Administration-Tool-New | 0 | 0| 
-| 20231214T11:28:24Z | Computing) capabilities. It boasts compatibility with a spectrum of 20 concealed browsers. Pegasus HVNC facet facilitates the orchestration of a concealed desktop environment | https://github.com/nobunuke/Pegasus-Pantheon-HVNC-V2-VNC-Hidden-Browser-Remote-Administration-Rat | 0 | 0| 
 | 20231214T11:28:24Z | VenomControl Rat is a Remote Access Tool (RAT) designed to remotely monitor and control other computers through a secure encrypted connection | https://github.com/nobunuke/VenomControl-Rat-Crack-Source | 0 | 0| 
+| 20231214T11:28:24Z | Computing) capabilities. It boasts compatibility with a spectrum of 20 concealed browsers. Pegasus HVNC facet facilitates the orchestration of a concealed desktop environment | https://github.com/nobunuke/Pegasus-Pantheon-HVNC-V2-VNC-Hidden-Browser-Remote-Administration-Rat | 0 | 0| 
 | 20231214T06:20:27Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 191 | 38| 
 
 
