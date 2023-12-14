@@ -64,6 +64,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231214T13:03:47Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 91 | 33| 
+| 20231214T13:03:42Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 177 | 15| 
+| 20231214T13:03:17Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5720 | 725| 
 | 20231214T12:58:08Z | only enter ip address if your ssh is vulnerable so your ssh is exploit  | https://github.com/Hacker8833/ssh-hacking-using-nmap | 0 | 0| 
 | 20231214T12:54:42Z | OAuth 2.0 exploitation, attack and research tools. | https://github.com/JeffJerseyCow/evil-oauth | 1 | 1| 
 | 20231214T12:52:16Z | Notes and tasks related to web security and  exploitation | https://github.com/winters0x64/WebSec | 2 | 0| 
@@ -71,9 +74,6 @@
 | 20231214T12:35:11Z | A platform for both policy makers and  policy owners for smart contract exploit insurance | https://github.com/cherrypopsicle/insurance-platform | 0 | 0| 
 | 20231214T12:26:54Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 684 | 40| 
 | 20231214T10:16:42Z | Android BugBazaar: Your mobile appsec playground to Explore, Exploit, Excel | https://github.com/payatu/BugBazaar | 5 | 1| 
-| 20231214T08:39:51Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5719 | 725| 
-| 20231214T08:20:37Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5568 | 1082| 
-| 20231214T02:47:08Z | Blooket hack I guess | https://github.com/NOOBYL0L/Blooket-exploit- | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -117,16 +117,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231214T12:13:58Z | Null | https://github.com/songtaehyeon/whs1st_fuzzingTeam | 0 | 0| 
+| 20231214T12:10:40Z | Fuzzy Logic Systeem in Python | https://github.com/GijsSi/FuzzyLogic | 0 | 0| 
+| 20231214T11:56:53Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9237 | 2067| 
+| 20231214T11:56:22Z | Null | https://github.com/StarProxima/fuzzy_math | 0 | 0| 
+| 20231214T11:42:54Z | Null | https://github.com/dracary7/net-fuzz-ci | 0 | 0| 
+| 20231214T11:17:17Z | TokTok fuzzing corpus and coverage results. | https://github.com/TokTok/toktok-fuzzer | 4 | 2| 
 | 20231214T02:40:39Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50582 | 23372| 
 | 20231214T01:58:55Z | A snapshotting, coverage-guided fuzzer for software (UEFI, Kernel, firmware, BIOS) built on SIMICS | https://github.com/intel/tsffs | 223 | 12| 
 | 20231213T23:09:51Z | Null | https://github.com/thevoiddev/ta-scm-fuzzy-tsukamoto | 0 | 0| 
 | 20231213T22:43:07Z | Null | https://github.com/automatic-waffle-special-octo-disco/fuzzy-waddle | 0 | 0| 
-| 20231213T22:25:52Z | Null | https://github.com/StarProxima/fuzzy_math | 0 | 0| 
-| 20231213T20:45:55Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9232 | 2066| 
-| 20231213T13:53:11Z | Null | https://github.com/AWtnb/fuzzy-daypick | 0 | 0| 
-| 20231213T12:14:36Z | Null | https://github.com/google/fuzztest | 480 | 38| 
-| 20231213T11:18:14Z | FuzzyLogic | https://github.com/unlugir/PII_Fuzzy_Logic | 0 | 0| 
-| 20231213T10:57:40Z | Null | https://github.com/thiagoedson/fuzzy-garbanzo | 0 | 0| 
 
 
 
