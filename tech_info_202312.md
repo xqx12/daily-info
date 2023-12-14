@@ -64,6 +64,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231214T01:09:19Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-g | 1 | 0| 
+| 20231214T01:08:12Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-g | 1 | 0| 
 | 20231214T01:07:14Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-g | 1 | 0| 
 | 20231214T01:06:23Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-g | 1 | 0| 
 | 20231214T01:04:29Z | Repository for the class CS 370 - Intro to Security at Oregon State University - Ecampus, Fall 2023.  Includes concepts such as encryption, Bloom Filters, one-time passwords, and vulnerability exploitation/defense.  | https://github.com/sweisss/CS370-Intro_to_Security | 0 | 0| 
@@ -72,8 +74,6 @@
 | 20231213T23:44:33Z | reimplementation of pwntools in c in order to exploit drivers in C and with swig bindings to exploit user land programs in python | https://github.com/gogo2464/pwnto-driver | 0 | 1| 
 | 20231213T20:18:02Z | Exploiting surveys from INE and BDE ( EFF and ECV basically) using R package surveyr and data.table features | https://github.com/iliciuv/petit-rentier-HFCS | 0 | 0| 
 | 20231213T19:46:31Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 70 | 35| 
-| 20231213T12:05:39Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5566 | 1082| 
-| 20231213T11:29:28Z | For exploiting the proj build in vs code | https://github.com/rohithvarma444/visual | 0 | 0| 
 
 
 # backdoor on Github 推荐
