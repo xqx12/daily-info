@@ -64,6 +64,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231214T02:47:08Z | Blooket hack I guess | https://github.com/NOOBYL0L/Blooket-exploit- | 0 | 0| 
+| 20231214T02:45:38Z | Null | https://github.com/NOOBYL0L/Blooket-exploit | 0 | 0| 
 | 20231214T02:20:03Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0075-app-yrYjb-exploit-comply | 0 | 0| 
 | 20231214T01:50:55Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0056-app-GdRA3-imagine-exploit | 0 | 0| 
 | 20231214T01:09:19Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-g | 1 | 0| 
@@ -72,8 +74,6 @@
 | 20231214T01:06:23Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-g | 1 | 0| 
 | 20231214T01:04:29Z | Repository for the class CS 370 - Intro to Security at Oregon State University - Ecampus, Fall 2023.  Includes concepts such as encryption, Bloom Filters, one-time passwords, and vulnerability exploitation/defense.  | https://github.com/sweisss/CS370-Intro_to_Security | 0 | 0| 
 | 20231214T01:01:30Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0033-app-g-vb3-exploit-count | 0 | 0| 
-| 20231213T23:47:56Z | Exploits Research by @pwn0sec Team | https://github.com/imhunterand/Exploits | 0 | 0| 
-| 20231213T23:44:33Z | reimplementation of pwntools in c in order to exploit drivers in C and with swig bindings to exploit user land programs in python | https://github.com/gogo2464/pwnto-driver | 0 | 1| 
 
 
 # backdoor on Github 推荐
