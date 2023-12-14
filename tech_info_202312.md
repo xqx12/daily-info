@@ -11,6 +11,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20231214 | 软件安全国内外研究团队调研报告（上） | https://mp.weixin.qq.com/s/lvdj5TzOPy_S9-MaYDfdcw| 
 | 20231213 | 2024年网络安全趋势简析 | https://mp.weixin.qq.com/s/bw-v8PMMiaS5RvZizqw-1A| 
 | 20231213 | 大模型在代码缺陷检测领域的应用实践 | https://mp.weixin.qq.com/s/kXSiXfgsezfLZjR-cGb5vg| 
 | 20231211 | SecWiki周刊（第510期) | https://www.sec-wiki.com/weekly/510| 
@@ -20,29 +21,28 @@
 | 20231208 | 源站IP ACL绕过的风险 | https://fangpsh.github.io/posts/2023/2023-10-02.html| 
 | 20231208 | 安全运营中的加密流量检测技术 | https://mp.weixin.qq.com/s/memYq9lLMsPmN46YoBS5zg| 
 | 20231208 | 网络社会安全：一门新兴科学（下） | https://mp.weixin.qq.com/s/j4m6ZL-dE0RyyewASs7ydA| 
-| 20231208 | 网络社会安全：一门新兴科学（上） | https://mp.weixin.qq.com/s/USgl8S41fyORJgOOqOmPkg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231214T10:30:51Z | CVE-2023-49070 | Null | https://github.com/abdoghazy2015/ofbiz-CVE-2023-49070-RCE-POC | | 
+| 20231214T10:02:13Z | CVE-2023-50164 | A critical security vulnerability, identified as CVE-2023-50164 (CVE: 9.8) was found in Apache Struts, allowing attackers to manipulate file upload parameters that can potentially lead to unauthorized path traversal and remote code execution (RCE). | https://github.com/jakabakos/CVE-2023-50164-Apache-Struts-RCE | | 
+| 20231214T09:12:12Z | CVE-2023-22524 | Null | https://github.com/imperva/CVE-2023-22524 | | 
+| 20231214T08:52:16Z | CVE-2023-42793 | JetBrains TeamCity Authentication Bypass CVE-2023-42793 Exploit | https://github.com/H454NSec/CVE-2023-42793 | | 
+| 20231214T08:25:08Z | CVE-2023-6553 | Backup Migration <= 1.3.7 - Unauthenticated Remote Code Execution | https://github.com/Chocapikk/CVE-2023-6553 | | 
+| 20231214T07:51:06Z | CVE-2022-4047 | CVE-2022-4047 poc | https://github.com/entroychang/CVE-2022-4047 | | 
 | 20231214T01:49:52Z | CVE-2023-49038 | CVE-2023-49038 | https://github.com/christopher-pace/CVE-2023-49038 | | 
 | 20231213T22:51:13Z | CVE-2023-20198 | CVE-2023-20198 / 0day - Cisco - Authentication Bypass/RCE | https://github.com/codeb0ss/CVE-2023-20198-PoC | | 
-| 20231213T20:30:51Z | CVE-2023-6553 | Backup Migration <= 1.3.7 - Unauthenticated Remote Code Execution | https://github.com/Chocapikk/CVE-2023-6553 | | 
 | 20231213T20:06:39Z | CVE-2023-38831 | CVE-2023-38831 Proof-of-concept code | https://github.com/SpamixOfficial/CVE-2023-38831 | | 
-| 20231213T19:58:48Z | CVE-2023-50164 | A critical security vulnerability, identified as CVE-2023-50164 (CVE: 9.8) was found in Apache Struts, allowing attackers to manipulate file upload parameters that can potentially lead to unauthorized path traversal and remote code execution (RCE). | https://github.com/jakabakos/CVE-2023-50164-Apache-Struts-RCE | | 
 | 20231213T18:06:18Z | CVE-2023-4636 | Unauthenticated Remote Code Execution with default Imagick | https://github.com/ThatNotEasy/CVE-2023-4636 | | 
-| 20231213T16:43:59Z | CVE-2023-5561 | WordPress does not properly restrict which user fields are searchable via the REST API, allowing unauthenticated attackers to discern the email addresses of users who have published public posts on an affected website via an Oracle style attack | https://github.com/pog007/CVE-2023-5561-PoC | | 
-| 20231213T15:54:23Z | CVE-2023-31546 | Null | https://github.com/ran9ege/CVE-2023-31546 | | 
-| 20231213T15:46:28Z | CVE-2023-26035 | POC script for CVE-2023-26035 (zoneminder 1.36.32)  | https://github.com/heapbytes/CVE-2023-26035 | | 
-| 20231213T09:19:39Z | CVE-2020-25668 | Null | https://github.com/hshivhare67/Kernel_4.1.15_CVE-2020-25668 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231214T01:44:25Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14623 | 434| 
-| 20231213T10:34:42Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 99 | 22| 
+| 20231214T11:59:38Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14632 | 434| 
+| 20231214T03:02:56Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 100 | 22| 
 | 20231212T23:21:24Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2373 | 645| 
 | 20231212T18:33:52Z | A library for displaying state machine diagrams | https://github.com/coderocket/Cuis-Smalltalk-Kleene | 0 | 0| 
 | 20231212T17:00:02Z | Null | https://github.com/noahknapen/afl_and_klee_projects | 0 | 0| 
@@ -64,31 +64,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231214T12:58:08Z | only enter ip address if your ssh is vulnerable so your ssh is exploit  | https://github.com/Hacker8833/ssh-hacking-using-nmap | 0 | 0| 
+| 20231214T12:54:42Z | OAuth 2.0 exploitation, attack and research tools. | https://github.com/JeffJerseyCow/evil-oauth | 1 | 1| 
+| 20231214T12:52:16Z | Notes and tasks related to web security and  exploitation | https://github.com/winters0x64/WebSec | 2 | 0| 
+| 20231214T12:43:44Z | delegatecall exploit example | https://github.com/Lerr1uqs/delegatecall-exp-example | 0 | 0| 
+| 20231214T12:35:11Z | A platform for both policy makers and  policy owners for smart contract exploit insurance | https://github.com/cherrypopsicle/insurance-platform | 0 | 0| 
+| 20231214T12:26:54Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 684 | 40| 
+| 20231214T10:16:42Z | Android BugBazaar: Your mobile appsec playground to Explore, Exploit, Excel | https://github.com/payatu/BugBazaar | 5 | 1| 
+| 20231214T08:39:51Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5719 | 725| 
+| 20231214T08:20:37Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5568 | 1082| 
 | 20231214T02:47:08Z | Blooket hack I guess | https://github.com/NOOBYL0L/Blooket-exploit- | 0 | 0| 
-| 20231214T02:45:38Z | Null | https://github.com/NOOBYL0L/Blooket-exploit | 0 | 0| 
-| 20231214T02:20:03Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0075-app-yrYjb-exploit-comply | 0 | 0| 
-| 20231214T01:50:55Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0056-app-GdRA3-imagine-exploit | 0 | 0| 
-| 20231214T01:09:19Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-g | 1 | 0| 
-| 20231214T01:08:12Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-g | 1 | 0| 
-| 20231214T01:07:14Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-g | 1 | 0| 
-| 20231214T01:06:23Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-g | 1 | 0| 
-| 20231214T01:04:29Z | Repository for the class CS 370 - Intro to Security at Oregon State University - Ecampus, Fall 2023.  Includes concepts such as encryption, Bloom Filters, one-time passwords, and vulnerability exploitation/defense.  | https://github.com/sweisss/CS370-Intro_to_Security | 0 | 0| 
-| 20231214T01:01:30Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0033-app-g-vb3-exploit-count | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231214T11:29:39Z | BitRAT CrackedIt is meticulously constructed utilizing the C++ programming language. It stands as the most recent iteration of the premier PC RAT for the year 2023. Regarded as a prized tool | https://github.com/nobunuke/Bitrat-Hvnc-Rat-Remote-Control-Av-Bypass | 0 | 0| 
+| 20231214T11:29:36Z | AsyncRAT stands as a Remote Access Tool (RAT) conceived for the purpose of distant supervision and command over remote computers through an encrypted connection ensuring security. | https://github.com/nobunuke/AsyncRAT-Fud-Fixed-Dll-Remote-Administration-Tool-New | 0 | 0| 
+| 20231214T11:28:24Z | VenomControl Rat is a Remote Access Tool (RAT) designed to remotely monitor and control other computers through a secure encrypted connection | https://github.com/nobunuke/VenomControl-Rat-Crack-Source | 0 | 0| 
+| 20231214T11:28:24Z | Computing) capabilities. It boasts compatibility with a spectrum of 20 concealed browsers. Pegasus HVNC facet facilitates the orchestration of a concealed desktop environment | https://github.com/nobunuke/Pegasus-Pantheon-HVNC-V2-VNC-Hidden-Browser-Remote-Administration-Rat | 0 | 0| 
+| 20231214T06:20:27Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 191 | 38| 
 | 20231213T19:35:52Z | Null | https://github.com/ujjwalasthana96/BackdoorAttacks | 0 | 0| 
 | 20231213T10:00:02Z | Multi-metrics adaptively identifies backdoors in Federated learning | https://github.com/siquanhuang/Multi-metrics | 13 | 1| 
 | 20231213T07:59:32Z | Chronic Poisoning: Backdoor Attack Against Split Learning (AAAI 2024) | https://github.com/chaoge123456/chronic_poisoning | 0 | 0| 
 | 20231213T04:53:49Z | [IEEE Transactions on Information Forensics & Security 2024] Imperceptible and Robust Backdoor Attack in 3D Point Cloud | https://github.com/KuofengGao/IRBA | 6 | 1| 
 | 20231213T03:36:02Z | This is the official implementation of our paper %DataElixir: Purifying Poisoned Dataset to Mitigate Backdoor Attacks via Diffusion Models%, accepted by AAAI 2024. | https://github.com/Manu21JC/DataElixir | 0 | 0| 
-| 20231213T02:49:23Z | A webshell that can bypass some system security, all code has been obfuscated to bypass malware scans freely. | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 178 | 74| 
-| 20231213T02:41:09Z | Gel4y-Mini-Shell-Backdoor-Decode | https://github.com/AabyssZG/Gel4y-Mini-Shell-Backdoor-Decode | 112 | 16| 
-| 20231212T16:51:56Z | Backdooring attacks against deep neural networks for malware detection. | https://github.com/DMario93/malware-dnn-backdooring | 0 | 0| 
-| 20231212T16:19:58Z | An Medium Level Based POC  Windows Antivirus Tool written in python to detect ransomware , viruses  , backdoors , payloads and  completely removes it from system . | https://github.com/Whitecat18/Mavoc-Antivirus | 6 | 1| 
-| 20231212T10:11:07Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 238 | 29| 
 
 
 # symbolic execution on Github 推荐
@@ -110,7 +110,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20231213T12:26:59Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 102 | 4| 
-| 20231210T15:16:36Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 125 | 10| 
+| 20231210T15:16:36Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 125 | 11| 
 | 20231201T16:33:57Z | 🧩 Local Minecraft server NGROK to deSEC forward script. Make your local server accessible by everyone with your custom domain!  | https://github.com/Minionguyjpro/NDSS | 1 | 0| 
 
 
