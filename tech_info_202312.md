@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231214T13:21:29Z | Backup Migration <= 1.3.7 - Unauthenticated Remote Code Execution | https://github.com/Chocapikk/CVE-2023-6553 | 6 | 4| 
 | 20231214T13:03:47Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 91 | 33| 
 | 20231214T13:03:42Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 177 | 15| 
 | 20231214T13:03:17Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5720 | 725| 
@@ -73,7 +74,6 @@
 | 20231214T12:43:44Z | delegatecall exploit example | https://github.com/Lerr1uqs/delegatecall-exp-example | 0 | 0| 
 | 20231214T12:35:11Z | A platform for both policy makers and  policy owners for smart contract exploit insurance | https://github.com/cherrypopsicle/insurance-platform | 0 | 0| 
 | 20231214T12:34:12Z | Whatsapp Exploit to spoofing impersonate of reply message  | https://github.com/lichti/whats-spoofing | 2 | 2| 
-| 20231214T12:26:54Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 684 | 40| 
 
 
 # backdoor on Github 推荐
