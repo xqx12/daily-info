@@ -80,16 +80,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231215T12:52:00Z | Null | https://github.com/MaybeLemon/backdoor | 0 | 0| 
+| 20231215T12:27:28Z | PHP shell backdoors list  ( collection ) | https://github.com/1337r0j4n/php-backdoors | 81 | 33| 
+| 20231215T09:30:05Z | Persistent Powershell backdoor tool  | https://github.com/ELMERIKH/Keres | 1 | 0| 
+| 20231215T08:34:39Z | Official implementation of Resisting Backdoor Attacks in Federated Learning via Bidirectional Elections and Individual Perspective | https://github.com/zhenqincn/Snowball | 0 | 0| 
+| 20231215T05:45:24Z | Manage your technology world . | https://github.com/IceBytes/RustNet | 2 | 0| 
 | 20231215T02:45:42Z | A simple backdoor made in python ; ) | https://github.com/cabral-boop/backdoor | 0 | 0| 
-| 20231214T21:08:38Z | Manage your technology world . | https://github.com/IceBytes/RustNet | 1 | 0| 
 | 20231214T20:50:22Z | The shadow tracker - Environment for tracking the shadow on the backdoor activity | https://github.com/csalab-id/thestrack | 0 | 0| 
 | 20231214T19:53:17Z | Null | https://github.com/cihaterensoy/Backdoor | 0 | 0| 
-| 20231214T19:10:30Z | Powershell backdoor tool  | https://github.com/ELMERIKH/Keres | 1 | 0| 
 | 20231214T16:31:27Z | During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that you will need to be able to bypass antivirus software or other host-based protection for successful exploitation. The most effective way to avoid antivirus detection on your target%s computers is to create your own customized backdoor. Here is a simple way to evade anti-virus software when creating backdoors! | https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads | 645 | 80| 
 | 20231214T16:15:39Z | Esercizio di comprensione di codice python riguardante una backdoor. | https://github.com/stex-93/Esercizio-S3-L4 | 0 | 0| 
-| 20231214T15:45:53Z | Commentare/spiegare questo codice che fa riferimento ad una backdoor. Inoltre spiegare cos’è una backdoor.  | https://github.com/Lobrillo/S3-L4-Pratica-Phyton-and-Social-ingegnering | 0 | 0| 
-| 20231214T11:29:39Z | BitRAT CrackedIt is meticulously constructed utilizing the C++ programming language. It stands as the most recent iteration of the premier PC RAT for the year 2023. Regarded as a prized tool | https://github.com/nobunuke/Bitrat-Hvnc-Rat-Remote-Control-Av-Bypass | 0 | 0| 
-| 20231214T11:29:36Z | AsyncRAT stands as a Remote Access Tool (RAT) conceived for the purpose of distant supervision and command over remote computers through an encrypted connection ensuring security. | https://github.com/nobunuke/AsyncRAT-Fud-Fixed-Dll-Remote-Administration-Tool-New | 0 | 0| 
 
 
 # symbolic execution on Github 推荐

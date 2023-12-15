@@ -56,6 +56,11 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231215T12:52:00Z | Null | https://github.com/MaybeLemon/backdoor | 0 | 0| 
+| 20231215T12:27:28Z | PHP shell backdoors list  ( collection ) | https://github.com/1337r0j4n/php-backdoors | 81 | 33| 
+| 20231215T09:30:05Z | Persistent Powershell backdoor tool  | https://github.com/ELMERIKH/Keres | 1 | 0| 
+| 20231215T08:34:39Z | Official implementation of Resisting Backdoor Attacks in Federated Learning via Bidirectional Elections and Individual Perspective | https://github.com/zhenqincn/Snowball | 0 | 0| 
+| 20231215T05:45:24Z | Manage your technology world . | https://github.com/IceBytes/RustNet | 2 | 0| 
 | 20231215T02:45:42Z | A simple backdoor made in python ; ) | https://github.com/cabral-boop/backdoor | 0 | 0| 
 
 
