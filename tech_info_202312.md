@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231215T02:36:41Z | Null | https://github.com/vanswei/oms-exploit | 0 | 0| 
 | 20231215T02:26:26Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0031-app-g2G34-exploit-open | 0 | 0| 
 | 20231215T02:22:52Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0066-app-ycDAb-exploit-ignore | 0 | 0| 
 | 20231215T02:07:22Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0036-app-I1dfH-reduce-exploit | 0 | 0| 
@@ -73,7 +74,6 @@
 | 20231215T00:06:20Z | Remote Code Execution exploit for PrimeFaces 5.x - EL Injection (CVE-2017-1000486) | https://github.com/LongWayHomie/CVE-2017-1000486 | 0 | 0| 
 | 20231214T23:14:21Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5568 | 1082| 
 | 20231214T22:40:11Z | Proof-of-concept exploit code for KingConnect router | https://github.com/WhiteOakSecurity/KingConnect | 0 | 0| 
-| 20231214T13:59:31Z | PDF PNG Exploit Spoofer X1na  | https://github.com/X1naa2x/Apk-to-Png | 0 | 0| 
 
 
 # backdoor on Github 推荐
