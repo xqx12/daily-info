@@ -41,6 +41,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231215T13:33:17Z | Working exploits I modified from other people’s exploits  | https://github.com/zer0633/CustomExploits | 0 | 0| 
 | 20231215T12:22:35Z | The development of the project which name dst-shop from gitee.ADMINUI means the Vue project of the admin of the shop | https://github.com/pharaoh123456789/EXPLOITATION-dst-shop-ADMINUI | 0 | 0| 
 | 20231215T12:02:10Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5570 | 1082| 
 | 20231215T09:02:38Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6221 | 813| 
@@ -50,7 +51,6 @@
 | 20231215T05:13:25Z | A C# Roblox Exploiting API for the UWP distribution of the game. Its basically WeAreDevs API but it bypasses Byfron. - GitHub - game-hax/Roblox-Exploit-API: A C# Roblox Exploiting API for the UWP distribution of the game. Its basically WeAreDevs API but it bypasses Byfron. | https://github.com/Elsie-Kgafela/Roblox-Exploit-API | 1 | 0| 
 | 20231215T02:36:41Z | Null | https://github.com/vanswei/oms-exploit | 0 | 0| 
 | 20231215T02:26:26Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0031-app-g2G34-exploit-open | 0 | 0| 
-| 20231215T02:22:52Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0066-app-ycDAb-exploit-ignore | 0 | 0| 
 
 
 # backdoor on Github 推荐
