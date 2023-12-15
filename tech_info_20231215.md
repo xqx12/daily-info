@@ -41,16 +41,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231215T13:37:59Z | The development of the project which name dst-shop from gitee.ADMINUI means the Vue project of the admin of the shop | https://github.com/pharaoh123456789/EXPLOITATION-dst-shop-ADMINUI | 0 | 0| 
+| 20231215T13:51:43Z | The development of the project which name dst-shop from gitee.ADMINUI means the Vue project of the admin of the shop | https://github.com/pharaoh123456789/EXPLOITATION-dst-shop-ADMINUI | 0 | 0| 
 | 20231215T13:33:17Z | Working exploits I modified from other people’s exploits  | https://github.com/zer0633/CustomExploits | 0 | 0| 
 | 20231215T12:02:10Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5570 | 1082| 
 | 20231215T09:02:38Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6221 | 813| 
 | 20231215T08:54:54Z | CVE-2022-4047 poc | https://github.com/entroychang/CVE-2022-4047 | 1 | 0| 
 | 20231215T08:36:35Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 239 | 44| 
+| 20231215T07:35:24Z | Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang. | https://github.com/Ne0nd0g/merlin | 4768 | 779| 
 | 20231215T05:27:24Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5686 | 770| 
 | 20231215T05:13:25Z | A C# Roblox Exploiting API for the UWP distribution of the game. Its basically WeAreDevs API but it bypasses Byfron. - GitHub - game-hax/Roblox-Exploit-API: A C# Roblox Exploiting API for the UWP distribution of the game. Its basically WeAreDevs API but it bypasses Byfron. | https://github.com/Elsie-Kgafela/Roblox-Exploit-API | 1 | 0| 
 | 20231215T02:36:41Z | Null | https://github.com/vanswei/oms-exploit | 0 | 0| 
-| 20231215T02:26:26Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0031-app-g2G34-exploit-open | 0 | 0| 
 
 
 # backdoor on Github 推荐
