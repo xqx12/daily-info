@@ -26,22 +26,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231215T02:51:52Z | CVE-2023-50164 | A critical security vulnerability, identified as CVE-2023-50164 (CVE: 9.8) was found in Apache Struts, allowing attackers to manipulate file upload parameters that can potentially lead to unauthorized path traversal and remote code execution (RCE). | https://github.com/jakabakos/CVE-2023-50164-Apache-Struts-RCE | | 
-| 20231215T01:49:06Z | CVE-2023-6553 | Backup Migration <= 1.3.7 - Unauthenticated Remote Code Execution | https://github.com/Chocapikk/CVE-2023-6553 | | 
+| 20231215T11:14:41Z | CVE-2023-22524 | Atlassian Companion RCE Vulnerability Proof of Concept | https://github.com/ron-imperva/CVE-2023-22524 | | 
+| 20231215T10:34:03Z | CVE-2023-50164 | A critical security vulnerability, identified as CVE-2023-50164 (CVE: 9.8) was found in Apache Struts, allowing attackers to manipulate file upload parameters that can potentially lead to unauthorized path traversal and remote code execution (RCE). | https://github.com/jakabakos/CVE-2023-50164-Apache-Struts-RCE | | 
+| 20231215T08:54:54Z | CVE-2022-4047 | CVE-2022-4047 poc | https://github.com/entroychang/CVE-2022-4047 | | 
+| 20231215T08:52:38Z | CVE-2023-6553 | Backup Migration <= 1.3.7 - Unauthenticated Remote Code Execution | https://github.com/Chocapikk/CVE-2023-6553 | | 
+| 20231215T08:48:09Z | CVE-2023-49070 | Null | https://github.com/nightowl642/Apache_OFBiz-CVE-2023-49070-exploit | | 
+| 20231215T08:17:06Z | CVE-2023-49070 | Null | https://github.com/abdoghazy2015/ofbiz-CVE-2023-49070-RCE-POC | | 
+| 20231215T05:18:44Z | CVE-2023-4206 | Null | https://github.com/hshivhare67/Kernel_4.1.15_CVE-2023-4206_CVE-2023-4207_CVE-2023-4208 | | 
+| 20231215T03:38:41Z | CVE-2021-3560 | Null | https://github.com/markyu0401/CVE-2021-3560-Polkit-Privilege-Escalation | | 
 | 20231214T20:23:00Z | CVE-2023-20198 | CVE-2023-20198 / 0day - Cisco - Authentication Bypass/RCE | https://github.com/codeb0ss/CVE-2023-20198-PoC | | 
 | 20231214T20:06:19Z | CVE-2023-49954 | SQL Injection in 3CX CRM Integration | https://github.com/CVE-2023-49954/CVE-2023-49954.github.io | | 
-| 20231214T17:52:48Z | CVE-2023-49070 | Null | https://github.com/abdoghazy2015/ofbiz-CVE-2023-49070-RCE-POC | | 
-| 20231214T17:33:18Z | CVE-2023-22524 | Null | https://github.com/imperva/CVE-2023-22524 | | 
-| 20231214T15:38:10Z | CVE-2023-22524 | Atlassian Companion RCE Vulnerability Proof of Concept | https://github.com/ron-imperva/CVE-2023-22524 | | 
-| 20231214T13:39:20Z | CVE-2023-42793 | JetBrains TeamCity Authentication Bypass CVE-2023-42793 Exploit | https://github.com/H454NSec/CVE-2023-42793 | | 
-| 20231214T10:03:07Z | CVE-2023-30547 | PoC Exploit  for VM2 Sandbox Escape Vulnerability | https://github.com/rvizx/CVE-2023-30547 | | 
-| 20231214T07:51:06Z | CVE-2022-4047 | CVE-2022-4047 poc | https://github.com/entroychang/CVE-2022-4047 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231214T22:38:21Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14636 | 435| 
+| 20231215T11:54:40Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14644 | 435| 
 | 20231214T19:05:47Z | [Курсовая работа 2 курс (поздний залив)] Генератор парсеров на основе алгоритма Эрли | https://github.com/herrpaulvd/HappyKleene | 0 | 0| 
 | 20231214T17:09:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2375 | 645| 
 | 20231214T03:02:56Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 100 | 22| 
@@ -56,6 +56,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231215T05:51:37Z | Null | https://github.com/theoim/S2E_config_module_base | 0 | 0| 
 | 20231212T06:46:10Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 363 | 83| 
 | 20231204T04:22:56Z | Null | https://github.com/MetadataGitTesting/s2es3Kn8 | 0 | 0| 
 | 20231203T15:39:36Z | Null | https://github.com/milto-rgb/S2E5 | 0 | 0| 
@@ -64,16 +65,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231215T12:22:35Z | The development of the project which name dst-shop from gitee.ADMINUI means the Vue project of the admin of the shop | https://github.com/pharaoh123456789/EXPLOITATION-dst-shop-ADMINUI | 0 | 0| 
+| 20231215T12:02:10Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5570 | 1082| 
+| 20231215T09:02:38Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6221 | 813| 
+| 20231215T08:54:54Z | CVE-2022-4047 poc | https://github.com/entroychang/CVE-2022-4047 | 1 | 0| 
+| 20231215T08:36:35Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 239 | 44| 
+| 20231215T05:27:24Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5686 | 770| 
+| 20231215T05:13:25Z | A C# Roblox Exploiting API for the UWP distribution of the game. Its basically WeAreDevs API but it bypasses Byfron. - GitHub - game-hax/Roblox-Exploit-API: A C# Roblox Exploiting API for the UWP distribution of the game. Its basically WeAreDevs API but it bypasses Byfron. | https://github.com/Elsie-Kgafela/Roblox-Exploit-API | 1 | 0| 
 | 20231215T02:36:41Z | Null | https://github.com/vanswei/oms-exploit | 0 | 0| 
 | 20231215T02:26:26Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0031-app-g2G34-exploit-open | 0 | 0| 
 | 20231215T02:22:52Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0066-app-ycDAb-exploit-ignore | 0 | 0| 
-| 20231215T02:07:22Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0036-app-I1dfH-reduce-exploit | 0 | 0| 
-| 20231215T01:44:55Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5684 | 770| 
-| 20231215T01:44:24Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0070-app-08v7n-exploit-repeat | 0 | 0| 
-| 20231215T00:41:55Z | Link to my paper, published in Journal of Cloud Computing | https://github.com/NawmNujhat/Task-Offloading-Exploiting-Grey-Wolf-Optimization-in-Collaborative-Edge-Computing | 0 | 0| 
-| 20231215T00:06:20Z | Remote Code Execution exploit for PrimeFaces 5.x - EL Injection (CVE-2017-1000486) | https://github.com/LongWayHomie/CVE-2017-1000486 | 0 | 0| 
-| 20231214T23:14:21Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5568 | 1082| 
-| 20231214T22:40:11Z | Proof-of-concept exploit code for KingConnect router | https://github.com/WhiteOakSecurity/KingConnect | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -109,24 +110,24 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231214T21:56:11Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 128 | 12| 
-| 20231213T12:26:59Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 102 | 4| 
+| 20231215T12:31:45Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 129 | 12| 
+| 20231215T11:40:00Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 103 | 4| 
 | 20231201T16:33:57Z | 🧩 Local Minecraft server NGROK to deSEC forward script. Make your local server accessible by everyone with your custom domain!  | https://github.com/Minionguyjpro/NDSS | 1 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231215T12:36:15Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1637 | 244| 
+| 20231215T12:01:47Z | week3 assignment2 | https://github.com/hmw235/fuzzy-enigma | 0 | 0| 
+| 20231215T11:52:56Z | a funny project | https://github.com/Lx666666666/fuzzy-broccoli | 0 | 0| 
+| 20231215T11:29:07Z | Project IOT Monitoring Dan Pengontrolan Kandang Burung | https://github.com/Aldihitman/Monitoring_Kontroling_KandangBurung_Berbasis_IOT_FuzzyLogic | 0 | 0| 
+| 20231215T09:27:11Z | Null | https://github.com/TsengelBair/fuzzyBot | 0 | 0| 
+| 20231215T09:25:11Z | A collection of fuzzing/invariant tests and formal verification over the Mantle LSP staking contract. | https://github.com/0xpolarzero/mantle-lsp-fuzzing-formal-verification | 0 | 0| 
+| 20231215T09:20:27Z | Null | https://github.com/vannussina/fuzz-targets | 0 | 0| 
+| 20231215T06:10:17Z | This is the directory fuzzer tool specially created for Termux Users written in Go. | https://github.com/sudityashrivastav/Directory-Fuzzer-For-Termux | 0 | 0| 
+| 20231215T03:18:02Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9240 | 2068| 
 | 20231215T02:33:40Z | A fuzzified version of the SSVEPformer network for EEG classification | https://github.com/MarceloContreras/FuzzySSVEPFormer | 0 | 0| 
-| 20231215T02:31:15Z | Null | https://github.com/Barbara5l5/fuzzy-eureka | 0 | 0| 
-| 20231215T02:21:23Z | 渗透测试Payload字典、Fuzz Payload字典。Penetration testing Payload dictionary, Fuzzy Payload dictionary | https://github.com/HackAllSec/FuzzDict | 0 | 1| 
-| 20231215T02:17:05Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1636 | 244| 
-| 20231215T00:50:02Z | Null | https://github.com/tutu1297/fuzzy-sweater | 0 | 0| 
-| 20231215T00:42:42Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50605 | 23373| 
-| 20231214T23:05:40Z | Null | https://github.com/Eduardo-JM/DesalinatorFuzzyControl | 0 | 0| 
-| 20231214T23:04:17Z | Null | https://github.com/lcensies/json_fuzz_dataset | 0 | 0| 
-| 20231214T22:47:03Z | Greenhouse automation application based, which I wrote with the thesis %Fuzzy logic method and applications% by Mehmet Nuri Ödük; If %carbon dioxide% and %wind% input values ​​are given, %ventilation% output is given. Mamdani%s inference mechanism was used. | https://github.com/spacemonochrome/csharp_fuzzy_logic_example | 0 | 0| 
-| 20231214T22:33:19Z | Null | https://github.com/lakystrike1996/thesis_reinforcement_fuzzing | 0 | 0| 
 
 
 
