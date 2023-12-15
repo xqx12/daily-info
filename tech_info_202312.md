@@ -117,6 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231215T02:31:15Z | Null | https://github.com/Barbara5l5/fuzzy-eureka | 0 | 0| 
 | 20231215T02:29:37Z | A fuzzified version of the SSVEPformer network for EEG classification | https://github.com/MarceloContreras/FuzzySSVEPFormer | 0 | 0| 
 | 20231215T02:21:23Z | 渗透测试Payload字典、Fuzz Payload字典。Penetration testing Payload dictionary, Fuzzy Payload dictionary | https://github.com/HackAllSec/FuzzDict | 0 | 0| 
 | 20231215T02:17:05Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1636 | 244| 
@@ -126,7 +127,6 @@
 | 20231214T23:04:17Z | Null | https://github.com/lcensies/json_fuzz_dataset | 0 | 0| 
 | 20231214T22:47:03Z | Greenhouse automation application based, which I wrote with the thesis %Fuzzy logic method and applications% by Mehmet Nuri Ödük; If %carbon dioxide% and %wind% input values ​​are given, %ventilation% output is given. Mamdani%s inference mechanism was used. | https://github.com/spacemonochrome/csharp_fuzzy_logic_example | 0 | 0| 
 | 20231214T22:33:19Z | Null | https://github.com/lakystrike1996/thesis_reinforcement_fuzzing | 0 | 0| 
-| 20231214T21:55:29Z | Null | https://github.com/faizdaffa/Fuzzy-PID-Avoidance-Obstacle | 0 | 0| 
 
 
 
