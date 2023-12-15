@@ -95,6 +95,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231215T08:56:59Z | Symbolic Execution engine for finding bugs in EO programs | https://github.com/polystat/symex | 2 | 0| 
 | 20231214T17:09:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2375 | 645| 
 | 20231214T16:15:51Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 26 | 12| 
 | 20231214T11:09:18Z | Unicorn: Symbolic Execution, Bounded Model Checking, and Code Optimization of RISC-V Code using Classical Solvers and Quantum Computers | https://github.com/cksystemsgroup/unicorn | 27 | 8| 
@@ -104,7 +105,6 @@
 | 20231211T15:52:07Z | gradient-based symbolic execution engine implemented from scratch | https://github.com/Koukyosyumei/Gymbo | 28 | 0| 
 | 20231208T03:57:52Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 472 | 33| 
 | 20231207T18:02:05Z | Path-optimal symbolic execution (anonymized) | https://github.com/ananon-user/pose-anonymized | 0 | 0| 
-| 20231205T20:42:19Z | Optimized the movements of Kachua, Performed Fuzzing, Symbolic Execution and Abstract Interpretation | https://github.com/sudikshanavik/CS639_PAVT | 1 | 0| 
 
 
 # big4 on Github 推荐

@@ -67,6 +67,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231215T08:56:59Z | Symbolic Execution engine for finding bugs in EO programs | https://github.com/polystat/symex | 2 | 0| 
 
 
 # big4 on Github 推荐
