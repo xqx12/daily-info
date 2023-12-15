@@ -80,6 +80,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231215T13:47:40Z | Null | https://github.com/uwulisybutafyko/fuzzy-sweater | 0 | 0| 
 | 20231215T12:36:15Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1637 | 244| 
 | 20231215T12:01:47Z | week3 assignment2 | https://github.com/hmw235/fuzzy-enigma | 0 | 0| 
 | 20231215T11:52:56Z | a funny project | https://github.com/Lx666666666/fuzzy-broccoli | 0 | 0| 
@@ -89,7 +90,6 @@
 | 20231215T09:20:27Z | Null | https://github.com/vannussina/fuzz-targets | 0 | 0| 
 | 20231215T06:10:17Z | This is the directory fuzzer tool specially created for Termux Users written in Go. | https://github.com/sudityashrivastav/Directory-Fuzzer-For-Termux | 0 | 0| 
 | 20231215T03:18:02Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9240 | 2068| 
-| 20231215T02:33:40Z | A fuzzified version of the SSVEPformer network for EEG classification | https://github.com/MarceloContreras/FuzzySSVEPFormer | 0 | 0| 
 
 
 
