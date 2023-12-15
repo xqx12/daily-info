@@ -119,7 +119,7 @@
 | --- | --- | --- | --- | ---| 
 | 20231215T02:33:40Z | A fuzzified version of the SSVEPformer network for EEG classification | https://github.com/MarceloContreras/FuzzySSVEPFormer | 0 | 0| 
 | 20231215T02:31:15Z | Null | https://github.com/Barbara5l5/fuzzy-eureka | 0 | 0| 
-| 20231215T02:21:23Z | 渗透测试Payload字典、Fuzz Payload字典。Penetration testing Payload dictionary, Fuzzy Payload dictionary | https://github.com/HackAllSec/FuzzDict | 0 | 0| 
+| 20231215T02:21:23Z | 渗透测试Payload字典、Fuzz Payload字典。Penetration testing Payload dictionary, Fuzzy Payload dictionary | https://github.com/HackAllSec/FuzzDict | 0 | 1| 
 | 20231215T02:17:05Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1636 | 244| 
 | 20231215T00:50:02Z | Null | https://github.com/tutu1297/fuzzy-sweater | 0 | 0| 
 | 20231215T00:42:42Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50605 | 23373| 
