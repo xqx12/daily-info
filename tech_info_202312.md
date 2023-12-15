@@ -117,8 +117,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231215T02:33:40Z | A fuzzified version of the SSVEPformer network for EEG classification | https://github.com/MarceloContreras/FuzzySSVEPFormer | 0 | 0| 
 | 20231215T02:31:15Z | Null | https://github.com/Barbara5l5/fuzzy-eureka | 0 | 0| 
-| 20231215T02:29:37Z | A fuzzified version of the SSVEPformer network for EEG classification | https://github.com/MarceloContreras/FuzzySSVEPFormer | 0 | 0| 
 | 20231215T02:21:23Z | 渗透测试Payload字典、Fuzz Payload字典。Penetration testing Payload dictionary, Fuzzy Payload dictionary | https://github.com/HackAllSec/FuzzDict | 0 | 0| 
 | 20231215T02:17:05Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1636 | 244| 
 | 20231215T00:50:02Z | Null | https://github.com/tutu1297/fuzzy-sweater | 0 | 0| 
