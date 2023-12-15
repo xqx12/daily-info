@@ -79,6 +79,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231215T02:13:37Z | A simple backdoor made in python ; ) | https://github.com/cabral-boop/backdoor | 0 | 0| 
 | 20231214T21:08:38Z | Manage your technology world . | https://github.com/IceBytes/RustNet | 1 | 0| 
 | 20231214T20:50:22Z | The shadow tracker - Environment for tracking the shadow on the backdoor activity | https://github.com/csalab-id/thestrack | 0 | 0| 
 | 20231214T19:53:17Z | Null | https://github.com/cihaterensoy/Backdoor | 0 | 0| 
@@ -88,7 +89,6 @@
 | 20231214T15:45:53Z | Commentare/spiegare questo codice che fa riferimento ad una backdoor. Inoltre spiegare cos’è una backdoor.  | https://github.com/Lobrillo/S3-L4-Pratica-Phyton-and-Social-ingegnering | 0 | 0| 
 | 20231214T11:29:39Z | BitRAT CrackedIt is meticulously constructed utilizing the C++ programming language. It stands as the most recent iteration of the premier PC RAT for the year 2023. Regarded as a prized tool | https://github.com/nobunuke/Bitrat-Hvnc-Rat-Remote-Control-Av-Bypass | 0 | 0| 
 | 20231214T11:29:36Z | AsyncRAT stands as a Remote Access Tool (RAT) conceived for the purpose of distant supervision and command over remote computers through an encrypted connection ensuring security. | https://github.com/nobunuke/AsyncRAT-Fud-Fixed-Dll-Remote-Administration-Tool-New | 0 | 0| 
-| 20231214T11:28:24Z | VenomControl Rat is a Remote Access Tool (RAT) designed to remotely monitor and control other computers through a secure encrypted connection | https://github.com/nobunuke/VenomControl-Rat-Crack-Source | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
