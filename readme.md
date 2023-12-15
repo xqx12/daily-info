@@ -75,6 +75,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231214T17:09:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2375 | 645| 
+| 20231214T16:15:51Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 26 | 12| 
 | 20231214T11:09:18Z | Unicorn: Symbolic Execution, Bounded Model Checking, and Code Optimization of RISC-V Code using Classical Solvers and Quantum Computers | https://github.com/cksystemsgroup/unicorn | 27 | 8| 
 
 
