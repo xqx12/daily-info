@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231216T00:23:13Z | CVE-2023-22524 | Atlassian Companion RCE Vulnerability Proof of Concept | https://github.com/ron-imperva/CVE-2023-22524 | | 
+| 20231216T01:28:25Z | CVE-2023-22524 | Atlassian Companion RCE Vulnerability Proof of Concept | https://github.com/ron-imperva/CVE-2023-22524 | | 
 | 20231215T22:11:48Z | CVE-2023-50164 | A scanning utility and PoC for CVE-2023-50164 | https://github.com/bcdannyboy/CVE-2023-50164 | | 
 | 20231215T22:08:02Z | CVE-2023-50070 | Multiple SQL injection vulnerabilities in /customer_support/ajax.php?action=save_ticket in Customer Support System 1.0 allow authenticated attackers to execute arbitrary SQL commands via department_id, customer_id and subject. | https://github.com/geraldoalcantara/CVE-2023-50070 | | 
 | 20231215T21:15:31Z | CVE-2023-6553 | Backup Migration <= 1.3.7 - Unauthenticated Remote Code Execution | https://github.com/Chocapikk/CVE-2023-6553 | | 
