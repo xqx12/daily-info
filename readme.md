@@ -56,6 +56,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231216T13:28:15Z | Persistent Powershell backdoor tool  | https://github.com/ELMERIKH/Keres | 2 | 0| 
 | 20231216T10:02:59Z | A framework for backdooring Microsoft Nuget packages. | https://github.com/mastercodeon314/NugetBackdoor | 3 | 0| 
 | 20231216T06:47:59Z | A webshell that can bypass some system security, all code has been obfuscated to bypass malware scans freely. | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 186 | 74| 
 | 20231216T05:34:20Z | Backdoor test on SV model. | https://github.com/vkeilo/AudioBdoor | 0 | 0| 
