@@ -19,6 +19,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231216T13:50:59Z | CVE-2023-46604 | Null | https://github.com/dcm2406/CVE-2023-46604 | | 
+| 20231216T13:50:36Z | CVE-2021-44228 | Null | https://github.com/dcm2406/CVE-2021-44228 | | 
 | 20231216T11:30:26Z | CVE-2023-49070 | Null | https://github.com/abdoghazy2015/ofbiz-CVE-2023-49070-RCE-POC | | 
 | 20231216T10:56:06Z | CVE-2023-22524 | Atlassian Companion RCE Vulnerability Proof of Concept | https://github.com/ron-imperva/CVE-2023-22524 | | 
 | 20231216T10:28:40Z | CVE-2023-6553 | Backup Migration <= 1.3.7 - Unauthenticated Remote Code Execution | https://github.com/Chocapikk/CVE-2023-6553 | | 
