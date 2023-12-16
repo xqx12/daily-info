@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231216T02:14:17Z | CVE-2023-50164 | A critical security vulnerability, identified as CVE-2023-50164 (CVE: 9.8) was found in Apache Struts, allowing attackers to manipulate file upload parameters that can potentially lead to unauthorized path traversal and remote code execution (RCE). | https://github.com/jakabakos/CVE-2023-50164-Apache-Struts-RCE | | 
 | 20231216T01:28:25Z | CVE-2023-22524 | Atlassian Companion RCE Vulnerability Proof of Concept | https://github.com/ron-imperva/CVE-2023-22524 | | 
 | 20231215T22:11:48Z | CVE-2023-50164 | A scanning utility and PoC for CVE-2023-50164 | https://github.com/bcdannyboy/CVE-2023-50164 | | 
 | 20231215T22:08:02Z | CVE-2023-50070 | Multiple SQL injection vulnerabilities in /customer_support/ajax.php?action=save_ticket in Customer Support System 1.0 allow authenticated attackers to execute arbitrary SQL commands via department_id, customer_id and subject. | https://github.com/geraldoalcantara/CVE-2023-50070 | | 
@@ -35,7 +36,6 @@
 | 20231215T17:39:52Z | CVE-2023-32315 | A PoC exploit for CVE-2023-32315 - Openfire Authentication Bypass | https://github.com/K3ysTr0K3R/CVE-2023-32315-EXPLOIT | | 
 | 20231215T16:41:50Z | CVE-2023-22524 | Null | https://github.com/imperva/CVE-2023-22524 | | 
 | 20231215T14:06:24Z | CVE-2023-45184 | IBM i Access Client Solution < 1.1.9.4 - Local server broken access control. | https://github.com/afine-com/CVE-2023-45184 | | 
-| 20231215T10:34:03Z | CVE-2023-50164 | A critical security vulnerability, identified as CVE-2023-50164 (CVE: 9.8) was found in Apache Struts, allowing attackers to manipulate file upload parameters that can potentially lead to unauthorized path traversal and remote code execution (RCE). | https://github.com/jakabakos/CVE-2023-50164-Apache-Struts-RCE | | 
 
 
 # klee on Github 推荐

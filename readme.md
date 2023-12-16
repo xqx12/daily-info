@@ -24,8 +24,8 @@
 | 20231215T17:39:52Z | CVE-2023-32315 | A PoC exploit for CVE-2023-32315 - Openfire Authentication Bypass | https://github.com/K3ysTr0K3R/CVE-2023-32315-EXPLOIT | | 
 | 20231215T16:41:50Z | CVE-2023-22524 | Null | https://github.com/imperva/CVE-2023-22524 | | 
 | 20231215T14:06:24Z | CVE-2023-45184 | IBM i Access Client Solution < 1.1.9.4 - Local server broken access control. | https://github.com/afine-com/CVE-2023-45184 | | 
-| 20231215T10:34:03Z | CVE-2023-50164 | A critical security vulnerability, identified as CVE-2023-50164 (CVE: 9.8) was found in Apache Struts, allowing attackers to manipulate file upload parameters that can potentially lead to unauthorized path traversal and remote code execution (RCE). | https://github.com/jakabakos/CVE-2023-50164-Apache-Struts-RCE | | 
 | 20231215T08:54:54Z | CVE-2022-4047 | CVE-2022-4047 poc | https://github.com/entroychang/CVE-2022-4047 | | 
+| 20231215T08:48:09Z | CVE-2023-49070 | Null | https://github.com/nightowl642/Apache_OFBiz-CVE-2023-49070-exploit | | 
 
 
 # klee on Github 推荐
