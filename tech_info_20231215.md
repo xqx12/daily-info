@@ -73,6 +73,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231215T20:17:05Z | A toy symbolic executioner written for Rust in Rust. | https://github.com/alex-panda/RustSymbolicExecutioner | 0 | 0| 
 | 20231215T08:56:59Z | Symbolic Execution engine for finding bugs in EO programs | https://github.com/polystat/symex | 2 | 0| 
 
 
