@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231216T13:08:40Z | Instructions for exploiting vulnerabilities CVE-2021-44228 and CVE-2023-46604 | https://github.com/dcm2406/CVELab | 0 | 0| 
 | 20231216T12:50:15Z | Null | https://github.com/darkspr1te/sraptor_exploit | 0 | 0| 
 | 20231216T12:49:33Z | Uncover the true IP address of websites safeguarded by Cloudflare | https://github.com/spyboy-productions/CloakQuest3r | 263 | 40| 
 | 20231216T11:20:20Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5721 | 725| 
@@ -74,7 +75,6 @@
 | 20231216T04:12:34Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5573 | 1082| 
 | 20231216T02:51:31Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 764 | 185| 
 | 20231216T02:38:06Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0095-app-BSBV4-exploit-speak | 0 | 0| 
-| 20231216T01:45:09Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0086-app-I69iX-exploit-promise | 0 | 0| 
 
 
 # backdoor on Github 推荐
