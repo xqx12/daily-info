@@ -91,11 +91,11 @@
 | 20231215T21:57:54Z | Null | https://github.com/ilovegomdori/fuzzy-octo-broccoli | 0 | 0| 
 | 20231215T21:45:22Z | Null | https://github.com/Butman2099/Fuzzy-Forecasting-Paper- | 0 | 0| 
 | 20231215T21:28:59Z | Null | https://github.com/oxeanbits/fuzzy-invention | 0 | 0| 
+| 20231215T18:22:23Z | Null | https://github.com/putriangraeni/Project-Fuzzy-Logic | 0 | 0| 
 | 20231215T13:47:40Z | Null | https://github.com/uwulisybutafyko/fuzzy-sweater | 0 | 0| 
 | 20231215T12:36:15Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1637 | 244| 
 | 20231215T12:01:47Z | week3 assignment2 | https://github.com/hmw235/fuzzy-enigma | 0 | 0| 
 | 20231215T11:52:56Z | a funny project | https://github.com/Lx666666666/fuzzy-broccoli | 0 | 0| 
-| 20231215T11:29:07Z | Project IOT Monitoring Dan Pengontrolan Kandang Burung | https://github.com/Aldihitman/Monitoring_Kontroling_KandangBurung_Berbasis_IOT_FuzzyLogic | 0 | 0| 
 
 
 

@@ -126,8 +126,8 @@
 | 20231215T21:57:54Z | Null | https://github.com/ilovegomdori/fuzzy-octo-broccoli | 0 | 0| 
 | 20231215T21:45:22Z | Null | https://github.com/Butman2099/Fuzzy-Forecasting-Paper- | 0 | 0| 
 | 20231215T21:28:59Z | Null | https://github.com/oxeanbits/fuzzy-invention | 0 | 0| 
+| 20231215T18:22:23Z | Null | https://github.com/putriangraeni/Project-Fuzzy-Logic | 0 | 0| 
 | 20231215T13:47:40Z | Null | https://github.com/uwulisybutafyko/fuzzy-sweater | 0 | 0| 
-| 20231215T12:36:15Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1637 | 244| 
 
 
 
