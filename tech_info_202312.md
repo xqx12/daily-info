@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231216T02:38:06Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0095-app-BSBV4-exploit-speak | 0 | 0| 
 | 20231216T01:45:09Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0086-app-I69iX-exploit-promise | 0 | 0| 
 | 20231216T01:44:46Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0047-app-kWyaq-mind-exploit | 0 | 0| 
 | 20231216T01:21:31Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0036-app-a53zo-serve-exploit | 0 | 0| 
@@ -74,7 +75,6 @@
 | 20231215T14:35:12Z | RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs. | https://github.com/RootMyTV/RootMyTV.github.io | 2002 | 57| 
 | 20231215T13:51:43Z | The development of the project which name dst-shop from gitee.ADMINUI means the Vue project of the admin of the shop | https://github.com/pharaoh123456789/EXPLOITATION-dst-shop-ADMINUI | 0 | 0| 
 | 20231215T13:33:17Z | Working exploits I modified from other people’s exploits  | https://github.com/zer0633/CustomExploits | 0 | 0| 
-| 20231215T10:33:21Z | A high-performance ML model serving framework, offers dynamic batching and CPU/GPU pipelines to fully exploit your compute machine | https://github.com/mosecorg/mosec | 648 | 46| 
 
 
 # backdoor on Github 推荐
