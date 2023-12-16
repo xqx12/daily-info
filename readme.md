@@ -78,7 +78,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231216T13:46:05Z | This repository contains all the documents related to the project, which studying smart contracts to detect vulnerabilities in a system | https://github.com/SrajanSaxena21/Smart-Contracts-for-Fuzzer | 0 | 0| 
+| 20231216T13:56:32Z | This repository contains all the documents related to the project, which studying smart contracts to detect vulnerabilities in a system | https://github.com/SrajanSaxena21/Smart-Contracts-for-Fuzzer | 0 | 0| 
 | 20231216T13:34:42Z | Null | https://github.com/weichaoliu7/indirect-adaptive-fuzzy-control-for-wheeled-inverted-pendulum | 0 | 0| 
 | 20231216T11:34:16Z | Null | https://github.com/vadim-proger/Fuzzy_logic | 1 | 0| 
 | 20231216T11:26:12Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1501 | 109| 
