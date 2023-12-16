@@ -65,6 +65,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231216T01:45:09Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0086-app-I69iX-exploit-promise | 0 | 0| 
+| 20231216T01:44:46Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0047-app-kWyaq-mind-exploit | 0 | 0| 
 | 20231216T01:21:31Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0036-app-a53zo-serve-exploit | 0 | 0| 
 | 20231215T20:00:07Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6222 | 813| 
 | 20231215T15:39:21Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 763 | 185| 
@@ -73,8 +75,6 @@
 | 20231215T13:51:43Z | The development of the project which name dst-shop from gitee.ADMINUI means the Vue project of the admin of the shop | https://github.com/pharaoh123456789/EXPLOITATION-dst-shop-ADMINUI | 0 | 0| 
 | 20231215T13:33:17Z | Working exploits I modified from other people’s exploits  | https://github.com/zer0633/CustomExploits | 0 | 0| 
 | 20231215T09:30:05Z | Persistent Powershell backdoor tool  | https://github.com/ELMERIKH/Keres | 1 | 0| 
-| 20231215T08:54:54Z | CVE-2022-4047 poc | https://github.com/entroychang/CVE-2022-4047 | 1 | 0| 
-| 20231215T08:36:35Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 239 | 44| 
 
 
 # backdoor on Github 推荐
