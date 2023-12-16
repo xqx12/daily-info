@@ -26,8 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231216T13:50:59Z | CVE-2023-46604 | Null | https://github.com/dcm2406/CVE-2023-46604 | | 
-| 20231216T13:50:36Z | CVE-2021-44228 | Null | https://github.com/dcm2406/CVE-2021-44228 | | 
+| 20231216T13:54:55Z | CVE-2023-46604 | Null | https://github.com/dcm2406/CVE-2023-46604 | | 
+| 20231216T13:53:37Z | CVE-2021-44228 | Null | https://github.com/dcm2406/CVE-2021-44228 | | 
 | 20231216T11:30:26Z | CVE-2023-49070 | Null | https://github.com/abdoghazy2015/ofbiz-CVE-2023-49070-RCE-POC | | 
 | 20231216T10:56:06Z | CVE-2023-22524 | Atlassian Companion RCE Vulnerability Proof of Concept | https://github.com/ron-imperva/CVE-2023-22524 | | 
 | 20231216T10:28:40Z | CVE-2023-6553 | Backup Migration <= 1.3.7 - Unauthenticated Remote Code Execution | https://github.com/Chocapikk/CVE-2023-6553 | | 
@@ -126,8 +126,8 @@
 | 20231216T09:32:33Z | PHP practice | https://github.com/Nanidesska/dynamic-fuzzy_engine | 0 | 0| 
 | 20231216T09:15:47Z | ME-Fuzzing : a hybrid fuzzing for reducing the scale of constraints to make itself more efficient | https://github.com/SDUzbh/ME-Fuzzing | 0 | 0| 
 | 20231216T09:11:00Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 123 | 15| 
+| 20231216T09:04:21Z | Null | https://github.com/zefanyadita/Automatic-Control-Light-Intensity-using-Fuzzy-Logic | 0 | 0| 
 | 20231216T08:49:29Z | NucleiFuzzer is a Powerful Automation tool for detecting XSS, SQLi, SSRF, Open-Redirect, etc.. Vulnerabilities in Web Applications | https://github.com/0xKayala/NucleiFuzzer | 893 | 132| 
-| 20231216T01:38:27Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50627 | 23374| 
 
 
 
