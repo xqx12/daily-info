@@ -48,10 +48,10 @@
 | 20231215T14:35:12Z | RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs. | https://github.com/RootMyTV/RootMyTV.github.io | 2002 | 57| 
 | 20231215T13:51:43Z | The development of the project which name dst-shop from gitee.ADMINUI means the Vue project of the admin of the shop | https://github.com/pharaoh123456789/EXPLOITATION-dst-shop-ADMINUI | 0 | 0| 
 | 20231215T13:33:17Z | Working exploits I modified from other people’s exploits  | https://github.com/zer0633/CustomExploits | 0 | 0| 
+| 20231215T10:33:21Z | A high-performance ML model serving framework, offers dynamic batching and CPU/GPU pipelines to fully exploit your compute machine | https://github.com/mosecorg/mosec | 648 | 46| 
 | 20231215T09:30:05Z | Persistent Powershell backdoor tool  | https://github.com/ELMERIKH/Keres | 1 | 0| 
 | 20231215T08:54:54Z | CVE-2022-4047 poc | https://github.com/entroychang/CVE-2022-4047 | 1 | 0| 
 | 20231215T08:36:35Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 239 | 44| 
-| 20231215T07:35:24Z | Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang. | https://github.com/Ne0nd0g/merlin | 4768 | 779| 
 
 
 # backdoor on Github 推荐
