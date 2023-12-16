@@ -118,6 +118,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231216T13:34:42Z | Null | https://github.com/weichaoliu7/indirect-adaptive-fuzzy-control-for-wheeled-inverted-pendulum | 0 | 0| 
 | 20231216T11:34:16Z | Null | https://github.com/vadim-proger/Fuzzy_logic | 1 | 0| 
 | 20231216T11:26:12Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1501 | 109| 
 | 20231216T10:24:11Z | Log | https://github.com/bran870/fuzzy-fiesta | 0 | 0| 
@@ -127,7 +128,6 @@
 | 20231216T08:49:29Z | NucleiFuzzer is a Powerful Automation tool for detecting XSS, SQLi, SSRF, Open-Redirect, etc.. Vulnerabilities in Web Applications | https://github.com/0xKayala/NucleiFuzzer | 893 | 132| 
 | 20231216T01:38:27Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50627 | 23374| 
 | 20231216T01:33:31Z | Null | https://github.com/Carol3l7/fuzzy-system | 0 | 0| 
-| 20231216T01:20:10Z | Null | https://github.com/wulsab/fuzzy-logic | 0 | 0| 
 
 
 
