@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231216T01:21:31Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0036-app-a53zo-serve-exploit | 0 | 0| 
 | 20231215T20:00:07Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6222 | 813| 
 | 20231215T15:39:21Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 763 | 185| 
 | 20231215T14:54:26Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5572 | 1082| 
@@ -74,7 +75,6 @@
 | 20231215T09:30:05Z | Persistent Powershell backdoor tool  | https://github.com/ELMERIKH/Keres | 1 | 0| 
 | 20231215T08:54:54Z | CVE-2022-4047 poc | https://github.com/entroychang/CVE-2022-4047 | 1 | 0| 
 | 20231215T08:36:35Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 239 | 44| 
-| 20231215T07:35:24Z | Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang. | https://github.com/Ne0nd0g/merlin | 4768 | 779| 
 
 
 # backdoor on Github 推荐
