@@ -39,6 +39,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231217T13:21:23Z | Null | https://github.com/Ryadbg/AllaouiExploitLibrary | 0 | 0| 
 | 20231217T12:51:44Z | Persistent Powershell backdoor tool  | https://github.com/ELMERIKH/Keres | 6 | 0| 
 | 20231217T12:42:51Z | Uncover the true IP address of websites safeguarded by Cloudflare | https://github.com/spyboy-productions/CloakQuest3r | 285 | 42| 
 | 20231217T11:43:58Z | This repo contains IOC, malware and malware analysis associated with AWS cloud | https://github.com/unknownhad/AWSAttacks | 34 | 5| 
@@ -48,7 +49,6 @@
 | 20231217T02:03:32Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0056-app-GdRA3-achieve-exploit | 0 | 0| 
 | 20231217T01:35:15Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0057-app-9cqda-exploit-negotiate | 0 | 0| 
 | 20231217T01:00:47Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0039-app-kV-Ml-judge-exploit | 0 | 0| 
-| 20231217T00:30:33Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 74 | 20| 
 
 
 # backdoor on Github 推荐
