@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231217T02:11:47Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0028-app-9qWU7-result-exploit | 0 | 0| 
 | 20231217T02:03:32Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0056-app-GdRA3-achieve-exploit | 0 | 0| 
 | 20231217T01:35:15Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0057-app-9cqda-exploit-negotiate | 0 | 0| 
 | 20231217T01:00:47Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0039-app-kV-Ml-judge-exploit | 0 | 0| 
@@ -74,7 +75,6 @@
 | 20231217T00:22:42Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-h | 1 | 0| 
 | 20231216T23:46:52Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 6107 | 688| 
 | 20231216T23:40:48Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5574 | 1082| 
-| 20231216T13:08:40Z | Instructions for exploiting vulnerabilities CVE-2021-44228 and CVE-2023-46604 | https://github.com/dcm2406/CVELab | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -120,7 +120,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231217T02:09:34Z | Null | https://github.com/Donna5s8/fuzzy-barnacle | 0 | 0| 
+| 20231217T02:10:30Z | Null | https://github.com/Donna5s8/fuzzy-barnacle | 0 | 0| 
 | 20231217T01:59:13Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50643 | 23377| 
 | 20231217T01:38:17Z | Null | https://github.com/demosubmission/FuzzEval | 0 | 0| 
 | 20231217T01:30:45Z | Dynamic fuzzy engine | https://github.com/Nanidesska/dynamic-fuzzy_engine | 0 | 0| 
