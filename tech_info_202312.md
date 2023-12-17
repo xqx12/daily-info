@@ -112,6 +112,8 @@
 | --- | --- | --- | --- | ---| 
 | 20231215T21:34:01Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 131 | 12| 
 | 20231215T13:28:26Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 104 | 4| 
+| 20231215T04:35:58Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 35 | 2| 
+| 20231211T02:17:24Z | Source code for our NDSS%18 paper %Automated Website Fingerprinting through Deep Learning% | https://github.com/DistriNet/DLWF | 86 | 39| 
 | 20231201T16:33:57Z | 🧩 Local Minecraft server NGROK to deSEC forward script. Make your local server accessible by everyone with your custom domain!  | https://github.com/Minionguyjpro/NDSS | 1 | 0| 
 
 
