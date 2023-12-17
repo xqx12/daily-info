@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231217T01:35:15Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0057-app-9cqda-exploit-negotiate | 0 | 0| 
 | 20231217T01:00:47Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0039-app-kV-Ml-judge-exploit | 0 | 0| 
 | 20231217T00:25:44Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-h | 1 | 0| 
 | 20231217T00:24:28Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-h | 1 | 0| 
@@ -74,7 +75,6 @@
 | 20231216T23:40:48Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5574 | 1082| 
 | 20231216T13:08:40Z | Instructions for exploiting vulnerabilities CVE-2021-44228 and CVE-2023-46604 | https://github.com/dcm2406/CVELab | 0 | 0| 
 | 20231216T12:50:15Z | Null | https://github.com/darkspr1te/sraptor_exploit | 0 | 0| 
-| 20231216T12:49:33Z | Uncover the true IP address of websites safeguarded by Cloudflare | https://github.com/spyboy-productions/CloakQuest3r | 263 | 40| 
 
 
 # backdoor on Github 推荐
