@@ -120,6 +120,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231217T02:09:34Z | Null | https://github.com/Donna5s8/fuzzy-barnacle | 0 | 0| 
 | 20231217T01:59:13Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50643 | 23377| 
 | 20231217T01:38:17Z | Null | https://github.com/demosubmission/FuzzEval | 0 | 0| 
 | 20231217T01:30:45Z | Dynamic fuzzy engine | https://github.com/Nanidesska/dynamic-fuzzy_engine | 0 | 0| 
@@ -129,7 +130,6 @@
 | 20231216T13:56:32Z | This repository contains all the documents related to the project, which studying smart contracts to detect vulnerabilities in a system | https://github.com/SrajanSaxena21/Smart-Contracts-for-Fuzzer | 0 | 0| 
 | 20231216T13:34:42Z | Null | https://github.com/weichaoliu7/indirect-adaptive-fuzzy-control-for-wheeled-inverted-pendulum | 0 | 0| 
 | 20231216T11:34:16Z | Null | https://github.com/vadim-proger/Fuzzy_logic | 1 | 0| 
-| 20231216T11:26:12Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1501 | 109| 
 
 
 
