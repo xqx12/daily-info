@@ -73,6 +73,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231217T13:15:02Z | Null | https://github.com/clydexavier/Lab-3-Fuzzy-Logic | 0 | 0| 
 | 20231217T12:46:32Z | The implementation of %Grammar-aware Test Case Trimming for Efficient Hybrid Fuzzing% | https://github.com/repository-for-review/ScissorFuzz | 0 | 0| 
 | 20231217T12:35:05Z | Null | https://github.com/PakYouMu/Fuzzy-Logic-Control-Systems | 0 | 0| 
 | 20231217T11:30:07Z | SMAP projekt Fuzzy předpověď počasí | https://github.com/sakJH/FuzzyTemperature | 0 | 0| 
@@ -82,7 +83,6 @@
 | 20231217T10:13:46Z | :v | https://github.com/Thientran13057/fuzzy-octo-palm-tree | 0 | 0| 
 | 20231217T09:04:20Z | Null | https://github.com/Kamali2003/-Kamali2003-Type-2-fuzzy-for-Hate-speech-detection-in-Twitter- | 0 | 0| 
 | 20231217T08:22:20Z | Null | https://github.com/CaptureVibes/fuzzy-fortnight | 0 | 0| 
-| 20231217T07:30:24Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1640 | 245| 
 
 
 
