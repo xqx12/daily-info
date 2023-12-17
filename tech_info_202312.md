@@ -65,16 +65,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231217T12:51:44Z | Persistent Powershell backdoor tool  | https://github.com/ELMERIKH/Keres | 6 | 0| 
+| 20231217T12:42:51Z | Uncover the true IP address of websites safeguarded by Cloudflare | https://github.com/spyboy-productions/CloakQuest3r | 285 | 42| 
+| 20231217T11:43:58Z | This repo contains IOC, malware and malware analysis associated with AWS cloud | https://github.com/unknownhad/AWSAttacks | 34 | 5| 
+| 20231217T10:44:03Z | Null | https://github.com/azertyuiopexe/njrat | 0 | 0| 
 | 20231217T02:21:23Z | Cheat engine based exploit | https://github.com/moonleaks/RogueCE | 0 | 0| 
 | 20231217T02:11:47Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0028-app-9qWU7-result-exploit | 0 | 0| 
 | 20231217T02:03:32Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0056-app-GdRA3-achieve-exploit | 0 | 0| 
 | 20231217T01:35:15Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0057-app-9cqda-exploit-negotiate | 0 | 0| 
 | 20231217T01:00:47Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0039-app-kV-Ml-judge-exploit | 0 | 0| 
-| 20231217T00:25:44Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-h | 1 | 0| 
-| 20231217T00:24:28Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-h | 1 | 0| 
-| 20231217T00:23:32Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-h | 1 | 0| 
-| 20231217T00:22:42Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-h | 1 | 0| 
-| 20231216T23:46:52Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 6107 | 688| 
+| 20231217T00:30:33Z | VMClarity is an open source tool for agentless detection and management of Virtual Machine Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets. | https://github.com/openclarity/vmclarity | 74 | 20| 
 
 
 # backdoor on Github 推荐
