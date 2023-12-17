@@ -26,24 +26,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231216T23:49:02Z | CVE-2023-50071 | Multiple SQL injection vulnerabilities in /customer_support/ajax.php?action=save_department in Customer Support System 1.0 allow authenticated attackers to execute arbitrary SQL commands via id or name. | https://github.com/geraldoalcantara/CVE-2023-50071 | | 
+| 20231216T19:05:09Z | CVE-2023-49070 | Null | https://github.com/abdoghazy2015/ofbiz-CVE-2023-49070-RCE-POC | | 
+| 20231216T18:55:22Z | CVE-2023-22524 | Atlassian Companion RCE Vulnerability Proof of Concept | https://github.com/ron-imperva/CVE-2023-22524 | | 
+| 20231216T16:34:27Z | CVE-2023-6553 | Backup Migration <= 1.3.7 - Unauthenticated Remote Code Execution | https://github.com/Chocapikk/CVE-2023-6553 | | 
 | 20231216T13:54:55Z | CVE-2023-46604 | Null | https://github.com/dcm2406/CVE-2023-46604 | | 
 | 20231216T13:53:37Z | CVE-2021-44228 | Null | https://github.com/dcm2406/CVE-2021-44228 | | 
-| 20231216T11:30:26Z | CVE-2023-49070 | Null | https://github.com/abdoghazy2015/ofbiz-CVE-2023-49070-RCE-POC | | 
-| 20231216T10:56:06Z | CVE-2023-22524 | Atlassian Companion RCE Vulnerability Proof of Concept | https://github.com/ron-imperva/CVE-2023-22524 | | 
-| 20231216T10:28:40Z | CVE-2023-6553 | Backup Migration <= 1.3.7 - Unauthenticated Remote Code Execution | https://github.com/Chocapikk/CVE-2023-6553 | | 
 | 20231216T08:14:14Z | CVE-2023-50132 | Null | https://github.com/sajaljat/CVE-2023-50132 | | 
 | 20231216T08:08:11Z | CVE-2023-50131 | XSS  | https://github.com/sajaljat/CVE-2023-50131 | | 
 | 20231216T02:14:17Z | CVE-2023-50164 | A critical security vulnerability, identified as CVE-2023-50164 (CVE: 9.8) was found in Apache Struts, allowing attackers to manipulate file upload parameters that can potentially lead to unauthorized path traversal and remote code execution (RCE). | https://github.com/jakabakos/CVE-2023-50164-Apache-Struts-RCE | | 
 | 20231215T22:11:48Z | CVE-2023-50164 | A scanning utility and PoC for CVE-2023-50164 | https://github.com/bcdannyboy/CVE-2023-50164 | | 
-| 20231215T22:08:02Z | CVE-2023-50070 | Multiple SQL injection vulnerabilities in /customer_support/ajax.php?action=save_ticket in Customer Support System 1.0 allow authenticated attackers to execute arbitrary SQL commands via department_id, customer_id and subject. | https://github.com/geraldoalcantara/CVE-2023-50070 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231216T11:56:57Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14654 | 435| 
+| 20231216T23:17:18Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14660 | 435| 
+| 20231216T21:57:03Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2377 | 645| 
 | 20231214T19:05:47Z | [Курсовая работа 2 курс (поздний залив)] Генератор парсеров на основе алгоритма Эрли | https://github.com/herrpaulvd/HappyKleene | 0 | 0| 
-| 20231214T17:09:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2375 | 645| 
 | 20231214T03:02:56Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 100 | 22| 
 | 20231212T18:33:52Z | A library for displaying state machine diagrams | https://github.com/coderocket/Cuis-Smalltalk-Kleene | 0 | 0| 
 | 20231212T17:00:02Z | Null | https://github.com/noahknapen/afl_and_klee_projects | 0 | 0| 
@@ -65,31 +65,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231217T00:25:44Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-h | 1 | 0| 
+| 20231217T00:24:28Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-h | 1 | 0| 
+| 20231217T00:23:32Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-h | 1 | 0| 
+| 20231217T00:22:42Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-h | 1 | 0| 
+| 20231216T23:46:52Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 6107 | 688| 
+| 20231216T23:40:48Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5574 | 1082| 
 | 20231216T13:08:40Z | Instructions for exploiting vulnerabilities CVE-2021-44228 and CVE-2023-46604 | https://github.com/dcm2406/CVELab | 0 | 0| 
 | 20231216T12:50:15Z | Null | https://github.com/darkspr1te/sraptor_exploit | 0 | 0| 
 | 20231216T12:49:33Z | Uncover the true IP address of websites safeguarded by Cloudflare | https://github.com/spyboy-productions/CloakQuest3r | 263 | 40| 
 | 20231216T11:20:20Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5721 | 725| 
-| 20231216T11:00:05Z | Java libraries for working with available vulnerability data sources (GitHub Security Advisories, NVD, EPSS, CISA Known Exploited Vulnerabilities, etc.) | https://github.com/jeremylong/Open-Vulnerability-Project | 62 | 15| 
-| 20231216T10:57:02Z | Exploiting Microservices and Serverless for Digital Twins in the Cloud-to-Edge Continuum: Artifacts | https://github.com/fglmtt/fgcs-2023-artifacts | 0 | 0| 
-| 20231216T05:48:10Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 75 | 12| 
-| 20231216T04:12:34Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5573 | 1082| 
-| 20231216T02:51:31Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 764 | 185| 
-| 20231216T02:38:06Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0095-app-BSBV4-exploit-speak | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231216T18:53:28Z | A webshell that can bypass some system security, all code has been obfuscated to bypass malware scans freely. | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 188 | 74| 
+| 20231216T14:15:25Z | Android Mobile | https://github.com/RENANZG/My-Android-Mobile | 4 | 1| 
 | 20231216T13:28:15Z | Persistent Powershell backdoor tool  | https://github.com/ELMERIKH/Keres | 2 | 0| 
 | 20231216T10:02:59Z | A framework for backdooring Microsoft Nuget packages. | https://github.com/mastercodeon314/NugetBackdoor | 3 | 0| 
-| 20231216T06:47:59Z | A webshell that can bypass some system security, all code has been obfuscated to bypass malware scans freely. | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 186 | 74| 
 | 20231216T05:34:20Z | Backdoor test on SV model. | https://github.com/vkeilo/AudioBdoor | 0 | 0| 
 | 20231215T20:21:55Z | CraxsRAT V6 ( Powerful Android Remote Access Trojan ) for Android Phone Hacking | https://github.com/Rosenbaum-dev/CraxsRAT-V6 | 0 | 0| 
 | 20231215T20:13:20Z | python: server-client | https://github.com/alwsecond/PyBackdoor | 0 | 0| 
 | 20231215T16:51:42Z | Null | https://github.com/aravind-a-frontend/BackDoorHiring | 0 | 0| 
 | 20231215T15:04:56Z | PHP shell backdoors list  ( collection ) | https://github.com/1337r0j4n/php-backdoors | 82 | 39| 
 | 20231215T12:52:00Z | Null | https://github.com/MaybeLemon/backdoor | 0 | 0| 
-| 20231215T08:34:39Z | Official implementation of Resisting Backdoor Attacks in Federated Learning via Bidirectional Elections and Individual Perspective | https://github.com/zhenqincn/Snowball | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -118,6 +118,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231216T23:42:34Z | Null | https://github.com/DraheimVincent-ho/fuzzysearch | 0 | 0| 
+| 20231216T23:26:39Z | My clone repository | https://github.com/Stno1975/fuzzy-pancake | 0 | 0| 
+| 20231216T18:31:24Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50642 | 23376| 
 | 20231216T13:56:32Z | This repository contains all the documents related to the project, which studying smart contracts to detect vulnerabilities in a system | https://github.com/SrajanSaxena21/Smart-Contracts-for-Fuzzer | 0 | 0| 
 | 20231216T13:34:42Z | Null | https://github.com/weichaoliu7/indirect-adaptive-fuzzy-control-for-wheeled-inverted-pendulum | 0 | 0| 
 | 20231216T11:34:16Z | Null | https://github.com/vadim-proger/Fuzzy_logic | 1 | 0| 
@@ -125,9 +128,6 @@
 | 20231216T10:24:11Z | Log | https://github.com/bran870/fuzzy-fiesta | 0 | 0| 
 | 20231216T09:32:33Z | PHP practice | https://github.com/Nanidesska/dynamic-fuzzy_engine | 0 | 0| 
 | 20231216T09:15:47Z | ME-Fuzzing : a hybrid fuzzing for reducing the scale of constraints to make itself more efficient | https://github.com/SDUzbh/ME-Fuzzing | 0 | 0| 
-| 20231216T09:11:00Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 123 | 15| 
-| 20231216T09:04:21Z | Null | https://github.com/zefanyadita/Automatic-Control-Light-Intensity-using-Fuzzy-Logic | 0 | 0| 
-| 20231216T08:49:29Z | NucleiFuzzer is a Powerful Automation tool for detecting XSS, SQLi, SSRF, Open-Redirect, etc.. Vulnerabilities in Web Applications | https://github.com/0xKayala/NucleiFuzzer | 893 | 132| 
 
 
 
