@@ -118,6 +118,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231217T01:20:01Z | Null | https://github.com/tatjanana/fuzzy-moon | 0 | 0| 
 | 20231217T01:16:47Z | Dynamic fuzzy engine | https://github.com/Nanidesska/dynamic-fuzzy_engine | 0 | 0| 
 | 20231216T23:42:34Z | Null | https://github.com/DraheimVincent-ho/fuzzysearch | 0 | 0| 
 | 20231216T23:26:39Z | My clone repository | https://github.com/Stno1975/fuzzy-pancake | 0 | 0| 
@@ -127,7 +128,6 @@
 | 20231216T11:34:16Z | Null | https://github.com/vadim-proger/Fuzzy_logic | 1 | 0| 
 | 20231216T11:26:12Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1501 | 109| 
 | 20231216T10:24:11Z | Log | https://github.com/bran870/fuzzy-fiesta | 0 | 0| 
-| 20231216T09:15:47Z | ME-Fuzzing : a hybrid fuzzing for reducing the scale of constraints to make itself more efficient | https://github.com/SDUzbh/ME-Fuzzing | 0 | 0| 
 
 
 
