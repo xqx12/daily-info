@@ -26,11 +26,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231217T13:32:17Z | CVE-2023-49070 | Null | https://github.com/abdoghazy2015/ofbiz-CVE-2023-49070-RCE-POC | | 
 | 20231217T11:11:21Z | CVE-2023-50164 | A scanning utility and PoC for CVE-2023-50164 | https://github.com/bcdannyboy/CVE-2023-50164 | | 
 | 20231217T09:52:19Z | CVE-2023-6553 | Backup Migration <= 1.3.7 - Unauthenticated Remote Code Execution | https://github.com/Chocapikk/CVE-2023-6553 | | 
 | 20231217T09:11:52Z | CVE-2023-22524 | Atlassian Companion RCE Vulnerability Proof of Concept | https://github.com/ron-imperva/CVE-2023-22524 | | 
 | 20231217T08:48:08Z | CVE-2022-0320 | LFI in the Essential Addons for Elementor WordPress plugin | https://github.com/0x9567b/CVE-2022-0320 | | 
-| 20231217T08:18:46Z | CVE-2023-49070 | Null | https://github.com/abdoghazy2015/ofbiz-CVE-2023-49070-RCE-POC | | 
 | 20231217T07:13:24Z | CVE-2023-49954 | SQL Injection in 3CX CRM Integration | https://github.com/CVE-2023-49954/CVE-2023-49954.github.io | | 
 | 20231216T23:49:02Z | CVE-2023-50071 | Multiple SQL injection vulnerabilities in /customer_support/ajax.php?action=save_department in Customer Support System 1.0 allow authenticated attackers to execute arbitrary SQL commands via id or name. | https://github.com/geraldoalcantara/CVE-2023-50071 | | 
 | 20231216T13:54:55Z | CVE-2023-46604 | Null | https://github.com/dcm2406/CVE-2023-46604 | | 
