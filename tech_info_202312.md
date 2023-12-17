@@ -26,10 +26,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231217T02:22:50Z | CVE-2023-6553 | Backup Migration <= 1.3.7 - Unauthenticated Remote Code Execution | https://github.com/Chocapikk/CVE-2023-6553 | | 
 | 20231216T23:49:02Z | CVE-2023-50071 | Multiple SQL injection vulnerabilities in /customer_support/ajax.php?action=save_department in Customer Support System 1.0 allow authenticated attackers to execute arbitrary SQL commands via id or name. | https://github.com/geraldoalcantara/CVE-2023-50071 | | 
 | 20231216T19:05:09Z | CVE-2023-49070 | Null | https://github.com/abdoghazy2015/ofbiz-CVE-2023-49070-RCE-POC | | 
 | 20231216T18:55:22Z | CVE-2023-22524 | Atlassian Companion RCE Vulnerability Proof of Concept | https://github.com/ron-imperva/CVE-2023-22524 | | 
-| 20231216T16:34:27Z | CVE-2023-6553 | Backup Migration <= 1.3.7 - Unauthenticated Remote Code Execution | https://github.com/Chocapikk/CVE-2023-6553 | | 
 | 20231216T13:54:55Z | CVE-2023-46604 | Null | https://github.com/dcm2406/CVE-2023-46604 | | 
 | 20231216T13:53:37Z | CVE-2021-44228 | Null | https://github.com/dcm2406/CVE-2021-44228 | | 
 | 20231216T08:14:14Z | CVE-2023-50132 | Null | https://github.com/sajaljat/CVE-2023-50132 | | 
@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231217T02:21:23Z | Cheat engine based exploit | https://github.com/moonleaks/RogueCE | 0 | 0| 
 | 20231217T02:11:47Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0028-app-9qWU7-result-exploit | 0 | 0| 
 | 20231217T02:03:32Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0056-app-GdRA3-achieve-exploit | 0 | 0| 
 | 20231217T01:35:15Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0057-app-9cqda-exploit-negotiate | 0 | 0| 
@@ -74,13 +75,12 @@
 | 20231217T00:23:32Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-h | 1 | 0| 
 | 20231217T00:22:42Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-h | 1 | 0| 
 | 20231216T23:46:52Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 6107 | 688| 
-| 20231216T23:40:48Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5574 | 1082| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231217T01:28:48Z | Null | https://github.com/OjolCyberArmy/Ojol-Shell-Backdoor- | 0 | 0| 
+| 20231217T02:23:33Z | Null | https://github.com/OjolCyberArmy/Ojol-Shell-Backdoor- | 0 | 0| 
 | 20231216T18:53:28Z | A webshell that can bypass some system security, all code has been obfuscated to bypass malware scans freely. | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 188 | 74| 
 | 20231216T14:15:25Z | Android Mobile | https://github.com/RENANZG/My-Android-Mobile | 4 | 1| 
 | 20231216T13:28:15Z | Persistent Powershell backdoor tool  | https://github.com/ELMERIKH/Keres | 2 | 0| 
@@ -120,8 +120,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231217T02:24:18Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50642 | 23377| 
 | 20231217T02:10:30Z | Null | https://github.com/Donna5s8/fuzzy-barnacle | 0 | 0| 
-| 20231217T01:59:13Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50643 | 23377| 
 | 20231217T01:38:17Z | Null | https://github.com/demosubmission/FuzzEval | 0 | 0| 
 | 20231217T01:30:45Z | Dynamic fuzzy engine | https://github.com/Nanidesska/dynamic-fuzzy_engine | 0 | 0| 
 | 20231217T01:20:01Z | Null | https://github.com/tatjanana/fuzzy-moon | 0 | 0| 

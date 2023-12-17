@@ -22,7 +22,6 @@
 | 20231216T23:49:02Z | CVE-2023-50071 | Multiple SQL injection vulnerabilities in /customer_support/ajax.php?action=save_department in Customer Support System 1.0 allow authenticated attackers to execute arbitrary SQL commands via id or name. | https://github.com/geraldoalcantara/CVE-2023-50071 | | 
 | 20231216T19:05:09Z | CVE-2023-49070 | Null | https://github.com/abdoghazy2015/ofbiz-CVE-2023-49070-RCE-POC | | 
 | 20231216T18:55:22Z | CVE-2023-22524 | Atlassian Companion RCE Vulnerability Proof of Concept | https://github.com/ron-imperva/CVE-2023-22524 | | 
-| 20231216T16:34:27Z | CVE-2023-6553 | Backup Migration <= 1.3.7 - Unauthenticated Remote Code Execution | https://github.com/Chocapikk/CVE-2023-6553 | | 
 | 20231216T13:54:55Z | CVE-2023-46604 | Null | https://github.com/dcm2406/CVE-2023-46604 | | 
 | 20231216T13:53:37Z | CVE-2021-44228 | Null | https://github.com/dcm2406/CVE-2021-44228 | | 
 | 20231216T08:14:14Z | CVE-2023-50132 | Null | https://github.com/sajaljat/CVE-2023-50132 | | 
