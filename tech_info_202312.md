@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231217T13:52:28Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-w | 1 | 0| 
 | 20231217T13:21:23Z | Null | https://github.com/Ryadbg/AllaouiExploitLibrary | 0 | 0| 
 | 20231217T12:51:44Z | Persistent Powershell backdoor tool  | https://github.com/ELMERIKH/Keres | 6 | 0| 
 | 20231217T12:42:51Z | Uncover the true IP address of websites safeguarded by Cloudflare | https://github.com/spyboy-productions/CloakQuest3r | 285 | 42| 
@@ -74,7 +75,6 @@
 | 20231217T02:11:47Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0028-app-9qWU7-result-exploit | 0 | 0| 
 | 20231217T02:03:32Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0056-app-GdRA3-achieve-exploit | 0 | 0| 
 | 20231217T01:35:15Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0057-app-9cqda-exploit-negotiate | 0 | 0| 
-| 20231217T01:00:47Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0039-app-kV-Ml-judge-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
