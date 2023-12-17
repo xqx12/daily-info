@@ -83,7 +83,6 @@
 | --- | --- | --- | --- | ---| 
 | 20231216T23:42:34Z | Null | https://github.com/DraheimVincent-ho/fuzzysearch | 0 | 0| 
 | 20231216T23:26:39Z | My clone repository | https://github.com/Stno1975/fuzzy-pancake | 0 | 0| 
-| 20231216T18:31:24Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50642 | 23377| 
 | 20231216T13:56:32Z | This repository contains all the documents related to the project, which studying smart contracts to detect vulnerabilities in a system | https://github.com/SrajanSaxena21/Smart-Contracts-for-Fuzzer | 0 | 0| 
 | 20231216T13:34:42Z | Null | https://github.com/weichaoliu7/indirect-adaptive-fuzzy-control-for-wheeled-inverted-pendulum | 0 | 0| 
 | 20231216T11:34:16Z | Null | https://github.com/vadim-proger/Fuzzy_logic | 1 | 0| 
@@ -91,6 +90,7 @@
 | 20231216T10:24:11Z | Log | https://github.com/bran870/fuzzy-fiesta | 0 | 0| 
 | 20231216T09:15:47Z | ME-Fuzzing : a hybrid fuzzing for reducing the scale of constraints to make itself more efficient | https://github.com/SDUzbh/ME-Fuzzing | 0 | 0| 
 | 20231216T09:11:00Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 123 | 15| 
+| 20231216T09:04:21Z | Null | https://github.com/zefanyadita/Automatic-Control-Light-Intensity-using-Fuzzy-Logic | 0 | 0| 
 
 
 
