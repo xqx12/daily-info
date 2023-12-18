@@ -26,9 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231218T01:42:50Z | CVE-2023-23752 | An access control flaw was identified, potentially leading to unauthorized access to critical webservice endpoints within Joomla! CMS versions 4.0.0 through 4.2.7. This vulnerability could be exploited by attackers to gain unauthorized access to sensitive information or perform unauthorized actions. | https://github.com/JeneralMotors/CVE-2023-23752 | | 
 | 20231218T01:14:47Z | CVE-2023-50917 | MajorDoMo Unauthenticated RCE: Deep Dive & Exploitation Techniques | https://github.com/Chocapikk/CVE-2023-50917 | | 
 | 20231218T00:59:06Z | cve-2023-50164 | Proof of Concept for Path Traversal in Apache Struts ("CVE-2023-50164") | https://github.com/dwisiswant0/cve-2023-50164-poc | | 
-| 20231218T00:49:10Z | CVE-2023-23752 | An access control flaw was identified, potentially leading to unauthorized access to critical webservice endpoints within Joomla! CMS versions 4.0.0 through 4.2.7. This vulnerability could be exploited by attackers to gain unauthorized access to sensitive information or perform unauthorized actions. | https://github.com/JeneralMotors/CVE-2023-23752 | | 
 | 20231217T23:12:37Z | CVE-2023-49070 | Pre-auth RCE in Apache Ofbiz!! | https://github.com/0xrobiul/CVE-2023-49070 | | 
 | 20231217T21:26:06Z | CVE-2022-29063 | CVE-2022-29063: Java Deserialization via RMI Connection in Apache OfBiz | https://github.com/mbadanoiu/CVE-2022-29063 | | 
 | 20231217T20:56:52Z | CVE-2022-25813 | CVE-2022-25813: FreeMarker Server-Side Template Injection in Apache OfBiz  | https://github.com/mbadanoiu/CVE-2022-25813 | | 
@@ -66,8 +66,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231218T01:42:50Z | An access control flaw was identified, potentially leading to unauthorized access to critical webservice endpoints within Joomla! CMS versions 4.0.0 through 4.2.7. This vulnerability could be exploited by attackers to gain unauthorized access to sensitive information or perform unauthorized actions. | https://github.com/JeneralMotors/CVE-2023-23752 | 0 | 0| 
 | 20231218T01:14:47Z | MajorDoMo Unauthenticated RCE: Deep Dive & Exploitation Techniques | https://github.com/Chocapikk/CVE-2023-50917 | 0 | 0| 
-| 20231218T00:49:10Z | An access control flaw was identified, potentially leading to unauthorized access to critical webservice endpoints within Joomla! CMS versions 4.0.0 through 4.2.7. This vulnerability could be exploited by attackers to gain unauthorized access to sensitive information or perform unauthorized actions. | https://github.com/JeneralMotors/CVE-2023-23752 | 0 | 0| 
 | 20231217T23:34:22Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-x | 1 | 0| 
 | 20231217T23:33:51Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-x | 1 | 0| 
 | 20231217T23:33:08Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-x | 1 | 0| 
@@ -121,7 +121,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231218T01:32:10Z | Null | https://github.com/AshLQ/kernel_fuzz | 0 | 0| 
+| 20231218T01:43:50Z | Null | https://github.com/AshLQ/kernel_fuzz | 0 | 0| 
 | 20231218T01:19:33Z | projects  | https://github.com/ignViralX/fuzzy-system | 0 | 0| 
 | 20231218T01:02:35Z | The FuzzyLite Libraries for Fuzzy Logic Control | https://github.com/fuzzylite/fuzzylite.github.io | 0 | 0| 
 | 20231218T00:48:42Z | Null | https://github.com/zzl2022/fuzzy_fusion | 0 | 0| 
