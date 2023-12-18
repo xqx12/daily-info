@@ -52,10 +52,10 @@
 | 20231218T12:50:56Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-o | 1 | 0| 
 | 20231218T12:50:16Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-o | 1 | 0| 
 | 20231218T12:40:59Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6230 | 813| 
+| 20231218T12:40:34Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5578 | 1083| 
 | 20231218T12:00:44Z | Config files for my GitHub profile. | https://github.com/Felix-Exploit/Felix-Exploit | 0 | 0| 
 | 20231218T09:31:02Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5725 | 727| 
 | 20231218T02:37:44Z | MajorDoMo Unauthenticated RCE: Deep Dive & Exploitation Techniques | https://github.com/Chocapikk/CVE-2023-50917 | 1 | 0| 
-| 20231218T02:25:09Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0053-app-RrC4e-voice-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
