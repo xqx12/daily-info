@@ -46,6 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231218T13:03:31Z | RCECODE is a code which has code to exploit the RCE via package dependency confusion  | https://github.com/jeetpal2007/RCECODE | 0 | 0| 
 | 20231218T12:55:25Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-o | 1 | 0| 
 | 20231218T12:51:47Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-o | 1 | 0| 
 | 20231218T12:50:56Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-o | 1 | 0| 
@@ -55,7 +56,6 @@
 | 20231218T09:31:02Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5725 | 727| 
 | 20231218T02:37:44Z | MajorDoMo Unauthenticated RCE: Deep Dive & Exploitation Techniques | https://github.com/Chocapikk/CVE-2023-50917 | 1 | 0| 
 | 20231218T02:25:09Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0053-app-RrC4e-voice-exploit | 0 | 0| 
-| 20231218T02:11:06Z | Null | https://github.com/L1ghtsou1/Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
