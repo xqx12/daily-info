@@ -72,10 +72,10 @@
 | 20231217T23:33:51Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-x | 1 | 0| 
 | 20231217T23:33:08Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-x | 1 | 0| 
 | 20231217T23:32:34Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-x | 1 | 0| 
+| 20231217T21:10:44Z | Multi-Function Program for Recon, Analysis, and Exploitation of Computerized & IOT devices. | https://github.com/clu3bot/Eclipse | 3 | 0| 
 | 20231217T19:55:16Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5575 | 1082| 
 | 20231217T16:28:49Z | External cheat for Rainbow Six Siege offering ESP, aimbot, and various tactical advantages. | https://github.com/Lazdrow/Klar-gg-Rainbow-Six-Siege-RS6-Esp-NoRroil-Hwid-Spoofer-Exploit | 0 | 0| 
 | 20231217T16:27:58Z | Developed for Escape From Tarkov and written in C++ and C#. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/Lazdrow/Escape-From-Tarkov-Eft-Aimbot-esp-Loots-Exploits-Max-Skills-High-Jump | 0 | 0| 
-| 20231217T14:43:49Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 76 | 12| 
 
 
 # backdoor on Github 推荐
