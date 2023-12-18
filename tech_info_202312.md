@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231218T01:14:47Z | CVE-2023-50917 | MajorDoMo Unauthenticated RCE: Deep Dive & Exploitation Techniques | https://github.com/Chocapikk/CVE-2023-50917 | | 
 | 20231218T00:59:06Z | cve-2023-50164 | Proof of Concept for Path Traversal in Apache Struts ("CVE-2023-50164") | https://github.com/dwisiswant0/cve-2023-50164-poc | | 
 | 20231218T00:49:10Z | CVE-2023-23752 | An access control flaw was identified, potentially leading to unauthorized access to critical webservice endpoints within Joomla! CMS versions 4.0.0 through 4.2.7. This vulnerability could be exploited by attackers to gain unauthorized access to sensitive information or perform unauthorized actions. | https://github.com/JeneralMotors/CVE-2023-23752 | | 
 | 20231217T23:12:37Z | CVE-2023-49070 | Pre-auth RCE in Apache Ofbiz!! | https://github.com/0xrobiul/CVE-2023-49070 | | 
@@ -35,7 +36,6 @@
 | 20231217T14:31:29Z | CVE-2023-50164 | A scanning utility and PoC for CVE-2023-50164 | https://github.com/bcdannyboy/CVE-2023-50164 | | 
 | 20231217T13:32:17Z | CVE-2023-49070 | Null | https://github.com/abdoghazy2015/ofbiz-CVE-2023-49070-RCE-POC | | 
 | 20231217T09:11:52Z | CVE-2023-22524 | Atlassian Companion RCE Vulnerability Proof of Concept | https://github.com/ron-imperva/CVE-2023-22524 | | 
-| 20231217T08:48:08Z | CVE-2022-0320 | LFI in the Essential Addons for Elementor WordPress plugin | https://github.com/0x9567b/CVE-2022-0320 | | 
 
 
 # klee on Github 推荐
@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231218T01:14:47Z | MajorDoMo Unauthenticated RCE: Deep Dive & Exploitation Techniques | https://github.com/Chocapikk/CVE-2023-50917 | 0 | 0| 
 | 20231218T00:49:10Z | An access control flaw was identified, potentially leading to unauthorized access to critical webservice endpoints within Joomla! CMS versions 4.0.0 through 4.2.7. This vulnerability could be exploited by attackers to gain unauthorized access to sensitive information or perform unauthorized actions. | https://github.com/JeneralMotors/CVE-2023-23752 | 0 | 0| 
 | 20231217T23:34:22Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-x | 1 | 0| 
 | 20231217T23:33:51Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-x | 1 | 0| 
@@ -75,7 +76,6 @@
 | 20231217T16:28:49Z | External cheat for Rainbow Six Siege offering ESP, aimbot, and various tactical advantages. | https://github.com/Lazdrow/Klar-gg-Rainbow-Six-Siege-RS6-Esp-NoRroil-Hwid-Spoofer-Exploit | 0 | 0| 
 | 20231217T16:27:58Z | Developed for Escape From Tarkov and written in C++ and C#. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/Lazdrow/Escape-From-Tarkov-Eft-Aimbot-esp-Loots-Exploits-Max-Skills-High-Jump | 0 | 0| 
 | 20231217T14:43:49Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 76 | 12| 
-| 20231217T13:56:28Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-w | 1 | 0| 
 
 
 # backdoor on Github 推荐
