@@ -122,6 +122,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231218T13:54:57Z | Fuzzing Superform ERC1155-A contract. | https://github.com/0xpolarzero/superform-erc1155a-fuzzing | 0 | 0| 
 | 20231218T13:30:27Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9245 | 2070| 
 | 20231218T13:25:10Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4947 | 1180| 
 | 20231218T11:51:24Z | Solidity Fuzzing Library | https://github.com/perimetersec/fuzzlib | 0 | 0| 
@@ -131,7 +132,6 @@
 | 20231218T09:07:32Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1642 | 246| 
 | 20231218T08:47:43Z | Null | https://github.com/google/fuzztest | 489 | 40| 
 | 20231218T06:04:11Z | Plugin for quickly open files using your prefered fuzzy search in neovim | https://github.com/Vulto/fuzzy-vim | 0 | 0| 
-| 20231218T02:34:18Z | Null | https://github.com/VZachary13/fuzzy-octo-spoon | 0 | 0| 
 
 
 
