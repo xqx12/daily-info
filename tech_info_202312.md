@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231218T02:14:55Z | cve-2023-50164 | Proof of Concept for Path Traversal in Apache Struts ("CVE-2023-50164") | https://github.com/dwisiswant0/cve-2023-50164-poc | | 
+| 20231218T02:16:08Z | cve-2023-50164 | Proof of Concept for Path Traversal in Apache Struts ("CVE-2023-50164") | https://github.com/dwisiswant0/cve-2023-50164-poc | | 
 | 20231218T01:49:53Z | CVE-2023-6553 | Backup Migration <= 1.3.7 - Unauthenticated Remote Code Execution | https://github.com/Chocapikk/CVE-2023-6553 | | 
 | 20231218T01:42:50Z | CVE-2023-23752 | An access control flaw was identified, potentially leading to unauthorized access to critical webservice endpoints within Joomla! CMS versions 4.0.0 through 4.2.7. This vulnerability could be exploited by attackers to gain unauthorized access to sensitive information or perform unauthorized actions. | https://github.com/JeneralMotors/CVE-2023-23752 | | 
 | 20231218T01:14:47Z | CVE-2023-50917 | MajorDoMo Unauthenticated RCE: Deep Dive & Exploitation Techniques | https://github.com/Chocapikk/CVE-2023-50917 | | 
