@@ -61,7 +61,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231218T13:33:52Z | Persistent Powershell backdoor tool  | https://github.com/ELMERIKH/Keres | 17 | 1| 
+| 20231218T13:33:52Z | Persistent Powershell backdoor tool  | https://github.com/ELMERIKH/Keres | 17 | 2| 
 | 20231218T13:33:30Z | Code for paper: PoisonPrompt: Backdoor Attack on Prompt-based Large Language Models, IEEE ICASSP 2024 | https://github.com/grasses/PoisonPrompt | 2 | 0| 
 | 20231218T13:06:21Z | Backdoor_Attacks FullStack | https://github.com/Barundeepsingh/Backdoor_Attacks | 0 | 0| 
 | 20231218T12:19:31Z | This repository is a collection of my personal writeups for the challenges I tackled during the Backdoor CTF 2023. The event showcased a wide array of high-quality challenges that provided a great learning experience. I hope that these writeups will be useful for others who are interested in CTFs and cybersecurity. | https://github.com/Lyther/Backdoor-CTF-2023-Writeups | 0 | 0| 
