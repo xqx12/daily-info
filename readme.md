@@ -83,6 +83,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231218T13:25:10Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4947 | 1180| 
 | 20231218T11:51:24Z | Solidity Fuzzing Library | https://github.com/perimetersec/fuzzlib | 0 | 0| 
 | 20231218T11:19:37Z | This assets is a source code for OutSystems External Logic FuzzyWuzzy  Fuzzy string matching like a boss. It uses Levenshtein Distance to calculate the differences between sequences in a simple-to-use package | https://github.com/doitleanlabs/odc-fuzzywuzzy | 0 | 0| 
 | 20231218T10:51:37Z | Testing C++ pipeline | https://github.com/FarizKesten/fuzz_cpp_pipeline | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20231218T02:34:18Z | Null | https://github.com/VZachary13/fuzzy-octo-spoon | 0 | 0| 
 | 20231218T02:02:38Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50656 | 23377| 
 | 20231218T01:43:50Z | Null | https://github.com/AshLQ/kernel_fuzz | 0 | 0| 
-| 20231218T01:19:33Z | projects  | https://github.com/ignViralX/fuzzy-system | 0 | 0| 
 
 
 
