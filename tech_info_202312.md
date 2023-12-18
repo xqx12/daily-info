@@ -121,6 +121,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231218T01:32:10Z | Null | https://github.com/AshLQ/kernel_fuzz | 0 | 0| 
 | 20231218T01:19:33Z | projects  | https://github.com/ignViralX/fuzzy-system | 0 | 0| 
 | 20231218T01:02:35Z | The FuzzyLite Libraries for Fuzzy Logic Control | https://github.com/fuzzylite/fuzzylite.github.io | 0 | 0| 
 | 20231218T00:48:42Z | Null | https://github.com/zzl2022/fuzzy_fusion | 0 | 0| 
@@ -130,7 +131,6 @@
 | 20231217T23:57:13Z | Null | https://github.com/ramismaris/fuzzy-goggles | 0 | 0| 
 | 20231217T22:30:13Z | Null | https://github.com/SametHaymana/grpcFuzzer | 0 | 0| 
 | 20231217T20:38:00Z | Fuzzy and MA-POCA: AIs that play games - CM3070 | https://github.com/ChrisCastelo/fuzzy_vs_poca | 0 | 0| 
-| 20231217T17:10:31Z | Null | https://github.com/Lisa1a2/fuzzy-sniffle | 0 | 0| 
 
 
 
