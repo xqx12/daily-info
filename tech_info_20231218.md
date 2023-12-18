@@ -18,6 +18,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231218T13:56:42Z | CVE-2020-11651 | Repository that contains a CVE-2020-11651 Exploit updated to work with the latest versions of python. | https://github.com/hardsoftsecurity/CVE-2020-11651-PoC | | 
 | 20231218T12:58:51Z | cve-2023-50164 | Null | https://github.com/helsecert/cve-2023-50164 | | 
 | 20231218T12:21:29Z | cve-2023-50164 | Proof of Concept for Path Traversal in Apache Struts ("CVE-2023-50164") | https://github.com/dwisiswant0/cve-2023-50164-poc | | 
 | 20231218T12:03:47Z | 未知编号 | Null | https://github.com/SangPenyalang/CVE2023-29484 | | 
@@ -46,6 +47,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231218T13:56:42Z | Repository that contains a CVE-2020-11651 Exploit updated to work with the latest versions of python. | https://github.com/hardsoftsecurity/CVE-2020-11651-PoC | 0 | 0| 
 | 20231218T13:04:05Z | RCECODE is a code which has code to exploit the RCE via package dependency confusion  | https://github.com/jeetpal2007/RCECODE | 0 | 0| 
 | 20231218T12:55:25Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-o | 1 | 0| 
 | 20231218T12:51:47Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-o | 1 | 0| 
@@ -55,7 +57,6 @@
 | 20231218T12:40:34Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5578 | 1083| 
 | 20231218T12:00:44Z | Config files for my GitHub profile. | https://github.com/Felix-Exploit/Felix-Exploit | 0 | 0| 
 | 20231218T09:31:02Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5725 | 727| 
-| 20231218T02:37:44Z | MajorDoMo Unauthenticated RCE: Deep Dive & Exploitation Techniques | https://github.com/Chocapikk/CVE-2023-50917 | 1 | 0| 
 
 
 # backdoor on Github 推荐
