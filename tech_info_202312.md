@@ -121,6 +121,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231218T01:02:35Z | The FuzzyLite Libraries for Fuzzy Logic Control | https://github.com/fuzzylite/fuzzylite.github.io | 0 | 0| 
 | 20231218T00:48:42Z | Null | https://github.com/zzl2022/fuzzy_fusion | 0 | 0| 
 | 20231218T00:40:22Z | Null | https://github.com/the-correo/fuzzy-moon | 0 | 0| 
 | 20231218T00:32:32Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50655 | 23377| 
@@ -130,7 +131,6 @@
 | 20231217T20:38:00Z | Fuzzy and MA-POCA: AIs that play games - CM3070 | https://github.com/ChrisCastelo/fuzzy_vs_poca | 0 | 0| 
 | 20231217T17:10:31Z | Null | https://github.com/Lisa1a2/fuzzy-sniffle | 0 | 0| 
 | 20231217T17:04:36Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5129 | 554| 
-| 20231217T13:15:02Z | Null | https://github.com/clydexavier/Lab-3-Fuzzy-Logic | 0 | 0| 
 
 
 
