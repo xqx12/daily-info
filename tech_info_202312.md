@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231218T02:16:08Z | cve-2023-50164 | Proof of Concept for Path Traversal in Apache Struts ("CVE-2023-50164") | https://github.com/dwisiswant0/cve-2023-50164-poc | | 
+| 20231218T02:33:30Z | cve-2023-50164 | Proof of Concept for Path Traversal in Apache Struts ("CVE-2023-50164") | https://github.com/dwisiswant0/cve-2023-50164-poc | | 
 | 20231218T01:49:53Z | CVE-2023-6553 | Backup Migration <= 1.3.7 - Unauthenticated Remote Code Execution | https://github.com/Chocapikk/CVE-2023-6553 | | 
 | 20231218T01:42:50Z | CVE-2023-23752 | An access control flaw was identified, potentially leading to unauthorized access to critical webservice endpoints within Joomla! CMS versions 4.0.0 through 4.2.7. This vulnerability could be exploited by attackers to gain unauthorized access to sensitive information or perform unauthorized actions. | https://github.com/JeneralMotors/CVE-2023-23752 | | 
 | 20231218T01:14:47Z | CVE-2023-50917 | MajorDoMo Unauthenticated RCE: Deep Dive & Exploitation Techniques | https://github.com/Chocapikk/CVE-2023-50917 | | 
@@ -41,8 +41,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231218T02:33:03Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14671 | 435| 
 | 20231217T18:15:41Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2376 | 645| 
-| 20231217T16:12:54Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14669 | 435| 
 | 20231217T12:39:17Z | Null | https://github.com/nailstring/klee_tests | 0 | 0| 
 | 20231214T19:05:47Z | [Курсовая работа 2 курс (поздний залив)] Генератор парсеров на основе алгоритма Эрли | https://github.com/herrpaulvd/HappyKleene | 0 | 0| 
 | 20231214T03:02:56Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 100 | 22| 
@@ -121,6 +121,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231218T02:34:18Z | Null | https://github.com/VZachary13/fuzzy-octo-spoon | 0 | 0| 
 | 20231218T02:02:38Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50656 | 23377| 
 | 20231218T01:43:50Z | Null | https://github.com/AshLQ/kernel_fuzz | 0 | 0| 
 | 20231218T01:19:33Z | projects  | https://github.com/ignViralX/fuzzy-system | 0 | 0| 
@@ -130,7 +131,6 @@
 | 20231218T00:12:54Z | Fast and effective grammar-based fuzzing based on Gramatron | https://github.com/z2-2z/peacock | 0 | 0| 
 | 20231217T23:57:13Z | Null | https://github.com/ramismaris/fuzzy-goggles | 0 | 0| 
 | 20231217T22:30:13Z | Null | https://github.com/SametHaymana/grpcFuzzer | 0 | 0| 
-| 20231217T20:38:00Z | Fuzzy and MA-POCA: AIs that play games - CM3070 | https://github.com/ChrisCastelo/fuzzy_vs_poca | 0 | 0| 
 
 
 
