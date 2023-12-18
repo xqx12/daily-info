@@ -92,8 +92,8 @@
 | 20231218T10:35:13Z | CATS is a REST API Fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and do not require maintenance. | https://github.com/Endava/cats | 1030 | 71| 
 | 20231218T09:07:32Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1642 | 246| 
 | 20231218T08:47:43Z | Null | https://github.com/google/fuzztest | 489 | 40| 
+| 20231218T06:04:11Z | Plugin for quickly open files using your prefered fuzzy search in neovim | https://github.com/Vulto/fuzzy-vim | 0 | 0| 
 | 20231218T02:34:18Z | Null | https://github.com/VZachary13/fuzzy-octo-spoon | 0 | 0| 
-| 20231218T02:02:38Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50656 | 23377| 
 
 
 
