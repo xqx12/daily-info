@@ -26,24 +26,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231218T00:59:06Z | cve-2023-50164 | Proof of Concept for Path Traversal in Apache Struts ("CVE-2023-50164") | https://github.com/dwisiswant0/cve-2023-50164-poc | | 
+| 20231218T00:49:10Z | CVE-2023-23752 | An access control flaw was identified, potentially leading to unauthorized access to critical webservice endpoints within Joomla! CMS versions 4.0.0 through 4.2.7. This vulnerability could be exploited by attackers to gain unauthorized access to sensitive information or perform unauthorized actions. | https://github.com/JeneralMotors/CVE-2023-23752 | | 
+| 20231217T23:12:37Z | CVE-2023-49070 | Pre-auth RCE in Apache Ofbiz!! | https://github.com/0xrobiul/CVE-2023-49070 | | 
+| 20231217T21:26:06Z | CVE-2022-29063 | CVE-2022-29063: Java Deserialization via RMI Connection in Apache OfBiz | https://github.com/mbadanoiu/CVE-2022-29063 | | 
+| 20231217T20:56:52Z | CVE-2022-25813 | CVE-2022-25813: FreeMarker Server-Side Template Injection in Apache OfBiz  | https://github.com/mbadanoiu/CVE-2022-25813 | | 
+| 20231217T16:49:26Z | CVE-2023-6553 | Backup Migration <= 1.3.7 - Unauthenticated Remote Code Execution | https://github.com/Chocapikk/CVE-2023-6553 | | 
+| 20231217T14:31:29Z | CVE-2023-50164 | A scanning utility and PoC for CVE-2023-50164 | https://github.com/bcdannyboy/CVE-2023-50164 | | 
 | 20231217T13:32:17Z | CVE-2023-49070 | Null | https://github.com/abdoghazy2015/ofbiz-CVE-2023-49070-RCE-POC | | 
-| 20231217T11:11:21Z | CVE-2023-50164 | A scanning utility and PoC for CVE-2023-50164 | https://github.com/bcdannyboy/CVE-2023-50164 | | 
-| 20231217T09:52:19Z | CVE-2023-6553 | Backup Migration <= 1.3.7 - Unauthenticated Remote Code Execution | https://github.com/Chocapikk/CVE-2023-6553 | | 
 | 20231217T09:11:52Z | CVE-2023-22524 | Atlassian Companion RCE Vulnerability Proof of Concept | https://github.com/ron-imperva/CVE-2023-22524 | | 
 | 20231217T08:48:08Z | CVE-2022-0320 | LFI in the Essential Addons for Elementor WordPress plugin | https://github.com/0x9567b/CVE-2022-0320 | | 
-| 20231217T07:13:24Z | CVE-2023-49954 | SQL Injection in 3CX CRM Integration | https://github.com/CVE-2023-49954/CVE-2023-49954.github.io | | 
-| 20231216T23:49:02Z | CVE-2023-50071 | Multiple SQL injection vulnerabilities in /customer_support/ajax.php?action=save_department in Customer Support System 1.0 allow authenticated attackers to execute arbitrary SQL commands via id or name. | https://github.com/geraldoalcantara/CVE-2023-50071 | | 
-| 20231216T13:54:55Z | CVE-2023-46604 | Null | https://github.com/dcm2406/CVE-2023-46604 | | 
-| 20231216T13:53:37Z | CVE-2021-44228 | Null | https://github.com/dcm2406/CVE-2021-44228 | | 
-| 20231216T08:14:14Z | CVE-2023-50132 | Null | https://github.com/sajaljat/CVE-2023-50132 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231217T13:09:59Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14667 | 435| 
+| 20231217T18:15:41Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2376 | 645| 
+| 20231217T16:12:54Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14669 | 435| 
 | 20231217T12:39:17Z | Null | https://github.com/nailstring/klee_tests | 0 | 0| 
-| 20231216T21:57:03Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2377 | 645| 
 | 20231214T19:05:47Z | [Курсовая работа 2 курс (поздний залив)] Генератор парсеров на основе алгоритма Эрли | https://github.com/herrpaulvd/HappyKleene | 0 | 0| 
 | 20231214T03:02:56Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 100 | 22| 
 | 20231212T18:33:52Z | A library for displaying state machine diagrams | https://github.com/coderocket/Cuis-Smalltalk-Kleene | 0 | 0| 
@@ -56,7 +56,8 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231217T13:45:38Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 364 | 83| 
+| 20231217T18:15:40Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 363 | 83| 
+| 20231217T15:23:35Z | Documents for Spacecraft Simulation Environment | https://github.com/ut-issl/s2e-documents | 9 | 6| 
 | 20231215T05:51:37Z | Null | https://github.com/theoim/S2E_config_module_base | 0 | 0| 
 | 20231204T04:22:56Z | Null | https://github.com/MetadataGitTesting/s2es3Kn8 | 0 | 0| 
 | 20231203T15:39:36Z | Null | https://github.com/milto-rgb/S2E5 | 0 | 0| 
@@ -65,31 +66,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231218T00:49:10Z | An access control flaw was identified, potentially leading to unauthorized access to critical webservice endpoints within Joomla! CMS versions 4.0.0 through 4.2.7. This vulnerability could be exploited by attackers to gain unauthorized access to sensitive information or perform unauthorized actions. | https://github.com/JeneralMotors/CVE-2023-23752 | 0 | 0| 
+| 20231217T23:34:22Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-x | 1 | 0| 
+| 20231217T23:33:51Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-x | 1 | 0| 
+| 20231217T23:33:08Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-x | 1 | 0| 
+| 20231217T23:32:34Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-x | 1 | 0| 
+| 20231217T19:55:16Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5575 | 1082| 
+| 20231217T16:28:49Z | External cheat for Rainbow Six Siege offering ESP, aimbot, and various tactical advantages. | https://github.com/Lazdrow/Klar-gg-Rainbow-Six-Siege-RS6-Esp-NoRroil-Hwid-Spoofer-Exploit | 0 | 0| 
+| 20231217T16:27:58Z | Developed for Escape From Tarkov and written in C++ and C#. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/Lazdrow/Escape-From-Tarkov-Eft-Aimbot-esp-Loots-Exploits-Max-Skills-High-Jump | 0 | 0| 
+| 20231217T14:43:49Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 76 | 12| 
 | 20231217T13:56:28Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-w | 1 | 0| 
-| 20231217T13:55:22Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-w | 1 | 0| 
-| 20231217T13:54:28Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-w | 1 | 0| 
-| 20231217T13:52:28Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-w | 1 | 0| 
-| 20231217T13:21:23Z | Null | https://github.com/Ryadbg/AllaouiExploitLibrary | 0 | 0| 
-| 20231217T12:51:44Z | Persistent Powershell backdoor tool  | https://github.com/ELMERIKH/Keres | 6 | 0| 
-| 20231217T12:42:51Z | Uncover the true IP address of websites safeguarded by Cloudflare | https://github.com/spyboy-productions/CloakQuest3r | 285 | 42| 
-| 20231217T11:43:58Z | This repo contains IOC, malware and malware analysis associated with AWS cloud | https://github.com/unknownhad/AWSAttacks | 34 | 5| 
-| 20231217T10:44:03Z | Null | https://github.com/azertyuiopexe/njrat | 0 | 0| 
-| 20231217T02:21:23Z | Cheat engine based exploit | https://github.com/moonleaks/RogueCE | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231217T20:22:33Z | AsyncRAT stands as a Remote Access Tool (RAT) conceived for the purpose of distant supervision and command over remote computers through an encrypted connection ensuring security. | https://github.com/RexTeamss/AsyncRAT-Fud-Fixed-Dll-Remote-Administration-Tool-New | 0 | 0| 
+| 20231217T20:22:26Z | BitRAT CrackedIt is meticulously constructed utilizing the C++ programming language. It stands as the most recent iteration of the premier PC RAT for the year 2023. Regarded as a prized tool | https://github.com/RexTeamss/Bitrat-Hvnc-Rat-Remote-Control-Av-Bypass | 0 | 0| 
+| 20231217T20:21:18Z | VenomControl Rat is a Remote Access Tool (RAT) designed to remotely monitor and control other computers through a secure encrypted connection | https://github.com/RexTeamss/VenomControl-Rat-Crack-Source | 0 | 0| 
+| 20231217T20:21:13Z | Computing) capabilities. It boasts compatibility with a spectrum of 20 concealed browsers. Pegasus HVNC facet facilitates the orchestration of a concealed desktop environment | https://github.com/RexTeamss/Pegasus-Pantheon-HVNC-V2-VNC-Hidden-Browser-Remote-Administration-Rat | 0 | 0| 
+| 20231217T16:04:58Z | open a f**king backdoor! | https://github.com/Halfapear/Picoducky-backdoor | 0 | 0| 
+| 20231217T14:58:02Z | BackDoor em Python by p0isontech | https://github.com/p0isontech/p0isonDoor | 1 | 0| 
 | 20231217T12:51:44Z | Persistent Powershell backdoor tool  | https://github.com/ELMERIKH/Keres | 6 | 0| 
-| 20231217T04:22:30Z | BackDoor em Python by p0isontech | https://github.com/p0isontech/p0isonDoor | 0 | 0| 
 | 20231217T02:24:39Z | Null | https://github.com/OjolCyberArmy/Ojol-Shell-Backdoor- | 0 | 0| 
 | 20231216T18:53:28Z | A webshell that can bypass some system security, all code has been obfuscated to bypass malware scans freely. | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 188 | 74| 
 | 20231216T14:15:25Z | Android Mobile | https://github.com/RENANZG/My-Android-Mobile | 4 | 1| 
-| 20231216T10:02:59Z | A framework for backdooring Microsoft Nuget packages. | https://github.com/mastercodeon314/NugetBackdoor | 3 | 0| 
-| 20231216T05:34:20Z | Backdoor test on SV model. | https://github.com/vkeilo/AudioBdoor | 0 | 0| 
-| 20231215T20:21:55Z | CraxsRAT V6 ( Powerful Android Remote Access Trojan ) for Android Phone Hacking | https://github.com/Rosenbaum-dev/CraxsRAT-V6 | 0 | 0| 
-| 20231215T20:13:20Z | python: server-client | https://github.com/alwsecond/PyBackdoor | 0 | 0| 
-| 20231215T16:51:42Z | Null | https://github.com/aravind-a-frontend/BackDoorHiring | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -120,16 +121,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231218T00:48:42Z | Null | https://github.com/zzl2022/fuzzy_fusion | 0 | 0| 
+| 20231218T00:40:22Z | Null | https://github.com/the-correo/fuzzy-moon | 0 | 0| 
+| 20231218T00:32:32Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50655 | 23377| 
+| 20231218T00:12:54Z | Fast and effective grammar-based fuzzing based on Gramatron | https://github.com/z2-2z/peacock | 0 | 0| 
+| 20231217T23:57:13Z | Null | https://github.com/ramismaris/fuzzy-goggles | 0 | 0| 
+| 20231217T22:30:13Z | Null | https://github.com/SametHaymana/grpcFuzzer | 0 | 0| 
+| 20231217T20:38:00Z | Fuzzy and MA-POCA: AIs that play games - CM3070 | https://github.com/ChrisCastelo/fuzzy_vs_poca | 0 | 0| 
+| 20231217T17:10:31Z | Null | https://github.com/Lisa1a2/fuzzy-sniffle | 0 | 0| 
+| 20231217T17:04:36Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5129 | 554| 
 | 20231217T13:15:02Z | Null | https://github.com/clydexavier/Lab-3-Fuzzy-Logic | 0 | 0| 
-| 20231217T12:46:32Z | The implementation of %Grammar-aware Test Case Trimming for Efficient Hybrid Fuzzing% | https://github.com/repository-for-review/ScissorFuzz | 0 | 0| 
-| 20231217T12:35:05Z | Null | https://github.com/PakYouMu/Fuzzy-Logic-Control-Systems | 0 | 0| 
-| 20231217T11:30:07Z | SMAP projekt Fuzzy předpověď počasí | https://github.com/sakJH/FuzzyTemperature | 0 | 0| 
-| 20231217T10:51:08Z | FuzzyMedNet: An Explainable Deep Learning Framework for Medical Diagnostics | https://github.com/drama-404/FuzzyMedNet | 0 | 0| 
-| 20231217T10:48:26Z | Null | https://github.com/IreneAsensio/fuzzing-project | 0 | 0| 
-| 20231217T10:37:08Z | Null | https://github.com/PromptFuzz/PromptFuzz | 0 | 0| 
-| 20231217T10:13:46Z | :v | https://github.com/Thientran13057/fuzzy-octo-palm-tree | 0 | 0| 
-| 20231217T09:04:20Z | Null | https://github.com/Kamali2003/-Kamali2003-Type-2-fuzzy-for-Hate-speech-detection-in-Twitter- | 0 | 0| 
-| 20231217T08:22:20Z | Null | https://github.com/CaptureVibes/fuzzy-fortnight | 0 | 0| 
 
 
 
