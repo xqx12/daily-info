@@ -67,7 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231218T13:03:31Z | RCECODE is a code which has code to exploit the RCE via package dependency confusion  | https://github.com/jeetpal2007/RCECODE | 0 | 0| 
+| 20231218T13:04:05Z | RCECODE is a code which has code to exploit the RCE via package dependency confusion  | https://github.com/jeetpal2007/RCECODE | 0 | 0| 
 | 20231218T12:55:25Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-o | 1 | 0| 
 | 20231218T12:51:47Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-o | 1 | 0| 
 | 20231218T12:50:56Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-o | 1 | 0| 
@@ -82,7 +82,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231218T12:56:41Z | Backdoor_Attacks FullStack | https://github.com/Barundeepsingh/Backdoor_Attacks | 0 | 0| 
+| 20231218T13:06:21Z | Backdoor_Attacks FullStack | https://github.com/Barundeepsingh/Backdoor_Attacks | 0 | 0| 
 | 20231218T12:50:00Z | Persistent Powershell backdoor tool  | https://github.com/ELMERIKH/Keres | 14 | 1| 
 | 20231218T12:19:31Z | This repository is a collection of my personal writeups for the challenges I tackled during the Backdoor CTF 2023. The event showcased a wide array of high-quality challenges that provided a great learning experience. I hope that these writeups will be useful for others who are interested in CTFs and cybersecurity. | https://github.com/Lyther/Backdoor-CTF-2023-Writeups | 0 | 0| 
 | 20231218T11:08:16Z | The core code for our paper %Beyond Traditional Threats: A Persistent Backdoor Attack on Federated Learning%. | https://github.com/PhD-TaoLiu/FCBA | 0 | 0| 
