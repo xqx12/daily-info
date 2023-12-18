@@ -82,6 +82,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231218T13:26:56Z | Code for paper: PoisonPrompt: Backdoor Attack on Prompt-based Large Language Models, IEEE ICASSP 2024 | https://github.com/grasses/PoisonPrompt | 2 | 0| 
 | 20231218T13:21:59Z | Persistent Powershell backdoor tool  | https://github.com/ELMERIKH/Keres | 16 | 1| 
 | 20231218T13:06:21Z | Backdoor_Attacks FullStack | https://github.com/Barundeepsingh/Backdoor_Attacks | 0 | 0| 
 | 20231218T12:19:31Z | This repository is a collection of my personal writeups for the challenges I tackled during the Backdoor CTF 2023. The event showcased a wide array of high-quality challenges that provided a great learning experience. I hope that these writeups will be useful for others who are interested in CTFs and cybersecurity. | https://github.com/Lyther/Backdoor-CTF-2023-Writeups | 0 | 0| 
@@ -91,7 +92,6 @@
 | 20231217T20:22:33Z | AsyncRAT stands as a Remote Access Tool (RAT) conceived for the purpose of distant supervision and command over remote computers through an encrypted connection ensuring security. | https://github.com/RexTeamss/AsyncRAT-Fud-Fixed-Dll-Remote-Administration-Tool-New | 0 | 0| 
 | 20231217T20:22:26Z | BitRAT CrackedIt is meticulously constructed utilizing the C++ programming language. It stands as the most recent iteration of the premier PC RAT for the year 2023. Regarded as a prized tool | https://github.com/RexTeamss/Bitrat-Hvnc-Rat-Remote-Control-Av-Bypass | 0 | 0| 
 | 20231217T20:21:18Z | VenomControl Rat is a Remote Access Tool (RAT) designed to remotely monitor and control other computers through a secure encrypted connection | https://github.com/RexTeamss/VenomControl-Rat-Crack-Source | 0 | 0| 
-| 20231217T20:21:13Z | Computing) capabilities. It boasts compatibility with a spectrum of 20 concealed browsers. Pegasus HVNC facet facilitates the orchestration of a concealed desktop environment | https://github.com/RexTeamss/Pegasus-Pantheon-HVNC-V2-VNC-Hidden-Browser-Remote-Administration-Rat | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
