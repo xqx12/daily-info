@@ -73,7 +73,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231217T13:45:38Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 364 | 83| 
+| 20231217T18:15:43Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 719 | 128| 
+| 20231217T18:15:41Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2376 | 645| 
+| 20231217T18:15:40Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 363 | 83| 
 
 
 # big4 on Github 推荐
