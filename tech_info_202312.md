@@ -121,12 +121,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231218T02:02:38Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50656 | 23377| 
 | 20231218T01:43:50Z | Null | https://github.com/AshLQ/kernel_fuzz | 0 | 0| 
 | 20231218T01:19:33Z | projects  | https://github.com/ignViralX/fuzzy-system | 0 | 0| 
 | 20231218T01:02:35Z | The FuzzyLite Libraries for Fuzzy Logic Control | https://github.com/fuzzylite/fuzzylite.github.io | 0 | 0| 
 | 20231218T00:48:42Z | Null | https://github.com/zzl2022/fuzzy_fusion | 0 | 0| 
 | 20231218T00:40:22Z | Null | https://github.com/the-correo/fuzzy-moon | 0 | 0| 
-| 20231218T00:32:32Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50655 | 23377| 
 | 20231218T00:12:54Z | Fast and effective grammar-based fuzzing based on Gramatron | https://github.com/z2-2z/peacock | 0 | 0| 
 | 20231217T23:57:13Z | Null | https://github.com/ramismaris/fuzzy-goggles | 0 | 0| 
 | 20231217T22:30:13Z | Null | https://github.com/SametHaymana/grpcFuzzer | 0 | 0| 
