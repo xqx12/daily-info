@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231218T02:11:06Z | Null | https://github.com/L1ghtsou1/Exploit | 0 | 0| 
 | 20231218T01:42:50Z | An access control flaw was identified, potentially leading to unauthorized access to critical webservice endpoints within Joomla! CMS versions 4.0.0 through 4.2.7. This vulnerability could be exploited by attackers to gain unauthorized access to sensitive information or perform unauthorized actions. | https://github.com/JeneralMotors/CVE-2023-23752 | 0 | 0| 
 | 20231218T01:14:47Z | MajorDoMo Unauthenticated RCE: Deep Dive & Exploitation Techniques | https://github.com/Chocapikk/CVE-2023-50917 | 0 | 0| 
 | 20231217T23:34:22Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-x | 1 | 0| 
@@ -75,7 +76,6 @@
 | 20231217T21:10:44Z | Multi-Function Program for Recon, Analysis, and Exploitation of Computerized & IOT devices. | https://github.com/clu3bot/Eclipse | 3 | 0| 
 | 20231217T19:55:16Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5575 | 1082| 
 | 20231217T16:28:49Z | External cheat for Rainbow Six Siege offering ESP, aimbot, and various tactical advantages. | https://github.com/Lazdrow/Klar-gg-Rainbow-Six-Siege-RS6-Esp-NoRroil-Hwid-Spoofer-Exploit | 0 | 0| 
-| 20231217T16:27:58Z | Developed for Escape From Tarkov and written in C++ and C#. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/Lazdrow/Escape-From-Tarkov-Eft-Aimbot-esp-Loots-Exploits-Max-Skills-High-Jump | 0 | 0| 
 
 
 # backdoor on Github 推荐
