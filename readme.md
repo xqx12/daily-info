@@ -19,7 +19,6 @@
 | 20231217T23:12:37Z | CVE-2023-49070 | Pre-auth RCE in Apache Ofbiz!! | https://github.com/0xrobiul/CVE-2023-49070 | | 
 | 20231217T21:26:06Z | CVE-2022-29063 | CVE-2022-29063: Java Deserialization via RMI Connection in Apache OfBiz | https://github.com/mbadanoiu/CVE-2022-29063 | | 
 | 20231217T20:56:52Z | CVE-2022-25813 | CVE-2022-25813: FreeMarker Server-Side Template Injection in Apache OfBiz  | https://github.com/mbadanoiu/CVE-2022-25813 | | 
-| 20231217T16:49:26Z | CVE-2023-6553 | Backup Migration <= 1.3.7 - Unauthenticated Remote Code Execution | https://github.com/Chocapikk/CVE-2023-6553 | | 
 | 20231217T14:31:29Z | CVE-2023-50164 | A scanning utility and PoC for CVE-2023-50164 | https://github.com/bcdannyboy/CVE-2023-50164 | | 
 | 20231217T13:32:17Z | CVE-2023-49070 | Null | https://github.com/abdoghazy2015/ofbiz-CVE-2023-49070-RCE-POC | | 
 | 20231217T09:11:52Z | CVE-2023-22524 | Atlassian Companion RCE Vulnerability Proof of Concept | https://github.com/ron-imperva/CVE-2023-22524 | | 
