@@ -11,6 +11,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20231218 | SecWiki周刊（第511期) | https://www.sec-wiki.com/weekly/511| 
+| 20231218 | CVE-2023-39785堆栈溢出漏洞分析 | https://mp.weixin.qq.com/s?__biz=Mzg4Nzk3MTg3MA==&mid=2247484732&idx=1&sn=5e8fce255a786deb0408c895ca6e7bda&chksm=cf830c4df8f4855bb78a59ba7c22ba3ed55741d60d7de15ee46faf8f7b8856867a0e0c0c5f2b&mpshare=1&scene=1&srcid=1218xHOu73EvIwUPm3S6pDQH&sharer_shar| 
 | 20231216 | 模拟 TLS 指纹实现反反爬 | https://mp.weixin.qq.com/s/kk5ihEWfhF_nTW3WGqCx3A| 
 | 20231216 | 基于飞书实现漏洞运营自动化 | https://mp.weixin.qq.com/s/42hjlsyjoAFREYMQoj9REw| 
 | 20231216 | 软件安全国内外研究团队调研报告（下） | https://mp.weixin.qq.com/s/gVC7wv2unhIU65_UPLjglw| 
@@ -19,43 +21,42 @@
 | 20231213 | 大模型在代码缺陷检测领域的应用实践 | https://mp.weixin.qq.com/s/kXSiXfgsezfLZjR-cGb5vg| 
 | 20231211 | SecWiki周刊（第510期) | https://www.sec-wiki.com/weekly/510| 
 | 20231211 | 使用知识图谱和Llama-Index实现基于大模型的RAG | https://mp.weixin.qq.com/s/d8iJ-Qmml4ZgSCIyWnQPYA| 
-| 20231211 | 对某嵌入式设备声波配网的研究 | https://mp.weixin.qq.com/s/pFtAfVEFoYQy5EziiAbcMw| 
-| 20231208 | 代码审计 , call_user_func 命令执行 | https://mp.weixin.qq.com/s/eFYvh0vNWZx1v_CuiikCyw| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231218T02:37:44Z | CVE-2023-50917 | MajorDoMo Unauthenticated RCE: Deep Dive & Exploitation Techniques | https://github.com/Chocapikk/CVE-2023-50917 | | 
-| 20231218T02:34:40Z | cve-2023-50164 | Proof of Concept for Path Traversal in Apache Struts ("CVE-2023-50164") | https://github.com/dwisiswant0/cve-2023-50164-poc | | 
+| 20231218T12:58:51Z | cve-2023-50164 | Null | https://github.com/helsecert/cve-2023-50164 | | 
+| 20231218T12:21:29Z | cve-2023-50164 | Proof of Concept for Path Traversal in Apache Struts ("CVE-2023-50164") | https://github.com/dwisiswant0/cve-2023-50164-poc | | 
+| 20231218T12:03:47Z | 未知编号 | Null | https://github.com/SangPenyalang/CVE2023-29484 | | 
+| 20231218T10:06:10Z | CVE-2023-50917 | MajorDoMo Unauthenticated RCE: Deep Dive & Exploitation Techniques | https://github.com/Chocapikk/CVE-2023-50917 | | 
+| 20231218T09:29:48Z | CVE-2023-6538 | Null | https://github.com/Arszilla/CVE-2023-6538 | | 
+| 20231218T09:24:20Z | CVE-2023-5808 | Null | https://github.com/Arszilla/CVE-2023-5808 | | 
 | 20231218T01:49:53Z | CVE-2023-6553 | Backup Migration <= 1.3.7 - Unauthenticated Remote Code Execution | https://github.com/Chocapikk/CVE-2023-6553 | | 
 | 20231218T01:42:50Z | CVE-2023-23752 | An access control flaw was identified, potentially leading to unauthorized access to critical webservice endpoints within Joomla! CMS versions 4.0.0 through 4.2.7. This vulnerability could be exploited by attackers to gain unauthorized access to sensitive information or perform unauthorized actions. | https://github.com/JeneralMotors/CVE-2023-23752 | | 
 | 20231217T23:12:37Z | CVE-2023-49070 | Pre-auth RCE in Apache Ofbiz!! | https://github.com/0xrobiul/CVE-2023-49070 | | 
 | 20231217T21:26:06Z | CVE-2022-29063 | CVE-2022-29063: Java Deserialization via RMI Connection in Apache OfBiz | https://github.com/mbadanoiu/CVE-2022-29063 | | 
-| 20231217T20:56:52Z | CVE-2022-25813 | CVE-2022-25813: FreeMarker Server-Side Template Injection in Apache OfBiz  | https://github.com/mbadanoiu/CVE-2022-25813 | | 
-| 20231217T14:31:29Z | CVE-2023-50164 | A scanning utility and PoC for CVE-2023-50164 | https://github.com/bcdannyboy/CVE-2023-50164 | | 
-| 20231217T13:32:17Z | CVE-2023-49070 | Null | https://github.com/abdoghazy2015/ofbiz-CVE-2023-49070-RCE-POC | | 
-| 20231217T09:11:52Z | CVE-2023-22524 | Atlassian Companion RCE Vulnerability Proof of Concept | https://github.com/ron-imperva/CVE-2023-22524 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231218T02:45:37Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14672 | 435| 
+| 20231218T12:37:21Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 101 | 22| 
+| 20231218T11:43:36Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14681 | 435| 
+| 20231218T06:28:12Z | Null | https://github.com/klee0589/klee0589.github.io | 0 | 0| 
+| 20231218T05:00:01Z | fan remake of the game Bomberman but with Klee from Genshin Impact as bomberman | https://github.com/Maractus6/Klee-er-Man | 0 | 0| 
 | 20231217T18:15:41Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2376 | 645| 
 | 20231217T12:39:17Z | Null | https://github.com/nailstring/klee_tests | 0 | 0| 
 | 20231214T19:05:47Z | [Курсовая работа 2 курс (поздний залив)] Генератор парсеров на основе алгоритма Эрли | https://github.com/herrpaulvd/HappyKleene | 0 | 0| 
-| 20231214T03:02:56Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 100 | 22| 
 | 20231212T18:33:52Z | A library for displaying state machine diagrams | https://github.com/coderocket/Cuis-Smalltalk-Kleene | 0 | 0| 
 | 20231212T17:00:02Z | Null | https://github.com/noahknapen/afl_and_klee_projects | 0 | 0| 
 | 20231210T15:23:26Z | Null | https://github.com/metametamoon/klee-fork | 0 | 0| 
-| 20231209T21:10:02Z | Null | https://github.com/MATF-Software-Verification/2023_bgein_KLEE | 0 | 0| 
-| 20231209T21:09:52Z | Null | https://github.com/MATF-Software-Verification/2023_VLC-Media-Player_KLEE | 0 | 0| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231218T06:57:41Z | Semester 2 Bash, Docker, Documentation and various exercises | https://github.com/Sloopin/S2Exercises | 0 | 0| 
 | 20231217T18:15:40Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 363 | 83| 
 | 20231217T15:23:35Z | Documents for Spacecraft Simulation Environment | https://github.com/ut-issl/s2e-documents | 9 | 6| 
 | 20231215T05:51:37Z | Null | https://github.com/theoim/S2E_config_module_base | 0 | 0| 
@@ -66,31 +67,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231218T12:55:25Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-o | 1 | 0| 
+| 20231218T12:51:47Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-o | 1 | 0| 
+| 20231218T12:50:56Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-o | 1 | 0| 
+| 20231218T12:50:16Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-o | 1 | 0| 
+| 20231218T12:40:59Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6230 | 813| 
+| 20231218T12:00:44Z | Config files for my GitHub profile. | https://github.com/Felix-Exploit/Felix-Exploit | 0 | 0| 
+| 20231218T09:31:02Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5725 | 727| 
 | 20231218T02:37:44Z | MajorDoMo Unauthenticated RCE: Deep Dive & Exploitation Techniques | https://github.com/Chocapikk/CVE-2023-50917 | 1 | 0| 
 | 20231218T02:25:09Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0053-app-RrC4e-voice-exploit | 0 | 0| 
 | 20231218T02:11:06Z | Null | https://github.com/L1ghtsou1/Exploit | 0 | 0| 
-| 20231218T01:42:50Z | An access control flaw was identified, potentially leading to unauthorized access to critical webservice endpoints within Joomla! CMS versions 4.0.0 through 4.2.7. This vulnerability could be exploited by attackers to gain unauthorized access to sensitive information or perform unauthorized actions. | https://github.com/JeneralMotors/CVE-2023-23752 | 0 | 0| 
-| 20231217T23:34:22Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-x | 1 | 0| 
-| 20231217T23:33:51Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-x | 1 | 0| 
-| 20231217T23:33:08Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-x | 1 | 0| 
-| 20231217T23:32:34Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-x | 1 | 0| 
-| 20231217T21:10:44Z | Multi-Function Program for Recon, Analysis, and Exploitation of Computerized & IOT devices. | https://github.com/clu3bot/Eclipse | 3 | 0| 
-| 20231217T19:55:16Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5575 | 1082| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231218T12:56:41Z | Backdoor_Attacks FullStack | https://github.com/Barundeepsingh/Backdoor_Attacks | 0 | 0| 
+| 20231218T12:50:00Z | Persistent Powershell backdoor tool  | https://github.com/ELMERIKH/Keres | 14 | 1| 
+| 20231218T12:19:31Z | This repository is a collection of my personal writeups for the challenges I tackled during the Backdoor CTF 2023. The event showcased a wide array of high-quality challenges that provided a great learning experience. I hope that these writeups will be useful for others who are interested in CTFs and cybersecurity. | https://github.com/Lyther/Backdoor-CTF-2023-Writeups | 0 | 0| 
+| 20231218T11:08:16Z | The core code for our paper %Beyond Traditional Threats: A Persistent Backdoor Attack on Federated Learning%. | https://github.com/PhD-TaoLiu/FCBA | 0 | 0| 
+| 20231218T08:22:48Z | The core code for our paper %Beyond Traditional Threats: A Persistent Backdoor Attack on Federated Learning%. | https://github.com/PhD-TaoLiu/HEU_ISRC_FCBA | 0 | 0| 
+| 20231218T05:59:01Z | Codes for Dual Stealthy Backdoor | https://github.com/ifen1/Dual-Stealthy-Backdoor | 0 | 0| 
 | 20231217T20:22:33Z | AsyncRAT stands as a Remote Access Tool (RAT) conceived for the purpose of distant supervision and command over remote computers through an encrypted connection ensuring security. | https://github.com/RexTeamss/AsyncRAT-Fud-Fixed-Dll-Remote-Administration-Tool-New | 0 | 0| 
 | 20231217T20:22:26Z | BitRAT CrackedIt is meticulously constructed utilizing the C++ programming language. It stands as the most recent iteration of the premier PC RAT for the year 2023. Regarded as a prized tool | https://github.com/RexTeamss/Bitrat-Hvnc-Rat-Remote-Control-Av-Bypass | 0 | 0| 
 | 20231217T20:21:18Z | VenomControl Rat is a Remote Access Tool (RAT) designed to remotely monitor and control other computers through a secure encrypted connection | https://github.com/RexTeamss/VenomControl-Rat-Crack-Source | 0 | 0| 
 | 20231217T20:21:13Z | Computing) capabilities. It boasts compatibility with a spectrum of 20 concealed browsers. Pegasus HVNC facet facilitates the orchestration of a concealed desktop environment | https://github.com/RexTeamss/Pegasus-Pantheon-HVNC-V2-VNC-Hidden-Browser-Remote-Administration-Rat | 0 | 0| 
-| 20231217T16:04:58Z | open a f**king backdoor! | https://github.com/Halfapear/Picoducky-backdoor | 0 | 0| 
-| 20231217T14:58:02Z | BackDoor em Python by p0isontech | https://github.com/p0isontech/p0isonDoor | 1 | 0| 
-| 20231217T12:51:44Z | Persistent Powershell backdoor tool  | https://github.com/ELMERIKH/Keres | 6 | 0| 
-| 20231217T02:24:39Z | Null | https://github.com/OjolCyberArmy/Ojol-Shell-Backdoor- | 0 | 0| 
-| 20231216T18:53:28Z | A webshell that can bypass some system security, all code has been obfuscated to bypass malware scans freely. | https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor | 188 | 74| 
-| 20231216T14:15:25Z | Android Mobile | https://github.com/RENANZG/My-Android-Mobile | 4 | 1| 
 
 
 # symbolic execution on Github 推荐
@@ -121,16 +122,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231218T11:51:24Z | Solidity Fuzzing Library | https://github.com/perimetersec/fuzzlib | 0 | 0| 
+| 20231218T11:19:37Z | This assets is a source code for OutSystems External Logic FuzzyWuzzy  Fuzzy string matching like a boss. It uses Levenshtein Distance to calculate the differences between sequences in a simple-to-use package | https://github.com/doitleanlabs/odc-fuzzywuzzy | 0 | 0| 
+| 20231218T10:51:37Z | Testing C++ pipeline | https://github.com/FarizKesten/fuzz_cpp_pipeline | 0 | 0| 
+| 20231218T10:35:13Z | CATS is a REST API Fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and do not require maintenance. | https://github.com/Endava/cats | 1030 | 71| 
+| 20231218T10:09:19Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9244 | 2070| 
+| 20231218T08:47:43Z | Null | https://github.com/google/fuzztest | 489 | 40| 
 | 20231218T02:34:18Z | Null | https://github.com/VZachary13/fuzzy-octo-spoon | 0 | 0| 
 | 20231218T02:02:38Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50656 | 23377| 
 | 20231218T01:43:50Z | Null | https://github.com/AshLQ/kernel_fuzz | 0 | 0| 
 | 20231218T01:19:33Z | projects  | https://github.com/ignViralX/fuzzy-system | 0 | 0| 
-| 20231218T01:02:35Z | The FuzzyLite Libraries for Fuzzy Logic Control | https://github.com/fuzzylite/fuzzylite.github.io | 0 | 0| 
-| 20231218T00:48:42Z | Null | https://github.com/zzl2022/fuzzy_fusion | 0 | 0| 
-| 20231218T00:40:22Z | Null | https://github.com/the-correo/fuzzy-moon | 0 | 0| 
-| 20231218T00:12:54Z | Fast and effective grammar-based fuzzing based on Gramatron | https://github.com/z2-2z/peacock | 0 | 0| 
-| 20231217T23:57:13Z | Null | https://github.com/ramismaris/fuzzy-goggles | 0 | 0| 
-| 20231217T22:30:13Z | Null | https://github.com/SametHaymana/grpcFuzzer | 0 | 0| 
 
 
 
