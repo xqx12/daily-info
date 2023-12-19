@@ -122,6 +122,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231219T02:05:02Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 931 | 211| 
 | 20231219T02:02:19Z | Null | https://github.com/ooxcrimson/fuzzy-happiness | 0 | 0| 
 | 20231219T01:25:34Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4950 | 1180| 
 | 20231219T00:14:26Z | Null | https://github.com/tielur3000/fuzzy-moon | 0 | 0| 
@@ -131,7 +132,6 @@
 | 20231218T19:34:35Z | fzf-like fuzzy-finder as a Go library | https://github.com/ktr0731/go-fuzzyfinder | 401 | 42| 
 | 20231218T14:37:30Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9246 | 2069| 
 | 20231218T13:54:57Z | Fuzzing Superform ERC1155-A contract. | https://github.com/0xpolarzero/superform-erc1155a-fuzzing | 0 | 0| 
-| 20231218T11:51:24Z | Solidity Fuzzing Library | https://github.com/perimetersec/fuzzlib | 0 | 0| 
 
 
 
