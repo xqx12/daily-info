@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231219T13:01:43Z | CVE-2023-1337 | Null | https://github.com/DARKSECshell/CVE-2023-1337 | | 
 | 20231219T12:15:47Z | cve-2023-50164 | Proof of Concept for Path Traversal in Apache Struts ("CVE-2023-50164") | https://github.com/dwisiswant0/cve-2023-50164-poc | | 
 | 20231219T11:38:45Z | CVE-2023-50917 | MajorDoMo Unauthenticated RCE: Deep Dive & Exploitation Techniques | https://github.com/Chocapikk/CVE-2023-50917 | | 
 | 20231219T11:24:48Z | CVE-2023-41772 | Null | https://github.com/R41N3RZUF477/CVE-2023-41772 | | 
@@ -35,7 +36,6 @@
 | 20231218T14:00:13Z | CVE-2020-11651 | Repository that contains a CVE-2020-11651 Exploit updated to work with the latest versions of python. | https://github.com/hardsoftsecurity/CVE-2020-11651-PoC | | 
 | 20231218T12:58:51Z | cve-2023-50164 | Null | https://github.com/helsecert/cve-2023-50164 | | 
 | 20231218T12:03:47Z | 未知编号 | Null | https://github.com/SangPenyalang/CVE2023-29484 | | 
-| 20231218T09:29:48Z | CVE-2023-6538 | Null | https://github.com/Arszilla/CVE-2023-6538 | | 
 
 
 # klee on Github 推荐
