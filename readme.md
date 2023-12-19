@@ -55,7 +55,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231219T12:16:54Z | Persistent Powershell backdoor tool  | https://github.com/ELMERIKH/Keres | 39 | 6| 
+| 20231219T13:11:08Z | Persistent Powershell backdoor tool  | https://github.com/ELMERIKH/Keres | 40 | 6| 
 | 20231219T08:27:32Z | Manage local ssh connections with HTML/Nodejs app ~ You can inspect the code and won%t find any backdoor | https://github.com/Pispros/free-html-local-ssh-manager | 2 | 0| 
 | 20231219T07:41:59Z | VenomControl Rat is a Remote Access Tool (RAT) designed to remotely monitor and control other computers through a secure encrypted connection | https://github.com/RexTeamss/VenomControl-Rat-Crack-Source | 1 | 0| 
 | 20231219T06:13:26Z | [ICML 2023] Official code implementation of %Chameleon: Adapting to Peer Images for Planting Durable Backdoors in Federated Learning (https://proceedings.mlr.press/v202/dai23a)% | https://github.com/ybdai7/Chameleon-durable-backdoor | 21 | 1| 
