@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231219T02:46:42Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0028-app-Q48_l-publish-exploit | 0 | 0| 
 | 20231219T01:19:16Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0055-app-UL-J0-exploit-repeat | 0 | 0| 
 | 20231219T00:11:15Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-r | 1 | 0| 
 | 20231219T00:10:33Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-r | 1 | 0| 
@@ -76,7 +77,6 @@
 | 20231218T20:32:38Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 765 | 185| 
 | 20231218T15:10:54Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5580 | 1083| 
 | 20231218T13:56:42Z | Repository that contains a CVE-2020-11651 Exploit updated to work with the latest versions of python. | https://github.com/hardsoftsecurity/CVE-2020-11651-PoC | 0 | 0| 
-| 20231218T13:04:05Z | RCECODE is a code which has code to exploit the RCE via package dependency confusion  | https://github.com/jeetpal2007/RCECODE | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -122,7 +122,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231219T02:55:45Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50673 | 23382| 
+| 20231219T02:57:28Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50674 | 23382| 
 | 20231219T02:26:10Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1643 | 246| 
 | 20231219T02:05:02Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 931 | 211| 
 | 20231219T02:02:19Z | Null | https://github.com/ooxcrimson/fuzzy-happiness | 0 | 0| 
