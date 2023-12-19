@@ -89,7 +89,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20231218T23:38:11Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50671 | 23382| 
-| 20231218T23:10:40Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4949 | 1180| 
 | 20231218T23:09:51Z | Null | https://github.com/jasonli0616/fuzzpedal | 0 | 0| 
 | 20231218T22:46:49Z | Null | https://github.com/Sweetlittlestars/fuzzysearch | 0 | 0| 
 | 20231218T19:34:35Z | fzf-like fuzzy-finder as a Go library | https://github.com/ktr0731/go-fuzzyfinder | 401 | 42| 
@@ -98,6 +97,7 @@
 | 20231218T11:51:24Z | Solidity Fuzzing Library | https://github.com/perimetersec/fuzzlib | 0 | 0| 
 | 20231218T11:19:37Z | This assets is a source code for OutSystems External Logic FuzzyWuzzy  Fuzzy string matching like a boss. It uses Levenshtein Distance to calculate the differences between sequences in a simple-to-use package | https://github.com/doitleanlabs/odc-fuzzywuzzy | 0 | 0| 
 | 20231218T10:51:37Z | Testing C++ pipeline | https://github.com/FarizKesten/fuzz_cpp_pipeline | 0 | 0| 
+| 20231218T10:35:13Z | CATS is a REST API Fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and do not require maintenance. | https://github.com/Endava/cats | 1030 | 71| 
 
 
 
