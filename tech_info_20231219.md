@@ -40,6 +40,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231219T13:56:35Z | WarSQLi; %SQL% sunucularında (MS-SQL, MySQL,) bulunan zayıf şifre denemelerini gerçekleştirmek ve tespit edilen SQL hesaplarını kullanarak post exploitation yapmak üzere geliştirilmiştir. | https://github.com/mindspoof/WarSQLi | 21 | 7| 
 | 20231219T13:11:26Z | Null | https://github.com/iantstaley/Token-Weighted-Governance-Security-Exploit-Using-AAVE-Flash-Loans | 0 | 0| 
 | 20231219T12:39:31Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5727 | 727| 
 | 20231219T10:53:15Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5581 | 1083| 
@@ -49,7 +50,6 @@
 | 20231219T01:19:16Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0055-app-UL-J0-exploit-repeat | 0 | 0| 
 | 20231219T00:11:15Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-r | 1 | 0| 
 | 20231219T00:10:33Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-r | 1 | 0| 
-| 20231219T00:09:38Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-r | 1 | 0| 
 
 
 # backdoor on Github 推荐
