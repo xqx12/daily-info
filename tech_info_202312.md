@@ -122,6 +122,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231219T13:30:49Z | Fuzzing(AFL++) | https://github.com/young017/Fuzzing-AFL- | 0 | 0| 
 | 20231219T12:47:40Z | A fuzzer for pwn. | https://github.com/Du-Mu/IntFuzzer | 0 | 0| 
 | 20231219T11:10:40Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4160 | 852| 
 | 20231219T10:43:07Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 1007 | 256| 
@@ -131,7 +132,6 @@
 | 20231219T10:22:56Z | A collection of depth-limited grammar fuzzers implemented in C | https://github.com/Positron11/fuzzer | 0 | 0| 
 | 20231219T02:57:28Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50674 | 23382| 
 | 20231219T02:26:10Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1643 | 246| 
-| 20231219T02:05:02Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 931 | 211| 
 
 
 
