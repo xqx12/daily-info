@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231219T13:11:26Z | Null | https://github.com/iantstaley/Token-Weighted-Governance-Security-Exploit-Using-AAVE-Flash-Loans | 0 | 0| 
 | 20231219T12:39:31Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5727 | 727| 
 | 20231219T10:53:15Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5581 | 1083| 
 | 20231219T10:30:35Z | A radix-2 fft implementation in VHDL exploiting differents BUTTERFLY units  | https://github.com/pauliedrico/BUTTERFLY-FFT-RAD2 | 0 | 0| 
@@ -76,7 +77,6 @@
 | 20231219T00:11:15Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-r | 1 | 0| 
 | 20231219T00:10:33Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-r | 1 | 0| 
 | 20231219T00:09:38Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-r | 1 | 0| 
-| 20231219T00:08:14Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-r | 1 | 0| 
 
 
 # backdoor on Github 推荐
