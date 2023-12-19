@@ -122,11 +122,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231219T02:14:12Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50672 | 23383| 
 | 20231219T02:05:02Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 931 | 211| 
 | 20231219T02:02:19Z | Null | https://github.com/ooxcrimson/fuzzy-happiness | 0 | 0| 
 | 20231219T01:25:34Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4950 | 1180| 
 | 20231219T00:14:26Z | Null | https://github.com/tielur3000/fuzzy-moon | 0 | 0| 
-| 20231218T23:38:11Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50671 | 23382| 
 | 20231218T23:09:51Z | Null | https://github.com/jasonli0616/fuzzpedal | 0 | 0| 
 | 20231218T22:46:49Z | Null | https://github.com/Sweetlittlestars/fuzzysearch | 0 | 0| 
 | 20231218T19:34:35Z | fzf-like fuzzy-finder as a Go library | https://github.com/ktr0731/go-fuzzyfinder | 401 | 42| 
