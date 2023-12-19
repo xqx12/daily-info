@@ -18,7 +18,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231218T23:51:14Z | cve-2023-50164 | Proof of Concept for Path Traversal in Apache Struts ("CVE-2023-50164") | https://github.com/dwisiswant0/cve-2023-50164-poc | | 
 | 20231218T18:25:21Z | CVE-2020-12124 | An implementation of a proof-of-concept for CVE-2020-12124 | https://github.com/Scorpion-Security-Labs/CVE-2020-12124 | | 
 | 20231218T17:44:46Z | CVE-2023-49070 | Exploit Of Pre-auth RCE in Apache Ofbiz!! | https://github.com/0xrobiul/CVE-2023-49070 | | 
 | 20231218T14:27:09Z | CVE-2023-50917 | MajorDoMo Unauthenticated RCE: Deep Dive & Exploitation Techniques | https://github.com/Chocapikk/CVE-2023-50917 | | 
@@ -28,6 +27,7 @@
 | 20231218T09:29:48Z | CVE-2023-6538 | Null | https://github.com/Arszilla/CVE-2023-6538 | | 
 | 20231218T09:24:20Z | CVE-2023-5808 | Null | https://github.com/Arszilla/CVE-2023-5808 | | 
 | 20231218T01:49:53Z | CVE-2023-6553 | Backup Migration <= 1.3.7 - Unauthenticated Remote Code Execution | https://github.com/Chocapikk/CVE-2023-6553 | | 
+| 20231218T01:42:50Z | CVE-2023-23752 | An access control flaw was identified, potentially leading to unauthorized access to critical webservice endpoints within Joomla! CMS versions 4.0.0 through 4.2.7. This vulnerability could be exploited by attackers to gain unauthorized access to sensitive information or perform unauthorized actions. | https://github.com/JeneralMotors/CVE-2023-23752 | | 
 
 
 # klee on Github 推荐

@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231218T23:51:14Z | cve-2023-50164 | Proof of Concept for Path Traversal in Apache Struts ("CVE-2023-50164") | https://github.com/dwisiswant0/cve-2023-50164-poc | | 
+| 20231219T01:51:21Z | cve-2023-50164 | Proof of Concept for Path Traversal in Apache Struts ("CVE-2023-50164") | https://github.com/dwisiswant0/cve-2023-50164-poc | | 
 | 20231218T18:25:21Z | CVE-2020-12124 | An implementation of a proof-of-concept for CVE-2020-12124 | https://github.com/Scorpion-Security-Labs/CVE-2020-12124 | | 
 | 20231218T17:44:46Z | CVE-2023-49070 | Exploit Of Pre-auth RCE in Apache Ofbiz!! | https://github.com/0xrobiul/CVE-2023-49070 | | 
 | 20231218T14:27:09Z | CVE-2023-50917 | MajorDoMo Unauthenticated RCE: Deep Dive & Exploitation Techniques | https://github.com/Chocapikk/CVE-2023-50917 | | 
