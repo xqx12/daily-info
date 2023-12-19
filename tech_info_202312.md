@@ -122,6 +122,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231219T02:02:19Z | Null | https://github.com/ooxcrimson/fuzzy-happiness | 0 | 0| 
 | 20231219T01:25:34Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4950 | 1180| 
 | 20231219T00:14:26Z | Null | https://github.com/tielur3000/fuzzy-moon | 0 | 0| 
 | 20231218T23:38:11Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50671 | 23382| 
@@ -131,7 +132,6 @@
 | 20231218T14:37:30Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9246 | 2069| 
 | 20231218T13:54:57Z | Fuzzing Superform ERC1155-A contract. | https://github.com/0xpolarzero/superform-erc1155a-fuzzing | 0 | 0| 
 | 20231218T11:51:24Z | Solidity Fuzzing Library | https://github.com/perimetersec/fuzzlib | 0 | 0| 
-| 20231218T11:19:37Z | This assets is a source code for OutSystems External Logic FuzzyWuzzy  Fuzzy string matching like a boss. It uses Levenshtein Distance to calculate the differences between sequences in a simple-to-use package | https://github.com/doitleanlabs/odc-fuzzywuzzy | 0 | 0| 
 
 
 
