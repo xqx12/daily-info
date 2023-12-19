@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231219T13:01:43Z | CVE-2023-1337 | Null | https://github.com/DARKSECshell/CVE-2023-1337 | | 
+| 20231219T13:09:48Z | CVE-2023-1337 | Null | https://github.com/DARKSECshell/CVE-2023-1337 | | 
 | 20231219T12:15:47Z | cve-2023-50164 | Proof of Concept for Path Traversal in Apache Struts ("CVE-2023-50164") | https://github.com/dwisiswant0/cve-2023-50164-poc | | 
 | 20231219T11:38:45Z | CVE-2023-50917 | MajorDoMo Unauthenticated RCE: Deep Dive & Exploitation Techniques | https://github.com/Chocapikk/CVE-2023-50917 | | 
 | 20231219T11:24:48Z | CVE-2023-41772 | Null | https://github.com/R41N3RZUF477/CVE-2023-41772 | | 
