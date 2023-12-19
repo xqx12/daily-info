@@ -96,7 +96,7 @@
 | 20231218T11:19:37Z | This assets is a source code for OutSystems External Logic FuzzyWuzzy  Fuzzy string matching like a boss. It uses Levenshtein Distance to calculate the differences between sequences in a simple-to-use package | https://github.com/doitleanlabs/odc-fuzzywuzzy | 0 | 0| 
 | 20231218T10:51:37Z | Testing C++ pipeline | https://github.com/FarizKesten/fuzz_cpp_pipeline | 0 | 0| 
 | 20231218T10:35:13Z | CATS is a REST API Fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and do not require maintenance. | https://github.com/Endava/cats | 1030 | 71| 
-| 20231218T09:07:32Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1642 | 246| 
+| 20231218T08:47:43Z | Null | https://github.com/google/fuzztest | 489 | 40| 
 
 
 
