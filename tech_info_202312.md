@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231219T01:19:16Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0055-app-UL-J0-exploit-repeat | 0 | 0| 
 | 20231219T00:11:15Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-r | 1 | 0| 
 | 20231219T00:10:33Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-r | 1 | 0| 
 | 20231219T00:09:38Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-r | 1 | 0| 
@@ -76,7 +77,6 @@
 | 20231218T13:56:42Z | Repository that contains a CVE-2020-11651 Exploit updated to work with the latest versions of python. | https://github.com/hardsoftsecurity/CVE-2020-11651-PoC | 0 | 0| 
 | 20231218T13:04:05Z | RCECODE is a code which has code to exploit the RCE via package dependency confusion  | https://github.com/jeetpal2007/RCECODE | 0 | 0| 
 | 20231218T12:55:25Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-o | 1 | 0| 
-| 20231218T12:51:47Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-o | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -123,7 +123,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20231219T00:14:26Z | Null | https://github.com/tielur3000/fuzzy-moon | 0 | 0| 
-| 20231218T23:38:11Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50671 | 23381| 
+| 20231218T23:38:11Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50671 | 23382| 
 | 20231218T23:10:40Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4949 | 1180| 
 | 20231218T23:09:51Z | Null | https://github.com/jasonli0616/fuzzpedal | 0 | 0| 
 | 20231218T22:46:49Z | Null | https://github.com/Sweetlittlestars/fuzzysearch | 0 | 0| 

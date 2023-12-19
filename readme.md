@@ -88,7 +88,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231218T23:38:11Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50671 | 23381| 
+| 20231218T23:38:11Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50671 | 23382| 
 | 20231218T23:10:40Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4949 | 1180| 
 | 20231218T23:09:51Z | Null | https://github.com/jasonli0616/fuzzpedal | 0 | 0| 
 | 20231218T22:46:49Z | Null | https://github.com/Sweetlittlestars/fuzzysearch | 0 | 0| 
