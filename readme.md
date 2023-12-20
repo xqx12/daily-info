@@ -65,6 +65,7 @@
 | 20231219T08:27:32Z | Manage local ssh connections with HTML/Nodejs app ~ You can inspect the code and won%t find any backdoor | https://github.com/Pispros/free-html-local-ssh-manager | 2 | 0| 
 | 20231219T07:41:59Z | VenomControl Rat is a Remote Access Tool (RAT) designed to remotely monitor and control other computers through a secure encrypted connection | https://github.com/RexTeamss/VenomControl-Rat-Crack-Source | 1 | 0| 
 | 20231219T06:13:26Z | [ICML 2023] Official code implementation of %Chameleon: Adapting to Peer Images for Planting Durable Backdoors in Federated Learning (https://proceedings.mlr.press/v202/dai23a)% | https://github.com/ybdai7/Chameleon-durable-backdoor | 21 | 1| 
+| 20231219T05:02:13Z | This is the official implementation of our paper %DataElixir: Purifying Poisoned Dataset to Mitigate Backdoor Attacks via Diffusion Models%, accepted by AAAI 2024. | https://github.com/Manu21JC/DataElixir | 1 | 0| 
 | 20231219T01:00:03Z | Backdoor_Attacks FullStack | https://github.com/Barundeepsingh/Backdoor_Attacks | 0 | 1| 
 
 
