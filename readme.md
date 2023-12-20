@@ -46,13 +46,13 @@
 | 20231219T23:23:09Z | Python Exploitation is a collection of special tools for providing high quality penetration testing using pure python programming language. | https://github.com/EntySec/Pex | 26 | 5| 
 | 20231219T23:04:17Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-vv | 1 | 0| 
 | 20231219T21:19:49Z | A project that offers cheats developed with C++ for DayZ. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/34dsds/PROOFCORE-Dayz-Cheat-Hack-Aimbot-Esp-Exploit-Magic-Bullet-Spoofer-Misc | 0 | 0| 
+| 20231219T16:00:37Z | A linearity-exploiting sparse nonlinear constrained optimization problem solver that uses the interior-point method. | https://github.com/SleipnirGroup/Sleipnir | 21 | 3| 
 | 20231219T13:56:35Z | WarSQLi; %SQL% sunucularında (MS-SQL, MySQL,) bulunan zayıf şifre denemelerini gerçekleştirmek ve tespit edilen SQL hesaplarını kullanarak post exploitation yapmak üzere geliştirilmiştir. | https://github.com/mindspoof/WarSQLi | 21 | 7| 
 | 20231219T13:11:26Z | Null | https://github.com/iantstaley/Token-Weighted-Governance-Security-Exploit-Using-AAVE-Flash-Loans | 0 | 0| 
 | 20231219T12:39:31Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5727 | 727| 
 | 20231219T10:30:35Z | A radix-2 fft implementation in VHDL exploiting differents BUTTERFLY units  | https://github.com/pauliedrico/BUTTERFLY-FFT-RAD2 | 0 | 0| 
 | 20231219T10:02:23Z | payload yaml exploit xss | https://github.com/barttran2k/exploit_yaml | 0 | 0| 
 | 20231219T02:46:42Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0028-app-Q48_l-publish-exploit | 0 | 0| 
-| 20231219T01:19:16Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0055-app-UL-J0-exploit-repeat | 0 | 0| 
 
 
 # backdoor on Github 推荐

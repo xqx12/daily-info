@@ -73,10 +73,10 @@
 | 20231219T23:23:09Z | Python Exploitation is a collection of special tools for providing high quality penetration testing using pure python programming language. | https://github.com/EntySec/Pex | 26 | 5| 
 | 20231219T23:04:17Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-vv | 1 | 0| 
 | 20231219T21:19:49Z | A project that offers cheats developed with C++ for DayZ. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/34dsds/PROOFCORE-Dayz-Cheat-Hack-Aimbot-Esp-Exploit-Magic-Bullet-Spoofer-Misc | 0 | 0| 
+| 20231219T16:00:37Z | A linearity-exploiting sparse nonlinear constrained optimization problem solver that uses the interior-point method. | https://github.com/SleipnirGroup/Sleipnir | 21 | 3| 
 | 20231219T13:56:35Z | WarSQLi; %SQL% sunucularında (MS-SQL, MySQL,) bulunan zayıf şifre denemelerini gerçekleştirmek ve tespit edilen SQL hesaplarını kullanarak post exploitation yapmak üzere geliştirilmiştir. | https://github.com/mindspoof/WarSQLi | 21 | 7| 
 | 20231219T13:11:26Z | Null | https://github.com/iantstaley/Token-Weighted-Governance-Security-Exploit-Using-AAVE-Flash-Loans | 0 | 0| 
 | 20231219T12:39:31Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5727 | 727| 
-| 20231219T10:30:35Z | A radix-2 fft implementation in VHDL exploiting differents BUTTERFLY units  | https://github.com/pauliedrico/BUTTERFLY-FFT-RAD2 | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -122,6 +122,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231220T01:43:12Z | Bayot | https://github.com/Cliffshipazu/fuzzy-succotash | 0 | 0| 
 | 20231220T01:30:08Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50692 | 23383| 
 | 20231219T23:49:20Z | Null | https://github.com/flyingsnake5254/Apk_Fuzzer | 0 | 0| 
 | 20231219T20:21:21Z | Null | https://github.com/google/fuzztest | 494 | 40| 
@@ -131,7 +132,6 @@
 | 20231219T10:43:07Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 1007 | 256| 
 | 20231219T10:32:10Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5130 | 554| 
 | 20231219T10:31:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9250 | 2069| 
-| 20231219T10:27:11Z | Null | https://github.com/BELLAMKONDAAMBICAKIRANMAYEE/fuzzylogicreact | 0 | 0| 
 
 
 
