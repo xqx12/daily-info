@@ -89,6 +89,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20231220T13:12:13Z | Health  | https://github.com/erickaleed/fuzzy-pancake | 0 | 0| 
+| 20231220T13:10:39Z | Papers related to static analysis, fuzzing, and reduction. | https://github.com/0x21af/ipaper | 1 | 0| 
 | 20231220T11:37:06Z | Null | https://github.com/devjoel880/fuzzy-adventure | 0 | 0| 
 | 20231220T03:50:38Z | CATS is a REST API Fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and do not require maintenance. | https://github.com/Endava/cats | 1032 | 71| 
 | 20231220T03:17:35Z | Welcome to Hoyt%s macOS Fuzzing & Code Repo. Contribute Code or Open an Issue or Discussion. | https://github.com/xsscx/macos-research | 15 | 0| 
