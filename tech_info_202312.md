@@ -67,16 +67,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231220T00:37:53Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5581 | 1083| 
+| 20231220T00:24:09Z | Null | https://github.com/galaxqy/real-iready | 0 | 0| 
+| 20231220T00:21:55Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6234 | 814| 
+| 20231219T23:23:09Z | Python Exploitation is a collection of special tools for providing high quality penetration testing using pure python programming language. | https://github.com/EntySec/Pex | 26 | 5| 
+| 20231219T23:04:17Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-vv | 1 | 0| 
+| 20231219T21:19:49Z | A project that offers cheats developed with C++ for DayZ. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/34dsds/PROOFCORE-Dayz-Cheat-Hack-Aimbot-Esp-Exploit-Magic-Bullet-Spoofer-Misc | 0 | 0| 
 | 20231219T13:56:35Z | WarSQLi; %SQL% sunucularında (MS-SQL, MySQL,) bulunan zayıf şifre denemelerini gerçekleştirmek ve tespit edilen SQL hesaplarını kullanarak post exploitation yapmak üzere geliştirilmiştir. | https://github.com/mindspoof/WarSQLi | 21 | 7| 
 | 20231219T13:11:26Z | Null | https://github.com/iantstaley/Token-Weighted-Governance-Security-Exploit-Using-AAVE-Flash-Loans | 0 | 0| 
 | 20231219T12:39:31Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5727 | 727| 
-| 20231219T10:53:15Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5581 | 1083| 
 | 20231219T10:30:35Z | A radix-2 fft implementation in VHDL exploiting differents BUTTERFLY units  | https://github.com/pauliedrico/BUTTERFLY-FFT-RAD2 | 0 | 0| 
-| 20231219T10:02:23Z | payload yaml exploit xss | https://github.com/barttran2k/exploit_yaml | 0 | 0| 
-| 20231219T02:46:42Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0028-app-Q48_l-publish-exploit | 0 | 0| 
-| 20231219T01:19:16Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0055-app-UL-J0-exploit-repeat | 0 | 0| 
-| 20231219T00:11:15Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-r | 1 | 0| 
-| 20231219T00:10:33Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-r | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -97,7 +97,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231218T07:10:48Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 720 | 128| 
+| 20231219T23:08:38Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 721 | 128| 
 | 20231217T18:15:41Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2376 | 645| 
 | 20231217T18:15:40Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 363 | 83| 
 | 20231216T11:05:37Z | gradient-based symbolic execution engine implemented from scratch | https://github.com/Koukyosyumei/Gymbo | 29 | 0| 
@@ -112,8 +112,8 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231219T15:30:18Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 134 | 12| 
 | 20231219T10:09:15Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 105 | 4| 
-| 20231219T06:46:20Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 133 | 12| 
 | 20231215T04:35:58Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 35 | 2| 
 | 20231211T02:17:24Z | Source code for our NDSS%18 paper %Automated Website Fingerprinting through Deep Learning% | https://github.com/DistriNet/DLWF | 86 | 39| 
 | 20231201T16:33:57Z | 🧩 Local Minecraft server NGROK to deSEC forward script. Make your local server accessible by everyone with your custom domain!  | https://github.com/Minionguyjpro/NDSS | 1 | 0| 
