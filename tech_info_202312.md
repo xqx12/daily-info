@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231220T02:35:04Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0001-app-gAwZ3-exploit-consult | 0 | 0| 
 | 20231220T02:20:08Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5582 | 1083| 
 | 20231220T02:00:26Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0072-app-9K_n1-differ-exploit | 0 | 0| 
 | 20231220T01:43:31Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0026-app-d51Tf-think-exploit | 0 | 0| 
@@ -76,7 +77,6 @@
 | 20231219T23:23:09Z | Python Exploitation is a collection of special tools for providing high quality penetration testing using pure python programming language. | https://github.com/EntySec/Pex | 26 | 5| 
 | 20231219T23:04:17Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-vv | 1 | 0| 
 | 20231219T21:19:49Z | A project that offers cheats developed with C++ for DayZ. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/34dsds/PROOFCORE-Dayz-Cheat-Hack-Aimbot-Esp-Exploit-Magic-Bullet-Spoofer-Misc | 0 | 0| 
-| 20231219T16:00:37Z | A linearity-exploiting sparse nonlinear constrained optimization problem solver that uses the interior-point method. | https://github.com/SleipnirGroup/Sleipnir | 21 | 3| 
 
 
 # backdoor on Github 推荐
