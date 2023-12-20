@@ -67,6 +67,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231220T01:43:31Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0026-app-d51Tf-think-exploit | 0 | 0| 
+| 20231220T01:43:05Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0047-app-kWyaq-exploit-analyse | 0 | 0| 
 | 20231220T00:37:53Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5581 | 1083| 
 | 20231220T00:24:09Z | Null | https://github.com/galaxqy/real-iready | 0 | 0| 
 | 20231220T00:21:55Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6234 | 814| 
@@ -75,8 +77,6 @@
 | 20231219T21:19:49Z | A project that offers cheats developed with C++ for DayZ. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/34dsds/PROOFCORE-Dayz-Cheat-Hack-Aimbot-Esp-Exploit-Magic-Bullet-Spoofer-Misc | 0 | 0| 
 | 20231219T16:00:37Z | A linearity-exploiting sparse nonlinear constrained optimization problem solver that uses the interior-point method. | https://github.com/SleipnirGroup/Sleipnir | 21 | 3| 
 | 20231219T13:56:35Z | WarSQLi; %SQL% sunucularında (MS-SQL, MySQL,) bulunan zayıf şifre denemelerini gerçekleştirmek ve tespit edilen SQL hesaplarını kullanarak post exploitation yapmak üzere geliştirilmiştir. | https://github.com/mindspoof/WarSQLi | 21 | 7| 
-| 20231219T13:11:26Z | Null | https://github.com/iantstaley/Token-Weighted-Governance-Security-Exploit-Using-AAVE-Flash-Loans | 0 | 0| 
-| 20231219T12:39:31Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5727 | 727| 
 
 
 # backdoor on Github 推荐
