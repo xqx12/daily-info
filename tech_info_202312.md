@@ -123,6 +123,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231220T13:12:13Z | Health  | https://github.com/erickaleed/fuzzy-pancake | 0 | 0| 
 | 20231220T11:37:06Z | Null | https://github.com/devjoel880/fuzzy-adventure | 0 | 0| 
 | 20231220T03:50:38Z | CATS is a REST API Fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and do not require maintenance. | https://github.com/Endava/cats | 1032 | 71| 
 | 20231220T03:17:35Z | Welcome to Hoyt%s macOS Fuzzing & Code Repo. Contribute Code or Open an Issue or Discussion. | https://github.com/xsscx/macos-research | 15 | 0| 
@@ -132,7 +133,6 @@
 | 20231220T02:12:50Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50693 | 23383| 
 | 20231220T01:43:12Z | Bayot | https://github.com/Cliffshipazu/fuzzy-succotash | 0 | 0| 
 | 20231219T23:49:20Z | Null | https://github.com/flyingsnake5254/Apk_Fuzzer | 0 | 0| 
-| 20231219T20:21:21Z | Null | https://github.com/google/fuzztest | 494 | 40| 
 
 
 
