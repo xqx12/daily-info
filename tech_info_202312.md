@@ -12,6 +12,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20231219 | DeepWukong-基于图神经网络的软件漏洞静态检测方法 | https://mp.weixin.qq.com/s/k_1QqhwERiQ_4gBKaB1Qqg| 
+| 20231219 | 2023年数据泄露态势报告 | https://mp.weixin.qq.com/s/u4-f8iHEYeUvSWnzo9dTGw| 
 | 20231218 | SecWiki周刊（第511期) | https://www.sec-wiki.com/weekly/511| 
 | 20231218 | CVE-2023-39785堆栈溢出漏洞分析 | https://mp.weixin.qq.com/s?__biz=Mzg4Nzk3MTg3MA==&mid=2247484732&idx=1&sn=5e8fce255a786deb0408c895ca6e7bda&chksm=cf830c4df8f4855bb78a59ba7c22ba3ed55741d60d7de15ee46faf8f7b8856867a0e0c0c5f2b&mpshare=1&scene=1&srcid=1218xHOu73EvIwUPm3S6pDQH&sharer_shar| 
 | 20231216 | 模拟 TLS 指纹实现反反爬 | https://mp.weixin.qq.com/s/kk5ihEWfhF_nTW3WGqCx3A| 
@@ -20,28 +21,27 @@
 | 20231214 | 软件安全国内外研究团队调研报告（上） | https://mp.weixin.qq.com/s/lvdj5TzOPy_S9-MaYDfdcw| 
 | 20231213 | 2024年网络安全趋势简析 | https://mp.weixin.qq.com/s/bw-v8PMMiaS5RvZizqw-1A| 
 | 20231213 | 大模型在代码缺陷检测领域的应用实践 | https://mp.weixin.qq.com/s/kXSiXfgsezfLZjR-cGb5vg| 
-| 20231211 | SecWiki周刊（第510期) | https://www.sec-wiki.com/weekly/510| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231219T21:09:05Z | cve-2023-50164 | Proof of Concept for Path Traversal in Apache Struts ("CVE-2023-50164") | https://github.com/dwisiswant0/cve-2023-50164-poc | | 
+| 20231219T21:05:59Z | CVE-2023-49954 | SQL Injection in 3CX CRM Integration | https://github.com/CVE-2023-49954/CVE-2023-49954.github.io | | 
+| 20231219T20:32:57Z | CVE-2023-23752 | Binaries for "CVE-2023-23752" | https://github.com/gunzf0x/CVE-2023-23752 | | 
+| 20231219T14:10:49Z | CVE-2023-41772 | Null | https://github.com/R41N3RZUF477/CVE-2023-41772 | | 
 | 20231219T13:09:48Z | CVE-2023-1337 | Null | https://github.com/DARKSECshell/CVE-2023-1337 | | 
-| 20231219T12:15:47Z | cve-2023-50164 | Proof of Concept for Path Traversal in Apache Struts ("CVE-2023-50164") | https://github.com/dwisiswant0/cve-2023-50164-poc | | 
 | 20231219T11:38:45Z | CVE-2023-50917 | MajorDoMo Unauthenticated RCE: Deep Dive & Exploitation Techniques | https://github.com/Chocapikk/CVE-2023-50917 | | 
-| 20231219T11:24:48Z | CVE-2023-41772 | Null | https://github.com/R41N3RZUF477/CVE-2023-41772 | | 
 | 20231219T08:10:42Z | CVE-2023-49103 | OwnCloud CVE-2023-49103 | https://github.com/merlin-ke/OwnCloud-CVE-2023-49103 | | 
 | 20231218T18:25:21Z | CVE-2020-12124 | An implementation of a proof-of-concept for CVE-2020-12124 | https://github.com/Scorpion-Security-Labs/CVE-2020-12124 | | 
 | 20231218T17:44:46Z | CVE-2023-49070 | Exploit Of Pre-auth RCE in Apache Ofbiz!! | https://github.com/0xrobiul/CVE-2023-49070 | | 
 | 20231218T14:00:13Z | CVE-2020-11651 | Repository that contains a CVE-2020-11651 Exploit updated to work with the latest versions of python. | https://github.com/hardsoftsecurity/CVE-2020-11651-PoC | | 
-| 20231218T12:58:51Z | cve-2023-50164 | Null | https://github.com/helsecert/cve-2023-50164 | | 
-| 20231218T12:03:47Z | 未知编号 | Null | https://github.com/SangPenyalang/CVE2023-29484 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231219T12:35:36Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14691 | 435| 
+| 20231219T15:54:32Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14693 | 435| 
 | 20231219T12:35:10Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 102 | 22| 
 | 20231218T06:28:12Z | Null | https://github.com/klee0589/klee0589.github.io | 0 | 0| 
 | 20231218T05:00:01Z | fan remake of the game Bomberman but with Klee from Genshin Impact as bomberman | https://github.com/Maractus6/Klee-er-Man | 0 | 0| 
@@ -82,16 +82,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231219T13:11:08Z | Persistent Powershell backdoor tool  | https://github.com/ELMERIKH/Keres | 40 | 6| 
+| 20231219T22:08:37Z | Persistent Powershell backdoor tool  | https://github.com/ELMERIKH/Keres | 45 | 7| 
+| 20231219T18:45:31Z | Null | https://github.com/SaravanaGuhan/Backdoor_Attack_Showing_WiFi_Passwords | 0 | 0| 
+| 20231219T17:42:48Z | Federated learning backdoor attack detection with persistence diagram | https://github.com/mzhyui/PD-FL | 0 | 0| 
+| 20231219T14:25:07Z | AsyncRAT stands as a Remote Access Tool (RAT) conceived for the purpose of distant supervision and command over remote computers through an encrypted connection ensuring security. | https://github.com/RexTeamss/AsyncRAT-Fud-Fixed-Dll-Remote-Administration-Tool-New | 1 | 0| 
 | 20231219T08:27:32Z | Manage local ssh connections with HTML/Nodejs app ~ You can inspect the code and won%t find any backdoor | https://github.com/Pispros/free-html-local-ssh-manager | 2 | 0| 
 | 20231219T07:41:59Z | VenomControl Rat is a Remote Access Tool (RAT) designed to remotely monitor and control other computers through a secure encrypted connection | https://github.com/RexTeamss/VenomControl-Rat-Crack-Source | 1 | 0| 
 | 20231219T06:13:26Z | [ICML 2023] Official code implementation of %Chameleon: Adapting to Peer Images for Planting Durable Backdoors in Federated Learning (https://proceedings.mlr.press/v202/dai23a)% | https://github.com/ybdai7/Chameleon-durable-backdoor | 21 | 1| 
 | 20231219T01:00:03Z | Backdoor_Attacks FullStack | https://github.com/Barundeepsingh/Backdoor_Attacks | 0 | 1| 
 | 20231218T23:50:06Z | Robust Contrastive Language-Image Pretraining against Data Poisoning and Backdoor Attacks | https://github.com/BigML-CS-UCLA/RoCLIP | 2 | 0| 
 | 20231218T22:37:16Z | 流星 | https://github.com/nelf0/meteor-backdoor | 0 | 0| 
-| 20231218T18:18:03Z | The shadow tracker - Environment for tracking the shadow on the backdoor activity (Threat Intelligence Tools) | https://github.com/csalab-id/thestrack | 0 | 0| 
-| 20231218T17:58:44Z | Find any backdoor/webshell on your website with Python | https://github.com/polcodev/PolcoScan | 2 | 1| 
-| 20231218T13:33:30Z | Code for paper: PoisonPrompt: Backdoor Attack on Prompt-based Large Language Models, IEEE ICASSP 2024 | https://github.com/grasses/PoisonPrompt | 2 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -122,6 +122,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231220T00:25:12Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50691 | 23383| 
+| 20231219T23:49:20Z | Null | https://github.com/flyingsnake5254/Apk_Fuzzer | 0 | 0| 
+| 20231219T20:21:21Z | Null | https://github.com/google/fuzztest | 494 | 40| 
 | 20231219T13:30:49Z | Fuzzing(AFL++) | https://github.com/young017/Fuzzing-AFL- | 0 | 0| 
 | 20231219T12:47:40Z | A fuzzer for pwn. | https://github.com/Du-Mu/IntFuzzer | 0 | 0| 
 | 20231219T11:10:40Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4160 | 852| 
@@ -129,9 +132,6 @@
 | 20231219T10:32:10Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5130 | 554| 
 | 20231219T10:31:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9250 | 2069| 
 | 20231219T10:27:11Z | Null | https://github.com/BELLAMKONDAAMBICAKIRANMAYEE/fuzzylogicreact | 0 | 0| 
-| 20231219T10:22:56Z | A collection of depth-limited grammar fuzzers implemented in C | https://github.com/Positron11/fuzzer | 0 | 0| 
-| 20231219T02:57:28Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50674 | 23382| 
-| 20231219T02:26:10Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1643 | 246| 
 
 
 
