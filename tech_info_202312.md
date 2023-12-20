@@ -82,7 +82,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231219T22:08:37Z | Persistent Powershell backdoor tool  | https://github.com/ELMERIKH/Keres | 45 | 7| 
+| 20231220T02:39:40Z | Persistent Powershell backdoor tool  | https://github.com/ELMERIKH/Keres | 46 | 7| 
 | 20231219T18:45:31Z | Null | https://github.com/SaravanaGuhan/Backdoor_Attack_Showing_WiFi_Passwords | 0 | 0| 
 | 20231219T17:42:48Z | Federated learning backdoor attack detection with persistence diagram | https://github.com/mzhyui/PD-FL | 0 | 0| 
 | 20231219T14:25:07Z | AsyncRAT stands as a Remote Access Tool (RAT) conceived for the purpose of distant supervision and command over remote computers through an encrypted connection ensuring security. | https://github.com/RexTeamss/AsyncRAT-Fud-Fixed-Dll-Remote-Administration-Tool-New | 1 | 0| 
