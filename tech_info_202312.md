@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231220T13:49:48Z | This repository shows a list of exploits for open source programs. | https://github.com/dhabaleshwar/Open-Source-Vulnerabilities | 1 | 0| 
 | 20231220T11:50:41Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/desquezzee/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 | 20231220T11:50:33Z | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/desquezzee/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 | 20231220T11:50:26Z | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/desquezzee/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
@@ -76,7 +77,6 @@
 | 20231220T10:24:46Z | This comprehensive checklist has been Created for penetration testers and bug hunters seeking to identify and exploit %No Rate Limit% vulnerabilities in web applications. | https://github.com/InfoSecExplorer/No-Rate-Limit-Vulnerability-Checklist | 0 | 0| 
 | 20231220T08:59:46Z | External cheat for Rainbow Six Siege offering ESP, aimbot, and various tactical advantages. | https://github.com/Lazdrow/Klar-gg-Rainbow-Six-Siege-RS6-Esp-NoRroil-Hwid-Spoofer-Exploit | 1 | 0| 
 | 20231220T05:54:30Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5585 | 1083| 
-| 20231220T02:45:00Z | Exploiting vulnerabilities that caaspp secure browser has :rofl: | https://github.com/theohasfun/caasppHacks | 0 | 0| 
 
 
 # backdoor on Github 推荐
