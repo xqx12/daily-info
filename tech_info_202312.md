@@ -127,12 +127,12 @@
 | 20231220T13:12:13Z | Health  | https://github.com/erickaleed/fuzzy-pancake | 0 | 0| 
 | 20231220T13:10:39Z | Papers related to static analysis, fuzzing, and reduction. | https://github.com/0x21af/ipaper | 1 | 0| 
 | 20231220T11:37:06Z | Null | https://github.com/devjoel880/fuzzy-adventure | 0 | 0| 
+| 20231220T08:03:21Z | A fuzz tool for super mario game. | https://github.com/cardigan1008/MarioFuzzy | 0 | 0| 
 | 20231220T03:50:38Z | CATS is a REST API Fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and do not require maintenance. | https://github.com/Endava/cats | 1032 | 71| 
 | 20231220T03:17:35Z | Welcome to Hoyt%s macOS Fuzzing & Code Repo. Contribute Code or Open an Issue or Discussion. | https://github.com/xsscx/macos-research | 15 | 0| 
 | 20231220T03:16:16Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9252 | 2069| 
 | 20231220T03:12:09Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4955 | 1180| 
 | 20231220T02:26:31Z | Collection of utility scripts | https://github.com/solomanhussain/fuzzy-bassoon | 0 | 0| 
-| 20231220T02:12:50Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50693 | 23383| 
 
 
 
