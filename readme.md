@@ -73,11 +73,14 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231220T10:16:36Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 722 | 128| 
+| 20231220T03:06:47Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2377 | 645| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231220T08:08:32Z | Corresponding code for the paper: %Sneaky Spikes: Uncovering Stealthy Backdoor Attacks in Spiking Neural Networks with Neuromorphic Data%, at Network and Distributed System Security (NDSS). | https://github.com/GorkaAbad/Sneaky-Spikes | 1 | 0| 
 | 20231220T01:42:28Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 135 | 12| 
 
 

@@ -97,8 +97,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231219T23:08:38Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 721 | 128| 
-| 20231217T18:15:41Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2376 | 645| 
+| 20231220T10:16:36Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 722 | 128| 
+| 20231220T03:06:47Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2377 | 645| 
 | 20231217T18:15:40Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 363 | 83| 
 | 20231216T11:05:37Z | gradient-based symbolic execution engine implemented from scratch | https://github.com/Koukyosyumei/Gymbo | 29 | 0| 
 | 20231215T20:17:05Z | A toy symbolic executioner written for Rust in Rust. | https://github.com/alex-panda/RustSymbolicExecutioner | 0 | 0| 
@@ -112,6 +112,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231220T08:08:32Z | Corresponding code for the paper: %Sneaky Spikes: Uncovering Stealthy Backdoor Attacks in Spiking Neural Networks with Neuromorphic Data%, at Network and Distributed System Security (NDSS). | https://github.com/GorkaAbad/Sneaky-Spikes | 1 | 0| 
 | 20231220T01:42:28Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 135 | 12| 
 | 20231219T10:09:15Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 105 | 4| 
 | 20231215T04:35:58Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 35 | 2| 
