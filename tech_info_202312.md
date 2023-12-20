@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231220T02:45:00Z | Exploiting vulnerabilities that caaspp secure browser has :rofl: | https://github.com/theohasfun/caasppHacks | 0 | 0| 
 | 20231220T02:37:29Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5695 | 772| 
 | 20231220T02:35:04Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0001-app-gAwZ3-exploit-consult | 0 | 0| 
 | 20231220T02:20:08Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5582 | 1083| 
@@ -76,7 +77,6 @@
 | 20231220T00:24:09Z | Null | https://github.com/galaxqy/real-iready | 0 | 0| 
 | 20231220T00:21:55Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6234 | 814| 
 | 20231219T23:23:09Z | Python Exploitation is a collection of special tools for providing high quality penetration testing using pure python programming language. | https://github.com/EntySec/Pex | 26 | 5| 
-| 20231219T23:04:17Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-vv | 1 | 0| 
 
 
 # backdoor on Github 推荐
