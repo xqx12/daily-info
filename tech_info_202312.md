@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231221T01:30:45Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0071-app-IgdpN-exploit-impose | 0 | 0| 
 | 20231221T00:52:05Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5587 | 1083| 
 | 20231221T00:24:46Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-m | 1 | 0| 
 | 20231221T00:24:10Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-m | 1 | 0| 
@@ -76,7 +77,6 @@
 | 20231220T20:11:45Z | Rudimentary script which takes advantage of the OperaGX Discord promo exploit. | https://github.com/brendeni1/Nitro-Generator | 0 | 1| 
 | 20231220T18:17:52Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 9027 | 2068| 
 | 20231220T17:17:07Z | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | 87 | 7| 
-| 20231220T13:49:48Z | This repository shows a list of exploits for open source programs. | https://github.com/dhabaleshwar/Open-Source-Vulnerabilities | 1 | 0| 
 
 
 # backdoor on Github 推荐
