@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231221T02:35:23Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5699 | 773| 
 | 20231221T02:20:00Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0059-app-Rnrlw-order-exploit | 0 | 0| 
 | 20231221T02:18:21Z | Null | https://github.com/mamaieadupisiku/fortnite-exploits | 0 | 0| 
 | 20231221T01:51:37Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0012-app-5d70V-exploit-claim | 0 | 0| 
@@ -76,7 +77,6 @@
 | 20231221T00:52:05Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5587 | 1083| 
 | 20231221T00:24:46Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-m | 1 | 0| 
 | 20231221T00:24:10Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-m | 1 | 0| 
-| 20231221T00:23:31Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-m | 1 | 0| 
 
 
 # backdoor on Github 推荐
