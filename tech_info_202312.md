@@ -123,6 +123,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231221T13:24:16Z | Null | https://github.com/songtaehyeon/whs1st_fuzzingTeam | 0 | 0| 
 | 20231221T13:22:16Z | Null | https://github.com/ahornyai/HeaderFuzzer | 0 | 0| 
 | 20231221T11:47:57Z | Null | https://github.com/Daniel051080/fuzzy-octo-engine | 0 | 0| 
 | 20231221T11:11:09Z | Evolutionary optimization with NSGA-2 for fuzzy clustering classififcation | https://github.com/MaximKl/evolutionary_optimization_fuzzy_classification | 0 | 0| 
@@ -132,7 +133,6 @@
 | 20231221T01:45:51Z | Fuzzy match repair | https://github.com/rtotheich/fuzzy_match_repair | 0 | 0| 
 | 20231221T01:03:05Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50711 | 23383| 
 | 20231221T01:02:20Z | Null | https://github.com/momo99277/fuzzy-invention | 0 | 0| 
-| 20231221T00:09:31Z | Null | https://github.com/MaksSTV/Fuzzy | 0 | 0| 
 
 
 
