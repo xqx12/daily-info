@@ -47,6 +47,7 @@
 | --- | --- | --- | --- | ---| 
 | 20231220T20:11:58Z | Source code to exploit the Discord + OperaGX partnership and generate infinite Discord nitro links | https://github.com/ethan-davies/Discord-Nitro-Partnership-Exploit | 0 | 0| 
 | 20231220T20:11:45Z | Rudimentary script which takes advantage of the OperaGX Discord promo exploit. | https://github.com/brendeni1/Nitro-Generator | 0 | 1| 
+| 20231220T18:17:52Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 9027 | 2068| 
 | 20231220T17:17:07Z | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | 87 | 7| 
 | 20231220T13:49:48Z | This repository shows a list of exploits for open source programs. | https://github.com/dhabaleshwar/Open-Source-Vulnerabilities | 1 | 0| 
 | 20231220T11:50:41Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/desquezzee/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
@@ -54,7 +55,6 @@
 | 20231220T11:50:26Z | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/desquezzee/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 | 20231220T11:49:48Z | Ephemeral discourse is embodied by the likes of Messenger Sessions, the digital portraits of Accounts, and the enigmatic Token | https://github.com/desquezzee/Discord-Image-Logger-Slient-Exploit-Builder-Grabber-Stealer | 0 | 0| 
 | 20231220T11:40:52Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5729 | 727| 
-| 20231220T11:07:37Z | A project that offers cheats developed with C++ for DayZ. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/mikralonovk1337/PROOFCORE-Dayz-Cheat-Hack-Aimbot-Esp-Exploit-Magic-Bullet-Spoofer-Misc | 0 | 0| 
 
 
 # backdoor on Github 推荐
