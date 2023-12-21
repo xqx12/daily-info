@@ -17,16 +17,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231220T21:43:28Z | CVE-2023-50596 | Null | https://github.com/chandraprarikraj/CVE-2023-50596 | | 
+| 20231220T21:23:34Z | CVE-2023-51214 | Null | https://github.com/chandraprarikraj/CVE-2023-51214 | | 
+| 20231220T20:21:34Z | CVE-2023-23752 | Mass Scanner for CVE-2023-23752 | https://github.com/TindalyTn/CVE-2023-23752 | | 
+| 20231220T19:45:48Z | CVE-2023-50164 | Vulnerable docker container for Apache Struts 2 RCE CVE-2023-50164 | https://github.com/Trackflaw/CVE-2023-50164-ApacheStruts2-Docker | | 
+| 20231220T14:36:01Z | CVE-2023-50072 | Null | https://github.com/ahrixia/CVE-2023-50072 | | 
 | 20231220T11:50:41Z | Cve-2023- | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/desquezzee/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 | 20231220T11:50:33Z | Cve-2023- | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/desquezzee/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 | 20231220T11:50:26Z | Cve-2023- | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/desquezzee/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
-| 20231220T11:50:14Z | CVE-2023-50164 | Vulnerable docker container for Apache Struts 2 RCE CVE-2023-50164 | https://github.com/Trackflaw/CVE-2023-50164-ApacheStruts2-Docker | | 
 | 20231220T11:49:47Z | Cve-2023- | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/desquezzee/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 | 20231220T10:01:07Z | CVE-2023-49989 | Hotel Booking Management v1.0 - SQL Injection Vulnerability in the "id" parameter at update.php | https://github.com/geraldoalcantara/CVE-2023-49989 | | 
-| 20231220T10:00:28Z | CVE-2023-49988 | Hotel Booking Management v1.0 - SQL Injection Vulnerability in the "npss" parameter at rooms.php | https://github.com/geraldoalcantara/CVE-2023-49988 | | 
-| 20231220T09:58:25Z | CVE-2023-49985 | School Fees Management System v1.0 - Cross-Site Scripting (XSS) Vulnerability in "cname" parameter on "new_class" | https://github.com/geraldoalcantara/CVE-2023-49985 | | 
-| 20231220T09:57:47Z | CVE-2023-49984 | School Fees Management System v1.0 - Cross-Site Scripting (XSS) Vulnerability in "name" field/parameter on "/management/settings" | https://github.com/geraldoalcantara/CVE-2023-49984 | | 
-| 20231220T09:57:00Z | CVE-2023-49983 | School Fees Management System v1.0 - Cross-Site Scripting (XSS) Vulnerability in "name" field/parameter on "/management/class" | https://github.com/geraldoalcantara/CVE-2023-49983 | | 
 
 
 # klee on Github 推荐
@@ -45,6 +45,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231220T20:11:58Z | Source code to exploit the Discord + OperaGX partnership and generate infinite Discord nitro links | https://github.com/ethan-davies/Discord-Nitro-Partnership-Exploit | 0 | 0| 
+| 20231220T20:11:45Z | Rudimentary script which takes advantage of the OperaGX Discord promo exploit. | https://github.com/brendeni1/Nitro-Generator | 0 | 1| 
+| 20231220T17:17:07Z | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | 87 | 7| 
 | 20231220T13:49:48Z | This repository shows a list of exploits for open source programs. | https://github.com/dhabaleshwar/Open-Source-Vulnerabilities | 1 | 0| 
 | 20231220T11:50:41Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/desquezzee/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 | 20231220T11:50:33Z | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/desquezzee/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
@@ -52,14 +55,14 @@
 | 20231220T11:49:48Z | Ephemeral discourse is embodied by the likes of Messenger Sessions, the digital portraits of Accounts, and the enigmatic Token | https://github.com/desquezzee/Discord-Image-Logger-Slient-Exploit-Builder-Grabber-Stealer | 0 | 0| 
 | 20231220T11:40:52Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5729 | 727| 
 | 20231220T11:07:37Z | A project that offers cheats developed with C++ for DayZ. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/mikralonovk1337/PROOFCORE-Dayz-Cheat-Hack-Aimbot-Esp-Exploit-Magic-Bullet-Spoofer-Misc | 0 | 0| 
-| 20231220T10:24:46Z | This comprehensive checklist has been Created for penetration testers and bug hunters seeking to identify and exploit %No Rate Limit% vulnerabilities in web applications. | https://github.com/InfoSecExplorer/No-Rate-Limit-Vulnerability-Checklist | 0 | 0| 
-| 20231220T08:59:46Z | External cheat for Rainbow Six Siege offering ESP, aimbot, and various tactical advantages. | https://github.com/Lazdrow/Klar-gg-Rainbow-Six-Siege-RS6-Esp-NoRroil-Hwid-Spoofer-Exploit | 1 | 0| 
-| 20231220T05:54:30Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5585 | 1083| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231220T15:30:15Z | Null | https://github.com/kosmos99/Defense-against-backdoor-attacks-in-federated-learning | 0 | 0| 
+| 20231220T14:26:14Z | Null | https://github.com/nikeshbharani/chatapp-backdoor | 0 | 0| 
+| 20231220T12:21:33Z | Persistent Powershell backdoor tool  | https://github.com/ELMERIKH/Keres | 50 | 8| 
 | 20231220T12:07:54Z | this repository contains the challenge files of all of the cryptography problems prepared for the event BackdoorCTF 2023 | https://github.com/MmukulKhedekar/BackdoorCTF2023-Crypto | 0 | 0| 
 | 20231220T11:51:10Z | The S-500 G2 Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/desquezzee/S500-RAT-HVNC-HAPP-HIdden-BROWSER-HRDP-REVERSE-PROXY-CRYPTO-MONITOR | 0 | 0| 
 | 20231220T11:50:43Z | Hidden VNC constitutes an ingenious stratagem harnessed by the most adept connoisseurs of technology. This method, by far, presents an exhilarating modality to govern the operation | https://github.com/desquezzee/Pandora-HVNC-2FABypass-WebGL-Hidden-Desktop-Outlook-Foxmail-Stealer-Hidden-Browser | 0 | 0| 
@@ -67,8 +70,6 @@
 | 20231220T11:49:47Z | The X-Worm Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/desquezzee/XWorm-V5.2-Edition-HVNC-RAT-DDOS-PASSWORDS-RANSOMWARE-CLIPPER-KEYLOGGER-UAC-BYPASS | 0 | 0| 
 | 20231220T08:22:09Z | Null | https://github.com/taqsoimh/Backdoor-CTF-2023 | 0 | 0| 
 | 20231220T05:48:54Z | Null | https://github.com/lixi1994/backdoor_FM_hete_FL | 0 | 0| 
-| 20231220T04:01:41Z | The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80%s POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security. | https://github.com/yasserbdj96/hiphp | 192 | 38| 
-| 20231220T02:39:40Z | Persistent Powershell backdoor tool  | https://github.com/ELMERIKH/Keres | 46 | 7| 
 
 
 # symbolic execution on Github 推荐
@@ -88,16 +89,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231220T23:01:01Z | Null | https://github.com/Huffam30/fuzzy-engine | 0 | 0| 
+| 20231220T22:28:50Z | CSV to HTML Converter    | https://github.com/cropleyc/fuzzy-funicular | 0 | 0| 
+| 20231220T22:14:52Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 2360 | 271| 
+| 20231220T16:45:07Z | Null | https://github.com/karmelyoei/Tipping_Fuzzy_system | 0 | 0| 
+| 20231220T16:37:52Z | Stress/Fuzz test for the Open Health Imaging Foundation (OHIF) Basic Viewer | https://github.com/Fulmine-Labs/OHIF-stress-fuzz-test | 0 | 0| 
 | 20231220T13:37:44Z | Null | https://github.com/rainy-my/fuzzy-octo-carnival | 0 | 0| 
 | 20231220T13:12:13Z | Health  | https://github.com/erickaleed/fuzzy-pancake | 0 | 0| 
 | 20231220T13:10:39Z | Papers related to static analysis, fuzzing, and reduction. | https://github.com/0x21af/ipaper | 1 | 0| 
 | 20231220T11:37:06Z | Null | https://github.com/devjoel880/fuzzy-adventure | 0 | 0| 
 | 20231220T08:03:21Z | A fuzz tool for super mario game. | https://github.com/cardigan1008/MarioFuzzy | 0 | 0| 
-| 20231220T03:50:38Z | CATS is a REST API Fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and do not require maintenance. | https://github.com/Endava/cats | 1032 | 71| 
-| 20231220T03:17:35Z | Welcome to Hoyt%s macOS Fuzzing & Code Repo. Contribute Code or Open an Issue or Discussion. | https://github.com/xsscx/macos-research | 15 | 0| 
-| 20231220T03:16:16Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9252 | 2069| 
-| 20231220T03:12:09Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4955 | 1180| 
-| 20231220T02:26:31Z | Collection of utility scripts | https://github.com/solomanhussain/fuzzy-bassoon | 0 | 0| 
 
 
 
