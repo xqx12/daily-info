@@ -91,7 +91,6 @@
 | --- | --- | --- | --- | ---| 
 | 20231220T23:01:01Z | Null | https://github.com/Huffam30/fuzzy-engine | 0 | 0| 
 | 20231220T22:28:50Z | CSV to HTML Converter    | https://github.com/cropleyc/fuzzy-funicular | 0 | 0| 
-| 20231220T22:14:52Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 2360 | 271| 
 | 20231220T16:45:07Z | Null | https://github.com/karmelyoei/Tipping_Fuzzy_system | 0 | 0| 
 | 20231220T16:37:52Z | Stress/Fuzz test for the Open Health Imaging Foundation (OHIF) Basic Viewer | https://github.com/Fulmine-Labs/OHIF-stress-fuzz-test | 0 | 0| 
 | 20231220T13:37:44Z | Null | https://github.com/rainy-my/fuzzy-octo-carnival | 0 | 0| 
@@ -99,6 +98,7 @@
 | 20231220T13:10:39Z | Papers related to static analysis, fuzzing, and reduction. | https://github.com/0x21af/ipaper | 1 | 0| 
 | 20231220T11:37:06Z | Null | https://github.com/devjoel880/fuzzy-adventure | 0 | 0| 
 | 20231220T08:03:21Z | A fuzz tool for super mario game. | https://github.com/cardigan1008/MarioFuzzy | 0 | 0| 
+| 20231220T03:50:38Z | CATS is a REST API Fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and do not require maintenance. | https://github.com/Endava/cats | 1032 | 71| 
 
 
 

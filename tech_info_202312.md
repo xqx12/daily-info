@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231221T02:18:21Z | Null | https://github.com/mamaieadupisiku/fortnite-exploits | 0 | 0| 
 | 20231221T01:51:37Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0012-app-5d70V-exploit-claim | 0 | 0| 
 | 20231221T01:51:34Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0062-app-Sjy2W-exploit-prevent | 0 | 0| 
 | 20231221T01:50:35Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 6117 | 689| 
@@ -76,7 +77,6 @@
 | 20231221T00:24:10Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-m | 1 | 0| 
 | 20231221T00:23:31Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-m | 1 | 0| 
 | 20231221T00:22:57Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-m | 1 | 0| 
-| 20231220T20:11:58Z | Source code to exploit the Discord + OperaGX partnership and generate infinite Discord nitro links | https://github.com/ethan-davies/Discord-Nitro-Partnership-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -123,13 +123,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231221T02:17:30Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 2361 | 271| 
 | 20231221T01:45:51Z | Fuzzy match repair | https://github.com/rtotheich/fuzzy_match_repair | 0 | 0| 
 | 20231221T01:03:05Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50711 | 23383| 
 | 20231221T01:02:20Z | Null | https://github.com/momo99277/fuzzy-invention | 0 | 0| 
 | 20231221T00:09:31Z | Null | https://github.com/MaksSTV/Fuzzy | 0 | 0| 
 | 20231220T23:01:01Z | Null | https://github.com/Huffam30/fuzzy-engine | 0 | 0| 
 | 20231220T22:28:50Z | CSV to HTML Converter    | https://github.com/cropleyc/fuzzy-funicular | 0 | 0| 
-| 20231220T22:14:52Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 2360 | 271| 
 | 20231220T16:45:07Z | Null | https://github.com/karmelyoei/Tipping_Fuzzy_system | 0 | 0| 
 | 20231220T16:37:52Z | Stress/Fuzz test for the Open Health Imaging Foundation (OHIF) Basic Viewer | https://github.com/Fulmine-Labs/OHIF-stress-fuzz-test | 0 | 0| 
 | 20231220T13:37:44Z | Null | https://github.com/rainy-my/fuzzy-octo-carnival | 0 | 0| 
