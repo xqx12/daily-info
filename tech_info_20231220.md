@@ -48,12 +48,12 @@
 | 20231220T20:11:45Z | Rudimentary script which takes advantage of the OperaGX Discord promo exploit. | https://github.com/brendeni1/Nitro-Generator | 0 | 1| 
 | 20231220T18:17:52Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 9027 | 2068| 
 | 20231220T17:17:07Z | Artículos relacionados a la Ciberseguridad y Hacking. | https://github.com/R3LI4NT/articulos | 87 | 7| 
+| 20231220T16:54:19Z | Bookmarklet hacks, exploits, games, scripts, and proxies. Unblocked, in one place. | https://github.com/car-axle-client/car-axle-client | 35 | 23| 
 | 20231220T13:49:48Z | This repository shows a list of exploits for open source programs. | https://github.com/dhabaleshwar/Open-Source-Vulnerabilities | 1 | 0| 
 | 20231220T11:50:41Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/desquezzee/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 | 20231220T11:50:33Z | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/desquezzee/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 | 20231220T11:50:26Z | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/desquezzee/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 | 20231220T11:49:48Z | Ephemeral discourse is embodied by the likes of Messenger Sessions, the digital portraits of Accounts, and the enigmatic Token | https://github.com/desquezzee/Discord-Image-Logger-Slient-Exploit-Builder-Grabber-Stealer | 0 | 0| 
-| 20231220T11:40:52Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5729 | 727| 
 
 
 # backdoor on Github 推荐
