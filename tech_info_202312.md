@@ -123,6 +123,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231221T02:18:05Z | Targeting Windows Kernel Driver Fuzzer | https://github.com/0dayResearchLab/msFuzz | 30 | 7| 
 | 20231221T02:17:30Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 2361 | 271| 
 | 20231221T01:45:51Z | Fuzzy match repair | https://github.com/rtotheich/fuzzy_match_repair | 0 | 0| 
 | 20231221T01:03:05Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50711 | 23383| 
@@ -132,7 +133,6 @@
 | 20231220T22:28:50Z | CSV to HTML Converter    | https://github.com/cropleyc/fuzzy-funicular | 0 | 0| 
 | 20231220T16:45:07Z | Null | https://github.com/karmelyoei/Tipping_Fuzzy_system | 0 | 0| 
 | 20231220T16:37:52Z | Stress/Fuzz test for the Open Health Imaging Foundation (OHIF) Basic Viewer | https://github.com/Fulmine-Labs/OHIF-stress-fuzz-test | 0 | 0| 
-| 20231220T13:37:44Z | Null | https://github.com/rainy-my/fuzzy-octo-carnival | 0 | 0| 
 
 
 
