@@ -123,6 +123,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231221T01:06:30Z | Fuzzy match repair | https://github.com/rtotheich/fuzzy_match_repair | 0 | 0| 
 | 20231221T01:03:05Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50711 | 23383| 
 | 20231221T01:02:20Z | Null | https://github.com/momo99277/fuzzy-invention | 0 | 0| 
 | 20231221T00:09:31Z | Null | https://github.com/MaksSTV/Fuzzy | 0 | 0| 
@@ -132,7 +133,6 @@
 | 20231220T16:45:07Z | Null | https://github.com/karmelyoei/Tipping_Fuzzy_system | 0 | 0| 
 | 20231220T16:37:52Z | Stress/Fuzz test for the Open Health Imaging Foundation (OHIF) Basic Viewer | https://github.com/Fulmine-Labs/OHIF-stress-fuzz-test | 0 | 0| 
 | 20231220T13:37:44Z | Null | https://github.com/rainy-my/fuzzy-octo-carnival | 0 | 0| 
-| 20231220T13:12:13Z | Health  | https://github.com/erickaleed/fuzzy-pancake | 0 | 0| 
 
 
 
