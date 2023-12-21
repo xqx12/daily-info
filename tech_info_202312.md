@@ -76,7 +76,7 @@
 | 20231221T01:50:35Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 6117 | 689| 
 | 20231221T01:30:45Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0071-app-IgdpN-exploit-impose | 0 | 0| 
 | 20231221T00:52:05Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5587 | 1083| 
-| 20231221T00:24:46Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-m | 1 | 0| 
+| 20231221T00:37:43Z | Generate indefinite amounts of Nitro codes with Opera GX%s Nitro exploit. | https://github.com/Suno0526/NitroGX | 1 | 1| 
 
 
 # backdoor on Github 推荐
