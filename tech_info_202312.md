@@ -123,7 +123,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231222T12:58:06Z | UPN Veteran Jatim , Aquaponic pH Control-Monitoring with Type-2 Fuzzy Method Based on IoT Bot , S1 Thesis Project | https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot | 1 | 0| 
+| 20231222T13:16:40Z | UPN Veteran Jatim , Aquaponic pH Control-Monitoring with Type-2 Fuzzy Method Based on IoT Bot , S1 Thesis Project | https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot | 1 | 0| 
 | 20231222T10:30:03Z | 爬取网页所有携带参数的URL，最后对每个参数进行Fuzzing | https://github.com/qiuluo-oss/Crawlergo_Fuzzing | 0 | 0| 
 | 20231222T09:53:34Z | Null | https://github.com/chengfei867/Fuzzer | 0 | 0| 
 | 20231222T05:51:22Z | NucleiFuzzer is a Powerful Automation tool for detecting XSS, SQLi, SSRF, Open-Redirect, etc.. Vulnerabilities in Web Applications | https://github.com/0xKayala/NucleiFuzzer | 906 | 135| 
