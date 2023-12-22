@@ -50,6 +50,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231221T23:54:54Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-s | 1 | 0| 
 | 20231221T13:55:06Z | A repository containing some Linewize exploits, followed by others such as Chrome OS. This repository is simply just an organized holder for all publicly available vulnerabilities. | https://github.com/Sxri/Linesploit | 0 | 0| 
 | 20231221T12:57:38Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Mxcoders2s/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 | 20231221T12:57:32Z | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/Mxcoders2s/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
@@ -59,7 +60,6 @@
 | 20231221T12:09:22Z | This repo contains IOC, malware and malware analysis associated with AWS cloud | https://github.com/unknownhad/AWSAttacks | 52 | 6| 
 | 20231221T12:07:53Z | External cheat for Rainbow Six Siege offering ESP, aimbot, and various tactical advantages. | https://github.com/lavishdude988/Klar-gg-Rainbow-Six-Siege-RS6-Esp-NoRroil-Hwid-Spoofer-Exploit | 0 | 0| 
 | 20231221T12:07:03Z | Developed for Escape From Tarkov and written in C++ and C#. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/lavishdude988/Escape-From-Tarkov-Eft-Aimbot-esp-Loots-Exploits-Max-Skills-High-Jump | 0 | 0| 
-| 20231221T09:28:57Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5589 | 1083| 
 
 
 # backdoor on Github 推荐
