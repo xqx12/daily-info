@@ -82,6 +82,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231222T02:11:52Z | Strengthening Deep Neural Network Defenses Against Data Poisoning and Backdoor Attacks | https://github.com/vamsikrishh0099/ECE-GY-9163-Final-Project | 0 | 0| 
 | 20231221T23:18:13Z | Null | https://github.com/Ameykolhe/patch-backdoor | 0 | 0| 
 | 20231221T20:54:19Z | Writeups for some of the challenges of BACKDOOR CTF 2023 hosted by IITR | https://github.com/LU1F3R/BackdoorCTF_23 | 0 | 0| 
 | 20231221T17:37:22Z | Persistent Powershell backdoor tool  | https://github.com/ELMERIKH/Keres | 53 | 9| 
@@ -91,7 +92,6 @@
 | 20231221T13:07:08Z | BitRAT CrackedIt is meticulously constructed utilizing the C++ programming language. It stands as the most recent iteration of the premier PC RAT for the year 2023. Regarded as a prized tool | https://github.com/Mrxteamss/Bitrat-Hvnc-Rat-Remote-Control-Av-Bypass | 0 | 0| 
 | 20231221T13:05:49Z | VenomControl Rat is a Remote Access Tool (RAT) designed to remotely monitor and control other computers through a secure encrypted connection | https://github.com/Mrxteamss/VenomControl-Rat-Crack-Source | 0 | 0| 
 | 20231221T13:05:48Z | Computing) capabilities. It boasts compatibility with a spectrum of 20 concealed browsers. Pegasus HVNC facet facilitates the orchestration of a concealed desktop environment | https://github.com/Mrxteamss/Pegasus-Pantheon-HVNC-V2-VNC-Hidden-Browser-Remote-Administration-Rat | 0 | 0| 
-| 20231221T12:58:05Z | The S-500 G2 Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/Mxcoders2s/S500-RAT-HVNC-HAPP-HIdden-BROWSER-HRDP-REVERSE-PROXY-CRYPTO-MONITOR | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
