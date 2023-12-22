@@ -74,9 +74,9 @@
 | 20231222T01:57:35Z | This repository offers insights and a proof-of-concept tool to exploit two significant deserialization vulnerabilities in Inductive Automation%s Ignition software. | https://github.com/TecR0c/DoubleTrouble | 1 | 1| 
 | 20231222T01:42:22Z | Writeups for binary exploitation challenge which includes reconstructed source code | https://github.com/neosizzle/override | 0 | 0| 
 | 20231221T23:54:54Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-s | 1 | 0| 
+| 20231221T20:34:45Z | This repo has a collection of hubs I found with games, prxes, apps, bookmarklets, exploits and more! | https://github.com/S-PScripts/chromebook-utilities | 30 | 13| 
 | 20231221T13:55:06Z | A repository containing some Linewize exploits, followed by others such as Chrome OS. This repository is simply just an organized holder for all publicly available vulnerabilities. | https://github.com/Sxri/Linesploit | 0 | 0| 
 | 20231221T12:57:38Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Mxcoders2s/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
-| 20231221T12:57:32Z | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/Mxcoders2s/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 
 
 # backdoor on Github 推荐
