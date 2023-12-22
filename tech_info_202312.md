@@ -70,7 +70,7 @@
 | 20231222T12:27:08Z | This Repository will contain various tools, scripts and commands used in Active Directory Enumeration and Exploitation. | https://github.com/SecTheBit/RedTeam-Toolkits | 2 | 0| 
 | 20231222T07:25:23Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5590 | 1083| 
 | 20231222T07:15:51Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 78 | 12| 
-| 20231222T02:38:54Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5702 | 774| 
+| 20231222T03:18:04Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5703 | 774| 
 | 20231222T01:57:35Z | This repository offers insights and a proof-of-concept tool to exploit two significant deserialization vulnerabilities in Inductive Automation%s Ignition software. | https://github.com/TecR0c/DoubleTrouble | 1 | 1| 
 | 20231222T01:42:22Z | Writeups for binary exploitation challenge which includes reconstructed source code | https://github.com/neosizzle/override | 0 | 0| 
 | 20231221T23:54:54Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-s | 1 | 0| 
