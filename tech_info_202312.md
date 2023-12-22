@@ -123,6 +123,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231222T00:52:10Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50729 | 23388| 
+| 20231222T00:50:04Z | Null | https://github.com/dickyathalla/fuzzyibros | 0 | 0| 
+| 20231221T17:25:28Z | Fuzzing related tools for GCC (or any compiler) with a focus on RISC-V | https://github.com/patrick-rivos/gcc-fuzz-ci | 0 | 0| 
 | 20231221T13:29:47Z | Null | https://github.com/ahornyai/HeaderFuzzer | 0 | 0| 
 | 20231221T13:24:16Z | Null | https://github.com/songtaehyeon/whs1st_fuzzingTeam | 0 | 0| 
 | 20231221T11:47:57Z | Null | https://github.com/Daniel051080/fuzzy-octo-engine | 0 | 0| 
@@ -130,9 +133,6 @@
 | 20231221T10:54:25Z | Калькулятор нечетких множеств, задание А. Привальцева | https://github.com/JDM170/fuzzy_set_calculator | 0 | 0| 
 | 20231221T10:04:18Z | DirFuzz is a Python-based tool designed for directory and subdomain fuzzing | https://github.com/Sxmpl3/DirFuzz | 0 | 0| 
 | 20231221T02:18:05Z | Targeting Windows Kernel Driver Fuzzer | https://github.com/0dayResearchLab/msFuzz | 30 | 7| 
-| 20231221T02:17:30Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 2361 | 271| 
-| 20231221T01:45:51Z | Fuzzy match repair | https://github.com/rtotheich/fuzzy_match_repair | 0 | 0| 
-| 20231221T01:03:05Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50711 | 23383| 
 
 
 
