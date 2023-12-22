@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231222T01:42:22Z | Writeups for binary exploitation challenge which includes reconstructed source code | https://github.com/neosizzle/override | 0 | 0| 
 | 20231222T00:29:06Z | This repository offers insights and a proof-of-concept tool to exploit two significant deserialization vulnerabilities in Inductive Automation%s Ignition software. | https://github.com/TecR0c/DoubleTrouble | 0 | 0| 
 | 20231221T23:54:54Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-s | 1 | 0| 
 | 20231221T13:55:06Z | A repository containing some Linewize exploits, followed by others such as Chrome OS. This repository is simply just an organized holder for all publicly available vulnerabilities. | https://github.com/Sxri/Linesploit | 0 | 0| 
@@ -76,7 +77,6 @@
 | 20231221T12:56:52Z | Ephemeral discourse is embodied by the likes of Messenger Sessions, the digital portraits of Accounts, and the enigmatic Token | https://github.com/Mxcoders2s/Discord-Image-Logger-Slient-Exploit-Builder-Grabber-Stealer | 0 | 0| 
 | 20231221T12:56:47Z | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/Mxcoders2s/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 | 20231221T12:09:22Z | This repo contains IOC, malware and malware analysis associated with AWS cloud | https://github.com/unknownhad/AWSAttacks | 52 | 6| 
-| 20231221T12:07:53Z | External cheat for Rainbow Six Siege offering ESP, aimbot, and various tactical advantages. | https://github.com/lavishdude988/Klar-gg-Rainbow-Six-Siege-RS6-Esp-NoRroil-Hwid-Spoofer-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
