@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231222T02:15:36Z | cve-2023-50164 | Null | https://github.com/miles3719/cve-2023-50164 | | 
 | 20231221T23:24:32Z | CVE-2020-24186 | Null | https://github.com/substing/CVE-2020-24186_reverse_shell_upload | | 
 | 20231221T16:49:20Z | CVE-2021-44228 | Null | https://github.com/dcm2406/CVE-2021-44228 | | 
 | 20231221T15:44:04Z | CVE-2021-43798 | Directory Traversal and Arbitrary File Read on Grafana | https://github.com/wagneralves/CVE-2021-43798 | | 
@@ -35,7 +36,6 @@
 | 20231221T12:57:23Z | Cve-2023- | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/Mxcoders2s/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 | 20231221T12:56:47Z | Cve-2023- | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/Mxcoders2s/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 | 20231221T11:20:39Z | cve-2021-42013 | Apache 2.4.50 - Path Traversal or Remote Code Execution | https://github.com/Rubikcuv5/cve-2021-42013 | | 
-| 20231220T21:43:28Z | CVE-2023-50596 | Null | https://github.com/chandraprarikraj/CVE-2023-50596 | | 
 
 
 # klee on Github 推荐
@@ -82,6 +82,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231222T02:14:49Z | Null | https://github.com/sakshi4321/Strengthening-Deep-Neural-Network-Defenses-Against-Data-Poisoning-and-Backdoor-Attacks | 0 | 0| 
 | 20231222T02:11:52Z | Strengthening Deep Neural Network Defenses Against Data Poisoning and Backdoor Attacks | https://github.com/vamsikrishh0099/ECE-GY-9163-Final-Project | 0 | 0| 
 | 20231221T23:18:13Z | Null | https://github.com/Ameykolhe/patch-backdoor | 0 | 0| 
 | 20231221T20:54:19Z | Writeups for some of the challenges of BACKDOOR CTF 2023 hosted by IITR | https://github.com/LU1F3R/BackdoorCTF_23 | 0 | 0| 
@@ -91,7 +92,6 @@
 | 20231221T13:07:12Z | AsyncRAT stands as a Remote Access Tool (RAT) conceived for the purpose of distant supervision and command over remote computers through an encrypted connection ensuring security. | https://github.com/Mrxteamss/AsyncRAT-Fud-Fixed-Dll-Remote-Administration-Tool-New | 0 | 0| 
 | 20231221T13:07:08Z | BitRAT CrackedIt is meticulously constructed utilizing the C++ programming language. It stands as the most recent iteration of the premier PC RAT for the year 2023. Regarded as a prized tool | https://github.com/Mrxteamss/Bitrat-Hvnc-Rat-Remote-Control-Av-Bypass | 0 | 0| 
 | 20231221T13:05:49Z | VenomControl Rat is a Remote Access Tool (RAT) designed to remotely monitor and control other computers through a secure encrypted connection | https://github.com/Mrxteamss/VenomControl-Rat-Crack-Source | 0 | 0| 
-| 20231221T13:05:48Z | Computing) capabilities. It boasts compatibility with a spectrum of 20 concealed browsers. Pegasus HVNC facet facilitates the orchestration of a concealed desktop environment | https://github.com/Mrxteamss/Pegasus-Pantheon-HVNC-V2-VNC-Hidden-Browser-Remote-Administration-Rat | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
