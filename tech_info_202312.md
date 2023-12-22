@@ -123,8 +123,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231222T02:31:14Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50732 | 23389| 
 | 20231222T02:26:02Z | 再业务开发中，会遇到一些类似的东西，就将这些东西写进仓库里面 | https://github.com/pengdongxu/fuzzy-funicular | 0 | 0| 
-| 20231222T02:11:40Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50731 | 23388| 
 | 20231222T02:02:49Z | Null | https://github.com/nandiniparekh/Fuzzy-Logic | 0 | 0| 
 | 20231222T01:42:33Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1646 | 248| 
 | 20231222T00:50:04Z | Null | https://github.com/dickyathalla/fuzzyibros | 0 | 0| 
