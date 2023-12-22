@@ -20,6 +20,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231221T23:24:32Z | CVE-2020-24186 | Null | https://github.com/substing/CVE-2020-24186_reverse_shell_upload | | 
+| 20231221T16:49:20Z | CVE-2021-44228 | Null | https://github.com/dcm2406/CVE-2021-44228 | | 
+| 20231221T15:44:04Z | CVE-2021-43798 | Directory Traversal and Arbitrary File Read on Grafana | https://github.com/wagneralves/CVE-2021-43798 | | 
 | 20231221T12:57:38Z | Cve-2023- | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Mxcoders2s/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 | 20231221T12:57:35Z | CVE-2023-50072 | A stored cross-site scripting (XSS) vulnerability exists in OpenKM version 7.1.40. | https://github.com/ahrixia/CVE-2023-50072 | | 
 | 20231221T12:57:32Z | Cve-2023- | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/Mxcoders2s/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
@@ -31,7 +34,9 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231221T12:31:46Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14714 | 436| 
+| 20231221T23:27:44Z | Null | https://github.com/Rustyymp4/KleeFinal | 0 | 0| 
+| 20231221T15:22:15Z | Experiments with running klee on coreutils | https://github.com/riesentoaster/klee-coreutils-experiments | 0 | 0| 
+| 20231221T14:14:36Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14715 | 436| 
 | 20231221T04:17:13Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2378 | 645| 
 
 
@@ -60,16 +65,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231221T23:18:13Z | Null | https://github.com/Ameykolhe/patch-backdoor | 0 | 0| 
+| 20231221T20:54:19Z | Writeups for some of the challenges of BACKDOOR CTF 2023 hosted by IITR | https://github.com/LU1F3R/BackdoorCTF_23 | 0 | 0| 
+| 20231221T17:37:22Z | Persistent Powershell backdoor tool  | https://github.com/ELMERIKH/Keres | 53 | 9| 
+| 20231221T17:01:13Z | PyBotNet: A High-Level Remote Control Framework for Python with Telegram Integration | https://github.com/onionj/pybotnet | 230 | 66| 
+| 20231221T15:48:53Z | Simple trojan backdoor in python | https://github.com/noctadetp/simple-python-trojan | 1 | 0| 
 | 20231221T13:07:12Z | AsyncRAT stands as a Remote Access Tool (RAT) conceived for the purpose of distant supervision and command over remote computers through an encrypted connection ensuring security. | https://github.com/Mrxteamss/AsyncRAT-Fud-Fixed-Dll-Remote-Administration-Tool-New | 0 | 0| 
 | 20231221T13:07:08Z | BitRAT CrackedIt is meticulously constructed utilizing the C++ programming language. It stands as the most recent iteration of the premier PC RAT for the year 2023. Regarded as a prized tool | https://github.com/Mrxteamss/Bitrat-Hvnc-Rat-Remote-Control-Av-Bypass | 0 | 0| 
 | 20231221T13:05:49Z | VenomControl Rat is a Remote Access Tool (RAT) designed to remotely monitor and control other computers through a secure encrypted connection | https://github.com/Mrxteamss/VenomControl-Rat-Crack-Source | 0 | 0| 
 | 20231221T13:05:48Z | Computing) capabilities. It boasts compatibility with a spectrum of 20 concealed browsers. Pegasus HVNC facet facilitates the orchestration of a concealed desktop environment | https://github.com/Mrxteamss/Pegasus-Pantheon-HVNC-V2-VNC-Hidden-Browser-Remote-Administration-Rat | 0 | 0| 
 | 20231221T12:58:05Z | The S-500 G2 Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/Mxcoders2s/S500-RAT-HVNC-HAPP-HIdden-BROWSER-HRDP-REVERSE-PROXY-CRYPTO-MONITOR | 0 | 0| 
-| 20231221T12:57:45Z | Hidden VNC constitutes an ingenious stratagem harnessed by the most adept connoisseurs of technology. This method, by far, presents an exhilarating modality to govern the operation | https://github.com/Mxcoders2s/Pandora-HVNC-2FABypass-WebGL-Hidden-Desktop-Outlook-Foxmail-Stealer-Hidden-Browser | 0 | 0| 
-| 20231221T12:57:12Z | Remote Administration Either you are a private user wanting to control your PC from afar, or a big company which wants to administrate hundreds of machines from a single computer, | https://github.com/Mxcoders2s/ICARUS-NET2-NET4-BAT-VBS-VBA-HVNC-BINDER-PHP-FTPLOGS-RECOVERY-KEYLOG-WEBGL-ROOKIT | 0 | 0| 
-| 20231221T12:56:50Z | The X-Worm Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/Mxcoders2s/XWorm-V5.2-Edition-HVNC-RAT-DDOS-PASSWORDS-RANSOMWARE-CLIPPER-KEYLOGGER-UAC-BYPASS | 0 | 0| 
-| 20231221T11:03:04Z | Writeups for some of the challenges from BackdoorCTF conducted by IIT Roorkee | https://github.com/ayu-ch/backdoorCTF-23 | 1 | 0| 
-| 20231221T06:37:59Z | Persistent Powershell backdoor tool  | https://github.com/ELMERIKH/Keres | 51 | 9| 
 
 
 # symbolic execution on Github 推荐
