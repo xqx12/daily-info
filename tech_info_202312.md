@@ -123,6 +123,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231222T02:26:02Z | 再业务开发中，会遇到一些类似的东西，就将这些东西写进仓库里面 | https://github.com/pengdongxu/fuzzy-funicular | 0 | 0| 
 | 20231222T02:11:40Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50731 | 23388| 
 | 20231222T02:02:49Z | Null | https://github.com/nandiniparekh/Fuzzy-Logic | 0 | 0| 
 | 20231222T01:42:33Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1646 | 248| 
@@ -132,7 +133,6 @@
 | 20231221T13:24:16Z | Null | https://github.com/songtaehyeon/whs1st_fuzzingTeam | 0 | 0| 
 | 20231221T11:47:57Z | Null | https://github.com/Daniel051080/fuzzy-octo-engine | 0 | 0| 
 | 20231221T11:11:09Z | Evolutionary optimization with NSGA-2 for fuzzy clustering classififcation | https://github.com/MaximKl/evolutionary_optimization_fuzzy_classification | 0 | 0| 
-| 20231221T10:54:25Z | Калькулятор нечетких множеств, задание А. Привальцева | https://github.com/JDM170/fuzzy_set_calculator | 0 | 0| 
 
 
 
