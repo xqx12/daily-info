@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231222T02:20:12Z | cve-2023-50164 | Null | https://github.com/aaronm-sysdig/cve-2023-50164 | | 
 | 20231222T02:15:36Z | cve-2023-50164 | Null | https://github.com/miles3719/cve-2023-50164 | | 
 | 20231221T23:24:32Z | CVE-2020-24186 | Null | https://github.com/substing/CVE-2020-24186_reverse_shell_upload | | 
 | 20231221T16:49:20Z | CVE-2021-44228 | Null | https://github.com/dcm2406/CVE-2021-44228 | | 
@@ -35,7 +36,6 @@
 | 20231221T12:57:32Z | Cve-2023- | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/Mxcoders2s/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 | 20231221T12:57:23Z | Cve-2023- | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/Mxcoders2s/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 | 20231221T12:56:47Z | Cve-2023- | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/Mxcoders2s/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
-| 20231221T11:20:39Z | cve-2021-42013 | Apache 2.4.50 - Path Traversal or Remote Code Execution | https://github.com/Rubikcuv5/cve-2021-42013 | | 
 
 
 # klee on Github 推荐
