@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231222T02:20:12Z | cve-2023-50164 | Null | https://github.com/aaronm-sysdig/cve-2023-50164 | | 
+| 20231222T02:24:54Z | cve-2023-50164 | Null | https://github.com/aaronm-sysdig/cve-2023-50164 | | 
 | 20231222T02:15:36Z | cve-2023-50164 | Null | https://github.com/miles3719/cve-2023-50164 | | 
 | 20231221T23:24:32Z | CVE-2020-24186 | Null | https://github.com/substing/CVE-2020-24186_reverse_shell_upload | | 
 | 20231221T16:49:20Z | CVE-2021-44228 | Null | https://github.com/dcm2406/CVE-2021-44228 | | 
