@@ -41,6 +41,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231222T02:00:23Z | Null | https://github.com/Glacox/KleeFinal | 0 | 0| 
 | 20231222T01:09:48Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14716 | 436| 
 | 20231221T23:27:44Z | Null | https://github.com/Rustyymp4/KleeFinal | 0 | 0| 
 | 20231221T15:22:15Z | Experiments with running klee on coreutils | https://github.com/riesentoaster/klee-coreutils-experiments | 0 | 0| 
@@ -50,7 +51,6 @@
 | 20231218T06:28:12Z | Null | https://github.com/klee0589/klee0589.github.io | 0 | 0| 
 | 20231218T05:00:01Z | fan remake of the game Bomberman but with Klee from Genshin Impact as bomberman | https://github.com/Maractus6/Klee-er-Man | 0 | 0| 
 | 20231217T12:39:17Z | Null | https://github.com/nailstring/klee_tests | 0 | 0| 
-| 20231214T19:05:47Z | [Курсовая работа 2 курс (поздний залив)] Генератор парсеров на основе алгоритма Эрли | https://github.com/herrpaulvd/HappyKleene | 0 | 0| 
 
 
 # s2e on Github 推荐
