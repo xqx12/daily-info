@@ -123,6 +123,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231222T01:58:50Z | Null | https://github.com/nandiniparekh/Fuzzy-Logic | 0 | 0| 
 | 20231222T01:42:33Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1646 | 248| 
 | 20231222T00:52:10Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50729 | 23388| 
 | 20231222T00:50:04Z | Null | https://github.com/dickyathalla/fuzzyibros | 0 | 0| 
@@ -132,7 +133,6 @@
 | 20231221T11:47:57Z | Null | https://github.com/Daniel051080/fuzzy-octo-engine | 0 | 0| 
 | 20231221T11:11:09Z | Evolutionary optimization with NSGA-2 for fuzzy clustering classififcation | https://github.com/MaximKl/evolutionary_optimization_fuzzy_classification | 0 | 0| 
 | 20231221T10:54:25Z | Калькулятор нечетких множеств, задание А. Привальцева | https://github.com/JDM170/fuzzy_set_calculator | 0 | 0| 
-| 20231221T10:04:18Z | DirFuzz is a Python-based tool designed for directory and subdomain fuzzing | https://github.com/Sxmpl3/DirFuzz | 0 | 0| 
 
 
 
