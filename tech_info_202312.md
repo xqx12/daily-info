@@ -67,8 +67,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231222T01:57:35Z | This repository offers insights and a proof-of-concept tool to exploit two significant deserialization vulnerabilities in Inductive Automation%s Ignition software. | https://github.com/TecR0c/DoubleTrouble | 1 | 1| 
 | 20231222T01:42:22Z | Writeups for binary exploitation challenge which includes reconstructed source code | https://github.com/neosizzle/override | 0 | 0| 
-| 20231222T00:29:06Z | This repository offers insights and a proof-of-concept tool to exploit two significant deserialization vulnerabilities in Inductive Automation%s Ignition software. | https://github.com/TecR0c/DoubleTrouble | 0 | 0| 
 | 20231221T23:54:54Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-s | 1 | 0| 
 | 20231221T13:55:06Z | A repository containing some Linewize exploits, followed by others such as Chrome OS. This repository is simply just an organized holder for all publicly available vulnerabilities. | https://github.com/Sxri/Linesploit | 0 | 0| 
 | 20231221T12:57:38Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Mxcoders2s/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
@@ -123,7 +123,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231222T01:58:50Z | Null | https://github.com/nandiniparekh/Fuzzy-Logic | 0 | 0| 
+| 20231222T02:02:49Z | Null | https://github.com/nandiniparekh/Fuzzy-Logic | 0 | 0| 
 | 20231222T01:42:33Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1646 | 248| 
 | 20231222T00:52:10Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50729 | 23388| 
 | 20231222T00:50:04Z | Null | https://github.com/dickyathalla/fuzzyibros | 0 | 0| 
