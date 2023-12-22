@@ -82,7 +82,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231222T02:14:49Z | Null | https://github.com/sakshi4321/Strengthening-Deep-Neural-Network-Defenses-Against-Data-Poisoning-and-Backdoor-Attacks | 0 | 0| 
+| 20231222T02:15:59Z | Null | https://github.com/sakshi4321/Strengthening-Deep-Neural-Network-Defenses-Against-Data-Poisoning-and-Backdoor-Attacks | 0 | 0| 
 | 20231222T02:11:52Z | Strengthening Deep Neural Network Defenses Against Data Poisoning and Backdoor Attacks | https://github.com/vamsikrishh0099/ECE-GY-9163-Final-Project | 0 | 0| 
 | 20231221T23:18:13Z | Null | https://github.com/Ameykolhe/patch-backdoor | 0 | 0| 
 | 20231221T20:54:19Z | Writeups for some of the challenges of BACKDOOR CTF 2023 hosted by IITR | https://github.com/LU1F3R/BackdoorCTF_23 | 0 | 0| 
