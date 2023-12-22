@@ -11,41 +11,41 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20231222 | 工作汇报如何体现安全工作的价值 | https://mp.weixin.qq.com/s/Ev_6ehNDjB9Sn_g_nyqN2w| 
+| 20231222 | xAST（应用安全测试技术） | https://github.com/alipay/ant-application-security-testing-benchmark| 
+| 20231222 | TscanPlus: 一款综合性网络安全检测和运维工具 | https://github.com/TideSec/Tscanplus| 
+| 20231222 | ChatAFL：LLM模型指导的协议模糊测试 | https://mp.weixin.qq.com/s/N-c44iWT1HlKUvQ28poJrQ| 
 | 20231221 | 关于加解密测试的一些浅谈 | https://mp.weixin.qq.com/s/Co68c-M5SEVhjuDsSdziCg| 
 | 20231221 | 图神经网络和代码大模型提升二进制比对 | https://mp.weixin.qq.com/s/LHegfuU-zSPNBarLCNV0PQ| 
 | 20231221 | Codefuse-ChatBot：开源的 AI 智能助手 | https://mp.weixin.qq.com/s/tUBkFR6UeiwzhPIbsTEG9Q| 
 | 20231221 | 区块链安全训练营在线课程 | https://www.bilibili.com/video/BV14u4y1H7ik/| 
 | 20231220 | 蓝队应急响应工具箱使用手册 | https://mp.weixin.qq.com/s/NI2OMCaaEGSr3oVwXwoepw| 
 | 20231219 | DeepWukong-基于图神经网络的软件漏洞静态检测方法 | https://mp.weixin.qq.com/s/k_1QqhwERiQ_4gBKaB1Qqg| 
-| 20231219 | 2023年数据泄露态势报告 | https://mp.weixin.qq.com/s/u4-f8iHEYeUvSWnzo9dTGw| 
-| 20231218 | SecWiki周刊（第511期) | https://www.sec-wiki.com/weekly/511| 
-| 20231218 | CVE-2023-39785堆栈溢出漏洞分析 | https://mp.weixin.qq.com/s?__biz=Mzg4Nzk3MTg3MA==&mid=2247484732&idx=1&sn=5e8fce255a786deb0408c895ca6e7bda&chksm=cf830c4df8f4855bb78a59ba7c22ba3ed55741d60d7de15ee46faf8f7b8856867a0e0c0c5f2b&mpshare=1&scene=1&srcid=1218xHOu73EvIwUPm3S6pDQH&sharer_shar| 
-| 20231216 | 模拟 TLS 指纹实现反反爬 | https://mp.weixin.qq.com/s/kk5ihEWfhF_nTW3WGqCx3A| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231222T12:49:29Z | CVE-2020-24186 | Null | https://github.com/substing/CVE-2020-24186_reverse_shell_upload | | 
+| 20231222T09:40:17Z | 未知编号 | Check and report for cve_2021_44228 (log4shell) on your system. | https://github.com/robertdebock/ansible-role-cve_2021_44228 | | 
+| 20231222T08:45:07Z | cve-2021-44026 | A demo exploit for CVE-2021-44026, a SQL injection in Roundcube | https://github.com/pentesttoolscom/roundcube-cve-2021-44026 | | 
+| 20231222T08:42:00Z | cve-2023-29357 | Null | https://github.com/Guillaume-Risch/cve-2023-29357-Sharepoint | | 
 | 20231222T02:24:54Z | cve-2023-50164 | Null | https://github.com/aaronm-sysdig/cve-2023-50164 | | 
 | 20231222T02:15:36Z | cve-2023-50164 | Null | https://github.com/miles3719/cve-2023-50164 | | 
-| 20231221T23:24:32Z | CVE-2020-24186 | Null | https://github.com/substing/CVE-2020-24186_reverse_shell_upload | | 
 | 20231221T16:49:20Z | CVE-2021-44228 | Null | https://github.com/dcm2406/CVE-2021-44228 | | 
 | 20231221T15:44:04Z | CVE-2021-43798 | Directory Traversal and Arbitrary File Read on Grafana | https://github.com/wagneralves/CVE-2021-43798 | | 
 | 20231221T12:57:38Z | Cve-2023- | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Mxcoders2s/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 | 20231221T12:57:35Z | CVE-2023-50072 | A stored cross-site scripting (XSS) vulnerability exists in OpenKM version 7.1.40. | https://github.com/ahrixia/CVE-2023-50072 | | 
-| 20231221T12:57:32Z | Cve-2023- | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/Mxcoders2s/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
-| 20231221T12:57:23Z | Cve-2023- | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/Mxcoders2s/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
-| 20231221T12:56:47Z | Cve-2023- | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/Mxcoders2s/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231222T12:22:04Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2377 | 645| 
+| 20231222T12:21:15Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14723 | 436| 
 | 20231222T02:00:23Z | Null | https://github.com/Glacox/KleeFinal | 0 | 0| 
-| 20231222T01:09:48Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14716 | 436| 
 | 20231221T23:27:44Z | Null | https://github.com/Rustyymp4/KleeFinal | 0 | 0| 
 | 20231221T15:22:15Z | Experiments with running klee on coreutils | https://github.com/riesentoaster/klee-coreutils-experiments | 0 | 0| 
-| 20231221T04:17:13Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2378 | 645| 
 | 20231220T13:26:38Z | Config files for my GitHub profile. | https://github.com/Kleen3/Kleen3 | 0 | 0| 
 | 20231219T12:35:10Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 102 | 22| 
 | 20231218T06:28:12Z | Null | https://github.com/klee0589/klee0589.github.io | 0 | 0| 
@@ -56,8 +56,8 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231222T07:16:05Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 365 | 83| 
 | 20231221T11:05:35Z | Documents for Spacecraft Simulation Environment | https://github.com/ut-issl/s2e-documents | 10 | 6| 
-| 20231221T04:14:26Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 364 | 83| 
 | 20231218T06:57:41Z | Semester 2 Bash, Docker, Documentation and various exercises | https://github.com/Sloopin/S2Exercises | 0 | 0| 
 | 20231215T05:51:37Z | Null | https://github.com/theoim/S2E_config_module_base | 0 | 0| 
 | 20231204T04:22:56Z | Null | https://github.com/MetadataGitTesting/s2es3Kn8 | 0 | 0| 
@@ -67,6 +67,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231222T12:27:08Z | This Repository will contain various tools, scripts and commands used in Active Directory Enumeration and Exploitation. | https://github.com/SecTheBit/RedTeam-Toolkits | 2 | 0| 
+| 20231222T07:25:23Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5590 | 1083| 
+| 20231222T07:15:51Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 78 | 12| 
 | 20231222T02:38:54Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5702 | 774| 
 | 20231222T01:57:35Z | This repository offers insights and a proof-of-concept tool to exploit two significant deserialization vulnerabilities in Inductive Automation%s Ignition software. | https://github.com/TecR0c/DoubleTrouble | 1 | 1| 
 | 20231222T01:42:22Z | Writeups for binary exploitation challenge which includes reconstructed source code | https://github.com/neosizzle/override | 0 | 0| 
@@ -74,24 +77,21 @@
 | 20231221T13:55:06Z | A repository containing some Linewize exploits, followed by others such as Chrome OS. This repository is simply just an organized holder for all publicly available vulnerabilities. | https://github.com/Sxri/Linesploit | 0 | 0| 
 | 20231221T12:57:38Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Mxcoders2s/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 | 20231221T12:57:32Z | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/Mxcoders2s/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
-| 20231221T12:57:23Z | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/Mxcoders2s/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
-| 20231221T12:56:52Z | Ephemeral discourse is embodied by the likes of Messenger Sessions, the digital portraits of Accounts, and the enigmatic Token | https://github.com/Mxcoders2s/Discord-Image-Logger-Slient-Exploit-Builder-Grabber-Stealer | 0 | 0| 
-| 20231221T12:56:47Z | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/Mxcoders2s/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231222T12:00:18Z | Defense against backdoor attacks in Federated learning | https://github.com/kosmos99/DEF_FED | 0 | 0| 
+| 20231222T08:45:39Z | backdoor ( command prompt control, screenshot hooking, keyboard hooking, ransomware ) | https://github.com/yangbumki/backdoor | 0 | 0| 
+| 20231222T08:36:29Z | BitRAT CrackedIt is meticulously constructed utilizing the C++ programming language. It stands as the most recent iteration of the premier PC RAT for the year 2023. Regarded as a prized tool | https://github.com/Mrxteamss/Bitrat-Hvnc-Rat-Remote-Control-Av-Bypass | 0 | 0| 
+| 20231222T04:42:21Z | Null | https://github.com/Teja78906/Backdoor | 0 | 0| 
 | 20231222T02:17:12Z | Null | https://github.com/sakshi4321/Strengthening-Deep-Neural-Network-Defenses-Against-Data-Poisoning-and-Backdoor-Attacks | 0 | 0| 
 | 20231222T02:11:52Z | Strengthening Deep Neural Network Defenses Against Data Poisoning and Backdoor Attacks | https://github.com/vamsikrishh0099/ECE-GY-9163-Final-Project | 0 | 0| 
 | 20231221T23:18:13Z | Null | https://github.com/Ameykolhe/patch-backdoor | 0 | 0| 
 | 20231221T20:54:19Z | Writeups for some of the challenges of BACKDOOR CTF 2023 hosted by IITR | https://github.com/LU1F3R/BackdoorCTF_23 | 0 | 0| 
 | 20231221T17:37:22Z | Persistent Powershell backdoor tool  | https://github.com/ELMERIKH/Keres | 53 | 9| 
 | 20231221T17:01:13Z | PyBotNet: A High-Level Remote Control Framework for Python with Telegram Integration | https://github.com/onionj/pybotnet | 230 | 66| 
-| 20231221T15:48:53Z | Simple trojan backdoor in python | https://github.com/noctadetp/simple-python-trojan | 1 | 0| 
-| 20231221T13:07:12Z | AsyncRAT stands as a Remote Access Tool (RAT) conceived for the purpose of distant supervision and command over remote computers through an encrypted connection ensuring security. | https://github.com/Mrxteamss/AsyncRAT-Fud-Fixed-Dll-Remote-Administration-Tool-New | 0 | 0| 
-| 20231221T13:07:08Z | BitRAT CrackedIt is meticulously constructed utilizing the C++ programming language. It stands as the most recent iteration of the premier PC RAT for the year 2023. Regarded as a prized tool | https://github.com/Mrxteamss/Bitrat-Hvnc-Rat-Remote-Control-Av-Bypass | 0 | 0| 
-| 20231221T13:05:49Z | VenomControl Rat is a Remote Access Tool (RAT) designed to remotely monitor and control other computers through a secure encrypted connection | https://github.com/Mrxteamss/VenomControl-Rat-Crack-Source | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -112,7 +112,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231221T11:50:13Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 136 | 12| 
+| 20231222T11:53:33Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 137 | 12| 
 | 20231220T08:08:32Z | Corresponding code for the paper: %Sneaky Spikes: Uncovering Stealthy Backdoor Attacks in Spiking Neural Networks with Neuromorphic Data%, at Network and Distributed System Security (NDSS). | https://github.com/GorkaAbad/Sneaky-Spikes | 1 | 0| 
 | 20231219T10:09:15Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 105 | 4| 
 | 20231215T04:35:58Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate | 35 | 2| 
