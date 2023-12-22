@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231222T02:38:54Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5702 | 774| 
 | 20231222T01:57:35Z | This repository offers insights and a proof-of-concept tool to exploit two significant deserialization vulnerabilities in Inductive Automation%s Ignition software. | https://github.com/TecR0c/DoubleTrouble | 1 | 1| 
 | 20231222T01:42:22Z | Writeups for binary exploitation challenge which includes reconstructed source code | https://github.com/neosizzle/override | 0 | 0| 
 | 20231221T23:54:54Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-s | 1 | 0| 
@@ -76,7 +77,6 @@
 | 20231221T12:57:23Z | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/Mxcoders2s/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 | 20231221T12:56:52Z | Ephemeral discourse is embodied by the likes of Messenger Sessions, the digital portraits of Accounts, and the enigmatic Token | https://github.com/Mxcoders2s/Discord-Image-Logger-Slient-Exploit-Builder-Grabber-Stealer | 0 | 0| 
 | 20231221T12:56:47Z | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/Mxcoders2s/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
-| 20231221T12:09:22Z | This repo contains IOC, malware and malware analysis associated with AWS cloud | https://github.com/unknownhad/AWSAttacks | 52 | 6| 
 
 
 # backdoor on Github 推荐
