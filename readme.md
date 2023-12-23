@@ -66,6 +66,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231223T13:44:38Z | GasGuard Pro: Implementasi Sistem Deteksi Dini Kebocoran LPG dan Automasi Exhaust Fan Berbasis Fuzzy untuk Dapur Industri. | https://github.com/rizereze123/fuzzy-lpg-leaked-detection | 0 | 0| 
 | 20231223T11:45:07Z | Match based region extractor using Fuzzy Logic | https://github.com/Kushagra005/Fuzzy-Region-Extractor | 0 | 0| 
 | 20231223T11:39:05Z | Null | https://github.com/ethereum/solidity-fuzzing-corpus | 16 | 9| 
 | 20231223T11:35:26Z | Null | https://github.com/Raj-2002/Maven-Fuzzy-Factory-Database | 0 | 0| 
@@ -75,7 +76,6 @@
 | 20231223T10:09:25Z | Expert system based on fuzzy reasoning | https://github.com/AmadeuszKobos/Fuzzy_Inference | 0 | 0| 
 | 20231223T10:01:07Z | Null | https://github.com/habibulloxon/fuzzy-umbrella | 0 | 0| 
 | 20231223T02:52:38Z | Null | https://github.com/sailema21/fuzzy-octo | 13 | 0| 
-| 20231223T00:06:44Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50760 | 23390| 
 
 
 
