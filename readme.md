@@ -75,6 +75,7 @@
 | --- | --- | --- | --- | ---| 
 | 20231222T12:22:04Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2377 | 645| 
 | 20231222T07:16:05Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 365 | 83| 
+| 20231222T02:18:43Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 67 | 9| 
 
 
 # big4 on Github 推荐
