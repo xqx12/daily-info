@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231223T13:33:13Z | Null | https://github.com/altilunium/jaws.exploit | 0 | 0| 
 | 20231223T13:24:20Z | word exploit | https://github.com/Re-Edit/word-exploit-test | 0 | 0| 
 | 20231223T13:19:44Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Mxcoders2s/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 1 | 0| 
 | 20231223T12:44:05Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5594 | 1084| 
@@ -76,7 +77,6 @@
 | 20231222T12:27:08Z | This Repository will contain various tools, scripts and commands used in Active Directory Enumeration and Exploitation. | https://github.com/SecTheBit/RedTeam-Toolkits | 2 | 0| 
 | 20231222T07:29:25Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5731 | 727| 
 | 20231222T07:15:51Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 78 | 12| 
-| 20231222T04:35:34Z | A linearity-exploiting sparse nonlinear constrained optimization problem solver that uses the interior-point method. | https://github.com/SleipnirGroup/Sleipnir | 21 | 5| 
 
 
 # backdoor on Github 推荐
