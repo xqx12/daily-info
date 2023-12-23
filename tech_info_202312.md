@@ -123,9 +123,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231223T01:47:15Z | Null | https://github.com/sailema21/fuzzy-octo | 4 | 0| 
 | 20231223T00:06:44Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50760 | 23390| 
 | 20231222T23:53:57Z | Null | https://github.com/Chmubeeng168/fuzzy-dollop | 0 | 0| 
-| 20231222T23:51:45Z | Null | https://github.com/sailema21/fuzzy-octo | 3 | 0| 
 | 20231222T22:42:22Z | Null | https://github.com/jasonli0616/fuzzpedal | 0 | 0| 
 | 20231222T21:01:56Z | Null | https://github.com/kungog/fuzzy-meme | 0 | 0| 
 | 20231222T13:16:40Z | UPN Veteran Jatim , Aquaponic pH Control-Monitoring with Type-2 Fuzzy Method Based on IoT Bot , S1 Thesis Project | https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot | 1 | 0| 

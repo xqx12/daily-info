@@ -87,7 +87,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20231222T23:53:57Z | Null | https://github.com/Chmubeeng168/fuzzy-dollop | 0 | 0| 
-| 20231222T23:51:45Z | Null | https://github.com/sailema21/fuzzy-octo | 3 | 0| 
 | 20231222T22:42:22Z | Null | https://github.com/jasonli0616/fuzzpedal | 0 | 0| 
 | 20231222T21:01:56Z | Null | https://github.com/kungog/fuzzy-meme | 0 | 0| 
 | 20231222T13:16:40Z | UPN Veteran Jatim , Aquaponic pH Control-Monitoring with Type-2 Fuzzy Method Based on IoT Bot , S1 Thesis Project | https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot | 1 | 0| 
@@ -96,6 +95,7 @@
 | 20231222T05:51:22Z | NucleiFuzzer is a Powerful Automation tool for detecting XSS, SQLi, SSRF, Open-Redirect, etc.. Vulnerabilities in Web Applications | https://github.com/0xKayala/NucleiFuzzer | 906 | 135| 
 | 20231222T02:26:02Z | 再业务开发中，会遇到一些类似的东西，就将这些东西写进仓库里面 | https://github.com/pengdongxu/fuzzy-funicular | 0 | 0| 
 | 20231222T02:02:49Z | Null | https://github.com/nandiniparekh/Fuzzy-Logic | 0 | 0| 
+| 20231222T02:02:45Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9256 | 2069| 
 
 
 
