@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231223T13:19:44Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Mxcoders2s/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 1 | 0| 
 | 20231223T12:44:05Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5594 | 1084| 
 | 20231222T22:56:53Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 9033 | 2067| 
 | 20231222T20:37:36Z | An free discord promotion generator | https://github.com/TheCuteOwl/Discord-Promo-Generator | 3 | 1| 
@@ -76,7 +77,6 @@
 | 20231222T07:15:51Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 78 | 12| 
 | 20231222T04:35:34Z | A linearity-exploiting sparse nonlinear constrained optimization problem solver that uses the interior-point method. | https://github.com/SleipnirGroup/Sleipnir | 21 | 5| 
 | 20231222T03:18:04Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5703 | 774| 
-| 20231222T01:57:35Z | This repository offers insights and a proof-of-concept tool to exploit two significant deserialization vulnerabilities in Inductive Automation%s Ignition software. | https://github.com/TecR0c/DoubleTrouble | 1 | 1| 
 
 
 # backdoor on Github 推荐
