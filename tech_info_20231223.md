@@ -38,6 +38,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231223T13:21:12Z | Null | https://github.com/Re-Edit/word-exploit-test | 0 | 0| 
 | 20231223T13:19:44Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Mxcoders2s/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 1 | 0| 
 | 20231223T12:44:05Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5594 | 1084| 
 
@@ -45,6 +46,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231223T13:21:03Z | Shell Bypass free , Backdoor Free | https://github.com/Mr-7Mind/MiniShell | 34 | 8| 
 | 20231223T09:48:01Z | The core code for our paper %Beyond Traditional Threats: A Persistent Backdoor Attack on Federated Learning%. | https://github.com/PhD-TaoLiu/FCBA | 0 | 0| 
 | 20231223T09:24:02Z | FUD Payload - Reverse shell calculator app - Flutter project | https://github.com/git5loxosec/flutter_dart_android_payload | 3 | 0| 
 | 20231223T03:43:22Z | Persistent Powershell backdoor tool  | https://github.com/ELMERIKH/Keres | 55 | 9| 

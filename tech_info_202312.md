@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231223T13:21:12Z | Null | https://github.com/Re-Edit/word-exploit-test | 0 | 0| 
 | 20231223T13:19:44Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Mxcoders2s/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 1 | 0| 
 | 20231223T12:44:05Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5594 | 1084| 
 | 20231222T22:56:53Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 9033 | 2067| 
@@ -76,12 +77,12 @@
 | 20231222T07:29:25Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5731 | 727| 
 | 20231222T07:15:51Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 78 | 12| 
 | 20231222T04:35:34Z | A linearity-exploiting sparse nonlinear constrained optimization problem solver that uses the interior-point method. | https://github.com/SleipnirGroup/Sleipnir | 21 | 5| 
-| 20231222T03:18:04Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5703 | 774| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231223T13:21:03Z | Shell Bypass free , Backdoor Free | https://github.com/Mr-7Mind/MiniShell | 34 | 8| 
 | 20231223T09:48:01Z | The core code for our paper %Beyond Traditional Threats: A Persistent Backdoor Attack on Federated Learning%. | https://github.com/PhD-TaoLiu/FCBA | 0 | 0| 
 | 20231223T09:24:02Z | FUD Payload - Reverse shell calculator app - Flutter project | https://github.com/git5loxosec/flutter_dart_android_payload | 3 | 0| 
 | 20231223T03:43:22Z | Persistent Powershell backdoor tool  | https://github.com/ELMERIKH/Keres | 55 | 9| 
@@ -91,7 +92,6 @@
 | 20231222T04:42:21Z | Null | https://github.com/Teja78906/Backdoor | 0 | 0| 
 | 20231222T02:17:12Z | Null | https://github.com/sakshi4321/Strengthening-Deep-Neural-Network-Defenses-Against-Data-Poisoning-and-Backdoor-Attacks | 0 | 1| 
 | 20231222T02:11:52Z | Strengthening Deep Neural Network Defenses Against Data Poisoning and Backdoor Attacks | https://github.com/vamsikrishh0099/ECE-GY-9163-Final-Project | 0 | 0| 
-| 20231221T23:18:13Z | Null | https://github.com/Ameykolhe/patch-backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
