@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231223T13:19:44Z | Cve-2023- | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Mxcoders2s/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 | 20231223T11:54:52Z | CVE-2023-4911 | Null | https://github.com/puckiestyle/CVE-2023-4911 | | 
 | 20231223T11:39:58Z | CVE-2023-6663 | Null | https://github.com/cli-ish/CVE-2023-6663 | | 
 | 20231223T11:39:51Z | CVE-2023-6661 | Null | https://github.com/cli-ish/CVE-2023-6661 | | 
@@ -35,7 +36,6 @@
 | 20231222T18:10:52Z | CVE-2023-49438 | CVE-2023-49438 - Open Redirect Vulnerability in Flask-Security-Too | https://github.com/brandon-t-elliott/CVE-2023-49438 | | 
 | 20231222T16:08:00Z | CVE-2023-51281 | Multiple cross-site scripting (XSS) vulnerabilities in /customer_support/ajax.php?action=save_customer in Customer Support System 1.0 allow authenticated attackers to execute to execute arbitrary web scripts or HTML via a crafted payload injected into the “firstname”, "lastname", "middlename", "contact" or “address” parameters. | https://github.com/geraldoalcantara/CVE-2023-51281 | | 
 | 20231222T09:40:17Z | 未知编号 | Check and report for cve_2021_44228 (log4shell) on your system. | https://github.com/robertdebock/ansible-role-cve_2021_44228 | | 
-| 20231222T08:45:07Z | cve-2021-44026 | A demo exploit for CVE-2021-44026, a SQL injection in Roundcube | https://github.com/pentesttoolscom/roundcube-cve-2021-44026 | | 
 
 
 # klee on Github 推荐

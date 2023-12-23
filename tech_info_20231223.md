@@ -16,6 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231223T13:19:44Z | Cve-2023- | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Mxcoders2s/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 | 20231223T11:54:52Z | CVE-2023-4911 | Null | https://github.com/puckiestyle/CVE-2023-4911 | | 
 | 20231223T11:39:58Z | CVE-2023-6663 | Null | https://github.com/cli-ish/CVE-2023-6663 | | 
 | 20231223T11:39:51Z | CVE-2023-6661 | Null | https://github.com/cli-ish/CVE-2023-6661 | | 
