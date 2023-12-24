@@ -123,6 +123,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231224T02:11:23Z | tool for fuzzing Directories  in any website  from terminal | https://github.com/devmoekamel/fuzz-tool | 0 | 0| 
 | 20231224T01:21:10Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50774 | 23390| 
 | 20231223T21:05:05Z | Null | https://github.com/y1s3r-1905/fuzzy-guide | 0 | 0| 
 | 20231223T15:44:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9257 | 2069| 
@@ -132,7 +133,6 @@
 | 20231223T11:35:26Z | Null | https://github.com/Raj-2002/Maven-Fuzzy-Factory-Database | 0 | 0| 
 | 20231223T11:35:23Z | Null | https://github.com/Knulon/fuzzy-c-means | 1 | 0| 
 | 20231223T11:34:34Z | Null | https://github.com/dikaizm/fuzzy-logic | 0 | 0| 
-| 20231223T11:12:09Z | Null | https://github.com/Regulus398/fuzzy-funicular | 0 | 0| 
 
 
 
