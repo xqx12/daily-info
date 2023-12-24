@@ -123,7 +123,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231224T00:28:06Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50773 | 23390| 
+| 20231224T01:21:10Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50774 | 23390| 
 | 20231223T21:05:05Z | Null | https://github.com/y1s3r-1905/fuzzy-guide | 0 | 0| 
 | 20231223T15:44:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9257 | 2069| 
 | 20231223T13:44:38Z | GasGuard Pro: Implementasi Sistem Deteksi Dini Kebocoran LPG dan Automasi Exhaust Fan Berbasis Fuzzy untuk Dapur Industri. | https://github.com/rizereze123/fuzzy-lpg-leaked-detection | 0 | 0| 
