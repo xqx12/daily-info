@@ -82,6 +82,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231224T02:59:41Z | The core code for our paper %Beyond Traditional Threats: A Persistent Backdoor Attack on Federated Learning%. | https://github.com/PhD-TaoLiu/HEU_ISRC_FCBA | 1 | 0| 
 | 20231224T02:33:43Z | The core code for our paper %Beyond Traditional Threats: A Persistent Backdoor Attack on Federated Learning%. | https://github.com/PhD-TaoLiu/FCBA | 0 | 0| 
 | 20231223T20:16:42Z | Null | https://github.com/Adnan4290/nc-backdoor | 0 | 0| 
 | 20231223T15:58:14Z | Computing) capabilities. It boasts compatibility with a spectrum of 20 concealed browsers. Pegasus HVNC facet facilitates the orchestration of a concealed desktop environment | https://github.com/Mrxteamss/Pegasus-Pantheon-HVNC-V2-VNC-Hidden-Browser-Remote-Administration-Rat | 1 | 0| 
@@ -91,7 +92,6 @@
 | 20231223T13:21:03Z | Shell Bypass free , Backdoor Free | https://github.com/Mr-7Mind/MiniShell | 34 | 8| 
 | 20231223T09:24:02Z | FUD Payload - Reverse shell calculator app - Flutter project | https://github.com/git5loxosec/flutter_dart_android_payload | 3 | 0| 
 | 20231223T03:43:22Z | Persistent Powershell backdoor tool  | https://github.com/ELMERIKH/Keres | 55 | 9| 
-| 20231222T12:00:18Z | Defense against backdoor attacks in Federated learning | https://github.com/kosmos99/DEF_FED | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -126,7 +126,7 @@
 | 20231224T02:48:55Z | A “Fuzzy Logic Toolbox” provides functions and apps for designing and simulating fuzzy logic systems. It lets the user specify and configure input variables, output variables, membership functions, rules and defuzzification methods. | https://github.com/Nadaesam/Fuzzy-Logic-Toolbox | 0 | 0| 
 | 20231224T02:20:07Z | Null | https://github.com/pausia/Implementasi-K-Means-dan-Fuzzy-C-Means | 0 | 0| 
 | 20231224T02:12:32Z | tool for fuzzing Directories  in any website  from terminal | https://github.com/devmoekamel/fuzz-tool | 1 | 0| 
-| 20231224T01:21:10Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50774 | 23390| 
+| 20231224T01:21:10Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50774 | 23391| 
 | 20231223T21:05:05Z | Null | https://github.com/y1s3r-1905/fuzzy-guide | 0 | 0| 
 | 20231223T15:44:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9257 | 2069| 
 | 20231223T13:44:38Z | GasGuard Pro: Implementasi Sistem Deteksi Dini Kebocoran LPG dan Automasi Exhaust Fan Berbasis Fuzzy untuk Dapur Industri. | https://github.com/rizereze123/fuzzy-lpg-leaked-detection | 0 | 0| 
