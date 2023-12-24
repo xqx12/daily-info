@@ -16,7 +16,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231223T13:19:44Z | Cve-2023- | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Mxcoders2s/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 | 20231223T11:54:52Z | CVE-2023-4911 | Null | https://github.com/puckiestyle/CVE-2023-4911 | | 
 | 20231223T11:39:58Z | CVE-2023-6663 | Null | https://github.com/cli-ish/CVE-2023-6663 | | 
 | 20231223T11:39:51Z | CVE-2023-6661 | Null | https://github.com/cli-ish/CVE-2023-6661 | | 
@@ -42,7 +41,6 @@
 | 20231223T21:39:31Z | Developed for Escape From Tarkov and written in C++ and C#. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/Rtx4090sx/Escape-From-Tarkov-Eft-Aimbot-esp-Loots-Exploits-Max-Skills-High-Jump | 0 | 0| 
 | 20231223T13:45:51Z | Null | https://github.com/altilunium/jaws.exploit | 0 | 0| 
 | 20231223T13:24:20Z | word exploit | https://github.com/Re-Edit/word-exploit-test | 0 | 0| 
-| 20231223T13:19:44Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Mxcoders2s/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 1 | 0| 
 | 20231223T12:44:05Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5594 | 1084| 
 | 20231223T03:43:39Z | A Ruby micro-framework for writing and running exploits | https://github.com/ronin-rb/ronin-exploits | 59 | 21| 
 
