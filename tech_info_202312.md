@@ -82,13 +82,13 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231224T02:33:43Z | The core code for our paper %Beyond Traditional Threats: A Persistent Backdoor Attack on Federated Learning%. | https://github.com/PhD-TaoLiu/FCBA | 0 | 0| 
 | 20231223T20:16:42Z | Null | https://github.com/Adnan4290/nc-backdoor | 0 | 0| 
 | 20231223T15:58:14Z | Computing) capabilities. It boasts compatibility with a spectrum of 20 concealed browsers. Pegasus HVNC facet facilitates the orchestration of a concealed desktop environment | https://github.com/Mrxteamss/Pegasus-Pantheon-HVNC-V2-VNC-Hidden-Browser-Remote-Administration-Rat | 1 | 0| 
 | 20231223T15:28:50Z | ScanBackShell (Scanning Backdoor Shell) adalah sebuah skrip bash sederhana yang dirancang untuk memindai direktori tertentu dan mencari potensi backdoor shell dalam berbagai jenis file. Skrip ini menggunakan daftar ekstensi file dan kata kunci yang umumnya terkait dengan backdoor atau serangan keamanan pada aplikasi web. | https://github.com/hydragidev/ScanBackShell | 0 | 0| 
 | 20231223T14:35:50Z | Null | https://github.com/625LuxOmniaVincit/the-backdoor-factory | 0 | 0| 
 | 20231223T14:08:23Z | Factoring composites with a (DV^2 + 1)/4 prime factor. | https://github.com/Mistsuu/backdoor-primes | 0 | 0| 
 | 20231223T13:21:03Z | Shell Bypass free , Backdoor Free | https://github.com/Mr-7Mind/MiniShell | 34 | 8| 
-| 20231223T09:48:01Z | The core code for our paper %Beyond Traditional Threats: A Persistent Backdoor Attack on Federated Learning%. | https://github.com/PhD-TaoLiu/FCBA | 0 | 0| 
 | 20231223T09:24:02Z | FUD Payload - Reverse shell calculator app - Flutter project | https://github.com/git5loxosec/flutter_dart_android_payload | 3 | 0| 
 | 20231223T03:43:22Z | Persistent Powershell backdoor tool  | https://github.com/ELMERIKH/Keres | 55 | 9| 
 | 20231222T12:00:18Z | Defense against backdoor attacks in Federated learning | https://github.com/kosmos99/DEF_FED | 0 | 0| 

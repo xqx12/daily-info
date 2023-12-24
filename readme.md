@@ -54,7 +54,6 @@
 | 20231223T14:35:50Z | Null | https://github.com/625LuxOmniaVincit/the-backdoor-factory | 0 | 0| 
 | 20231223T14:08:23Z | Factoring composites with a (DV^2 + 1)/4 prime factor. | https://github.com/Mistsuu/backdoor-primes | 0 | 0| 
 | 20231223T13:21:03Z | Shell Bypass free , Backdoor Free | https://github.com/Mr-7Mind/MiniShell | 34 | 8| 
-| 20231223T09:48:01Z | The core code for our paper %Beyond Traditional Threats: A Persistent Backdoor Attack on Federated Learning%. | https://github.com/PhD-TaoLiu/FCBA | 0 | 0| 
 | 20231223T09:24:02Z | FUD Payload - Reverse shell calculator app - Flutter project | https://github.com/git5loxosec/flutter_dart_android_payload | 3 | 0| 
 | 20231223T03:43:22Z | Persistent Powershell backdoor tool  | https://github.com/ELMERIKH/Keres | 55 | 9| 
 
