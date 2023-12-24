@@ -27,7 +27,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231223T13:56:34Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14734 | 438| 
+| 20231223T19:45:20Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14737 | 438| 
+| 20231223T17:54:19Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2378 | 645| 
 
 
 # s2e on Github 推荐
@@ -38,6 +39,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231223T21:39:31Z | Developed for Escape From Tarkov and written in C++ and C#. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/Rtx4090sx/Escape-From-Tarkov-Eft-Aimbot-esp-Loots-Exploits-Max-Skills-High-Jump | 0 | 0| 
 | 20231223T13:45:51Z | Null | https://github.com/altilunium/jaws.exploit | 0 | 0| 
 | 20231223T13:24:20Z | word exploit | https://github.com/Re-Edit/word-exploit-test | 0 | 0| 
 | 20231223T13:19:44Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Mxcoders2s/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 1 | 0| 
@@ -47,6 +49,11 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231223T20:16:42Z | Null | https://github.com/Adnan4290/nc-backdoor | 0 | 0| 
+| 20231223T15:58:14Z | Computing) capabilities. It boasts compatibility with a spectrum of 20 concealed browsers. Pegasus HVNC facet facilitates the orchestration of a concealed desktop environment | https://github.com/Mrxteamss/Pegasus-Pantheon-HVNC-V2-VNC-Hidden-Browser-Remote-Administration-Rat | 1 | 0| 
+| 20231223T15:28:50Z | ScanBackShell (Scanning Backdoor Shell) adalah sebuah skrip bash sederhana yang dirancang untuk memindai direktori tertentu dan mencari potensi backdoor shell dalam berbagai jenis file. Skrip ini menggunakan daftar ekstensi file dan kata kunci yang umumnya terkait dengan backdoor atau serangan keamanan pada aplikasi web. | https://github.com/hydragidev/ScanBackShell | 0 | 0| 
+| 20231223T14:35:50Z | Null | https://github.com/625LuxOmniaVincit/the-backdoor-factory | 0 | 0| 
+| 20231223T14:08:23Z | Factoring composites with a (DV^2 + 1)/4 prime factor. | https://github.com/Mistsuu/backdoor-primes | 0 | 0| 
 | 20231223T13:21:03Z | Shell Bypass free , Backdoor Free | https://github.com/Mr-7Mind/MiniShell | 34 | 8| 
 | 20231223T09:48:01Z | The core code for our paper %Beyond Traditional Threats: A Persistent Backdoor Attack on Federated Learning%. | https://github.com/PhD-TaoLiu/FCBA | 0 | 0| 
 | 20231223T09:24:02Z | FUD Payload - Reverse shell calculator app - Flutter project | https://github.com/git5loxosec/flutter_dart_android_payload | 3 | 0| 
