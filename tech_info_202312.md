@@ -123,7 +123,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231224T02:39:57Z | A “Fuzzy Logic Toolbox” provides functions and apps for designing and simulating fuzzy logic systems. It lets the user specify and configure input variables, output variables, membership functions, rules and defuzzification methods. | https://github.com/Nadaesam/Fuzzy-Logic-Toolbox | 0 | 0| 
+| 20231224T02:48:55Z | A “Fuzzy Logic Toolbox” provides functions and apps for designing and simulating fuzzy logic systems. It lets the user specify and configure input variables, output variables, membership functions, rules and defuzzification methods. | https://github.com/Nadaesam/Fuzzy-Logic-Toolbox | 0 | 0| 
 | 20231224T02:20:07Z | Null | https://github.com/pausia/Implementasi-K-Means-dan-Fuzzy-C-Means | 0 | 0| 
 | 20231224T02:12:32Z | tool for fuzzing Directories  in any website  from terminal | https://github.com/devmoekamel/fuzz-tool | 1 | 0| 
 | 20231224T01:21:10Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50774 | 23390| 
