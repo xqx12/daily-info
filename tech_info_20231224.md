@@ -16,7 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231224T13:03:55Z | Cve-2023- | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Mxcoders2s/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
+| 20231224T13:34:34Z | Cve-2023- | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Mxcoders2s/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 | 20231224T12:59:21Z | CVE-2023-49438 | CVE-2023-49438 - Open Redirect Vulnerability in Flask-Security-Too | https://github.com/brandon-t-elliott/CVE-2023-49438 | | 
 | 20231224T11:11:04Z | CVE-2022-36779 | Exploit for CVE-2022-36779 authenticated Command Injection | https://github.com/rootDR/CVE-2022-36779 | | 
 
@@ -37,8 +37,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231224T13:34:34Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Mxcoders2s/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 7 | 0| 
 | 20231224T13:30:32Z | A little bit abusing of the partnership Discord x Opera GX | https://github.com/sirthirrygolooo/NitroPartnerPromotionMassExploit | 0 | 0| 
-| 20231224T13:03:55Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Mxcoders2s/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 6 | 0| 
 | 20231224T12:36:59Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5732 | 727| 
 | 20231224T06:08:20Z | An free discord promotion and nitro generator | https://github.com/TheCuteOwl/Discord-Promo-Nitro-Generator | 4 | 1| 
 | 20231224T03:24:42Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5595 | 1084| 
