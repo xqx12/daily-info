@@ -73,10 +73,10 @@
 | 20231223T13:24:20Z | word exploit | https://github.com/Re-Edit/word-exploit-test | 0 | 0| 
 | 20231223T13:19:44Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Mxcoders2s/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 1 | 0| 
 | 20231223T12:44:05Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5594 | 1084| 
+| 20231223T03:43:39Z | A Ruby micro-framework for writing and running exploits | https://github.com/ronin-rb/ronin-exploits | 59 | 21| 
 | 20231222T22:56:53Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 9033 | 2067| 
 | 20231222T20:37:36Z | An free discord promotion generator | https://github.com/TheCuteOwl/Discord-Promo-Generator | 3 | 1| 
 | 20231222T19:02:44Z | A Discord Nitro promo generator, built on Python, that exploits the OperaGX × Discord Nitro partnership. (Generates a code in less than a second, more than 5000 codes per hour!) | https://github.com/DenisDziganchuk/Discord-Nitro-Opera-GX-Generator | 1 | 0| 
-| 20231222T12:27:08Z | This Repository will contain various tools, scripts and commands used in Active Directory Enumeration and Exploitation. | https://github.com/SecTheBit/RedTeam-Toolkits | 2 | 0| 
 
 
 # backdoor on Github 推荐
@@ -123,6 +123,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231224T00:28:06Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50773 | 23390| 
+| 20231223T21:05:05Z | Null | https://github.com/y1s3r-1905/fuzzy-guide | 0 | 0| 
+| 20231223T15:44:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9257 | 2069| 
 | 20231223T13:44:38Z | GasGuard Pro: Implementasi Sistem Deteksi Dini Kebocoran LPG dan Automasi Exhaust Fan Berbasis Fuzzy untuk Dapur Industri. | https://github.com/rizereze123/fuzzy-lpg-leaked-detection | 0 | 0| 
 | 20231223T11:45:07Z | Match based region extractor using Fuzzy Logic | https://github.com/Kushagra005/Fuzzy-Region-Extractor | 0 | 0| 
 | 20231223T11:39:05Z | Null | https://github.com/ethereum/solidity-fuzzing-corpus | 16 | 9| 
@@ -130,9 +133,6 @@
 | 20231223T11:35:23Z | Null | https://github.com/Knulon/fuzzy-c-means | 1 | 0| 
 | 20231223T11:34:34Z | Null | https://github.com/dikaizm/fuzzy-logic | 0 | 0| 
 | 20231223T11:12:09Z | Null | https://github.com/Regulus398/fuzzy-funicular | 0 | 0| 
-| 20231223T10:09:25Z | Expert system based on fuzzy reasoning | https://github.com/AmadeuszKobos/Fuzzy_Inference | 0 | 0| 
-| 20231223T10:01:07Z | Null | https://github.com/habibulloxon/fuzzy-umbrella | 0 | 0| 
-| 20231223T02:52:38Z | Null | https://github.com/sailema21/fuzzy-octo | 13 | 0| 
 
 
 
