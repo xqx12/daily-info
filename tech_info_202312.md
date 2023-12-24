@@ -69,6 +69,7 @@
 | --- | --- | --- | --- | ---| 
 | 20231224T01:15:23Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Mxcoders2s/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 2 | 0| 
 | 20231224T00:48:27Z | Secure Hashing Algorithm To Terminate Exploitative Requests (Block bad queries and domain names based on their SHA3-512 checksums) | https://github.com/styromaniac/SHATTER | 0 | 0| 
+| 20231223T22:02:01Z | External cheat for Rainbow Six Siege offering ESP, aimbot, and various tactical advantages. | https://github.com/digodevv/Klar-gg-Rainbow-Six-Siege-RS6-Esp-NoRroil-Hwid-Spoofer-Exploit | 0 | 0| 
 | 20231223T21:39:31Z | Developed for Escape From Tarkov and written in C++ and C#. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/Rtx4090sx/Escape-From-Tarkov-Eft-Aimbot-esp-Loots-Exploits-Max-Skills-High-Jump | 0 | 0| 
 | 20231223T13:45:51Z | Null | https://github.com/altilunium/jaws.exploit | 0 | 0| 
 | 20231223T13:24:20Z | word exploit | https://github.com/Re-Edit/word-exploit-test | 0 | 0| 
@@ -76,7 +77,6 @@
 | 20231223T03:43:39Z | A Ruby micro-framework for writing and running exploits | https://github.com/ronin-rb/ronin-exploits | 59 | 21| 
 | 20231222T22:56:53Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 9033 | 2067| 
 | 20231222T20:37:36Z | An free discord promotion generator | https://github.com/TheCuteOwl/Discord-Promo-Generator | 3 | 1| 
-| 20231222T19:02:44Z | A Discord Nitro promo generator, built on Python, that exploits the OperaGX × Discord Nitro partnership. (Generates a code in less than a second, more than 5000 codes per hour!) | https://github.com/DenisDziganchuk/Discord-Nitro-Opera-GX-Generator | 1 | 0| 
 
 
 # backdoor on Github 推荐
