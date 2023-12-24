@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231224T13:39:52Z | CVE-2023-26035 | ZoneMinder Snapshots - Unauthenticated | https://github.com/Yuma-Tsushima07/CVE-2023-26035 | | 
 | 20231224T13:34:34Z | Cve-2023- | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Mxcoders2s/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 | 20231224T12:59:21Z | CVE-2023-49438 | CVE-2023-49438 - Open Redirect Vulnerability in Flask-Security-Too | https://github.com/brandon-t-elliott/CVE-2023-49438 | | 
 | 20231224T11:11:04Z | CVE-2022-36779 | Exploit for CVE-2022-36779 authenticated Command Injection | https://github.com/rootDR/CVE-2022-36779 | | 
@@ -35,7 +36,6 @@
 | 20231223T11:02:08Z | CVE-2023-0386 | Null | https://github.com/puckiestyle/CVE-2023-0386 | | 
 | 20231223T06:30:50Z | CVE-2023-29489 | Null | https://github.com/Makurorororororororo/Validate-CVE-2023-29489-scanner- | | 
 | 20231222T20:27:10Z | CVE-2020-24186 | Null | https://github.com/substing/CVE-2020-24186_reverse_shell_upload | | 
-| 20231222T16:08:00Z | CVE-2023-51281 | Multiple cross-site scripting (XSS) vulnerabilities in /customer_support/ajax.php?action=save_customer in Customer Support System 1.0 allow authenticated attackers to execute to execute arbitrary web scripts or HTML via a crafted payload injected into the “firstname”, "lastname", "middlename", "contact" or “address” parameters. | https://github.com/geraldoalcantara/CVE-2023-51281 | | 
 
 
 # klee on Github 推荐
