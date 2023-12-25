@@ -39,6 +39,7 @@
 | --- | --- | --- | --- | ---| 
 | 20231225T10:37:12Z | Experiments with running klee on coreutils | https://github.com/riesentoaster/klee-coreutils-experiments | 0 | 0| 
 | 20231225T07:35:28Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2379 | 645| 
+| 20231225T07:30:14Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14748 | 439| 
 
 
 # s2e on Github 推荐
