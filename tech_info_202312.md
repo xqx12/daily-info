@@ -11,42 +11,42 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20231225 | 区块链黑暗森林自救手册 1.1 | https://darkhandbook.io/CN-Blockchain-dark-forest-selfguard-handbook-V1.1.pdf| 
+| 20231225 | 人与代码的桥梁 - 聊聊SAST | https://mp.weixin.qq.com/s/stXcVtIExTZvtc-ErDHfZg| 
+| 20231225 | XG拟态-Webshell流量混淆功能 | https://mp.weixin.qq.com/s/c8ladv30wSAX3Oz1yc1fBA| 
+| 20231225 | 教科书级基于钻石模型的分析报告 | https://mp.weixin.qq.com/s/rY8DTnRIr3ORYowiFwnLoQ| 
+| 20231225 | The Finals SDK与某辅助的驱动注入 | https://mp.weixin.qq.com/s/KmTL1_uZR5Xcy2lITbVHMA| 
+| 20231225 | 开箱即用的windows渗透测试环境 | https://github.com/arch3rPro/Pentest-Windows/| 
+| 20231225 | 第六届网络安全挑战赛官方WP | https://dce.i-soon.net/#/group/detail/31| 
+| 20231225 | SecWiki周刊（第512期) | https://www.sec-wiki.com/weekly/512| 
 | 20231222 | 工作汇报如何体现安全工作的价值 | https://mp.weixin.qq.com/s/Ev_6ehNDjB9Sn_g_nyqN2w| 
 | 20231222 | xAST（应用安全测试技术） | https://github.com/alipay/ant-application-security-testing-benchmark| 
-| 20231222 | TscanPlus: 一款综合性网络安全检测和运维工具 | https://github.com/TideSec/Tscanplus| 
-| 20231222 | ChatAFL：LLM模型指导的协议模糊测试 | https://mp.weixin.qq.com/s/N-c44iWT1HlKUvQ28poJrQ| 
-| 20231221 | 关于加解密测试的一些浅谈 | https://mp.weixin.qq.com/s/Co68c-M5SEVhjuDsSdziCg| 
-| 20231221 | 图神经网络和代码大模型提升二进制比对 | https://mp.weixin.qq.com/s/LHegfuU-zSPNBarLCNV0PQ| 
-| 20231221 | Codefuse-ChatBot：开源的 AI 智能助手 | https://mp.weixin.qq.com/s/tUBkFR6UeiwzhPIbsTEG9Q| 
-| 20231221 | 区块链安全训练营在线课程 | https://www.bilibili.com/video/BV14u4y1H7ik/| 
-| 20231220 | 蓝队应急响应工具箱使用手册 | https://mp.weixin.qq.com/s/NI2OMCaaEGSr3oVwXwoepw| 
-| 20231219 | DeepWukong-基于图神经网络的软件漏洞静态检测方法 | https://mp.weixin.qq.com/s/k_1QqhwERiQ_4gBKaB1Qqg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231225T12:51:06Z | CVE-2023-51385 | OpenSSH ProxyCommand RCE | https://github.com/Le1a/CVE-2023-51385 | | 
+| 20231225T09:50:24Z | CVE-2023-6710 | Explore the depths of CVE-2023-6710 with our comprehensive Proof of Concept (PoC). This CVE, identified as a potential security vulnerability, has been meticulously examined to demonstrate its impact and provide a hands-on understanding of the associated risks. | https://github.com/DedSec-47/CVE-2023-6710 | | 
+| 20231225T07:43:57Z | CVE-2023-51385 | This is a test | https://github.com/Tachanka-zz/CVE-2023-51385_test | | 
+| 20231225T07:43:29Z | cve-2023-51385 | Null | https://github.com/watarium/poc-cve-2023-51385 | | 
+| 20231225T04:34:02Z | CVE-2023-51385 | Null | https://github.com/FeatherStark/CVE-2023-51385 | | 
 | 20231225T02:41:41Z | CVE-2023-40362 | CVE-2023-40362 Vulnerabilitiy details and proof of concept | https://github.com/ally-petitt/CVE-2023-40362 | | 
 | 20231225T01:29:48Z | Cve-2023- | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Mxcoders2s/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 | 20231224T20:42:52Z | CVE-2021-40444 | CVE-2021-40444 | https://github.com/MohamedAboHelal/CVE-2021-40444 | | 
 | 20231224T18:50:17Z | CVE-2023-49438 | CVE-2023-49438 - Open Redirect Vulnerability in Flask-Security-Too | https://github.com/brandon-t-elliott/CVE-2023-49438 | | 
 | 20231224T18:04:12Z | CVE-2023-41772 | Null | https://github.com/R41N3RZUF477/CVE-2023-41772 | | 
-| 20231224T15:42:33Z | CVE-2023-49471 | Null | https://github.com/zunak/CVE-2023-49471 | | 
-| 20231224T14:39:00Z | CVE-2023-26035 | ZoneMinder Snapshots - Unauthenticated | https://github.com/Yuma-Tsushima07/CVE-2023-26035 | | 
-| 20231224T11:11:04Z | CVE-2022-36779 | Exploit for CVE-2022-36779 authenticated Command Injection | https://github.com/rootDR/CVE-2022-36779 | | 
-| 20231223T11:54:52Z | CVE-2023-4911 | Null | https://github.com/puckiestyle/CVE-2023-4911 | | 
-| 20231223T11:39:58Z | CVE-2023-6663 | Null | https://github.com/cli-ish/CVE-2023-6663 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231225T10:37:12Z | Experiments with running klee on coreutils | https://github.com/riesentoaster/klee-coreutils-experiments | 0 | 0| 
+| 20231225T07:35:28Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2379 | 645| 
 | 20231224T08:33:26Z | a CJK programming font based on Klee One, LXGW Wenkai, Iansui, Jyunsaikaai, and Plan Kai. | https://github.com/Des-Magmeta/Breeze-Pen-Kai | 0 | 0| 
 | 20231224T01:25:55Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14738 | 438| 
-| 20231223T17:54:19Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2378 | 645| 
 | 20231222T02:00:23Z | Null | https://github.com/Glacox/KleeFinal | 0 | 0| 
 | 20231221T23:27:44Z | Null | https://github.com/Rustyymp4/KleeFinal | 0 | 0| 
-| 20231221T15:22:15Z | Experiments with running klee on coreutils | https://github.com/riesentoaster/klee-coreutils-experiments | 0 | 0| 
 | 20231220T13:26:38Z | Config files for my GitHub profile. | https://github.com/Kleen3/Kleen3 | 0 | 0| 
 | 20231219T12:35:10Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 102 | 22| 
 | 20231218T06:28:12Z | Null | https://github.com/klee0589/klee0589.github.io | 0 | 0| 
@@ -82,16 +82,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231225T02:26:47Z | Unauthorized Docker Exploitation Tool | https://github.com/CTF-Archives/docker-unauthorized-tool | 8 | 1| 
+| 20231225T12:24:41Z | nginx WebShell/内存马，更优雅的nignx backdoor | https://github.com/veo/nginx_shell | 20 | 2| 
+| 20231225T11:29:32Z | Unauthorized Docker Exploitation Tool | https://github.com/CTF-Archives/docker-unauthorized-tool | 15 | 1| 
+| 20231225T11:04:14Z | Computing) capabilities. It boasts compatibility with a spectrum of 20 concealed browsers. Pegasus HVNC facet facilitates the orchestration of a concealed desktop environment | https://github.com/Mrxteamss/Pegasus-Pantheon-HVNC-V2-VNC-Hidden-Browser-Remote-Administration-Rat | 1 | 1| 
+| 20231225T06:59:58Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 259 | 61| 
 | 20231225T01:02:08Z | Null | https://github.com/Object-Detection-Backdoor/backdoor_demo | 0 | 0| 
 | 20231224T13:35:49Z | The S-500 G2 Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/Mxcoders2s/S500-RAT-HVNC-HAPP-HIdden-BROWSER-HRDP-REVERSE-PROXY-CRYPTO-MONITOR | 1 | 0| 
 | 20231224T06:57:15Z | Null | https://github.com/Ocreatedin/backdoor_testing | 0 | 0| 
 | 20231224T06:35:27Z | Python Backdoor for remote communication and control. Enables secure execution of commands and retrieval of system information over a network using sockets and subprocess. 🚀🐍 | https://github.com/Wayne-arul/python-backdoor | 0 | 0| 
 | 20231224T02:59:41Z | The core code for our paper %Beyond Traditional Threats: A Persistent Backdoor Attack on Federated Learning%. | https://github.com/PhD-TaoLiu/HEU_ISRC_FCBA | 1 | 0| 
 | 20231224T02:33:43Z | The core code for our paper %Beyond Traditional Threats: A Persistent Backdoor Attack on Federated Learning%. | https://github.com/PhD-TaoLiu/FCBA | 0 | 0| 
-| 20231223T20:16:42Z | Null | https://github.com/Adnan4290/nc-backdoor | 0 | 0| 
-| 20231223T15:58:14Z | Computing) capabilities. It boasts compatibility with a spectrum of 20 concealed browsers. Pegasus HVNC facet facilitates the orchestration of a concealed desktop environment | https://github.com/Mrxteamss/Pegasus-Pantheon-HVNC-V2-VNC-Hidden-Browser-Remote-Administration-Rat | 1 | 1| 
-| 20231223T15:28:50Z | ScanBackShell (Scanning Backdoor Shell) adalah sebuah skrip bash sederhana yang dirancang untuk memindai direktori tertentu dan mencari potensi backdoor shell dalam berbagai jenis file. Skrip ini menggunakan daftar ekstensi file dan kata kunci yang umumnya terkait dengan backdoor atau serangan keamanan pada aplikasi web. | https://github.com/hydragidev/ScanBackShell | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -123,16 +123,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231225T12:30:20Z | GA + Fuzzy | https://github.com/mohamed-aliii/fuzzy_sys | 0 | 0| 
+| 20231225T12:12:21Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1652 | 249| 
+| 20231225T11:10:54Z | Null | https://github.com/jyankhomen/oss-fuzz | 0 | 0| 
+| 20231225T10:47:19Z | Null | https://github.com/Niluheka/Tugas2-Logika-Fuzzy | 0 | 0| 
+| 20231225T10:39:40Z | Null | https://github.com/Niluheka/Tugas-2-Fuzzy | 0 | 0| 
 | 20231225T02:44:15Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50792 | 23393| 
 | 20231225T02:00:46Z | 爬取网页所有携带参数的URL，最后对每个参数进行Fuzzing | https://github.com/qiuluo-oss/Crawlergo_Fuzzing | 2 | 0| 
 | 20231224T23:20:12Z | fuzzy-guacamole | https://github.com/Hikoo52/fuzzy-guacamole | 0 | 0| 
 | 20231224T23:07:55Z | Null | https://github.com/MaxSho/fuzzy_labPII | 0 | 0| 
 | 20231224T21:26:23Z | Null | https://github.com/Malii47/FuzzyLogicProjectBulanikMantik | 0 | 0| 
-| 20231224T21:04:56Z | Null | https://github.com/baxteroleary/fuzzy-eureka | 0 | 0| 
-| 20231224T11:57:29Z | Null | https://github.com/xLonsv1r/fuzzy-controller-Lab1- | 0 | 0| 
-| 20231224T11:36:46Z | A simple Fuzzy match Function | https://github.com/fekrii/FuzzyMatch | 0 | 0| 
-| 20231224T11:11:57Z | Null | https://github.com/Leaf-Dancing/fuzzy-waddle | 0 | 0| 
-| 20231224T02:48:55Z | A “Fuzzy Logic Toolbox” provides functions and apps for designing and simulating fuzzy logic systems. It lets the user specify and configure input variables, output variables, membership functions, rules and defuzzification methods. | https://github.com/Nadaesam/Fuzzy-Logic-Toolbox | 0 | 0| 
 
 
 
