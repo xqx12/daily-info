@@ -67,7 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231225T00:32:53Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Mxcoders2s/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 10 | 0| 
+| 20231225T01:29:48Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Mxcoders2s/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 12 | 0| 
 | 20231225T00:07:10Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-nn | 1 | 0| 
 | 20231225T00:06:35Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-nn | 1 | 0| 
 | 20231225T00:04:43Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-nn | 1 | 0| 
