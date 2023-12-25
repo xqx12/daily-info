@@ -68,6 +68,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20231225T12:51:27Z | This Android application showcases various security vulnerabilities and potential security threats that can occur on an Android device. It includes demonstrations of exploiting services, content providers, notification permissions, and more. | https://github.com/n0S3curity/PT-Android-Malware-App | 0 | 0| 
+| 20231225T12:07:56Z | Null | https://github.com/Ostorlab/known_exploited_vulnerbilities_detectors | 3 | 0| 
 | 20231225T11:09:39Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5734 | 727| 
 | 20231225T11:08:19Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5598 | 1084| 
 | 20231225T02:46:03Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5711 | 774| 
@@ -76,7 +77,6 @@
 | 20231225T00:06:35Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-nn | 1 | 0| 
 | 20231225T00:04:43Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-nn | 1 | 0| 
 | 20231225T00:04:05Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-nn | 1 | 0| 
-| 20231224T18:42:57Z | Exploits para algunos binarios :) | https://github.com/GatoGamer1155/BinaryExploitation | 33 | 16| 
 
 
 # backdoor on Github 推荐
