@@ -123,6 +123,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231225T13:04:39Z | Null | https://github.com/sufriani2021/Tugas2-Logika-Fuzzy | 0 | 0| 
 | 20231225T12:30:20Z | GA + Fuzzy | https://github.com/mohamed-aliii/fuzzy_sys | 0 | 0| 
 | 20231225T12:12:21Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1652 | 249| 
 | 20231225T11:10:54Z | Null | https://github.com/jyankhomen/oss-fuzz | 0 | 0| 
@@ -132,7 +133,6 @@
 | 20231225T02:00:46Z | 爬取网页所有携带参数的URL，最后对每个参数进行Fuzzing | https://github.com/qiuluo-oss/Crawlergo_Fuzzing | 2 | 0| 
 | 20231224T23:20:12Z | fuzzy-guacamole | https://github.com/Hikoo52/fuzzy-guacamole | 0 | 0| 
 | 20231224T23:07:55Z | Null | https://github.com/MaxSho/fuzzy_labPII | 0 | 0| 
-| 20231224T21:26:23Z | Null | https://github.com/Malii47/FuzzyLogicProjectBulanikMantik | 0 | 0| 
 
 
 
