@@ -26,16 +26,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20231224T13:39:52Z | CVE-2023-26035 | ZoneMinder Snapshots - Unauthenticated | https://github.com/Yuma-Tsushima07/CVE-2023-26035 | | 
-| 20231224T13:34:34Z | Cve-2023- | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Mxcoders2s/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
-| 20231224T12:59:21Z | CVE-2023-49438 | CVE-2023-49438 - Open Redirect Vulnerability in Flask-Security-Too | https://github.com/brandon-t-elliott/CVE-2023-49438 | | 
+| 20231225T00:32:53Z | Cve-2023- | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Mxcoders2s/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
+| 20231224T20:42:52Z | CVE-2021-40444 | CVE-2021-40444 | https://github.com/MohamedAboHelal/CVE-2021-40444 | | 
+| 20231224T18:50:17Z | CVE-2023-49438 | CVE-2023-49438 - Open Redirect Vulnerability in Flask-Security-Too | https://github.com/brandon-t-elliott/CVE-2023-49438 | | 
+| 20231224T18:04:12Z | CVE-2023-41772 | Null | https://github.com/R41N3RZUF477/CVE-2023-41772 | | 
+| 20231224T15:42:33Z | CVE-2023-49471 | Null | https://github.com/zunak/CVE-2023-49471 | | 
+| 20231224T14:39:00Z | CVE-2023-26035 | ZoneMinder Snapshots - Unauthenticated | https://github.com/Yuma-Tsushima07/CVE-2023-26035 | | 
 | 20231224T11:11:04Z | CVE-2022-36779 | Exploit for CVE-2022-36779 authenticated Command Injection | https://github.com/rootDR/CVE-2022-36779 | | 
 | 20231223T11:54:52Z | CVE-2023-4911 | Null | https://github.com/puckiestyle/CVE-2023-4911 | | 
 | 20231223T11:39:58Z | CVE-2023-6663 | Null | https://github.com/cli-ish/CVE-2023-6663 | | 
 | 20231223T11:39:51Z | CVE-2023-6661 | Null | https://github.com/cli-ish/CVE-2023-6661 | | 
-| 20231223T11:02:08Z | CVE-2023-0386 | Null | https://github.com/puckiestyle/CVE-2023-0386 | | 
-| 20231223T06:30:50Z | CVE-2023-29489 | Null | https://github.com/Makurorororororororo/Validate-CVE-2023-29489-scanner- | | 
-| 20231222T20:27:10Z | CVE-2020-24186 | Null | https://github.com/substing/CVE-2020-24186_reverse_shell_upload | | 
 
 
 # klee on Github 推荐
@@ -67,21 +67,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231224T13:34:34Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Mxcoders2s/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 7 | 0| 
+| 20231225T00:32:53Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Mxcoders2s/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 10 | 0| 
+| 20231225T00:07:10Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-nn | 1 | 0| 
+| 20231225T00:06:35Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-nn | 1 | 0| 
+| 20231225T00:04:43Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-nn | 1 | 0| 
+| 20231225T00:04:05Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-nn | 1 | 0| 
+| 20231224T18:42:57Z | Exploits para algunos binarios :) | https://github.com/GatoGamer1155/BinaryExploitation | 33 | 16| 
 | 20231224T13:30:32Z | A little bit abusing of the partnership Discord x Opera GX | https://github.com/sirthirrygolooo/NitroPartnerPromotionMassExploit | 0 | 0| 
 | 20231224T12:36:59Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5732 | 727| 
+| 20231224T12:24:33Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 766 | 185| 
 | 20231224T06:08:20Z | An free discord promotion and nitro generator | https://github.com/TheCuteOwl/Discord-Promo-Nitro-Generator | 4 | 1| 
-| 20231224T03:24:42Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5595 | 1084| 
-| 20231224T00:48:27Z | Secure Hashing Algorithm To Terminate Exploitative Requests (Block bad queries and domain names based on their SHA3-512 checksums) | https://github.com/styromaniac/SHATTER | 0 | 0| 
-| 20231223T22:02:01Z | External cheat for Rainbow Six Siege offering ESP, aimbot, and various tactical advantages. | https://github.com/digodevv/Klar-gg-Rainbow-Six-Siege-RS6-Esp-NoRroil-Hwid-Spoofer-Exploit | 0 | 0| 
-| 20231223T21:39:31Z | Developed for Escape From Tarkov and written in C++ and C#. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/Rtx4090sx/Escape-From-Tarkov-Eft-Aimbot-esp-Loots-Exploits-Max-Skills-High-Jump | 0 | 0| 
-| 20231223T14:09:38Z | Null | https://github.com/K3ysTr0K3R/CVE-2019-17382-EXPLOIT | 0 | 0| 
-| 20231223T13:45:51Z | Null | https://github.com/altilunium/jaws.exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231225T00:52:48Z | Null | https://github.com/Object-Detection-Backdoor/backdoor_demo | 0 | 0| 
+| 20231224T19:55:14Z | Unauthorized Docker Exploitation Tool | https://github.com/CTF-Archives/docker-unauthorized-tool | 3 | 0| 
 | 20231224T13:35:49Z | The S-500 G2 Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/Mxcoders2s/S500-RAT-HVNC-HAPP-HIdden-BROWSER-HRDP-REVERSE-PROXY-CRYPTO-MONITOR | 1 | 0| 
 | 20231224T06:57:15Z | Null | https://github.com/Ocreatedin/backdoor_testing | 0 | 0| 
 | 20231224T06:35:27Z | Python Backdoor for remote communication and control. Enables secure execution of commands and retrieval of system information over a network using sockets and subprocess. 🚀🐍 | https://github.com/Wayne-arul/python-backdoor | 0 | 0| 
@@ -90,8 +92,6 @@
 | 20231223T20:16:42Z | Null | https://github.com/Adnan4290/nc-backdoor | 0 | 0| 
 | 20231223T15:58:14Z | Computing) capabilities. It boasts compatibility with a spectrum of 20 concealed browsers. Pegasus HVNC facet facilitates the orchestration of a concealed desktop environment | https://github.com/Mrxteamss/Pegasus-Pantheon-HVNC-V2-VNC-Hidden-Browser-Remote-Administration-Rat | 1 | 1| 
 | 20231223T15:28:50Z | ScanBackShell (Scanning Backdoor Shell) adalah sebuah skrip bash sederhana yang dirancang untuk memindai direktori tertentu dan mencari potensi backdoor shell dalam berbagai jenis file. Skrip ini menggunakan daftar ekstensi file dan kata kunci yang umumnya terkait dengan backdoor atau serangan keamanan pada aplikasi web. | https://github.com/hydragidev/ScanBackShell | 0 | 0| 
-| 20231223T14:35:50Z | Null | https://github.com/625LuxOmniaVincit/the-backdoor-factory | 0 | 0| 
-| 20231223T14:08:23Z | Factoring composites with a (DV^2 + 1)/4 prime factor. | https://github.com/Mistsuu/backdoor-primes | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -123,16 +123,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231225T00:58:48Z | 爬取网页所有携带参数的URL，最后对每个参数进行Fuzzing | https://github.com/qiuluo-oss/Crawlergo_Fuzzing | 0 | 0| 
+| 20231225T00:50:00Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50790 | 23393| 
+| 20231224T23:20:12Z | fuzzy-guacamole | https://github.com/Hikoo52/fuzzy-guacamole | 0 | 0| 
+| 20231224T23:07:55Z | Null | https://github.com/MaxSho/fuzzy_labPII | 0 | 0| 
+| 20231224T21:26:23Z | Null | https://github.com/Malii47/FuzzyLogicProjectBulanikMantik | 0 | 0| 
+| 20231224T21:04:56Z | Null | https://github.com/baxteroleary/fuzzy-eureka | 0 | 0| 
 | 20231224T11:57:29Z | Null | https://github.com/xLonsv1r/fuzzy-controller-Lab1- | 0 | 0| 
 | 20231224T11:36:46Z | A simple Fuzzy match Function | https://github.com/fekrii/FuzzyMatch | 0 | 0| 
 | 20231224T11:11:57Z | Null | https://github.com/Leaf-Dancing/fuzzy-waddle | 0 | 0| 
 | 20231224T02:48:55Z | A “Fuzzy Logic Toolbox” provides functions and apps for designing and simulating fuzzy logic systems. It lets the user specify and configure input variables, output variables, membership functions, rules and defuzzification methods. | https://github.com/Nadaesam/Fuzzy-Logic-Toolbox | 0 | 0| 
-| 20231224T02:20:07Z | Null | https://github.com/pausia/Implementasi-K-Means-dan-Fuzzy-C-Means | 0 | 0| 
-| 20231224T02:12:32Z | tool for fuzzing Directories  in any website  from terminal | https://github.com/devmoekamel/fuzz-tool | 1 | 0| 
-| 20231224T01:21:10Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50774 | 23391| 
-| 20231223T21:05:05Z | Null | https://github.com/y1s3r-1905/fuzzy-guide | 0 | 0| 
-| 20231223T15:44:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9257 | 2069| 
-| 20231223T13:44:38Z | GasGuard Pro: Implementasi Sistem Deteksi Dini Kebocoran LPG dan Automasi Exhaust Fan Berbasis Fuzzy untuk Dapur Industri. | https://github.com/rizereze123/fuzzy-lpg-leaked-detection | 0 | 0| 
 
 
 
