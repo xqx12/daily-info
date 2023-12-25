@@ -24,6 +24,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231225T13:13:26Z | CVE-2023-51385 | 一个验证对CVE-2023-51385 | https://github.com/zls1793/CVE-2023-51385_test | | 
 | 20231225T12:51:06Z | CVE-2023-51385 | OpenSSH ProxyCommand RCE | https://github.com/Le1a/CVE-2023-51385 | | 
 | 20231225T09:50:24Z | CVE-2023-6710 | Explore the depths of CVE-2023-6710 with our comprehensive Proof of Concept (PoC). This CVE, identified as a potential security vulnerability, has been meticulously examined to demonstrate its impact and provide a hands-on understanding of the associated risks. | https://github.com/DedSec-47/CVE-2023-6710 | | 
 | 20231225T07:43:57Z | CVE-2023-51385 | This is a test | https://github.com/Tachanka-zz/CVE-2023-51385_test | | 

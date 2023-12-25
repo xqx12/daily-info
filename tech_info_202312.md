@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231225T13:13:26Z | CVE-2023-51385 | 一个验证对CVE-2023-51385 | https://github.com/zls1793/CVE-2023-51385_test | | 
 | 20231225T12:51:06Z | CVE-2023-51385 | OpenSSH ProxyCommand RCE | https://github.com/Le1a/CVE-2023-51385 | | 
 | 20231225T09:50:24Z | CVE-2023-6710 | Explore the depths of CVE-2023-6710 with our comprehensive Proof of Concept (PoC). This CVE, identified as a potential security vulnerability, has been meticulously examined to demonstrate its impact and provide a hands-on understanding of the associated risks. | https://github.com/DedSec-47/CVE-2023-6710 | | 
 | 20231225T07:43:57Z | CVE-2023-51385 | This is a test | https://github.com/Tachanka-zz/CVE-2023-51385_test | | 
@@ -35,7 +36,6 @@
 | 20231225T01:29:48Z | Cve-2023- | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Mxcoders2s/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 | 20231224T20:42:52Z | CVE-2021-40444 | CVE-2021-40444 | https://github.com/MohamedAboHelal/CVE-2021-40444 | | 
 | 20231224T18:50:17Z | CVE-2023-49438 | CVE-2023-49438 - Open Redirect Vulnerability in Flask-Security-Too | https://github.com/brandon-t-elliott/CVE-2023-49438 | | 
-| 20231224T18:04:12Z | CVE-2023-41772 | Null | https://github.com/R41N3RZUF477/CVE-2023-41772 | | 
 
 
 # klee on Github 推荐
