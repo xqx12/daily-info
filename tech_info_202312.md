@@ -123,7 +123,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231225T01:55:03Z | 爬取网页所有携带参数的URL，最后对每个参数进行Fuzzing | https://github.com/qiuluo-oss/Crawlergo_Fuzzing | 1 | 0| 
+| 20231225T01:59:50Z | 爬取网页所有携带参数的URL，最后对每个参数进行Fuzzing | https://github.com/qiuluo-oss/Crawlergo_Fuzzing | 1 | 0| 
 | 20231225T01:51:24Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50793 | 23393| 
 | 20231224T23:20:12Z | fuzzy-guacamole | https://github.com/Hikoo52/fuzzy-guacamole | 0 | 0| 
 | 20231224T23:07:55Z | Null | https://github.com/MaxSho/fuzzy_labPII | 0 | 0| 
