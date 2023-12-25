@@ -67,16 +67,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231225T13:55:38Z | One-command to detect all remotely exploitable KEV vulnerability. Sourced from CISA KEV, Google%s Tsunami and Ostorlab%s Asteroid. | https://github.com/Ostorlab/KEV | 3 | 0| 
 | 20231225T13:47:52Z | Loan providers grapple with approving loans for those with scant or no credit history, as some exploit this vulnerability through strategic defaults. This project is all about to analyse the patterns present in the Financial data. This will ensure that the applicants capable of repaying the loan are not rejected. | https://github.com/Akshath-KR/Bank-Loan-Defaulter | 0 | 0| 
 | 20231225T12:51:27Z | This Android application showcases various security vulnerabilities and potential security threats that can occur on an Android device. It includes demonstrations of exploiting services, content providers, notification permissions, and more. | https://github.com/n0S3curity/PT-Android-Malware-App | 0 | 0| 
 | 20231225T12:07:56Z | Null | https://github.com/Ostorlab/known_exploited_vulnerbilities_detectors | 3 | 0| 
 | 20231225T11:09:39Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5734 | 727| 
 | 20231225T11:08:19Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5598 | 1084| 
+| 20231225T10:11:27Z | An free discord promotion and nitro generator | https://github.com/TheCuteOwl/Discord-Nitro-Generator | 5 | 1| 
 | 20231225T02:46:03Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5711 | 774| 
 | 20231225T01:29:48Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Mxcoders2s/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 12 | 1| 
 | 20231225T00:07:10Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-nn | 1 | 0| 
-| 20231225T00:06:35Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-nn | 1 | 0| 
-| 20231225T00:04:43Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-nn | 1 | 0| 
 
 
 # backdoor on Github 推荐
