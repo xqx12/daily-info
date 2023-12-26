@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231226T13:24:14Z | Bad character spotter for exploit writers | https://github.com/asadzz/BCspotter | 0 | 0| 
 | 20231226T12:45:51Z | GitOps Repository | https://github.com/rhtap-perf-test/cin4s-970-0085-app-xS54P-wash-exploit | 0 | 0| 
 | 20231226T12:12:52Z | office macro exploit builder 🚀 opensource & free excel word macro exploit builder - oneclick silent macro exploit docx excel word pdf macro exploit xls word macro exploit excel macro exploit oneclick silent macro exploit docx excel word pdf macro exploit xls word macro exploit excel macro exploit | https://github.com/vqhjeeqmuxt8/doc-macro-exploit | 0 | 0| 
 | 20231226T12:11:39Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5601 | 1084| 
@@ -76,7 +77,6 @@
 | 20231226T01:36:32Z | Exploit Development using python for CVE-2023-38831 (POC) | https://github.com/r1yaz/winDED | 0 | 0| 
 | 20231226T01:24:06Z | PSFree WebKit Exploit for PS4 6.xx to 9.60 and PS5 1.xx to 5.xx | https://github.com/kmeps4/PSFree | 2 | 0| 
 | 20231226T00:50:33Z | Developing an advanced Capture The Flag (CTF) platform for cybersecurity enthusiasts to practice and enhance their skills in a realistic and gamified environment. The platform will host a variety of challenges, ranging from web exploitation and cryptography to binary analysis and network security. (CyberGuardian inc) | https://github.com/ThatBoiWitZm/CyberPlayground-CyberGuardian | 0 | 0| 
-| 20231226T00:49:55Z | office macro exploit builder 🚀 opensource & free excel word macro exploit builder - oneclick silent macro exploit docx excel word pdf macro exploit xls word macro exploit excel macro exploit oneclick silent macro exploit docx excel word pdf macro exploit xls word macro exploit excel macro exploit | https://github.com/cz6yzj0oplzv5po/doc-macro-exploit | 0 | 159| 
 
 
 # backdoor on Github 推荐
