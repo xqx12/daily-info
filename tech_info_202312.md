@@ -123,6 +123,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231226T13:51:55Z | Null | https://github.com/fuzzie-baba/Fuzzie-Project | 0 | 0| 
 | 20231226T13:34:14Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 2163 | 100| 
 | 20231226T12:06:43Z | 一个以fuzz为中心思想的被动扫描工具 | https://github.com/TheKingOfDuck/RCEFuzzer | 58 | 2| 
 | 20231226T12:06:19Z | A report evaluator agent based on Mamdani fuzzy logic inference system. | https://github.com/medmac01/fuzzy-expert-evaluator | 0 | 0| 
@@ -132,7 +133,6 @@
 | 20231226T09:49:23Z | Null | https://github.com/itsnedhir/fuzzy-octo-adventure | 0 | 0| 
 | 20231226T09:38:44Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1654 | 249| 
 | 20231226T09:31:42Z | This repository contains the achievements of the BoBpiler team during the BoB project period. Utilizing the BoBpiler Fuzzer, we have detected various compiler optimization bugs and developed PoC (Proof of Concept) and Stealth Backdoor Scenarios based on these findings. The repository serves as a comprehensive showcase of all project outcomes. | https://github.com/BoBpiler/compiler-optimization-vulnerability-explorations | 0 | 0| 
-| 20231226T09:07:50Z |  The tool is designed to perform fuzz testing on a specified URL using a wordlist, allowing users to check for different endpoints and their corresponding status codes. | https://github.com/devmoekamel/fuzz-tool | 1 | 0| 
 
 
 
