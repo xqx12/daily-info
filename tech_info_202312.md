@@ -123,7 +123,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231226T12:45:39Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 2162 | 100| 
+| 20231226T13:34:14Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 2163 | 100| 
 | 20231226T12:06:43Z | 一个以fuzz为中心思想的被动扫描工具 | https://github.com/TheKingOfDuck/RCEFuzzer | 58 | 2| 
 | 20231226T12:06:19Z | A report evaluator agent based on Mamdani fuzzy logic inference system. | https://github.com/medmac01/fuzzy-expert-evaluator | 0 | 0| 
 | 20231226T11:31:13Z | FDV is a framework for large-scale multiobjective optimization (LSMOP). This work cooperates FDV with NSGA-II. | https://github.com/Xavier-MaYiMing/Fuzzy-Decision-Variable | 0 | 0| 
