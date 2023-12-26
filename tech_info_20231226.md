@@ -16,6 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231226T13:09:54Z | cve-2023-51385 | Null | https://github.com/jacknickelson/poc-cve-2023-51385 | | 
 | 20231226T12:41:31Z | CVE-2023-33246 | Null | https://github.com/MkJos/CVE-2023-33246_RocketMQ_RCE_EXP | | 
 | 20231226T11:45:04Z | 未知编号 | Null | https://github.com/tannlh/CVE-2018-20250 | | 
 | 20231226T10:50:46Z | CVE-2023-21266 | Null | https://github.com/nidhi7598/frameworks_base_AOSP10_r33_CVE-2023-21266 | | 

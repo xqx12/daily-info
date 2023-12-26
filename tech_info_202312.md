@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231226T13:09:54Z | cve-2023-51385 | Null | https://github.com/jacknickelson/poc-cve-2023-51385 | | 
 | 20231226T12:41:31Z | CVE-2023-33246 | Null | https://github.com/MkJos/CVE-2023-33246_RocketMQ_RCE_EXP | | 
 | 20231226T11:45:04Z | 未知编号 | Null | https://github.com/tannlh/CVE-2018-20250 | | 
 | 20231226T10:50:46Z | CVE-2023-21266 | Null | https://github.com/nidhi7598/frameworks_base_AOSP10_r33_CVE-2023-21266 | | 
@@ -35,7 +36,6 @@
 | 20231226T06:52:12Z | CVE-2022-28117 | Null | https://github.com/kimstars/POC-CVE-2022-28117 | | 
 | 20231225T17:40:07Z | Cve-2023- | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Mxcoders2s/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 | 20231225T16:23:43Z | CVE-2023-6710 | Explore the depths of CVE-2023-6710 with our comprehensive Proof of Concept (PoC). This CVE, identified as a potential security vulnerability, has been meticulously examined to demonstrate its impact and provide a hands-on understanding of the associated risks. | https://github.com/DedSec-47/CVE-2023-6710 | | 
-| 20231225T13:13:26Z | CVE-2023-51385 | 一个验证对CVE-2023-51385 | https://github.com/zls1793/CVE-2023-51385_test | | 
 
 
 # klee on Github 推荐
