@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231226T02:52:07Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5718 | 777| 
 | 20231226T01:36:32Z | Exploit Development using python for CVE-2023-38831 (POC) | https://github.com/r1yaz/winDED | 0 | 0| 
 | 20231226T01:24:06Z | PSFree WebKit Exploit for PS4 6.xx to 9.60 and PS5 1.xx to 5.xx | https://github.com/kmeps4/PSFree | 2 | 0| 
 | 20231226T00:50:33Z | Developing an advanced Capture The Flag (CTF) platform for cybersecurity enthusiasts to practice and enhance their skills in a realistic and gamified environment. The platform will host a variety of challenges, ranging from web exploitation and cryptography to binary analysis and network security. (CyberGuardian inc) | https://github.com/ThatBoiWitZm/CyberPlayground-CyberGuardian | 0 | 0| 
@@ -76,7 +77,6 @@
 | 20231225T18:43:25Z | Whatsapp Exploit to spoofing impersonate of reply message  | https://github.com/lichti/whats-spoofing | 204 | 32| 
 | 20231225T17:40:07Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Mxcoders2s/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 13 | 1| 
 | 20231225T15:22:31Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5599 | 1084| 
-| 20231225T13:55:38Z | One-command to detect all remotely exploitable KEV vulnerability. Sourced from CISA KEV, Google%s Tsunami and Ostorlab%s Asteroid. | https://github.com/Ostorlab/KEV | 3 | 0| 
 
 
 # backdoor on Github 推荐
