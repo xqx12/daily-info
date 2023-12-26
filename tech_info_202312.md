@@ -26,23 +26,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231226T12:41:31Z | CVE-2023-33246 | Null | https://github.com/MkJos/CVE-2023-33246_RocketMQ_RCE_EXP | | 
+| 20231226T11:45:04Z | 未知编号 | Null | https://github.com/tannlh/CVE-2018-20250 | | 
+| 20231226T10:50:46Z | CVE-2023-21266 | Null | https://github.com/nidhi7598/frameworks_base_AOSP10_r33_CVE-2023-21266 | | 
+| 20231226T10:13:34Z | CVE-2023-51385 | CVE-2023-51385;OpenSSH ProxyCommand RCE;OpenSSH <9.6 命令注入漏洞poc  | https://github.com/WLaoDuo/CVE-2023-51385_poc-test | | 
+| 20231226T09:59:16Z | CVE-2021-4045 | 🔐 "PWNTAPO: Unveiling Command Injection in TP-Link Tapo C200 Cameras (<= v1.1.16 Build 211209)" 🔓 | https://github.com/B3nj4h/CVE-2021-4045 | | 
+| 20231226T08:03:19Z | CVE-2023-51385 | OpenSSH ProxyCommand RCE | https://github.com/Le1a/CVE-2023-51385 | | 
+| 20231226T06:52:12Z | CVE-2022-28117 | Null | https://github.com/kimstars/POC-CVE-2022-28117 | | 
 | 20231225T17:40:07Z | Cve-2023- | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Mxcoders2s/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 | 20231225T16:23:43Z | CVE-2023-6710 | Explore the depths of CVE-2023-6710 with our comprehensive Proof of Concept (PoC). This CVE, identified as a potential security vulnerability, has been meticulously examined to demonstrate its impact and provide a hands-on understanding of the associated risks. | https://github.com/DedSec-47/CVE-2023-6710 | | 
 | 20231225T13:13:26Z | CVE-2023-51385 | 一个验证对CVE-2023-51385 | https://github.com/zls1793/CVE-2023-51385_test | | 
-| 20231225T12:51:06Z | CVE-2023-51385 | OpenSSH ProxyCommand RCE | https://github.com/Le1a/CVE-2023-51385 | | 
-| 20231225T07:43:57Z | CVE-2023-51385 | This is a test | https://github.com/Tachanka-zz/CVE-2023-51385_test | | 
-| 20231225T07:43:29Z | cve-2023-51385 | Null | https://github.com/watarium/poc-cve-2023-51385 | | 
-| 20231225T04:34:02Z | CVE-2023-51385 | Null | https://github.com/FeatherStark/CVE-2023-51385 | | 
-| 20231225T02:41:41Z | CVE-2023-40362 | CVE-2023-40362 Vulnerabilitiy details and proof of concept | https://github.com/ally-petitt/CVE-2023-40362 | | 
-| 20231224T20:42:52Z | CVE-2021-40444 | CVE-2021-40444 | https://github.com/MohamedAboHelal/CVE-2021-40444 | | 
-| 20231224T18:50:17Z | CVE-2023-49438 | CVE-2023-49438 - Open Redirect Vulnerability in Flask-Security-Too | https://github.com/brandon-t-elliott/CVE-2023-49438 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231226T09:15:52Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2380 | 645| 
 | 20231225T10:37:12Z | Experiments with running klee on coreutils | https://github.com/riesentoaster/klee-coreutils-experiments | 0 | 0| 
-| 20231225T07:35:28Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2379 | 645| 
 | 20231225T07:30:14Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14748 | 439| 
 | 20231224T08:33:26Z | a CJK programming font based on Klee One, LXGW Wenkai, Iansui, Jyunsaikaai, and Plan Kai. | https://github.com/Des-Magmeta/Breeze-Pen-Kai | 0 | 0| 
 | 20231222T02:00:23Z | Null | https://github.com/Glacox/KleeFinal | 0 | 0| 
@@ -56,7 +56,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231224T05:54:36Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 364 | 83| 
+| 20231226T09:24:26Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 363 | 83| 
 | 20231221T11:05:35Z | Documents for Spacecraft Simulation Environment | https://github.com/ut-issl/s2e-documents | 10 | 6| 
 | 20231218T06:57:41Z | Semester 2 Bash, Docker, Documentation and various exercises | https://github.com/Sloopin/S2Exercises | 0 | 0| 
 | 20231215T05:51:37Z | Null | https://github.com/theoim/S2E_config_module_base | 0 | 0| 
@@ -67,31 +67,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231226T12:45:51Z | GitOps Repository | https://github.com/rhtap-perf-test/cin4s-970-0085-app-xS54P-wash-exploit | 0 | 0| 
+| 20231226T12:12:52Z | office macro exploit builder 🚀 opensource & free excel word macro exploit builder - oneclick silent macro exploit docx excel word pdf macro exploit xls word macro exploit excel macro exploit oneclick silent macro exploit docx excel word pdf macro exploit xls word macro exploit excel macro exploit | https://github.com/vqhjeeqmuxt8/doc-macro-exploit | 0 | 0| 
+| 20231226T12:11:39Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5601 | 1084| 
+| 20231226T11:57:55Z | Null | https://github.com/BOSSJKL2/EXPLOITER-EXE | 0 | 0| 
+| 20231226T11:50:05Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5742 | 727| 
 | 20231226T02:52:07Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5718 | 777| 
 | 20231226T01:36:32Z | Exploit Development using python for CVE-2023-38831 (POC) | https://github.com/r1yaz/winDED | 0 | 0| 
 | 20231226T01:24:06Z | PSFree WebKit Exploit for PS4 6.xx to 9.60 and PS5 1.xx to 5.xx | https://github.com/kmeps4/PSFree | 2 | 0| 
 | 20231226T00:50:33Z | Developing an advanced Capture The Flag (CTF) platform for cybersecurity enthusiasts to practice and enhance their skills in a realistic and gamified environment. The platform will host a variety of challenges, ranging from web exploitation and cryptography to binary analysis and network security. (CyberGuardian inc) | https://github.com/ThatBoiWitZm/CyberPlayground-CyberGuardian | 0 | 0| 
 | 20231226T00:49:55Z | office macro exploit builder 🚀 opensource & free excel word macro exploit builder - oneclick silent macro exploit docx excel word pdf macro exploit xls word macro exploit excel macro exploit oneclick silent macro exploit docx excel word pdf macro exploit xls word macro exploit excel macro exploit | https://github.com/cz6yzj0oplzv5po/doc-macro-exploit | 0 | 159| 
-| 20231226T00:15:41Z | A simple Python script that generates Discord promotion codes using proxies and the Opera GX promotion. | https://github.com/aitronssesin/discord-promotion-exploit | 0 | 0| 
-| 20231225T23:34:58Z | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | 715 | 67| 
-| 20231225T18:43:25Z | Whatsapp Exploit to spoofing impersonate of reply message  | https://github.com/lichti/whats-spoofing | 204 | 32| 
-| 20231225T17:40:07Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Mxcoders2s/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 13 | 1| 
-| 20231225T15:22:31Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5599 | 1084| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231226T02:56:19Z | nginx WebShell/内存马，更优雅的nignx backdoor | https://github.com/veo/nginx_shell | 31 | 2| 
+| 20231226T12:15:45Z | Backdoor simple echa en python con conexion Servidor - Maquina  | https://github.com/ByKoan/backdoor | 0 | 0| 
+| 20231226T09:31:42Z | This repository contains the achievements of the BoBpiler team during the BoB project period. Utilizing the BoBpiler Fuzzer, we have detected various compiler optimization bugs and developed PoC (Proof of Concept) and Stealth Backdoor Scenarios based on these findings. The repository serves as a comprehensive showcase of all project outcomes. | https://github.com/BoBpiler/compiler-optimization-vulnerability-explorations | 0 | 0| 
+| 20231226T09:16:57Z | nginx WebShell/内存马，更优雅的nignx backdoor | https://github.com/veo/nginx_shell | 40 | 3| 
+| 20231226T08:43:43Z | Null | https://github.com/jyankhomen/backdoor-apk | 0 | 0| 
+| 20231226T07:26:15Z | Null | https://github.com/Object-Detection-Backdoor/backdoor-demo | 0 | 0| 
 | 20231226T01:53:47Z | Unauthorized Docker Exploitation Tool | https://github.com/CTF-Archives/docker-unauthorized-tool | 22 | 1| 
-| 20231225T11:04:14Z | Computing) capabilities. It boasts compatibility with a spectrum of 20 concealed browsers. Pegasus HVNC facet facilitates the orchestration of a concealed desktop environment | https://github.com/Mrxteamss/Pegasus-Pantheon-HVNC-V2-VNC-Hidden-Browser-Remote-Administration-Rat | 1 | 1| 
+| 20231225T11:04:14Z | Computing) capabilities. It boasts compatibility with a spectrum of 20 concealed browsers. Pegasus HVNC facet facilitates the orchestration of a concealed desktop environment | https://github.com/Mrxteamss/Pegasus-Pantheon-HVNC-V2-VNC-Hidden-Browser-Remote-Administration-Rat | 1 | 2| 
 | 20231225T06:59:58Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 259 | 61| 
 | 20231225T01:02:08Z | Null | https://github.com/Object-Detection-Backdoor/backdoor_demo | 0 | 0| 
 | 20231224T13:35:49Z | The S-500 G2 Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/Mxcoders2s/S500-RAT-HVNC-HAPP-HIdden-BROWSER-HRDP-REVERSE-PROXY-CRYPTO-MONITOR | 1 | 0| 
-| 20231224T06:57:15Z | Null | https://github.com/Ocreatedin/backdoor_testing | 0 | 0| 
-| 20231224T06:35:27Z | Python Backdoor for remote communication and control. Enables secure execution of commands and retrieval of system information over a network using sockets and subprocess. 🚀🐍 | https://github.com/Wayne-arul/python-backdoor | 0 | 0| 
-| 20231224T02:59:41Z | The core code for our paper %Beyond Traditional Threats: A Persistent Backdoor Attack on Federated Learning%. | https://github.com/PhD-TaoLiu/HEU_ISRC_FCBA | 1 | 0| 
-| 20231224T02:33:43Z | The core code for our paper %Beyond Traditional Threats: A Persistent Backdoor Attack on Federated Learning%. | https://github.com/PhD-TaoLiu/FCBA | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -123,16 +123,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231226T02:20:48Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50808 | 23391| 
-| 20231226T01:32:23Z | Tutorial: Getting started with fuzzing | https://github.com/hcltech84/tutorial-getting-started-with-fuzzing | 0 | 0| 
-| 20231226T00:09:05Z | Null | https://github.com/ahsankhan159/fuzzy-octo-guacamole | 0 | 0| 
-| 20231225T23:44:34Z | Null | https://github.com/tarikkeceli/FuzzyHealthVault | 0 | 0| 
-| 20231225T23:24:54Z | SomaFM CLI station-selector | https://github.com/He4eT/fuzzsoma | 0 | 0| 
-| 20231225T21:08:56Z | Null | https://github.com/1twodrei/GL-Fuzzer | 0 | 0| 
-| 20231225T19:34:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9259 | 2070| 
-| 20231225T13:04:39Z | Null | https://github.com/sufriani2021/Tugas2-Logika-Fuzzy | 0 | 0| 
-| 20231225T12:30:20Z | GA + Fuzzy | https://github.com/mohamed-aliii/fuzzy_sys | 0 | 0| 
-| 20231225T12:12:21Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1652 | 249| 
+| 20231226T12:45:39Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 2162 | 100| 
+| 20231226T12:06:19Z | A report evaluator agent based on Mamdani fuzzy logic inference system. | https://github.com/medmac01/fuzzy-expert-evaluator | 0 | 0| 
+| 20231226T11:31:13Z | FDV is a framework for large-scale multiobjective optimization (LSMOP). This work cooperates FDV with NSGA-II. | https://github.com/Xavier-MaYiMing/Fuzzy-Decision-Variable | 0 | 0| 
+| 20231226T10:19:22Z | Null | https://github.com/libaice/fuzz-example | 0 | 0| 
+| 20231226T10:17:57Z | Null | https://github.com/alabsi91/fuzzy-search | 0 | 0| 
+| 20231226T09:49:23Z | Null | https://github.com/itsnedhir/fuzzy-octo-adventure | 0 | 0| 
+| 20231226T09:38:44Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1654 | 249| 
+| 20231226T09:31:42Z | This repository contains the achievements of the BoBpiler team during the BoB project period. Utilizing the BoBpiler Fuzzer, we have detected various compiler optimization bugs and developed PoC (Proof of Concept) and Stealth Backdoor Scenarios based on these findings. The repository serves as a comprehensive showcase of all project outcomes. | https://github.com/BoBpiler/compiler-optimization-vulnerability-explorations | 0 | 0| 
+| 20231226T09:07:50Z |  The tool is designed to perform fuzz testing on a specified URL using a wordlist, allowing users to check for different endpoints and their corresponding status codes. | https://github.com/devmoekamel/fuzz-tool | 1 | 0| 
+| 20231226T04:32:32Z | Proyek kelompok 7 kecerdasan buatan dengan flask. Anggota Kelompok : Aditya Dwi Hartono, Geri Tri Panca Tamba, Rizki Faturahman Sutisna | https://github.com/Geripanca/Web-Smartphone-Fuzzy-Tahani | 0 | 0| 
 
 
 
