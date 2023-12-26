@@ -67,7 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231226T13:24:14Z | Bad character spotter for exploit writers | https://github.com/asadzz/BCspotter | 0 | 0| 
+| 20231226T13:54:06Z | Bad character spotter for exploit writers | https://github.com/asadzz/BCspotter | 0 | 0| 
 | 20231226T12:45:51Z | GitOps Repository | https://github.com/rhtap-perf-test/cin4s-970-0085-app-xS54P-wash-exploit | 0 | 0| 
 | 20231226T12:12:52Z | office macro exploit builder 🚀 opensource & free excel word macro exploit builder - oneclick silent macro exploit docx excel word pdf macro exploit xls word macro exploit excel macro exploit oneclick silent macro exploit docx excel word pdf macro exploit xls word macro exploit excel macro exploit | https://github.com/vqhjeeqmuxt8/doc-macro-exploit | 0 | 0| 
 | 20231226T12:11:39Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5601 | 1084| 
