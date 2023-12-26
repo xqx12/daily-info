@@ -52,6 +52,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231225T23:34:58Z | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | 715 | 67| 
 | 20231225T18:43:25Z | Whatsapp Exploit to spoofing impersonate of reply message  | https://github.com/lichti/whats-spoofing | 204 | 32| 
 | 20231225T17:40:07Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Mxcoders2s/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 13 | 1| 
 | 20231225T15:22:31Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5599 | 1084| 
@@ -61,7 +62,6 @@
 | 20231225T12:07:56Z | Null | https://github.com/Ostorlab/known_exploited_vulnerbilities_detectors | 3 | 0| 
 | 20231225T11:09:39Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5734 | 727| 
 | 20231225T10:11:27Z | An free discord promotion and nitro generator | https://github.com/TheCuteOwl/Discord-Nitro-Generator | 5 | 1| 
-| 20231225T08:34:03Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 767 | 185| 
 
 
 # backdoor on Github 推荐
