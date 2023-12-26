@@ -67,8 +67,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231226T01:36:32Z | Exploit Development using python for CVE-2023-38831 (POC) | https://github.com/r1yaz/winDED | 0 | 0| 
 | 20231226T00:50:33Z | Developing an advanced Capture The Flag (CTF) platform for cybersecurity enthusiasts to practice and enhance their skills in a realistic and gamified environment. The platform will host a variety of challenges, ranging from web exploitation and cryptography to binary analysis and network security. (CyberGuardian inc) | https://github.com/ThatBoiWitZm/CyberPlayground-CyberGuardian | 0 | 0| 
-| 20231226T00:49:55Z | office macro exploit builder 🚀 opensource & free excel word macro exploit builder - oneclick silent macro exploit docx excel word pdf macro exploit xls word macro exploit excel macro exploit oneclick silent macro exploit docx excel word pdf macro exploit xls word macro exploit excel macro exploit | https://github.com/cz6yzj0oplzv5po/doc-macro-exploit | 0 | 76| 
+| 20231226T00:49:55Z | office macro exploit builder 🚀 opensource & free excel word macro exploit builder - oneclick silent macro exploit docx excel word pdf macro exploit xls word macro exploit excel macro exploit oneclick silent macro exploit docx excel word pdf macro exploit xls word macro exploit excel macro exploit | https://github.com/cz6yzj0oplzv5po/doc-macro-exploit | 0 | 77| 
 | 20231226T00:15:41Z | A simple Python script that generates Discord promotion codes using proxies and the Opera GX promotion. | https://github.com/aitronssesin/discord-promotion-exploit | 0 | 0| 
 | 20231225T18:43:25Z | Whatsapp Exploit to spoofing impersonate of reply message  | https://github.com/lichti/whats-spoofing | 204 | 32| 
 | 20231225T17:40:07Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Mxcoders2s/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 13 | 1| 
@@ -76,7 +77,6 @@
 | 20231225T13:55:38Z | One-command to detect all remotely exploitable KEV vulnerability. Sourced from CISA KEV, Google%s Tsunami and Ostorlab%s Asteroid. | https://github.com/Ostorlab/KEV | 3 | 0| 
 | 20231225T13:47:52Z | Loan providers grapple with approving loans for those with scant or no credit history, as some exploit this vulnerability through strategic defaults. This project is all about to analyse the patterns present in the Financial data. This will ensure that the applicants capable of repaying the loan are not rejected. | https://github.com/Akshath-KR/Bank-Loan-Defaulter | 0 | 0| 
 | 20231225T12:51:27Z | This Android application showcases various security vulnerabilities and potential security threats that can occur on an Android device. It includes demonstrations of exploiting services, content providers, notification permissions, and more. | https://github.com/n0S3curity/PT-Android-Malware-App | 0 | 0| 
-| 20231225T12:07:56Z | Null | https://github.com/Ostorlab/known_exploited_vulnerbilities_detectors | 3 | 0| 
 
 
 # backdoor on Github 推荐
