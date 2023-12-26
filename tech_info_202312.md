@@ -124,6 +124,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20231226T12:45:39Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 2162 | 100| 
+| 20231226T12:06:43Z | 一个以fuzz为中心思想的被动扫描工具 | https://github.com/TheKingOfDuck/RCEFuzzer | 58 | 2| 
 | 20231226T12:06:19Z | A report evaluator agent based on Mamdani fuzzy logic inference system. | https://github.com/medmac01/fuzzy-expert-evaluator | 0 | 0| 
 | 20231226T11:31:13Z | FDV is a framework for large-scale multiobjective optimization (LSMOP). This work cooperates FDV with NSGA-II. | https://github.com/Xavier-MaYiMing/Fuzzy-Decision-Variable | 0 | 0| 
 | 20231226T10:19:22Z | Null | https://github.com/libaice/fuzz-example | 0 | 0| 
@@ -132,7 +133,6 @@
 | 20231226T09:38:44Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1654 | 249| 
 | 20231226T09:31:42Z | This repository contains the achievements of the BoBpiler team during the BoB project period. Utilizing the BoBpiler Fuzzer, we have detected various compiler optimization bugs and developed PoC (Proof of Concept) and Stealth Backdoor Scenarios based on these findings. The repository serves as a comprehensive showcase of all project outcomes. | https://github.com/BoBpiler/compiler-optimization-vulnerability-explorations | 0 | 0| 
 | 20231226T09:07:50Z |  The tool is designed to perform fuzz testing on a specified URL using a wordlist, allowing users to check for different endpoints and their corresponding status codes. | https://github.com/devmoekamel/fuzz-tool | 1 | 0| 
-| 20231226T04:32:32Z | Proyek kelompok 7 kecerdasan buatan dengan flask. Anggota Kelompok : Aditya Dwi Hartono, Geri Tri Panca Tamba, Rizki Faturahman Sutisna | https://github.com/Geripanca/Web-Smartphone-Fuzzy-Tahani | 0 | 0| 
 
 
 
