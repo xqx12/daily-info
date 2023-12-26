@@ -123,6 +123,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231226T01:32:23Z | Tutorial: Getting started with fuzzing | https://github.com/hcltech84/tutorial-getting-started-with-fuzzing | 0 | 0| 
 | 20231226T01:26:03Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50806 | 23391| 
 | 20231226T00:09:05Z | Null | https://github.com/ahsankhan159/fuzzy-octo-guacamole | 0 | 0| 
 | 20231225T23:44:34Z | Null | https://github.com/tarikkeceli/FuzzyHealthVault | 0 | 0| 
@@ -132,7 +133,6 @@
 | 20231225T13:04:39Z | Null | https://github.com/sufriani2021/Tugas2-Logika-Fuzzy | 0 | 0| 
 | 20231225T12:30:20Z | GA + Fuzzy | https://github.com/mohamed-aliii/fuzzy_sys | 0 | 0| 
 | 20231225T12:12:21Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1652 | 249| 
-| 20231225T11:10:54Z | Null | https://github.com/jyankhomen/oss-fuzz | 0 | 0| 
 
 
 
