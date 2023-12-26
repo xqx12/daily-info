@@ -68,21 +68,21 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20231226T01:36:32Z | Exploit Development using python for CVE-2023-38831 (POC) | https://github.com/r1yaz/winDED | 0 | 0| 
+| 20231226T01:24:06Z | PSFree WebKit Exploit for PS4 6.xx to 9.60 and PS5 1.xx to 5.xx | https://github.com/kmeps4/PSFree | 2 | 0| 
 | 20231226T00:50:33Z | Developing an advanced Capture The Flag (CTF) platform for cybersecurity enthusiasts to practice and enhance their skills in a realistic and gamified environment. The platform will host a variety of challenges, ranging from web exploitation and cryptography to binary analysis and network security. (CyberGuardian inc) | https://github.com/ThatBoiWitZm/CyberPlayground-CyberGuardian | 0 | 0| 
-| 20231226T00:49:55Z | office macro exploit builder 🚀 opensource & free excel word macro exploit builder - oneclick silent macro exploit docx excel word pdf macro exploit xls word macro exploit excel macro exploit oneclick silent macro exploit docx excel word pdf macro exploit xls word macro exploit excel macro exploit | https://github.com/cz6yzj0oplzv5po/doc-macro-exploit | 0 | 79| 
+| 20231226T00:49:55Z | office macro exploit builder 🚀 opensource & free excel word macro exploit builder - oneclick silent macro exploit docx excel word pdf macro exploit xls word macro exploit excel macro exploit oneclick silent macro exploit docx excel word pdf macro exploit xls word macro exploit excel macro exploit | https://github.com/cz6yzj0oplzv5po/doc-macro-exploit | 0 | 115| 
 | 20231226T00:15:41Z | A simple Python script that generates Discord promotion codes using proxies and the Opera GX promotion. | https://github.com/aitronssesin/discord-promotion-exploit | 0 | 0| 
 | 20231225T18:43:25Z | Whatsapp Exploit to spoofing impersonate of reply message  | https://github.com/lichti/whats-spoofing | 204 | 32| 
 | 20231225T17:40:07Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Mxcoders2s/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 13 | 1| 
 | 20231225T15:22:31Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5599 | 1084| 
 | 20231225T13:55:38Z | One-command to detect all remotely exploitable KEV vulnerability. Sourced from CISA KEV, Google%s Tsunami and Ostorlab%s Asteroid. | https://github.com/Ostorlab/KEV | 3 | 0| 
 | 20231225T13:47:52Z | Loan providers grapple with approving loans for those with scant or no credit history, as some exploit this vulnerability through strategic defaults. This project is all about to analyse the patterns present in the Financial data. This will ensure that the applicants capable of repaying the loan are not rejected. | https://github.com/Akshath-KR/Bank-Loan-Defaulter | 0 | 0| 
-| 20231225T12:51:27Z | This Android application showcases various security vulnerabilities and potential security threats that can occur on an Android device. It includes demonstrations of exploiting services, content providers, notification permissions, and more. | https://github.com/n0S3curity/PT-Android-Malware-App | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231226T01:27:35Z | nginx WebShell/内存马，更优雅的nignx backdoor | https://github.com/veo/nginx_shell | 23 | 2| 
+| 20231226T01:45:00Z | nginx WebShell/内存马，更优雅的nignx backdoor | https://github.com/veo/nginx_shell | 24 | 2| 
 | 20231226T01:01:26Z | Unauthorized Docker Exploitation Tool | https://github.com/CTF-Archives/docker-unauthorized-tool | 21 | 1| 
 | 20231225T11:04:14Z | Computing) capabilities. It boasts compatibility with a spectrum of 20 concealed browsers. Pegasus HVNC facet facilitates the orchestration of a concealed desktop environment | https://github.com/Mrxteamss/Pegasus-Pantheon-HVNC-V2-VNC-Hidden-Browser-Remote-Administration-Rat | 1 | 1| 
 | 20231225T06:59:58Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 259 | 61| 
