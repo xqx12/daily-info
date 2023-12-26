@@ -70,7 +70,7 @@
 | 20231226T01:36:32Z | Exploit Development using python for CVE-2023-38831 (POC) | https://github.com/r1yaz/winDED | 0 | 0| 
 | 20231226T01:24:06Z | PSFree WebKit Exploit for PS4 6.xx to 9.60 and PS5 1.xx to 5.xx | https://github.com/kmeps4/PSFree | 2 | 0| 
 | 20231226T00:50:33Z | Developing an advanced Capture The Flag (CTF) platform for cybersecurity enthusiasts to practice and enhance their skills in a realistic and gamified environment. The platform will host a variety of challenges, ranging from web exploitation and cryptography to binary analysis and network security. (CyberGuardian inc) | https://github.com/ThatBoiWitZm/CyberPlayground-CyberGuardian | 0 | 0| 
-| 20231226T00:49:55Z | office macro exploit builder 🚀 opensource & free excel word macro exploit builder - oneclick silent macro exploit docx excel word pdf macro exploit xls word macro exploit excel macro exploit oneclick silent macro exploit docx excel word pdf macro exploit xls word macro exploit excel macro exploit | https://github.com/cz6yzj0oplzv5po/doc-macro-exploit | 0 | 153| 
+| 20231226T00:49:55Z | office macro exploit builder 🚀 opensource & free excel word macro exploit builder - oneclick silent macro exploit docx excel word pdf macro exploit xls word macro exploit excel macro exploit oneclick silent macro exploit docx excel word pdf macro exploit xls word macro exploit excel macro exploit | https://github.com/cz6yzj0oplzv5po/doc-macro-exploit | 0 | 159| 
 | 20231226T00:15:41Z | A simple Python script that generates Discord promotion codes using proxies and the Opera GX promotion. | https://github.com/aitronssesin/discord-promotion-exploit | 0 | 0| 
 | 20231225T23:34:58Z | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | 715 | 67| 
 | 20231225T18:43:25Z | Whatsapp Exploit to spoofing impersonate of reply message  | https://github.com/lichti/whats-spoofing | 204 | 32| 
@@ -82,7 +82,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231226T01:59:55Z | nginx WebShell/内存马，更优雅的nignx backdoor | https://github.com/veo/nginx_shell | 26 | 2| 
+| 20231226T02:03:42Z | nginx WebShell/内存马，更优雅的nignx backdoor | https://github.com/veo/nginx_shell | 27 | 2| 
 | 20231226T01:53:47Z | Unauthorized Docker Exploitation Tool | https://github.com/CTF-Archives/docker-unauthorized-tool | 22 | 1| 
 | 20231225T11:04:14Z | Computing) capabilities. It boasts compatibility with a spectrum of 20 concealed browsers. Pegasus HVNC facet facilitates the orchestration of a concealed desktop environment | https://github.com/Mrxteamss/Pegasus-Pantheon-HVNC-V2-VNC-Hidden-Browser-Remote-Administration-Rat | 1 | 1| 
 | 20231225T06:59:58Z | TrojanZoo provides a universal pytorch platform to conduct security researches (especially backdoor attacks/defenses) of image classification in deep learning. | https://github.com/ain-soph/trojanzoo | 259 | 61| 
