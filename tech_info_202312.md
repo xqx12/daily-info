@@ -128,7 +128,7 @@
 | 20231225T23:44:34Z | Null | https://github.com/tarikkeceli/FuzzyHealthVault | 0 | 0| 
 | 20231225T23:24:54Z | SomaFM CLI station-selector | https://github.com/He4eT/fuzzsoma | 0 | 0| 
 | 20231225T21:08:56Z | Null | https://github.com/1twodrei/GL-Fuzzer | 0 | 0| 
-| 20231225T19:34:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9259 | 2069| 
+| 20231225T19:34:28Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9259 | 2070| 
 | 20231225T13:04:39Z | Null | https://github.com/sufriani2021/Tugas2-Logika-Fuzzy | 0 | 0| 
 | 20231225T12:30:20Z | GA + Fuzzy | https://github.com/mohamed-aliii/fuzzy_sys | 0 | 0| 
 | 20231225T12:12:21Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1652 | 249| 
