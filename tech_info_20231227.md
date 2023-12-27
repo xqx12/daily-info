@@ -76,11 +76,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231227T02:42:05Z | 爬取网页所有携带参数的URL，最后对每个参数进行Fuzzing | https://github.com/qiuluo-oss/Crawlergo_Fuzzing | 5 | 0| 
-| 20231227T02:07:04Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50838 | 23395| 
-| 20231227T02:06:02Z | Null | https://github.com/PredictiveSwap/Fuzzy-C_means-Clustering | 0 | 0| 
-| 20231227T01:01:24Z | F-B | https://github.com/ayatweb/fuzzy-barnacle | 0 | 0| 
-| 20231227T00:40:33Z | NPM | https://github.com/ayatweb/fuzzy-broccoli | 1 | 1| 
+| 20231227T12:58:32Z | Null | https://github.com/citywar2ris/TugasLogikaFuzzy | 0 | 0| 
+| 20231227T12:28:48Z | Null | https://github.com/oisayalisa/Tugas2_LogikaFuzzy | 0 | 0| 
+| 20231227T12:18:20Z | Null | https://github.com/tasyaberlian02/Tugas-Implementasi-Algoritma-K-Means-dan-Fuzzy-C-Means | 0 | 0| 
+| 20231227T11:16:53Z | Small utility to fuzzy search from a secret store and print the value to stdout | https://github.com/kiran94/fuzzy-secret-stdout | 0 | 0| 
+| 20231227T11:09:15Z | Null | https://github.com/icang02/Implementasi-K-Means-Fuzzy-C-Means | 0 | 0| 
+| 20231227T11:08:04Z | Implementasi K-means dan Fuzzy C means | https://github.com/akbarasad21/Tugas-2-Fuzzy-E1E1-20-035-MUH-AKBAR-ASAD | 0 | 0| 
+| 20231227T10:55:25Z | Null | https://github.com/AuliyaRahmanAsdar/TugasLogikaFuzzy2_E1E120025_Auliyarahmanasdar | 0 | 0| 
+| 20231227T10:38:47Z | Null | https://github.com/Esyanugerah/Tugas-Logika-Fuzzy | 0 | 0| 
+| 20231227T09:50:21Z | Null | https://github.com/andiniii02/Tugas-Logika-Fuzzy | 0 | 0| 
+| 20231227T09:39:23Z | School-Projects | https://github.com/aFurkanSogutcu/Fuzzy-Logic-and-ANN | 0 | 0| 
 
 
 
