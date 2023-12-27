@@ -71,12 +71,12 @@
 | 20231226T23:47:17Z | SeaShell Framework is an iOS post-exploitation framework that exploits the CoreTrust bug to remotely access an iPhone or iPad. | https://github.com/EntySec/SeaShell | 1 | 0| 
 | 20231226T21:53:29Z | Bitcoin Randstorm Exploit - Very Fast Private Key and Address Generator | https://github.com/RandstormBTC/randstorm | 8 | 3| 
 | 20231226T19:55:46Z | 150+ UNRESTRICTED unblockers, games, exploits, AI, bypasses, and social media | https://github.com/wea-f/ByePassHub | 7 | 1| 
+| 20231226T16:27:36Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Mxcoders2s/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 14 | 1| 
 | 20231226T13:54:06Z | Bad character spotter for exploit writers | https://github.com/asadzz/BCspotter | 0 | 0| 
 | 20231226T12:45:51Z | GitOps Repository | https://github.com/rhtap-perf-test/cin4s-970-0085-app-xS54P-wash-exploit | 0 | 0| 
 | 20231226T12:12:52Z | office macro exploit builder 🚀 opensource & free excel word macro exploit builder - oneclick silent macro exploit docx excel word pdf macro exploit xls word macro exploit excel macro exploit oneclick silent macro exploit docx excel word pdf macro exploit xls word macro exploit excel macro exploit | https://github.com/vqhjeeqmuxt8/doc-macro-exploit | 0 | 0| 
 | 20231226T12:11:39Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5601 | 1084| 
 | 20231226T11:57:55Z | Null | https://github.com/BOSSJKL2/EXPLOITER-EXE | 0 | 0| 
-| 20231226T11:50:05Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5742 | 727| 
 
 
 # backdoor on Github 推荐
@@ -123,6 +123,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231227T02:06:02Z | Null | https://github.com/PredictiveSwap/Fuzzy-C_means-Clustering | 0 | 0| 
 | 20231227T01:46:29Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50837 | 23395| 
 | 20231227T01:01:24Z | F-B | https://github.com/ayatweb/fuzzy-barnacle | 0 | 0| 
 | 20231227T00:40:33Z | NPM | https://github.com/ayatweb/fuzzy-broccoli | 1 | 1| 
@@ -132,7 +133,6 @@
 | 20231226T16:26:16Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9261 | 2070| 
 | 20231226T13:51:55Z | Null | https://github.com/fuzzie-baba/Fuzzie-Project | 0 | 0| 
 | 20231226T13:34:14Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 2163 | 100| 
-| 20231226T13:17:40Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 124 | 15| 
 
 
 

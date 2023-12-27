@@ -46,13 +46,13 @@
 | 20231226T23:47:17Z | SeaShell Framework is an iOS post-exploitation framework that exploits the CoreTrust bug to remotely access an iPhone or iPad. | https://github.com/EntySec/SeaShell | 1 | 0| 
 | 20231226T21:53:29Z | Bitcoin Randstorm Exploit - Very Fast Private Key and Address Generator | https://github.com/RandstormBTC/randstorm | 8 | 3| 
 | 20231226T19:55:46Z | 150+ UNRESTRICTED unblockers, games, exploits, AI, bypasses, and social media | https://github.com/wea-f/ByePassHub | 7 | 1| 
+| 20231226T16:27:36Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Mxcoders2s/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 14 | 1| 
 | 20231226T13:54:06Z | Bad character spotter for exploit writers | https://github.com/asadzz/BCspotter | 0 | 0| 
 | 20231226T12:45:51Z | GitOps Repository | https://github.com/rhtap-perf-test/cin4s-970-0085-app-xS54P-wash-exploit | 0 | 0| 
 | 20231226T12:12:52Z | office macro exploit builder 🚀 opensource & free excel word macro exploit builder - oneclick silent macro exploit docx excel word pdf macro exploit xls word macro exploit excel macro exploit oneclick silent macro exploit docx excel word pdf macro exploit xls word macro exploit excel macro exploit | https://github.com/vqhjeeqmuxt8/doc-macro-exploit | 0 | 0| 
 | 20231226T12:11:39Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5601 | 1084| 
 | 20231226T11:57:55Z | Null | https://github.com/BOSSJKL2/EXPLOITER-EXE | 0 | 0| 
 | 20231226T11:50:05Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5742 | 727| 
-| 20231226T02:52:07Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5718 | 777| 
 
 
 # backdoor on Github 推荐
