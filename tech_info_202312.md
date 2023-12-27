@@ -123,7 +123,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231227T01:06:54Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50835 | 23395| 
+| 20231227T01:34:53Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50836 | 23395| 
 | 20231227T01:01:24Z | F-B | https://github.com/ayatweb/fuzzy-barnacle | 0 | 0| 
 | 20231227T00:40:33Z | NPM | https://github.com/ayatweb/fuzzy-broccoli | 1 | 1| 
 | 20231226T22:39:31Z | An artificial intelligence application that uses fuzzy logic and natural language processing to analyze the emotions associated with a tweet. | https://github.com/nabia1827/tweets-fuzzy-sentiment-analysis | 0 | 0| 
