@@ -82,7 +82,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231227T13:38:15Z | Null | https://github.com/neymar57/backdoor | 0 | 0| 
+| 20231227T13:40:40Z | Null | https://github.com/neymar57/backdoor | 0 | 0| 
 | 20231227T08:14:33Z | کشف کننده بک دور و شل ها از سایت های هک شده با پی اچ پی | https://github.com/mirakabzi/detect-webshell-and-backdoor | 0 | 1| 
 | 20231227T07:13:03Z | Shell Backdoor HacknCorp 1337 | https://github.com/hackncorp1337/Shell-Backdoor | 0 | 0| 
 | 20231226T18:39:49Z | Persistent Powershell backdoor tool  | https://github.com/ELMERIKH/Keres | 60 | 9| 
