@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231227T02:49:02Z | Null | https://github.com/bothelpersgpt/WeAreExploit | 0 | 0| 
 | 20231227T02:40:00Z | SeaShell Framework is an iOS post-exploitation framework that exploits the CoreTrust bug to remotely access an iPhone or iPad. | https://github.com/EntySec/SeaShell | 2 | 0| 
 | 20231227T02:08:57Z | Null | https://github.com/bothelpersgpt/Exploit-Robloxs | 0 | 0| 
 | 20231227T01:08:44Z | GitOps Repository | https://github.com/redhat-appstudio-qe/byoc-app-dnub-4Kfxx-be-exploit | 0 | 0| 
@@ -76,7 +77,6 @@
 | 20231226T13:54:06Z | Bad character spotter for exploit writers | https://github.com/asadzz/BCspotter | 0 | 0| 
 | 20231226T12:45:51Z | GitOps Repository | https://github.com/rhtap-perf-test/cin4s-970-0085-app-xS54P-wash-exploit | 0 | 0| 
 | 20231226T12:12:52Z | office macro exploit builder 🚀 opensource & free excel word macro exploit builder - oneclick silent macro exploit docx excel word pdf macro exploit xls word macro exploit excel macro exploit oneclick silent macro exploit docx excel word pdf macro exploit xls word macro exploit excel macro exploit | https://github.com/vqhjeeqmuxt8/doc-macro-exploit | 0 | 0| 
-| 20231226T12:11:39Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5601 | 1084| 
 
 
 # backdoor on Github 推荐
