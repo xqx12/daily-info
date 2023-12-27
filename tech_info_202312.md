@@ -67,7 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231227T02:49:02Z | Null | https://github.com/bothelpersgpt/WeAreExploit | 0 | 0| 
+| 20231227T02:50:28Z | Null | https://github.com/bothelpersgpt/WeAreExploit | 0 | 0| 
 | 20231227T02:40:00Z | SeaShell Framework is an iOS post-exploitation framework that exploits the CoreTrust bug to remotely access an iPhone or iPad. | https://github.com/EntySec/SeaShell | 2 | 0| 
 | 20231227T02:08:57Z | Null | https://github.com/bothelpersgpt/Exploit-Robloxs | 0 | 0| 
 | 20231227T01:08:44Z | GitOps Repository | https://github.com/redhat-appstudio-qe/byoc-app-dnub-4Kfxx-be-exploit | 0 | 0| 
