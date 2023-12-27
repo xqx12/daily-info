@@ -123,6 +123,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231227T02:42:05Z | 爬取网页所有携带参数的URL，最后对每个参数进行Fuzzing | https://github.com/qiuluo-oss/Crawlergo_Fuzzing | 5 | 0| 
 | 20231227T02:07:04Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50838 | 23395| 
 | 20231227T02:06:02Z | Null | https://github.com/PredictiveSwap/Fuzzy-C_means-Clustering | 0 | 0| 
 | 20231227T01:01:24Z | F-B | https://github.com/ayatweb/fuzzy-barnacle | 0 | 0| 
@@ -132,7 +133,6 @@
 | 20231226T19:23:39Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2425 | 308| 
 | 20231226T16:26:16Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9261 | 2070| 
 | 20231226T13:51:55Z | Null | https://github.com/fuzzie-baba/Fuzzie-Project | 0 | 0| 
-| 20231226T13:34:14Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/maxbachmann/RapidFuzz | 2163 | 100| 
 
 
 
