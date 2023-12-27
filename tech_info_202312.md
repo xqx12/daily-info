@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231227T01:08:44Z | GitOps Repository | https://github.com/redhat-appstudio-qe/byoc-app-dnub-4Kfxx-be-exploit | 0 | 0| 
 | 20231226T23:47:17Z | SeaShell Framework is an iOS post-exploitation framework that exploits the CoreTrust bug to remotely access an iPhone or iPad. | https://github.com/EntySec/SeaShell | 1 | 0| 
 | 20231226T21:53:29Z | Bitcoin Randstorm Exploit - Very Fast Private Key and Address Generator | https://github.com/RandstormBTC/randstorm | 8 | 3| 
 | 20231226T13:54:06Z | Bad character spotter for exploit writers | https://github.com/asadzz/BCspotter | 0 | 0| 
@@ -76,7 +77,6 @@
 | 20231226T11:57:55Z | Null | https://github.com/BOSSJKL2/EXPLOITER-EXE | 0 | 0| 
 | 20231226T11:50:05Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5742 | 727| 
 | 20231226T02:52:07Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5718 | 777| 
-| 20231226T01:36:32Z | Exploit Development using python for CVE-2023-38831 (POC) | https://github.com/r1yaz/winDED | 0 | 0| 
 
 
 # backdoor on Github 推荐
