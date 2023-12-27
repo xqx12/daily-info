@@ -67,9 +67,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231227T02:40:00Z | SeaShell Framework is an iOS post-exploitation framework that exploits the CoreTrust bug to remotely access an iPhone or iPad. | https://github.com/EntySec/SeaShell | 2 | 0| 
 | 20231227T02:08:57Z | Null | https://github.com/bothelpersgpt/Exploit-Robloxs | 0 | 0| 
 | 20231227T01:08:44Z | GitOps Repository | https://github.com/redhat-appstudio-qe/byoc-app-dnub-4Kfxx-be-exploit | 0 | 0| 
-| 20231226T23:47:17Z | SeaShell Framework is an iOS post-exploitation framework that exploits the CoreTrust bug to remotely access an iPhone or iPad. | https://github.com/EntySec/SeaShell | 1 | 0| 
 | 20231226T21:53:29Z | Bitcoin Randstorm Exploit - Very Fast Private Key and Address Generator | https://github.com/RandstormBTC/randstorm | 8 | 3| 
 | 20231226T19:55:46Z | 150+ UNRESTRICTED unblockers, games, exploits, AI, bypasses, and social media | https://github.com/wea-f/ByePassHub | 7 | 1| 
 | 20231226T16:27:36Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Mxcoders2s/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 14 | 1| 
