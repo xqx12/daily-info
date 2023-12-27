@@ -41,11 +41,11 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231227T11:32:08Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14768 | 439| 
 | 20231227T07:25:20Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 103 | 22| 
 | 20231227T05:45:41Z | Null | https://github.com/jayanthi-reddy123/kleerthana | 0 | 0| 
 | 20231226T13:55:46Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2381 | 646| 
 | 20231225T10:37:12Z | Experiments with running klee on coreutils | https://github.com/riesentoaster/klee-coreutils-experiments | 0 | 0| 
-| 20231225T07:30:14Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14748 | 439| 
 | 20231224T08:33:26Z | a CJK programming font based on Klee One, LXGW Wenkai, Iansui, Jyunsaikaai, and Plan Kai. | https://github.com/Des-Magmeta/Breeze-Pen-Kai | 0 | 0| 
 | 20231222T02:00:23Z | Null | https://github.com/Glacox/KleeFinal | 0 | 0| 
 | 20231221T23:27:44Z | Null | https://github.com/Rustyymp4/KleeFinal | 0 | 0| 
@@ -123,7 +123,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231227T13:07:03Z | E1E120003-Aldriani Adhyaksa | https://github.com/aldrianiadhyaksa/Implementasi-Algoritma-Kmeans-dan-Fuzzy-Cmeans | 0 | 0| 
+| 20231227T13:10:59Z | E1E120003-Aldriani Adhyaksa | https://github.com/aldrianiadhyaksa/Implementasi-Algoritma-Kmeans-dan-Fuzzy-Cmeans | 0 | 0| 
+| 20231227T13:10:41Z | Null | https://github.com/dheaangellenaengel/Implementasi-Algoritma-Kmeans-dan-Fuzzy-Cmeans | 0 | 0| 
 | 20231227T12:58:32Z | Null | https://github.com/citywar2ris/TugasLogikaFuzzy | 0 | 0| 
 | 20231227T12:28:48Z | Null | https://github.com/oisayalisa/Tugas2_LogikaFuzzy | 0 | 0| 
 | 20231227T12:18:20Z | Null | https://github.com/tasyaberlian02/Tugas-Implementasi-Algoritma-K-Means-dan-Fuzzy-C-Means | 0 | 0| 
@@ -132,7 +133,6 @@
 | 20231227T11:08:04Z | Implementasi K-means dan Fuzzy C means | https://github.com/akbarasad21/Tugas-2-Fuzzy-E1E1-20-035-MUH-AKBAR-ASAD | 0 | 0| 
 | 20231227T10:55:25Z | Null | https://github.com/AuliyaRahmanAsdar/TugasLogikaFuzzy2_E1E120025_Auliyarahmanasdar | 0 | 0| 
 | 20231227T10:38:47Z | Null | https://github.com/Esyanugerah/Tugas-Logika-Fuzzy | 0 | 0| 
-| 20231227T09:50:21Z | Null | https://github.com/andiniii02/Tugas-Logika-Fuzzy | 0 | 0| 
 
 
 
