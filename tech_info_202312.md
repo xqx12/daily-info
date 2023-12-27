@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231227T02:08:57Z | Null | https://github.com/bothelpersgpt/Exploit-Robloxs | 0 | 0| 
 | 20231227T01:08:44Z | GitOps Repository | https://github.com/redhat-appstudio-qe/byoc-app-dnub-4Kfxx-be-exploit | 0 | 0| 
 | 20231226T23:47:17Z | SeaShell Framework is an iOS post-exploitation framework that exploits the CoreTrust bug to remotely access an iPhone or iPad. | https://github.com/EntySec/SeaShell | 1 | 0| 
 | 20231226T21:53:29Z | Bitcoin Randstorm Exploit - Very Fast Private Key and Address Generator | https://github.com/RandstormBTC/randstorm | 8 | 3| 
@@ -76,7 +77,6 @@
 | 20231226T12:45:51Z | GitOps Repository | https://github.com/rhtap-perf-test/cin4s-970-0085-app-xS54P-wash-exploit | 0 | 0| 
 | 20231226T12:12:52Z | office macro exploit builder 🚀 opensource & free excel word macro exploit builder - oneclick silent macro exploit docx excel word pdf macro exploit xls word macro exploit excel macro exploit oneclick silent macro exploit docx excel word pdf macro exploit xls word macro exploit excel macro exploit | https://github.com/vqhjeeqmuxt8/doc-macro-exploit | 0 | 0| 
 | 20231226T12:11:39Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5601 | 1084| 
-| 20231226T11:57:55Z | Null | https://github.com/BOSSJKL2/EXPLOITER-EXE | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -123,8 +123,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231227T02:07:04Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50838 | 23395| 
 | 20231227T02:06:02Z | Null | https://github.com/PredictiveSwap/Fuzzy-C_means-Clustering | 0 | 0| 
-| 20231227T01:46:29Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50837 | 23395| 
 | 20231227T01:01:24Z | F-B | https://github.com/ayatweb/fuzzy-barnacle | 0 | 0| 
 | 20231227T00:40:33Z | NPM | https://github.com/ayatweb/fuzzy-broccoli | 1 | 1| 
 | 20231226T22:39:31Z | An artificial intelligence application that uses fuzzy logic and natural language processing to analyze the emotions associated with a tweet. | https://github.com/nabia1827/tweets-fuzzy-sentiment-analysis | 0 | 0| 
