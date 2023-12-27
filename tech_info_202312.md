@@ -123,6 +123,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231227T13:07:03Z | E1E120003-Aldriani Adhyaksa | https://github.com/aldrianiadhyaksa/Implementasi-Algoritma-Kmeans-dan-Fuzzy-Cmeans | 0 | 0| 
 | 20231227T12:58:32Z | Null | https://github.com/citywar2ris/TugasLogikaFuzzy | 0 | 0| 
 | 20231227T12:28:48Z | Null | https://github.com/oisayalisa/Tugas2_LogikaFuzzy | 0 | 0| 
 | 20231227T12:18:20Z | Null | https://github.com/tasyaberlian02/Tugas-Implementasi-Algoritma-K-Means-dan-Fuzzy-C-Means | 0 | 0| 
@@ -132,7 +133,6 @@
 | 20231227T10:55:25Z | Null | https://github.com/AuliyaRahmanAsdar/TugasLogikaFuzzy2_E1E120025_Auliyarahmanasdar | 0 | 0| 
 | 20231227T10:38:47Z | Null | https://github.com/Esyanugerah/Tugas-Logika-Fuzzy | 0 | 0| 
 | 20231227T09:50:21Z | Null | https://github.com/andiniii02/Tugas-Logika-Fuzzy | 0 | 0| 
-| 20231227T09:39:23Z | School-Projects | https://github.com/aFurkanSogutcu/Fuzzy-Logic-and-ANN | 0 | 0| 
 
 
 
