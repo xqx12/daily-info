@@ -78,6 +78,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231227T13:20:28Z | E1E120065-ENDAH SEKAR LEMBAYUNG | https://github.com/endahsekarr/Implementasi-Algoritma-K-means-dan-Fuzzy-C-means | 0 | 0| 
 | 20231227T13:10:59Z | E1E120003-Aldriani Adhyaksa | https://github.com/aldrianiadhyaksa/Implementasi-Algoritma-Kmeans-dan-Fuzzy-Cmeans | 0 | 0| 
 | 20231227T13:10:41Z | Null | https://github.com/dheaangellenaengel/Implementasi-Algoritma-Kmeans-dan-Fuzzy-Cmeans | 0 | 0| 
 | 20231227T12:58:32Z | Null | https://github.com/citywar2ris/TugasLogikaFuzzy | 0 | 0| 
@@ -87,7 +88,6 @@
 | 20231227T11:09:15Z | Null | https://github.com/icang02/Implementasi-K-Means-Fuzzy-C-Means | 0 | 0| 
 | 20231227T11:08:04Z | Implementasi K-means dan Fuzzy C means | https://github.com/akbarasad21/Tugas-2-Fuzzy-E1E1-20-035-MUH-AKBAR-ASAD | 0 | 0| 
 | 20231227T10:55:25Z | Null | https://github.com/AuliyaRahmanAsdar/TugasLogikaFuzzy2_E1E120025_Auliyarahmanasdar | 0 | 0| 
-| 20231227T10:38:47Z | Null | https://github.com/Esyanugerah/Tugas-Logika-Fuzzy | 0 | 0| 
 
 
 
