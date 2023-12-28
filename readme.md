@@ -71,6 +71,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231227T17:43:37Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 46 | 7| 
 | 20231227T11:55:42Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 26 | 12| 
 
 
