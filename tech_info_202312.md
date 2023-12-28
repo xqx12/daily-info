@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231228T13:33:53Z | Welcome to Hoyt%s Windows Fuzzing Repo | https://github.com/xsscx/windows | 5 | 0| 
 | 20231228T13:17:31Z | создан | https://github.com/endoscopysubennj/exploit-intuitive-synergies | 0 | 0| 
 | 20231228T13:09:12Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5750 | 727| 
 | 20231228T13:08:36Z | Homemade project of on bike data acquisition and exploit to enhance bike%s performance | https://github.com/Nathancrz/MTB-telemetry | 0 | 0| 
@@ -76,7 +77,6 @@
 | 20231228T06:17:57Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 79 | 12| 
 | 20231227T18:20:40Z | A project that offers cheats developed with C++ for DayZ. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/ChecskTime/PROOFCORE-Dayz-Cheat-Hack-Aimbot-Esp-Exploit-Magic-Bullet-Spoofer-Misc | 0 | 0| 
 | 20231227T15:36:21Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Mxcoders2s/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 16 | 1| 
-| 20231227T13:11:24Z | Null | https://github.com/kiro6/Binary-Exploitation-Notes | 0 | 0| 
 
 
 # backdoor on Github 推荐

@@ -45,6 +45,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231228T13:33:53Z | Welcome to Hoyt%s Windows Fuzzing Repo | https://github.com/xsscx/windows | 5 | 0| 
 | 20231228T13:17:31Z | создан | https://github.com/endoscopysubennj/exploit-intuitive-synergies | 0 | 0| 
 | 20231228T13:09:12Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5750 | 727| 
 | 20231228T13:08:36Z | Homemade project of on bike data acquisition and exploit to enhance bike%s performance | https://github.com/Nathancrz/MTB-telemetry | 0 | 0| 
