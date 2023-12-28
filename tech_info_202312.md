@@ -67,16 +67,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231227T18:20:40Z | A project that offers cheats developed with C++ for DayZ. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/ChecskTime/PROOFCORE-Dayz-Cheat-Hack-Aimbot-Esp-Exploit-Magic-Bullet-Spoofer-Misc | 0 | 0| 
+| 20231227T15:36:21Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Mxcoders2s/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 16 | 1| 
 | 20231227T13:11:24Z | Null | https://github.com/kiro6/Binary-Exploitation-Notes | 0 | 0| 
 | 20231227T12:38:03Z |  Cover your tracks during Linux Exploitation by leaving zero traces on system logs and filesystem timestamps. | https://github.com/Aditya-dom/moonwalk-back | 0 | 0| 
-| 20231227T11:44:52Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Mxcoders2s/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 15 | 1| 
 | 20231227T10:40:06Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5600 | 1084| 
 | 20231227T09:55:00Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5744 | 727| 
 | 20231227T09:52:40Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 766 | 185| 
 | 20231227T09:41:56Z | Bitcoin Randstorm Exploit - Very Fast Private Key and Address Generator | https://github.com/RandstormBTC/randstorm | 7 | 3| 
 | 20231227T06:06:56Z | Exploits for some linux binaries :) | https://github.com/GatoGamer1155/BinaryExploitation | 18 | 3| 
 | 20231227T02:50:28Z | Null | https://github.com/bothelpersgpt/WeAreExploit | 0 | 0| 
-| 20231227T02:40:00Z | SeaShell Framework is an iOS post-exploitation framework that exploits the CoreTrust bug to remotely access an iPhone or iPad. | https://github.com/EntySec/SeaShell | 2 | 0| 
 
 
 # backdoor on Github 推荐
