@@ -12,6 +12,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20231227 | 从传统到AI探讨Webshell检测攻防对抗 | https://mp.weixin.qq.com/s/nZBYQC_Mv2-F0WPcG__M6A| 
+| 20231227 | 2023全球十大网络安全演习 | https://mp.weixin.qq.com/s/5c42vOQNNXc6FW-enOCVAg| 
 | 20231225 | 区块链黑暗森林自救手册 1.1 | https://darkhandbook.io/CN-Blockchain-dark-forest-selfguard-handbook-V1.1.pdf| 
 | 20231225 | 人与代码的桥梁 - 聊聊SAST | https://mp.weixin.qq.com/s/stXcVtIExTZvtc-ErDHfZg| 
 | 20231225 | XG拟态-Webshell流量混淆功能 | https://mp.weixin.qq.com/s/c8ladv30wSAX3Oz1yc1fBA| 
@@ -20,37 +21,36 @@
 | 20231225 | 开箱即用的windows渗透测试环境 | https://github.com/arch3rPro/Pentest-Windows/| 
 | 20231225 | 第六届网络安全挑战赛官方WP | https://dce.i-soon.net/#/group/detail/31| 
 | 20231225 | SecWiki周刊（第512期) | https://www.sec-wiki.com/weekly/512| 
-| 20231225 | 美国家安全局发布2023年度网络安全工作回顾报告 | https://mp.weixin.qq.com/s/OLwrlySUZByhJxgrLBNLLw| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231227T23:55:31Z | CVE-2023-43177 | CrushFTP <= 10.5.1 Remote Code Execution. Researchers: Ryan Emmons, Evan Malamis | https://github.com/the-emmons/CVE-2023-43177 | | 
+| 20231227T21:41:05Z | CVE-2020-15780 | Null | https://github.com/Annavid/CVE-2020-15780-exploit | | 
+| 20231227T18:45:10Z | CVE-2023-26035 | Exploit for CVE-2023-26035 affecting ZoneMinder < 1.36.33 and < 1.37.33 | https://github.com/Faelian/zoneminder_CVE-2023-26035 | | 
+| 20231227T16:17:37Z | cve-2023-51385 | Null | https://github.com/jacknickelson/poc-cve-2023-51385 | | 
+| 20231227T15:36:21Z | Cve-2023- | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Mxcoders2s/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
+| 20231227T14:15:37Z | CVE-2023-6553 | Null | https://github.com/motikan2010/CVE-2023-6553-PoC | | 
 | 20231227T12:22:14Z | CVE-2023-40121 | Null | https://github.com/hshivhare67/platform_framework_base_AOSP6_r22_CVE-2023-40121 | | 
-| 20231227T11:44:52Z | Cve-2023- | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Mxcoders2s/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 | 20231227T11:04:42Z | CVE-2023-40121 | Null | https://github.com/nidhi7598/frameworks_base_AOSP10_r33_core_CVE-2023-40121 | | 
 | 20231227T09:33:00Z | CVE-2023-5360 | CVE-2023-5360 EXPLOIT  | https://github.com/angkerithhack001/CVE-2023-5360-PoC | | 
 | 20231227T08:05:10Z | CVE-2023-51764 | Postfix SMTP Smuggling - Expect Script POC | https://github.com/duy-31/CVE-2023-51764 | | 
-| 20231227T07:41:38Z | CVE-2023-51385 | Null | https://github.com/zhulin2/testCVE-2023-51385 | | 
-| 20231227T03:54:33Z | CVE-2021-3156 | Null | https://github.com/DDayLuong/CVE-2021-3156 | | 
-| 20231227T01:24:01Z | CVE-2023-51385 | Null | https://github.com/WLaoDuo/CVE-2023-51385_poc-windows | | 
-| 20231227T00:26:32Z | CVE-2023-41892 | Null | https://github.com/Faelian/CraftCMS_CVE-2023-41892 | | 
-| 20231227T00:10:47Z | CVE-2023-43177 | CrushFTP <= 10.5.1 Remote Code Execution. Researchers: Ryan Emmons, Evan Malamis | https://github.com/the-emmons/CVE-2023-43177 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231228T00:43:24Z | Null | https://github.com/kleepto/kleeptowebsite | 0 | 0| 
+| 20231228T00:40:05Z | Null | https://github.com/akashsekar/kleeptowebsite | 0 | 0| 
+| 20231227T19:33:15Z | Experiments with running klee on coreutils | https://github.com/riesentoaster/klee-coreutils-experiments | 0 | 0| 
 | 20231227T11:32:08Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14768 | 439| 
 | 20231227T07:25:20Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 103 | 22| 
 | 20231227T05:45:41Z | Null | https://github.com/jayanthi-reddy123/kleerthana | 0 | 0| 
-| 20231226T13:55:46Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2381 | 646| 
-| 20231225T10:37:12Z | Experiments with running klee on coreutils | https://github.com/riesentoaster/klee-coreutils-experiments | 0 | 0| 
+| 20231226T13:55:46Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2381 | 645| 
 | 20231224T08:33:26Z | a CJK programming font based on Klee One, LXGW Wenkai, Iansui, Jyunsaikaai, and Plan Kai. | https://github.com/Des-Magmeta/Breeze-Pen-Kai | 0 | 0| 
 | 20231222T02:00:23Z | Null | https://github.com/Glacox/KleeFinal | 0 | 0| 
 | 20231221T23:27:44Z | Null | https://github.com/Rustyymp4/KleeFinal | 0 | 0| 
-| 20231220T13:26:38Z | Config files for my GitHub profile. | https://github.com/Kleen3/Kleen3 | 0 | 0| 
-| 20231218T06:28:12Z | Null | https://github.com/klee0589/klee0589.github.io | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -72,16 +72,18 @@
 | 20231227T11:44:52Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Mxcoders2s/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 15 | 1| 
 | 20231227T10:40:06Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5600 | 1084| 
 | 20231227T09:55:00Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5744 | 727| 
+| 20231227T09:52:40Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 766 | 185| 
 | 20231227T02:50:28Z | Null | https://github.com/bothelpersgpt/WeAreExploit | 0 | 0| 
 | 20231227T02:40:00Z | SeaShell Framework is an iOS post-exploitation framework that exploits the CoreTrust bug to remotely access an iPhone or iPad. | https://github.com/EntySec/SeaShell | 2 | 0| 
 | 20231227T02:08:57Z | Null | https://github.com/bothelpersgpt/Exploit-Robloxs | 0 | 0| 
 | 20231227T01:08:44Z | GitOps Repository | https://github.com/redhat-appstudio-qe/byoc-app-dnub-4Kfxx-be-exploit | 0 | 0| 
-| 20231226T21:53:29Z | Bitcoin Randstorm Exploit - Very Fast Private Key and Address Generator | https://github.com/RandstormBTC/randstorm | 8 | 3| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231228T00:29:31Z | ELF binary forensics tool for APT, virus, backdoor and rootkit detection | https://github.com/arcana-technologies/arcana.elfscan | 1 | 0| 
+| 20231227T16:29:25Z | Backdoor for web server | https://github.com/cybersecuritydef/WEB-Backdoor | 0 | 0| 
 | 20231227T13:40:40Z | Null | https://github.com/neymar57/backdoor | 0 | 0| 
 | 20231227T08:14:33Z | کشف کننده بک دور و شل ها از سایت های هک شده با پی اچ پی | https://github.com/mirakabzi/detect-webshell-and-backdoor | 0 | 1| 
 | 20231227T07:13:03Z | Shell Backdoor HacknCorp 1337 | https://github.com/hackncorp1337/Shell-Backdoor | 0 | 0| 
@@ -90,8 +92,6 @@
 | 20231226T16:17:18Z | Ethical Hacking project to create a backdoor on a linux virtual machine with root privileges | https://github.com/athulnair02/command-and-control | 0 | 1| 
 | 20231226T15:28:01Z | Null | https://github.com/rafia9005/terminal-backdoor-php | 0 | 0| 
 | 20231226T13:21:08Z | nginx WebShell/内存马，更优雅的nignx backdoor | https://github.com/veo/nginx_shell | 41 | 3| 
-| 20231226T12:15:45Z | Backdoor simple echa en python con conexion Servidor - Maquina  | https://github.com/ByKoan/backdoor | 0 | 0| 
-| 20231226T09:31:42Z | This repository contains the achievements of the BoBpiler team during the BoB project period. Utilizing the BoBpiler Fuzzer, we have detected various compiler optimization bugs and developed PoC (Proof of Concept) and Stealth Backdoor Scenarios based on these findings. The repository serves as a comprehensive showcase of all project outcomes. | https://github.com/BoBpiler/compiler-optimization-vulnerability-explorations | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -123,16 +123,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231228T00:57:31Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50869 | 23400| 
+| 20231228T00:34:39Z | Null | https://github.com/felipe-parra/fuzzy-octo-telegram | 0 | 0| 
+| 20231228T00:34:17Z | Config files for my GitHub profile. | https://github.com/Fuzzsheep/Fuzzsheep | 0 | 0| 
+| 20231227T22:03:45Z | mirror | https://github.com/ayatweb/fuzzy-garbanzo | 1 | 1| 
+| 20231227T21:58:00Z | Investigating the potential correlation between the proportion of young people in a country and the quantity of content generated on Over-The-Top (OTT) platforms. | https://github.com/urjanichakravarti/OTT-Platform-Country-Population-Correlation-Using-Fuzzy-Matching | 0 | 0| 
+| 20231227T21:30:45Z | Null | https://github.com/christian460/fuzzy | 0 | 0| 
 | 20231227T13:36:32Z | This repository contains exercises from CISPA Helmholtz Center for Information Security to implement a fuzzing techniques from scratch using Python. | https://github.com/sagarkishore-7/SecurityTesting | 0 | 0| 
 | 20231227T13:20:28Z | E1E120065-ENDAH SEKAR LEMBAYUNG | https://github.com/endahsekarr/Implementasi-Algoritma-K-means-dan-Fuzzy-C-means | 0 | 0| 
 | 20231227T13:10:59Z | E1E120003-Aldriani Adhyaksa | https://github.com/aldrianiadhyaksa/Implementasi-Algoritma-Kmeans-dan-Fuzzy-Cmeans | 0 | 0| 
 | 20231227T13:10:41Z | Null | https://github.com/dheaangellenaengel/Implementasi-Algoritma-Kmeans-dan-Fuzzy-Cmeans | 0 | 0| 
-| 20231227T12:58:32Z | Null | https://github.com/citywar2ris/TugasLogikaFuzzy | 0 | 0| 
-| 20231227T12:28:48Z | Null | https://github.com/oisayalisa/Tugas2_LogikaFuzzy | 0 | 0| 
-| 20231227T12:18:20Z | Null | https://github.com/tasyaberlian02/Tugas-Implementasi-Algoritma-K-Means-dan-Fuzzy-C-Means | 0 | 0| 
-| 20231227T11:16:53Z | Small utility to fuzzy search from a secret store and print the value to stdout | https://github.com/kiran94/fuzzy-secret-stdout | 0 | 0| 
-| 20231227T11:09:15Z | Null | https://github.com/icang02/Implementasi-K-Means-Fuzzy-C-Means | 0 | 0| 
-| 20231227T11:08:04Z | Implementasi K-means dan Fuzzy C means | https://github.com/akbarasad21/Tugas-2-Fuzzy-E1E1-20-035-MUH-AKBAR-ASAD | 0 | 0| 
 
 
 
