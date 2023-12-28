@@ -77,6 +77,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231228T13:16:37Z | Next Generation HTTP Dir/File Fuzz Tool | https://github.com/chainreactors/spray | 213 | 18| 
 | 20231228T12:09:27Z | Null | https://github.com/thmaz/FuzzyCd | 1 | 0| 
 | 20231228T12:04:22Z | Null | https://github.com/tndus1739/fuzzy-octo-winner | 0 | 0| 
 | 20231228T10:58:33Z | My little Projects | https://github.com/discoguy1443/fuzzy-fiesta | 0 | 0| 
