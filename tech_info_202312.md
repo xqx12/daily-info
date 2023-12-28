@@ -123,9 +123,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231228T02:19:45Z | Null | https://github.com/felipe-parra/fuzzy-octo-telegram | 0 | 0| 
 | 20231228T02:06:39Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50871 | 23401| 
 | 20231228T01:36:41Z | FG | https://github.com/ayatweb/fuzzy-guide | 1 | 0| 
-| 20231228T00:34:39Z | Null | https://github.com/felipe-parra/fuzzy-octo-telegram | 0 | 0| 
 | 20231228T00:34:17Z | Config files for my GitHub profile. | https://github.com/Fuzzsheep/Fuzzsheep | 0 | 0| 
 | 20231227T22:03:45Z | mirror | https://github.com/ayatweb/fuzzy-garbanzo | 1 | 1| 
 | 20231227T21:58:00Z | Investigating the potential correlation between the proportion of young people in a country and the quantity of content generated on Over-The-Top (OTT) platforms. | https://github.com/urjanichakravarti/OTT-Platform-Country-Population-Correlation-Using-Fuzzy-Matching | 0 | 0| 
