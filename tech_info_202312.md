@@ -123,6 +123,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231228T13:33:53Z | Welcome to Hoyt%s Windows Fuzzing Repo | https://github.com/xsscx/windows | 5 | 0| 
 | 20231228T13:16:37Z | Next Generation HTTP Dir/File Fuzz Tool | https://github.com/chainreactors/spray | 213 | 18| 
 | 20231228T12:09:27Z | Null | https://github.com/thmaz/FuzzyCd | 1 | 0| 
 | 20231228T12:04:22Z | Null | https://github.com/tndus1739/fuzzy-octo-winner | 0 | 0| 
@@ -132,7 +133,6 @@
 | 20231228T02:46:41Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50873 | 23402| 
 | 20231228T02:19:45Z | Null | https://github.com/felipe-parra/fuzzy-octo-telegram | 0 | 0| 
 | 20231228T01:36:41Z | FG | https://github.com/ayatweb/fuzzy-guide | 1 | 0| 
-| 20231228T00:34:17Z | Config files for my GitHub profile. | https://github.com/Fuzzsheep/Fuzzsheep | 0 | 0| 
 
 
 
