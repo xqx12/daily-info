@@ -45,6 +45,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231228T13:08:36Z | Homemade project of on bike data acquisition and exploit to enhance bike%s performance | https://github.com/Nathancrz/MTB-telemetry | 0 | 0| 
 | 20231228T12:43:59Z | Null | https://github.com/RoStudioGames/RoStudioGames-Exploit-Tools-Test | 0 | 0| 
 | 20231228T12:27:12Z | Discord vc exploit to crash vcs | https://github.com/loadpz/discord-vc-crash-exploit | 0 | 0| 
 | 20231228T12:20:37Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5749 | 727| 

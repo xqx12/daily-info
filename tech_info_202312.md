@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231228T13:08:36Z | Homemade project of on bike data acquisition and exploit to enhance bike%s performance | https://github.com/Nathancrz/MTB-telemetry | 0 | 0| 
 | 20231228T12:43:59Z | Null | https://github.com/RoStudioGames/RoStudioGames-Exploit-Tools-Test | 0 | 0| 
 | 20231228T12:27:12Z | Discord vc exploit to crash vcs | https://github.com/loadpz/discord-vc-crash-exploit | 0 | 0| 
 | 20231228T12:20:37Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5749 | 727| 
@@ -76,7 +77,6 @@
 | 20231227T15:36:21Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Mxcoders2s/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 16 | 1| 
 | 20231227T13:11:24Z | Null | https://github.com/kiro6/Binary-Exploitation-Notes | 0 | 0| 
 | 20231227T12:38:03Z |  Cover your tracks during Linux Exploitation by leaving zero traces on system logs and filesystem timestamps. | https://github.com/Aditya-dom/moonwalk-back | 0 | 0| 
-| 20231227T10:40:06Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5600 | 1085| 
 
 
 # backdoor on Github 推荐
