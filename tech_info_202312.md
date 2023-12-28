@@ -123,6 +123,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231228T01:30:53Z | FG | https://github.com/ayatweb/fuzzy-guide | 1 | 0| 
 | 20231228T00:57:31Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50869 | 23401| 
 | 20231228T00:34:39Z | Null | https://github.com/felipe-parra/fuzzy-octo-telegram | 0 | 0| 
 | 20231228T00:34:17Z | Config files for my GitHub profile. | https://github.com/Fuzzsheep/Fuzzsheep | 0 | 0| 
@@ -132,7 +133,6 @@
 | 20231227T13:36:32Z | This repository contains exercises from CISPA Helmholtz Center for Information Security to implement a fuzzing techniques from scratch using Python. | https://github.com/sagarkishore-7/SecurityTesting | 0 | 0| 
 | 20231227T13:20:28Z | E1E120065-ENDAH SEKAR LEMBAYUNG | https://github.com/endahsekarr/Implementasi-Algoritma-K-means-dan-Fuzzy-C-means | 0 | 0| 
 | 20231227T13:10:59Z | E1E120003-Aldriani Adhyaksa | https://github.com/aldrianiadhyaksa/Implementasi-Algoritma-Kmeans-dan-Fuzzy-Cmeans | 0 | 0| 
-| 20231227T13:10:41Z | Null | https://github.com/dheaangellenaengel/Implementasi-Algoritma-Kmeans-dan-Fuzzy-Cmeans | 0 | 0| 
 
 
 
