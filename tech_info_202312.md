@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231228T01:50:07Z | CVE-2021-22986 | Custom POC of CVE-2021-22986 by Al1ex@Heptagram | https://github.com/huydung26/CVE-2021-22986 | | 
 | 20231227T23:55:31Z | CVE-2023-43177 | CrushFTP <= 10.5.1 Remote Code Execution. Researchers: Ryan Emmons, Evan Malamis | https://github.com/the-emmons/CVE-2023-43177 | | 
 | 20231227T21:41:05Z | CVE-2020-15780 | Null | https://github.com/Annavid/CVE-2020-15780-exploit | | 
 | 20231227T18:45:10Z | CVE-2023-26035 | Exploit for CVE-2023-26035 affecting ZoneMinder < 1.36.33 and < 1.37.33 | https://github.com/Faelian/zoneminder_CVE-2023-26035 | | 
@@ -35,7 +36,6 @@
 | 20231227T12:22:14Z | CVE-2023-40121 | Null | https://github.com/hshivhare67/platform_framework_base_AOSP6_r22_CVE-2023-40121 | | 
 | 20231227T11:04:42Z | CVE-2023-40121 | Null | https://github.com/nidhi7598/frameworks_base_AOSP10_r33_core_CVE-2023-40121 | | 
 | 20231227T09:33:00Z | CVE-2023-5360 | CVE-2023-5360 EXPLOIT  | https://github.com/angkerithhack001/CVE-2023-5360-PoC | | 
-| 20231227T08:05:10Z | CVE-2023-51764 | Postfix SMTP Smuggling - Expect Script POC | https://github.com/duy-31/CVE-2023-51764 | | 
 
 
 # klee on Github 推荐
