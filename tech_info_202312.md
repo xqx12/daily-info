@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231229T02:31:42Z | CVE-2023-51385 | CVE-2023-51385测试POC | https://github.com/N0rther/CVE-2023-51385_TT | | 
 | 20231229T02:25:43Z | CVE-2023-51467 | CVE-2023-51467 POC | https://github.com/JaneMandy/CVE-2023-51467 | | 
 | 20231228T23:39:46Z | CVE-2023-36025 | Windows SmartScreen Security Feature Bypass Vulnerability | https://github.com/coolman6942o/-EXPLOIT-CVE-2023-36025 | | 
 | 20231228T23:29:53Z | CVE-2023-46344 | Null | https://github.com/vinnie1717/CVE-2023-46344 | | 
@@ -35,7 +36,6 @@
 | 20231228T12:16:15Z | CVE-2023-6710 | Welcome to the Metasploit Exploits Repository, your go-to resource for a comprehensive collection of cutting-edge exploits designed for penetration testing and ethical hacking. Developed and maintained by Mohamed Mounir Boudjema, this repository is crafted with a deep understanding of the evolving landscape of cybersecurity. | https://github.com/DedSec-47/Metasploit-Exploits-CVE-2023-6710 | | 
 | 20231228T11:45:13Z | CVE-2023-27163 | Proof of Concept for Server Side Request Forgery (SSRF) in request-baskets (V<= v.1.2.1) | https://github.com/MasterCode112/CVE-2023-27163 | | 
 | 20231228T11:39:27Z | CVE-2023-6710 | Explore the depths of CVE-2023-6710 with our comprehensive Proof of Concept (PoC). This CVE, identified as a potential security vulnerability, has been meticulously examined to demonstrate its impact and provide a hands-on understanding of the associated risks. | https://github.com/DedSec-47/CVE-2023-6710 | | 
-| 20231228T10:21:13Z | CVE-2023-51764 | PoC CVE-2023-51764  | https://github.com/eeenvik1/CVE-2023-51764 | | 
 
 
 # klee on Github 推荐
