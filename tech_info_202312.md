@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231229T13:39:32Z | Discord exploit used to crash discord voice channels by overloading the WSS with junk data this exploit was patched a while ago but I%ve managed to find a simple workaround | https://github.com/juaiz/discord-vc-lag-exploit-v2 | 0 | 0| 
 | 20231229T13:23:23Z | Exploits used to lag and possibly crash discord voice channels to cause other users not being able to use the voice channel you are attacking with this silly exploit | https://github.com/loapz/discord-vc-lag-exploit | 0 | 0| 
 | 20231229T13:14:43Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 6134 | 695| 
 | 20231229T13:10:52Z | SSH-Snake is a self-contained fileless* bash script that automates the post-exploitation task of SSH private key and host discovery. How many systems and how far can you traverse a network using discovered ssh private keys on each system? SSH-Snake answers that question. | https://github.com/MegaManSec/SSH-Snake | 0 | 0| 
@@ -76,7 +77,6 @@
 | 20231229T11:28:49Z | Null | https://github.com/avrie23/AvrieExploits | 0 | 0| 
 | 20231229T11:12:15Z | Red teaming is an attack technique used in cyber security to test how an organisation would respond to a genuine cyber attack. It is done through an Ethical Hacking team or similar offensive security team. | https://github.com/Mehdi0x90/Red-Team | 4 | 0| 
 | 20231229T02:59:24Z | tools | https://github.com/Whomrx666/exploit-X | 0 | 0| 
-| 20231229T02:36:52Z | Uncover the true IP address of websites safeguarded by Cloudflare & Others | https://github.com/spyboy-productions/CloakQuest3r | 606 | 91| 
 
 
 # backdoor on Github 推荐
