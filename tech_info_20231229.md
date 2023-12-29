@@ -41,6 +41,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231229T13:42:26Z | Discord client exploit to crash clients when a profile is opened | https://github.com/juaiz/discord-client-crasher-v2 | 0 | 0| 
 | 20231229T13:39:32Z | Discord exploit used to crash discord voice channels by overloading the WSS with junk data this exploit was patched a while ago but I%ve managed to find a simple workaround | https://github.com/juaiz/discord-vc-lag-exploit-v2 | 0 | 0| 
 | 20231229T13:23:23Z | Exploits used to lag and possibly crash discord voice channels to cause other users not being able to use the voice channel you are attacking with this silly exploit | https://github.com/loapz/discord-vc-lag-exploit | 0 | 0| 
 | 20231229T13:14:43Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 6134 | 695| 
@@ -50,7 +51,6 @@
 | 20231229T11:39:57Z | The only tool/technique to punch holes through firewalls/NATs where multiple clients & server can be behind separate NATs without any 3rd party involvement. Pwnat is a newly developed technique, exploiting a property of NAT translation tables, with no 3rd party, port forwarding, DMZ, DNS, router admin requirements, STUN/TURN/UPnP/ICE, or spoofing. | https://github.com/samyk/pwnat | 2948 | 468| 
 | 20231229T11:28:49Z | Null | https://github.com/avrie23/AvrieExploits | 0 | 0| 
 | 20231229T11:12:15Z | Red teaming is an attack technique used in cyber security to test how an organisation would respond to a genuine cyber attack. It is done through an Ethical Hacking team or similar offensive security team. | https://github.com/Mehdi0x90/Red-Team | 4 | 0| 
-| 20231229T02:59:24Z | tools | https://github.com/Whomrx666/exploit-X | 0 | 0| 
 
 
 # backdoor on Github 推荐
