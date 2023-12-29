@@ -76,6 +76,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231229T13:44:23Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50924 | 23407| 
 | 20231229T12:24:16Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4189 | 856| 
 | 20231229T12:19:29Z | Loan management system using fuzzy logic to assess borrowers in order to make loan decisions. It uses 5 inputs for the fuzzy model (annual income, credit score, loan amount, criminal record and collateral) and the output is the degree of creditworthiness of the borrower. | https://github.com/miriam-samuels/Fuzzy-LMS | 0 | 0| 
 | 20231229T12:13:41Z | Null | https://github.com/fauzanalashar/Tugas-2-Logika-Fuzzy | 0 | 0| 
@@ -85,7 +86,6 @@
 | 20231229T10:36:30Z | Null | https://github.com/Abiram08/fuzzy-guide | 0 | 0| 
 | 20231229T10:11:34Z | 爬取网页所有携带参数的URL，最后对每个参数进行Fuzzing | https://github.com/qiuluo-oss/Crawlergo_Fuzzing | 0 | 0| 
 | 20231229T08:57:44Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9264 | 2072| 
-| 20231229T08:46:10Z | Null | https://github.com/wahyu12v/Embded-Final-Project--Sistem-Pendeteksi-API-dengan-Logika-Fuzzy- | 0 | 0| 
 
 
 
