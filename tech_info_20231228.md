@@ -95,10 +95,10 @@
 | 20231228T21:07:37Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/rapidfuzz/RapidFuzz | 2172 | 100| 
 | 20231228T13:33:53Z | Welcome to Hoyt%s Windows Fuzzing Repo | https://github.com/xsscx/windows | 5 | 0| 
 | 20231228T13:16:37Z | Next Generation HTTP Dir/File Fuzz Tool | https://github.com/chainreactors/spray | 213 | 18| 
+| 20231228T12:33:29Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5135 | 554| 
 | 20231228T12:09:27Z | Null | https://github.com/thmaz/FuzzyCd | 1 | 0| 
 | 20231228T12:04:22Z | Null | https://github.com/tndus1739/fuzzy-octo-winner | 0 | 0| 
 | 20231228T10:58:33Z | My little Projects | https://github.com/discoguy1443/fuzzy-fiesta | 0 | 0| 
-| 20231228T09:49:36Z | 爬取网页所有携带参数的URL，最后对每个参数进行Fuzzing | https://github.com/qiuluo-oss/Crawlergo_Fuzzing | 1 | 0| 
 
 
 
