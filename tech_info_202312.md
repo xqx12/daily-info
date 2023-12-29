@@ -67,7 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231229T02:57:22Z | tools | https://github.com/Whomrx666/exploit-X | 0 | 0| 
+| 20231229T02:59:24Z | tools | https://github.com/Whomrx666/exploit-X | 0 | 0| 
 | 20231229T02:36:52Z | Uncover the true IP address of websites safeguarded by Cloudflare & Others | https://github.com/spyboy-productions/CloakQuest3r | 606 | 91| 
 | 20231229T01:13:00Z | 150+ UNRESTRICTED unblockers, games, exploits, AI, bypasses, and social media | https://github.com/wea-f/ByePassHub | 7 | 2| 
 | 20231229T00:26:55Z | poc to exploit .sln files | https://github.com/saidelsherbiny/SLNExploitPOC | 0 | 0| 
