@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231229T02:25:43Z | CVE-2023-51467 | CVE-2023-51467 POC | https://github.com/JaneMandy/CVE-2023-51467 | | 
 | 20231228T23:39:46Z | CVE-2023-36025 | Windows SmartScreen Security Feature Bypass Vulnerability | https://github.com/coolman6942o/-EXPLOIT-CVE-2023-36025 | | 
 | 20231228T23:29:53Z | CVE-2023-46344 | Null | https://github.com/vinnie1717/CVE-2023-46344 | | 
 | 20231228T23:24:22Z | CVE-2023-48974 | Null | https://github.com/vinnie1717/CVE-2023-48974 | | 
@@ -35,7 +36,6 @@
 | 20231228T11:45:13Z | CVE-2023-27163 | Proof of Concept for Server Side Request Forgery (SSRF) in request-baskets (V<= v.1.2.1) | https://github.com/MasterCode112/CVE-2023-27163 | | 
 | 20231228T11:39:27Z | CVE-2023-6710 | Explore the depths of CVE-2023-6710 with our comprehensive Proof of Concept (PoC). This CVE, identified as a potential security vulnerability, has been meticulously examined to demonstrate its impact and provide a hands-on understanding of the associated risks. | https://github.com/DedSec-47/CVE-2023-6710 | | 
 | 20231228T10:21:13Z | CVE-2023-51764 | PoC CVE-2023-51764  | https://github.com/eeenvik1/CVE-2023-51764 | | 
-| 20231228T09:09:24Z | CVE-2023-24955 | Exploit for Microsoft SharePoint 2019 | https://github.com/former-farmer/CVE-2023-24955-PoC | | 
 
 
 # klee on Github 推荐
