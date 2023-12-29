@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231229T13:05:37Z | SSH-Snake is a self-contained fileless* bash script that automates the post-exploitation task of SSH private key and host discovery. How many far can you get into a network using SSH discovered keys on the current server? SSH-Snake answers that question. | https://github.com/MegaManSec/SSH-Snake | 0 | 0| 
 | 20231229T12:08:36Z |  Are you looking for a convenient and reliable Roblox Executor? If so, then download Synapse X. It is the most stable executor that contains a vast library of advanced scripts that help players to exploit Roblox games. Basically, it works as a script engine that helps players to execute the scripts and make the games simple to combat.  | https://github.com/loapxz/SynapseX | 0 | 0| 
 | 20231229T11:48:13Z |  Discord vc exploit to crash vcs  | https://github.com/lopazx/discord-vc-crash-exploit | 0 | 0| 
 | 20231229T11:39:57Z | The only tool/technique to punch holes through firewalls/NATs where multiple clients & server can be behind separate NATs without any 3rd party involvement. Pwnat is a newly developed technique, exploiting a property of NAT translation tables, with no 3rd party, port forwarding, DMZ, DNS, router admin requirements, STUN/TURN/UPnP/ICE, or spoofing. | https://github.com/samyk/pwnat | 2948 | 468| 
@@ -76,7 +77,6 @@
 | 20231229T02:36:52Z | Uncover the true IP address of websites safeguarded by Cloudflare & Others | https://github.com/spyboy-productions/CloakQuest3r | 606 | 91| 
 | 20231229T01:13:00Z | 150+ UNRESTRICTED unblockers, games, exploits, AI, bypasses, and social media | https://github.com/wea-f/ByePassHub | 7 | 2| 
 | 20231229T00:26:55Z | poc to exploit .sln files | https://github.com/saidelsherbiny/SLNExploitPOC | 0 | 0| 
-| 20231229T00:24:31Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-BG | 1 | 0| 
 
 
 # backdoor on Github 推荐
