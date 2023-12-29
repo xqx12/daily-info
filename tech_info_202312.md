@@ -73,10 +73,10 @@
 | 20231229T00:23:47Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-BG | 1 | 0| 
 | 20231229T00:22:49Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-BG | 1 | 0| 
 | 20231229T00:21:29Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-BG | 1 | 0| 
+| 20231228T23:13:00Z | Uncover the true IP address of websites safeguarded by Cloudflare & Others | https://github.com/spyboy-productions/CloakQuest3r | 605 | 91| 
 | 20231228T22:11:51Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), artificial intelligence security, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 15440 | 2747| 
 | 20231228T22:08:21Z | Exploits for some linux binaries :) | https://github.com/GatoGamer1155/BinaryExploitation | 19 | 3| 
 | 20231228T20:42:09Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5601 | 1085| 
-| 20231228T13:47:55Z | Homemade project of on bike data acquisition and exploit to enhance bike%s performance | https://github.com/Nathancrz/MTB-telemetry | 1 | 0| 
 
 
 # backdoor on Github 推荐

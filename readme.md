@@ -48,6 +48,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231228T23:13:00Z | Uncover the true IP address of websites safeguarded by Cloudflare & Others | https://github.com/spyboy-productions/CloakQuest3r | 605 | 91| 
 | 20231228T22:11:51Z | This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), artificial intelligence security, vulnerability research, exploit development, reverse engineering, and more. | https://github.com/The-Art-of-Hacking/h4cker | 15440 | 2747| 
 | 20231228T22:08:21Z | Exploits for some linux binaries :) | https://github.com/GatoGamer1155/BinaryExploitation | 19 | 3| 
 | 20231228T20:42:09Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5601 | 1085| 
@@ -57,7 +58,6 @@
 | 20231228T13:09:12Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5750 | 727| 
 | 20231228T12:43:59Z | Null | https://github.com/RoStudioGames/RoStudioGames-Exploit-Tools-Test | 0 | 0| 
 | 20231228T12:27:12Z | Discord vc exploit to crash vcs | https://github.com/loadpz/discord-vc-crash-exploit | 0 | 0| 
-| 20231228T12:16:15Z | Welcome to the Metasploit Exploits Repository, your go-to resource for a comprehensive collection of cutting-edge exploits designed for penetration testing and ethical hacking. Developed and maintained by Mohamed Mounir Boudjema, this repository is crafted with a deep understanding of the evolving landscape of cybersecurity. | https://github.com/DedSec-47/Metasploit-Exploits-CVE-2023-6710 | 0 | 0| 
 
 
 # backdoor on Github 推荐
