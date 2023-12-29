@@ -67,7 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231229T13:12:55Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 6133 | 695| 
+| 20231229T13:14:43Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 6134 | 695| 
 | 20231229T13:10:52Z | SSH-Snake is a self-contained fileless* bash script that automates the post-exploitation task of SSH private key and host discovery. How many systems and how far can you traverse a network using discovered ssh private keys on each system? SSH-Snake answers that question. | https://github.com/MegaManSec/SSH-Snake | 0 | 0| 
 | 20231229T12:08:36Z |  Are you looking for a convenient and reliable Roblox Executor? If so, then download Synapse X. It is the most stable executor that contains a vast library of advanced scripts that help players to exploit Roblox games. Basically, it works as a script engine that helps players to execute the scripts and make the games simple to combat.  | https://github.com/loapxz/SynapseX | 0 | 0| 
 | 20231229T11:48:13Z |  Discord vc exploit to crash vcs  | https://github.com/lopazx/discord-vc-crash-exploit | 0 | 0| 
