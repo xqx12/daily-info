@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231229T01:13:00Z | 150+ UNRESTRICTED unblockers, games, exploits, AI, bypasses, and social media | https://github.com/wea-f/ByePassHub | 7 | 2| 
 | 20231229T00:26:55Z | poc to exploit .sln files | https://github.com/saidelsherbiny/SLNExploitPOC | 0 | 0| 
 | 20231229T00:24:31Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-BG | 1 | 0| 
 | 20231229T00:23:47Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-BG | 1 | 0| 
@@ -76,7 +77,6 @@
 | 20231228T22:08:21Z | Exploits for some linux binaries :) | https://github.com/GatoGamer1155/BinaryExploitation | 19 | 3| 
 | 20231228T20:42:09Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5601 | 1085| 
 | 20231228T13:47:55Z | Homemade project of on bike data acquisition and exploit to enhance bike%s performance | https://github.com/Nathancrz/MTB-telemetry | 1 | 0| 
-| 20231228T13:33:53Z | Welcome to Hoyt%s Windows Fuzzing Repo | https://github.com/xsscx/windows | 5 | 0| 
 
 
 # backdoor on Github 推荐
