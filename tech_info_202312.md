@@ -67,7 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231230T01:54:28Z | Redirection exploit discovered by @bypassiwastaken (or Bypassi), unblocked. | https://github.com/Quartinal/redirectool | 0 | 0| 
+| 20231230T01:57:07Z | Redirection exploit discovered by @bypassiwastaken (or Bypassi), unblocked. | https://github.com/Quartinal/redirectool | 0 | 0| 
 | 20231229T23:40:51Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-tr | 1 | 0| 
 | 20231229T23:40:05Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-tr | 1 | 0| 
 | 20231229T23:39:21Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-tr | 1 | 0| 
