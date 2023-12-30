@@ -43,6 +43,7 @@
 | 20231230T08:39:37Z | External cheat for Rainbow Six Siege offering ESP, aimbot, and various tactical advantages. | https://github.com/sdtam2/Klar-gg-Rainbow-Six-Siege-RS6-Esp-NoRroil-Hwid-Spoofer-Exploit | 0 | 0| 
 | 20231230T08:38:30Z | Developed for Escape From Tarkov and written in C++ and C#. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/sdtam2/Escape-From-Tarkov-Eft-Aimbot-esp-Loots-Exploits-Max-Skills-High-Jump | 0 | 0| 
 | 20231230T03:43:50Z | SeaShell Framework is an iOS post-exploitation framework that exploits the CoreTrust bug to remotely access an iPhone or iPad. | https://github.com/EntySec/SeaShell | 42 | 4| 
+| 20231230T02:38:39Z | Exploit for side quests 2023 , TryHackMe Advent of Cyber 2023 | https://github.com/sumanrox/sidequest-exploits | 2 | 0| 
 | 20231230T02:29:10Z | Python POC to Exploit CVE-2016-4437 Apache Shiro Deserialization Vulnerability Due to Hardcode Encryption Key | https://github.com/pizza-power/CVE-2016-4437 | 0 | 0| 
 | 20231230T01:57:07Z | Redirection exploit discovered by @bypassiwastaken (or Bypassi), unblocked. | https://github.com/Quartinal/redirectool | 0 | 0| 
 
