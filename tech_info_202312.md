@@ -124,6 +124,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231230T13:33:08Z | challenges for self-improvement | https://github.com/JiriP1/fuzzy-adventure | 0 | 0| 
 | 20231230T13:01:08Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/GhostTroops/scan4all | 4725 | 580| 
 | 20231230T12:04:28Z | UPN Veteran Jatim , Aquaponic pH Control-Monitoring with Type-2 Fuzzy Method Based on IoT Bot , S1 Thesis Project | https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot | 1 | 0| 
 | 20231230T07:09:35Z | Null | https://github.com/shahrazad4/fuzzy-doodle | 0 | 0| 
@@ -133,7 +134,6 @@
 | 20231230T02:47:44Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50966 | 23412| 
 | 20231229T19:34:11Z | Null | https://github.com/thedutch75/fuzzy-sweater | 0 | 0| 
 | 20231229T13:51:56Z | Null | https://github.com/Elilorg/FUZZY-CALCULATOR | 0 | 0| 
-| 20231229T12:19:29Z | Loan management system using fuzzy logic to assess borrowers in order to make loan decisions. It uses 5 inputs for the fuzzy model (annual income, credit score, loan amount, criminal record and collateral) and the output is the degree of creditworthiness of the borrower. | https://github.com/miriam-samuels/Fuzzy-LMS | 0 | 0| 
 
 
 
