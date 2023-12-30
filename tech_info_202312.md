@@ -124,7 +124,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231230T13:33:08Z | challenges for self-improvement | https://github.com/JiriP1/fuzzy-adventure | 0 | 0| 
+| 20231230T13:38:22Z | challenges for self-improvement | https://github.com/JiriP1/fuzzy-adventure | 0 | 0| 
 | 20231230T13:01:08Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/GhostTroops/scan4all | 4725 | 580| 
 | 20231230T12:04:28Z | UPN Veteran Jatim , Aquaponic pH Control-Monitoring with Type-2 Fuzzy Method Based on IoT Bot , S1 Thesis Project | https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot | 1 | 0| 
 | 20231230T07:09:35Z | Null | https://github.com/shahrazad4/fuzzy-doodle | 0 | 0| 
