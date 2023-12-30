@@ -26,16 +26,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231230T12:52:13Z | CVE-2023-36025 | Windows SmartScreen Security Feature Bypass Vulnerability | https://github.com/coolman6942o/-EXPLOIT-CVE-2023-36025 | | 
+| 20231230T12:41:28Z | CVE-2021-21551 | Dell dbutil_2_3.sys driver Win11 23H2 exploit | https://github.com/houseofxyz/CVE-2021-21551 | | 
+| 20231230T07:35:28Z | 未知编号 | Under Work Please come Back Later | https://github.com/SpiralBL0CK/cve2023-44372 | | 
+| 20231230T06:35:21Z | CVE-2023-35985 |  CVE-2023-35985 reproduction | https://github.com/SpiralBL0CK/-CVE-2023-35985 | | 
 | 20231230T01:08:29Z | CVE-2023-51385 | 一个验证对CVE-2023-51385 | https://github.com/power1314520/CVE-2023-51385_test | | 
 | 20231229T21:14:50Z | CVE-2023-27163 | Request Baskets vulnerable exploit to Server-Side Request Forgery up to version 1.2.1 | https://github.com/mathias-mrsn/CVE-2023-27163 | | 
 | 20231229T17:47:54Z | CVE-2023-51467 | Null | https://github.com/K3ysTr0K3R/CVE-2023-51467-EXPLOIT | | 
 | 20231229T15:09:56Z | CVE-2023-51467 | Apache OfBiz Auth Bypass Scanner for CVE-2023-51467 | https://github.com/Chocapikk/CVE-2023-51467 | | 
 | 20231229T14:56:32Z | CVE-2023-36845 | Juniper Firewalls CVE-2023-36845 - RCE | https://github.com/kljunowsky/CVE-2023-36845 | | 
 | 20231229T14:54:50Z | CVE-2022-42889 | Apache commons text - CVE-2022-42889 Text4Shell proof of concept exploit. | https://github.com/kljunowsky/CVE-2022-42889-text4shell | | 
-| 20231229T14:53:40Z | CVE-2022-44268 | CVE-2022-44268 ImageMagick Arbitrary File Read - Proof of Concept exploit | https://github.com/kljunowsky/CVE-2022-44268 | | 
-| 20231229T12:14:14Z | CVE-2023-40121 | Null | https://github.com/hshivhare67/platform_framework_base_android-4.2.2_r1_CVE-2023-40121 | | 
-| 20231229T11:55:08Z | CVE-2023-51467 | CVE-2023-51467 POC | https://github.com/JaneMandy/CVE-2023-51467 | | 
-| 20231229T08:38:32Z | CVE-2022-0847 | Null | https://github.com/solomon12354/CVE-2022-0847-Dirty_Pipe_virus | | 
 
 
 # klee on Github 推荐
@@ -67,16 +67,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231230T12:41:28Z | Dell dbutil_2_3.sys driver Win11 23H2 exploit | https://github.com/houseofxyz/CVE-2021-21551 | 0 | 0| 
+| 20231230T12:40:18Z | Android Payload & An Exploit Workbench For Exploading All OS  | https://github.com/AliPunisher3/FloodsOfRage | 0 | 0| 
+| 20231230T11:17:02Z | functions to exploit common web application vulnerabilities such as SQL Injection, Cross-Site Scripting (XSS), Server-Side Request Forgery (SSRF), and Path Traversal. | https://github.com/AiGptCode/Ai-Security-URL | 50 | 5| 
+| 20231230T10:30:30Z | A vulnerability scanning tool designed to identify and assess potential vulnerabilities within a computer system, network, or application. These tool play a crucial role in cybersecurity by helping organizations proactively identify weaknesses in their IT infrastructure before malicious actors can exploit them. | https://github.com/LenoxAmwayi/hackguard | 1 | 0| 
+| 20231230T08:39:37Z | External cheat for Rainbow Six Siege offering ESP, aimbot, and various tactical advantages. | https://github.com/sdtam2/Klar-gg-Rainbow-Six-Siege-RS6-Esp-NoRroil-Hwid-Spoofer-Exploit | 0 | 0| 
+| 20231230T08:38:30Z | Developed for Escape From Tarkov and written in C++ and C#. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/sdtam2/Escape-From-Tarkov-Eft-Aimbot-esp-Loots-Exploits-Max-Skills-High-Jump | 0 | 0| 
+| 20231230T03:43:50Z | SeaShell Framework is an iOS post-exploitation framework that exploits the CoreTrust bug to remotely access an iPhone or iPad. | https://github.com/EntySec/SeaShell | 42 | 4| 
 | 20231230T02:29:10Z | Python POC to Exploit CVE-2016-4437 Apache Shiro Deserialization Vulnerability Due to Hardcode Encryption Key | https://github.com/pizza-power/CVE-2016-4437 | 0 | 0| 
 | 20231230T01:57:07Z | Redirection exploit discovered by @bypassiwastaken (or Bypassi), unblocked. | https://github.com/Quartinal/redirectool | 0 | 0| 
 | 20231229T23:40:51Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-tr | 1 | 0| 
-| 20231229T23:40:05Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-tr | 1 | 0| 
-| 20231229T23:39:21Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-tr | 1 | 0| 
-| 20231229T23:38:32Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-tr | 1 | 0| 
-| 20231229T23:38:00Z | A webapp to keep track of attendance in a Discord server exploiting Discord OAuth2. | https://github.com/RoxasKH/Discord-Attendance-Webapp | 0 | 0| 
-| 20231229T20:02:01Z | A research paper diving into the iMessage exploit used by Pegasus | https://github.com/ammuiyer/PegasusiOSExploit | 0 | 0| 
-| 20231229T13:47:01Z | Discord client exploit to crash clients when a profile is opened | https://github.com/juaiz/discord-client-crasher-v2 | 0 | 0| 
-| 20231229T13:39:32Z | Discord exploit used to crash discord voice channels by overloading the WSS with junk data this exploit was patched a while ago but I%ve managed to find a simple workaround | https://github.com/juaiz/discord-vc-lag-exploit-v2 | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -124,16 +124,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231230T13:01:08Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/GhostTroops/scan4all | 4725 | 580| 
+| 20231230T12:04:28Z | UPN Veteran Jatim , Aquaponic pH Control-Monitoring with Type-2 Fuzzy Method Based on IoT Bot , S1 Thesis Project | https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot | 1 | 0| 
+| 20231230T07:09:35Z | Null | https://github.com/shahrazad4/fuzzy-doodle | 0 | 0| 
+| 20231230T06:54:05Z | With fuzzing, random data is run against your test in an attempt to find vulnerabilities or crash-causing inputs. | https://github.com/qianjinxu/fuzz | 0 | 0| 
+| 20231230T04:54:52Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4198 | 857| 
+| 20231230T04:35:09Z | Null | https://github.com/Teja-T-27/MavenFuzzy_MySQL | 0 | 0| 
 | 20231230T02:47:44Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50966 | 23412| 
 | 20231229T19:34:11Z | Null | https://github.com/thedutch75/fuzzy-sweater | 0 | 0| 
 | 20231229T13:51:56Z | Null | https://github.com/Elilorg/FUZZY-CALCULATOR | 0 | 0| 
-| 20231229T12:24:16Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4189 | 856| 
 | 20231229T12:19:29Z | Loan management system using fuzzy logic to assess borrowers in order to make loan decisions. It uses 5 inputs for the fuzzy model (annual income, credit score, loan amount, criminal record and collateral) and the output is the degree of creditworthiness of the borrower. | https://github.com/miriam-samuels/Fuzzy-LMS | 0 | 0| 
-| 20231229T12:13:41Z | Null | https://github.com/fauzanalashar/Tugas-2-Logika-Fuzzy | 0 | 0| 
-| 20231229T11:59:59Z | Assignment Soft Computing  | https://github.com/khaleddkassab/Fuzzy-Logic-ToolBox | 0 | 0| 
-| 20231229T11:40:54Z | Null | https://github.com/r888800009/FuzzGen-docker | 0 | 0| 
-| 20231229T10:53:35Z | Null | https://github.com/cmoon4799/fuzzy-octo-system | 0 | 0| 
-| 20231229T10:36:30Z | Null | https://github.com/Abiram08/fuzzy-guide | 0 | 0| 
 
 
 
