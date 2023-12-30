@@ -36,6 +36,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231230T13:29:43Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5755 | 728| 
 | 20231230T12:41:28Z | Dell dbutil_2_3.sys driver Win11 23H2 exploit | https://github.com/houseofxyz/CVE-2021-21551 | 0 | 0| 
 | 20231230T12:40:18Z | Android Payload & An Exploit Workbench For Exploading All OS  | https://github.com/AliPunisher3/FloodsOfRage | 0 | 0| 
 | 20231230T11:17:02Z | functions to exploit common web application vulnerabilities such as SQL Injection, Cross-Site Scripting (XSS), Server-Side Request Forgery (SSRF), and Path Traversal. | https://github.com/AiGptCode/Ai-Security-URL | 50 | 5| 
@@ -45,7 +46,6 @@
 | 20231230T03:43:50Z | SeaShell Framework is an iOS post-exploitation framework that exploits the CoreTrust bug to remotely access an iPhone or iPad. | https://github.com/EntySec/SeaShell | 42 | 4| 
 | 20231230T02:38:39Z | Exploit for side quests 2023 , TryHackMe Advent of Cyber 2023 | https://github.com/sumanrox/sidequest-exploits | 2 | 0| 
 | 20231230T02:29:10Z | Python POC to Exploit CVE-2016-4437 Apache Shiro Deserialization Vulnerability Due to Hardcode Encryption Key | https://github.com/pizza-power/CVE-2016-4437 | 0 | 0| 
-| 20231230T01:57:07Z | Redirection exploit discovered by @bypassiwastaken (or Bypassi), unblocked. | https://github.com/Quartinal/redirectool | 0 | 0| 
 
 
 # backdoor on Github 推荐
