@@ -128,7 +128,7 @@
 | 20231230T12:04:28Z | UPN Veteran Jatim , Aquaponic pH Control-Monitoring with Type-2 Fuzzy Method Based on IoT Bot , S1 Thesis Project | https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot | 1 | 0| 
 | 20231230T07:09:35Z | Null | https://github.com/shahrazad4/fuzzy-doodle | 0 | 0| 
 | 20231230T06:54:05Z | With fuzzing, random data is run against your test in an attempt to find vulnerabilities or crash-causing inputs. | https://github.com/qianjinxu/fuzz | 0 | 0| 
-| 20231230T04:54:52Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4198 | 857| 
+| 20231230T04:54:52Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4198 | 858| 
 | 20231230T04:35:09Z | Null | https://github.com/Teja-T-27/MavenFuzzy_MySQL | 0 | 0| 
 | 20231230T02:47:44Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50966 | 23412| 
 | 20231229T19:34:11Z | Null | https://github.com/thedutch75/fuzzy-sweater | 0 | 0| 
