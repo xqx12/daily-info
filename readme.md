@@ -76,7 +76,8 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231229T09:02:17Z | NDSS VehicleSec Submission Code | https://github.com/anonymousCoder29/VehicleSec24 | 0 | 0| 
+| 20231229T21:24:24Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 137 | 12| 
+| 20231229T15:14:12Z | NDSS VehicleSec Submission Code | https://github.com/anonymousCoder29/VehicleSec24 | 1 | 0| 
 
 
 # fuzz on Github 推荐
