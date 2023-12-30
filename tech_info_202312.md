@@ -82,6 +82,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231230T01:30:14Z | Null | https://github.com/Ben-Schneider-code/vision_backdooring | 0 | 0| 
 | 20231229T23:45:01Z | Null | https://github.com/nalaySH/backdoorgen | 0 | 0| 
 | 20231229T16:07:29Z | This python code will create a reverse backdoor shell into a targeted systems machine. | https://github.com/HimmyAsh/Python-Reverse-Shell | 0 | 0| 
 | 20231229T15:35:10Z | The C2 Cloud is a robust web-based C2 framework, designed to simplify the life of penetration testers. It allows easy access to compromised backdoors, just like accessing an EC2 instance in the AWS cloud. It can manage several simultaneous backdoor sessions with a user-friendly interface.  | https://github.com/govindasamyarun/c2-cloud | 3 | 0| 
@@ -91,7 +92,6 @@
 | 20231228T17:48:20Z | Backdoor for post exploitation  | https://github.com/Jeanpseven/Backdoors | 0 | 0| 
 | 20231228T15:40:48Z | Null | https://github.com/SundaneseXploiter/SHELL-BACKDOOR | 0 | 0| 
 | 20231228T14:23:53Z | Null | https://github.com/rafia9005/terminal-backdoor-php | 0 | 0| 
-| 20231228T10:55:31Z | VenomControl Rat is a Remote Access Tool (RAT) designed to remotely monitor and control other computers through a secure encrypted connection | https://github.com/Mrxteamss/VenomControl-Rat-Crack-Source | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
