@@ -72,11 +72,11 @@
 | 20231229T23:39:21Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-tr | 1 | 0| 
 | 20231229T23:38:32Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-tr | 1 | 0| 
 | 20231229T23:38:00Z | A webapp to keep track of attendance in a Discord server exploiting Discord OAuth2. | https://github.com/RoxasKH/Discord-Attendance-Webapp | 0 | 0| 
+| 20231229T20:02:01Z | A research paper diving into the iMessage exploit used by Pegasus | https://github.com/ammuiyer/PegasusiOSExploit | 0 | 0| 
 | 20231229T13:47:01Z | Discord client exploit to crash clients when a profile is opened | https://github.com/juaiz/discord-client-crasher-v2 | 0 | 0| 
 | 20231229T13:39:32Z | Discord exploit used to crash discord voice channels by overloading the WSS with junk data this exploit was patched a while ago but I%ve managed to find a simple workaround | https://github.com/juaiz/discord-vc-lag-exploit-v2 | 0 | 0| 
 | 20231229T13:23:23Z | Exploits used to lag and possibly crash discord voice channels to cause other users not being able to use the voice channel you are attacking with this silly exploit | https://github.com/loapz/discord-vc-lag-exploit | 0 | 0| 
 | 20231229T13:14:43Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 6134 | 695| 
-| 20231229T13:10:52Z | SSH-Snake is a self-contained fileless* bash script that automates the post-exploitation task of SSH private key and host discovery. How many systems and how far can you traverse a network using discovered ssh private keys on each system? SSH-Snake answers that question. | https://github.com/MegaManSec/SSH-Snake | 0 | 0| 
 
 
 # backdoor on Github 推荐
