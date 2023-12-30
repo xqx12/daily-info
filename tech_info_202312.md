@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231230T01:08:29Z | CVE-2023-51385 | 一个验证对CVE-2023-51385 | https://github.com/power1314520/CVE-2023-51385_test | | 
 | 20231229T21:14:50Z | CVE-2023-27163 | Request Baskets vulnerable exploit to Server-Side Request Forgery up to version 1.2.1 | https://github.com/mathias-mrsn/CVE-2023-27163 | | 
 | 20231229T17:47:54Z | CVE-2023-51467 | Null | https://github.com/K3ysTr0K3R/CVE-2023-51467-EXPLOIT | | 
 | 20231229T15:09:56Z | CVE-2023-51467 | Apache OfBiz Auth Bypass Scanner for CVE-2023-51467 | https://github.com/Chocapikk/CVE-2023-51467 | | 
@@ -35,7 +36,6 @@
 | 20231229T12:14:14Z | CVE-2023-40121 | Null | https://github.com/hshivhare67/platform_framework_base_android-4.2.2_r1_CVE-2023-40121 | | 
 | 20231229T11:55:08Z | CVE-2023-51467 | CVE-2023-51467 POC | https://github.com/JaneMandy/CVE-2023-51467 | | 
 | 20231229T08:38:32Z | CVE-2022-0847 | Null | https://github.com/solomon12354/CVE-2022-0847-Dirty_Pipe_virus | | 
-| 20231229T08:09:24Z | CVE-2023-23752 | Joomla Information disclosure exploit code written in C++. | https://github.com/shellvik/CVE-2023-23752 | | 
 
 
 # klee on Github 推荐
