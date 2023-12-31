@@ -69,9 +69,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231231T13:40:08Z | Null | https://github.com/anwarm607/fuzzy-octo-broccoli | 0 | 0| 
 | 20231231T13:30:33Z | Null | https://github.com/aaqil-12/SCM-Fuzzy-Logic | 0 | 0| 
 | 20231231T13:28:21Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/GhostTroops/scan4all | 4733 | 580| 
-| 20231231T12:57:36Z | Null | https://github.com/anwarm607/fuzzy-octo-broccoli | 0 | 0| 
 | 20231231T12:56:34Z | Null | https://github.com/Forrest-Jones/fuzzy-octo-adventure | 0 | 0| 
 | 20231231T12:12:14Z | GitOps project for Proxmox VE HA Cluster. 5 Nodes. Ceph for block storage. K3s | https://github.com/sepffuzzball/fuzzlab-gitops | 0 | 0| 
 | 20231231T11:49:41Z | Null | https://github.com/r888800009/FuzzGen-docker | 0 | 0| 
