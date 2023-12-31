@@ -26,16 +26,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231231T07:30:26Z | CVE-2023-2744 | Mass CVE-2023-2744 | https://github.com/pashayogi/CVE-2023-2744 | | 
+| 20231231T06:49:23Z | CVE-2023-1454 | JeecgBoot SQL（CVE-2023-1454） | https://github.com/shad0w0sec/CVE-2023-1454-EXP | | 
+| 20231231T06:28:15Z | CVE-2023-35985 |  CVE-2023-35985 reproduction | https://github.com/SpiralBL0CK/-CVE-2023-35985 | | 
+| 20231231T06:03:21Z | CVE-2023-50071 | Multiple SQL injection vulnerabilities in /customer_support/ajax.php?action=save_department in Customer Support System 1.0 allow authenticated attackers to execute arbitrary SQL commands via id or name. | https://github.com/geraldoalcantara/CVE-2023-50071 | | 
+| 20231231T05:37:53Z | CVE-2023-35813 | Exploit for CVE-2023-35813 POC | https://github.com/lexy-1/CVE-2023-35813 | | 
 | 20231230T21:37:20Z | CVE-2023-50164 | Null | https://github.com/snyk-labs/CVE-2023-50164-POC | | 
 | 20231230T19:51:32Z | Cve-2023- | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/RelyDelay/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 | 20231230T19:50:36Z | Cve-2023- | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/RelyDelay/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 | 20231230T19:50:04Z | Cve-2023- | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/RelyDelay/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 | 20231230T19:49:54Z | Cve-2023- | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/RelyDelay/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
-| 20231230T18:17:43Z | CVE-2023-27163 | Server-Side Request Forgery exploit for Request Baskets up to version 1.2.1 | https://github.com/mathias-mrsn/CVE-2023-27163 | | 
-| 20231230T15:45:22Z | CVE-2023-35985 |  CVE-2023-35985 reproduction | https://github.com/SpiralBL0CK/-CVE-2023-35985 | | 
-| 20231230T12:52:13Z | CVE-2023-36025 | Windows SmartScreen Security Feature Bypass Vulnerability | https://github.com/coolman6942o/-EXPLOIT-CVE-2023-36025 | | 
-| 20231230T12:41:28Z | CVE-2021-21551 | Dell dbutil_2_3.sys driver Win11 23H2 exploit | https://github.com/houseofxyz/CVE-2021-21551 | | 
-| 20231230T07:35:28Z | 未知编号 | Under Work Please come Back Later | https://github.com/SpiralBL0CK/cve2023-44372 | | 
 
 
 # klee on Github 推荐
@@ -67,21 +67,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231231T12:54:58Z | Null | https://github.com/Betraouichaima/projet-syst-me-d-exploitation | 0 | 0| 
+| 20231231T11:50:23Z | Null | https://github.com/hyuzaki0/exploits | 0 | 0| 
+| 20231231T11:48:46Z | VenusExploitRoblox | https://github.com/EarlyDevelopment/VenusExploit | 0 | 0| 
 | 20231231T02:45:37Z | SeaShell Framework is an iOS post-exploitation framework that enables you to access the device remotely, control it and extract sensitive information. | https://github.com/EntySec/SeaShell | 42 | 4| 
 | 20231231T02:23:51Z | This repo contains the simulation and analysis code used in the research paper %Energy-efficient massive MIMO system: Exploiting user location distribution variation% by Mohammed A. Abuibaid and Sultan Aldırmaz Çolak, published in the AEU - International Journal of Electronics and Communications | https://github.com/MohammedAbuibaid/EnergyEfficientMassiveMIMO_ULD | 0 | 0| 
 | 20231231T02:13:24Z | khelif Abdellah | https://github.com/AymenTutorials/Project-Syst-me-d-exploitaion | 0 | 0| 
 | 20231231T00:21:06Z | Rising computer virus threats endanger our technology-dependent society, with a 75% increase in malware attacks on organizations in 2022. This study focuses on identifying new vulnerabilities, particularly in backdoor exploits, to enhance digital infrastructure defense amid escalating risks. | https://github.com/MatthewCragg/DLL-Injection | 0 | 0| 
 | 20231231T00:09:57Z | OAuth 2.0 exploitation, attack and research tools. | https://github.com/JeffJerseyCow/eviloauth | 7 | 1| 
 | 20231230T21:40:20Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5600 | 1085| 
-| 20231230T20:12:05Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 9052 | 2075| 
-| 20231230T19:51:32Z | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/RelyDelay/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 1| 
-| 20231230T19:50:36Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/RelyDelay/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
-| 20231230T19:50:04Z | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/RelyDelay/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
+| 20231230T21:40:16Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5754 | 728| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231231T12:52:43Z | Digital Forensics and Incident Response (DFIR) | https://github.com/RENANZG/My-Forensics | 67 | 10| 
+| 20231231T06:35:34Z | Mini Shell Php | https://github.com/KanzakiisYU/Mini-Shell | 0 | 0| 
+| 20231231T03:58:01Z | Null | https://github.com/mamathashashi/backdoor | 0 | 0| 
 | 20231231T00:21:06Z | Rising computer virus threats endanger our technology-dependent society, with a 75% increase in malware attacks on organizations in 2022. This study focuses on identifying new vulnerabilities, particularly in backdoor exploits, to enhance digital infrastructure defense amid escalating risks. | https://github.com/MatthewCragg/DLL-Injection | 0 | 0| 
 | 20231230T19:51:11Z | The S-500 G2 Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/RelyDelay/S500-RAT-HVNC-HAPP-HIdden-BROWSER-HRDP-REVERSE-PROXY-CRYPTO-MONITOR | 0 | 0| 
 | 20231230T19:50:58Z | Hidden VNC constitutes an ingenious stratagem harnessed by the most adept connoisseurs of technology. This method, by far, presents an exhilarating modality to govern the operation | https://github.com/RelyDelay/Pandora-HVNC-2FABypass-WebGL-Hidden-Desktop-Outlook-Foxmail-Stealer-Hidden-Browser | 0 | 0| 
@@ -89,9 +92,6 @@
 | 20231230T19:49:14Z | The X-Worm Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/RelyDelay/XWorm-V5.2-Edition-HVNC-RAT-DDOS-PASSWORDS-RANSOMWARE-CLIPPER-KEYLOGGER-UAC-BYPASS | 0 | 0| 
 | 20231230T18:34:59Z | Computing) capabilities. It boasts compatibility with a spectrum of 20 concealed browsers. Pegasus HVNC facet facilitates the orchestration of a concealed desktop environment | https://github.com/Mrxteamss/Pegasus-Pantheon-HVNC-V2-VNC-Hidden-Browser-Remote-Administration-Rat | 3 | 1| 
 | 20231230T16:12:32Z | Null | https://github.com/danend-krishnan/SMB--BACKDOOR | 0 | 0| 
-| 20231230T14:59:22Z | Null | https://github.com/kntvrl/Python_Backdoor_Listener | 0 | 0| 
-| 20231230T01:30:14Z | Null | https://github.com/Ben-Schneider-code/vision_backdooring | 0 | 0| 
-| 20231229T23:45:01Z | Null | https://github.com/nalaySH/backdoorgen | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -124,16 +124,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231231T12:57:36Z | Null | https://github.com/anwarm607/fuzzy-octo-broccoli | 0 | 0| 
+| 20231231T12:56:34Z | Null | https://github.com/Forrest-Jones/fuzzy-octo-adventure | 0 | 0| 
+| 20231231T12:53:51Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/GhostTroops/scan4all | 4732 | 580| 
+| 20231231T12:12:14Z | GitOps project for Proxmox VE HA Cluster. 5 Nodes. Ceph for block storage. K3s | https://github.com/sepffuzzball/fuzzlab-gitops | 0 | 0| 
+| 20231231T11:49:41Z | Null | https://github.com/r888800009/FuzzGen-docker | 0 | 0| 
+| 20231231T10:43:49Z | Null | https://github.com/MituuZ/fuzzier | 0 | 0| 
 | 20231231T02:42:21Z | c== | https://github.com/ayatweb/fuzzy-octo-garbanzo | 1 | 1| 
 | 20231231T02:33:14Z | Null | https://github.com/kh886886/fuzzy-succotash | 0 | 0| 
-| 20231231T01:00:52Z | GitOps project for Proxmox VE HA Cluster. 5 Nodes. Ceph for block storage. K3s | https://github.com/sepffuzzball/fuzzlab-gitops | 0 | 0| 
 | 20231231T00:04:19Z | Terraria Mod Repo | https://github.com/jimkutter/fuzzy-couscous | 0 | 0| 
 | 20231231T00:02:19Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 1015 | 257| 
-| 20231230T23:10:25Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50993 | 23420| 
-| 20231230T23:01:19Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1700 | 251| 
-| 20231230T21:38:53Z | Null | https://github.com/ghazie754/fuzzy-eureka | 0 | 0| 
-| 20231230T21:27:27Z | Jayd | https://github.com/Abdellatifelomari/fuzzy-octo-engine | 0 | 0| 
-| 20231230T14:18:52Z | challenge for self-improvement | https://github.com/JiriP1/fuzzy-adventure | 0 | 0| 
 
 
 
