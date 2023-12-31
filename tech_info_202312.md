@@ -127,7 +127,7 @@
 | 20231231T01:00:52Z | GitOps project for Proxmox VE HA Cluster. 5 Nodes. Ceph for block storage. K3s | https://github.com/sepffuzzball/fuzzlab-gitops | 0 | 0| 
 | 20231231T00:04:19Z | Terraria Mod Repo | https://github.com/jimkutter/fuzzy-couscous | 0 | 0| 
 | 20231231T00:02:19Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 1015 | 257| 
-| 20231230T23:10:25Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50993 | 23419| 
+| 20231230T23:10:25Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50993 | 23420| 
 | 20231230T23:01:19Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1700 | 251| 
 | 20231230T21:38:53Z | Null | https://github.com/ghazie754/fuzzy-eureka | 0 | 0| 
 | 20231230T21:27:27Z | Jayd | https://github.com/Abdellatifelomari/fuzzy-octo-engine | 0 | 0| 
