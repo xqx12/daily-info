@@ -67,8 +67,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231231T13:28:18Z | On veut effectuer en parallèle(En utilisant le modèle producteurs/consommateur) le produit de deux matrices: B (n1* m1) et C (n2 * m2) ⇒ la matrice résultante A=B*C ;  Les matrices sont remplis par des valeurs aléatoires  Les résultats intermédiaires seront placés dans un tampon de taille “T[N]”.  Chaque threads producteurs calcule une ligne de la  | https://github.com/Betraouichaima/projet-syst-me-d-exploitation | 0 | 0| 
 | 20231231T13:20:32Z | AI-Based Videogame Exploit Investigation Utilizing Evolution-Based Reinforcement Learning | https://github.com/vignesh-muralidharan/Honors-Project | 0 | 0| 
-| 20231231T12:54:58Z | Null | https://github.com/Betraouichaima/projet-syst-me-d-exploitation | 0 | 0| 
 | 20231231T11:50:23Z | Null | https://github.com/hyuzaki0/exploits | 0 | 0| 
 | 20231231T11:48:46Z | VenusExploitRoblox | https://github.com/EarlyDevelopment/VenusExploit | 0 | 0| 
 | 20231231T02:45:37Z | SeaShell Framework is an iOS post-exploitation framework that enables you to access the device remotely, control it and extract sensitive information. | https://github.com/EntySec/SeaShell | 42 | 4| 
