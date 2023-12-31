@@ -124,6 +124,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231231T02:33:14Z | Null | https://github.com/kh886886/fuzzy-succotash | 0 | 0| 
 | 20231231T01:00:52Z | GitOps project for Proxmox VE HA Cluster. 5 Nodes. Ceph for block storage. K3s | https://github.com/sepffuzzball/fuzzlab-gitops | 0 | 0| 
 | 20231231T00:04:19Z | Terraria Mod Repo | https://github.com/jimkutter/fuzzy-couscous | 0 | 0| 
 | 20231231T00:02:19Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 1015 | 257| 
@@ -133,7 +134,6 @@
 | 20231230T21:27:27Z | Jayd | https://github.com/Abdellatifelomari/fuzzy-octo-engine | 0 | 0| 
 | 20231230T14:18:52Z | challenge for self-improvement | https://github.com/JiriP1/fuzzy-adventure | 0 | 0| 
 | 20231230T13:01:08Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/GhostTroops/scan4all | 4725 | 580| 
-| 20231230T12:04:28Z | UPN Veteran Jatim , Aquaponic pH Control-Monitoring with Type-2 Fuzzy Method Based on IoT Bot , S1 Thesis Project | https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot | 1 | 0| 
 
 
 
