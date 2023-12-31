@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231231T02:13:24Z | khelif Abdellah | https://github.com/AymenTutorials/Project-Syst-me-d-exploitaion | 0 | 0| 
 | 20231231T00:21:06Z | Rising computer virus threats endanger our technology-dependent society, with a 75% increase in malware attacks on organizations in 2022. This study focuses on identifying new vulnerabilities, particularly in backdoor exploits, to enhance digital infrastructure defense amid escalating risks. | https://github.com/MatthewCragg/DLL-Injection | 0 | 0| 
 | 20231231T00:09:57Z | OAuth 2.0 exploitation, attack and research tools. | https://github.com/JeffJerseyCow/eviloauth | 7 | 1| 
 | 20231230T21:40:20Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5600 | 1085| 
@@ -76,7 +77,6 @@
 | 20231230T19:50:04Z | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/RelyDelay/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 | 20231230T19:49:54Z | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/RelyDelay/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 | 20231230T19:49:14Z | Ephemeral discourse is embodied by the likes of Messenger Sessions, the digital portraits of Accounts, and the enigmatic Token | https://github.com/RelyDelay/Discord-Image-Logger-Slient-Exploit-Builder-Grabber-Stealer | 0 | 1| 
-| 20231230T18:52:17Z | A project that offers cheats developed with C++ for DayZ. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/WarTimes/PROOFCORE-Dayz-Cheat-Hack-Aimbot-Esp-Exploit-Magic-Bullet-Spoofer-Misc | 0 | 0| 
 
 
 # backdoor on Github 推荐
