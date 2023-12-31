@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231231T02:42:38Z | SeaShell Framework is an iOS post-exploitation framework that enables you to access the device remotely, control it and extract sensitive information. | https://github.com/EntySec/SeaShell | 42 | 4| 
 | 20231231T02:23:51Z | This repo contains the simulation and analysis code used in the research paper %Energy-efficient massive MIMO system: Exploiting user location distribution variation% by Mohammed A. Abuibaid and Sultan Aldırmaz Çolak, published in the AEU - International Journal of Electronics and Communications | https://github.com/MohammedAbuibaid/EnergyEfficientMassiveMIMO_ULD | 0 | 0| 
 | 20231231T02:13:24Z | khelif Abdellah | https://github.com/AymenTutorials/Project-Syst-me-d-exploitaion | 0 | 0| 
 | 20231231T00:21:06Z | Rising computer virus threats endanger our technology-dependent society, with a 75% increase in malware attacks on organizations in 2022. This study focuses on identifying new vulnerabilities, particularly in backdoor exploits, to enhance digital infrastructure defense amid escalating risks. | https://github.com/MatthewCragg/DLL-Injection | 0 | 0| 
@@ -76,7 +77,6 @@
 | 20231230T19:51:32Z | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/RelyDelay/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 1| 
 | 20231230T19:50:36Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/RelyDelay/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 | 20231230T19:50:04Z | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/RelyDelay/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
-| 20231230T19:49:54Z | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/RelyDelay/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -124,7 +124,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231231T02:36:16Z | c== | https://github.com/ayatweb/fuzzy-octo-garbanzo | 0 | 0| 
+| 20231231T02:42:21Z | c== | https://github.com/ayatweb/fuzzy-octo-garbanzo | 1 | 1| 
 | 20231231T02:33:14Z | Null | https://github.com/kh886886/fuzzy-succotash | 0 | 0| 
 | 20231231T01:00:52Z | GitOps project for Proxmox VE HA Cluster. 5 Nodes. Ceph for block storage. K3s | https://github.com/sepffuzzball/fuzzlab-gitops | 0 | 0| 
 | 20231231T00:04:19Z | Terraria Mod Repo | https://github.com/jimkutter/fuzzy-couscous | 0 | 0| 
