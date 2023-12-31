@@ -11,6 +11,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20231230 | 企业级跨应用静态污点分析 | https://mp.weixin.qq.com/s/L6CA8FKw5RMsXdJSAQ4i6w| 
+| 20231230 | 方程式组织攻击iOS系统的历史样本分析 | https://mp.weixin.qq.com/s/2xkDjRniJjCbzvxFdA9yqg| 
 | 20231229 | 2023信息安全领域四大顶会fuzz方向论文汇总 | https://mp.weixin.qq.com/s/_hy7tJ8JB7BPdi6FyzhvXg| 
 | 20231229 | Fuzz工具对比及使用体验 | https://mp.weixin.qq.com/s/752lYRaCcaF-9I2ErvapiQ?version=4.1.16.6007&platform=win| 
 | 20231228 | IDA Pro 8.3 绿色版 | https://mp.weixin.qq.com/s/cJPA_j2PuXHxUR6h50bc3w| 
@@ -19,23 +21,21 @@
 | 20231227 | 从传统到AI探讨Webshell检测攻防对抗 | https://mp.weixin.qq.com/s/nZBYQC_Mv2-F0WPcG__M6A| 
 | 20231227 | 2023全球十大网络安全演习 | https://mp.weixin.qq.com/s/5c42vOQNNXc6FW-enOCVAg| 
 | 20231225 | 区块链黑暗森林自救手册 1.1 | https://darkhandbook.io/CN-Blockchain-dark-forest-selfguard-handbook-V1.1.pdf| 
-| 20231225 | 人与代码的桥梁 - 聊聊SAST | https://mp.weixin.qq.com/s/stXcVtIExTZvtc-ErDHfZg| 
-| 20231225 | XG拟态-Webshell流量混淆功能 | https://mp.weixin.qq.com/s/c8ladv30wSAX3Oz1yc1fBA| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20231230T21:37:20Z | CVE-2023-50164 | Null | https://github.com/snyk-labs/CVE-2023-50164-POC | | 
+| 20231230T19:51:32Z | Cve-2023- | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/RelyDelay/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
+| 20231230T19:50:36Z | Cve-2023- | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/RelyDelay/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
+| 20231230T19:50:04Z | Cve-2023- | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/RelyDelay/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
+| 20231230T19:49:54Z | Cve-2023- | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/RelyDelay/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
+| 20231230T18:17:43Z | CVE-2023-27163 | Server-Side Request Forgery exploit for Request Baskets up to version 1.2.1 | https://github.com/mathias-mrsn/CVE-2023-27163 | | 
+| 20231230T15:45:22Z | CVE-2023-35985 |  CVE-2023-35985 reproduction | https://github.com/SpiralBL0CK/-CVE-2023-35985 | | 
 | 20231230T12:52:13Z | CVE-2023-36025 | Windows SmartScreen Security Feature Bypass Vulnerability | https://github.com/coolman6942o/-EXPLOIT-CVE-2023-36025 | | 
 | 20231230T12:41:28Z | CVE-2021-21551 | Dell dbutil_2_3.sys driver Win11 23H2 exploit | https://github.com/houseofxyz/CVE-2021-21551 | | 
 | 20231230T07:35:28Z | 未知编号 | Under Work Please come Back Later | https://github.com/SpiralBL0CK/cve2023-44372 | | 
-| 20231230T06:35:21Z | CVE-2023-35985 |  CVE-2023-35985 reproduction | https://github.com/SpiralBL0CK/-CVE-2023-35985 | | 
-| 20231230T01:08:29Z | CVE-2023-51385 | 一个验证对CVE-2023-51385 | https://github.com/power1314520/CVE-2023-51385_test | | 
-| 20231229T21:14:50Z | CVE-2023-27163 | Request Baskets vulnerable exploit to Server-Side Request Forgery up to version 1.2.1 | https://github.com/mathias-mrsn/CVE-2023-27163 | | 
-| 20231229T17:47:54Z | CVE-2023-51467 | Null | https://github.com/K3ysTr0K3R/CVE-2023-51467-EXPLOIT | | 
-| 20231229T15:09:56Z | CVE-2023-51467 | Apache OfBiz Auth Bypass Scanner for CVE-2023-51467 | https://github.com/Chocapikk/CVE-2023-51467 | | 
-| 20231229T14:56:32Z | CVE-2023-36845 | Juniper Firewalls CVE-2023-36845 - RCE | https://github.com/kljunowsky/CVE-2023-36845 | | 
-| 20231229T14:54:50Z | CVE-2022-42889 | Apache commons text - CVE-2022-42889 Text4Shell proof of concept exploit. | https://github.com/kljunowsky/CVE-2022-42889-text4shell | | 
 
 
 # klee on Github 推荐
@@ -67,31 +67,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231230T13:29:43Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5755 | 728| 
-| 20231230T12:41:28Z | Dell dbutil_2_3.sys driver Win11 23H2 exploit | https://github.com/houseofxyz/CVE-2021-21551 | 0 | 0| 
-| 20231230T12:40:18Z | Android Payload & An Exploit Workbench For Exploading All OS  | https://github.com/AliPunisher3/FloodsOfRage | 0 | 0| 
-| 20231230T11:17:02Z | functions to exploit common web application vulnerabilities such as SQL Injection, Cross-Site Scripting (XSS), Server-Side Request Forgery (SSRF), and Path Traversal. | https://github.com/AiGptCode/Ai-Security-URL | 50 | 5| 
-| 20231230T10:30:30Z | A vulnerability scanning tool designed to identify and assess potential vulnerabilities within a computer system, network, or application. These tool play a crucial role in cybersecurity by helping organizations proactively identify weaknesses in their IT infrastructure before malicious actors can exploit them. | https://github.com/LenoxAmwayi/hackguard | 1 | 0| 
-| 20231230T08:39:37Z | External cheat for Rainbow Six Siege offering ESP, aimbot, and various tactical advantages. | https://github.com/sdtam2/Klar-gg-Rainbow-Six-Siege-RS6-Esp-NoRroil-Hwid-Spoofer-Exploit | 0 | 0| 
-| 20231230T08:38:30Z | Developed for Escape From Tarkov and written in C++ and C#. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/sdtam2/Escape-From-Tarkov-Eft-Aimbot-esp-Loots-Exploits-Max-Skills-High-Jump | 0 | 0| 
-| 20231230T03:43:50Z | SeaShell Framework is an iOS post-exploitation framework that exploits the CoreTrust bug to remotely access an iPhone or iPad. | https://github.com/EntySec/SeaShell | 42 | 4| 
-| 20231230T02:38:39Z | Exploit for side quests 2023 , TryHackMe Advent of Cyber 2023 | https://github.com/sumanrox/sidequest-exploits | 2 | 0| 
-| 20231230T02:29:10Z | Python POC to Exploit CVE-2016-4437 Apache Shiro Deserialization Vulnerability Due to Hardcode Encryption Key | https://github.com/pizza-power/CVE-2016-4437 | 0 | 0| 
+| 20231231T00:21:06Z | Rising computer virus threats endanger our technology-dependent society, with a 75% increase in malware attacks on organizations in 2022. This study focuses on identifying new vulnerabilities, particularly in backdoor exploits, to enhance digital infrastructure defense amid escalating risks. | https://github.com/MatthewCragg/DLL-Injection | 0 | 0| 
+| 20231231T00:09:57Z | OAuth 2.0 exploitation, attack and research tools. | https://github.com/JeffJerseyCow/eviloauth | 7 | 1| 
+| 20231230T21:40:20Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5600 | 1085| 
+| 20231230T20:12:05Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 9052 | 2075| 
+| 20231230T19:51:32Z | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/RelyDelay/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 1| 
+| 20231230T19:50:36Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/RelyDelay/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
+| 20231230T19:50:04Z | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/RelyDelay/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
+| 20231230T19:49:54Z | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/RelyDelay/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
+| 20231230T19:49:14Z | Ephemeral discourse is embodied by the likes of Messenger Sessions, the digital portraits of Accounts, and the enigmatic Token | https://github.com/RelyDelay/Discord-Image-Logger-Slient-Exploit-Builder-Grabber-Stealer | 0 | 1| 
+| 20231230T18:52:17Z | A project that offers cheats developed with C++ for DayZ. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/WarTimes/PROOFCORE-Dayz-Cheat-Hack-Aimbot-Esp-Exploit-Magic-Bullet-Spoofer-Misc | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231231T00:21:06Z | Rising computer virus threats endanger our technology-dependent society, with a 75% increase in malware attacks on organizations in 2022. This study focuses on identifying new vulnerabilities, particularly in backdoor exploits, to enhance digital infrastructure defense amid escalating risks. | https://github.com/MatthewCragg/DLL-Injection | 0 | 0| 
+| 20231230T19:51:11Z | The S-500 G2 Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/RelyDelay/S500-RAT-HVNC-HAPP-HIdden-BROWSER-HRDP-REVERSE-PROXY-CRYPTO-MONITOR | 0 | 0| 
+| 20231230T19:50:58Z | Hidden VNC constitutes an ingenious stratagem harnessed by the most adept connoisseurs of technology. This method, by far, presents an exhilarating modality to govern the operation | https://github.com/RelyDelay/Pandora-HVNC-2FABypass-WebGL-Hidden-Desktop-Outlook-Foxmail-Stealer-Hidden-Browser | 0 | 0| 
+| 20231230T19:49:43Z | Remote Administration Either you are a private user wanting to control your PC from afar, or a big company which wants to administrate hundreds of machines from a single computer, | https://github.com/RelyDelay/ICARUS-NET2-NET4-BAT-VBS-VBA-HVNC-BINDER-PHP-FTPLOGS-RECOVERY-KEYLOG-WEBGL-ROOKIT | 0 | 1| 
+| 20231230T19:49:14Z | The X-Worm Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/RelyDelay/XWorm-V5.2-Edition-HVNC-RAT-DDOS-PASSWORDS-RANSOMWARE-CLIPPER-KEYLOGGER-UAC-BYPASS | 0 | 0| 
+| 20231230T18:34:59Z | Computing) capabilities. It boasts compatibility with a spectrum of 20 concealed browsers. Pegasus HVNC facet facilitates the orchestration of a concealed desktop environment | https://github.com/Mrxteamss/Pegasus-Pantheon-HVNC-V2-VNC-Hidden-Browser-Remote-Administration-Rat | 3 | 1| 
+| 20231230T16:12:32Z | Null | https://github.com/danend-krishnan/SMB--BACKDOOR | 0 | 0| 
+| 20231230T14:59:22Z | Null | https://github.com/kntvrl/Python_Backdoor_Listener | 0 | 0| 
 | 20231230T01:30:14Z | Null | https://github.com/Ben-Schneider-code/vision_backdooring | 0 | 0| 
 | 20231229T23:45:01Z | Null | https://github.com/nalaySH/backdoorgen | 0 | 0| 
-| 20231229T16:07:29Z | This python code will create a reverse backdoor shell into a targeted systems machine. | https://github.com/HimmyAsh/Python-Reverse-Shell | 0 | 0| 
-| 20231229T15:35:10Z | The C2 Cloud is a robust web-based C2 framework, designed to simplify the life of penetration testers. It allows easy access to compromised backdoors, just like accessing an EC2 instance in the AWS cloud. It can manage several simultaneous backdoor sessions with a user-friendly interface.  | https://github.com/govindasamyarun/c2-cloud | 3 | 0| 
-| 20231229T12:19:11Z | ELF binary forensics tool for APT, virus, backdoor and rootkit detection | https://github.com/arcana-technologies/arcana.elfscan | 7 | 0| 
-| 20231229T11:21:58Z | Linux kernel rootkit | https://github.com/carloslack/KoviD | 170 | 39| 
-| 20231228T17:49:08Z | Making backdoor with short cut | https://github.com/techwithmoses/shortcut-backdoor | 0 | 0| 
-| 20231228T17:48:20Z | Backdoor for post exploitation  | https://github.com/Jeanpseven/Backdoors | 0 | 0| 
-| 20231228T15:40:48Z | Null | https://github.com/SundaneseXploiter/SHELL-BACKDOOR | 0 | 0| 
-| 20231228T14:23:53Z | Null | https://github.com/rafia9005/terminal-backdoor-php | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -124,16 +124,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231230T13:38:22Z | challenges for self-improvement | https://github.com/JiriP1/fuzzy-adventure | 0 | 0| 
+| 20231231T01:00:52Z | GitOps project for Proxmox VE HA Cluster. 5 Nodes. Ceph for block storage. K3s | https://github.com/sepffuzzball/fuzzlab-gitops | 0 | 0| 
+| 20231231T00:04:19Z | Terraria Mod Repo | https://github.com/jimkutter/fuzzy-couscous | 0 | 0| 
+| 20231231T00:02:19Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 1015 | 257| 
+| 20231230T23:10:25Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50993 | 23419| 
+| 20231230T23:01:19Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1700 | 251| 
+| 20231230T21:38:53Z | Null | https://github.com/ghazie754/fuzzy-eureka | 0 | 0| 
+| 20231230T21:27:27Z | Jayd | https://github.com/Abdellatifelomari/fuzzy-octo-engine | 0 | 0| 
+| 20231230T14:18:52Z | challenge for self-improvement | https://github.com/JiriP1/fuzzy-adventure | 0 | 0| 
 | 20231230T13:01:08Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/GhostTroops/scan4all | 4725 | 580| 
 | 20231230T12:04:28Z | UPN Veteran Jatim , Aquaponic pH Control-Monitoring with Type-2 Fuzzy Method Based on IoT Bot , S1 Thesis Project | https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot | 1 | 0| 
-| 20231230T07:09:35Z | Null | https://github.com/shahrazad4/fuzzy-doodle | 0 | 0| 
-| 20231230T06:54:05Z | With fuzzing, random data is run against your test in an attempt to find vulnerabilities or crash-causing inputs. | https://github.com/qianjinxu/fuzz | 0 | 0| 
-| 20231230T04:54:52Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4198 | 858| 
-| 20231230T04:35:09Z | Null | https://github.com/Teja-T-27/MavenFuzzy_MySQL | 0 | 0| 
-| 20231230T02:47:44Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 50966 | 23412| 
-| 20231229T19:34:11Z | Null | https://github.com/thedutch75/fuzzy-sweater | 0 | 0| 
-| 20231229T13:51:56Z | Null | https://github.com/Elilorg/FUZZY-CALCULATOR | 0 | 0| 
 
 
 
