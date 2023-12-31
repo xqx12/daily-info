@@ -67,7 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20231231T02:44:42Z | SeaShell Framework is an iOS post-exploitation framework that enables you to access the device remotely, control it and extract sensitive information. | https://github.com/EntySec/SeaShell | 42 | 4| 
+| 20231231T02:45:37Z | SeaShell Framework is an iOS post-exploitation framework that enables you to access the device remotely, control it and extract sensitive information. | https://github.com/EntySec/SeaShell | 42 | 4| 
 | 20231231T02:23:51Z | This repo contains the simulation and analysis code used in the research paper %Energy-efficient massive MIMO system: Exploiting user location distribution variation% by Mohammed A. Abuibaid and Sultan Aldırmaz Çolak, published in the AEU - International Journal of Electronics and Communications | https://github.com/MohammedAbuibaid/EnergyEfficientMassiveMIMO_ULD | 0 | 0| 
 | 20231231T02:13:24Z | khelif Abdellah | https://github.com/AymenTutorials/Project-Syst-me-d-exploitaion | 0 | 0| 
 | 20231231T00:21:06Z | Rising computer virus threats endanger our technology-dependent society, with a 75% increase in malware attacks on organizations in 2022. This study focuses on identifying new vulnerabilities, particularly in backdoor exploits, to enhance digital infrastructure defense amid escalating risks. | https://github.com/MatthewCragg/DLL-Injection | 0 | 0| 
