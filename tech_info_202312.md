@@ -67,6 +67,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231231T13:20:32Z | AI-Based Videogame Exploit Investigation Utilizing Evolution-Based Reinforcement Learning | https://github.com/vignesh-muralidharan/Honors-Project | 0 | 0| 
 | 20231231T12:54:58Z | Null | https://github.com/Betraouichaima/projet-syst-me-d-exploitation | 0 | 0| 
 | 20231231T11:50:23Z | Null | https://github.com/hyuzaki0/exploits | 0 | 0| 
 | 20231231T11:48:46Z | VenusExploitRoblox | https://github.com/EarlyDevelopment/VenusExploit | 0 | 0| 
@@ -76,7 +77,6 @@
 | 20231231T00:21:06Z | Rising computer virus threats endanger our technology-dependent society, with a 75% increase in malware attacks on organizations in 2022. This study focuses on identifying new vulnerabilities, particularly in backdoor exploits, to enhance digital infrastructure defense amid escalating risks. | https://github.com/MatthewCragg/DLL-Injection | 0 | 0| 
 | 20231231T00:09:57Z | OAuth 2.0 exploitation, attack and research tools. | https://github.com/JeffJerseyCow/eviloauth | 7 | 1| 
 | 20231230T21:40:20Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5600 | 1085| 
-| 20231230T21:40:16Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5754 | 728| 
 
 
 # backdoor on Github 推荐

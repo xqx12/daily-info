@@ -36,6 +36,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231231T13:20:32Z | AI-Based Videogame Exploit Investigation Utilizing Evolution-Based Reinforcement Learning | https://github.com/vignesh-muralidharan/Honors-Project | 0 | 0| 
 | 20231231T12:54:58Z | Null | https://github.com/Betraouichaima/projet-syst-me-d-exploitation | 0 | 0| 
 | 20231231T11:50:23Z | Null | https://github.com/hyuzaki0/exploits | 0 | 0| 
 | 20231231T11:48:46Z | VenusExploitRoblox | https://github.com/EarlyDevelopment/VenusExploit | 0 | 0| 
