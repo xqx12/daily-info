@@ -90,9 +90,9 @@
 | 20231230T14:18:52Z | challenge for self-improvement | https://github.com/JiriP1/fuzzy-adventure | 0 | 0| 
 | 20231230T13:01:08Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/GhostTroops/scan4all | 4725 | 580| 
 | 20231230T12:04:28Z | UPN Veteran Jatim , Aquaponic pH Control-Monitoring with Type-2 Fuzzy Method Based on IoT Bot , S1 Thesis Project | https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot | 1 | 0| 
+| 20231230T09:46:04Z | A fuzzy finder for vim | https://github.com/Donaldttt/fuzzyy | 54 | 8| 
 | 20231230T07:09:35Z | Null | https://github.com/shahrazad4/fuzzy-doodle | 0 | 0| 
 | 20231230T06:54:05Z | With fuzzing, random data is run against your test in an attempt to find vulnerabilities or crash-causing inputs. | https://github.com/qianjinxu/fuzz | 0 | 0| 
-| 20231230T04:54:52Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4198 | 858| 
 
 
 
