@@ -71,6 +71,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20231230T15:43:00Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 724 | 128| 
 | 20231230T00:32:51Z | Symbolic execution solver for the Turing Machine board game | https://github.com/AndrewFasano/turingmachine | 0 | 0| 
 
 
