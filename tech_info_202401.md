@@ -75,12 +75,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240101T13:53:51Z | UPN Veteran Jatim , Aquaponic pH Control-Monitoring with Type-2 Fuzzy Method Based on IoT Bot , S1 Thesis Project | https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot | 1 | 0| 
 | 20240101T13:29:15Z | Null | https://github.com/anwarm607/fuzzy-octo-broccoli | 0 | 0| 
 | 20240101T12:29:07Z | Null | https://github.com/telecometc/fuzzy-sweater | 0 | 0| 
 | 20240101T12:09:35Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51015 | 23421| 
 | 20240101T11:52:15Z | Null | https://github.com/ssjd08/FuzzyMotionDetection | 0 | 0| 
 | 20240101T11:04:43Z | Null | https://github.com/susukebo/fuzzy-computing-machine | 0 | 0| 
-| 20240101T10:20:43Z | UPN Veteran Jatim , Aquaponic pH Control-Monitoring with Type-2 Fuzzy Method Based on IoT Bot , S1 Thesis Project | https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot | 1 | 0| 
 | 20240101T10:13:21Z | Null | https://github.com/lenix123/fuzz-manager | 0 | 0| 
 | 20240101T09:48:05Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/GhostTroops/scan4all | 4740 | 582| 
 | 20240101T02:53:36Z | Practical fuzzing tutorials and training | https://github.com/novafacing/practical-fuzzing | 14 | 1| 
