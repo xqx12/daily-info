@@ -17,6 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240101T13:14:49Z | CVE-2023-48982 | POC CVE-2023-48982 | https://github.com/tristao-marinho/CVE-2023-48982 | | 
 | 20240101T13:06:40Z | CVE-2023-48981 | POC CVE-2023-48981 | https://github.com/tristao-marinho/CVE-2023-48981 | | 
 | 20240101T01:55:07Z | CVE-2023-35985 |  CVE-2023-35985 reproduction | https://github.com/SpiralBL0CK/-CVE-2023-35985 | | 
 | 20240101T00:55:07Z | CVE-2023-34362 | A video presentation analysing the technical details, scale and lessons to be learned from the MOVEit CVE-2023=3462(CS50 Introduction to Cyber Security Finale Project) | https://github.com/Chinyemba-ck/MOVEit-CVE-2023-34362 | | 
