@@ -59,6 +59,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240101T12:15:37Z | Symbolic execution of LLVM IR | https://github.com/can-lehmann/pathbeaver | 3 | 0| 
+| 20240101T09:11:46Z | Python infrastructure to train paths selectors for symbolic execution engines. | https://github.com/gsvgit/PySymGym | 0 | 0| 
 
 
 # big4 on Github 推荐
