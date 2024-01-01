@@ -52,6 +52,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240101T13:04:10Z | The C2 Cloud is a robust web-based C2 framework, designed to simplify the life of penetration testers. It allows easy access to compromised backdoors, just like accessing an EC2 instance in the AWS cloud. It can manage several simultaneous backdoor sessions with a user-friendly interface.  | https://github.com/govindasamyarun/c2-cloud | 4 | 0| 
 | 20240101T12:34:56Z | Persistent Powershell backdoor tool  | https://github.com/ELMERIKH/Keres | 64 | 9| 
 | 20240101T10:56:37Z | Digital Forensics and Incident Response (DFIR) | https://github.com/RENANZG/My-Forensics | 68 | 10| 
 | 20240101T09:28:54Z | Null | https://github.com/rebibabo/Stealthy-style-change-backdoor | 0 | 0| 
