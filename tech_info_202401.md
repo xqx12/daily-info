@@ -35,6 +35,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240101T13:10:34Z | Contains a collection of Bash scripts designed for comprehensive security audits and network mapping of Active Directory (AD) environments. The scripts automate various tasks including LDAP querying, Kerberos ticket analysis, SMB enumeration, and exploitation of known vulnerabilities like Zerologon and PetitPotam. | https://github.com/emrekybs/AD-AssessmentKit | 0 | 0| 
 | 20240101T13:07:25Z | Contains a collection of Bash scripts designed for comprehensive security audits and network mapping of Active Directory (AD) environments. The scripts automate various tasks including LDAP querying, Kerberos ticket analysis, SMB enumeration, and exploitation of known vulnerabilities like Zerologon and PetitPotam. | https://github.com/emrekybs/ADAssessmentKit | 0 | 0| 
 | 20240101T12:46:35Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5756 | 728| 
 | 20240101T12:37:46Z |  Discord exploit used to crash discord voice channels by overloading the WSS with junk data this exploit was patched a while ago but I%ve managed to find a simple workaround  | https://github.com/ewnsm/discord-vc-crash-exploit | 0 | 0| 
@@ -44,7 +45,6 @@
 | 20240101T01:36:07Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0059-app-tuBNb-contribute-exploit | 0 | 0| 
 | 20240101T01:32:34Z | based on headhunter cheat lol | https://github.com/RyanScripz/osx-intel-roblox-exploit | 0 | 0| 
 | 20240101T01:24:48Z | chlorius tool from github | https://github.com/ASMRoyal/chlorius | 1 | 0| 
-| 20240101T01:23:09Z | 0x001829-B is exploit tool for web servers & for home ip%s | https://github.com/ASMRoyal/0x001829-B | 1 | 0| 
 
 
 # backdoor on Github 推荐
