@@ -31,11 +31,11 @@
 | 20231231T14:34:34Z | CVE-2023-51764 | just idea, no cp pls | https://github.com/d4op/CVE-2023-51764-POC | | 
 | 20231231T07:30:26Z | CVE-2023-2744 | Mass CVE-2023-2744 | https://github.com/pashayogi/CVE-2023-2744 | | 
 | 20231231T06:49:23Z | CVE-2023-1454 | JeecgBoot SQL（CVE-2023-1454） | https://github.com/shad0w0sec/CVE-2023-1454-EXP | | 
-| 20231231T06:28:15Z | CVE-2023-35985 |  CVE-2023-35985 reproduction | https://github.com/SpiralBL0CK/-CVE-2023-35985 | | 
 | 20231231T06:03:21Z | CVE-2023-50071 | Multiple SQL injection vulnerabilities in /customer_support/ajax.php?action=save_department in Customer Support System 1.0 allow authenticated attackers to execute arbitrary SQL commands via id or name. | https://github.com/geraldoalcantara/CVE-2023-50071 | | 
 | 20231231T05:37:53Z | CVE-2023-35813 | Exploit for CVE-2023-35813 POC | https://github.com/lexy-1/CVE-2023-35813 | | 
 | 20231230T21:37:20Z | CVE-2023-50164 | Null | https://github.com/snyk-labs/CVE-2023-50164-POC | | 
 | 20231230T19:51:32Z | Cve-2023- | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/RelyDelay/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
+| 20231230T19:50:36Z | Cve-2023- | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/RelyDelay/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 
 
 # klee on Github 推荐
