@@ -37,7 +37,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240101T13:25:06Z | TryHackMe PWN101 (binary exploitation) room challenge 2 exploit. | https://github.com/DMusakhanov/PWN101-TryHackMe-exploit | 0 | 0| 
+| 20240101T13:26:44Z | TryHackMe PWN101 (binary exploitation) room challenge 2 exploit. | https://github.com/DMusakhanov/PWN101-TryHackMe-exploit | 0 | 0| 
 | 20240101T13:10:34Z | Contains a collection of Bash scripts designed for comprehensive security audits and network mapping of Active Directory (AD) environments. The scripts automate various tasks including LDAP querying, Kerberos ticket analysis, SMB enumeration, and exploitation of known vulnerabilities like Zerologon and PetitPotam. | https://github.com/emrekybs/AD-AssessmentKit | 0 | 0| 
 | 20240101T13:07:25Z | Contains a collection of Bash scripts designed for comprehensive security audits and network mapping of Active Directory (AD) environments. The scripts automate various tasks including LDAP querying, Kerberos ticket analysis, SMB enumeration, and exploitation of known vulnerabilities like Zerologon and PetitPotam. | https://github.com/emrekybs/ADAssessmentKit | 0 | 0| 
 | 20240101T12:46:35Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5756 | 728| 
