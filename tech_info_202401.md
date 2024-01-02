@@ -92,6 +92,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240102T13:47:52Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51044 | 23424| 
 | 20240102T13:24:53Z | Null | https://github.com/svlobanov/tsduck-fuzzing | 0 | 0| 
 | 20240102T13:24:20Z | Null | https://github.com/YXLZJ/FuzzingVM | 0 | 0| 
 | 20240102T12:59:47Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1705 | 253| 
@@ -101,7 +102,6 @@
 | 20240102T08:38:40Z | Penetration-List: A comprehensive resource for testers, covering all types of vulnerabilities and materials used in Penetration Testing. Includes payloads, dorks, fuzzing materials, and offers in-depth theory sections. Visit our Medium profile for more information. | https://github.com/AlbusSec/Penetration-List | 659 | 158| 
 | 20240102T03:25:22Z | Null | https://github.com/211250098/fuzz-mut-demos | 0 | 0| 
 | 20240102T02:57:57Z | Null | https://github.com/fuzzyLogicGroup/Fuzzy-Logic-Heart-Diagnosis | 0 | 0| 
-| 20240102T02:57:41Z | Null | https://github.com/easyqiu/Fuzz_WPDriven | 0 | 0| 
 
 
 
