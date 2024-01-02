@@ -87,6 +87,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240102T01:31:44Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9281 | 2073| 
 | 20240102T00:43:02Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51026 | 23423| 
 | 20240102T00:08:29Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1702 | 253| 
 | 20240101T23:31:09Z | 7 | https://github.com/ayatweb/fuzzy-spoon | 1 | 1| 
@@ -96,7 +97,6 @@
 | 20240101T13:29:15Z | Null | https://github.com/anwarm607/fuzzy-octo-broccoli | 0 | 0| 
 | 20240101T12:29:07Z | Null | https://github.com/telecometc/fuzzy-sweater | 0 | 0| 
 | 20240101T11:52:15Z | Null | https://github.com/ssjd08/FuzzyMotionDetection | 0 | 0| 
-| 20240101T11:04:43Z | Null | https://github.com/susukebo/fuzzy-computing-machine | 0 | 0| 
 
 
 
