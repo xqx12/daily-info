@@ -72,13 +72,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240101T12:15:37Z | Symbolic execution of LLVM IR | https://github.com/can-lehmann/pathbeaver | 3 | 0| 
-| 20240101T09:11:46Z | Python infrastructure to train paths selectors for symbolic execution engines. | https://github.com/gsvgit/PySymGym | 0 | 0| 
+| 20240102T00:29:37Z | Symbolic execution of LLVM IR | https://github.com/can-lehmann/pathbeaver | 9 | 1| 
+| 20240101T22:02:32Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 70 | 9| 
+| 20240101T15:01:01Z | Python infrastructure to train paths selectors for symbolic execution engines. | https://github.com/gsvgit/PySymGym | 1 | 0| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240101T15:48:08Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 75 | 8| 
+| 20240101T15:32:16Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 138 | 13| 
 
 
 # fuzz on Github 推荐
