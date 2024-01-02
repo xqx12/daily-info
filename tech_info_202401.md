@@ -43,7 +43,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240102T02:45:28Z | This is all the C code I have practiced typing and learning about. | https://github.com/Sharkbait798/Hacking-The-art-of-Exploitation | 0 | 0| 
+| 20240102T02:46:35Z | This is all the C code I have practiced typing and learning about. | https://github.com/Sharkbait798/Hacking-The-art-of-Exploitation | 0 | 0| 
 | 20240102T02:12:35Z | CVE-2023-51385 PoC Exploit  | https://github.com/WOOOOONG/CVE-2023-51385 | 0 | 0| 
 | 20240102T00:03:34Z | LockLoginReborn, is a rework of the LockLogin plugin. This plugin allows server owners to keep their server and players safe, LockLogin is an inteligent plugin which also parches some of the very known exploits to bypass login systems. | https://github.com/KarmaDeb/LockLoginReborn | 5 | 4| 
 | 20240101T23:47:53Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-vf | 1 | 0| 
