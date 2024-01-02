@@ -89,6 +89,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240102T02:54:19Z | Null | https://github.com/easyqiu/Fuzz_Driven_By_WP | 0 | 0| 
 | 20240102T02:11:17Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51029 | 23423| 
 | 20240102T01:31:44Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9281 | 2073| 
 | 20240102T00:08:29Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1702 | 253| 
@@ -98,7 +99,6 @@
 | 20240101T13:53:51Z | UPN Veteran Jatim , Aquaponic pH Control-Monitoring with Type-2 Fuzzy Method Based on IoT Bot , S1 Thesis Project | https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot | 1 | 0| 
 | 20240101T13:29:15Z | Null | https://github.com/anwarm607/fuzzy-octo-broccoli | 0 | 0| 
 | 20240101T12:29:07Z | Null | https://github.com/telecometc/fuzzy-sweater | 0 | 0| 
-| 20240101T11:52:15Z | Null | https://github.com/ssjd08/FuzzyMotionDetection | 0 | 0| 
 
 
 
