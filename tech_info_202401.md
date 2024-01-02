@@ -58,6 +58,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240102T02:42:44Z | The S-500 G2 Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/RelyDelay/S500-RAT-HVNC-HAPP-HIdden-BROWSER-HRDP-REVERSE-PROXY-CRYPTO-MONITOR | 1 | 0| 
 | 20240101T22:40:43Z | Null | https://github.com/MiracleAnameke/-Backdoors-Trojans | 0 | 0| 
 | 20240101T18:14:42Z | The official implementation of paper %Backdoor Attack on Unpaired Medical Image-Text Foundation Models: A Pilot Study on MedCLIP% accepted at SaTML 2024 | https://github.com/ubc-tea/Backdoor_Multimodal_Foundation_Model | 0 | 0| 
 | 20240101T18:13:38Z | The official implementation of paper %Backdoor Attack on Unpaired Medical Image-Text Foundation Models: A Pilot Study on MedCLIP% accepted at SaTML 2024 | https://github.com/xxlya/Backdoor_Multimodal_Foundation_Model | 0 | 0| 
@@ -67,7 +68,6 @@
 | 20240101T16:05:17Z | Backdoor for post exploitation  | https://github.com/Jeanpseven/Backdoors | 0 | 0| 
 | 20240101T15:18:38Z | A backdoor defense for federated learning via isolated subspace training (NeurIPS2023) | https://github.com/git-disl/Lockdown | 6 | 0| 
 | 20240101T15:00:42Z | A malicious C program that looks like a snake game, but is actually a backdoor that is capable of scanning and corrupting files. | https://github.com/thenoisyninga/file_eater | 1 | 0| 
-| 20240101T13:04:10Z | The C2 Cloud is a robust web-based C2 framework, designed to simplify the life of penetration testers. It allows easy access to compromised backdoors, just like accessing an EC2 instance in the AWS cloud. It can manage several simultaneous backdoor sessions with a user-friendly interface.  | https://github.com/govindasamyarun/c2-cloud | 4 | 0| 
 
 
 # symbolic execution on Github 推荐
