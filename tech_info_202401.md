@@ -17,22 +17,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240102T12:21:22Z | CVE-2023-51385 | CVE-2023-51385 PoC Exploit  | https://github.com/WOOOOONG/CVE-2023-51385 | | 
+| 20240102T12:19:53Z | CVE-2023-26360 | File Read Arbrtary Exploit for CVE-2023-26360 - Adobe Coldfusion | https://github.com/yosef0x01/CVE-2023-26360 | | 
+| 20240102T12:18:37Z | CVE-2023-28252 | The repo contains a precompiled binary which can be run on a Windows machine vulnerable to CVE-2023-28252 | https://github.com/bkstephen/Compiled-PoC-Binary-For-CVE-2023-28252 | | 
+| 20240102T12:18:35Z | CVE-2023-48983 | POC CVE-2023-48983 | https://github.com/tristao-marinho/CVE-2023-48983 | | 
+| 20240102T08:44:19Z | CVE-2023-7173 | Null | https://github.com/sharathc213/CVE-2023-7173 | | 
+| 20240102T07:30:17Z | CVE-2023-7172 | Null | https://github.com/sharathc213/CVE-2023-7172 | | 
 | 20240102T02:43:10Z | CVE-2023-51127 | Null | https://github.com/risuxx/CVE-2023-51127 | | 
 | 20240102T02:31:06Z | CVE-2023-51126 | Null | https://github.com/risuxx/CVE-2023-51126 | | 
-| 20240102T02:12:35Z | CVE-2023-51385 | CVE-2023-51385 PoC Exploit  | https://github.com/WOOOOONG/CVE-2023-51385 | | 
-| 20240101T17:55:01Z | CVE-2023-26360 | File Read Arbrtary Exploit for CVE-2023-26360 - Adobe Coldfusion | https://github.com/yosef0x01/CVE-2023-26360 | | 
 | 20240101T17:05:07Z | CVE-2021-26855 |   CVE-2021-26855, also known as Proxylogon, is a server-side request forgery (SSRF) vulnerability in Exchange that allows an attacker to send arbitrary HTTP requests and authenticate as the Exchange server. | https://github.com/raheel0x01/CVE-2021-26855 | | 
 | 20240101T16:57:17Z | CVE-2023-6553 | Null | https://github.com/kiddenta/CVE-2023-6553 | | 
-| 20240101T15:38:59Z | CVE-2023-28252 | The repo contains a precompiled binary which can be run on a Windows machine vulnerable to CVE-2023-28252 | https://github.com/bkstephen/Compiled-PoC-Binary-For-CVE-2023-28252 | | 
-| 20240101T14:12:04Z | CVE-2023-51467 | A PoC exploit for CVE-2023-51467 - Apache OFBiz Authentication Bypass | https://github.com/K3ysTr0K3R/CVE-2023-51467-EXPLOIT | | 
-| 20240101T13:19:54Z | CVE-2023-48983 | POC CVE-2023-48983 | https://github.com/tristao-marinho/CVE-2023-48983 | | 
-| 20240101T13:14:49Z | CVE-2023-48982 | POC CVE-2023-48982 | https://github.com/tristao-marinho/CVE-2023-48982 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240102T02:11:08Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2384 | 645| 
+| 20240102T10:29:57Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2383 | 645| 
 
 
 # s2e on Github 推荐
@@ -58,16 +58,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240102T11:02:22Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 239 | 31| 
+| 20240102T10:54:08Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side  Topics android python java interpreter backdoor reverse-shell exploit sockets apk android-application rat hacktoberfest android-rat androrat interpreter-commands | https://github.com/Sreenathsachu/AndroClicks | 0 | 0| 
+| 20240102T10:21:47Z | Here is useful scripts collections. You can sign and forged tickets locally. only use secret file or secrets. without access to any remote.  | https://github.com/Esonhugh/TicketMaster | 2 | 0| 
+| 20240102T08:32:25Z | Imperio is an LLM-powered backdoor attack. It allows the adversary to issue language-guided instructions to control the victim model%s prediction for arbitrary targets. | https://github.com/hkucs-kachow/Imperio | 0 | 0| 
+| 20240102T07:08:48Z | A Study on Transfer Learning-Based Investigation of Backdoor Attack Vulnerabilities in 3D Point Cloud Classifiers | https://github.com/parkie0517/Transfer-Learning-Based-Backdoor-Attack-in-Point-Cloud-Classifiers | 0 | 0| 
+| 20240102T06:12:37Z | Backdoor program in Python | https://github.com/mamathashashi/Project-Backdoor | 0 | 0| 
 | 20240102T02:42:44Z | The S-500 G2 Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/RelyDelay/S500-RAT-HVNC-HAPP-HIdden-BROWSER-HRDP-REVERSE-PROXY-CRYPTO-MONITOR | 1 | 0| 
 | 20240101T22:40:43Z | Null | https://github.com/MiracleAnameke/-Backdoors-Trojans | 0 | 0| 
 | 20240101T18:14:42Z | The official implementation of paper %Backdoor Attack on Unpaired Medical Image-Text Foundation Models: A Pilot Study on MedCLIP% accepted at SaTML 2024 | https://github.com/ubc-tea/Backdoor_Multimodal_Foundation_Model | 0 | 0| 
 | 20240101T18:13:38Z | The official implementation of paper %Backdoor Attack on Unpaired Medical Image-Text Foundation Models: A Pilot Study on MedCLIP% accepted at SaTML 2024 | https://github.com/xxlya/Backdoor_Multimodal_Foundation_Model | 0 | 0| 
-| 20240101T17:00:05Z | BitRAT CrackedIt is meticulously constructed utilizing the C++ programming language. It stands as the most recent iteration of the premier PC RAT for the year 2023. Regarded as a prized tool | https://github.com/Mrxteamss/Bitrat-Hvnc-Rat-Remote-Control-Av-Bypass | 2 | 1| 
-| 20240101T16:59:43Z | Hidden VNC constitutes an ingenious stratagem harnessed by the most adept connoisseurs of technology. This method, by far, presents an exhilarating modality to govern the operation | https://github.com/RelyDelay/Pandora-HVNC-2FABypass-WebGL-Hidden-Desktop-Outlook-Foxmail-Stealer-Hidden-Browser | 1 | 0| 
-| 20240101T16:51:56Z | VenomControl Rat is a Remote Access Tool (RAT) designed to remotely monitor and control other computers through a secure encrypted connection | https://github.com/Mrxteamss/VenomControl-Rat-Crack-Source | 2 | 0| 
-| 20240101T16:05:17Z | Backdoor for post exploitation  | https://github.com/Jeanpseven/Backdoors | 0 | 0| 
-| 20240101T15:18:38Z | A backdoor defense for federated learning via isolated subspace training (NeurIPS2023) | https://github.com/git-disl/Lockdown | 6 | 0| 
-| 20240101T15:00:42Z | A malicious C program that looks like a snake game, but is actually a backdoor that is capable of scanning and corrupting files. | https://github.com/thenoisyninga/file_eater | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -82,6 +82,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240102T09:07:22Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 107 | 4| 
 | 20240101T15:48:08Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 75 | 8| 
 | 20240101T15:32:16Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 138 | 13| 
 
@@ -89,16 +90,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240102T12:59:47Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1705 | 253| 
+| 20240102T12:09:46Z | Null | https://github.com/irf-ali/local-oss-fuzz | 0 | 0| 
+| 20240102T10:30:27Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9281 | 2074| 
+| 20240102T09:37:21Z | Null | https://github.com/Jackie425/fuzzHLS | 0 | 0| 
+| 20240102T08:38:40Z | Penetration-List: A comprehensive resource for testers, covering all types of vulnerabilities and materials used in Penetration Testing. Includes payloads, dorks, fuzzing materials, and offers in-depth theory sections. Visit our Medium profile for more information. | https://github.com/AlbusSec/Penetration-List | 659 | 158| 
+| 20240102T03:25:22Z | Null | https://github.com/211250098/fuzz-mut-demos | 0 | 0| 
 | 20240102T02:57:57Z | Null | https://github.com/fuzzyLogicGroup/Fuzzy-Logic-Heart-Diagnosis | 0 | 0| 
 | 20240102T02:57:41Z | Null | https://github.com/easyqiu/Fuzz_WPDriven | 0 | 0| 
 | 20240102T02:54:19Z | Null | https://github.com/easyqiu/Fuzz_Driven_By_WP | 0 | 0| 
 | 20240102T02:11:17Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51029 | 23424| 
-| 20240102T01:31:44Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9281 | 2073| 
-| 20240102T00:08:29Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1702 | 253| 
-| 20240101T23:31:09Z | 7 | https://github.com/ayatweb/fuzzy-spoon | 1 | 1| 
-| 20240101T22:49:29Z | fuzzyjs for roblox-ts | https://github.com/howmanysmall/rbx-fuzzy-js | 0 | 0| 
-| 20240101T19:27:19Z | Null | https://github.com/fuzzygreenblurs/fuzzygreenblurs.github.io | 0 | 0| 
-| 20240101T13:53:51Z | UPN Veteran Jatim , Aquaponic pH Control-Monitoring with Type-2 Fuzzy Method Based on IoT Bot , S1 Thesis Project | https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot | 1 | 0| 
 
 
 
