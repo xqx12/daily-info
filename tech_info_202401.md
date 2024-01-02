@@ -17,6 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240102T02:43:10Z | CVE-2023-51127 | Null | https://github.com/risuxx/CVE-2023-51127 | | 
 | 20240102T02:31:06Z | CVE-2023-51126 | Null | https://github.com/risuxx/CVE-2023-51126 | | 
 | 20240102T02:12:35Z | CVE-2023-51385 | CVE-2023-51385 PoC Exploit  | https://github.com/WOOOOONG/CVE-2023-51385 | | 
 | 20240101T17:55:01Z | CVE-2023-26360 | File Read Arbrtary Exploit for CVE-2023-26360 - Adobe Coldfusion | https://github.com/yosef0x01/CVE-2023-26360 | | 
@@ -26,7 +27,6 @@
 | 20240101T14:12:04Z | CVE-2023-51467 | A PoC exploit for CVE-2023-51467 - Apache OFBiz Authentication Bypass | https://github.com/K3ysTr0K3R/CVE-2023-51467-EXPLOIT | | 
 | 20240101T13:19:54Z | CVE-2023-48983 | POC CVE-2023-48983 | https://github.com/tristao-marinho/CVE-2023-48983 | | 
 | 20240101T13:14:49Z | CVE-2023-48982 | POC CVE-2023-48982 | https://github.com/tristao-marinho/CVE-2023-48982 | | 
-| 20240101T13:06:40Z | CVE-2023-48981 | POC CVE-2023-48981 | https://github.com/tristao-marinho/CVE-2023-48981 | | 
 
 
 # klee on Github 推荐
