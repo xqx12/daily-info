@@ -16,6 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240102T13:52:19Z | 未知编号 | Null | https://github.com/Locj41/demo-cve2021-45105 | | 
 | 20240102T12:21:22Z | CVE-2023-51385 | CVE-2023-51385 PoC Exploit  | https://github.com/WOOOOONG/CVE-2023-51385 | | 
 | 20240102T12:19:53Z | CVE-2023-26360 | File Read Arbrtary Exploit for CVE-2023-26360 - Adobe Coldfusion | https://github.com/yosef0x01/CVE-2023-26360 | | 
 | 20240102T12:18:37Z | CVE-2023-28252 | The repo contains a precompiled binary which can be run on a Windows machine vulnerable to CVE-2023-28252 | https://github.com/bkstephen/Compiled-PoC-Binary-For-CVE-2023-28252 | | 
@@ -79,6 +80,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240102T13:54:44Z | Null | https://github.com/yaya2devops/fuzzy-parakeet | 0 | 0| 
 | 20240102T13:47:52Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51044 | 23424| 
 | 20240102T13:24:53Z | Null | https://github.com/svlobanov/tsduck-fuzzing | 0 | 0| 
 | 20240102T13:24:20Z | Null | https://github.com/YXLZJ/FuzzingVM | 0 | 0| 
@@ -88,7 +90,6 @@
 | 20240102T09:37:21Z | Null | https://github.com/Jackie425/fuzzHLS | 0 | 0| 
 | 20240102T08:38:40Z | Penetration-List: A comprehensive resource for testers, covering all types of vulnerabilities and materials used in Penetration Testing. Includes payloads, dorks, fuzzing materials, and offers in-depth theory sections. Visit our Medium profile for more information. | https://github.com/AlbusSec/Penetration-List | 659 | 158| 
 | 20240102T03:25:22Z | Null | https://github.com/211250098/fuzz-mut-demos | 0 | 0| 
-| 20240102T02:57:57Z | Null | https://github.com/fuzzyLogicGroup/Fuzzy-Logic-Heart-Diagnosis | 0 | 0| 
 
 
 
