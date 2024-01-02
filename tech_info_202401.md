@@ -17,6 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240102T02:12:35Z | CVE-2023-51385 | CVE-2023-51385 PoC Exploit  | https://github.com/WOOOOONG/CVE-2023-51385 | | 
 | 20240101T17:55:01Z | CVE-2023-26360 | File Read Arbrtary Exploit for CVE-2023-26360 - Adobe Coldfusion | https://github.com/yosef0x01/CVE-2023-26360 | | 
 | 20240101T17:05:07Z | CVE-2021-26855 |   CVE-2021-26855, also known as Proxylogon, is a server-side request forgery (SSRF) vulnerability in Exchange that allows an attacker to send arbitrary HTTP requests and authenticate as the Exchange server. | https://github.com/raheel0x01/CVE-2021-26855 | | 
 | 20240101T16:57:17Z | CVE-2023-6553 | Null | https://github.com/kiddenta/CVE-2023-6553 | | 
@@ -26,7 +27,6 @@
 | 20240101T13:14:49Z | CVE-2023-48982 | POC CVE-2023-48982 | https://github.com/tristao-marinho/CVE-2023-48982 | | 
 | 20240101T13:06:40Z | CVE-2023-48981 | POC CVE-2023-48981 | https://github.com/tristao-marinho/CVE-2023-48981 | | 
 | 20240101T01:55:07Z | CVE-2023-35985 |  CVE-2023-35985 reproduction | https://github.com/SpiralBL0CK/-CVE-2023-35985 | | 
-| 20240101T00:55:07Z | CVE-2023-34362 | A video presentation analysing the technical details, scale and lessons to be learned from the MOVEit CVE-2023=3462(CS50 Introduction to Cyber Security Finale Project) | https://github.com/Chinyemba-ck/MOVEit-CVE-2023-34362 | | 
 
 
 # klee on Github 推荐
@@ -43,6 +43,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240102T02:12:35Z | CVE-2023-51385 PoC Exploit  | https://github.com/WOOOOONG/CVE-2023-51385 | 0 | 0| 
 | 20240102T00:03:34Z | LockLoginReborn, is a rework of the LockLogin plugin. This plugin allows server owners to keep their server and players safe, LockLogin is an inteligent plugin which also parches some of the very known exploits to bypass login systems. | https://github.com/KarmaDeb/LockLoginReborn | 5 | 4| 
 | 20240101T23:47:53Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-vf | 1 | 0| 
 | 20240101T23:47:11Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-vf | 1 | 0| 
@@ -52,7 +53,6 @@
 | 20240101T12:46:35Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5756 | 728| 
 | 20240101T12:37:46Z |  Discord exploit used to crash discord voice channels by overloading the WSS with junk data this exploit was patched a while ago but I%ve managed to find a simple workaround  | https://github.com/ewnsm/discord-vc-crash-exploit | 0 | 0| 
 | 20240101T12:30:01Z | Are you looking for a convenient and reliable Roblox Executor? If so, then download Synapse X. It is the most stable executor that contains a vast library of advanced scripts that help players to exploit Roblox games. Basically, it works as a script engine that helps players to execute the scripts and make the games simple to combat. | https://github.com/ewnsm/Synapse-X | 0 | 0| 
-| 20240101T02:32:52Z | archive of exploitation. | https://github.com/CodedMasonry/ArchivedSecOps | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -73,6 +73,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240102T02:11:08Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2384 | 645| 
 | 20240102T00:29:37Z | Symbolic execution of LLVM IR | https://github.com/can-lehmann/pathbeaver | 9 | 1| 
 | 20240101T22:02:32Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 70 | 9| 
 | 20240101T15:01:01Z | Python infrastructure to train paths selectors for symbolic execution engines. | https://github.com/gsvgit/PySymGym | 1 | 0| 
