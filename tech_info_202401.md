@@ -92,8 +92,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240102T13:15:17Z | Null | https://github.com/YXLZJ/FuzzingVM | 0 | 0| 
-| 20240102T13:15:03Z | Null | https://github.com/svlobanov/tsduck-fuzzing | 0 | 0| 
+| 20240102T13:24:53Z | Null | https://github.com/svlobanov/tsduck-fuzzing | 0 | 0| 
+| 20240102T13:24:20Z | Null | https://github.com/YXLZJ/FuzzingVM | 0 | 0| 
 | 20240102T12:59:47Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1705 | 253| 
 | 20240102T12:09:46Z | Null | https://github.com/irf-ali/local-oss-fuzz | 0 | 0| 
 | 20240102T10:30:27Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9281 | 2074| 
