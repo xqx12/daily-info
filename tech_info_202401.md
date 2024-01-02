@@ -43,16 +43,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240102T11:40:37Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5602 | 1086| 
+| 20240102T10:54:08Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side  Topics android python java interpreter backdoor reverse-shell exploit sockets apk android-application rat hacktoberfest android-rat androrat interpreter-commands | https://github.com/Sreenathsachu/AndroClicks | 0 | 0| 
+| 20240102T10:31:49Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5757 | 728| 
+| 20240102T10:30:11Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6267 | 818| 
 | 20240102T02:46:35Z | This is all the C code I have practiced typing and learning about. | https://github.com/Sharkbait798/Hacking-The-art-of-Exploitation | 0 | 0| 
 | 20240102T02:12:35Z | CVE-2023-51385 PoC Exploit  | https://github.com/WOOOOONG/CVE-2023-51385 | 0 | 0| 
 | 20240102T00:03:34Z | LockLoginReborn, is a rework of the LockLogin plugin. This plugin allows server owners to keep their server and players safe, LockLogin is an inteligent plugin which also parches some of the very known exploits to bypass login systems. | https://github.com/KarmaDeb/LockLoginReborn | 5 | 4| 
 | 20240101T23:47:53Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-vf | 1 | 0| 
 | 20240101T23:47:11Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-vf | 1 | 0| 
 | 20240101T13:26:44Z | TryHackMe PWN101 (binary exploitation) room challenge 2 exploit. | https://github.com/DMusakhanov/PWN101-TryHackMe-exploit | 0 | 0| 
-| 20240101T13:10:34Z | Contains a collection of Bash scripts designed for comprehensive security audits and network mapping of Active Directory (AD) environments. The scripts automate various tasks including LDAP querying, Kerberos ticket analysis, SMB enumeration, and exploitation of known vulnerabilities like Zerologon and PetitPotam. | https://github.com/emrekybs/AD-AssessmentKit | 0 | 1| 
-| 20240101T13:07:25Z | Contains a collection of Bash scripts designed for comprehensive security audits and network mapping of Active Directory (AD) environments. The scripts automate various tasks including LDAP querying, Kerberos ticket analysis, SMB enumeration, and exploitation of known vulnerabilities like Zerologon and PetitPotam. | https://github.com/emrekybs/ADAssessmentKit | 0 | 0| 
-| 20240101T12:46:35Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5756 | 728| 
-| 20240101T12:37:46Z |  Discord exploit used to crash discord voice channels by overloading the WSS with junk data this exploit was patched a while ago but I%ve managed to find a simple workaround  | https://github.com/ewnsm/discord-vc-crash-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -73,8 +73,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240102T02:11:08Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2384 | 645| 
-| 20240102T00:29:37Z | Symbolic execution of LLVM IR | https://github.com/can-lehmann/pathbeaver | 9 | 1| 
+| 20240102T10:37:20Z | Symbolic execution of LLVM IR | https://github.com/can-lehmann/pathbeaver | 13 | 1| 
+| 20240102T10:31:52Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 25 | 12| 
+| 20240102T10:31:19Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 723 | 128| 
+| 20240102T10:29:57Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2383 | 645| 
 | 20240101T22:02:32Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 70 | 9| 
 | 20240101T15:01:01Z | Python infrastructure to train paths selectors for symbolic execution engines. | https://github.com/gsvgit/PySymGym | 1 | 0| 
 
