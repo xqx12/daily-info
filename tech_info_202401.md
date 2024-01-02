@@ -43,6 +43,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240102T02:45:28Z | This is all the C code I have practiced typing and learning about. | https://github.com/Sharkbait798/Hacking-The-art-of-Exploitation | 0 | 0| 
 | 20240102T02:12:35Z | CVE-2023-51385 PoC Exploit  | https://github.com/WOOOOONG/CVE-2023-51385 | 0 | 0| 
 | 20240102T00:03:34Z | LockLoginReborn, is a rework of the LockLogin plugin. This plugin allows server owners to keep their server and players safe, LockLogin is an inteligent plugin which also parches some of the very known exploits to bypass login systems. | https://github.com/KarmaDeb/LockLoginReborn | 5 | 4| 
 | 20240101T23:47:53Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-vf | 1 | 0| 
@@ -52,7 +53,6 @@
 | 20240101T13:07:25Z | Contains a collection of Bash scripts designed for comprehensive security audits and network mapping of Active Directory (AD) environments. The scripts automate various tasks including LDAP querying, Kerberos ticket analysis, SMB enumeration, and exploitation of known vulnerabilities like Zerologon and PetitPotam. | https://github.com/emrekybs/ADAssessmentKit | 0 | 0| 
 | 20240101T12:46:35Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5756 | 728| 
 | 20240101T12:37:46Z |  Discord exploit used to crash discord voice channels by overloading the WSS with junk data this exploit was patched a while ago but I%ve managed to find a simple workaround  | https://github.com/ewnsm/discord-vc-crash-exploit | 0 | 0| 
-| 20240101T12:30:01Z | Are you looking for a convenient and reliable Roblox Executor? If so, then download Synapse X. It is the most stable executor that contains a vast library of advanced scripts that help players to exploit Roblox games. Basically, it works as a script engine that helps players to execute the scripts and make the games simple to combat. | https://github.com/ewnsm/Synapse-X | 0 | 0| 
 
 
 # backdoor on Github 推荐
