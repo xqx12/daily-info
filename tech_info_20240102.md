@@ -40,10 +40,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240102T13:11:11Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6268 | 818| 
 | 20240102T11:40:37Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5602 | 1086| 
 | 20240102T10:54:08Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side  Topics android python java interpreter backdoor reverse-shell exploit sockets apk android-application rat hacktoberfest android-rat androrat interpreter-commands | https://github.com/Sreenathsachu/AndroClicks | 0 | 0| 
 | 20240102T10:31:49Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5757 | 728| 
-| 20240102T10:30:11Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6267 | 818| 
 | 20240102T02:46:35Z | This is all the C code I have practiced typing and learning about. | https://github.com/Sharkbait798/Hacking-The-art-of-Exploitation | 0 | 0| 
 | 20240102T02:12:35Z | CVE-2023-51385 PoC Exploit  | https://github.com/WOOOOONG/CVE-2023-51385 | 0 | 0| 
 | 20240102T00:03:34Z | LockLoginReborn, is a rework of the LockLogin plugin. This plugin allows server owners to keep their server and players safe, LockLogin is an inteligent plugin which also parches some of the very known exploits to bypass login systems. | https://github.com/KarmaDeb/LockLoginReborn | 5 | 4| 
