@@ -20,7 +20,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20240102T23:11:04Z | CVE-2023-22515 | A simple exploit for CVE-2023-22515 | https://github.com/CalegariMindSec/Exploit-CVE-2023-22515 | | 
-| 20240102T22:48:46Z | CVE-2024-0190 | Null | https://github.com/codeb0ss/CVE-2024-0190-PoC | | 
 | 20240102T21:51:57Z | CVE-2023-28252 | The repo contains a precompiled binary which can be run on a Windows machine vulnerable to CVE-2023-28252 | https://github.com/bkstephen/Compiled-PoC-Binary-For-CVE-2023-28252 | | 
 | 20240102T14:13:28Z | 未知编号 | Null | https://github.com/Locj41/demo-cve2021-45105 | | 
 | 20240102T12:21:22Z | CVE-2023-51385 | CVE-2023-51385 PoC Exploit  | https://github.com/WOOOOONG/CVE-2023-51385 | | 
@@ -29,6 +28,7 @@
 | 20240102T08:44:19Z | CVE-2023-7173 | Null | https://github.com/sharathc213/CVE-2023-7173 | | 
 | 20240102T07:30:17Z | CVE-2023-7172 | Null | https://github.com/sharathc213/CVE-2023-7172 | | 
 | 20240102T02:43:10Z | CVE-2023-51127 | Null | https://github.com/risuxx/CVE-2023-51127 | | 
+| 20240102T02:31:06Z | CVE-2023-51126 | Null | https://github.com/risuxx/CVE-2023-51126 | | 
 
 
 # klee on Github 推荐

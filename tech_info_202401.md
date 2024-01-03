@@ -20,9 +20,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240103T02:11:28Z | CVE-2024-0190 | Null | https://github.com/codeb0ss/CVE-2024-0190-PoC | | 
 | 20240103T00:19:09Z | CVE-2022-38694 | This is a one-time signature verification bypass. For persistent signature verification bypass, check https://github.com/TomKing062/CVE-2022-38691_38692 | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20240102T23:11:04Z | CVE-2023-22515 | A simple exploit for CVE-2023-22515 | https://github.com/CalegariMindSec/Exploit-CVE-2023-22515 | | 
-| 20240102T22:48:46Z | CVE-2024-0190 | Null | https://github.com/codeb0ss/CVE-2024-0190-PoC | | 
 | 20240102T21:51:57Z | CVE-2023-28252 | The repo contains a precompiled binary which can be run on a Windows machine vulnerable to CVE-2023-28252 | https://github.com/bkstephen/Compiled-PoC-Binary-For-CVE-2023-28252 | | 
 | 20240102T14:13:28Z | 未知编号 | Null | https://github.com/Locj41/demo-cve2021-45105 | | 
 | 20240102T12:21:22Z | CVE-2023-51385 | CVE-2023-51385 PoC Exploit  | https://github.com/WOOOOONG/CVE-2023-51385 | | 
