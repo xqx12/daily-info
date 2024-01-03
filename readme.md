@@ -88,7 +88,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240102T23:14:21Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51056 | 23426| 
 | 20240102T23:11:18Z | The FuzzyLite Libraries for Fuzzy Logic Control | https://github.com/fuzzylite/fuzzylite.github.io | 0 | 0| 
 | 20240102T23:09:52Z | Test Description | https://github.com/kasmeenabpp/fuzzy-fortnight | 0 | 0| 
 | 20240102T22:20:50Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9281 | 2075| 
@@ -98,6 +97,7 @@
 | 20240102T12:09:46Z | Null | https://github.com/irf-ali/local-oss-fuzz | 0 | 0| 
 | 20240102T09:37:21Z | Null | https://github.com/Jackie425/fuzzHLS | 0 | 0| 
 | 20240102T08:38:40Z | Penetration-List: A comprehensive resource for testers, covering all types of vulnerabilities and materials used in Penetration Testing. Includes payloads, dorks, fuzzing materials, and offers in-depth theory sections. Visit our Medium profile for more information. | https://github.com/AlbusSec/Penetration-List | 659 | 158| 
+| 20240102T03:25:22Z | Null | https://github.com/211250098/fuzz-mut-demos | 0 | 0| 
 
 
 
