@@ -47,6 +47,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240103T02:30:30Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 768 | 185| 
 | 20240103T02:27:27Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0089-app-Tlkba-exploit-purchase | 0 | 0| 
 | 20240103T02:14:54Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0077-app-Is41D-solve-exploit | 0 | 0| 
 | 20240103T02:01:05Z | Null | https://github.com/stbean/Exploiting-Auto-Adjusted-Logical-Individual-Feature-Subspace-For-Hyperspectral-Image-Analysis | 0 | 0| 
@@ -56,7 +57,6 @@
 | 20240103T01:24:51Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0002-app-rM1SY-emerge-exploit | 0 | 0| 
 | 20240103T01:17:14Z | Contains a collection of Bash scripts designed for comprehensive security audits and network mapping of Active Directory (AD) environments. The scripts automate various tasks including LDAP querying, Kerberos ticket analysis, SMB enumeration, and exploitation of known vulnerabilities like Zerologon and PetitPotam. | https://github.com/emrekybs/AD-AssessmentKit | 49 | 4| 
 | 20240103T00:48:00Z | A place to get all ways to exploit your Chromebook. | https://github.com/AnthonyIsNotAvalible/DevTech.github.io | 0 | 0| 
-| 20240103T00:31:43Z | a simple bash script to create a (exploit.py) file to use in PWN challenges. | https://github.com/AvAl4nch/PWN_python_template | 0 | 0| 
 
 
 # backdoor on Github 推荐
