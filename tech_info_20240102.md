@@ -65,7 +65,6 @@
 | 20240102T15:17:26Z | A Study on Transfer Learning-Based Investigation of Backdoor Attack Vulnerabilities in 3D Point Cloud Classifiers | https://github.com/parkie0517/Transfer-Learning-Based-Backdoor-Attack-in-Point-Cloud-Classifiers | 0 | 0| 
 | 20240102T14:43:50Z | Null | https://github.com/lechicuong2k3/Clean-label-Physical-Backdoor-Attack | 0 | 0| 
 | 20240102T10:54:08Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side  Topics android python java interpreter backdoor reverse-shell exploit sockets apk android-application rat hacktoberfest android-rat androrat interpreter-commands | https://github.com/Sreenathsachu/AndroClicks | 0 | 0| 
-| 20240102T10:21:47Z | Here is useful scripts collections. You can sign and forged tickets locally. only use secret file or secrets. without access to any remote.  | https://github.com/Esonhugh/TicketMaster | 2 | 0| 
 | 20240102T08:32:25Z | Imperio is an LLM-powered backdoor attack. It allows the adversary to issue language-guided instructions to control the victim model%s prediction for arbitrary targets. | https://github.com/hkucs-kachow/Imperio | 0 | 0| 
 | 20240102T06:12:37Z | Backdoor program in Python | https://github.com/mamathashashi/Project-Backdoor | 0 | 0| 
 | 20240102T02:42:44Z | The S-500 G2 Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/RelyDelay/S500-RAT-HVNC-HAPP-HIdden-BROWSER-HRDP-REVERSE-PROXY-CRYPTO-MONITOR | 1 | 0| 

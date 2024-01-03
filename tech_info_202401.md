@@ -62,6 +62,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240103T02:23:12Z | Here is useful scripts collections. You can sign and forged tickets locally. only use secret file or secrets. without access to any remote.  | https://github.com/Esonhugh/TicketMaster | 3 | 1| 
 | 20240103T00:05:55Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 2418 | 889| 
 | 20240102T22:36:54Z | Backdoors tools | https://github.com/SikorUHQ/BackdoorsTools | 0 | 0| 
 | 20240102T17:09:59Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 238 | 31| 
@@ -69,7 +70,6 @@
 | 20240102T15:17:26Z | A Study on Transfer Learning-Based Investigation of Backdoor Attack Vulnerabilities in 3D Point Cloud Classifiers | https://github.com/parkie0517/Transfer-Learning-Based-Backdoor-Attack-in-Point-Cloud-Classifiers | 0 | 0| 
 | 20240102T14:43:50Z | Null | https://github.com/lechicuong2k3/Clean-label-Physical-Backdoor-Attack | 0 | 0| 
 | 20240102T10:54:08Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side  Topics android python java interpreter backdoor reverse-shell exploit sockets apk android-application rat hacktoberfest android-rat androrat interpreter-commands | https://github.com/Sreenathsachu/AndroClicks | 0 | 0| 
-| 20240102T10:21:47Z | Here is useful scripts collections. You can sign and forged tickets locally. only use secret file or secrets. without access to any remote.  | https://github.com/Esonhugh/TicketMaster | 2 | 0| 
 | 20240102T08:32:25Z | Imperio is an LLM-powered backdoor attack. It allows the adversary to issue language-guided instructions to control the victim model%s prediction for arbitrary targets. | https://github.com/hkucs-kachow/Imperio | 0 | 0| 
 | 20240102T06:12:37Z | Backdoor program in Python | https://github.com/mamathashashi/Project-Backdoor | 0 | 0| 
 
