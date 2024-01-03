@@ -47,6 +47,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240103T01:24:51Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0002-app-rM1SY-emerge-exploit | 0 | 0| 
 | 20240103T01:23:11Z | Null | https://github.com/stbean/Exploiting-Auto-Adjusted-Logical-Individual-Feature-Subspace-For-Hyperspectral-Image-Analysis | 0 | 0| 
 | 20240103T01:17:14Z | Contains a collection of Bash scripts designed for comprehensive security audits and network mapping of Active Directory (AD) environments. The scripts automate various tasks including LDAP querying, Kerberos ticket analysis, SMB enumeration, and exploitation of known vulnerabilities like Zerologon and PetitPotam. | https://github.com/emrekybs/AD-AssessmentKit | 49 | 4| 
 | 20240103T00:48:00Z | A place to get all ways to exploit your Chromebook. | https://github.com/AnthonyIsNotAvalible/DevTech.github.io | 0 | 0| 
@@ -56,7 +57,6 @@
 | 20240102T10:54:08Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side  Topics android python java interpreter backdoor reverse-shell exploit sockets apk android-application rat hacktoberfest android-rat androrat interpreter-commands | https://github.com/Sreenathsachu/AndroClicks | 0 | 0| 
 | 20240102T10:31:49Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5757 | 728| 
 | 20240102T10:31:38Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 237 | 19| 
-| 20240102T02:46:35Z | This is all the C code I have practiced typing and learning about. | https://github.com/Sharkbait798/Hacking-The-art-of-Exploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
