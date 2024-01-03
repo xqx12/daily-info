@@ -47,6 +47,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240103T02:14:54Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0077-app-Is41D-solve-exploit | 0 | 0| 
 | 20240103T02:01:05Z | Null | https://github.com/stbean/Exploiting-Auto-Adjusted-Logical-Individual-Feature-Subspace-For-Hyperspectral-Image-Analysis | 0 | 0| 
 | 20240103T01:59:46Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0066-app-3gtFR-deny-exploit | 0 | 0| 
 | 20240103T01:59:40Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0069-app-5G_yn-exploit-exclude | 0 | 0| 
@@ -56,7 +57,6 @@
 | 20240103T00:48:00Z | A place to get all ways to exploit your Chromebook. | https://github.com/AnthonyIsNotAvalible/DevTech.github.io | 0 | 0| 
 | 20240103T00:31:43Z | a simple bash script to create a (exploit.py) file to use in PWN challenges. | https://github.com/AvAl4nch/PWN_python_template | 0 | 0| 
 | 20240102T17:14:07Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6267 | 819| 
-| 20240102T17:01:13Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5603 | 1086| 
 
 
 # backdoor on Github 推荐
