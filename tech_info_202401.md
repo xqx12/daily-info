@@ -47,11 +47,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240103T02:01:05Z | Null | https://github.com/stbean/Exploiting-Auto-Adjusted-Logical-Individual-Feature-Subspace-For-Hyperspectral-Image-Analysis | 0 | 0| 
 | 20240103T01:59:46Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0066-app-3gtFR-deny-exploit | 0 | 0| 
 | 20240103T01:59:40Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0069-app-5G_yn-exploit-exclude | 0 | 0| 
 | 20240103T01:37:30Z | flash loan exploits, oracle manipulation and audits | https://github.com/gurwindersinghdev/Thunder-loan-Audits | 0 | 0| 
 | 20240103T01:24:51Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0002-app-rM1SY-emerge-exploit | 0 | 0| 
-| 20240103T01:23:11Z | Null | https://github.com/stbean/Exploiting-Auto-Adjusted-Logical-Individual-Feature-Subspace-For-Hyperspectral-Image-Analysis | 0 | 0| 
 | 20240103T01:17:14Z | Contains a collection of Bash scripts designed for comprehensive security audits and network mapping of Active Directory (AD) environments. The scripts automate various tasks including LDAP querying, Kerberos ticket analysis, SMB enumeration, and exploitation of known vulnerabilities like Zerologon and PetitPotam. | https://github.com/emrekybs/AD-AssessmentKit | 49 | 4| 
 | 20240103T00:48:00Z | A place to get all ways to exploit your Chromebook. | https://github.com/AnthonyIsNotAvalible/DevTech.github.io | 0 | 0| 
 | 20240103T00:31:43Z | a simple bash script to create a (exploit.py) file to use in PWN challenges. | https://github.com/AvAl4nch/PWN_python_template | 0 | 0| 
