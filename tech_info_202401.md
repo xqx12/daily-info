@@ -65,6 +65,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240103T13:04:36Z | Null | https://github.com/ai-control/backdoor_control_examples | 0 | 0| 
 | 20240103T12:24:40Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 2421 | 890| 
 | 20240103T11:12:06Z | Null | https://github.com/anthony1204/SpigotBackdoor | 0 | 0| 
 | 20240103T10:32:21Z | Null | https://github.com/toolwind/discord-backdoor | 0 | 0| 
@@ -74,7 +75,6 @@
 | 20240102T22:36:54Z | Backdoors tools | https://github.com/SikorUHQ/BackdoorsTools | 0 | 0| 
 | 20240102T15:17:38Z | The X-Worm Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/RelyDelay/XWorm-V5.2-Edition-HVNC-RAT-DDOS-PASSWORDS-RANSOMWARE-CLIPPER-KEYLOGGER-UAC-BYPASS | 1 | 0| 
 | 20240102T15:17:26Z | A Study on Transfer Learning-Based Investigation of Backdoor Attack Vulnerabilities in 3D Point Cloud Classifiers | https://github.com/parkie0517/Transfer-Learning-Based-Backdoor-Attack-in-Point-Cloud-Classifiers | 0 | 0| 
-| 20240102T14:43:50Z | Null | https://github.com/lechicuong2k3/Clean-label-Physical-Backdoor-Attack | 0 | 0| 
 
 
 # symbolic execution on Github 推荐

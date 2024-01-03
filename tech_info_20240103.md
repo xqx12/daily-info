@@ -58,6 +58,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240103T13:04:36Z | Null | https://github.com/ai-control/backdoor_control_examples | 0 | 0| 
 | 20240103T12:24:40Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 2421 | 890| 
 | 20240103T11:12:06Z | Null | https://github.com/anthony1204/SpigotBackdoor | 0 | 0| 
 | 20240103T10:32:21Z | Null | https://github.com/toolwind/discord-backdoor | 0 | 0| 
