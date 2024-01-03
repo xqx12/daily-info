@@ -47,7 +47,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240103T02:32:31Z | 魔改版，实现冰蝎直连内存马，无需修改冰蝎客户端 | https://github.com/k4i-x3i0/jndiExploit-beta | 2 | 0| 
+| 20240103T02:35:38Z | 魔改版，实现冰蝎直连内存马，无需修改冰蝎客户端 | https://github.com/k4i-x3i0/jndiExploit-beta | 3 | 0| 
 | 20240103T02:30:30Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 768 | 185| 
 | 20240103T02:27:27Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0089-app-Tlkba-exploit-purchase | 0 | 0| 
 | 20240103T02:14:54Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0077-app-Is41D-solve-exploit | 0 | 0| 
