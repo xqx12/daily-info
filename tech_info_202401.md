@@ -88,9 +88,9 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240103T02:06:25Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 139 | 13| 
 | 20240102T09:07:22Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 107 | 4| 
 | 20240101T15:48:08Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 75 | 8| 
-| 20240101T15:32:16Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 138 | 13| 
 
 
 # fuzz on Github 推荐
