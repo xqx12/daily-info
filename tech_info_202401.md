@@ -20,6 +20,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240103T02:35:37Z | CVE-2020-11023 | CVE-2020-11023  PoC for bug bounty. | https://github.com/Cybernegro/CVE-2020-11023 | | 
 | 20240103T02:11:28Z | CVE-2024-0190 | Null | https://github.com/codeb0ss/CVE-2024-0190-PoC | | 
 | 20240103T00:19:09Z | CVE-2022-38694 | This is a one-time signature verification bypass. For persistent signature verification bypass, check https://github.com/TomKing062/CVE-2022-38691_38692 | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20240102T23:11:04Z | CVE-2023-22515 | A simple exploit for CVE-2023-22515 | https://github.com/CalegariMindSec/Exploit-CVE-2023-22515 | | 
@@ -29,7 +30,6 @@
 | 20240102T12:19:53Z | CVE-2023-26360 | File Read Arbrtary Exploit for CVE-2023-26360 - Adobe Coldfusion | https://github.com/yosef0x01/CVE-2023-26360 | | 
 | 20240102T12:18:35Z | CVE-2023-48983 | POC CVE-2023-48983 | https://github.com/tristao-marinho/CVE-2023-48983 | | 
 | 20240102T08:44:19Z | CVE-2023-7173 | Null | https://github.com/sharathc213/CVE-2023-7173 | | 
-| 20240102T07:30:17Z | CVE-2023-7172 | Null | https://github.com/sharathc213/CVE-2023-7172 | | 
 
 
 # klee on Github 推荐
@@ -47,7 +47,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240103T02:35:38Z | 魔改版，实现冰蝎直连内存马，无需修改冰蝎客户端 | https://github.com/k4i-x3i0/jndiExploit-beta | 3 | 0| 
+| 20240103T02:37:19Z | 魔改版，实现冰蝎直连内存马，无需修改冰蝎客户端 | https://github.com/k4i-x3i0/jndiExploit-beta | 4 | 0| 
 | 20240103T02:30:30Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 768 | 185| 
 | 20240103T02:27:27Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0089-app-Tlkba-exploit-purchase | 0 | 0| 
 | 20240103T02:14:54Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0077-app-Is41D-solve-exploit | 0 | 0| 
