@@ -47,6 +47,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240103T01:59:46Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0066-app-3gtFR-deny-exploit | 0 | 0| 
+| 20240103T01:59:40Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0069-app-5G_yn-exploit-exclude | 0 | 0| 
 | 20240103T01:37:30Z | flash loan exploits, oracle manipulation and audits | https://github.com/gurwindersinghdev/Thunder-loan-Audits | 0 | 0| 
 | 20240103T01:24:51Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0002-app-rM1SY-emerge-exploit | 0 | 0| 
 | 20240103T01:23:11Z | Null | https://github.com/stbean/Exploiting-Auto-Adjusted-Logical-Individual-Feature-Subspace-For-Hyperspectral-Image-Analysis | 0 | 0| 
@@ -55,8 +57,6 @@
 | 20240103T00:31:43Z | a simple bash script to create a (exploit.py) file to use in PWN challenges. | https://github.com/AvAl4nch/PWN_python_template | 0 | 0| 
 | 20240102T17:14:07Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6267 | 819| 
 | 20240102T17:01:13Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5603 | 1086| 
-| 20240102T10:54:08Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side  Topics android python java interpreter backdoor reverse-shell exploit sockets apk android-application rat hacktoberfest android-rat androrat interpreter-commands | https://github.com/Sreenathsachu/AndroClicks | 0 | 0| 
-| 20240102T10:31:49Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5757 | 728| 
 
 
 # backdoor on Github 推荐
