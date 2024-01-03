@@ -99,7 +99,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240103T12:53:14Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4207 | 859| 
+| 20240103T13:27:51Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4208 | 859| 
 | 20240103T12:13:55Z | Null | https://github.com/Phoneria/Fuzzy-Inference-System | 0 | 0| 
 | 20240103T11:20:39Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 248 | 40| 
 | 20240103T10:07:12Z | Repository for testing the Google Fuzztest library | https://github.com/RuneSkovrupHansen/fuzztest_test | 0 | 0| 
