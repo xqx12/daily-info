@@ -45,6 +45,7 @@
 | --- | --- | --- | --- | ---| 
 | 20240103T12:28:57Z | exploit poc | https://github.com/nvk0x/CVE-2022-1388-exploit | 0 | 0| 
 | 20240103T12:21:33Z | Null | https://github.com/maximusalterated/Aquire_-Dimensions_Exploitation_-exploit_ | 0 | 0| 
+| 20240103T10:44:28Z | Dexs, Binance, Bybit, Kucoin and more.. This project encompasses an artificial intelligence-driven software aimed at pre-detecting potential pump and dump events in the cryptocurrency market. It empowers users to automatically trade during these events, providing a proactive approach to exploiting reduced trading activity for potential profits. | https://github.com/Pump-Bot-Official/Pump-Bot-Premium | 1 | 1| 
 | 20240103T10:20:41Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5757 | 728| 
 | 20240103T09:11:32Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5605 | 1086| 
 | 20240103T02:41:12Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0015-app-qJESf-focus-exploit | 0 | 0| 
@@ -52,7 +53,6 @@
 | 20240103T02:30:30Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 768 | 185| 
 | 20240103T02:27:27Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0089-app-Tlkba-exploit-purchase | 0 | 0| 
 | 20240103T02:14:54Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0077-app-Is41D-solve-exploit | 0 | 0| 
-| 20240103T02:01:05Z | Null | https://github.com/stbean/Exploiting-Auto-Adjusted-Logical-Individual-Feature-Subspace-For-Hyperspectral-Image-Analysis | 0 | 0| 
 
 
 # backdoor on Github 推荐
