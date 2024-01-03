@@ -47,7 +47,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240103T01:33:25Z | flash loan exploits, oracle manipulation and audits | https://github.com/gurwindersinghdev/Thunder-loan-Audits | 0 | 0| 
+| 20240103T01:37:30Z | flash loan exploits, oracle manipulation and audits | https://github.com/gurwindersinghdev/Thunder-loan-Audits | 0 | 0| 
 | 20240103T01:24:51Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0002-app-rM1SY-emerge-exploit | 0 | 0| 
 | 20240103T01:23:11Z | Null | https://github.com/stbean/Exploiting-Auto-Adjusted-Logical-Individual-Feature-Subspace-For-Hyperspectral-Image-Analysis | 0 | 0| 
 | 20240103T01:17:14Z | Contains a collection of Bash scripts designed for comprehensive security audits and network mapping of Active Directory (AD) environments. The scripts automate various tasks including LDAP querying, Kerberos ticket analysis, SMB enumeration, and exploitation of known vulnerabilities like Zerologon and PetitPotam. | https://github.com/emrekybs/AD-AssessmentKit | 49 | 4| 
