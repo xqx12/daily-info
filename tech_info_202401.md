@@ -47,6 +47,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240103T02:41:12Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0015-app-qJESf-focus-exploit | 0 | 0| 
 | 20240103T02:37:19Z | 魔改版，实现冰蝎直连内存马，无需修改冰蝎客户端 | https://github.com/k4i-x3i0/jndiExploit-beta | 4 | 0| 
 | 20240103T02:30:30Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 768 | 185| 
 | 20240103T02:27:27Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0089-app-Tlkba-exploit-purchase | 0 | 0| 
@@ -56,7 +57,6 @@
 | 20240103T01:59:40Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0069-app-5G_yn-exploit-exclude | 0 | 0| 
 | 20240103T01:37:30Z | flash loan exploits, oracle manipulation and audits | https://github.com/gurwindersinghdev/Thunder-loan-Audits | 0 | 0| 
 | 20240103T01:24:51Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0002-app-rM1SY-emerge-exploit | 0 | 0| 
-| 20240103T01:17:14Z | Contains a collection of Bash scripts designed for comprehensive security audits and network mapping of Active Directory (AD) environments. The scripts automate various tasks including LDAP querying, Kerberos ticket analysis, SMB enumeration, and exploitation of known vulnerabilities like Zerologon and PetitPotam. | https://github.com/emrekybs/AD-AssessmentKit | 49 | 4| 
 
 
 # backdoor on Github 推荐
