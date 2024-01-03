@@ -102,10 +102,10 @@
 | 20240102T23:11:18Z | The FuzzyLite Libraries for Fuzzy Logic Control | https://github.com/fuzzylite/fuzzylite.github.io | 0 | 0| 
 | 20240102T23:09:52Z | Test Description | https://github.com/kasmeenabpp/fuzzy-fortnight | 0 | 0| 
 | 20240102T22:20:50Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9281 | 2075| 
+| 20240102T16:50:52Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5133 | 554| 
 | 20240102T13:54:44Z | Null | https://github.com/yaya2devops/fuzzy-parakeet | 0 | 0| 
 | 20240102T13:24:53Z | Null | https://github.com/svlobanov/tsduck-fuzzing | 0 | 0| 
 | 20240102T13:24:20Z | Null | https://github.com/YXLZJ/FuzzingVM | 0 | 0| 
-| 20240102T12:09:46Z | Null | https://github.com/irf-ali/local-oss-fuzz | 0 | 0| 
 
 
 
