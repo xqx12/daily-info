@@ -36,6 +36,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240104T13:40:52Z | PoC showing how to initially build and push to the internal registry and afterwards exploit an external Nexus registry  | https://github.com/fabiomartinelli/cakephp-from-internal-registry-to-nexus | 0 | 0| 
 | 20240104T13:08:42Z | searchsploit aracı ile exploit aramaya yarayan bu kod parçası işe yarayabilir. | https://github.com/Samettas16/Exploit-arama | 0 | 0| 
 | 20240104T13:01:08Z | Null | https://github.com/theduckymonk/IOS-Exploitation-Tools | 0 | 0| 
 | 20240104T12:51:15Z | Null | https://github.com/Subha-BOO7/Exploit_CVE-2023-51467 | 0 | 0| 
@@ -45,7 +46,6 @@
 | 20240104T02:39:15Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0085-app-b9YSF-exploit-preserve | 0 | 0| 
 | 20240104T02:25:00Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0034-app-QD98Q-exploit-exploit | 0 | 0| 
 | 20240104T02:06:42Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0063-app-AZNKZ-exploit-doubt | 0 | 0| 
-| 20240104T01:55:42Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0074-app-UjcMl-decide-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
