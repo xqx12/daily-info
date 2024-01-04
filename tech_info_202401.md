@@ -108,10 +108,10 @@
 | 20240104T11:02:25Z | fuzzer based on trustwave fuzzing algorithm | https://github.com/SpiralBL0CK/fuzzing-android | 0 | 0| 
 | 20240104T10:52:37Z | Implementation of Fuzzy-Logic in Python. | https://github.com/Shubhm1shra/Fuzzy-Logic | 0 | 0| 
 | 20240104T07:49:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9288 | 2078| 
+| 20240104T03:11:42Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1709 | 254| 
 | 20240104T02:58:09Z | Null | https://github.com/211250098/fuzz-mut-demos | 0 | 0| 
 | 20240104T01:47:49Z | Fuzzing Maven-built C++ code with Mayhem | https://github.com/dbrumley/maven-example | 0 | 0| 
 | 20240104T01:33:04Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51079 | 23432| 
-| 20240103T23:27:05Z | JSON file - cut and paste the contents into DRIVE\CDDA\data\json\professions, being mindful of JSON formatting. | https://github.com/bradyaesplin/fuzzy-spork | 0 | 0| 
 
 
 
