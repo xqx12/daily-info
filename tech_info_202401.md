@@ -102,16 +102,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240104T12:01:29Z | Null | https://github.com/hhuobi78/fuzzy-telegram | 0 | 0| 
+| 20240104T11:47:10Z | Null | https://github.com/mariobross234/fuzzy-winner | 0 | 0| 
+| 20240104T11:02:25Z | fuzzer based on trustwave fuzzing algorithm | https://github.com/SpiralBL0CK/fuzzing-android | 0 | 0| 
+| 20240104T10:52:37Z | Implementation of Fuzzy-Logic in Python. | https://github.com/Shubhm1shra/Fuzzy-Logic | 0 | 0| 
+| 20240104T07:49:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9288 | 2078| 
 | 20240104T01:47:49Z | Fuzzing Maven-built C++ code with Mayhem | https://github.com/dbrumley/maven-example | 0 | 0| 
 | 20240104T01:33:04Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51079 | 23432| 
-| 20240103T23:41:07Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9285 | 2076| 
 | 20240103T23:27:05Z | JSON file - cut and paste the contents into DRIVE\CDDA\data\json\professions, being mindful of JSON formatting. | https://github.com/bradyaesplin/fuzzy-spork | 0 | 0| 
 | 20240103T20:58:28Z | Null | https://github.com/felipechatalov/fuzzy-logic | 0 | 0| 
 | 20240103T20:36:23Z | Null | https://github.com/google/fuzztest | 503 | 38| 
-| 20240103T19:12:29Z | Null | https://github.com/AntoineBlaud/win-fuzzer | 0 | 0| 
-| 20240103T13:27:51Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4208 | 859| 
-| 20240103T12:13:55Z | Null | https://github.com/Phoneria/Fuzzy-Inference-System | 0 | 0| 
-| 20240103T11:48:42Z | A fuzzy finder for vim | https://github.com/Donaldttt/fuzzyy | 55 | 8| 
 
 
 
