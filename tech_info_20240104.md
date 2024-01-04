@@ -73,7 +73,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240104T13:14:08Z | Null | https://github.com/JangJongMin/DongLang_Fuzz | 0 | 0| 
+| 20240104T13:27:19Z | Null | https://github.com/JangJongMin/DongLang_Fuzz | 0 | 0| 
 | 20240104T12:01:29Z | Null | https://github.com/hhuobi78/fuzzy-telegram | 0 | 0| 
 | 20240104T11:47:10Z | Null | https://github.com/mariobross234/fuzzy-winner | 0 | 0| 
 | 20240104T11:02:25Z | fuzzer based on trustwave fuzzing algorithm | https://github.com/SpiralBL0CK/fuzzing-android | 0 | 0| 
