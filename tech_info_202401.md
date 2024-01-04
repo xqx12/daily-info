@@ -50,6 +50,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240104T02:39:15Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0085-app-b9YSF-exploit-preserve | 0 | 0| 
 | 20240104T02:25:00Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0034-app-QD98Q-exploit-exploit | 0 | 0| 
 | 20240104T02:06:42Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0063-app-AZNKZ-exploit-doubt | 0 | 0| 
 | 20240104T01:55:42Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0074-app-UjcMl-decide-exploit | 0 | 0| 
@@ -59,7 +60,6 @@
 | 20240104T00:37:27Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-bh | 1 | 0| 
 | 20240104T00:36:33Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-bh | 1 | 0| 
 | 20240103T22:47:57Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5605 | 1086| 
-| 20240103T16:42:09Z | TheAnonymousXI%s Exploit Hub | https://github.com/TheAnonymousXAlt/TEH | 0 | 0| 
 
 
 # backdoor on Github 推荐
