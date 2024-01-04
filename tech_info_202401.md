@@ -100,6 +100,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240104T01:47:49Z | Fuzzing Maven-built C++ code with Mayhem | https://github.com/dbrumley/maven-example | 0 | 0| 
 | 20240104T01:33:04Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51079 | 23431| 
 | 20240103T23:41:07Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9285 | 2076| 
 | 20240103T23:27:05Z | JSON file - cut and paste the contents into DRIVE\CDDA\data\json\professions, being mindful of JSON formatting. | https://github.com/bradyaesplin/fuzzy-spork | 0 | 0| 
@@ -109,7 +110,6 @@
 | 20240103T13:27:51Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4208 | 859| 
 | 20240103T12:13:55Z | Null | https://github.com/Phoneria/Fuzzy-Inference-System | 0 | 0| 
 | 20240103T11:20:39Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 248 | 40| 
-| 20240103T10:07:12Z | Repository for testing the Google Fuzztest library | https://github.com/RuneSkovrupHansen/fuzztest_test | 0 | 0| 
 
 
 
