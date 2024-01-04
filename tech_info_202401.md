@@ -21,6 +21,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240104T13:03:00Z | CVE-2023-27163 | Proof-of-Concept for SSRF in request-baskets (<= v.1.2.1) | https://github.com/Rubioo02/CVE-2023-27163 | | 
 | 20240104T12:51:15Z | CVE-2023-51467 | Null | https://github.com/Subha-BOO7/Exploit_CVE-2023-51467 | | 
 | 20240104T12:08:40Z | CVE-2021-4034 | touch 生成文件 | https://github.com/cdxiaodong/CVE-2021-4034-touch | | 
 | 20240103T19:08:28Z | CVE-2023-51385 | Null | https://github.com/julienbrs/malicious-exploit-CVE-2023-51385 | | 
@@ -30,7 +31,6 @@
 | 20240103T12:28:57Z | CVE-2022-1388 | exploit poc | https://github.com/nvk0x/CVE-2022-1388-exploit | | 
 | 20240103T11:20:25Z | CVE-2022-0995 | CVE-2022-0995 exploit | https://github.com/1nzag/CVE-2022-0995 | | 
 | 20240103T07:27:52Z | CVE-2023-7172 | Null | https://github.com/sharathc213/CVE-2023-7172 | | 
-| 20240103T07:27:51Z | CVE-2023-7173 | Null | https://github.com/sharathc213/CVE-2023-7173 | | 
 
 
 # klee on Github 推荐
@@ -52,6 +52,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240104T13:01:08Z | Null | https://github.com/theduckymonk/IOS-Exploitation-Tools | 0 | 0| 
 | 20240104T12:51:15Z | Null | https://github.com/Subha-BOO7/Exploit_CVE-2023-51467 | 0 | 0| 
 | 20240104T12:46:21Z | Null | https://github.com/adamidarrha/exploitDev | 0 | 0| 
 | 20240104T11:53:33Z | A cool extension that allows you to customise Roblox and execute scripts on the Roblox clients on Windows 11! Customise and exploit stuff like the loading screen, app and studio! | https://github.com/JustAnEric/CustomiseRoblox | 2 | 0| 
@@ -61,22 +62,21 @@
 | 20240104T02:06:42Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0063-app-AZNKZ-exploit-doubt | 0 | 0| 
 | 20240104T01:55:42Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0074-app-UjcMl-decide-exploit | 0 | 0| 
 | 20240104T01:29:20Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0033-app-9pVAk-exploit-attack | 0 | 0| 
-| 20240104T00:38:46Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-bh | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240104T11:20:09Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 2423 | 890| 
+| 20240104T08:15:03Z | The X-Worm Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/RelyDelay/XWorm-V5.2-Edition-HVNC-RAT-DDOS-PASSWORDS-RANSOMWARE-CLIPPER-KEYLOGGER-UAC-BYPASS | 1 | 0| 
+| 20240104T07:01:45Z | nginx WebShell/内存马，更优雅的nignx backdoor | https://github.com/veo/nginx_shell | 143 | 10| 
+| 20240104T06:37:16Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 241 | 31| 
 | 20240104T02:28:50Z | Imperio is an LLM-powered backdoor attack. It allows the adversary to issue language-guided instructions to control the victim model%s prediction for arbitrary targets. | https://github.com/hkucs-kachow/Imperio | 4 | 0| 
 | 20240103T17:04:25Z | back-garage is sort of like a backdoor, but instead of a door, it%s a whole ass garage. this is built to target unix systems with systemd, and is therefore not the most stealthy. | https://github.com/SkepticSeptic/back-garage | 0 | 0| 
-| 20240103T13:19:39Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 2422 | 890| 
 | 20240103T13:04:36Z | Null | https://github.com/ai-control/backdoor_control_examples | 0 | 0| 
 | 20240103T11:12:06Z | Null | https://github.com/anthony1204/SpigotBackdoor | 0 | 0| 
 | 20240103T10:32:21Z | Null | https://github.com/toolwind/discord-backdoor | 0 | 0| 
-| 20240103T06:25:17Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 239 | 31| 
 | 20240103T02:23:12Z | Here is useful scripts collections. You can sign and forged tickets locally. only use secret file or secrets. without access to any remote.  | https://github.com/Esonhugh/TicketMaster | 3 | 1| 
-| 20240102T22:36:54Z | Backdoors tools | https://github.com/SikorUHQ/BackdoorsTools | 0 | 0| 
-| 20240102T15:17:38Z | The X-Worm Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/RelyDelay/XWorm-V5.2-Edition-HVNC-RAT-DDOS-PASSWORDS-RANSOMWARE-CLIPPER-KEYLOGGER-UAC-BYPASS | 1 | 0| 
 
 
 # symbolic execution on Github 推荐

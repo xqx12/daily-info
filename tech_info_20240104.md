@@ -16,6 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240104T13:03:00Z | CVE-2023-27163 | Proof-of-Concept for SSRF in request-baskets (<= v.1.2.1) | https://github.com/Rubioo02/CVE-2023-27163 | | 
 | 20240104T12:51:15Z | CVE-2023-51467 | Null | https://github.com/Subha-BOO7/Exploit_CVE-2023-51467 | | 
 | 20240104T12:08:40Z | CVE-2021-4034 | touch 生成文件 | https://github.com/cdxiaodong/CVE-2021-4034-touch | | 
 
@@ -35,6 +36,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240104T13:01:08Z | Null | https://github.com/theduckymonk/IOS-Exploitation-Tools | 0 | 0| 
 | 20240104T12:51:15Z | Null | https://github.com/Subha-BOO7/Exploit_CVE-2023-51467 | 0 | 0| 
 | 20240104T12:46:21Z | Null | https://github.com/adamidarrha/exploitDev | 0 | 0| 
 | 20240104T11:53:33Z | A cool extension that allows you to customise Roblox and execute scripts on the Roblox clients on Windows 11! Customise and exploit stuff like the loading screen, app and studio! | https://github.com/JustAnEric/CustomiseRoblox | 2 | 0| 
@@ -44,12 +46,15 @@
 | 20240104T02:06:42Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0063-app-AZNKZ-exploit-doubt | 0 | 0| 
 | 20240104T01:55:42Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0074-app-UjcMl-decide-exploit | 0 | 0| 
 | 20240104T01:29:20Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0033-app-9pVAk-exploit-attack | 0 | 0| 
-| 20240104T00:38:46Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-bh | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240104T11:20:09Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 2423 | 890| 
+| 20240104T08:15:03Z | The X-Worm Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/RelyDelay/XWorm-V5.2-Edition-HVNC-RAT-DDOS-PASSWORDS-RANSOMWARE-CLIPPER-KEYLOGGER-UAC-BYPASS | 1 | 0| 
+| 20240104T07:01:45Z | nginx WebShell/内存马，更优雅的nignx backdoor | https://github.com/veo/nginx_shell | 143 | 10| 
+| 20240104T06:37:16Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 241 | 31| 
 | 20240104T02:28:50Z | Imperio is an LLM-powered backdoor attack. It allows the adversary to issue language-guided instructions to control the victim model%s prediction for arbitrary targets. | https://github.com/hkucs-kachow/Imperio | 4 | 0| 
 
 
