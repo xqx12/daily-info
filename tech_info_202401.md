@@ -50,6 +50,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240104T02:25:00Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0034-app-QD98Q-exploit-exploit | 0 | 0| 
 | 20240104T02:06:42Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0063-app-AZNKZ-exploit-doubt | 0 | 0| 
 | 20240104T01:55:42Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0074-app-UjcMl-decide-exploit | 0 | 0| 
 | 20240104T01:29:20Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0033-app-9pVAk-exploit-attack | 0 | 0| 
@@ -59,7 +60,6 @@
 | 20240104T00:36:33Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-bh | 1 | 0| 
 | 20240103T22:47:57Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5605 | 1086| 
 | 20240103T16:42:09Z | TheAnonymousXI%s Exploit Hub | https://github.com/TheAnonymousXAlt/TEH | 0 | 0| 
-| 20240103T12:28:57Z | exploit poc | https://github.com/nvk0x/CVE-2022-1388-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -109,7 +109,7 @@
 | 20240103T19:12:29Z | Null | https://github.com/AntoineBlaud/win-fuzzer | 0 | 0| 
 | 20240103T13:27:51Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4208 | 859| 
 | 20240103T12:13:55Z | Null | https://github.com/Phoneria/Fuzzy-Inference-System | 0 | 0| 
-| 20240103T11:20:39Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 248 | 40| 
+| 20240103T11:48:42Z | A fuzzy finder for vim | https://github.com/Donaldttt/fuzzyy | 55 | 8| 
 
 
 

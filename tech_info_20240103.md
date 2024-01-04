@@ -94,9 +94,9 @@
 | 20240103T19:12:29Z | Null | https://github.com/AntoineBlaud/win-fuzzer | 0 | 0| 
 | 20240103T13:27:51Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4208 | 859| 
 | 20240103T12:13:55Z | Null | https://github.com/Phoneria/Fuzzy-Inference-System | 0 | 0| 
+| 20240103T11:48:42Z | A fuzzy finder for vim | https://github.com/Donaldttt/fuzzyy | 55 | 8| 
 | 20240103T11:20:39Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 248 | 40| 
 | 20240103T10:07:12Z | Repository for testing the Google Fuzztest library | https://github.com/RuneSkovrupHansen/fuzztest_test | 0 | 0| 
-| 20240103T10:00:58Z | Null | https://github.com/jung-gina/fuzzing_test | 0 | 0| 
 
 
 
