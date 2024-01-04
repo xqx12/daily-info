@@ -16,7 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240104T13:03:00Z | CVE-2023-27163 | Proof-of-Concept for SSRF in request-baskets (<= v.1.2.1) | https://github.com/Rubioo02/CVE-2023-27163 | | 
+| 20240104T13:05:31Z | CVE-2023-27163 | Proof-of-Concept for SSRF in request-baskets (<= v.1.2.1) | https://github.com/Rubioo02/CVE-2023-27163 | | 
 | 20240104T12:51:15Z | CVE-2023-51467 | Null | https://github.com/Subha-BOO7/Exploit_CVE-2023-51467 | | 
 | 20240104T12:08:40Z | CVE-2021-4034 | touch 生成文件 | https://github.com/cdxiaodong/CVE-2021-4034-touch | | 
 
