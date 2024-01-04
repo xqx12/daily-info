@@ -50,6 +50,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240104T01:55:42Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0074-app-UjcMl-decide-exploit | 0 | 0| 
 | 20240104T01:29:20Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0033-app-9pVAk-exploit-attack | 0 | 0| 
 | 20240104T00:38:46Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-bh | 1 | 0| 
 | 20240104T00:38:11Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-bh | 1 | 0| 
@@ -59,7 +60,6 @@
 | 20240103T16:42:09Z | TheAnonymousXI%s Exploit Hub | https://github.com/TheAnonymousXAlt/TEH | 0 | 0| 
 | 20240103T12:28:57Z | exploit poc | https://github.com/nvk0x/CVE-2022-1388-exploit | 0 | 0| 
 | 20240103T12:21:33Z | Null | https://github.com/maximusalterated/Aquire_-Dimensions_Exploitation_-exploit_ | 0 | 0| 
-| 20240103T10:44:28Z | Dexs, Binance, Bybit, Kucoin and more.. This project encompasses an artificial intelligence-driven software aimed at pre-detecting potential pump and dump events in the cryptocurrency market. It empowers users to automatically trade during these events, providing a proactive approach to exploiting reduced trading activity for potential profits. | https://github.com/Pump-Bot-Official/Pump-Bot-Premium | 1 | 1| 
 
 
 # backdoor on Github 推荐
