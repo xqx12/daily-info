@@ -65,8 +65,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240104T02:28:50Z | Imperio is an LLM-powered backdoor attack. It allows the adversary to issue language-guided instructions to control the victim model%s prediction for arbitrary targets. | https://github.com/hkucs-kachow/Imperio | 4 | 0| 
 | 20240103T17:04:25Z | back-garage is sort of like a backdoor, but instead of a door, it%s a whole ass garage. this is built to target unix systems with systemd, and is therefore not the most stealthy. | https://github.com/SkepticSeptic/back-garage | 0 | 0| 
-| 20240103T17:04:02Z | Imperio is an LLM-powered backdoor attack. It allows the adversary to issue language-guided instructions to control the victim model%s prediction for arbitrary targets. | https://github.com/hkucs-kachow/Imperio | 3 | 0| 
 | 20240103T13:19:39Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 2422 | 890| 
 | 20240103T13:04:36Z | Null | https://github.com/ai-control/backdoor_control_examples | 0 | 0| 
 | 20240103T11:12:06Z | Null | https://github.com/anthony1204/SpigotBackdoor | 0 | 0| 
