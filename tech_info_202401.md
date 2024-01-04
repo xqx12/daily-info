@@ -50,6 +50,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240104T02:06:42Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0063-app-AZNKZ-exploit-doubt | 0 | 0| 
 | 20240104T01:55:42Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0074-app-UjcMl-decide-exploit | 0 | 0| 
 | 20240104T01:29:20Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0033-app-9pVAk-exploit-attack | 0 | 0| 
 | 20240104T00:38:46Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-bh | 1 | 0| 
@@ -59,7 +60,6 @@
 | 20240103T22:47:57Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5605 | 1086| 
 | 20240103T16:42:09Z | TheAnonymousXI%s Exploit Hub | https://github.com/TheAnonymousXAlt/TEH | 0 | 0| 
 | 20240103T12:28:57Z | exploit poc | https://github.com/nvk0x/CVE-2022-1388-exploit | 0 | 0| 
-| 20240103T12:21:33Z | Null | https://github.com/maximusalterated/Aquire_-Dimensions_Exploitation_-exploit_ | 0 | 0| 
 
 
 # backdoor on Github 推荐
