@@ -21,6 +21,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240104T12:51:15Z | CVE-2023-51467 | Null | https://github.com/Subha-BOO7/Exploit_CVE-2023-51467 | | 
+| 20240104T12:08:40Z | CVE-2021-4034 | touch 生成文件 | https://github.com/cdxiaodong/CVE-2021-4034-touch | | 
 | 20240103T19:08:28Z | CVE-2023-51385 | Null | https://github.com/julienbrs/malicious-exploit-CVE-2023-51385 | | 
 | 20240103T18:40:44Z | CVE-2023-51385 | Null | https://github.com/julienbrs/exploit-CVE-2023-51385 | | 
 | 20240103T17:53:39Z | 未知编号 | Null | https://github.com/AngieDF21/cVerano2024 | | 
@@ -29,13 +31,13 @@
 | 20240103T11:20:25Z | CVE-2022-0995 | CVE-2022-0995 exploit | https://github.com/1nzag/CVE-2022-0995 | | 
 | 20240103T07:27:52Z | CVE-2023-7172 | Null | https://github.com/sharathc213/CVE-2023-7172 | | 
 | 20240103T07:27:51Z | CVE-2023-7173 | Null | https://github.com/sharathc213/CVE-2023-7173 | | 
-| 20240103T06:28:35Z | CVE-2023-51385 | Null | https://github.com/uccu99/CVE-2023-51385 | | 
-| 20240103T02:35:37Z | CVE-2020-11023 | CVE-2020-11023  PoC for bug bounty. | https://github.com/Cybernegro/CVE-2020-11023 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240104T07:56:15Z | Shell scripts about running coreutils experiment with KLEE | https://github.com/qichang3/coreutils-experiment | 0 | 0| 
+| 20240104T05:11:47Z | new to html and css if you see mistakes let me know! | https://github.com/kleelo-0/kleelo | 0 | 0| 
 | 20240103T07:43:39Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 104 | 22| 
 | 20240103T06:25:34Z | Minecraft Mod. Allows breaking only one half of a double slab block. | https://github.com/TwelveIterationMods/KleeSlabs | 16 | 7| 
 | 20240102T18:51:11Z | Null | https://github.com/LordGs/bomberKlee | 1 | 0| 
@@ -50,16 +52,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240104T12:51:15Z | Null | https://github.com/Subha-BOO7/Exploit_CVE-2023-51467 | 0 | 0| 
+| 20240104T12:46:21Z | Null | https://github.com/adamidarrha/exploitDev | 0 | 0| 
+| 20240104T11:53:33Z | A cool extension that allows you to customise Roblox and execute scripts on the Roblox clients on Windows 11! Customise and exploit stuff like the loading screen, app and studio! | https://github.com/JustAnEric/CustomiseRoblox | 2 | 0| 
+| 20240104T07:22:20Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5607 | 1086| 
 | 20240104T02:39:15Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0085-app-b9YSF-exploit-preserve | 0 | 0| 
 | 20240104T02:25:00Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0034-app-QD98Q-exploit-exploit | 0 | 0| 
 | 20240104T02:06:42Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0063-app-AZNKZ-exploit-doubt | 0 | 0| 
 | 20240104T01:55:42Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0074-app-UjcMl-decide-exploit | 0 | 0| 
 | 20240104T01:29:20Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0033-app-9pVAk-exploit-attack | 0 | 0| 
 | 20240104T00:38:46Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-bh | 1 | 0| 
-| 20240104T00:38:11Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-bh | 1 | 0| 
-| 20240104T00:37:27Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-bh | 1 | 0| 
-| 20240104T00:36:33Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-bh | 1 | 0| 
-| 20240103T22:47:57Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5605 | 1086| 
 
 
 # backdoor on Github 推荐
@@ -92,9 +94,9 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240103T23:42:32Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 78 | 8| 
+| 20240104T06:36:58Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 108 | 4| 
+| 20240104T03:27:43Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 79 | 8| 
 | 20240103T02:06:25Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 139 | 13| 
-| 20240102T09:07:22Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 107 | 4| 
 
 
 # fuzz on Github 推荐
