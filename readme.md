@@ -46,6 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240105T13:10:07Z | CMS Made Simple version 2.2.5 authenticated RCE HTTP and HTTPS scripts | https://github.com/kullaisec/CMS_Made_simple_exploit | 0 | 0| 
 | 20240105T12:41:31Z | Null | https://github.com/linuxpenguen/joomla-sql-injection-exploit | 1 | 0| 
 | 20240105T12:39:52Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 686 | 40| 
 | 20240105T09:45:41Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5612 | 1087| 
@@ -55,7 +56,6 @@
 | 20240105T02:36:19Z | Handy dotfiles, environments, and tools for binary exploitation | https://github.com/tf2spi/hackenv | 0 | 0| 
 | 20240105T02:22:26Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6273 | 819| 
 | 20240105T02:09:03Z | Null | https://github.com/julienbrs/exploit-CVE-2023-3460 | 0 | 0| 
-| 20240105T01:55:31Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0045-app-asCsh-plan-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
