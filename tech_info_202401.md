@@ -59,7 +59,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240105T13:14:33Z | SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery. | https://github.com/MegaManSec/SSH-Snake | 60 | 4| 
+| 20240105T13:15:17Z | SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery. | https://github.com/MegaManSec/SSH-Snake | 61 | 4| 
 | 20240105T13:10:56Z | CMS Made Simple version 2.2.5 authenticated RCE HTTP and HTTPS scripts | https://github.com/kullaisec/CMS_Made_simple_exploit | 0 | 0| 
 | 20240105T12:41:31Z | Null | https://github.com/linuxpenguen/joomla-sql-injection-exploit | 1 | 0| 
 | 20240105T12:39:52Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 686 | 40| 
