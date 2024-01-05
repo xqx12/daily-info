@@ -111,6 +111,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240105T13:05:02Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1729 | 337| 
 | 20240105T12:51:40Z | Null | https://github.com/Uday-04/Fuzzy-DEMATEL-Process | 0 | 0| 
 | 20240105T12:37:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9293 | 2078| 
 | 20240105T12:04:54Z | Null | https://github.com/oomeanujoo/fuzzl | 0 | 0| 
@@ -120,7 +121,6 @@
 | 20240105T02:18:28Z | SISTEM PAKAR KERUSAKAN HARDWARE LAPTOP MENGGUNAKAN METODE FUZZY LOGIC BERBASIS JAVA IDE NETBEANS 8.2 | https://github.com/HM-BlueBird/sistem-pakar-kerusakan-hardware-laptop-menggunakan-metode-fuzzy-logic | 0 | 0| 
 | 20240105T01:43:11Z | Null | https://github.com/dliyanage/predict_fuzz_artifacts | 0 | 0| 
 | 20240105T01:21:37Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51113 | 23437| 
-| 20240105T01:05:43Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 2387 | 43| 
 
 
 
