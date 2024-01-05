@@ -61,6 +61,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240105T13:39:23Z | Null | https://github.com/a-cup-of-joe/Optimized-Neuron-Pruning-For-Backdoor-Removal | 0 | 0| 
 | 20240105T13:19:34Z | Here is useful scripts collections. You can sign and forged tickets locally with secret keys or certificates. It%s useful when you want backdoor/make persistence in a such system without traces in system. | https://github.com/Esonhugh/TicketMaster | 4 | 1| 
 | 20240105T12:47:45Z | backdoor | https://github.com/0x235z/Backdoor | 0 | 0| 
 | 20240105T08:30:04Z | Code Repo for the NeurIPS 2023 paper %VillanDiffusion: A Unified Backdoor Attack Framework for Diffusion Models% | https://github.com/IBM/VillanDiffusion | 6 | 0| 
