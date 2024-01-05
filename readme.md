@@ -46,6 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240105T13:13:37Z | SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery. | https://github.com/MegaManSec/SSH-Snake | 59 | 4| 
 | 20240105T13:10:56Z | CMS Made Simple version 2.2.5 authenticated RCE HTTP and HTTPS scripts | https://github.com/kullaisec/CMS_Made_simple_exploit | 0 | 0| 
 | 20240105T12:41:31Z | Null | https://github.com/linuxpenguen/joomla-sql-injection-exploit | 1 | 0| 
 | 20240105T12:39:52Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 686 | 40| 
@@ -55,7 +56,6 @@
 | 20240105T02:36:36Z | Uncover the true IP address of websites safeguarded by Cloudflare & Others | https://github.com/spyboy-productions/CloakQuest3r | 650 | 95| 
 | 20240105T02:36:19Z | Handy dotfiles, environments, and tools for binary exploitation | https://github.com/tf2spi/hackenv | 0 | 0| 
 | 20240105T02:22:26Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6273 | 819| 
-| 20240105T02:09:03Z | Null | https://github.com/julienbrs/exploit-CVE-2023-3460 | 0 | 0| 
 
 
 # backdoor on Github 推荐
