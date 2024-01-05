@@ -93,10 +93,10 @@
 | 20240105T12:04:54Z | Null | https://github.com/oomeanujoo/fuzzl | 0 | 0| 
 | 20240105T10:46:44Z | Target components for kAFL/Nyx Fuzzer | https://github.com/IntelLabs/kafl.targets | 20 | 19| 
 | 20240105T09:23:11Z | Null | https://github.com/LahiruLakshangjgf/fuzzy-adventure | 0 | 0| 
+| 20240105T05:49:11Z | A collection of depth-limited grammar fuzzers implemented in C | https://github.com/Positron11/fuzzer | 0 | 0| 
 | 20240105T02:37:54Z | Ongoing development of the Fuzzball MUCK server software and associated functionality. | https://github.com/fuzzball-muck/fuzzball | 45 | 27| 
 | 20240105T02:18:28Z | SISTEM PAKAR KERUSAKAN HARDWARE LAPTOP MENGGUNAKAN METODE FUZZY LOGIC BERBASIS JAVA IDE NETBEANS 8.2 | https://github.com/HM-BlueBird/sistem-pakar-kerusakan-hardware-laptop-menggunakan-metode-fuzzy-logic | 0 | 0| 
 | 20240105T01:43:11Z | Null | https://github.com/dliyanage/predict_fuzz_artifacts | 0 | 0| 
-| 20240105T01:21:37Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51113 | 23437| 
 
 
 
