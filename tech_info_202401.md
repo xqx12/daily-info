@@ -21,21 +21,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240104T13:57:41Z | CVE-2023-27163 | A proof-of-concept for the CVE-2023-27163 (SSRF) vulnerability in the web application request-baskets (<= v.1.2.1) | https://github.com/Rubioo02/CVE-2023-27163 | | 
-| 20240104T12:51:15Z | CVE-2023-51467 | Null | https://github.com/Subha-BOO7/Exploit_CVE-2023-51467 | | 
-| 20240104T12:08:40Z | CVE-2021-4034 | touch 生成文件 | https://github.com/cdxiaodong/CVE-2021-4034-touch | | 
-| 20240103T19:08:28Z | CVE-2023-51385 | Null | https://github.com/julienbrs/malicious-exploit-CVE-2023-51385 | | 
-| 20240103T18:40:44Z | CVE-2023-51385 | Null | https://github.com/julienbrs/exploit-CVE-2023-51385 | | 
-| 20240103T17:53:39Z | 未知编号 | Null | https://github.com/AngieDF21/cVerano2024 | | 
-| 20240103T14:29:53Z | CVE-2023-48864 | CVE-2023-48864 | https://github.com/f3lze3/CVE-2023-48864 | | 
-| 20240103T12:28:57Z | CVE-2022-1388 | exploit poc | https://github.com/nvk0x/CVE-2022-1388-exploit | | 
-| 20240103T11:20:25Z | CVE-2022-0995 | CVE-2022-0995 exploit | https://github.com/1nzag/CVE-2022-0995 | | 
-| 20240103T07:27:52Z | CVE-2023-7172 | Null | https://github.com/sharathc213/CVE-2023-7172 | | 
+| 20240105T00:24:40Z | CVE-2022-24442 | CVE-2022-24442: FreeMarker Server-Side Template Injection in JetBrains YouTrack | https://github.com/mbadanoiu/CVE-2022-24442 | | 
+| 20240104T22:50:51Z | CVE-2021-26855 | Clone from gist | https://github.com/timb-machine-mirrors/testanull-CVE-2021-26855_read_poc.txt | | 
+| 20240104T22:43:19Z | CVE-2023-3460 | Null | https://github.com/julienbrs/exploit-CVE-2023-3460 | | 
+| 20240104T19:37:45Z | Cve-2023- | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Makas235/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
+| 20240104T19:35:09Z | Cve-2023- | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/Makas235/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
+| 20240104T19:35:02Z | Cve-2023- | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/Makas235/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
+| 20240104T19:34:23Z | Cve-2023- | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/Makas235/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
+| 20240104T17:04:49Z | CVE-2023-27163 | A exploit for the CVE-2023-27163 (SSRF) vulnerability in the web application request-baskets (<= v.1.2.1) | https://github.com/Rubioo02/CVE-2023-27163 | | 
+| 20240104T15:55:14Z | CVE-2023-6553 | Null | https://github.com/julienbrs/exploit-CVE-2023-6553 | | 
+| 20240104T15:52:21Z | CVE-2022-21661 | Script to validate WordPress CVE-2022-21661 | https://github.com/p4ncontomat3/CVE-2022-21661 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240104T21:06:06Z | Witch-KLEE - A KLEE-based error witness checker | https://github.com/ayazip/witch-klee | 5 | 0| 
 | 20240104T07:56:15Z | Shell scripts about running coreutils experiment with KLEE | https://github.com/qichang3/coreutils-experiment | 0 | 0| 
 | 20240104T05:11:47Z | new to html and css if you see mistakes let me know! | https://github.com/kleelo-0/kleelo | 0 | 0| 
 | 20240103T07:43:39Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 104 | 22| 
@@ -52,31 +53,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240104T13:40:52Z | PoC showing how to initially build and push to the internal registry and afterwards exploit an external Nexus registry  | https://github.com/fabiomartinelli/cakephp-from-internal-registry-to-nexus | 0 | 0| 
-| 20240104T13:08:42Z | searchsploit aracı ile exploit aramaya yarayan bu kod parçası işe yarayabilir. | https://github.com/Samettas16/Exploit-arama | 0 | 0| 
-| 20240104T13:01:08Z | Null | https://github.com/theduckymonk/IOS-Exploitation-Tools | 0 | 0| 
-| 20240104T12:51:15Z | Null | https://github.com/Subha-BOO7/Exploit_CVE-2023-51467 | 0 | 0| 
-| 20240104T12:46:21Z | Null | https://github.com/adamidarrha/exploitDev | 0 | 0| 
-| 20240104T11:53:33Z | A cool extension that allows you to customise Roblox and execute scripts on the Roblox clients on Windows 11! Customise and exploit stuff like the loading screen, app and studio! | https://github.com/JustAnEric/CustomiseRoblox | 2 | 0| 
-| 20240104T07:22:20Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5607 | 1086| 
-| 20240104T02:39:15Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0085-app-b9YSF-exploit-preserve | 0 | 0| 
-| 20240104T02:25:00Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0034-app-QD98Q-exploit-exploit | 0 | 0| 
-| 20240104T02:06:42Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0063-app-AZNKZ-exploit-doubt | 0 | 0| 
+| 20240105T00:19:06Z | Handy dotfiles, environments, and tools for binary exploitation | https://github.com/tf2spi/hackenv | 0 | 0| 
+| 20240105T00:06:26Z | Null | https://github.com/LUNAAR-SALT/Exploit | 0 | 0| 
+| 20240104T19:37:45Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Makas235/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
+| 20240104T19:35:09Z | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/Makas235/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
+| 20240104T19:35:02Z | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/Makas235/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
+| 20240104T19:34:23Z | Ephemeral discourse is embodied by the likes of Messenger Sessions, the digital portraits of Accounts, and the enigmatic Token | https://github.com/Makas235/Discord-Image-Logger-Slient-Exploit-Builder-Grabber-Stealer | 0 | 0| 
+| 20240104T19:34:23Z | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/Makas235/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
+| 20240104T18:32:54Z | External cheat for Rainbow Six Siege offering ESP, aimbot, and various tactical advantages. | https://github.com/SeaOrgCode/Klar-gg-Rainbow-Six-Siege-RS6-Esp-NoRroil-Hwid-Spoofer-Exploit | 0 | 0| 
+| 20240104T18:32:05Z | Developed for Escape From Tarkov and written in C++ and C#. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/SeaOrgCode/Escape-From-Tarkov-Eft-Aimbot-esp-Loots-Exploits-Max-Skills-High-Jump | 0 | 0| 
+| 20240104T17:25:40Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5610 | 1087| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240104T19:35:47Z | The S-500 G2 Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/Makas235/S500-RAT-HVNC-HAPP-HIdden-BROWSER-HRDP-REVERSE-PROXY-CRYPTO-MONITOR | 0 | 0| 
+| 20240104T19:35:23Z | Hidden VNC constitutes an ingenious stratagem harnessed by the most adept connoisseurs of technology. This method, by far, presents an exhilarating modality to govern the operation | https://github.com/Makas235/Pandora-HVNC-2FABypass-WebGL-Hidden-Desktop-Outlook-Foxmail-Stealer-Hidden-Browser | 0 | 0| 
+| 20240104T19:34:45Z | Remote Administration Either you are a private user wanting to control your PC from afar, or a big company which wants to administrate hundreds of machines from a single computer, | https://github.com/Makas235/ICARUS-NET2-NET4-BAT-VBS-VBA-HVNC-BINDER-PHP-FTPLOGS-RECOVERY-KEYLOG-WEBGL-ROOKIT | 0 | 0| 
+| 20240104T19:34:21Z | The X-Worm Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/Makas235/XWorm-V5.2-Edition-HVNC-RAT-DDOS-PASSWORDS-RANSOMWARE-CLIPPER-KEYLOGGER-UAC-BYPASS | 0 | 0| 
+| 20240104T18:39:44Z | AsyncRAT stands as a Remote Access Tool (RAT) conceived for the purpose of distant supervision and command over remote computers through an encrypted connection ensuring security. | https://github.com/RemixSonS/AsyncRAT-Fud-Fixed-Dll-Remote-Administration-Tool-New | 0 | 0| 
+| 20240104T18:39:36Z | BitRAT CrackedIt is meticulously constructed utilizing the C++ programming language. It stands as the most recent iteration of the premier PC RAT for the year 2023. Regarded as a prized tool | https://github.com/RemixSonS/Bitrat-Hvnc-Rat-Remote-Control-Av-Bypass | 0 | 0| 
+| 20240104T18:38:34Z | VenomControl Rat is a Remote Access Tool (RAT) designed to remotely monitor and control other computers through a secure encrypted connection | https://github.com/RemixSonS/VenomControl-Rat-Crack-Source | 0 | 0| 
+| 20240104T18:38:32Z | Computing) capabilities. It boasts compatibility with a spectrum of 20 concealed browsers. Pegasus HVNC facet facilitates the orchestration of a concealed desktop environment | https://github.com/RemixSonS/Pegasus-Pantheon-HVNC-V2-VNC-Hidden-Browser-Remote-Administration-Rat | 0 | 0| 
 | 20240104T11:20:09Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 2423 | 890| 
 | 20240104T08:15:03Z | The X-Worm Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/RelyDelay/XWorm-V5.2-Edition-HVNC-RAT-DDOS-PASSWORDS-RANSOMWARE-CLIPPER-KEYLOGGER-UAC-BYPASS | 1 | 0| 
-| 20240104T07:01:45Z | nginx WebShell/内存马，更优雅的nignx backdoor | https://github.com/veo/nginx_shell | 143 | 10| 
-| 20240104T06:37:16Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 241 | 31| 
-| 20240104T02:28:50Z | Imperio is an LLM-powered backdoor attack. It allows the adversary to issue language-guided instructions to control the victim model%s prediction for arbitrary targets. | https://github.com/hkucs-kachow/Imperio | 4 | 0| 
-| 20240103T17:04:25Z | back-garage is sort of like a backdoor, but instead of a door, it%s a whole ass garage. this is built to target unix systems with systemd, and is therefore not the most stealthy. | https://github.com/SkepticSeptic/back-garage | 0 | 0| 
-| 20240103T13:04:36Z | Null | https://github.com/ai-control/backdoor_control_examples | 0 | 0| 
-| 20240103T11:12:06Z | Null | https://github.com/anthony1204/SpigotBackdoor | 0 | 0| 
-| 20240103T10:32:21Z | Null | https://github.com/toolwind/discord-backdoor | 0 | 0| 
-| 20240103T02:23:12Z | Here is useful scripts collections. You can sign and forged tickets locally. only use secret file or secrets. without access to any remote.  | https://github.com/Esonhugh/TicketMaster | 3 | 1| 
 
 
 # symbolic execution on Github 推荐
@@ -102,16 +103,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240105T01:00:24Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1714 | 254| 
+| 20240105T00:39:42Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51111 | 23435| 
+| 20240105T00:15:26Z | Null | https://github.com/dliyanage/predict_fuzz_artifacts | 0 | 0| 
+| 20240104T20:58:58Z | Null | https://github.com/wittjosiah/fuzzy-octo-eureka | 0 | 0| 
+| 20240104T18:12:32Z | Null | https://github.com/DerEndgegner/fuzzy-octo-train | 0 | 0| 
+| 20240104T15:47:47Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9291 | 2078| 
 | 20240104T13:27:19Z | Null | https://github.com/JangJongMin/DongLang_Fuzz | 0 | 0| 
 | 20240104T12:01:29Z | Null | https://github.com/hhuobi78/fuzzy-telegram | 0 | 0| 
 | 20240104T11:47:10Z | Null | https://github.com/mariobross234/fuzzy-winner | 0 | 0| 
 | 20240104T11:02:25Z | fuzzer based on trustwave fuzzing algorithm | https://github.com/SpiralBL0CK/fuzzing-android | 0 | 0| 
-| 20240104T10:52:37Z | Implementation of Fuzzy-Logic in Python. | https://github.com/Shubhm1shra/Fuzzy-Logic | 0 | 0| 
-| 20240104T07:49:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9288 | 2078| 
-| 20240104T06:19:31Z | Jsonator is a tool designed to generate fuzzing wordlists specifically for JSON data structures. It aids in discovering potential vulnerabilities, misconfigurations, or edge cases in applications that handle JSON data. | https://github.com/0xdead4f/Jsonator | 0 | 0| 
-| 20240104T03:11:42Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1709 | 254| 
-| 20240104T02:58:09Z | Null | https://github.com/211250098/fuzz-mut-demos | 0 | 0| 
-| 20240104T01:47:49Z | Fuzzing Maven-built C++ code with Mayhem | https://github.com/dbrumley/maven-example | 0 | 0| 
 
 
 
