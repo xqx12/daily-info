@@ -53,6 +53,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240105T02:22:26Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6273 | 819| 
 | 20240105T02:09:03Z | Null | https://github.com/julienbrs/exploit-CVE-2023-3460 | 0 | 0| 
 | 20240105T01:55:31Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0045-app-asCsh-plan-exploit | 0 | 0| 
 | 20240105T01:20:56Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0015-app-EZuO_-phone-exploit | 0 | 0| 
@@ -62,7 +63,6 @@
 | 20240104T19:35:09Z | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/Makas235/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 | 20240104T19:35:02Z | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/Makas235/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 | 20240104T19:34:23Z | Ephemeral discourse is embodied by the likes of Messenger Sessions, the digital portraits of Accounts, and the enigmatic Token | https://github.com/Makas235/Discord-Image-Logger-Slient-Exploit-Builder-Grabber-Stealer | 0 | 0| 
-| 20240104T19:34:23Z | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/Makas235/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -83,10 +83,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240105T02:22:16Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 72 | 9| 
 | 20240104T16:47:15Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 723 | 128| 
 | 20240104T15:55:08Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2384 | 645| 
 | 20240103T20:57:36Z | Null | https://github.com/will43w/toy_symbolic_execution | 0 | 0| 
-| 20240103T06:38:10Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 71 | 9| 
 | 20240103T03:40:27Z | Symbolic execution of LLVM IR | https://github.com/can-lehmann/pathbeaver | 13 | 1| 
 | 20240102T10:31:52Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 25 | 12| 
 | 20240101T15:01:01Z | Python infrastructure to train paths selectors for symbolic execution engines. | https://github.com/gsvgit/PySymGym | 1 | 0| 
