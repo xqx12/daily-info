@@ -74,6 +74,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240105T13:19:34Z | Here is useful scripts collections. You can sign and forged tickets locally with secret keys or certificates. It%s useful when you want backdoor/make persistence in a such system without traces in system. | https://github.com/Esonhugh/TicketMaster | 4 | 1| 
 | 20240105T12:47:45Z | backdoor | https://github.com/0x235z/Backdoor | 0 | 0| 
 | 20240105T08:30:04Z | Code Repo for the NeurIPS 2023 paper %VillanDiffusion: A Unified Backdoor Attack Framework for Diffusion Models% | https://github.com/IBM/VillanDiffusion | 6 | 0| 
 | 20240105T07:49:50Z | Project of Machine Learning, taught by Junbo Zhao | https://github.com/YichiCS/Backdoor_Evaluation_Platform | 0 | 0| 
@@ -83,7 +84,6 @@
 | 20240104T19:35:23Z | Hidden VNC constitutes an ingenious stratagem harnessed by the most adept connoisseurs of technology. This method, by far, presents an exhilarating modality to govern the operation | https://github.com/Makas235/Pandora-HVNC-2FABypass-WebGL-Hidden-Desktop-Outlook-Foxmail-Stealer-Hidden-Browser | 0 | 0| 
 | 20240104T19:34:45Z | Remote Administration Either you are a private user wanting to control your PC from afar, or a big company which wants to administrate hundreds of machines from a single computer, | https://github.com/Makas235/ICARUS-NET2-NET4-BAT-VBS-VBA-HVNC-BINDER-PHP-FTPLOGS-RECOVERY-KEYLOG-WEBGL-ROOKIT | 0 | 0| 
 | 20240104T19:34:21Z | The X-Worm Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/Makas235/XWorm-V5.2-Edition-HVNC-RAT-DDOS-PASSWORDS-RANSOMWARE-CLIPPER-KEYLOGGER-UAC-BYPASS | 0 | 0| 
-| 20240104T18:39:44Z | AsyncRAT stands as a Remote Access Tool (RAT) conceived for the purpose of distant supervision and command over remote computers through an encrypted connection ensuring security. | https://github.com/RemixSonS/AsyncRAT-Fud-Fixed-Dll-Remote-Administration-Tool-New | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
