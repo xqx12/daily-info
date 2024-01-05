@@ -103,6 +103,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240105T02:00:07Z | SISTEM PAKAR KERUSAKAN HARDWARE LAPTOP MENGGUNAKAN METODE FUZZY LOGIC BERBASIS JAVA IDE NETBEANS 8.2 | https://github.com/HM-BlueBird/sistem-pakar-kerusakan-hardware-laptop-menggunakan-metode-fuzzy-logic | 0 | 0| 
 | 20240105T01:43:11Z | Null | https://github.com/dliyanage/predict_fuzz_artifacts | 0 | 0| 
 | 20240105T01:21:37Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51113 | 23437| 
 | 20240105T01:05:43Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 2387 | 43| 
@@ -112,7 +113,6 @@
 | 20240104T15:47:47Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9291 | 2078| 
 | 20240104T13:27:19Z | Null | https://github.com/JangJongMin/DongLang_Fuzz | 0 | 0| 
 | 20240104T12:01:29Z | Null | https://github.com/hhuobi78/fuzzy-telegram | 0 | 0| 
-| 20240104T11:47:10Z | Null | https://github.com/mariobross234/fuzzy-winner | 0 | 0| 
 
 
 
