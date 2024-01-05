@@ -90,6 +90,7 @@
 | --- | --- | --- | --- | ---| 
 | 20240104T20:58:58Z | Null | https://github.com/wittjosiah/fuzzy-octo-eureka | 0 | 0| 
 | 20240104T18:12:32Z | Null | https://github.com/DerEndgegner/fuzzy-octo-train | 0 | 0| 
+| 20240104T15:51:01Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5139 | 555| 
 | 20240104T15:47:47Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9291 | 2078| 
 | 20240104T13:27:19Z | Null | https://github.com/JangJongMin/DongLang_Fuzz | 0 | 0| 
 | 20240104T12:01:29Z | Null | https://github.com/hhuobi78/fuzzy-telegram | 0 | 0| 
@@ -97,7 +98,6 @@
 | 20240104T11:02:25Z | fuzzer based on trustwave fuzzing algorithm | https://github.com/SpiralBL0CK/fuzzing-android | 0 | 0| 
 | 20240104T10:52:37Z | Implementation of Fuzzy-Logic in Python. | https://github.com/Shubhm1shra/Fuzzy-Logic | 0 | 0| 
 | 20240104T06:19:31Z | Jsonator is a tool designed to generate fuzzing wordlists specifically for JSON data structures. It aids in discovering potential vulnerabilities, misconfigurations, or edge cases in applications that handle JSON data. | https://github.com/0xdead4f/Jsonator | 0 | 0| 
-| 20240104T02:58:09Z | Null | https://github.com/211250098/fuzz-mut-demos | 0 | 0| 
 
 
 

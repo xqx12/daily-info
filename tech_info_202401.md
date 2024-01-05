@@ -111,8 +111,8 @@
 | 20240105T01:00:24Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1714 | 254| 
 | 20240104T20:58:58Z | Null | https://github.com/wittjosiah/fuzzy-octo-eureka | 0 | 0| 
 | 20240104T18:12:32Z | Null | https://github.com/DerEndgegner/fuzzy-octo-train | 0 | 0| 
+| 20240104T15:51:01Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5139 | 555| 
 | 20240104T15:47:47Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9291 | 2078| 
-| 20240104T13:27:19Z | Null | https://github.com/JangJongMin/DongLang_Fuzz | 0 | 0| 
 
 
 
