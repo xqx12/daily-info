@@ -53,6 +53,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240105T02:37:52Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0034-app-oNAgZ-step-exploit | 0 | 0| 
 | 20240105T02:36:36Z | Uncover the true IP address of websites safeguarded by Cloudflare & Others | https://github.com/spyboy-productions/CloakQuest3r | 650 | 95| 
 | 20240105T02:36:19Z | Handy dotfiles, environments, and tools for binary exploitation | https://github.com/tf2spi/hackenv | 0 | 0| 
 | 20240105T02:22:26Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6273 | 819| 
@@ -62,7 +63,6 @@
 | 20240105T00:06:26Z | Null | https://github.com/LUNAAR-SALT/Exploit | 0 | 0| 
 | 20240104T19:37:45Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Makas235/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 | 20240104T19:35:09Z | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/Makas235/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
-| 20240104T19:35:02Z | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/Makas235/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -103,6 +103,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240105T02:37:54Z | Ongoing development of the Fuzzball MUCK server software and associated functionality. | https://github.com/fuzzball-muck/fuzzball | 45 | 27| 
 | 20240105T02:18:28Z | SISTEM PAKAR KERUSAKAN HARDWARE LAPTOP MENGGUNAKAN METODE FUZZY LOGIC BERBASIS JAVA IDE NETBEANS 8.2 | https://github.com/HM-BlueBird/sistem-pakar-kerusakan-hardware-laptop-menggunakan-metode-fuzzy-logic | 0 | 0| 
 | 20240105T01:43:11Z | Null | https://github.com/dliyanage/predict_fuzz_artifacts | 0 | 0| 
 | 20240105T01:21:37Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51113 | 23437| 
@@ -112,7 +113,6 @@
 | 20240104T18:12:32Z | Null | https://github.com/DerEndgegner/fuzzy-octo-train | 0 | 0| 
 | 20240104T15:47:47Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9291 | 2078| 
 | 20240104T13:27:19Z | Null | https://github.com/JangJongMin/DongLang_Fuzz | 0 | 0| 
-| 20240104T12:01:29Z | Null | https://github.com/hhuobi78/fuzzy-telegram | 0 | 0| 
 
 
 
