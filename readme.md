@@ -17,7 +17,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20240104T22:50:51Z | CVE-2021-26855 | Clone from gist | https://github.com/timb-machine-mirrors/testanull-CVE-2021-26855_read_poc.txt | | 
-| 20240104T22:43:19Z | CVE-2023-3460 | Null | https://github.com/julienbrs/exploit-CVE-2023-3460 | | 
 | 20240104T19:37:45Z | Cve-2023- | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Makas235/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 | 20240104T19:35:09Z | Cve-2023- | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/Makas235/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 | 20240104T19:35:02Z | Cve-2023- | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/Makas235/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
@@ -26,6 +25,7 @@
 | 20240104T15:55:14Z | CVE-2023-6553 | Null | https://github.com/julienbrs/exploit-CVE-2023-6553 | | 
 | 20240104T15:52:21Z | CVE-2022-21661 | Script to validate WordPress CVE-2022-21661 | https://github.com/p4ncontomat3/CVE-2022-21661 | | 
 | 20240104T12:51:15Z | CVE-2023-51467 | Null | https://github.com/Subha-BOO7/Exploit_CVE-2023-51467 | | 
+| 20240104T12:08:40Z | CVE-2021-4034 | touch 生成文件 | https://github.com/cdxiaodong/CVE-2021-4034-touch | | 
 
 
 # klee on Github 推荐
