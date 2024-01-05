@@ -53,6 +53,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240105T01:20:56Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0015-app-EZuO_-phone-exploit | 0 | 0| 
 | 20240105T00:19:06Z | Handy dotfiles, environments, and tools for binary exploitation | https://github.com/tf2spi/hackenv | 0 | 0| 
 | 20240105T00:06:26Z | Null | https://github.com/LUNAAR-SALT/Exploit | 0 | 0| 
 | 20240104T19:37:45Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Makas235/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
@@ -62,7 +63,6 @@
 | 20240104T19:34:23Z | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/Makas235/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 | 20240104T18:45:12Z | Uncover the true IP address of websites safeguarded by Cloudflare & Others | https://github.com/spyboy-productions/CloakQuest3r | 648 | 95| 
 | 20240104T18:32:54Z | External cheat for Rainbow Six Siege offering ESP, aimbot, and various tactical advantages. | https://github.com/SeaOrgCode/Klar-gg-Rainbow-Six-Siege-RS6-Esp-NoRroil-Hwid-Spoofer-Exploit | 0 | 0| 
-| 20240104T18:32:05Z | Developed for Escape From Tarkov and written in C++ and C#. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/SeaOrgCode/Escape-From-Tarkov-Eft-Aimbot-esp-Loots-Exploits-Max-Skills-High-Jump | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -103,7 +103,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240105T01:10:46Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51112 | 23436| 
+| 20240105T01:21:37Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51113 | 23437| 
 | 20240105T01:05:43Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 2387 | 43| 
 | 20240105T01:00:24Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1714 | 254| 
 | 20240105T00:15:26Z | Null | https://github.com/dliyanage/predict_fuzz_artifacts | 0 | 0| 
