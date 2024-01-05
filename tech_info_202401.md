@@ -61,8 +61,8 @@
 | 20240104T19:37:45Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Makas235/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 | 20240104T19:35:09Z | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/Makas235/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 | 20240104T19:35:02Z | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/Makas235/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
-| 20240104T19:34:23Z | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/Makas235/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 | 20240104T19:34:23Z | Ephemeral discourse is embodied by the likes of Messenger Sessions, the digital portraits of Accounts, and the enigmatic Token | https://github.com/Makas235/Discord-Image-Logger-Slient-Exploit-Builder-Grabber-Stealer | 0 | 0| 
+| 20240104T19:34:23Z | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/Makas235/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 
 
 # backdoor on Github 推荐
