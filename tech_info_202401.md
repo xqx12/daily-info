@@ -53,6 +53,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240105T01:55:31Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0045-app-asCsh-plan-exploit | 0 | 0| 
 | 20240105T01:20:56Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0015-app-EZuO_-phone-exploit | 0 | 0| 
 | 20240105T00:19:06Z | Handy dotfiles, environments, and tools for binary exploitation | https://github.com/tf2spi/hackenv | 0 | 0| 
 | 20240105T00:06:26Z | Null | https://github.com/LUNAAR-SALT/Exploit | 0 | 0| 
@@ -62,7 +63,6 @@
 | 20240104T19:34:23Z | Ephemeral discourse is embodied by the likes of Messenger Sessions, the digital portraits of Accounts, and the enigmatic Token | https://github.com/Makas235/Discord-Image-Logger-Slient-Exploit-Builder-Grabber-Stealer | 0 | 0| 
 | 20240104T19:34:23Z | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/Makas235/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 | 20240104T18:45:12Z | Uncover the true IP address of websites safeguarded by Cloudflare & Others | https://github.com/spyboy-productions/CloakQuest3r | 648 | 95| 
-| 20240104T18:32:54Z | External cheat for Rainbow Six Siege offering ESP, aimbot, and various tactical advantages. | https://github.com/SeaOrgCode/Klar-gg-Rainbow-Six-Siege-RS6-Esp-NoRroil-Hwid-Spoofer-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
