@@ -70,6 +70,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240106T13:40:30Z | Fuzzy Logic-Based Workout Session Intensity Calculator | https://github.com/DaliaRefaat/Fuzzy-Logic-Based-Workout-Session-Intensity-Calculator | 0 | 0| 
 | 20240106T13:29:30Z | workout session intensity using fuzzy logic  | https://github.com/DaliaRefaat/workout-session-intensity-using-fuzzy-logic | 0 | 0| 
 | 20240106T13:28:37Z | Repo with custom word-lists and mix word-lists | https://github.com/incogbyte/fuzzylists | 0 | 0| 
 | 20240106T12:23:41Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51159 | 23445| 
@@ -79,7 +80,6 @@
 | 20240106T05:14:07Z | Fuzzing tool for web application penetration test | https://github.com/ss0832/FuzzingTool | 0 | 0| 
 | 20240106T03:46:18Z | Online Exam System for Image Base Examinations  | https://github.com/Adhikram/fuzzy_tutor | 0 | 0| 
 | 20240106T02:26:56Z | 一个编程小白，请多多关照！  A programming novice, please take care! | https://github.com/3801482335/fuzzy-octo-disco | 0 | 0| 
-| 20240106T00:34:42Z | Null | https://github.com/Profvmarques/fuzzy_cloud_computing | 0 | 0| 
 
 
 
