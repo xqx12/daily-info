@@ -66,11 +66,11 @@
 | 20240106T00:27:46Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-gh | 1 | 0| 
 | 20240106T00:27:02Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-gh | 1 | 0| 
 | 20240105T18:37:38Z | Play with web scanning, exploit development, %phishing% and crawling using my most favorite Rust pl. Focusing on learning good optimization offered by Rust along the way. | https://github.com/DilnozaBobokalonova1/rust-blackhat | 0 | 0| 
+| 20240105T15:48:17Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 80 | 12| 
 | 20240105T13:51:34Z | SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery. | https://github.com/MegaManSec/SSH-Snake | 68 | 4| 
 | 20240105T13:29:30Z | Null | https://github.com/shyeun/exploit | 0 | 0| 
 | 20240105T13:10:56Z | CMS Made Simple version 2.2.5 authenticated RCE HTTP and HTTPS scripts | https://github.com/kullaisec/CMS_Made_simple_exploit | 0 | 0| 
 | 20240105T12:41:31Z | Null | https://github.com/linuxpenguen/joomla-sql-injection-exploit | 1 | 0| 
-| 20240105T12:39:52Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 686 | 40| 
 
 
 # backdoor on Github 推荐

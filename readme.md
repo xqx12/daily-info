@@ -49,6 +49,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20240105T18:37:38Z | Play with web scanning, exploit development, %phishing% and crawling using my most favorite Rust pl. Focusing on learning good optimization offered by Rust along the way. | https://github.com/DilnozaBobokalonova1/rust-blackhat | 0 | 0| 
+| 20240105T15:48:17Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 80 | 12| 
 | 20240105T13:51:34Z | SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery. | https://github.com/MegaManSec/SSH-Snake | 68 | 4| 
 | 20240105T13:29:30Z | Null | https://github.com/shyeun/exploit | 0 | 0| 
 | 20240105T13:10:56Z | CMS Made Simple version 2.2.5 authenticated RCE HTTP and HTTPS scripts | https://github.com/kullaisec/CMS_Made_simple_exploit | 0 | 0| 
@@ -57,7 +58,6 @@
 | 20240105T09:45:41Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5612 | 1087| 
 | 20240105T05:44:40Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3783 | 547| 
 | 20240105T02:37:52Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0034-app-oNAgZ-step-exploit | 0 | 0| 
-| 20240105T02:36:36Z | Uncover the true IP address of websites safeguarded by Cloudflare & Others | https://github.com/spyboy-productions/CloakQuest3r | 650 | 95| 
 
 
 # backdoor on Github 推荐
