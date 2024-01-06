@@ -114,6 +114,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240106T02:26:56Z | 一个编程小白，请多多关照！  A programming novice, please take care! | https://github.com/3801482335/fuzzy-octo-disco | 0 | 0| 
 | 20240106T00:34:42Z | Null | https://github.com/Profvmarques/fuzzy_cloud_computing | 0 | 0| 
 | 20240106T00:27:45Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51149 | 23441| 
 | 20240105T23:42:29Z | Rawanigak | https://github.com/Rawanigak/fuzzy-goggles | 0 | 0| 
@@ -123,7 +124,6 @@
 | 20240105T12:37:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9293 | 2078| 
 | 20240105T12:04:54Z | Null | https://github.com/oomeanujoo/fuzzl | 0 | 0| 
 | 20240105T10:46:44Z | Target components for kAFL/Nyx Fuzzer | https://github.com/IntelLabs/kafl.targets | 20 | 19| 
-| 20240105T09:23:11Z | Null | https://github.com/LahiruLakshangjgf/fuzzy-adventure | 0 | 0| 
 
 
 
