@@ -26,9 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240106T13:56:37Z | CVE-2023-51467 | Apache Ofbiz CVE-2023-51467  图形化漏洞利用工具 | https://github.com/JaneMandy/CVE-2023-51467-Exploit | | 
 | 20240106T13:23:35Z | CVE-2023-31446 | Repository contains description for CVE-2023-31446 | https://github.com/Dodge-MPTC/CVE-2023-31446-Remote-Code-Execution | | 
 | 20240106T13:17:24Z | CVE-2023-27163 | Null | https://github.com/madhavmehndiratta/CVE-2023-27163 | | 
-| 20240106T12:04:43Z | CVE-2023-51467 | Apache Ofbiz CVE-2023-51467  图形化漏洞利用工具 | https://github.com/JaneMandy/CVE-2023-51467-Exploit | | 
 | 20240105T10:22:41Z | CVE-2023-40084 | Null | https://github.com/Trinadh465/platform_system_netd_AOSP10_r33_CVE-2023-40084 | | 
 | 20240105T09:51:22Z | CVE-2020-11110 | Proof of concept for CVE-2020-11110, for educational purpose only | https://github.com/AVE-Stoik/CVE-2020-11110-Proof-of-Concept | | 
 | 20240105T07:12:42Z | CVE-2023-51764 | CVE-2023-51764 poc | https://github.com/Double-q1015/CVE-2023-51764 | | 
