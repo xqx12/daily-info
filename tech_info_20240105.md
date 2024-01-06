@@ -48,6 +48,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240105T18:37:38Z | Play with web scanning, exploit development, %phishing% and crawling using my most favorite Rust pl. Focusing on learning good optimization offered by Rust along the way. | https://github.com/DilnozaBobokalonova1/rust-blackhat | 0 | 0| 
 | 20240105T13:51:34Z | SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery. | https://github.com/MegaManSec/SSH-Snake | 68 | 4| 
 | 20240105T13:29:30Z | Null | https://github.com/shyeun/exploit | 0 | 0| 
 | 20240105T13:10:56Z | CMS Made Simple version 2.2.5 authenticated RCE HTTP and HTTPS scripts | https://github.com/kullaisec/CMS_Made_simple_exploit | 0 | 0| 
@@ -57,7 +58,6 @@
 | 20240105T05:44:40Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3783 | 547| 
 | 20240105T02:37:52Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0034-app-oNAgZ-step-exploit | 0 | 0| 
 | 20240105T02:36:36Z | Uncover the true IP address of websites safeguarded by Cloudflare & Others | https://github.com/spyboy-productions/CloakQuest3r | 650 | 95| 
-| 20240105T02:36:19Z | Handy dotfiles, environments, and tools for binary exploitation | https://github.com/tf2spi/hackenv | 0 | 0| 
 
 
 # backdoor on Github 推荐
