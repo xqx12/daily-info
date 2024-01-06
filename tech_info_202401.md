@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240106T13:16:30Z | CVE-2023-27163 | Null | https://github.com/madhavmehndiratta/CVE-2023-27163 | | 
 | 20240106T12:59:28Z | CVE-2023-31446 | Repository contains description for CVE-2023-31446 | https://github.com/Dodge-MPTC/CVE-2023-31446-Remote-Code-Execution | | 
 | 20240106T12:04:43Z | CVE-2023-51467 | Apache Ofbiz CVE-2023-51467  图形化漏洞利用工具 | https://github.com/JaneMandy/CVE-2023-51467-Exploit | | 
 | 20240105T10:22:41Z | CVE-2023-40084 | Null | https://github.com/Trinadh465/platform_system_netd_AOSP10_r33_CVE-2023-40084 | | 
@@ -35,7 +36,6 @@
 | 20240105T02:09:03Z | CVE-2023-3460 | Null | https://github.com/julienbrs/exploit-CVE-2023-3460 | | 
 | 20240105T00:24:40Z | CVE-2022-24442 | CVE-2022-24442: FreeMarker Server-Side Template Injection in JetBrains YouTrack | https://github.com/mbadanoiu/CVE-2022-24442 | | 
 | 20240104T22:50:51Z | CVE-2021-26855 | Clone from gist | https://github.com/timb-machine-mirrors/testanull-CVE-2021-26855_read_poc.txt | | 
-| 20240104T19:37:45Z | Cve-2023- | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Makas235/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 
 
 # klee on Github 推荐

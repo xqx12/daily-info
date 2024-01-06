@@ -16,6 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240106T13:16:30Z | CVE-2023-27163 | Null | https://github.com/madhavmehndiratta/CVE-2023-27163 | | 
 | 20240106T12:59:28Z | CVE-2023-31446 | Repository contains description for CVE-2023-31446 | https://github.com/Dodge-MPTC/CVE-2023-31446-Remote-Code-Execution | | 
 | 20240106T12:04:43Z | CVE-2023-51467 | Apache Ofbiz CVE-2023-51467  图形化漏洞利用工具 | https://github.com/JaneMandy/CVE-2023-51467-Exploit | | 
 
