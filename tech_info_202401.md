@@ -41,6 +41,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240105T22:46:34Z | Null | https://github.com/EPmaple/Klee-DCslimebot-JSversion | 0 | 0| 
+| 20240105T17:27:30Z | Reader zu den Entspannungsmassage-Workshops von Oliver Klee | https://github.com/oliverklee/massagereader | 5 | 1| 
 | 20240104T21:06:06Z | Witch-KLEE - A KLEE-based error witness checker | https://github.com/ayazip/witch-klee | 5 | 0| 
 | 20240104T07:56:15Z | Shell scripts about running coreutils experiment with KLEE | https://github.com/qichang3/coreutils-experiment | 0 | 0| 
 | 20240104T05:11:47Z | new to html and css if you see mistakes let me know! | https://github.com/kleelo-0/kleelo | 0 | 0| 
@@ -59,31 +61,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240106T00:29:30Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-gh | 1 | 0| 
+| 20240106T00:28:42Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-gh | 1 | 0| 
+| 20240106T00:27:46Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-gh | 1 | 0| 
+| 20240106T00:27:02Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-gh | 1 | 0| 
 | 20240105T13:51:34Z | SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery. | https://github.com/MegaManSec/SSH-Snake | 68 | 4| 
 | 20240105T13:29:30Z | Null | https://github.com/shyeun/exploit | 0 | 0| 
 | 20240105T13:10:56Z | CMS Made Simple version 2.2.5 authenticated RCE HTTP and HTTPS scripts | https://github.com/kullaisec/CMS_Made_simple_exploit | 0 | 0| 
 | 20240105T12:41:31Z | Null | https://github.com/linuxpenguen/joomla-sql-injection-exploit | 1 | 0| 
 | 20240105T12:39:52Z | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | 686 | 40| 
 | 20240105T09:45:41Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5612 | 1087| 
-| 20240105T05:44:40Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3783 | 547| 
-| 20240105T02:37:52Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0034-app-oNAgZ-step-exploit | 0 | 0| 
-| 20240105T02:36:36Z | Uncover the true IP address of websites safeguarded by Cloudflare & Others | https://github.com/spyboy-productions/CloakQuest3r | 650 | 95| 
-| 20240105T02:36:19Z | Handy dotfiles, environments, and tools for binary exploitation | https://github.com/tf2spi/hackenv | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240105T18:28:44Z | Null | https://github.com/Uno13x/backdoorsimples | 0 | 0| 
+| 20240105T17:50:01Z | Repository Consists of Code that Implements  Backdoor Attacks and Defenses on DNN%s | https://github.com/MarkoHaralovic/DL_cyber_attacks | 3 | 0| 
+| 20240105T15:50:09Z | PHP shell backdoors list  ( collection ) | https://github.com/1337r0j4n/php-backdoors | 92 | 43| 
 | 20240105T13:39:23Z | Null | https://github.com/a-cup-of-joe/Optimized-Neuron-Pruning-For-Backdoor-Removal | 0 | 0| 
 | 20240105T13:19:34Z | Here is useful scripts collections. You can sign and forged tickets locally with secret keys or certificates. It%s useful when you want backdoor/make persistence in a such system without traces in system. | https://github.com/Esonhugh/TicketMaster | 4 | 1| 
 | 20240105T12:47:45Z | backdoor | https://github.com/0x235z/Backdoor | 0 | 0| 
+| 20240105T11:54:46Z | Imperio is an LLM-powered backdoor attack. It allows the adversary to issue language-guided instructions to control the victim model%s prediction for arbitrary targets. | https://github.com/hkucs-kachow/Imperio | 5 | 0| 
 | 20240105T08:30:04Z | Code Repo for the NeurIPS 2023 paper %VillanDiffusion: A Unified Backdoor Attack Framework for Diffusion Models% | https://github.com/IBM/VillanDiffusion | 6 | 0| 
 | 20240105T07:49:50Z | Project of Machine Learning, taught by Junbo Zhao | https://github.com/YichiCS/Backdoor_Evaluation_Platform | 0 | 0| 
 | 20240105T07:29:23Z | Backdoor attack with bokeh effects | https://github.com/Junjian-L/BABE | 0 | 0| 
-| 20240105T05:06:00Z | codes for paper %Object-Oriented Backdoor Attack against Image Captioning% | https://github.com/meiling-fdu/ImageCaptioningBackdoor | 0 | 0| 
-| 20240104T19:35:47Z | The S-500 G2 Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/Makas235/S500-RAT-HVNC-HAPP-HIdden-BROWSER-HRDP-REVERSE-PROXY-CRYPTO-MONITOR | 0 | 0| 
-| 20240104T19:35:23Z | Hidden VNC constitutes an ingenious stratagem harnessed by the most adept connoisseurs of technology. This method, by far, presents an exhilarating modality to govern the operation | https://github.com/Makas235/Pandora-HVNC-2FABypass-WebGL-Hidden-Desktop-Outlook-Foxmail-Stealer-Hidden-Browser | 0 | 0| 
-| 20240104T19:34:45Z | Remote Administration Either you are a private user wanting to control your PC from afar, or a big company which wants to administrate hundreds of machines from a single computer, | https://github.com/Makas235/ICARUS-NET2-NET4-BAT-VBS-VBA-HVNC-BINDER-PHP-FTPLOGS-RECOVERY-KEYLOG-WEBGL-ROOKIT | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -102,7 +104,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240105T13:20:59Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 84 | 8| 
+| 20240105T21:39:06Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 85 | 8| 
 | 20240105T09:36:00Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 140 | 13| 
 | 20240105T06:19:49Z | Null | https://github.com/Compass-All/NDSS24-CAGE | 0 | 0| 
 | 20240104T06:36:58Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 108 | 4| 
@@ -111,16 +113,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240106T00:34:42Z | Null | https://github.com/Profvmarques/fuzzy_cloud_computing | 0 | 0| 
+| 20240106T00:27:45Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51149 | 23439| 
+| 20240105T23:42:29Z | Rawanigak | https://github.com/Rawanigak/fuzzy-goggles | 0 | 0| 
+| 20240105T19:12:18Z | Null | https://github.com/lorchrob/grammar-based_fuzzing | 0 | 0| 
 | 20240105T13:05:02Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1729 | 336| 
 | 20240105T12:51:40Z | Null | https://github.com/Uday-04/Fuzzy-DEMATEL-Process | 0 | 0| 
 | 20240105T12:37:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9293 | 2078| 
 | 20240105T12:04:54Z | Null | https://github.com/oomeanujoo/fuzzl | 0 | 0| 
 | 20240105T10:46:44Z | Target components for kAFL/Nyx Fuzzer | https://github.com/IntelLabs/kafl.targets | 20 | 19| 
 | 20240105T09:23:11Z | Null | https://github.com/LahiruLakshangjgf/fuzzy-adventure | 0 | 0| 
-| 20240105T05:49:11Z | A collection of depth-limited grammar fuzzers implemented in C | https://github.com/Positron11/fuzzer | 0 | 0| 
-| 20240105T02:37:54Z | Ongoing development of the Fuzzball MUCK server software and associated functionality. | https://github.com/fuzzball-muck/fuzzball | 45 | 27| 
-| 20240105T02:18:28Z | SISTEM PAKAR KERUSAKAN HARDWARE LAPTOP MENGGUNAKAN METODE FUZZY LOGIC BERBASIS JAVA IDE NETBEANS 8.2 | https://github.com/HM-BlueBird/sistem-pakar-kerusakan-hardware-laptop-menggunakan-metode-fuzzy-logic | 0 | 0| 
-| 20240105T01:43:11Z | Null | https://github.com/dliyanage/predict_fuzz_artifacts | 0 | 0| 
 
 
 

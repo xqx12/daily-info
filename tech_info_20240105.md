@@ -35,6 +35,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240105T22:46:34Z | Null | https://github.com/EPmaple/Klee-DCslimebot-JSversion | 0 | 0| 
+| 20240105T17:27:30Z | Reader zu den Entspannungsmassage-Workshops von Oliver Klee | https://github.com/oliverklee/massagereader | 5 | 1| 
 
 
 # s2e on Github 推荐
@@ -61,13 +63,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240105T18:28:44Z | Null | https://github.com/Uno13x/backdoorsimples | 0 | 0| 
+| 20240105T17:50:01Z | Repository Consists of Code that Implements  Backdoor Attacks and Defenses on DNN%s | https://github.com/MarkoHaralovic/DL_cyber_attacks | 3 | 0| 
+| 20240105T15:50:09Z | PHP shell backdoors list  ( collection ) | https://github.com/1337r0j4n/php-backdoors | 92 | 43| 
 | 20240105T13:39:23Z | Null | https://github.com/a-cup-of-joe/Optimized-Neuron-Pruning-For-Backdoor-Removal | 0 | 0| 
 | 20240105T13:19:34Z | Here is useful scripts collections. You can sign and forged tickets locally with secret keys or certificates. It%s useful when you want backdoor/make persistence in a such system without traces in system. | https://github.com/Esonhugh/TicketMaster | 4 | 1| 
 | 20240105T12:47:45Z | backdoor | https://github.com/0x235z/Backdoor | 0 | 0| 
+| 20240105T11:54:46Z | Imperio is an LLM-powered backdoor attack. It allows the adversary to issue language-guided instructions to control the victim model%s prediction for arbitrary targets. | https://github.com/hkucs-kachow/Imperio | 5 | 0| 
 | 20240105T08:30:04Z | Code Repo for the NeurIPS 2023 paper %VillanDiffusion: A Unified Backdoor Attack Framework for Diffusion Models% | https://github.com/IBM/VillanDiffusion | 6 | 0| 
 | 20240105T07:49:50Z | Project of Machine Learning, taught by Junbo Zhao | https://github.com/YichiCS/Backdoor_Evaluation_Platform | 0 | 0| 
 | 20240105T07:29:23Z | Backdoor attack with bokeh effects | https://github.com/Junjian-L/BABE | 0 | 0| 
-| 20240105T05:06:00Z | codes for paper %Object-Oriented Backdoor Attack against Image Captioning% | https://github.com/meiling-fdu/ImageCaptioningBackdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -80,7 +85,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240105T13:20:59Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 84 | 8| 
+| 20240105T21:39:06Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 85 | 8| 
 | 20240105T09:36:00Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 140 | 13| 
 | 20240105T06:19:49Z | Null | https://github.com/Compass-All/NDSS24-CAGE | 0 | 0| 
 
@@ -88,6 +93,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240105T23:42:29Z | Rawanigak | https://github.com/Rawanigak/fuzzy-goggles | 0 | 0| 
+| 20240105T19:12:18Z | Null | https://github.com/lorchrob/grammar-based_fuzzing | 0 | 0| 
 | 20240105T13:05:02Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1729 | 336| 
 | 20240105T12:51:40Z | Null | https://github.com/Uday-04/Fuzzy-DEMATEL-Process | 0 | 0| 
 | 20240105T12:37:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9293 | 2078| 
@@ -95,9 +102,7 @@
 | 20240105T10:46:44Z | Target components for kAFL/Nyx Fuzzer | https://github.com/IntelLabs/kafl.targets | 20 | 19| 
 | 20240105T09:23:11Z | Null | https://github.com/LahiruLakshangjgf/fuzzy-adventure | 0 | 0| 
 | 20240105T05:49:11Z | A collection of depth-limited grammar fuzzers implemented in C | https://github.com/Positron11/fuzzer | 0 | 0| 
-| 20240105T02:37:54Z | Ongoing development of the Fuzzball MUCK server software and associated functionality. | https://github.com/fuzzball-muck/fuzzball | 45 | 27| 
-| 20240105T02:18:28Z | SISTEM PAKAR KERUSAKAN HARDWARE LAPTOP MENGGUNAKAN METODE FUZZY LOGIC BERBASIS JAVA IDE NETBEANS 8.2 | https://github.com/HM-BlueBird/sistem-pakar-kerusakan-hardware-laptop-menggunakan-metode-fuzzy-logic | 0 | 0| 
-| 20240105T01:43:11Z | Null | https://github.com/dliyanage/predict_fuzz_artifacts | 0 | 0| 
+| 20240105T05:35:28Z | Null | https://github.com/DouglasKenjiSakakibara01/logica-fuzzy | 0 | 0| 
 
 
 
