@@ -34,6 +34,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240106T13:32:31Z | A collection of awesome software, libraries, learning tutorials, documents and books, awesome resources and cool stuff about ARM and Windows Exploitation. | https://github.com/paulveillard/cybersecurity-windows-exploitation | 15 | 8| 
+| 20240106T13:29:36Z | SOURCE: HACKING THE ART OF EXPLOITATION - JON ERICKSON | https://github.com/MMatinKateb/game_of_chance | 0 | 0| 
 | 20240106T12:29:57Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5613 | 1087| 
 | 20240106T12:24:56Z | The Re version of What exploit are online | https://github.com/LeBaoChauDev/rewhatexploitareonline.github.io | 0 | 0| 
 | 20240106T02:29:33Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0015-app-7Whpm-listen-exploit | 0 | 0| 
@@ -42,7 +44,6 @@
 | 20240106T00:29:30Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-gh | 1 | 0| 
 | 20240106T00:28:42Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-gh | 1 | 0| 
 | 20240106T00:27:46Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-gh | 1 | 0| 
-| 20240106T00:27:02Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-gh | 1 | 0| 
 
 
 # backdoor on Github 推荐
