@@ -16,8 +16,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240106T13:23:35Z | CVE-2023-31446 | Repository contains description for CVE-2023-31446 | https://github.com/Dodge-MPTC/CVE-2023-31446-Remote-Code-Execution | | 
 | 20240106T13:17:24Z | CVE-2023-27163 | Null | https://github.com/madhavmehndiratta/CVE-2023-27163 | | 
-| 20240106T12:59:28Z | CVE-2023-31446 | Repository contains description for CVE-2023-31446 | https://github.com/Dodge-MPTC/CVE-2023-31446-Remote-Code-Execution | | 
 | 20240106T12:04:43Z | CVE-2023-51467 | Apache Ofbiz CVE-2023-51467  图形化漏洞利用工具 | https://github.com/JaneMandy/CVE-2023-51467-Exploit | | 
 
 
@@ -69,6 +69,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240106T13:26:40Z | workout session intensity using fuzzy logic  | https://github.com/DaliaRefaat/workout-session-intensity-using-fuzzy-logic | 0 | 0| 
 | 20240106T12:23:41Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51159 | 23445| 
 | 20240106T10:28:42Z | A collection of user-space Linux kernel specific guided fuzzers based on LKL | https://github.com/atrosinenko/kbdysch | 65 | 7| 
 | 20240106T08:55:39Z | Null | https://github.com/keeneclandystine/fuzzy-palm-tree | 0 | 0| 
