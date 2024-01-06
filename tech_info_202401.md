@@ -61,6 +61,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240106T02:29:33Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0015-app-7Whpm-listen-exploit | 0 | 0| 
 | 20240106T02:00:50Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0039-app-DJ3ec-exploit-measure | 0 | 0| 
 | 20240106T02:00:22Z | A simple tool to exploit SMTP Smuggling vulnerabilities. | https://github.com/riramar/SmuggleTP | 0 | 0| 
 | 20240106T00:29:30Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-gh | 1 | 0| 
@@ -70,7 +71,6 @@
 | 20240105T18:37:38Z | Play with web scanning, exploit development, %phishing% and crawling using my most favorite Rust pl. Focusing on learning good optimization offered by Rust along the way. | https://github.com/DilnozaBobokalonova1/rust-blackhat | 0 | 0| 
 | 20240105T15:48:17Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 80 | 12| 
 | 20240105T13:51:34Z | SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery. | https://github.com/MegaManSec/SSH-Snake | 68 | 4| 
-| 20240105T13:29:30Z | Null | https://github.com/shyeun/exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -114,9 +114,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240106T02:32:22Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51150 | 23441| 
 | 20240106T02:26:56Z | 一个编程小白，请多多关照！  A programming novice, please take care! | https://github.com/3801482335/fuzzy-octo-disco | 0 | 0| 
 | 20240106T00:34:42Z | Null | https://github.com/Profvmarques/fuzzy_cloud_computing | 0 | 0| 
-| 20240106T00:27:45Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51149 | 23441| 
 | 20240105T23:42:29Z | Rawanigak | https://github.com/Rawanigak/fuzzy-goggles | 0 | 0| 
 | 20240105T19:12:18Z | Null | https://github.com/lorchrob/grammar-based_fuzzing | 0 | 0| 
 | 20240105T13:05:02Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1729 | 336| 
