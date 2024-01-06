@@ -115,7 +115,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20240106T00:34:42Z | Null | https://github.com/Profvmarques/fuzzy_cloud_computing | 0 | 0| 
-| 20240106T00:27:45Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51149 | 23440| 
+| 20240106T00:27:45Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51149 | 23441| 
 | 20240105T23:42:29Z | Rawanigak | https://github.com/Rawanigak/fuzzy-goggles | 0 | 0| 
 | 20240105T19:12:18Z | Null | https://github.com/lorchrob/grammar-based_fuzzing | 0 | 0| 
 | 20240105T13:05:02Z | A JavaScript Engine Fuzzer | https://github.com/googleprojectzero/fuzzilli | 1729 | 336| 
