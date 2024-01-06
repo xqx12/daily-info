@@ -76,6 +76,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240106T11:52:06Z | A Study on Transfer Learning-Based Investigation of Backdoor Attack Vulnerabilities in 3D Point Cloud Classifiers | https://github.com/parkie0517/Transfer-Learning-Based-Backdoor-Attack-in-Point-Cloud-Classifiers | 1 | 0| 
 | 20240106T11:06:03Z | The X-Worm Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/Makas235/XWorm-V5.2-Edition-HVNC-RAT-DDOS-PASSWORDS-RANSOMWARE-CLIPPER-KEYLOGGER-UAC-BYPASS | 1 | 0| 
 | 20240106T10:28:25Z | PHP shell backdoors list  ( collection ) | https://github.com/1337r0j4n/php-backdoors | 94 | 43| 
 | 20240106T09:08:32Z | Null | https://github.com/DPamK/llmAgentBackdoor | 0 | 0| 
@@ -85,7 +86,6 @@
 | 20240105T13:39:23Z | Null | https://github.com/a-cup-of-joe/Optimized-Neuron-Pruning-For-Backdoor-Removal | 0 | 0| 
 | 20240105T13:19:34Z | Here is useful scripts collections. You can sign and forged tickets locally with secret keys or certificates. It%s useful when you want backdoor/make persistence in a such system without traces in system. | https://github.com/Esonhugh/TicketMaster | 4 | 1| 
 | 20240105T12:47:45Z | backdoor | https://github.com/0x235z/Backdoor | 0 | 0| 
-| 20240105T11:54:46Z | Imperio is an LLM-powered backdoor attack. It allows the adversary to issue language-guided instructions to control the victim model%s prediction for arbitrary targets. | https://github.com/hkucs-kachow/Imperio | 5 | 0| 
 
 
 # symbolic execution on Github 推荐
