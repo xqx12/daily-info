@@ -39,6 +39,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240106T14:50:24Z | Contains a collection of Bash scripts designed for comprehensive security audits and network mapping of Active Directory (AD) environments. The scripts automate various tasks including LDAP querying, Kerberos ticket analysis, SMB enumeration, and exploitation of known vulnerabilities like Zerologon and PetitPotam. | https://github.com/emrekybs/AD-AssessmentKit | 91 | 20| 
 | 20240106T13:58:17Z | Null | https://github.com/Felix-Exploit/FelixExploit.hotel-am-brillantengrund.at | 0 | 0| 
 | 20240106T13:32:31Z | A collection of awesome software, libraries, learning tutorials, documents and books, awesome resources and cool stuff about ARM and Windows Exploitation. | https://github.com/paulveillard/cybersecurity-windows-exploitation | 15 | 8| 
 | 20240106T13:29:36Z | SOURCE: HACKING THE ART OF EXPLOITATION - JON ERICKSON | https://github.com/MMatinKateb/game_of_chance | 0 | 0| 
@@ -48,7 +49,6 @@
 | 20240106T02:00:50Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0039-app-DJ3ec-exploit-measure | 0 | 0| 
 | 20240106T00:29:30Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-gh | 1 | 0| 
 | 20240106T00:28:42Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-gh | 1 | 0| 
-| 20240106T00:27:46Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-gh | 1 | 0| 
 
 
 # backdoor on Github 推荐

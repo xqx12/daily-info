@@ -70,8 +70,8 @@
 | 20240107T00:08:40Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-yt | 1 | 0| 
 | 20240107T00:07:23Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-yt | 1 | 0| 
 | 20240107T00:05:31Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-yt | 1 | 0| 
+| 20240106T14:50:24Z | Contains a collection of Bash scripts designed for comprehensive security audits and network mapping of Active Directory (AD) environments. The scripts automate various tasks including LDAP querying, Kerberos ticket analysis, SMB enumeration, and exploitation of known vulnerabilities like Zerologon and PetitPotam. | https://github.com/emrekybs/AD-AssessmentKit | 91 | 20| 
 | 20240106T13:58:17Z | Null | https://github.com/Felix-Exploit/FelixExploit.hotel-am-brillantengrund.at | 0 | 0| 
-| 20240106T13:32:31Z | A collection of awesome software, libraries, learning tutorials, documents and books, awesome resources and cool stuff about ARM and Windows Exploitation. | https://github.com/paulveillard/cybersecurity-windows-exploitation | 15 | 8| 
 
 
 # backdoor on Github 推荐
