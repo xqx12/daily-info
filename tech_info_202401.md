@@ -115,7 +115,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240107T01:12:59Z | Null | https://github.com/wowinter13/fast_fuzzy_matcher | 1 | 0| 
+| 20240107T01:16:23Z | A tiny and blazing-fast fuzzy search in pure Ruby with FFI bindings to Go. | https://github.com/wowinter13/fast_fuzzy_matcher | 1 | 0| 
 | 20240107T01:09:52Z | Experimental osu!lazer UI fuzz harness powered by Nyx | https://github.com/khang06/lazerfuzz | 0 | 0| 
 | 20240107T00:54:20Z | Null | https://github.com/wowinter13/fuzzy-match | 0 | 0| 
 | 20240107T00:49:28Z | Null | https://github.com/Aderinmola29/fuzzy-rotary-phone | 0 | 0| 
