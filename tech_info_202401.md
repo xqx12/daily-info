@@ -62,6 +62,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240107T01:35:49Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 9070 | 2077| 
 | 20240107T00:13:19Z | This project is an introduction to the exploitation of (elf-like) binary. | https://github.com/Sleleu/Rainfall | 0 | 0| 
 | 20240107T00:10:32Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-yt | 1 | 0| 
 | 20240107T00:08:40Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-yt | 1 | 0| 
@@ -71,7 +72,6 @@
 | 20240106T13:58:17Z | Null | https://github.com/Felix-Exploit/FelixExploit.hotel-am-brillantengrund.at | 0 | 0| 
 | 20240106T13:32:31Z | A collection of awesome software, libraries, learning tutorials, documents and books, awesome resources and cool stuff about ARM and Windows Exploitation. | https://github.com/paulveillard/cybersecurity-windows-exploitation | 15 | 8| 
 | 20240106T13:29:36Z | SOURCE: HACKING THE ART OF EXPLOITATION - JON ERICKSON | https://github.com/MMatinKateb/game_of_chance | 0 | 0| 
-| 20240106T12:29:57Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5613 | 1087| 
 
 
 # backdoor on Github 推荐
