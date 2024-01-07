@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240107T02:12:37Z | CVE-2023-51073 | Firmware Update Server Verification Vulnerability on Buffalo LS210D Version 1.78-0.03 | https://github.com/christopher-pace/CVE-2023-51073 | | 
 | 20240106T22:41:15Z | CVE-2023-33137 | Tentando desesperadamente simular uma cve para o trabalho da disciplina de segurança da pós. | https://github.com/JaqueMalman/CVE-2023-33137 | | 
 | 20240106T22:14:25Z | CVE-2021-4034 | Local Privilege Escalation (LPE) vulnerability in Polkit - Pwnkit | https://github.com/LucasPDiniz/CVE-2021-4034 | | 
 | 20240106T15:53:16Z | CVE-2023-27163 | PoC for SSRF in request-baskets v1.2.1 (CVE-2023-27163) | https://github.com/madhavmehndiratta/CVE-2023-27163 | | 
@@ -34,7 +35,6 @@
 | 20240105T10:22:41Z | CVE-2023-40084 | Null | https://github.com/Trinadh465/platform_system_netd_AOSP10_r33_CVE-2023-40084 | | 
 | 20240105T09:51:22Z | CVE-2020-11110 | Proof of concept for CVE-2020-11110, for educational purpose only | https://github.com/AVE-Stoik/CVE-2020-11110-Proof-of-Concept | | 
 | 20240105T07:12:42Z | CVE-2023-51764 | CVE-2023-51764 poc | https://github.com/Double-q1015/CVE-2023-51764 | | 
-| 20240105T05:16:19Z | CVE-2023-51073 | Null | https://github.com/christopher-pace/CVE-2023-51073 | | 
 | 20240105T02:09:03Z | CVE-2023-3460 | Null | https://github.com/julienbrs/exploit-CVE-2023-3460 | | 
 
 
