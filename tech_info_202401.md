@@ -77,6 +77,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240107T02:34:40Z | Backdoor as a service ;) | https://github.com/xxRON-js/backdoor-as-a-service | 0 | 0| 
 | 20240106T16:55:12Z | Irancell GP-2101 Shell injection backdoor in browser | https://github.com/mahdy-asady/gp2101-shell-backdoor | 0 | 0| 
 | 20240106T16:51:42Z | The C2 Cloud is a robust web-based C2 framework, designed to simplify the life of penetration testers. It allows easy access to compromised backdoors, just like accessing an EC2 instance in the AWS cloud. It can manage several simultaneous backdoor sessions with a user-friendly interface.  | https://github.com/govindasamyarun/c2-cloud | 5 | 0| 
 | 20240106T13:47:25Z | A Study on Transfer Learning-Based Investigation of Backdoor Attack Vulnerabilities in 3D Point Cloud Classifiers | https://github.com/parkie0517/Trigger-Inclusion-for-Point-Cloud-Backdoor-Attack | 1 | 0| 
@@ -86,7 +87,6 @@
 | 20240106T09:08:32Z | Null | https://github.com/DPamK/llmAgentBackdoor | 0 | 0| 
 | 20240106T08:25:40Z | 2FA-Backdoor | https://github.com/telamon/telamon | 0 | 0| 
 | 20240105T18:28:44Z | Null | https://github.com/Uno13x/backdoorsimples | 0 | 0| 
-| 20240105T17:50:01Z | Repository Consists of Code that Implements  Backdoor Attacks and Defenses on DNN%s | https://github.com/MarkoHaralovic/DL_cyber_attacks | 3 | 0| 
 
 
 # symbolic execution on Github 推荐
