@@ -77,16 +77,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240107T13:58:19Z | Remote Administration Either you are a private user wanting to control your PC from afar, or a big company which wants to administrate hundreds of machines from a single computer, | https://github.com/Makas235/ICARUS-NET2-NET4-BAT-VBS-VBA-HVNC-BINDER-PHP-FTPLOGS-RECOVERY-KEYLOG-WEBGL-ROOKIT | 1 | 0| 
+| 20240107T13:58:17Z | AsyncRAT stands as a Remote Access Tool (RAT) conceived for the purpose of distant supervision and command over remote computers through an encrypted connection ensuring security. | https://github.com/RemixSonS/AsyncRAT-Fud-Fixed-Dll-Remote-Administration-Tool-New | 1 | 0| 
+| 20240107T13:58:15Z | BitRAT CrackedIt is meticulously constructed utilizing the C++ programming language. It stands as the most recent iteration of the premier PC RAT for the year 2023. Regarded as a prized tool | https://github.com/RemixSonS/Bitrat-Hvnc-Rat-Remote-Control-Av-Bypass | 1 | 0| 
+| 20240107T13:58:13Z | Hidden VNC constitutes an ingenious stratagem harnessed by the most adept connoisseurs of technology. This method, by far, presents an exhilarating modality to govern the operation | https://github.com/Makas235/Pandora-HVNC-2FABypass-WebGL-Hidden-Desktop-Outlook-Foxmail-Stealer-Hidden-Browser | 1 | 0| 
+| 20240107T13:58:09Z | Computing) capabilities. It boasts compatibility with a spectrum of 20 concealed browsers. Pegasus HVNC facet facilitates the orchestration of a concealed desktop environment | https://github.com/RemixSonS/Pegasus-Pantheon-HVNC-V2-VNC-Hidden-Browser-Remote-Administration-Rat | 1 | 0| 
+| 20240107T13:58:05Z | VenomControl Rat is a Remote Access Tool (RAT) designed to remotely monitor and control other computers through a secure encrypted connection | https://github.com/RemixSonS/VenomControl-Rat-Crack-Source | 1 | 0| 
+| 20240107T13:58:02Z | The S-500 G2 Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/Makas235/S500-RAT-HVNC-HAPP-HIdden-BROWSER-HRDP-REVERSE-PROXY-CRYPTO-MONITOR | 1 | 0| 
+| 20240107T13:58:00Z | The X-Worm Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/Makas235/XWorm-V5.2-Edition-HVNC-RAT-DDOS-PASSWORDS-RANSOMWARE-CLIPPER-KEYLOGGER-UAC-BYPASS | 2 | 1| 
 | 20240107T07:00:16Z | Null | https://github.com/nurarifin05/backdoor-detect | 0 | 0| 
 | 20240107T05:27:09Z | Null | https://github.com/WilhelmineWitting/Python-Backdoor | 0 | 0| 
-| 20240107T03:06:08Z | Backdoor as a Service ;) | https://github.com/xxRON-js/backdoor-as-a-service | 0 | 0| 
-| 20240106T16:55:12Z | Irancell GP-2101 Shell injection backdoor in browser | https://github.com/mahdy-asady/gp2101-shell-backdoor | 0 | 0| 
-| 20240106T16:51:42Z | The C2 Cloud is a robust web-based C2 framework, designed to simplify the life of penetration testers. It allows easy access to compromised backdoors, just like accessing an EC2 instance in the AWS cloud. It can manage several simultaneous backdoor sessions with a user-friendly interface.  | https://github.com/govindasamyarun/c2-cloud | 5 | 0| 
-| 20240106T13:47:25Z | A Study on Transfer Learning-Based Investigation of Backdoor Attack Vulnerabilities in 3D Point Cloud Classifiers | https://github.com/parkie0517/Trigger-Inclusion-for-Point-Cloud-Backdoor-Attack | 1 | 0| 
-| 20240106T11:52:06Z | A Study on Transfer Learning-Based Investigation of Backdoor Attack Vulnerabilities in 3D Point Cloud Classifiers | https://github.com/parkie0517/Transfer-Learning-Based-Backdoor-Attack-in-Point-Cloud-Classifiers | 1 | 0| 
-| 20240106T11:06:03Z | The X-Worm Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/Makas235/XWorm-V5.2-Edition-HVNC-RAT-DDOS-PASSWORDS-RANSOMWARE-CLIPPER-KEYLOGGER-UAC-BYPASS | 1 | 1| 
-| 20240106T10:28:25Z | PHP shell backdoors list  ( collection ) | https://github.com/1337r0j4n/php-backdoors | 94 | 43| 
-| 20240106T09:08:32Z | Null | https://github.com/DPamK/llmAgentBackdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
