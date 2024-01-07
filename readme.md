@@ -45,12 +45,12 @@
 | 20240107T12:51:38Z | TP Exploitation API Spotify | https://github.com/harelmarin/TP_Exploitation_API | 0 | 0| 
 | 20240107T12:37:00Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5612 | 1087| 
 | 20240107T12:14:38Z | Null | https://github.com/6y6qa/pdf_exploit | 0 | 0| 
+| 20240107T09:57:45Z | Dans ce TP j%utilise l%API de Spotify pour retransmettre les infos des albums de JuL et de la musique Bolide Allemand de SDM | https://github.com/Juliendnte/Rendue-TP-exploitation-API-Spotify | 0 | 0| 
 | 20240107T02:06:53Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0061-app-noVev-cook-exploit | 0 | 0| 
 | 20240107T01:45:26Z | A straightforward tool for exploiting SMTP Smuggling vulnerabilities. | https://github.com/riramar/SmuggleTP | 11 | 1| 
 | 20240107T01:35:49Z | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | 9070 | 2077| 
 | 20240107T00:13:19Z | This project is an introduction to the exploitation of (elf-like) binary. | https://github.com/Sleleu/Rainfall | 0 | 0| 
 | 20240107T00:10:32Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-yt | 1 | 0| 
-| 20240107T00:08:40Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-yt | 1 | 0| 
 
 
 # backdoor on Github 推荐
