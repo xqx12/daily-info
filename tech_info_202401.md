@@ -115,7 +115,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240107T01:05:23Z | Null | https://github.com/wowinter13/fast_fuzzy_matcher | 0 | 0| 
+| 20240107T01:12:59Z | Null | https://github.com/wowinter13/fast_fuzzy_matcher | 1 | 0| 
+| 20240107T01:09:52Z | Experimental osu!lazer UI fuzz harness powered by Nyx | https://github.com/khang06/lazerfuzz | 0 | 0| 
 | 20240107T00:54:20Z | Null | https://github.com/wowinter13/fuzzy-match | 0 | 0| 
 | 20240107T00:49:28Z | Null | https://github.com/Aderinmola29/fuzzy-rotary-phone | 0 | 0| 
 | 20240107T00:47:49Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51165 | 23446| 
@@ -124,7 +125,6 @@
 | 20240106T13:51:21Z | Repo with custom word-lists and mix word-lists | https://github.com/incogbyte/fuzzylists | 0 | 0| 
 | 20240106T13:40:30Z | Fuzzy Logic-Based Workout Session Intensity Calculator | https://github.com/DaliaRefaat/Fuzzy-Logic-Based-Workout-Session-Intensity-Calculator | 0 | 0| 
 | 20240106T13:29:30Z | workout session intensity using fuzzy logic  | https://github.com/DaliaRefaat/workout-session-intensity-using-fuzzy-logic | 0 | 0| 
-| 20240106T10:28:42Z | A collection of user-space Linux kernel specific guided fuzzers based on LKL | https://github.com/atrosinenko/kbdysch | 65 | 7| 
 
 
 
