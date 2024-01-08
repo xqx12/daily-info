@@ -18,6 +18,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240108T13:40:30Z | CVE-2023-28229 | Null | https://github.com/Y3A/CVE-2023-28229 | | 
 | 20240108T10:53:23Z | CVE-2024-21633 | MobSF Remote code execution (via CVE-2024-21633) | https://github.com/0x33c0unt/CVE-2024-21633 | | 
 | 20240108T09:02:56Z | 未知编号 | Null | https://github.com/NUDTTAN91/CVE20240108 | | 
 | 20240108T06:26:58Z | CVE-2023-49070 | Authentication Bypass Vulnerability Apache OFBiz < 18.12.10. | https://github.com/UserConnecting/Exploit-CVE-2023-49070-and-CVE-2023-51467-Apache-OFBiz | | 
