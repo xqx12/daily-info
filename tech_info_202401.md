@@ -62,6 +62,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240108T01:22:30Z | Join me as we embark on a journey through this virtual labyrinth, where we%ll uncover vulnerabilities, exploit weaknesses, and ultimately conquer the system. | https://github.com/neilmachado/Kioptrix-Level-1 | 0 | 0| 
 | 20240108T00:47:11Z | Easy Exploit Hosting | https://github.com/Al-Azif/ps4-exploit-host | 1066 | 282| 
 | 20240108T00:21:32Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-ap | 1 | 0| 
 | 20240108T00:20:52Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ap | 1 | 0| 
@@ -71,7 +72,6 @@
 | 20240107T20:33:30Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 769 | 185| 
 | 20240107T20:21:38Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5616 | 1087| 
 | 20240107T13:48:42Z | Small wrapper for probabilistic exploits | https://github.com/Lnevx/pwnbrute | 0 | 0| 
-| 20240107T13:27:55Z | browser-in-website project but in a PWA form | https://github.com/AzlanCoding/iframe-browser-pwa | 9 | 1| 
 
 
 # backdoor on Github 推荐
