@@ -122,9 +122,9 @@
 | 20240108T00:28:39Z | Null | https://github.com/ali-soomro/fuzzy | 0 | 0| 
 | 20240107T23:34:17Z | Research-focused, fuzz testing theory tool in Rust | https://github.com/rauljordan/ultimecia | 0 | 0| 
 | 20240107T23:29:52Z | Null | https://github.com/ali-soomro/fuzzexamplerepo | 0 | 0| 
+| 20240107T18:21:30Z | Null | https://github.com/jaimin4949/custom-fuzz | 1 | 0| 
 | 20240107T15:46:46Z | An Investigation into Fuzzy Systems. Python and report for the coursework of the Uncertainty Modelling unit of the Interactive AI CDT. | https://github.com/tslwn/fuzzy-systems | 0 | 0| 
 | 20240107T12:17:39Z | Hi | https://github.com/helloaenhaalo/fuzzy-spoon | 0 | 0| 
-| 20240107T08:50:30Z | Null | https://github.com/tarlanlinazar/fuzzy-tribble | 0 | 0| 
 
 
 
