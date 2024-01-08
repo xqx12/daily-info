@@ -115,11 +115,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240108T01:28:00Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51190 | 23447| 
 | 20240108T01:21:48Z | Subdomain fuzzer | https://github.com/luddekn/subfuzzer | 1 | 0| 
 | 20240108T01:09:42Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9294 | 2080| 
 | 20240108T00:31:59Z | Null | https://github.com/ganaremos/fuzzy-telegram | 0 | 0| 
 | 20240108T00:28:39Z | Null | https://github.com/ali-soomro/fuzzy | 0 | 0| 
-| 20240108T00:13:56Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51189 | 23447| 
 | 20240107T23:34:17Z | Research-focused, fuzz testing theory tool in Rust | https://github.com/rauljordan/ultimecia | 0 | 0| 
 | 20240107T23:29:52Z | Null | https://github.com/ali-soomro/fuzzexamplerepo | 0 | 0| 
 | 20240107T15:46:46Z | An Investigation into Fuzzy Systems. Python and report for the coursework of the Uncertainty Modelling unit of the Interactive AI CDT. | https://github.com/tslwn/fuzzy-systems | 0 | 0| 
