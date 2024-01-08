@@ -62,8 +62,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240108T02:55:22Z | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | 0 | 0| 
 | 20240108T02:44:26Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0051-app-U4D_3-exploit-communicate | 0 | 0| 
-| 20240108T02:29:30Z | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | 0 | 0| 
 | 20240108T01:55:56Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0013-app-Q6QCy-exploit-offer | 0 | 0| 
 | 20240108T01:22:30Z | Join me as we embark on a journey through this virtual labyrinth, where we%ll uncover vulnerabilities, exploit weaknesses, and ultimately conquer the system. | https://github.com/neilmachado/Kioptrix-Level-1 | 0 | 0| 
 | 20240108T00:47:11Z | Easy Exploit Hosting | https://github.com/Al-Azif/ps4-exploit-host | 1066 | 282| 
