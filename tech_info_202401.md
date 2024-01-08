@@ -92,7 +92,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240108T02:52:26Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 482 | 34| 
+| 20240108T09:45:08Z | Symbolic Execution Benchmarks for Ethereum Smart Contracts | https://github.com/eth-sc-comp/benchmarks | 16 | 1| 
+| 20240108T03:58:34Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 483 | 34| 
 | 20240107T12:25:03Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2387 | 645| 
 | 20240105T17:15:02Z | A symbolic execution engine for EVM smart contract binaries | https://github.com/ucsb-seclab/greed | 0 | 0| 
 | 20240105T16:04:43Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 26 | 12| 
