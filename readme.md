@@ -88,7 +88,6 @@
 | --- | --- | --- | --- | ---| 
 | 20240107T23:34:17Z | Research-focused, fuzz testing theory tool in Rust | https://github.com/rauljordan/ultimecia | 0 | 0| 
 | 20240107T23:29:52Z | Null | https://github.com/ali-soomro/fuzzexamplerepo | 0 | 0| 
-| 20240107T21:43:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9293 | 2080| 
 | 20240107T15:46:46Z | An Investigation into Fuzzy Systems. Python and report for the coursework of the Uncertainty Modelling unit of the Interactive AI CDT. | https://github.com/tslwn/fuzzy-systems | 0 | 0| 
 | 20240107T12:17:39Z | Hi | https://github.com/helloaenhaalo/fuzzy-spoon | 0 | 0| 
 | 20240107T08:50:30Z | Null | https://github.com/tarlanlinazar/fuzzy-tribble | 0 | 0| 
@@ -96,6 +95,7 @@
 | 20240107T03:15:40Z | Experimental osu!lazer UI fuzz harness powered by Nyx | https://github.com/khang06/lazerfuzz | 1 | 0| 
 | 20240107T01:16:23Z | A tiny and blazing-fast fuzzy search in pure Ruby with FFI bindings to Go. | https://github.com/wowinter13/fast_fuzzy_matcher | 1 | 0| 
 | 20240107T00:54:20Z | Null | https://github.com/wowinter13/fuzzy-match | 0 | 0| 
+| 20240107T00:49:28Z | Null | https://github.com/Aderinmola29/fuzzy-rotary-phone | 0 | 0| 
 
 
 
