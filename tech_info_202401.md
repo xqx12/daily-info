@@ -81,7 +81,7 @@
 | 20240108T00:42:16Z | Python bind shell combined with Back door as a service  | https://github.com/xxRON-js/python-bind-shell-backdoor | 0 | 0| 
 | 20240107T21:21:49Z | Imperio is an LLM-powered backdoor attack. It allows the adversary to issue language-guided instructions to control the victim model%s prediction for arbitrary targets. | https://github.com/hkucs-kachow/Imperio | 8 | 0| 
 | 20240107T20:35:00Z | Irancell GP-2101 Shell injection backdoor in browser | https://github.com/mahdy-asady/gp2101-shell-backdoor | 0 | 0| 
-| 20240107T17:57:04Z | VenomControl Rat is a Remote Access Tool (RAT) designed to remotely monitor and control other computers through a secure encrypted connection | https://github.com/RemixSonS/VenomControl-Rat-Crack-Source | 2 | 1| 
+| 20240107T17:57:04Z | VenomControl Rat is a Remote Access Tool (RAT) designed to remotely monitor and control other computers through a secure encrypted connection | https://github.com/RemixSonS/VenomControl-Rat-Crack-Source | 2 | 2| 
 | 20240107T16:53:41Z | Библиотека для уничтожения базы данных | https://github.com/valyamoro/backdoor | 0 | 0| 
 | 20240107T13:58:19Z | Remote Administration Either you are a private user wanting to control your PC from afar, or a big company which wants to administrate hundreds of machines from a single computer, | https://github.com/Makas235/ICARUS-NET2-NET4-BAT-VBS-VBA-HVNC-BINDER-PHP-FTPLOGS-RECOVERY-KEYLOG-WEBGL-ROOKIT | 1 | 0| 
 | 20240107T13:58:17Z | AsyncRAT stands as a Remote Access Tool (RAT) conceived for the purpose of distant supervision and command over remote computers through an encrypted connection ensuring security. | https://github.com/RemixSonS/AsyncRAT-Fud-Fixed-Dll-Remote-Administration-Tool-New | 1 | 0| 
