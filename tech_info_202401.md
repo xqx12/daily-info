@@ -77,7 +77,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240109T01:13:35Z | try me la | https://github.com/MuhammadAndika1/backdoor | 0 | 0| 
+| 20240109T01:21:33Z | try me la | https://github.com/MuhammadAndika1/backdoor | 0 | 0| 
 | 20240108T22:09:02Z | Training-time data poisoning attack on Convolutional Neural Networks (CNNs). | https://github.com/mr-pylin/Backdoor-Attack | 0 | 0| 
 | 20240108T20:34:47Z | BackDoor example | https://github.com/MakeItChange/BackDoor-example | 0 | 1| 
 | 20240108T15:07:53Z | Null | https://github.com/prashantmanghnani/BackDoor | 0 | 0| 
