@@ -17,10 +17,10 @@
 | 20240109 | 工控IDS规则构建及验证实战 | https://mp.weixin.qq.com/s/TJWW3RfB2-1mvmAeArQHtw| 
 | 20240109 | Low-level RASP: Protecting Applications Implemented in Hig... | https://github.com/h2-stack/LL-RASP| 
 | 20240109 | 2022年魔都数据泄露始末 | https://mp.weixin.qq.com/s/ldk-7M_zg1o909CiCwZIvQ| 
+| 20240109 | 被低估的Prompt | https://zhuanlan.zhihu.com/p/676543080| 
+| 20240109 | 跨域协同网络作战：现代战争的新形势 | https://mp.weixin.qq.com/s/xcRElPpnK7CkKjZdYPDEPA| 
 | 20240108 | Chrome 调试模式学习 | https://mp.weixin.qq.com/s/yaDtGeKpuzFQZDoRdaAPKg| 
 | 20240108 | 联合国《打击网络犯罪公约》草案基本完成 | https://mp.weixin.qq.com/s/MGYo2Dbl_eOMNWnVrn19Fg| 
-| 20240107 | 客户端应用漏洞挖掘之旅 | https://gh0st.cn/archives/2023-12-18/1| 
-| 20240107 | tabby静态分析实践 | https://mp.weixin.qq.com/s/I5BTQoiu-iDPvwFxWeRyqA| 
 
 
 # CVE Github 推荐
