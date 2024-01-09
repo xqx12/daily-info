@@ -62,6 +62,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240109T02:10:12Z | Reverse Engineering, Binary Exploitation(Exploit Development) and Malware Analysis study journey | https://github.com/Tricta/Reversing-Studies | 0 | 0| 
 | 20240109T01:49:26Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-s0PCW-exploit-believe | 0 | 0| 
 | 20240109T01:12:26Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0042-app-hoRi9-exploit-attempt | 0 | 0| 
 | 20240109T01:12:24Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0063-app-IXb97-exploit-admit | 0 | 0| 
@@ -71,7 +72,6 @@
 | 20240109T00:55:14Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5622 | 1088| 
 | 20240109T00:18:16Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 179 | 15| 
 | 20240108T16:06:44Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 772 | 185| 
-| 20240108T13:14:06Z | Python version of %ProFTPd 1.3.5 - %mod_copy% Command Execution (Metasploit)%  | https://github.com/thegingerninja/ProFTPd_1_3_5_mod_copy_exploit | 3 | 1| 
 
 
 # backdoor on Github 推荐
@@ -116,7 +116,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240109T01:19:22Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51216 | 23452| 
+| 20240109T02:10:14Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51217 | 23452| 
 | 20240109T01:18:19Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/rapidfuzz/RapidFuzz | 2186 | 102| 
 | 20240109T00:44:38Z | Null | https://github.com/FumiyoSenda/fuzzy-spork | 0 | 0| 
 | 20240108T13:44:25Z | Null | https://github.com/oisayalisa/Tugas3_LogikaFuzzy | 0 | 0| 
