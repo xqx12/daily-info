@@ -11,31 +11,31 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20240109 | 波音遭遇勒索攻击的数据损失分析 | https://mp.weixin.qq.com/s/9HPlaRoNGjWlOsWcOYxjmA| 
+| 20240109 | 波音遭遇勒索攻击事件分析复盘——定向勒索的威胁趋势分析与防... | https://mp.weixin.qq.com/s/K1tb86Gy6V9GlrIb__ZM_g| 
+| 20240109 | Gartne《2024年网络安全主要趋势》 | https://mp.weixin.qq.com/s/o3HnQlicgR3cl4t5BFV6Ug| 
+| 20240109 | 工控IDS规则构建及验证实战 | https://mp.weixin.qq.com/s/TJWW3RfB2-1mvmAeArQHtw| 
+| 20240109 | Low-level RASP: Protecting Applications Implemented in Hig... | https://github.com/h2-stack/LL-RASP| 
+| 20240109 | 2022年魔都数据泄露始末 | https://mp.weixin.qq.com/s/ldk-7M_zg1o909CiCwZIvQ| 
 | 20240108 | Chrome 调试模式学习 | https://mp.weixin.qq.com/s/yaDtGeKpuzFQZDoRdaAPKg| 
 | 20240108 | 联合国《打击网络犯罪公约》草案基本完成 | https://mp.weixin.qq.com/s/MGYo2Dbl_eOMNWnVrn19Fg| 
 | 20240107 | 客户端应用漏洞挖掘之旅 | https://gh0st.cn/archives/2023-12-18/1| 
 | 20240107 | tabby静态分析实践 | https://mp.weixin.qq.com/s/I5BTQoiu-iDPvwFxWeRyqA| 
-| 20240107 | 铁路关键信息基础设施安全保护管理办法 | https://mp.weixin.qq.com/s/W16lF-TjBnFs7khI4ejUaQ| 
-| 20240106 | 使用docker调试和部署pwn题 | https://mp.weixin.qq.com/s/gfn3B3nXcpvxXZI5O4bRpQ| 
-| 20240105 | 为什么乙方安全业务难做 | https://peirs.net/why-cyber-security-business-is-hard-to-get-benefit/| 
-| 20240105 | Docker 恶意挖矿镜像应急实例 | https://bypass.blog.csdn.net/article/details/132893267| 
-| 20240105 | K8s攻击案例：RBAC配置不当导致集群接管 | https://bypass.blog.csdn.net/article/details/135075387| 
-| 20240105 | K8s攻击案例：Privileged特权容器导致节点沦陷 | https://bypass.blog.csdn.net/article/details/135098395| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240109T10:45:37Z | CVE-2024-21633 | MobSF Remote code execution (via CVE-2024-21633) | https://github.com/0x33c0unt/CVE-2024-21633 | | 
+| 20240109T09:43:26Z | CVE-2023-51385 | Null | https://github.com/Sonicrrrr/CVE-2023-51385 | | 
+| 20240109T07:37:00Z | CVE-2023-4357 | Null | https://github.com/WinnieZy/CVE-2023-4357 | | 
+| 20240109T03:18:19Z | cve-2023-46604 | Null | https://github.com/hh-hunter/cve-2023-46604 | | 
 | 20240109T00:53:24Z | 未知编号 | Null | https://github.com/NUDTTAN91/CVE20240109 | | 
-| 20240109T00:25:27Z | CVE-2024-21633 | MobSF Remote code execution (via CVE-2024-21633) | https://github.com/0x33c0unt/CVE-2024-21633 | | 
 | 20240108T22:41:33Z | CVE-2022-36267 | PoC Script for CVE-2022-36267: Exploits an unauthenticated remote command injection vulnerability in Airspan AirSpot 5410 antenna. | https://github.com/0xNslabs/CVE-2022-36267-PoC | | 
 | 20240108T22:10:59Z | CVE-2022-36553 | PoC Script for CVE-2022-36553: Exploits an unauthenticated remote command injection vulnerability in Hytec Inter HWL-2511-SS device. | https://github.com/0xNslabs/CVE-2022-36553-PoC | | 
 | 20240108T18:21:55Z | CVE-2023-42793 | Null | https://github.com/johnossawy/CVE-2023-42793_POC | | 
 | 20240108T17:15:22Z | CVE-2021-4034 | Null | https://github.com/lluriam19/CVE-2021-4034-Vuln | | 
 | 20240108T16:07:15Z | 未知编号 | Null | https://github.com/NUDTTAN91/CVE20240108 | | 
-| 20240108T13:40:30Z | CVE-2023-28229 | Null | https://github.com/Y3A/CVE-2023-28229 | | 
-| 20240108T06:26:58Z | CVE-2023-49070 | Authentication Bypass Vulnerability Apache OFBiz < 18.12.10. | https://github.com/UserConnecting/Exploit-CVE-2023-49070-and-CVE-2023-51467-Apache-OFBiz | | 
-| 20240107T17:43:24Z | CVE-2022-1386 | Null | https://github.com/imhunterand/CVE-2022-1386 | | 
 
 
 # klee on Github 推荐
@@ -62,31 +62,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240109T11:38:37Z | SeaShell Framework is an iOS post-exploitation framework that enables you to access the device remotely, control it and extract sensitive information. | https://github.com/EntySec/SeaShell | 47 | 5| 
+| 20240109T05:42:57Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 773 | 185| 
+| 20240109T03:03:13Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 82 | 12| 
 | 20240109T02:53:30Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0062-app-Sjy2W-exploit-plan | 0 | 0| 
 | 20240109T02:10:12Z | Reverse Engineering, Binary Exploitation(Exploit Development) and Malware Analysis study journey | https://github.com/Tricta/Reversing-Studies | 0 | 0| 
+| 20240109T01:57:11Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6288 | 822| 
 | 20240109T01:49:26Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-s0PCW-exploit-believe | 0 | 0| 
 | 20240109T01:12:26Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0042-app-hoRi9-exploit-attempt | 0 | 0| 
 | 20240109T01:12:24Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0063-app-IXb97-exploit-admit | 0 | 0| 
 | 20240109T01:05:17Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0050-app-wYfSE-wait-exploit | 0 | 0| 
-| 20240109T01:04:27Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0001-app-dF9fw-exploit-display | 0 | 0| 
-| 20240109T00:58:35Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0001-0001-app-thpx5-affect-exploit | 0 | 0| 
-| 20240109T00:55:14Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5622 | 1088| 
-| 20240109T00:18:16Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 179 | 15| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240109T12:47:58Z | Null | https://github.com/Makanoy/backdoor | 0 | 0| 
+| 20240109T11:36:23Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2397 | 901| 
 | 20240109T02:00:46Z | A framework for backdooring Microsoft Nuget packages. | https://github.com/mastercodeon314/NugetBackdoor | 5 | 0| 
 | 20240109T01:21:33Z | try me la | https://github.com/MuhammadAndika1/backdoor | 0 | 0| 
 | 20240108T22:09:02Z | Training-time data poisoning attack on Convolutional Neural Networks (CNNs). | https://github.com/mr-pylin/Backdoor-Attack | 0 | 0| 
 | 20240108T20:34:47Z | BackDoor example | https://github.com/MakeItChange/BackDoor-example | 0 | 1| 
 | 20240108T15:07:53Z | Null | https://github.com/prashantmanghnani/BackDoor | 0 | 0| 
-| 20240108T13:20:12Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2396 | 901| 
 | 20240108T06:02:58Z | A EASY TO USE `Ngrok` backdoor creator on a IP:PORT | https://github.com/CPScript/Saturn-BackDoor | 8 | 1| 
 | 20240108T03:42:18Z | Imperio is an LLM-powered backdoor attack. It allows the adversary to issue language-guided instructions to control the victim model%s prediction for arbitrary targets. | https://github.com/hkucs-kachow/Imperio | 9 | 0| 
 | 20240108T03:35:57Z | Python bind shell combined with Back door as a service  | https://github.com/xxRON-js/python-bind-shell-backdoor | 0 | 0| 
-| 20240108T00:49:31Z | Null | https://github.com/amanguian/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -107,8 +107,8 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240108T20:22:14Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 94 | 9| 
-| 20240106T10:24:02Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 141 | 13| 
+| 20240109T09:43:21Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 98 | 9| 
+| 20240109T03:48:41Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 142 | 13| 
 | 20240105T06:19:49Z | Null | https://github.com/Compass-All/NDSS24-CAGE | 0 | 0| 
 | 20240104T06:36:58Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 108 | 4| 
 
@@ -116,16 +116,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240109T12:46:46Z | Null | https://github.com/a1ph0nse/SillyFuzzer | 0 | 0| 
+| 20240109T12:42:15Z | Assessment reports of all the open source projects tracked by BeSecure community is maintained here. Commonly done assessments are static code analysis, license compliance checks, criticality scores and fuzzing | https://github.com/Be-Secure/besecure-assessment-datastore | 2 | 14| 
+| 20240109T11:43:32Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 331 | 48| 
+| 20240109T11:35:41Z | Fuzz-TK is an automated software debugging method that aims to relieve developers of the significant burden of fixing software failures. | https://github.com/MiaoWeiliu/Fuzz-TK | 0 | 0| 
+| 20240109T11:25:44Z | Null | https://github.com/google/fuzztest | 507 | 38| 
+| 20240109T10:29:45Z | Null | https://github.com/dldwjddmd/FuzzyMediationAnalysis | 0 | 0| 
+| 20240109T10:00:43Z | Null | https://github.com/yaming12345/Tugas2fuzzy_Laodeyaminarsy_E1E120077 | 0 | 0| 
+| 20240109T08:09:22Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4980 | 1185| 
 | 20240109T02:44:48Z | Null | https://github.com/snk-99/fuzzy-dollop | 0 | 0| 
 | 20240109T02:10:14Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51217 | 23452| 
-| 20240109T01:18:19Z | Rapid fuzzy string matching in Python using various string metrics | https://github.com/rapidfuzz/RapidFuzz | 2186 | 102| 
-| 20240109T00:44:38Z | Null | https://github.com/FumiyoSenda/fuzzy-spork | 0 | 0| 
-| 20240108T13:44:25Z | Null | https://github.com/oisayalisa/Tugas3_LogikaFuzzy | 0 | 0| 
-| 20240108T13:11:43Z | Null | https://github.com/yash77423/fuzzy-octo-bassoon | 0 | 0| 
-| 20240108T13:00:27Z | Null | https://github.com/lutvi150/fuzzy | 0 | 0| 
-| 20240108T11:39:55Z | Subdomain fuzzer | https://github.com/luddekn/subfuzzer | 1 | 0| 
-| 20240108T10:38:15Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1512 | 110| 
-| 20240108T10:11:24Z | Unveiling Bluetooth L2CAP Vulnerabilities via State Cluster Fuzzing with Target-Oriented State Machines | https://github.com/pingjuu/BLOOMFUZZ | 8 | 0| 
 
 
 
