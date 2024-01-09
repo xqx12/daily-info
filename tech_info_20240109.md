@@ -83,8 +83,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240109T13:06:23Z | Assessment reports of all the open source projects tracked by BeSecure community is maintained here. Commonly done assessments are static code analysis, license compliance checks, criticality scores and fuzzing | https://github.com/Be-Secure/besecure-assessment-datastore | 3 | 14| 
 | 20240109T12:46:46Z | Null | https://github.com/a1ph0nse/SillyFuzzer | 0 | 0| 
-| 20240109T12:42:15Z | Assessment reports of all the open source projects tracked by BeSecure community is maintained here. Commonly done assessments are static code analysis, license compliance checks, criticality scores and fuzzing | https://github.com/Be-Secure/besecure-assessment-datastore | 2 | 14| 
 | 20240109T11:43:32Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 331 | 48| 
 | 20240109T11:35:41Z | Fuzz-TK is an automated software debugging method that aims to relieve developers of the significant burden of fixing software failures. | https://github.com/MiaoWeiliu/Fuzz-TK | 0 | 0| 
 | 20240109T11:25:44Z | Null | https://github.com/google/fuzztest | 507 | 38| 
