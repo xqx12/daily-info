@@ -116,6 +116,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240109T13:09:54Z | Null | https://github.com/dedebroa/ML-Fuzzy | 0 | 0| 
 | 20240109T13:08:11Z | Assessment reports of all the open source projects tracked by BeSecure community is maintained here. Commonly done assessments are static code analysis, license compliance checks, criticality scores and fuzzing | https://github.com/Be-Secure/besecure-assessment-datastore | 4 | 14| 
 | 20240109T12:46:46Z | Null | https://github.com/a1ph0nse/SillyFuzzer | 0 | 0| 
 | 20240109T11:43:32Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 331 | 48| 
@@ -125,7 +126,6 @@
 | 20240109T10:00:43Z | Null | https://github.com/yaming12345/Tugas2fuzzy_Laodeyaminarsy_E1E120077 | 0 | 0| 
 | 20240109T08:09:22Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4980 | 1185| 
 | 20240109T02:44:48Z | Null | https://github.com/snk-99/fuzzy-dollop | 0 | 0| 
-| 20240109T02:10:14Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51217 | 23452| 
 
 
 
