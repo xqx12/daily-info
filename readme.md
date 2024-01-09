@@ -85,6 +85,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240109T13:38:00Z | Null | https://github.com/rhuibertsjr/fuzzy-inference-system | 0 | 0| 
 | 20240109T13:33:48Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51227 | 23449| 
 | 20240109T13:14:06Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4981 | 1185| 
 | 20240109T13:09:54Z | Null | https://github.com/dedebroa/ML-Fuzzy | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20240109T11:35:41Z | Fuzz-TK is an automated software debugging method that aims to relieve developers of the significant burden of fixing software failures. | https://github.com/MiaoWeiliu/Fuzz-TK | 0 | 0| 
 | 20240109T11:25:44Z | Null | https://github.com/google/fuzztest | 507 | 38| 
 | 20240109T10:29:45Z | Null | https://github.com/dldwjddmd/FuzzyMediationAnalysis | 0 | 0| 
-| 20240109T10:00:43Z | Null | https://github.com/yaming12345/Tugas2fuzzy_Laodeyaminarsy_E1E120077 | 0 | 0| 
 
 
 
