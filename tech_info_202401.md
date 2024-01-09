@@ -63,6 +63,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20240109T11:38:37Z | SeaShell Framework is an iOS post-exploitation framework that enables you to access the device remotely, control it and extract sensitive information. | https://github.com/EntySec/SeaShell | 47 | 5| 
+| 20240109T11:36:23Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2397 | 901| 
 | 20240109T05:42:57Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 773 | 185| 
 | 20240109T03:03:13Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 82 | 12| 
 | 20240109T02:53:30Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0062-app-Sjy2W-exploit-plan | 0 | 0| 
@@ -71,7 +72,6 @@
 | 20240109T01:49:26Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-s0PCW-exploit-believe | 0 | 0| 
 | 20240109T01:12:26Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0042-app-hoRi9-exploit-attempt | 0 | 0| 
 | 20240109T01:12:24Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0063-app-IXb97-exploit-admit | 0 | 0| 
-| 20240109T01:05:17Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0050-app-wYfSE-wait-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
