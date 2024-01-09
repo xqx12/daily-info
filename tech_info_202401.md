@@ -77,6 +77,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240109T02:00:46Z | A framework for backdooring Microsoft Nuget packages. | https://github.com/mastercodeon314/NugetBackdoor | 5 | 0| 
 | 20240109T01:21:33Z | try me la | https://github.com/MuhammadAndika1/backdoor | 0 | 0| 
 | 20240108T22:09:02Z | Training-time data poisoning attack on Convolutional Neural Networks (CNNs). | https://github.com/mr-pylin/Backdoor-Attack | 0 | 0| 
 | 20240108T20:34:47Z | BackDoor example | https://github.com/MakeItChange/BackDoor-example | 0 | 1| 
@@ -86,7 +87,6 @@
 | 20240108T03:42:18Z | Imperio is an LLM-powered backdoor attack. It allows the adversary to issue language-guided instructions to control the victim model%s prediction for arbitrary targets. | https://github.com/hkucs-kachow/Imperio | 9 | 0| 
 | 20240108T03:35:57Z | Python bind shell combined with Back door as a service  | https://github.com/xxRON-js/python-bind-shell-backdoor | 0 | 0| 
 | 20240108T00:49:31Z | Null | https://github.com/amanguian/backdoor | 0 | 0| 
-| 20240107T20:35:00Z | Irancell GP-2101 Shell injection backdoor in browser | https://github.com/mahdy-asady/gp2101-shell-backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
