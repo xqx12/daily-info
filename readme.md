@@ -69,6 +69,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240108T19:36:56Z | Solving Crosswords Puzzles with Symbolic Execution | https://github.com/47Cid/Symbolic-Crossword | 0 | 0| 
+| 20240108T19:02:16Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2388 | 645| 
 | 20240108T09:45:08Z | Symbolic Execution Benchmarks for Ethereum Smart Contracts | https://github.com/eth-sc-comp/benchmarks | 16 | 1| 
 | 20240108T03:58:34Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 483 | 34| 
 
@@ -76,7 +78,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240108T09:13:15Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 92 | 9| 
+| 20240108T20:22:14Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 94 | 9| 
 
 
 # fuzz on Github 推荐
