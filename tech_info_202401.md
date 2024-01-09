@@ -62,6 +62,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240109T02:53:30Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0062-app-Sjy2W-exploit-plan | 0 | 0| 
 | 20240109T02:10:12Z | Reverse Engineering, Binary Exploitation(Exploit Development) and Malware Analysis study journey | https://github.com/Tricta/Reversing-Studies | 0 | 0| 
 | 20240109T01:49:26Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-s0PCW-exploit-believe | 0 | 0| 
 | 20240109T01:12:26Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0042-app-hoRi9-exploit-attempt | 0 | 0| 
@@ -71,7 +72,6 @@
 | 20240109T00:58:35Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0001-0001-app-thpx5-affect-exploit | 0 | 0| 
 | 20240109T00:55:14Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5622 | 1088| 
 | 20240109T00:18:16Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 179 | 15| 
-| 20240108T16:06:44Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 772 | 185| 
 
 
 # backdoor on Github 推荐
