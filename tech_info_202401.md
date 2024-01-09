@@ -62,16 +62,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240109T01:12:26Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0042-app-hoRi9-exploit-attempt | 0 | 0| 
+| 20240109T01:12:24Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0063-app-IXb97-exploit-admit | 0 | 0| 
+| 20240109T01:05:17Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0050-app-wYfSE-wait-exploit | 0 | 0| 
+| 20240109T01:04:27Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0001-app-dF9fw-exploit-display | 0 | 0| 
 | 20240109T00:58:35Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0001-0001-app-thpx5-affect-exploit | 0 | 0| 
 | 20240109T00:55:14Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5622 | 1088| 
+| 20240109T00:18:16Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 179 | 15| 
 | 20240108T16:06:44Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 772 | 185| 
 | 20240108T13:14:06Z | Python version of %ProFTPd 1.3.5 - %mod_copy% Command Execution (Metasploit)%  | https://github.com/thegingerninja/ProFTPd_1_3_5_mod_copy_exploit | 3 | 1| 
 | 20240108T12:46:35Z | создан | https://github.com/uroma002/exploit-24-365-niches | 0 | 0| 
-| 20240108T12:04:13Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 178 | 15| 
-| 20240108T11:59:20Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 81 | 12| 
-| 20240108T07:18:53Z | Kubernetes Attack Graph | https://github.com/DataDog/KubeHound | 541 | 27| 
-| 20240108T02:55:22Z | This is a repo for the coding done for CTFs / exploits. The writeups are here: https://github.com/dillonwu-97/csec_writeups | https://github.com/dillonwu-97/csec-code | 0 | 0| 
-| 20240108T02:44:26Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0051-app-U4D_3-exploit-communicate | 0 | 0| 
 
 
 # backdoor on Github 推荐
