@@ -77,6 +77,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240109T01:13:35Z | try me la | https://github.com/MuhammadAndika1/backdoor | 0 | 0| 
 | 20240108T22:09:02Z | Training-time data poisoning attack on Convolutional Neural Networks (CNNs). | https://github.com/mr-pylin/Backdoor-Attack | 0 | 0| 
 | 20240108T20:34:47Z | BackDoor example | https://github.com/MakeItChange/BackDoor-example | 0 | 1| 
 | 20240108T15:07:53Z | Null | https://github.com/prashantmanghnani/BackDoor | 0 | 0| 
@@ -86,7 +87,6 @@
 | 20240108T03:35:57Z | Python bind shell combined with Back door as a service  | https://github.com/xxRON-js/python-bind-shell-backdoor | 0 | 0| 
 | 20240108T00:49:31Z | Null | https://github.com/amanguian/backdoor | 0 | 0| 
 | 20240107T20:35:00Z | Irancell GP-2101 Shell injection backdoor in browser | https://github.com/mahdy-asady/gp2101-shell-backdoor | 0 | 0| 
-| 20240107T17:57:04Z | VenomControl Rat is a Remote Access Tool (RAT) designed to remotely monitor and control other computers through a secure encrypted connection | https://github.com/RemixSonS/VenomControl-Rat-Crack-Source | 2 | 2| 
 
 
 # symbolic execution on Github 推荐
