@@ -62,6 +62,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240109T13:44:33Z | Exploiting Symmetry in the Generation Expansion Planning Problem to Accelate Crossover | https://github.com/marnoldus/accelerate-crossover-using-symmetry | 0 | 0| 
 | 20240109T11:38:37Z | SeaShell Framework is an iOS post-exploitation framework that enables you to access the device remotely, control it and extract sensitive information. | https://github.com/EntySec/SeaShell | 47 | 5| 
 | 20240109T11:36:23Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2397 | 901| 
 | 20240109T05:42:57Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 773 | 185| 
@@ -71,7 +72,6 @@
 | 20240109T01:57:11Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6288 | 822| 
 | 20240109T01:49:26Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-s0PCW-exploit-believe | 0 | 0| 
 | 20240109T01:12:26Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0042-app-hoRi9-exploit-attempt | 0 | 0| 
-| 20240109T01:12:24Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0063-app-IXb97-exploit-admit | 0 | 0| 
 
 
 # backdoor on Github 推荐
