@@ -30,7 +30,6 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240108T19:02:16Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2388 | 645| 
 
 
 # s2e on Github 推荐
@@ -70,7 +69,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20240108T19:36:56Z | Solving Crosswords Puzzles with Symbolic Execution | https://github.com/47Cid/Symbolic-Crossword | 0 | 0| 
-| 20240108T19:02:16Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2388 | 645| 
 | 20240108T09:45:08Z | Symbolic Execution Benchmarks for Ethereum Smart Contracts | https://github.com/eth-sc-comp/benchmarks | 16 | 1| 
 | 20240108T03:58:34Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 483 | 34| 
 
