@@ -117,6 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240110T13:34:10Z | Null | https://github.com/heavenjoy11/fuzzy-garbanzo | 0 | 0| 
 | 20240110T13:07:50Z | A grammar-aware input trimming technique based on light-weight taint analysis. | https://github.com/zzyyrr/ScissorFuzz | 0 | 0| 
 | 20240110T12:33:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9304 | 2085| 
 | 20240110T12:03:47Z | Null | https://github.com/wa2jikeh5s2ab0l/fuzzy-sweater | 0 | 0| 
@@ -126,7 +127,6 @@
 | 20240110T02:20:29Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51245 | 23451| 
 | 20240110T01:27:11Z | Null | https://github.com/Daniel03-del/fuzzy-robot | 0 | 0| 
 | 20240110T01:26:29Z | Null | https://github.com/riiiiiiiiiii111/fuzzy-couscous | 0 | 0| 
-| 20240110T00:03:02Z | Null | https://github.com/vzs432i8sob/fuzzy-moon | 0 | 0| 
 
 
 
