@@ -62,6 +62,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240110T01:43:45Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0031-app-eTNAn-admit-exploit | 0 | 0| 
 | 20240110T01:25:01Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0045-app-jGKER-exploit-ride | 0 | 0| 
 | 20240110T00:58:19Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-fd | 1 | 0| 
 | 20240110T00:57:14Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-fd | 1 | 0| 
@@ -71,7 +72,6 @@
 | 20240109T18:57:06Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5622 | 1088| 
 | 20240109T13:52:32Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6289 | 822| 
 | 20240109T13:44:33Z | Exploiting Symmetry in the Generation Expansion Planning Problem to Accelate Crossover | https://github.com/marnoldus/accelerate-crossover-using-symmetry | 0 | 0| 
-| 20240109T11:38:37Z | SeaShell Framework is an iOS post-exploitation framework that enables you to access the device remotely, control it and extract sensitive information. | https://github.com/EntySec/SeaShell | 47 | 5| 
 
 
 # backdoor on Github 推荐
