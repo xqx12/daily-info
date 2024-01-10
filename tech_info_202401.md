@@ -19,23 +19,23 @@
 | 20240109 | 2022年魔都数据泄露始末 | https://mp.weixin.qq.com/s/ldk-7M_zg1o909CiCwZIvQ| 
 | 20240109 | 被低估的Prompt | https://zhuanlan.zhihu.com/p/676543080| 
 | 20240109 | 跨域协同网络作战：现代战争的新形势 | https://mp.weixin.qq.com/s/xcRElPpnK7CkKjZdYPDEPA| 
+| 20240109 | SecWiki周刊（第514期) | https://www.sec-wiki.com/weekly/514| 
 | 20240108 | Chrome 调试模式学习 | https://mp.weixin.qq.com/s/yaDtGeKpuzFQZDoRdaAPKg| 
-| 20240108 | 联合国《打击网络犯罪公约》草案基本完成 | https://mp.weixin.qq.com/s/MGYo2Dbl_eOMNWnVrn19Fg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240109T10:45:37Z | CVE-2024-21633 | MobSF Remote code execution (via CVE-2024-21633) | https://github.com/0x33c0unt/CVE-2024-21633 | | 
-| 20240109T09:43:26Z | CVE-2023-51385 | Null | https://github.com/Sonicrrrr/CVE-2023-51385 | | 
+| 20240110T00:46:38Z | CVE-2023-36900 |  Denial-of-Service PoC , Writeup , Header with CLFS structures , Imhex pattern for .blf extension | https://github.com/RomanRybachek/CVE-2023-36900 | | 
+| 20240110T00:20:41Z | CVE-2024-21633 | MobSF Remote code execution (via CVE-2024-21633) | https://github.com/0x33c0unt/CVE-2024-21633 | | 
+| 20240109T21:29:58Z | cve-2023-20573 | Null | https://github.com/Freax13/cve-2023-20573-poc | | 
+| 20240109T20:13:12Z | CVE-2022-1388 | PoC for CVE-2022-1388 affecting F5 BIG-IP. | https://github.com/nico989/CVE-2022-1388 | | 
+| 20240109T15:44:52Z | CVE-2023-51385 | Null | https://github.com/Sonicrrrr/CVE-2023-51385 | | 
 | 20240109T07:37:00Z | CVE-2023-4357 | Null | https://github.com/WinnieZy/CVE-2023-4357 | | 
 | 20240109T03:18:19Z | cve-2023-46604 | Null | https://github.com/hh-hunter/cve-2023-46604 | | 
 | 20240109T00:53:24Z | 未知编号 | Null | https://github.com/NUDTTAN91/CVE20240109 | | 
 | 20240108T22:41:33Z | CVE-2022-36267 | PoC Script for CVE-2022-36267: Exploits an unauthenticated remote command injection vulnerability in Airspan AirSpot 5410 antenna. | https://github.com/0xNslabs/CVE-2022-36267-PoC | | 
 | 20240108T22:10:59Z | CVE-2022-36553 | PoC Script for CVE-2022-36553: Exploits an unauthenticated remote command injection vulnerability in Hytec Inter HWL-2511-SS device. | https://github.com/0xNslabs/CVE-2022-36553-PoC | | 
-| 20240108T18:21:55Z | CVE-2023-42793 | Null | https://github.com/johnossawy/CVE-2023-42793_POC | | 
-| 20240108T17:15:22Z | CVE-2021-4034 | Null | https://github.com/lluriam19/CVE-2021-4034-Vuln | | 
-| 20240108T16:07:15Z | 未知编号 | Null | https://github.com/NUDTTAN91/CVE20240108 | | 
 
 
 # klee on Github 推荐
@@ -62,31 +62,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240110T00:58:19Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-fd | 1 | 0| 
+| 20240110T00:57:14Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-fd | 1 | 0| 
+| 20240110T00:56:25Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-fd | 1 | 0| 
+| 20240110T00:55:37Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-fd | 1 | 0| 
+| 20240109T23:56:48Z | Looking into closed end funds to exploit the consistent spread between their values and their NAV%s (Net Asset Values) which is the market value of their constituents.  | https://github.com/yyashhp/Closed-End-Fund-Research | 0 | 0| 
+| 20240109T18:57:06Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5622 | 1088| 
 | 20240109T13:52:32Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6289 | 822| 
 | 20240109T13:44:33Z | Exploiting Symmetry in the Generation Expansion Planning Problem to Accelate Crossover | https://github.com/marnoldus/accelerate-crossover-using-symmetry | 0 | 0| 
 | 20240109T11:38:37Z | SeaShell Framework is an iOS post-exploitation framework that enables you to access the device remotely, control it and extract sensitive information. | https://github.com/EntySec/SeaShell | 47 | 5| 
 | 20240109T11:36:23Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2397 | 901| 
-| 20240109T05:42:57Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 773 | 185| 
-| 20240109T03:03:13Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 82 | 12| 
-| 20240109T02:53:30Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0062-app-Sjy2W-exploit-plan | 0 | 0| 
-| 20240109T02:10:12Z | Reverse Engineering, Binary Exploitation(Exploit Development) and Malware Analysis study journey | https://github.com/Tricta/Reversing-Studies | 0 | 0| 
-| 20240109T01:49:26Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-s0PCW-exploit-believe | 0 | 0| 
-| 20240109T01:12:26Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0042-app-hoRi9-exploit-attempt | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240109T23:50:14Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2398 | 901| 
+| 20240109T18:40:40Z | Simple backdoor en HTML y PHP, permite ejecutar una reverse shell en bash | https://github.com/M4THsb09/sadbackdoor | 0 | 0| 
+| 20240109T17:32:34Z | Null | https://github.com/CaptHarsh/Backdoor-Creation-on-LocalHost | 0 | 0| 
 | 20240109T12:47:58Z | Null | https://github.com/Makanoy/backdoor | 0 | 0| 
-| 20240109T11:36:23Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2397 | 901| 
+| 20240109T05:13:33Z | CLEAN FRESHLY CODED DRAINER, NO BACKDOOR | https://github.com/godfather9916/Multi-Network-Drainer | 1 | 0| 
 | 20240109T02:00:46Z | A framework for backdooring Microsoft Nuget packages. | https://github.com/mastercodeon314/NugetBackdoor | 5 | 0| 
 | 20240109T01:21:33Z | try me la | https://github.com/MuhammadAndika1/backdoor | 0 | 0| 
 | 20240108T22:09:02Z | Training-time data poisoning attack on Convolutional Neural Networks (CNNs). | https://github.com/mr-pylin/Backdoor-Attack | 0 | 0| 
 | 20240108T20:34:47Z | BackDoor example | https://github.com/MakeItChange/BackDoor-example | 0 | 1| 
 | 20240108T15:07:53Z | Null | https://github.com/prashantmanghnani/BackDoor | 0 | 0| 
-| 20240108T06:02:58Z | A EASY TO USE `Ngrok` backdoor creator on a IP:PORT | https://github.com/CPScript/Saturn-BackDoor | 8 | 1| 
-| 20240108T03:42:18Z | Imperio is an LLM-powered backdoor attack. It allows the adversary to issue language-guided instructions to control the victim model%s prediction for arbitrary targets. | https://github.com/hkucs-kachow/Imperio | 9 | 0| 
-| 20240108T03:35:57Z | Python bind shell combined with Back door as a service  | https://github.com/xxRON-js/python-bind-shell-backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -107,7 +107,8 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240109T09:43:21Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 98 | 9| 
+| 20240109T21:05:15Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 100 | 9| 
+| 20240109T15:30:28Z | (NDSS 2024) Optimizing Decompiler Output with LLM | https://github.com/PeiweiHu/DeGPT | 2 | 0| 
 | 20240109T03:48:41Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 142 | 13| 
 | 20240105T06:19:49Z | Null | https://github.com/Compass-All/NDSS24-CAGE | 0 | 0| 
 | 20240104T06:36:58Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 108 | 4| 
@@ -116,16 +117,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240109T13:56:11Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51228 | 23449| 
+| 20240110T00:03:02Z | Null | https://github.com/vzs432i8sob/fuzzy-moon | 0 | 0| 
+| 20240109T23:52:17Z | Null | https://github.com/RollingBeatle/FuzzingCAS | 0 | 0| 
+| 20240109T23:37:52Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51244 | 23451| 
+| 20240109T23:37:02Z | Null | https://github.com/Joaohsd/vsss-fuzzylite | 0 | 0| 
+| 20240109T23:06:18Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9302 | 2084| 
+| 20240109T22:13:47Z | Concrete Strength Prediction | https://github.com/salm-n/fuzzy-octo-barnacle | 0 | 0| 
+| 20240109T21:48:10Z | nuclei template for fuzzing from my endpoint list | https://github.com/BagheeraAltered/FuzzingTemplate | 0 | 0| 
 | 20240109T13:47:05Z | Parallelized, coverage-guided, mutational Solidity smart contract fuzzing, powered by go-ethereum | https://github.com/crytic/medusa | 218 | 21| 
 | 20240109T13:38:00Z | Null | https://github.com/rhuibertsjr/fuzzy-inference-system | 0 | 0| 
 | 20240109T13:14:06Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4981 | 1185| 
-| 20240109T13:09:54Z | Null | https://github.com/dedebroa/ML-Fuzzy | 0 | 0| 
-| 20240109T13:08:11Z | Assessment reports of all the open source projects tracked by BeSecure community is maintained here. Commonly done assessments are static code analysis, license compliance checks, criticality scores and fuzzing | https://github.com/Be-Secure/besecure-assessment-datastore | 4 | 14| 
-| 20240109T12:46:46Z | Null | https://github.com/a1ph0nse/SillyFuzzer | 0 | 0| 
-| 20240109T11:43:32Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 331 | 48| 
-| 20240109T11:35:41Z | Fuzz-TK is an automated software debugging method that aims to relieve developers of the significant burden of fixing software failures. | https://github.com/MiaoWeiliu/Fuzz-TK | 0 | 0| 
-| 20240109T11:25:44Z | Null | https://github.com/google/fuzztest | 507 | 38| 
 
 
 
