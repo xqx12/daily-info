@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240110T02:36:35Z | CVE-2023-27997 | A short tutorial about how to find and verify FortiOS vulnerablility.  | https://github.com/awchjimmy/CVE-2023-27997-tutorial | | 
 | 20240110T02:04:41Z | CVE-2024-21633 | MobSF Remote code execution (via CVE-2024-21633) | https://github.com/0x33c0unt/CVE-2024-21633 | | 
 | 20240110T00:46:38Z | CVE-2023-36900 |  Denial-of-Service PoC , Writeup , Header with CLFS structures , Imhex pattern for .blf extension | https://github.com/RomanRybachek/CVE-2023-36900 | | 
 | 20240109T21:29:58Z | cve-2023-20573 | Null | https://github.com/Freax13/cve-2023-20573-poc | | 
@@ -35,7 +36,6 @@
 | 20240109T03:18:19Z | cve-2023-46604 | Null | https://github.com/hh-hunter/cve-2023-46604 | | 
 | 20240109T00:53:24Z | 未知编号 | Null | https://github.com/NUDTTAN91/CVE20240109 | | 
 | 20240108T22:41:33Z | CVE-2022-36267 | PoC Script for CVE-2022-36267: Exploits an unauthenticated remote command injection vulnerability in Airspan AirSpot 5410 antenna. | https://github.com/0xNslabs/CVE-2022-36267-PoC | | 
-| 20240108T22:10:59Z | CVE-2022-36553 | PoC Script for CVE-2022-36553: Exploits an unauthenticated remote command injection vulnerability in Hytec Inter HWL-2511-SS device. | https://github.com/0xNslabs/CVE-2022-36553-PoC | | 
 
 
 # klee on Github 推荐
