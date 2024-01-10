@@ -85,7 +85,6 @@
 | --- | --- | --- | --- | ---| 
 | 20240109T21:05:15Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 100 | 9| 
 | 20240109T15:30:28Z | (NDSS 2024) Optimizing Decompiler Output with LLM | https://github.com/PeiweiHu/DeGPT | 2 | 0| 
-| 20240109T03:48:41Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 142 | 13| 
 
 
 # fuzz on Github 推荐
