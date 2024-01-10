@@ -92,7 +92,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20240109T23:52:17Z | Null | https://github.com/RollingBeatle/FuzzingCAS | 0 | 0| 
-| 20240109T23:37:52Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51244 | 23451| 
 | 20240109T23:37:02Z | Null | https://github.com/Joaohsd/vsss-fuzzylite | 0 | 0| 
 | 20240109T23:06:18Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9302 | 2084| 
 | 20240109T22:13:47Z | Concrete Strength Prediction | https://github.com/salm-n/fuzzy-octo-barnacle | 0 | 0| 
@@ -101,6 +100,7 @@
 | 20240109T13:38:00Z | Null | https://github.com/rhuibertsjr/fuzzy-inference-system | 0 | 0| 
 | 20240109T13:14:06Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4981 | 1185| 
 | 20240109T13:09:54Z | Null | https://github.com/dedebroa/ML-Fuzzy | 0 | 0| 
+| 20240109T13:08:11Z | Assessment reports of all the open source projects tracked by BeSecure community is maintained here. Commonly done assessments are static code analysis, license compliance checks, criticality scores and fuzzing | https://github.com/Be-Secure/besecure-assessment-datastore | 4 | 14| 
 
 
 

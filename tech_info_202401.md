@@ -117,11 +117,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240110T02:20:29Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51245 | 23451| 
 | 20240110T01:27:11Z | Null | https://github.com/Daniel03-del/fuzzy-robot | 0 | 0| 
 | 20240110T01:26:29Z | Null | https://github.com/riiiiiiiiiii111/fuzzy-couscous | 0 | 0| 
 | 20240110T00:03:02Z | Null | https://github.com/vzs432i8sob/fuzzy-moon | 0 | 0| 
 | 20240109T23:52:17Z | Null | https://github.com/RollingBeatle/FuzzingCAS | 0 | 0| 
-| 20240109T23:37:52Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51244 | 23451| 
 | 20240109T23:37:02Z | Null | https://github.com/Joaohsd/vsss-fuzzylite | 0 | 0| 
 | 20240109T23:06:18Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9302 | 2084| 
 | 20240109T22:13:47Z | Concrete Strength Prediction | https://github.com/salm-n/fuzzy-octo-barnacle | 0 | 0| 
