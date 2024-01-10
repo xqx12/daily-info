@@ -62,6 +62,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240110T02:12:36Z | Null | https://github.com/bothelpersgpt/i-ready-exploits | 1 | 0| 
 | 20240110T02:00:06Z | GitOps Repository | https://github.com/redhat-appstudio-qe/build-suite-test-application-dbei-dUD8E-contain-exploit | 0 | 0| 
 | 20240110T01:43:45Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0031-app-eTNAn-admit-exploit | 0 | 0| 
 | 20240110T01:25:01Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0045-app-jGKER-exploit-ride | 0 | 0| 
@@ -71,7 +72,6 @@
 | 20240110T00:55:37Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-fd | 1 | 0| 
 | 20240109T23:56:48Z | Looking into closed end funds to exploit the consistent spread between their values and their NAV%s (Net Asset Values) which is the market value of their constituents.  | https://github.com/yyashhp/Closed-End-Fund-Research | 0 | 0| 
 | 20240109T18:57:06Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5622 | 1088| 
-| 20240109T13:52:32Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6289 | 822| 
 
 
 # backdoor on Github 推荐
