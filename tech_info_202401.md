@@ -117,6 +117,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240110T01:21:38Z | Null | https://github.com/riiiiiiiiiii111/fuzzy-couscous | 0 | 0| 
+| 20240110T01:19:39Z | Null | https://github.com/Daniel03-del/fuzzy-robot | 0 | 0| 
 | 20240110T00:03:02Z | Null | https://github.com/vzs432i8sob/fuzzy-moon | 0 | 0| 
 | 20240109T23:52:17Z | Null | https://github.com/RollingBeatle/FuzzingCAS | 0 | 0| 
 | 20240109T23:37:52Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51244 | 23451| 
@@ -125,8 +127,6 @@
 | 20240109T22:13:47Z | Concrete Strength Prediction | https://github.com/salm-n/fuzzy-octo-barnacle | 0 | 0| 
 | 20240109T21:48:10Z | nuclei template for fuzzing from my endpoint list | https://github.com/BagheeraAltered/FuzzingTemplate | 0 | 0| 
 | 20240109T13:47:05Z | Parallelized, coverage-guided, mutational Solidity smart contract fuzzing, powered by go-ethereum | https://github.com/crytic/medusa | 218 | 21| 
-| 20240109T13:38:00Z | Null | https://github.com/rhuibertsjr/fuzzy-inference-system | 0 | 0| 
-| 20240109T13:14:06Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4981 | 1185| 
 
 
 
