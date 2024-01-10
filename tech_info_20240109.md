@@ -48,6 +48,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20240109T23:56:48Z | Looking into closed end funds to exploit the consistent spread between their values and their NAV%s (Net Asset Values) which is the market value of their constituents.  | https://github.com/yyashhp/Closed-End-Fund-Research | 0 | 0| 
+| 20240109T20:45:33Z | Null | https://github.com/Wanadi/LotrModCoralExploit | 0 | 0| 
 | 20240109T18:57:06Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5622 | 1088| 
 | 20240109T13:52:32Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6289 | 822| 
 | 20240109T13:44:33Z | Exploiting Symmetry in the Generation Expansion Planning Problem to Accelate Crossover | https://github.com/marnoldus/accelerate-crossover-using-symmetry | 0 | 0| 
@@ -56,7 +57,6 @@
 | 20240109T05:42:57Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 773 | 185| 
 | 20240109T04:50:47Z | Superior exploit database | https://github.com/ArabianReiz/ScriptHub | 0 | 0| 
 | 20240109T03:03:13Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 82 | 12| 
-| 20240109T02:53:30Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0062-app-Sjy2W-exploit-plan | 0 | 0| 
 
 
 # backdoor on Github 推荐
