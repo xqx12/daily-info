@@ -62,6 +62,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240110T01:25:01Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0045-app-jGKER-exploit-ride | 0 | 0| 
 | 20240110T00:58:19Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-fd | 1 | 0| 
 | 20240110T00:57:14Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-fd | 1 | 0| 
 | 20240110T00:56:25Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-fd | 1 | 0| 
@@ -71,7 +72,6 @@
 | 20240109T13:52:32Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6289 | 822| 
 | 20240109T13:44:33Z | Exploiting Symmetry in the Generation Expansion Planning Problem to Accelate Crossover | https://github.com/marnoldus/accelerate-crossover-using-symmetry | 0 | 0| 
 | 20240109T11:38:37Z | SeaShell Framework is an iOS post-exploitation framework that enables you to access the device remotely, control it and extract sensitive information. | https://github.com/EntySec/SeaShell | 47 | 5| 
-| 20240109T11:36:23Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2397 | 901| 
 
 
 # backdoor on Github 推荐
@@ -117,7 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240110T01:21:38Z | Null | https://github.com/riiiiiiiiiii111/fuzzy-couscous | 0 | 0| 
+| 20240110T01:26:29Z | Null | https://github.com/riiiiiiiiiii111/fuzzy-couscous | 0 | 0| 
 | 20240110T01:19:39Z | Null | https://github.com/Daniel03-del/fuzzy-robot | 0 | 0| 
 | 20240110T00:03:02Z | Null | https://github.com/vzs432i8sob/fuzzy-moon | 0 | 0| 
 | 20240109T23:52:17Z | Null | https://github.com/RollingBeatle/FuzzingCAS | 0 | 0| 
