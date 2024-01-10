@@ -117,7 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240110T13:01:16Z | A grammar-aware input trimming technique based on light-weight taint analysis. | https://github.com/zzyyrr/ScissorFuzz | 0 | 0| 
+| 20240110T13:07:50Z | A grammar-aware input trimming technique based on light-weight taint analysis. | https://github.com/zzyyrr/ScissorFuzz | 0 | 0| 
 | 20240110T12:33:39Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9304 | 2085| 
 | 20240110T12:03:47Z | Null | https://github.com/wa2jikeh5s2ab0l/fuzzy-sweater | 0 | 0| 
 | 20240110T11:56:02Z | Null | https://github.com/EVANGELINEBRU1193/fuzzy-guacamole | 0 | 0| 
