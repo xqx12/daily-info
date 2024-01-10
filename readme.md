@@ -39,6 +39,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240110T13:18:27Z | Implementation of the Direct TSQR method, QR factorization for %tall and skinny% matrices, exploiting the advantage of parallelization on distributed systems. Definition of a cluster of virtual machines on the Veneto Cloud network and development of the algorithm using Dask. | https://github.com/filippoprafloriani/Distributed-Algorithms-Direct-QR-factorization | 0 | 0| 
 | 20240110T11:40:40Z | Null | https://github.com/thenetworkfantom/exploits_by_ruby | 0 | 0| 
 | 20240110T10:52:26Z | The Netflix clone project%s MAB recommendation system dynamically suggests content, treating each movie as an %arm.% Balancing exploration and exploitation, it refines suggestions based on user interactions, continually optimizing the user experience. Movie posters are seamlessly integrated, enhancing the visual appeal of the recommendations. | https://github.com/Tech-Spookezz/MAB-Recommendation-System | 0 | 0| 
 | 20240110T10:17:36Z | Sử dụng công cụ nmap để quét lỗ hổng trên windows 7 và khai thác lỗ hổng MS17-010 bằng metasploit | https://github.com/BHNamSSD/Exploits-vulnerability-MS17-010 | 1 | 0| 
@@ -48,7 +49,6 @@
 | 20240110T02:47:28Z | Some of my exploits. | https://github.com/GotCookies420/RbxScripts | 0 | 0| 
 | 20240110T02:12:36Z | Null | https://github.com/bothelpersgpt/i-ready-exploits | 1 | 0| 
 | 20240110T02:00:06Z | GitOps Repository | https://github.com/redhat-appstudio-qe/build-suite-test-application-dbei-dUD8E-contain-exploit | 0 | 0| 
-| 20240110T01:43:45Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0031-app-eTNAn-admit-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
