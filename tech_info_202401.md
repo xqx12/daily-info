@@ -77,7 +77,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240109T23:50:14Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2398 | 901| 
+| 20240110T02:46:12Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2399 | 901| 
 | 20240109T18:40:40Z | Simple backdoor en HTML y PHP, permite ejecutar una reverse shell en bash | https://github.com/M4THsb09/sadbackdoor | 0 | 0| 
 | 20240109T17:32:34Z | Null | https://github.com/CaptHarsh/Backdoor-Creation-on-LocalHost | 0 | 0| 
 | 20240109T12:47:58Z | Null | https://github.com/Makanoy/backdoor | 0 | 0| 
