@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240110T02:01:53Z | CVE-2024-21633 | MobSF Remote code execution (via CVE-2024-21633) | https://github.com/0x33c0unt/CVE-2024-21633 | | 
+| 20240110T02:04:41Z | CVE-2024-21633 | MobSF Remote code execution (via CVE-2024-21633) | https://github.com/0x33c0unt/CVE-2024-21633 | | 
 | 20240110T00:46:38Z | CVE-2023-36900 |  Denial-of-Service PoC , Writeup , Header with CLFS structures , Imhex pattern for .blf extension | https://github.com/RomanRybachek/CVE-2023-36900 | | 
 | 20240109T21:29:58Z | cve-2023-20573 | Null | https://github.com/Freax13/cve-2023-20573-poc | | 
 | 20240109T20:13:12Z | CVE-2022-1388 | PoC for CVE-2022-1388 affecting F5 BIG-IP. | https://github.com/nico989/CVE-2022-1388 | | 
