@@ -26,6 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240111T10:55:16Z | cve-2023-51467 | A go-exploit for Apache OFBiz CVE-2023-51467 | https://github.com/vulncheck-oss/cve-2023-51467 | | 
+| 20240111T08:35:18Z | CVE-2023-46474 | Technical details for CVE-2023-46474 | https://github.com/Xn2/CVE-2023-46474 | | 
+| 20240111T05:43:31Z | CVE-2023-6567 | Time-based SQLi | https://github.com/mimiloveexe/CVE-2023-6567-poc | | 
 | 20240110T20:48:11Z | Cve-2023- | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Maskiow/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 | 20240110T20:48:06Z | Cve-2023- | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/Maskiow/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 | 20240110T20:47:59Z | Cve-2023- | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/Maskiow/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
@@ -33,24 +36,21 @@
 | 20240110T18:12:26Z | CVE-2023-51208 | Arbitrary File Upload Vulnerability in ROS2 Foxy Fitzroy | https://github.com/16yashpatel/CVE-2023-51208 | | 
 | 20240110T18:08:19Z | CVE-2023-51204 | Insecure Deserialization Vulnerability in ROS2 Foxy Fitzroy | https://github.com/16yashpatel/CVE-2023-51204 | | 
 | 20240110T17:43:05Z | CVE-2023-51202 | OS Command Injection Vulnerability in ROS2 Foxy Fitzroy | https://github.com/16yashpatel/CVE-2023-51202 | | 
-| 20240110T16:54:06Z | CVE-2023-51201 | Information Leakage in ROS2 Foxy Fitzroy via Plaintext Message Transmission | https://github.com/16yashpatel/CVE-2023-51201 | | 
-| 20240110T16:32:49Z | CVE-2023-51200 | Security Misconfiguration in ROS2 Foxy Fitzroy | https://github.com/16yashpatel/CVE-2023-51200 | | 
-| 20240110T16:12:31Z | CVE-2023-51199 | Buffer Overflow Vulnerability in ROS2 Foxy Fitzroy | https://github.com/16yashpatel/CVE-2023-51199 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240110T14:29:48Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14901 | 445| 
+| 20240111T12:12:44Z | Config files for my GitHub profile. | https://github.com/Kleezyy/Kleezyy | 0 | 0| 
+| 20240111T11:41:13Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14904 | 446| 
 | 20240110T14:08:54Z | Null | https://github.com/Aadarsh-2912/KLEENEX | 0 | 0| 
-| 20240110T13:27:01Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2391 | 646| 
+| 20240110T13:27:01Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2391 | 647| 
 | 20240109T15:47:25Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 419 | 9| 
 | 20240106T22:53:42Z | [ICSE SEIP 2024] Broadly Enabling KLEE to Effortlessly Find Unrecoverable Errors   in Rust | https://github.com/NEUZhangy/ICSE-SEIP-2024 | 0 | 0| 
 | 20240106T20:30:50Z | Experiments with running klee on coreutils | https://github.com/riesentoaster/klee-coreutils-experiments | 0 | 0| 
 | 20240105T22:46:34Z | Null | https://github.com/EPmaple/Klee-DCslimebot-JSversion | 0 | 0| 
 | 20240105T17:27:30Z | Reader zu den Entspannungsmassage-Workshops von Oliver Klee | https://github.com/oliverklee/massagereader | 5 | 1| 
 | 20240104T21:06:06Z | Witch-KLEE - A KLEE-based error witness checker | https://github.com/ayazip/witch-klee | 5 | 0| 
-| 20240104T07:56:15Z | Shell scripts about running coreutils experiment with KLEE | https://github.com/qichang3/coreutils-experiment | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -62,6 +62,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240111T12:49:40Z | A straightforward tool for exploiting SMTP Smuggling vulnerabilities. | https://github.com/passwa11/SmuggleTP | 0 | 1| 
+| 20240111T10:18:40Z | Null | https://github.com/nonamed01/exploits | 2 | 0| 
 | 20240111T02:52:06Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0103-app-mmLAY-mark-exploit | 0 | 0| 
 | 20240111T02:13:13Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0014-app-MIu_l-exploit-divide | 0 | 0| 
 | 20240111T01:55:07Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 775 | 185| 
@@ -70,23 +72,21 @@
 | 20240111T01:15:15Z | SeaShell Framework is an iOS post-exploitation framework that enables you to access the device remotely, control it and extract sensitive information. | https://github.com/EntySec/SeaShell | 56 | 9| 
 | 20240111T00:25:57Z | A Python 3 library that has been optimised to retrieve the latest exploit database, generate searchable indexes for CVE -> EDBID and EDBID -> CVE, and offer search functions. | https://github.com/Nikithaashokkumar/exploiting-database | 0 | 0| 
 | 20240111T00:08:54Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-vh | 1 | 0| 
-| 20240111T00:08:18Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-vh | 1 | 0| 
-| 20240111T00:03:14Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-vh | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240111T12:36:10Z | Promotor Login , http://tunes.herobuxx.me/backdoor/ | https://github.com/thetunes/backdoor | 0 | 0| 
+| 20240111T11:54:01Z | Null | https://github.com/Leanwithming/TestForEmbeddingBackdoor | 0 | 0| 
+| 20240111T08:54:34Z | It is a funcatinal backdoor which is communcated via telegram api | https://github.com/hack505/Telegram_BackDoor | 0 | 0| 
+| 20240111T07:41:16Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2400 | 900| 
+| 20240111T05:59:45Z | The C2 Cloud is a robust web-based C2 framework, designed to simplify the life of penetration testers. It allows easy access to compromised backdoors, just like accessing an EC2 instance in the AWS cloud. It can manage several simultaneous backdoor sessions with a user-friendly interface.  | https://github.com/govindasamyarun/c2-cloud | 10 | 0| 
 | 20240111T01:46:42Z | ELF binary forensics tool for APT, virus, backdoor and rootkit detection | https://github.com/arcana-technologies/arcana.elfscan | 18 | 1| 
 | 20240110T20:48:41Z | The S-500 G2 Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/Maskiow/S500-RAT-HVNC-HAPP-HIdden-BROWSER-HRDP-REVERSE-PROXY-CRYPTO-MONITOR | 0 | 0| 
 | 20240110T20:48:17Z | Hidden VNC constitutes an ingenious stratagem harnessed by the most adept connoisseurs of technology. This method, by far, presents an exhilarating modality to govern the operation | https://github.com/Maskiow/Pandora-HVNC-2FABypass-WebGL-Hidden-Desktop-Outlook-Foxmail-Stealer-Hidden-Browser | 0 | 0| 
 | 20240110T20:47:45Z | Remote Administration Either you are a private user wanting to control your PC from afar, or a big company which wants to administrate hundreds of machines from a single computer, | https://github.com/Maskiow/ICARUS-NET2-NET4-BAT-VBS-VBA-HVNC-BINDER-PHP-FTPLOGS-RECOVERY-KEYLOG-WEBGL-ROOKIT | 0 | 0| 
 | 20240110T20:47:20Z | The X-Worm Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/Maskiow/XWorm-V5.2-Edition-HVNC-RAT-DDOS-PASSWORDS-RANSOMWARE-CLIPPER-KEYLOGGER-UAC-BYPASS | 0 | 0| 
-| 20240110T20:07:54Z | AsyncRAT stands as a Remote Access Tool (RAT) conceived for the purpose of distant supervision and command over remote computers through an encrypted connection ensuring security. | https://github.com/MakShadow/AsyncRAT-Fud-Fixed-Dll-Remote-Administration-Tool-New | 0 | 0| 
-| 20240110T20:07:45Z | BitRAT CrackedIt is meticulously constructed utilizing the C++ programming language. It stands as the most recent iteration of the premier PC RAT for the year 2023. Regarded as a prized tool | https://github.com/MakShadow/Bitrat-Hvnc-Rat-Remote-Control-Av-Bypass | 0 | 0| 
-| 20240110T20:06:49Z | VenomControl Rat is a Remote Access Tool (RAT) designed to remotely monitor and control other computers through a secure encrypted connection | https://github.com/MakShadow/VenomControl-Rat-Crack-Source | 0 | 0| 
-| 20240110T20:06:47Z | Computing) capabilities. It boasts compatibility with a spectrum of 20 concealed browsers. Pegasus HVNC facet facilitates the orchestration of a concealed desktop environment | https://github.com/MakShadow/Pegasus-Pantheon-HVNC-V2-VNC-Hidden-Browser-Remote-Administration-Rat | 0 | 0| 
-| 20240110T17:47:58Z | Backdoor profile | https://github.com/kathsguy/Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -107,7 +107,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240111T02:40:37Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 103 | 9| 
+| 20240111T11:29:50Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 104 | 9| 
 | 20240110T02:41:21Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 143 | 13| 
 | 20240109T15:30:28Z | (NDSS 2024) Optimizing Decompiler Output with LLM | https://github.com/PeiweiHu/DeGPT | 2 | 0| 
 | 20240105T06:19:49Z | Null | https://github.com/Compass-All/NDSS24-CAGE | 0 | 0| 
@@ -117,16 +117,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240111T12:09:24Z | A study repository | https://github.com/maiconwa/fuzzy-guide | 0 | 0| 
+| 20240111T11:17:30Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1723 | 256| 
+| 20240111T11:13:19Z | LEGEND | https://github.com/asddddf147/fuzzy-octo-waddle | 0 | 0| 
+| 20240111T09:32:06Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4983 | 1186| 
 | 20240111T02:28:50Z | Null | https://github.com/YixuanGao98/Blind-Image-Quality-Assessment-A-Fuzzy-Neural-Network-for-Opinion-Score-Distribution-Prediction | 0 | 0| 
 | 20240111T02:02:51Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51267 | 23455| 
 | 20240111T01:43:18Z | Null | https://github.com/rsher60/Fastapi_Fuzzy | 0 | 0| 
 | 20240111T01:09:53Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9306 | 2086| 
 | 20240111T00:45:36Z | Null | https://github.com/flounderK/flok-fuzzing-stuff | 0 | 0| 
 | 20240110T23:49:43Z | Nvim Configuration folder | https://github.com/Alexandr9719/fuzzy-doodle | 0 | 0| 
-| 20240110T22:44:52Z | Controlador de Ar Condicionado desenvolvido com Lógica Fuzzy como avaliação da disciplina de Inteligência Artificial II. | https://github.com/felipeverones/Controlador-Logica-Fuzzy | 0 | 0| 
-| 20240110T20:48:26Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5139 | 555| 
-| 20240110T13:34:10Z | Null | https://github.com/heavenjoy11/fuzzy-garbanzo | 0 | 0| 
-| 20240110T13:07:50Z | A grammar-aware input trimming technique based on light-weight taint analysis. | https://github.com/zzyyrr/ScissorFuzz | 0 | 0| 
 
 
 
