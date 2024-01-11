@@ -26,23 +26,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240110T08:10:37Z | CVE-2023-1454 | JeecgBoot SQL（CVE-2023-1454）sqlmap 注入不出来的情况可以使用该脚本 | https://github.com/shad0w0sec/CVE-2023-1454-EXP | | 
-| 20240110T06:33:09Z | CVE-2023-48022 | CVE-2023-48022 exploit modified from Bishop Fox work | https://github.com/0x656565/CVE-2023-48022 | | 
-| 20240110T06:15:29Z | CVE-2022-32883 | Turning Your Computer Into a GPS Tracker With Apple Maps | https://github.com/breakpointHQ/CVE-2022-32883 | | 
-| 20240110T02:36:35Z | CVE-2023-27997 | A short tutorial about how to find and verify FortiOS vulnerablility.  | https://github.com/awchjimmy/CVE-2023-27997-tutorial | | 
-| 20240110T02:04:41Z | CVE-2024-21633 | MobSF Remote code execution (via CVE-2024-21633) | https://github.com/0x33c0unt/CVE-2024-21633 | | 
-| 20240110T00:46:38Z | CVE-2023-36900 |  Denial-of-Service PoC , Writeup , Header with CLFS structures , Imhex pattern for .blf extension | https://github.com/RomanRybachek/CVE-2023-36900 | | 
-| 20240109T21:29:58Z | cve-2023-20573 | Null | https://github.com/Freax13/cve-2023-20573-poc | | 
-| 20240109T20:13:12Z | CVE-2022-1388 | PoC for CVE-2022-1388 affecting F5 BIG-IP. | https://github.com/nico989/CVE-2022-1388 | | 
-| 20240109T15:44:52Z | CVE-2023-51385 | Null | https://github.com/Sonicrrrr/CVE-2023-51385 | | 
-| 20240109T07:37:00Z | CVE-2023-4357 | Null | https://github.com/WinnieZy/CVE-2023-4357 | | 
+| 20240110T20:48:11Z | Cve-2023- | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Maskiow/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
+| 20240110T20:48:06Z | Cve-2023- | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/Maskiow/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
+| 20240110T20:47:59Z | Cve-2023- | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/Maskiow/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
+| 20240110T20:47:21Z | Cve-2023- | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/Maskiow/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
+| 20240110T18:12:26Z | CVE-2023-51208 | Arbitrary File Upload Vulnerability in ROS2 Foxy Fitzroy | https://github.com/16yashpatel/CVE-2023-51208 | | 
+| 20240110T18:08:19Z | CVE-2023-51204 | Insecure Deserialization Vulnerability in ROS2 Foxy Fitzroy | https://github.com/16yashpatel/CVE-2023-51204 | | 
+| 20240110T17:43:05Z | CVE-2023-51202 | OS Command Injection Vulnerability in ROS2 Foxy Fitzroy | https://github.com/16yashpatel/CVE-2023-51202 | | 
+| 20240110T16:54:06Z | CVE-2023-51201 | Information Leakage in ROS2 Foxy Fitzroy via Plaintext Message Transmission | https://github.com/16yashpatel/CVE-2023-51201 | | 
+| 20240110T16:32:49Z | CVE-2023-51200 | Security Misconfiguration in ROS2 Foxy Fitzroy | https://github.com/16yashpatel/CVE-2023-51200 | | 
+| 20240110T16:12:31Z | CVE-2023-51199 | Buffer Overflow Vulnerability in ROS2 Foxy Fitzroy | https://github.com/16yashpatel/CVE-2023-51199 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240110T13:57:23Z | Null | https://github.com/Aadarsh-2912/KLEENEX | 0 | 0| 
-| 20240110T13:42:36Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14900 | 445| 
+| 20240110T14:29:48Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14901 | 445| 
+| 20240110T14:08:54Z | Null | https://github.com/Aadarsh-2912/KLEENEX | 0 | 0| 
 | 20240110T13:27:01Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2391 | 646| 
 | 20240109T15:47:25Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 419 | 9| 
 | 20240106T22:53:42Z | [ICSE SEIP 2024] Broadly Enabling KLEE to Effortlessly Find Unrecoverable Errors   in Rust | https://github.com/NEUZhangy/ICSE-SEIP-2024 | 0 | 0| 
@@ -62,31 +62,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240110T13:18:27Z | Implementation of the Direct TSQR method, QR factorization for %tall and skinny% matrices, exploiting the advantage of parallelization on distributed systems. Definition of a cluster of virtual machines on the Veneto Cloud network and development of the algorithm using Dask. | https://github.com/filippoprafloriani/Distributed-Algorithms-Direct-QR-factorization | 0 | 0| 
-| 20240110T11:40:40Z | Null | https://github.com/thenetworkfantom/exploits_by_ruby | 0 | 0| 
-| 20240110T10:52:26Z | The Netflix clone project%s MAB recommendation system dynamically suggests content, treating each movie as an %arm.% Balancing exploration and exploitation, it refines suggestions based on user interactions, continually optimizing the user experience. Movie posters are seamlessly integrated, enhancing the visual appeal of the recommendations. | https://github.com/Tech-Spookezz/MAB-Recommendation-System | 0 | 0| 
-| 20240110T10:17:36Z | Sử dụng công cụ nmap để quét lỗ hổng trên windows 7 và khai thác lỗ hổng MS17-010 bằng metasploit | https://github.com/BHNamSSD/Exploits-vulnerability-MS17-010 | 1 | 0| 
-| 20240110T10:01:03Z | Null | https://github.com/Tridev-github/Exploiting_log4j_vulnerability | 0 | 0| 
-| 20240110T09:42:53Z | Simple-XSS is a multiplatform cross-site scripting (XSS) vulnerability exploitation tool. | https://github.com/CrazyProger1/Simple-XSS | 42 | 6| 
-| 20240110T02:54:03Z | Extra goodies for GEF to (try to) make GDB suck even less | https://github.com/hugsy/gef-extras | 129 | 48| 
-| 20240110T02:47:28Z | Some of my exploits. | https://github.com/GotCookies420/RbxScripts | 0 | 0| 
-| 20240110T02:12:36Z | Null | https://github.com/bothelpersgpt/i-ready-exploits | 1 | 0| 
-| 20240110T02:00:06Z | GitOps Repository | https://github.com/redhat-appstudio-qe/build-suite-test-application-dbei-dUD8E-contain-exploit | 0 | 0| 
+| 20240111T00:25:57Z | A Python 3 library that has been optimised to retrieve the latest exploit database, generate searchable indexes for CVE -> EDBID and EDBID -> CVE, and offer search functions. | https://github.com/Nikithaashokkumar/exploiting-database | 0 | 0| 
+| 20240111T00:08:54Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-vh | 1 | 0| 
+| 20240111T00:08:18Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-vh | 1 | 0| 
+| 20240111T00:03:14Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-vh | 1 | 0| 
+| 20240111T00:02:19Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-vh | 1 | 0| 
+| 20240110T20:48:06Z | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/Maskiow/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
+| 20240110T20:47:24Z | Ephemeral discourse is embodied by the likes of Messenger Sessions, the digital portraits of Accounts, and the enigmatic Token | https://github.com/Maskiow/Discord-Image-Logger-Slient-Exploit-Builder-Grabber-Stealer | 0 | 0| 
+| 20240110T20:31:11Z | A project that offers cheats developed with C++ for DayZ. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/Makasshi/PROOFCORE-Dayz-Cheat-Hack-Aimbot-Esp-Exploit-Magic-Bullet-Spoofer-Misc | 0 | 0| 
+| 20240110T18:04:43Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 774 | 185| 
+| 20240110T17:19:08Z | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | 12 | 3| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240110T13:57:52Z | Null | https://github.com/TeuZero/BackDoorPEInjection | 0 | 0| 
-| 20240110T13:52:00Z | Null | https://github.com/TeuZero/BackdoorInC | 0 | 0| 
-| 20240110T07:28:13Z | ELF binary forensics tool for APT, virus, backdoor and rootkit detection | https://github.com/arcana-technologies/arcana.elfscan | 10 | 1| 
-| 20240110T02:46:12Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2399 | 901| 
-| 20240109T18:40:40Z | Simple backdoor en HTML y PHP, permite ejecutar una reverse shell en bash | https://github.com/M4THsb09/sadbackdoor | 0 | 0| 
-| 20240109T17:32:34Z | Null | https://github.com/CaptHarsh/Backdoor-Creation-on-LocalHost | 0 | 0| 
-| 20240109T12:47:58Z | Null | https://github.com/Makanoy/backdoor | 0 | 0| 
-| 20240109T05:13:33Z | CLEAN FRESHLY CODED DRAINER, NO BACKDOOR | https://github.com/godfather9916/Multi-Network-Drainer | 1 | 0| 
-| 20240109T02:00:46Z | A framework for backdooring Microsoft Nuget packages. | https://github.com/mastercodeon314/NugetBackdoor | 5 | 0| 
-| 20240109T01:21:33Z | try me la | https://github.com/MuhammadAndika1/backdoor | 0 | 0| 
+| 20240111T00:31:17Z | ELF binary forensics tool for APT, virus, backdoor and rootkit detection | https://github.com/arcana-technologies/arcana.elfscan | 16 | 1| 
+| 20240110T20:48:41Z | The S-500 G2 Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/Maskiow/S500-RAT-HVNC-HAPP-HIdden-BROWSER-HRDP-REVERSE-PROXY-CRYPTO-MONITOR | 0 | 0| 
+| 20240110T20:48:17Z | Hidden VNC constitutes an ingenious stratagem harnessed by the most adept connoisseurs of technology. This method, by far, presents an exhilarating modality to govern the operation | https://github.com/Maskiow/Pandora-HVNC-2FABypass-WebGL-Hidden-Desktop-Outlook-Foxmail-Stealer-Hidden-Browser | 0 | 0| 
+| 20240110T20:47:45Z | Remote Administration Either you are a private user wanting to control your PC from afar, or a big company which wants to administrate hundreds of machines from a single computer, | https://github.com/Maskiow/ICARUS-NET2-NET4-BAT-VBS-VBA-HVNC-BINDER-PHP-FTPLOGS-RECOVERY-KEYLOG-WEBGL-ROOKIT | 0 | 0| 
+| 20240110T20:47:20Z | The X-Worm Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/Maskiow/XWorm-V5.2-Edition-HVNC-RAT-DDOS-PASSWORDS-RANSOMWARE-CLIPPER-KEYLOGGER-UAC-BYPASS | 0 | 0| 
+| 20240110T20:07:54Z | AsyncRAT stands as a Remote Access Tool (RAT) conceived for the purpose of distant supervision and command over remote computers through an encrypted connection ensuring security. | https://github.com/MakShadow/AsyncRAT-Fud-Fixed-Dll-Remote-Administration-Tool-New | 0 | 0| 
+| 20240110T20:07:45Z | BitRAT CrackedIt is meticulously constructed utilizing the C++ programming language. It stands as the most recent iteration of the premier PC RAT for the year 2023. Regarded as a prized tool | https://github.com/MakShadow/Bitrat-Hvnc-Rat-Remote-Control-Av-Bypass | 0 | 0| 
+| 20240110T20:06:49Z | VenomControl Rat is a Remote Access Tool (RAT) designed to remotely monitor and control other computers through a secure encrypted connection | https://github.com/MakShadow/VenomControl-Rat-Crack-Source | 0 | 0| 
+| 20240110T20:06:47Z | Computing) capabilities. It boasts compatibility with a spectrum of 20 concealed browsers. Pegasus HVNC facet facilitates the orchestration of a concealed desktop environment | https://github.com/MakShadow/Pegasus-Pantheon-HVNC-V2-VNC-Hidden-Browser-Remote-Administration-Rat | 0 | 0| 
+| 20240110T17:47:58Z | Backdoor profile | https://github.com/kathsguy/Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -107,7 +107,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240110T09:08:56Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 101 | 9| 
+| 20240111T00:50:48Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 102 | 9| 
 | 20240110T02:41:21Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 143 | 13| 
 | 20240109T15:30:28Z | (NDSS 2024) Optimizing Decompiler Output with LLM | https://github.com/PeiweiHu/DeGPT | 2 | 0| 
 | 20240105T06:19:49Z | Null | https://github.com/Compass-All/NDSS24-CAGE | 0 | 0| 
