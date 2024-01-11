@@ -62,7 +62,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240111T01:15:15Z | SeaShell Framework is an iOS post-exploitation framework that enables you to access the device remotely, control it and extract sensitive information. | https://github.com/EntySec/SeaShell | 56 | 7| 
+| 20240111T01:15:15Z | SeaShell Framework is an iOS post-exploitation framework that enables you to access the device remotely, control it and extract sensitive information. | https://github.com/EntySec/SeaShell | 56 | 8| 
 | 20240111T00:25:57Z | A Python 3 library that has been optimised to retrieve the latest exploit database, generate searchable indexes for CVE -> EDBID and EDBID -> CVE, and offer search functions. | https://github.com/Nikithaashokkumar/exploiting-database | 0 | 0| 
 | 20240111T00:08:54Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-vh | 1 | 0| 
 | 20240111T00:08:18Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-vh | 1 | 0| 
