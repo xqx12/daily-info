@@ -118,7 +118,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20240111T02:28:50Z | Null | https://github.com/YixuanGao98/Blind-Image-Quality-Assessment-A-Fuzzy-Neural-Network-for-Opinion-Score-Distribution-Prediction | 0 | 0| 
-| 20240111T02:02:51Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51267 | 23456| 
+| 20240111T02:02:51Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51267 | 23455| 
 | 20240111T01:43:18Z | Null | https://github.com/rsher60/Fastapi_Fuzzy | 0 | 0| 
 | 20240111T01:09:53Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9306 | 2086| 
 | 20240111T00:45:36Z | Null | https://github.com/flounderK/flok-fuzzing-stuff | 0 | 0| 
