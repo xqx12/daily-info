@@ -63,15 +63,15 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20240111T13:42:42Z | Null | https://github.com/ifulxploit/PSOProxy-DoS-Exploit | 0 | 0| 
+| 20240111T13:40:55Z | This Android application showcases various security vulnerabilities and potential security threats that can occur on an Android device. It includes demonstrations of exploiting services, content providers, notification permissions, and more. | https://github.com/n0S3curity/PT-Android-Malware-App | 1 | 0| 
 | 20240111T13:36:53Z | A post-exploitation, command and control framework written in Rust. | https://github.com/hideckies/hermit | 1 | 1| 
 | 20240111T12:50:23Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5625 | 1089| 
 | 20240111T12:49:40Z | A straightforward tool for exploiting SMTP Smuggling vulnerabilities. | https://github.com/passwa11/SmuggleTP | 0 | 1| 
 | 20240111T12:33:53Z | SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery. | https://github.com/MegaManSec/SSH-Snake | 720 | 38| 
+| 20240111T10:38:53Z | All about DDoS attacks, exploits, botnets and some proxies =) | https://github.com/sp00fing/ddos | 255 | 18| 
 | 20240111T10:18:40Z | Null | https://github.com/nonamed01/exploits | 2 | 0| 
 | 20240111T02:52:06Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0103-app-mmLAY-mark-exploit | 0 | 0| 
 | 20240111T02:13:13Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0014-app-MIu_l-exploit-divide | 0 | 0| 
-| 20240111T01:55:07Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 775 | 185| 
-| 20240111T01:35:34Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0023-app-8yUu4-attempt-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
