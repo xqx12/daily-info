@@ -101,7 +101,7 @@
 | 20240108T03:58:34Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 483 | 34| 
 | 20240105T16:04:43Z | ToolChain using Symbolic Execution for Malware Analysis. | https://github.com/csvl/SEMA-ToolChain | 26 | 12| 
 | 20240105T02:22:16Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 72 | 9| 
-| 20240103T20:57:36Z | Null | https://github.com/will43w/toy_symbolic_execution | 0 | 0| 
+| 20240104T16:49:45Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 501 | 43| 
 
 
 # big4 on Github 推荐
