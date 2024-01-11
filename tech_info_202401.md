@@ -117,6 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240111T13:28:06Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4232 | 867| 
 | 20240111T12:09:24Z | A study repository | https://github.com/maiconwa/fuzzy-guide | 0 | 0| 
 | 20240111T11:17:30Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1723 | 256| 
 | 20240111T11:13:19Z | LEGEND | https://github.com/asddddf147/fuzzy-octo-waddle | 0 | 0| 
@@ -126,7 +127,6 @@
 | 20240111T01:43:18Z | Null | https://github.com/rsher60/Fastapi_Fuzzy | 0 | 0| 
 | 20240111T01:09:53Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9306 | 2086| 
 | 20240111T00:45:36Z | Null | https://github.com/flounderK/flok-fuzzing-stuff | 0 | 0| 
-| 20240110T23:49:43Z | Nvim Configuration folder | https://github.com/Alexandr9719/fuzzy-doodle | 0 | 0| 
 
 
 
