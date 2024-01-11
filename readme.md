@@ -88,7 +88,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20240110T23:49:43Z | Nvim Configuration folder | https://github.com/Alexandr9719/fuzzy-doodle | 0 | 0| 
-| 20240110T22:56:05Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51266 | 23456| 
 | 20240110T22:44:52Z | Controlador de Ar Condicionado desenvolvido com Lógica Fuzzy como avaliação da disciplina de Inteligência Artificial II. | https://github.com/felipeverones/Controlador-Logica-Fuzzy | 0 | 0| 
 | 20240110T20:48:26Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5139 | 555| 
 | 20240110T13:34:10Z | Null | https://github.com/heavenjoy11/fuzzy-garbanzo | 0 | 0| 
@@ -97,6 +96,7 @@
 | 20240110T11:56:02Z | Null | https://github.com/EVANGELINEBRU1193/fuzzy-guacamole | 0 | 0| 
 | 20240110T11:45:02Z | %An Investigation Into Fuzzy Systems%. Python and report for the coursework of the Uncertainty Modelling for Intelligent Systems unit. | https://github.com/tslwn/fuzzy-systems | 0 | 0| 
 | 20240110T11:32:29Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1717 | 256| 
+| 20240110T01:27:11Z | Null | https://github.com/Daniel03-del/fuzzy-robot | 0 | 0| 
 
 
 
