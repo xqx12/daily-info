@@ -62,6 +62,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240111T13:42:42Z | Null | https://github.com/ifulxploit/PSOProxy-DoS-Exploit | 0 | 0| 
 | 20240111T13:36:53Z | A post-exploitation, command and control framework written in Rust. | https://github.com/hideckies/hermit | 1 | 1| 
 | 20240111T12:50:23Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5625 | 1089| 
 | 20240111T12:49:40Z | A straightforward tool for exploiting SMTP Smuggling vulnerabilities. | https://github.com/passwa11/SmuggleTP | 0 | 1| 
@@ -71,7 +72,6 @@
 | 20240111T02:13:13Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0014-app-MIu_l-exploit-divide | 0 | 0| 
 | 20240111T01:55:07Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 775 | 185| 
 | 20240111T01:35:34Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0023-app-8yUu4-attempt-exploit | 0 | 0| 
-| 20240111T01:34:19Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0021-app-Qdc2A-admit-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
