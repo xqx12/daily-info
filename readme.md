@@ -16,6 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240111T13:41:21Z | CVE-2023-28432 | minio系统存在信息泄露漏洞，未经身份认证的远程攻击，通过发送特殊POST请求到/minio/bootstrap/v1/verify即可获取所有敏感信息，其中包括MINIO_SECRET_KEY和MINIO_ROOT_PASSWORD，可能导致管理员账号密码泄露。 | https://github.com/xk-mt/CVE-2023-28432 | | 
 | 20240111T10:55:16Z | cve-2023-51467 | A go-exploit for Apache OFBiz CVE-2023-51467 | https://github.com/vulncheck-oss/cve-2023-51467 | | 
 | 20240111T08:35:18Z | CVE-2023-46474 | Technical details for CVE-2023-46474 | https://github.com/Xn2/CVE-2023-46474 | | 
 | 20240111T05:43:31Z | CVE-2023-6567 | Time-based SQLi | https://github.com/mimiloveexe/CVE-2023-6567-poc | | 

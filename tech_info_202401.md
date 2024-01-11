@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240111T13:41:21Z | CVE-2023-28432 | minio系统存在信息泄露漏洞，未经身份认证的远程攻击，通过发送特殊POST请求到/minio/bootstrap/v1/verify即可获取所有敏感信息，其中包括MINIO_SECRET_KEY和MINIO_ROOT_PASSWORD，可能导致管理员账号密码泄露。 | https://github.com/xk-mt/CVE-2023-28432 | | 
 | 20240111T10:55:16Z | cve-2023-51467 | A go-exploit for Apache OFBiz CVE-2023-51467 | https://github.com/vulncheck-oss/cve-2023-51467 | | 
 | 20240111T08:35:18Z | CVE-2023-46474 | Technical details for CVE-2023-46474 | https://github.com/Xn2/CVE-2023-46474 | | 
 | 20240111T05:43:31Z | CVE-2023-6567 | Time-based SQLi | https://github.com/mimiloveexe/CVE-2023-6567-poc | | 
@@ -35,7 +36,6 @@
 | 20240110T20:47:21Z | Cve-2023- | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/Maskiow/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 | 20240110T18:12:26Z | CVE-2023-51208 | Arbitrary File Upload Vulnerability in ROS2 Foxy Fitzroy | https://github.com/16yashpatel/CVE-2023-51208 | | 
 | 20240110T18:08:19Z | CVE-2023-51204 | Insecure Deserialization Vulnerability in ROS2 Foxy Fitzroy | https://github.com/16yashpatel/CVE-2023-51204 | | 
-| 20240110T17:43:05Z | CVE-2023-51202 | OS Command Injection Vulnerability in ROS2 Foxy Fitzroy | https://github.com/16yashpatel/CVE-2023-51202 | | 
 
 
 # klee on Github 推荐
