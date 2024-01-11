@@ -62,6 +62,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240111T02:52:06Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0103-app-mmLAY-mark-exploit | 0 | 0| 
 | 20240111T02:13:13Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0014-app-MIu_l-exploit-divide | 0 | 0| 
 | 20240111T01:55:07Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 775 | 185| 
 | 20240111T01:35:34Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0023-app-8yUu4-attempt-exploit | 0 | 0| 
@@ -71,7 +72,6 @@
 | 20240111T00:08:54Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-vh | 1 | 0| 
 | 20240111T00:08:18Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-vh | 1 | 0| 
 | 20240111T00:03:14Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-vh | 1 | 0| 
-| 20240111T00:02:19Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-vh | 1 | 0| 
 
 
 # backdoor on Github 推荐
