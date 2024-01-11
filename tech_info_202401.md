@@ -62,6 +62,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240111T01:35:34Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0023-app-8yUu4-attempt-exploit | 0 | 0| 
+| 20240111T01:34:19Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0021-app-Qdc2A-admit-exploit | 0 | 0| 
 | 20240111T01:15:15Z | SeaShell Framework is an iOS post-exploitation framework that enables you to access the device remotely, control it and extract sensitive information. | https://github.com/EntySec/SeaShell | 56 | 8| 
 | 20240111T00:25:57Z | A Python 3 library that has been optimised to retrieve the latest exploit database, generate searchable indexes for CVE -> EDBID and EDBID -> CVE, and offer search functions. | https://github.com/Nikithaashokkumar/exploiting-database | 0 | 0| 
 | 20240111T00:08:54Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-vh | 1 | 0| 
@@ -70,8 +72,6 @@
 | 20240111T00:02:19Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-vh | 1 | 0| 
 | 20240110T20:48:06Z | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/Maskiow/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 | 20240110T20:47:24Z | Ephemeral discourse is embodied by the likes of Messenger Sessions, the digital portraits of Accounts, and the enigmatic Token | https://github.com/Maskiow/Discord-Image-Logger-Slient-Exploit-Builder-Grabber-Stealer | 0 | 0| 
-| 20240110T20:31:11Z | A project that offers cheats developed with C++ for DayZ. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/Makasshi/PROOFCORE-Dayz-Cheat-Hack-Aimbot-Esp-Exploit-Magic-Bullet-Spoofer-Misc | 0 | 0| 
-| 20240110T18:04:43Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 774 | 185| 
 
 
 # backdoor on Github 推荐
@@ -117,6 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240111T01:43:18Z | Null | https://github.com/rsher60/Fastapi_Fuzzy | 0 | 0| 
 | 20240111T01:09:53Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9306 | 2086| 
 | 20240111T00:45:36Z | Null | https://github.com/flounderK/flok-fuzzing-stuff | 0 | 0| 
 | 20240110T23:49:43Z | Nvim Configuration folder | https://github.com/Alexandr9719/fuzzy-doodle | 0 | 0| 
@@ -126,7 +127,6 @@
 | 20240110T13:34:10Z | Null | https://github.com/heavenjoy11/fuzzy-garbanzo | 0 | 0| 
 | 20240110T13:07:50Z | A grammar-aware input trimming technique based on light-weight taint analysis. | https://github.com/zzyyrr/ScissorFuzz | 0 | 0| 
 | 20240110T12:03:47Z | Null | https://github.com/wa2jikeh5s2ab0l/fuzzy-sweater | 0 | 0| 
-| 20240110T11:56:02Z | Null | https://github.com/EVANGELINEBRU1193/fuzzy-guacamole | 0 | 0| 
 
 
 
