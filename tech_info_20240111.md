@@ -36,6 +36,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240111T12:50:23Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5625 | 1089| 
 | 20240111T12:49:40Z | A straightforward tool for exploiting SMTP Smuggling vulnerabilities. | https://github.com/passwa11/SmuggleTP | 0 | 1| 
 | 20240111T12:33:53Z | SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery. | https://github.com/MegaManSec/SSH-Snake | 720 | 38| 
 | 20240111T10:18:40Z | Null | https://github.com/nonamed01/exploits | 2 | 0| 
@@ -45,7 +46,6 @@
 | 20240111T01:35:34Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0023-app-8yUu4-attempt-exploit | 0 | 0| 
 | 20240111T01:34:19Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0021-app-Qdc2A-admit-exploit | 0 | 0| 
 | 20240111T01:15:15Z | SeaShell Framework is an iOS post-exploitation framework that enables you to access the device remotely, control it and extract sensitive information. | https://github.com/EntySec/SeaShell | 56 | 9| 
-| 20240111T00:25:57Z | A Python 3 library that has been optimised to retrieve the latest exploit database, generate searchable indexes for CVE -> EDBID and EDBID -> CVE, and offer search functions. | https://github.com/Nikithaashokkumar/exploiting-database | 0 | 0| 
 
 
 # backdoor on Github 推荐
