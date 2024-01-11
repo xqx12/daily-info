@@ -117,6 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240111T02:28:50Z | Null | https://github.com/YixuanGao98/Blind-Image-Quality-Assessment-A-Fuzzy-Neural-Network-for-Opinion-Score-Distribution-Prediction | 0 | 0| 
 | 20240111T02:02:51Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51267 | 23456| 
 | 20240111T01:43:18Z | Null | https://github.com/rsher60/Fastapi_Fuzzy | 0 | 0| 
 | 20240111T01:09:53Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9306 | 2086| 
@@ -126,7 +127,6 @@
 | 20240110T20:48:26Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5139 | 555| 
 | 20240110T13:34:10Z | Null | https://github.com/heavenjoy11/fuzzy-garbanzo | 0 | 0| 
 | 20240110T13:07:50Z | A grammar-aware input trimming technique based on light-weight taint analysis. | https://github.com/zzyyrr/ScissorFuzz | 0 | 0| 
-| 20240110T12:03:47Z | Null | https://github.com/wa2jikeh5s2ab0l/fuzzy-sweater | 0 | 0| 
 
 
 
