@@ -37,7 +37,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240111T13:42:42Z | Null | https://github.com/ifulxploit/PSOProxy-DoS-Exploit | 0 | 0| 
+| 20240111T13:57:39Z | Null | https://github.com/ifulxploit/PSOProxy-DoS-Exploit | 0 | 0| 
+| 20240111T13:55:33Z | Persistent Powershell backdoor tool  | https://github.com/ELMERIKH/Keres | 71 | 10| 
 | 20240111T13:40:55Z | This Android application showcases various security vulnerabilities and potential security threats that can occur on an Android device. It includes demonstrations of exploiting services, content providers, notification permissions, and more. | https://github.com/n0S3curity/PT-Android-Malware-App | 1 | 0| 
 | 20240111T13:36:53Z | A post-exploitation, command and control framework written in Rust. | https://github.com/hideckies/hermit | 1 | 1| 
 | 20240111T12:50:23Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5625 | 1089| 
@@ -46,7 +47,6 @@
 | 20240111T10:38:53Z | All about DDoS attacks, exploits, botnets and some proxies =) | https://github.com/sp00fing/ddos | 255 | 18| 
 | 20240111T10:18:40Z | Null | https://github.com/nonamed01/exploits | 2 | 0| 
 | 20240111T02:52:06Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0103-app-mmLAY-mark-exploit | 0 | 0| 
-| 20240111T02:13:13Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0014-app-MIu_l-exploit-divide | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -75,7 +75,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240111T13:54:07Z | Null | https://github.com/febriansyah973879/Tugas2LogikaFuzzy | 0 | 0| 
+| 20240111T13:58:31Z | Null | https://github.com/febriansyah973879/Tugas2LogikaFuzzy | 0 | 0| 
 | 20240111T13:28:24Z | Null | https://github.com/heavenjoy11/fuzzy-garbanzo | 0 | 0| 
 | 20240111T13:28:06Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4232 | 867| 
 | 20240111T12:09:24Z | A study repository | https://github.com/maiconwa/fuzzy-guide | 0 | 0| 
