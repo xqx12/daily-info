@@ -44,16 +44,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240110T20:48:11Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Maskiow/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 | 20240110T20:48:06Z | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/Maskiow/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
+| 20240110T20:47:59Z | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/Maskiow/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 | 20240110T20:47:24Z | Ephemeral discourse is embodied by the likes of Messenger Sessions, the digital portraits of Accounts, and the enigmatic Token | https://github.com/Maskiow/Discord-Image-Logger-Slient-Exploit-Builder-Grabber-Stealer | 0 | 0| 
+| 20240110T20:47:21Z | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/Maskiow/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 | 20240110T20:31:11Z | A project that offers cheats developed with C++ for DayZ. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/Makasshi/PROOFCORE-Dayz-Cheat-Hack-Aimbot-Esp-Exploit-Magic-Bullet-Spoofer-Misc | 0 | 0| 
 | 20240110T17:19:08Z | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | 12 | 3| 
 | 20240110T15:57:15Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 83 | 12| 
 | 20240110T13:18:27Z | Implementation of the Direct TSQR method, QR factorization for %tall and skinny% matrices, exploiting the advantage of parallelization on distributed systems. Definition of a cluster of virtual machines on the Veneto Cloud network and development of the algorithm using Dask. | https://github.com/filippoprafloriani/Distributed-Algorithms-Direct-QR-factorization | 0 | 0| 
 | 20240110T11:40:40Z | Null | https://github.com/thenetworkfantom/exploits_by_ruby | 0 | 0| 
-| 20240110T10:52:26Z | The Netflix clone project%s MAB recommendation system dynamically suggests content, treating each movie as an %arm.% Balancing exploration and exploitation, it refines suggestions based on user interactions, continually optimizing the user experience. Movie posters are seamlessly integrated, enhancing the visual appeal of the recommendations. | https://github.com/Tech-Spookezz/MAB-Recommendation-System | 0 | 0| 
-| 20240110T10:17:36Z | Sử dụng công cụ nmap để quét lỗ hổng trên windows 7 và khai thác lỗ hổng MS17-010 bằng metasploit | https://github.com/BHNamSSD/Exploits-vulnerability-MS17-010 | 1 | 0| 
-| 20240110T10:01:03Z | Null | https://github.com/Tridev-github/Exploiting_log4j_vulnerability | 0 | 0| 
 
 
 # backdoor on Github 推荐
