@@ -26,23 +26,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240111T13:41:21Z | CVE-2023-28432 | minio系统存在信息泄露漏洞，未经身份认证的远程攻击，通过发送特殊POST请求到/minio/bootstrap/v1/verify即可获取所有敏感信息，其中包括MINIO_SECRET_KEY和MINIO_ROOT_PASSWORD，可能导致管理员账号密码泄露。 | https://github.com/xk-mt/CVE-2023-28432 | | 
+| 20240111T22:37:03Z | CVE-2023-49070 | CVE-2023-49070 exploit and CVE-2023-49070 & CVE-2023-51467 vulnerability scanner | https://github.com/yukselberkay/CVE-2023-49070_CVE-2023-51467 | | 
+| 20240111T19:35:22Z | CVE-2023-36003 | Privilege escalation using the XAML diagnostics API (CVE-2023-36003) | https://github.com/m417z/CVE-2023-36003-POC | | 
+| 20240111T18:27:17Z | CVE-2023-51800 | Multiple cross-site scripting (XSS) vulnerabilities in School Fees Management System v1.0. | https://github.com/geraldoalcantara/CVE-2023-51800 | | 
+| 20240111T18:26:39Z | CVE-2023-51801 | Null | https://github.com/geraldoalcantara/CVE-2023-51801 | | 
+| 20240111T18:25:58Z | CVE-2023-51802 | Simple Student Attendance System v.1.0 - Cross-site scripting (XSS) vulnerabilities in attendance_report | https://github.com/geraldoalcantara/CVE-2023-51802 | | 
+| 20240111T18:15:29Z | CVE-2023-51810 | Null | https://github.com/Pastea/CVE-2023-51810 | | 
+| 20240111T16:07:34Z | CVE-2021-20323 | Tool for finding CVE-2021-20323 | https://github.com/Cappricio-Securities/CVE-2021-20323 | | 
+| 20240111T14:56:48Z | CVE-2023-28432 | minio系统存在信息泄露漏洞，未经身份认证的远程攻击，通过发送特殊POST请求到/minio/bootstrap/v1/verify即可获取所有敏感信息，其中包括MINIO_SECRET_KEY和MINIO_ROOT_PASSWORD，可能导致管理员账号密码泄露。 | https://github.com/xk-mt/CVE-2023-28432 | | 
 | 20240111T10:55:16Z | cve-2023-51467 | A go-exploit for Apache OFBiz CVE-2023-51467 | https://github.com/vulncheck-oss/cve-2023-51467 | | 
 | 20240111T08:35:18Z | CVE-2023-46474 | Technical details for CVE-2023-46474 | https://github.com/Xn2/CVE-2023-46474 | | 
-| 20240111T05:43:31Z | CVE-2023-6567 | Time-based SQLi | https://github.com/mimiloveexe/CVE-2023-6567-poc | | 
-| 20240110T20:48:11Z | Cve-2023- | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Maskiow/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
-| 20240110T20:48:06Z | Cve-2023- | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/Maskiow/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
-| 20240110T20:47:59Z | Cve-2023- | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/Maskiow/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
-| 20240110T20:47:21Z | Cve-2023- | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/Maskiow/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
-| 20240110T18:12:26Z | CVE-2023-51208 | Arbitrary File Upload Vulnerability in ROS2 Foxy Fitzroy | https://github.com/16yashpatel/CVE-2023-51208 | | 
-| 20240110T18:08:19Z | CVE-2023-51204 | Insecure Deserialization Vulnerability in ROS2 Foxy Fitzroy | https://github.com/16yashpatel/CVE-2023-51204 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240111T16:46:01Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14906 | 447| 
 | 20240111T12:12:44Z | Config files for my GitHub profile. | https://github.com/Kleezyy/Kleezyy | 0 | 0| 
-| 20240111T11:41:13Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14904 | 447| 
 | 20240110T14:08:54Z | Null | https://github.com/Aadarsh-2912/KLEENEX | 0 | 0| 
 | 20240110T13:27:01Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2391 | 647| 
 | 20240109T15:47:25Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 419 | 9| 
@@ -62,31 +62,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240111T23:43:16Z | Null | https://github.com/jmart375/Enumeration-Scanning-Exploit | 0 | 0| 
+| 20240111T23:04:03Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 92 | 33| 
+| 20240111T18:36:10Z | External cheat for Rainbow Six Siege offering ESP, aimbot, and various tactical advantages. | https://github.com/Maskorws/Klar-gg-Rainbow-Six-Siege-RS6-Esp-NoRroil-Hwid-Spoofer-Exploit | 0 | 0| 
+| 20240111T18:35:27Z | Developed for Escape From Tarkov and written in C++ and C#. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/Maskorws/Escape-From-Tarkov-Eft-Aimbot-esp-Loots-Exploits-Max-Skills-High-Jump | 0 | 0| 
 | 20240111T13:57:39Z | Null | https://github.com/ifulxploit/PSOProxy-DoS-Exploit | 0 | 0| 
 | 20240111T13:55:33Z | Persistent Powershell backdoor tool  | https://github.com/ELMERIKH/Keres | 71 | 10| 
 | 20240111T13:40:55Z | This Android application showcases various security vulnerabilities and potential security threats that can occur on an Android device. It includes demonstrations of exploiting services, content providers, notification permissions, and more. | https://github.com/n0S3curity/PT-Android-Malware-App | 1 | 0| 
 | 20240111T13:36:53Z | A post-exploitation, command and control framework written in Rust. | https://github.com/hideckies/hermit | 1 | 1| 
-| 20240111T12:50:23Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5625 | 1089| 
+| 20240111T12:50:23Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5625 | 1090| 
 | 20240111T12:49:40Z | A straightforward tool for exploiting SMTP Smuggling vulnerabilities. | https://github.com/passwa11/SmuggleTP | 0 | 1| 
-| 20240111T12:33:53Z | SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery. | https://github.com/MegaManSec/SSH-Snake | 720 | 38| 
-| 20240111T10:38:53Z | All about DDoS attacks, exploits, botnets and some proxies =) | https://github.com/sp00fing/ddos | 255 | 18| 
-| 20240111T10:18:40Z | Null | https://github.com/nonamed01/exploits | 2 | 0| 
-| 20240111T02:52:06Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0103-app-mmLAY-mark-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240111T20:52:20Z | ELF binary forensics tool for APT, virus, backdoor and rootkit detection | https://github.com/arcana-technologies/arcana.elfscan | 27 | 4| 
+| 20240111T20:03:54Z | The S-500 G2 Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/Maskiow/S500-RAT-HVNC-HAPP-HIdden-BROWSER-HRDP-REVERSE-PROXY-CRYPTO-MONITOR | 1 | 0| 
+| 20240111T14:57:18Z | ICL backdoor attack | https://github.com/shuaizhao95/ICLAttack | 0 | 0| 
+| 20240111T14:51:21Z | ACM MM 2022 Paper: Opportunistic Backdoor Attacks: Exploring Human-imperceptible Vulnerabilities on Speech Recognition Systems | https://github.com/lqsunshine/DABA | 2 | 0| 
 | 20240111T13:55:33Z | Persistent Powershell backdoor tool  | https://github.com/ELMERIKH/Keres | 71 | 10| 
+| 20240111T13:25:37Z | Backdoor Collection 👾 | https://github.com/adilhyz/WebShell | 8 | 2| 
 | 20240111T12:36:10Z | Promotor Login , http://tunes.herobuxx.me/backdoor/ | https://github.com/thetunes/backdoor | 0 | 0| 
 | 20240111T11:54:01Z | Null | https://github.com/Leanwithming/TestForEmbeddingBackdoor | 0 | 0| 
 | 20240111T08:54:34Z | It is a funcatinal backdoor which is communcated via telegram api | https://github.com/hack505/Telegram_BackDoor | 0 | 0| 
 | 20240111T07:41:16Z | Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/EntySec/Ghost | 2400 | 900| 
-| 20240111T05:59:45Z | The C2 Cloud is a robust web-based C2 framework, designed to simplify the life of penetration testers. It allows easy access to compromised backdoors, just like accessing an EC2 instance in the AWS cloud. It can manage several simultaneous backdoor sessions with a user-friendly interface.  | https://github.com/govindasamyarun/c2-cloud | 10 | 0| 
-| 20240111T01:46:42Z | ELF binary forensics tool for APT, virus, backdoor and rootkit detection | https://github.com/arcana-technologies/arcana.elfscan | 18 | 1| 
-| 20240110T20:48:41Z | The S-500 G2 Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/Maskiow/S500-RAT-HVNC-HAPP-HIdden-BROWSER-HRDP-REVERSE-PROXY-CRYPTO-MONITOR | 0 | 0| 
-| 20240110T20:48:17Z | Hidden VNC constitutes an ingenious stratagem harnessed by the most adept connoisseurs of technology. This method, by far, presents an exhilarating modality to govern the operation | https://github.com/Maskiow/Pandora-HVNC-2FABypass-WebGL-Hidden-Desktop-Outlook-Foxmail-Stealer-Hidden-Browser | 0 | 0| 
-| 20240110T20:47:45Z | Remote Administration Either you are a private user wanting to control your PC from afar, or a big company which wants to administrate hundreds of machines from a single computer, | https://github.com/Maskiow/ICARUS-NET2-NET4-BAT-VBS-VBA-HVNC-BINDER-PHP-FTPLOGS-RECOVERY-KEYLOG-WEBGL-ROOKIT | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -117,16 +117,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240112T00:39:47Z | Null | https://github.com/muhagusss12/Tugas-3---Logika-Fuzzy | 0 | 0| 
+| 20240112T00:32:34Z | Camera Ready version of FuzzSlice v1 code for ICSE | https://github.com/NobleMathews/FuzzSliceICSE | 4 | 0| 
+| 20240112T00:22:00Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9307 | 2088| 
+| 20240111T23:32:43Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51291 | 23459| 
+| 20240111T23:31:19Z | Null | https://github.com/tyroningram/fuzzy-lamp | 0 | 0| 
+| 20240111T21:39:25Z | Null | https://github.com/ymyatlev-innan1988no/fuzzy-moon | 0 | 0| 
+| 20240111T21:34:26Z | Null | https://github.com/SamPro07/Fuzzy-Logic | 0 | 0| 
+| 20240111T21:29:01Z | Null | https://github.com/stephtorres24/Fuzzy-Clustering- | 0 | 0| 
+| 20240111T18:23:12Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5141 | 556| 
 | 20240111T13:58:31Z | Null | https://github.com/febriansyah973879/Tugas2LogikaFuzzy | 0 | 0| 
-| 20240111T13:28:24Z | Null | https://github.com/heavenjoy11/fuzzy-garbanzo | 0 | 0| 
-| 20240111T13:28:06Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4232 | 867| 
-| 20240111T12:09:24Z | A study repository | https://github.com/maiconwa/fuzzy-guide | 0 | 0| 
-| 20240111T11:17:30Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1723 | 256| 
-| 20240111T11:13:19Z | LEGEND | https://github.com/asddddf147/fuzzy-octo-waddle | 0 | 0| 
-| 20240111T09:32:06Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4983 | 1186| 
-| 20240111T02:28:50Z | Null | https://github.com/YixuanGao98/Blind-Image-Quality-Assessment-A-Fuzzy-Neural-Network-for-Opinion-Score-Distribution-Prediction | 0 | 0| 
-| 20240111T02:02:51Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51267 | 23455| 
-| 20240111T01:43:18Z | Null | https://github.com/rsher60/Fastapi_Fuzzy | 0 | 0| 
 
 
 
