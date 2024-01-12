@@ -62,7 +62,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240112T13:10:47Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5626 | 1090| 
+| 20240112T13:37:04Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5627 | 1090| 
 | 20240112T12:59:12Z | Null | https://github.com/houjingyi233/office-exploit-case-study | 364 | 125| 
 | 20240112T12:49:36Z | Practice for binary exploitation and reverse engineering | https://github.com/3dgyGamer/binrev-practice | 0 | 0| 
 | 20240112T12:46:39Z | Null | https://github.com/MaksimPlatonov7777888/exploit22 | 0 | 0| 
