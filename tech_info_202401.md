@@ -117,6 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240112T02:27:34Z | fuzzylite: a fuzzy logic control library in C++ | https://github.com/fuzzylite/fuzzylite | 256 | 68| 
 | 20240112T02:05:03Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51293 | 23460| 
 | 20240112T01:13:23Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5140 | 556| 
 | 20240112T01:08:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9306 | 2088| 
@@ -126,7 +127,6 @@
 | 20240111T21:39:25Z | Null | https://github.com/ymyatlev-innan1988no/fuzzy-moon | 0 | 0| 
 | 20240111T21:34:26Z | Null | https://github.com/SamPro07/Fuzzy-Logic | 0 | 0| 
 | 20240111T21:29:01Z | Null | https://github.com/stephtorres24/Fuzzy-Clustering- | 0 | 0| 
-| 20240111T13:58:31Z | Null | https://github.com/febriansyah973879/Tugas2LogikaFuzzy | 0 | 0| 
 
 
 
