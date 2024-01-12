@@ -73,6 +73,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240111T19:28:10Z | A symbolic execution engine for EVM smart contract binaries | https://github.com/ucsb-seclab/greed | 11 | 0| 
 
 
 # big4 on Github 推荐
