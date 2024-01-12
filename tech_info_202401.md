@@ -62,7 +62,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240112T01:20:25Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-vd | 0 | 0| 
+| 20240112T01:20:39Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-vd | 1 | 0| 
 | 20240112T01:19:58Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-vd | 1 | 0| 
 | 20240112T01:19:26Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-vd | 1 | 0| 
 | 20240112T01:18:19Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-vd | 1 | 0| 
