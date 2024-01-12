@@ -80,6 +80,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240112T13:09:13Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4984 | 1186| 
+| 20240112T13:09:06Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1723 | 256| 
+| 20240112T13:08:43Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9305 | 2088| 
 | 20240112T13:01:46Z | Null | https://github.com/Esyanugerah/Tugas-3-Logika-Fuzzy | 0 | 0| 
 | 20240112T12:38:56Z | blackbox fuzzing | https://github.com/duri12/NoCodeFuzz | 0 | 0| 
 | 20240112T12:33:50Z | Null | https://github.com/HidayatDeni/Tugas3-Fuzzy | 0 | 0| 
@@ -87,9 +90,6 @@
 | 20240112T11:45:05Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST, GraphQL and RPC (e.g., gRPC and Thrift). | https://github.com/EMResearch/EvoMaster | 394 | 73| 
 | 20240112T10:06:21Z | Null | https://github.com/andiniii02/Tugas-3-Logika-Fuzzy | 0 | 0| 
 | 20240112T08:38:48Z | Null | https://github.com/miftahslm/TUGAS-3_FUZZY | 0 | 0| 
-| 20240112T02:57:48Z | WebFingerCat是一款使用Golang研发的,被动指纹检测,FUZZ,敏感信息收集工具,用于帮助安全工作人员开展工作。 | https://github.com/JishiTeam-J1wa/WebFingerCat | 0 | 0| 
-| 20240112T02:52:57Z | The Fuzzymeans algorithm for data classification utilizes fuzzy logic to handle uncertainty and variability in patterns. | https://github.com/juangallon08/Fuzzy-kmeans | 0 | 0| 
-| 20240112T02:49:31Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 333 | 48| 
 
 
 
