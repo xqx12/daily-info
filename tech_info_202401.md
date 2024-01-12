@@ -117,6 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240112T13:28:46Z | Every Hacker%s Go to Fuzzing List. | https://github.com/ho1x1ow/Fuzzout | 0 | 0| 
 | 20240112T13:14:00Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST, GraphQL and RPC (e.g., gRPC and Thrift). | https://github.com/EMResearch/EvoMaster | 393 | 73| 
 | 20240112T13:11:21Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 332 | 48| 
 | 20240112T13:10:14Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9303 | 2088| 
@@ -126,7 +127,6 @@
 | 20240112T12:38:56Z | blackbox fuzzing | https://github.com/duri12/NoCodeFuzz | 0 | 0| 
 | 20240112T12:33:50Z | Null | https://github.com/HidayatDeni/Tugas3-Fuzzy | 0 | 0| 
 | 20240112T12:30:57Z | Null | https://github.com/febriansyah973879/Tugas3LogikaFuzzy | 0 | 0| 
-| 20240112T10:47:07Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2443 | 311| 
 
 
 
