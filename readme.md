@@ -56,11 +56,19 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240112T11:00:20Z | Android-BackDoor is a python and shell script that simplifies the process of adding a backdoor to any Android APK file. It also exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/BitWalls-Sec/AndroidHack_BackDoor | 21 | 10| 
+| 20240112T10:50:51Z | The S-500 G2 Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/Maskiow/S500-RAT-HVNC-HAPP-HIdden-BROWSER-HRDP-REVERSE-PROXY-CRYPTO-MONITOR | 2 | 0| 
+| 20240112T09:13:01Z | Simplified code implementation of the paper %On the Vulnerability of Backdoor Defenses for Federated Learning% from AAAI2023 | https://github.com/WangJing-wwj/F3BA | 0 | 0| 
+| 20240112T08:20:48Z | ICL backdoor attack | https://github.com/shuaizhao95/ICLAttack | 1 | 0| 
+| 20240112T06:06:30Z | Null | https://github.com/SZU-AdvTech-2023/348-Deepsight-Mitigating-Backdoor-Attacks-in-Federated-Learning-Through-Deep-Model-Inspection | 0 | 0| 
+| 20240112T01:41:59Z | PHP shell backdoors list  ( collection ) | https://github.com/1337r0j4n/php-backdoors | 98 | 43| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240112T08:43:25Z | Protocol Inference from an executable using dynamic symbolic execution. | https://github.com/saharmi22/piseDSE | 0 | 0| 
+| 20240112T05:18:21Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 725 | 128| 
 
 
 # big4 on Github 推荐
