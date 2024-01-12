@@ -62,6 +62,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240112T01:19:26Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-vd | 1 | 0| 
+| 20240112T01:18:19Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-vd | 1 | 0| 
 | 20240111T23:43:16Z | Null | https://github.com/jmart375/Enumeration-Scanning-Exploit | 0 | 0| 
 | 20240111T23:04:03Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 92 | 33| 
 | 20240111T18:36:10Z | External cheat for Rainbow Six Siege offering ESP, aimbot, and various tactical advantages. | https://github.com/Maskorws/Klar-gg-Rainbow-Six-Siege-RS6-Esp-NoRroil-Hwid-Spoofer-Exploit | 0 | 0| 
@@ -70,8 +72,6 @@
 | 20240111T13:55:33Z | Persistent Powershell backdoor tool  | https://github.com/ELMERIKH/Keres | 71 | 10| 
 | 20240111T13:40:55Z | This Android application showcases various security vulnerabilities and potential security threats that can occur on an Android device. It includes demonstrations of exploiting services, content providers, notification permissions, and more. | https://github.com/n0S3curity/PT-Android-Malware-App | 1 | 0| 
 | 20240111T13:36:53Z | A post-exploitation, command and control framework written in Rust. | https://github.com/hideckies/hermit | 1 | 1| 
-| 20240111T12:50:23Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5625 | 1090| 
-| 20240111T12:49:40Z | A straightforward tool for exploiting SMTP Smuggling vulnerabilities. | https://github.com/passwa11/SmuggleTP | 0 | 1| 
 
 
 # backdoor on Github 推荐
