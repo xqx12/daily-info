@@ -117,6 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240112T02:57:48Z | WebFingerCat是一款使用Golang研发的,被动指纹检测,FUZZ,敏感信息收集工具,用于帮助安全工作人员开展工作。 | https://github.com/JishiTeam-J1wa/WebFingerCat | 0 | 0| 
 | 20240112T02:52:57Z | The Fuzzymeans algorithm for data classification utilizes fuzzy logic to handle uncertainty and variability in patterns. | https://github.com/juangallon08/Fuzzy-kmeans | 0 | 0| 
 | 20240112T02:35:31Z | The Fuzzymeans algorithm for data classification utilizes fuzzy logic to handle uncertainty and variability in patterns. | https://github.com/juangallon08/Fuzzymeans | 0 | 0| 
 | 20240112T02:27:34Z | fuzzylite: a fuzzy logic control library in C++ | https://github.com/fuzzylite/fuzzylite | 256 | 68| 
@@ -126,7 +127,6 @@
 | 20240112T00:39:47Z | Null | https://github.com/muhagusss12/Tugas-3---Logika-Fuzzy | 0 | 0| 
 | 20240112T00:32:34Z | Camera Ready version of FuzzSlice v1 code for ICSE | https://github.com/NobleMathews/FuzzSliceICSE | 4 | 0| 
 | 20240111T23:31:19Z | Null | https://github.com/tyroningram/fuzzy-lamp | 0 | 0| 
-| 20240111T21:39:25Z | Null | https://github.com/ymyatlev-innan1988no/fuzzy-moon | 0 | 0| 
 
 
 
