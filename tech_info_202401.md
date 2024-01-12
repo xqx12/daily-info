@@ -77,6 +77,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240112T12:29:48Z | ACM MM 2022 Paper: Opportunistic Backdoor Attacks: Exploring Human-imperceptible Vulnerabilities on Speech Recognition Systems | https://github.com/lqsunshine/DABA | 3 | 0| 
+| 20240112T12:15:44Z | Persistent Powershell backdoor tool  | https://github.com/ELMERIKH/Keres | 73 | 10| 
 | 20240112T11:00:20Z | Android-BackDoor is a python and shell script that simplifies the process of adding a backdoor to any Android APK file. It also exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/BitWalls-Sec/AndroidHack_BackDoor | 21 | 10| 
 | 20240112T10:50:51Z | The S-500 G2 Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/Maskiow/S500-RAT-HVNC-HAPP-HIdden-BROWSER-HRDP-REVERSE-PROXY-CRYPTO-MONITOR | 2 | 0| 
 | 20240112T09:13:01Z | Simplified code implementation of the paper %On the Vulnerability of Backdoor Defenses for Federated Learning% from AAAI2023 | https://github.com/WangJing-wwj/F3BA | 0 | 0| 
@@ -84,8 +86,6 @@
 | 20240112T06:06:30Z | Null | https://github.com/SZU-AdvTech-2023/348-Deepsight-Mitigating-Backdoor-Attacks-in-Federated-Learning-Through-Deep-Model-Inspection | 0 | 0| 
 | 20240112T01:41:59Z | PHP shell backdoors list  ( collection ) | https://github.com/1337r0j4n/php-backdoors | 98 | 43| 
 | 20240111T20:52:20Z | ELF binary forensics tool for APT, virus, backdoor and rootkit detection | https://github.com/arcana-technologies/arcana.elfscan | 27 | 4| 
-| 20240111T14:51:21Z | ACM MM 2022 Paper: Opportunistic Backdoor Attacks: Exploring Human-imperceptible Vulnerabilities on Speech Recognition Systems | https://github.com/lqsunshine/DABA | 2 | 0| 
-| 20240111T13:55:33Z | Persistent Powershell backdoor tool  | https://github.com/ELMERIKH/Keres | 71 | 10| 
 | 20240111T13:25:37Z | Backdoor Collection 👾 | https://github.com/adilhyz/WebShell | 8 | 2| 
 
 
