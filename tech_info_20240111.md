@@ -91,11 +91,11 @@
 | 20240111T21:39:25Z | Null | https://github.com/ymyatlev-innan1988no/fuzzy-moon | 0 | 0| 
 | 20240111T21:34:26Z | Null | https://github.com/SamPro07/Fuzzy-Logic | 0 | 0| 
 | 20240111T21:29:01Z | Null | https://github.com/stephtorres24/Fuzzy-Clustering- | 0 | 0| 
-| 20240111T18:23:12Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5141 | 556| 
 | 20240111T13:58:31Z | Null | https://github.com/febriansyah973879/Tugas2LogikaFuzzy | 0 | 0| 
 | 20240111T13:28:24Z | Null | https://github.com/heavenjoy11/fuzzy-garbanzo | 0 | 0| 
 | 20240111T13:28:06Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4232 | 867| 
 | 20240111T12:09:24Z | A study repository | https://github.com/maiconwa/fuzzy-guide | 0 | 0| 
+| 20240111T11:17:30Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1723 | 256| 
 
 
 
