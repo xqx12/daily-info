@@ -62,6 +62,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240112T01:31:22Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0017-app-Sl_QG-exploit-employ | 0 | 0| 
+| 20240112T01:30:58Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0006-app-RNFnu-voice-exploit | 0 | 0| 
 | 20240112T01:20:39Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-vd | 1 | 0| 
 | 20240112T01:19:58Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-vd | 1 | 0| 
 | 20240112T01:19:26Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-vd | 1 | 0| 
@@ -70,8 +72,6 @@
 | 20240111T23:04:03Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 92 | 33| 
 | 20240111T18:36:10Z | External cheat for Rainbow Six Siege offering ESP, aimbot, and various tactical advantages. | https://github.com/Maskorws/Klar-gg-Rainbow-Six-Siege-RS6-Esp-NoRroil-Hwid-Spoofer-Exploit | 0 | 0| 
 | 20240111T18:35:27Z | Developed for Escape From Tarkov and written in C++ and C#. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/Maskorws/Escape-From-Tarkov-Eft-Aimbot-esp-Loots-Exploits-Max-Skills-High-Jump | 0 | 0| 
-| 20240111T13:57:39Z | Null | https://github.com/ifulxploit/PSOProxy-DoS-Exploit | 0 | 0| 
-| 20240111T13:55:33Z | Persistent Powershell backdoor tool  | https://github.com/ELMERIKH/Keres | 71 | 10| 
 
 
 # backdoor on Github 推荐
