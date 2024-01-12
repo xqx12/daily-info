@@ -119,7 +119,7 @@
 | --- | --- | --- | --- | ---| 
 | 20240112T02:35:31Z | The Fuzzymeans algorithm for data classification utilizes fuzzy logic to handle uncertainty and variability in patterns. | https://github.com/juangallon08/Fuzzymeans | 0 | 0| 
 | 20240112T02:27:34Z | fuzzylite: a fuzzy logic control library in C++ | https://github.com/fuzzylite/fuzzylite | 256 | 68| 
-| 20240112T02:05:03Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51293 | 23460| 
+| 20240112T02:05:03Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51293 | 23461| 
 | 20240112T01:13:23Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5140 | 556| 
 | 20240112T01:08:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9306 | 2088| 
 | 20240112T00:39:47Z | Null | https://github.com/muhagusss12/Tugas-3---Logika-Fuzzy | 0 | 0| 
