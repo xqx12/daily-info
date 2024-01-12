@@ -20,8 +20,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240112T13:55:38Z | CVE-2023-36003 | Privilege escalation using the XAML diagnostics API (CVE-2023-36003) | https://github.com/m417z/CVE-2023-36003-POC | | 
-| 20240112T13:49:23Z | CVE-2023-7028 | CVE-2023-7028 | https://github.com/RandomRobbieBF/CVE-2023-7028 | | 
+| 20240112T13:57:01Z | CVE-2023-7028 | CVE-2023-7028 | https://github.com/RandomRobbieBF/CVE-2023-7028 | | 
+| 20240112T13:56:27Z | CVE-2023-36003 | Privilege escalation using the XAML diagnostics API (CVE-2023-36003) | https://github.com/m417z/CVE-2023-36003-POC | | 
 | 20240112T13:32:43Z | CVE-2023-7028 | CVE-2023-7028 poc | https://github.com/V1lu0/CVE-2023-7028 | | 
 | 20240112T09:40:17Z | CVE-2023-50164 | CVE-2023-50164 (Apache Struts path traversal to RCE vulnerability) - Proof of Concept | https://github.com/sunnyvale-it/CVE-2023-50164-PoC | | 
 | 20240112T08:52:45Z | CVE-2023-49070 | CVE-2023-49070 exploit and CVE-2023-49070 & CVE-2023-51467 vulnerability scanner | https://github.com/yukselberkay/CVE-2023-49070_CVE-2023-51467 | | 
