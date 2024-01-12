@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240112T13:59:17Z | CVE-2021-20323 | Tool for finding CVE-2021-20323 | https://github.com/Cappricio-Securities/CVE-2021-20323 | | 
 | 20240112T13:57:01Z | CVE-2023-7028 | CVE-2023-7028 | https://github.com/RandomRobbieBF/CVE-2023-7028 | | 
 | 20240112T13:56:27Z | CVE-2023-36003 | Privilege escalation using the XAML diagnostics API (CVE-2023-36003) | https://github.com/m417z/CVE-2023-36003-POC | | 
 | 20240112T13:32:43Z | CVE-2023-7028 | CVE-2023-7028 poc | https://github.com/V1lu0/CVE-2023-7028 | | 
@@ -35,7 +36,6 @@
 | 20240111T18:26:39Z | CVE-2023-51801 | Null | https://github.com/geraldoalcantara/CVE-2023-51801 | | 
 | 20240111T18:25:58Z | CVE-2023-51802 | Simple Student Attendance System v.1.0 - Cross-site scripting (XSS) vulnerabilities in attendance_report | https://github.com/geraldoalcantara/CVE-2023-51802 | | 
 | 20240111T18:15:29Z | CVE-2023-51810 | Null | https://github.com/Pastea/CVE-2023-51810 | | 
-| 20240111T16:07:34Z | CVE-2021-20323 | Tool for finding CVE-2021-20323 | https://github.com/Cappricio-Securities/CVE-2021-20323 | | 
 
 
 # klee on Github 推荐
