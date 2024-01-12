@@ -117,11 +117,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240112T02:05:03Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51293 | 23460| 
 | 20240112T01:13:23Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5140 | 556| 
 | 20240112T01:08:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9306 | 2088| 
 | 20240112T00:39:47Z | Null | https://github.com/muhagusss12/Tugas-3---Logika-Fuzzy | 0 | 0| 
 | 20240112T00:32:34Z | Camera Ready version of FuzzSlice v1 code for ICSE | https://github.com/NobleMathews/FuzzSliceICSE | 4 | 0| 
-| 20240111T23:32:43Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51291 | 23459| 
 | 20240111T23:31:19Z | Null | https://github.com/tyroningram/fuzzy-lamp | 0 | 0| 
 | 20240111T21:39:25Z | Null | https://github.com/ymyatlev-innan1988no/fuzzy-moon | 0 | 0| 
 | 20240111T21:34:26Z | Null | https://github.com/SamPro07/Fuzzy-Logic | 0 | 0| 

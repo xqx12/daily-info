@@ -86,7 +86,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240111T23:32:43Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51291 | 23459| 
 | 20240111T23:31:19Z | Null | https://github.com/tyroningram/fuzzy-lamp | 0 | 0| 
 | 20240111T21:39:25Z | Null | https://github.com/ymyatlev-innan1988no/fuzzy-moon | 0 | 0| 
 | 20240111T21:34:26Z | Null | https://github.com/SamPro07/Fuzzy-Logic | 0 | 0| 
@@ -96,6 +95,7 @@
 | 20240111T13:28:06Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4232 | 867| 
 | 20240111T12:09:24Z | A study repository | https://github.com/maiconwa/fuzzy-guide | 0 | 0| 
 | 20240111T11:17:30Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1723 | 256| 
+| 20240111T11:13:19Z | LEGEND | https://github.com/asddddf147/fuzzy-octo-waddle | 0 | 0| 
 
 
 
