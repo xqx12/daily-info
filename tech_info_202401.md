@@ -62,6 +62,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240112T01:20:25Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-vd | 0 | 0| 
+| 20240112T01:19:58Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-vd | 1 | 0| 
 | 20240112T01:19:26Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-vd | 1 | 0| 
 | 20240112T01:18:19Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-vd | 1 | 0| 
 | 20240111T23:43:16Z | Null | https://github.com/jmart375/Enumeration-Scanning-Exploit | 0 | 0| 
@@ -70,8 +72,6 @@
 | 20240111T18:35:27Z | Developed for Escape From Tarkov and written in C++ and C#. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/Maskorws/Escape-From-Tarkov-Eft-Aimbot-esp-Loots-Exploits-Max-Skills-High-Jump | 0 | 0| 
 | 20240111T13:57:39Z | Null | https://github.com/ifulxploit/PSOProxy-DoS-Exploit | 0 | 0| 
 | 20240111T13:55:33Z | Persistent Powershell backdoor tool  | https://github.com/ELMERIKH/Keres | 71 | 10| 
-| 20240111T13:40:55Z | This Android application showcases various security vulnerabilities and potential security threats that can occur on an Android device. It includes demonstrations of exploiting services, content providers, notification permissions, and more. | https://github.com/n0S3curity/PT-Android-Malware-App | 1 | 0| 
-| 20240111T13:36:53Z | A post-exploitation, command and control framework written in Rust. | https://github.com/hideckies/hermit | 1 | 1| 
 
 
 # backdoor on Github 推荐
