@@ -11,37 +11,37 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20240112 | 2024年国家自然科学基金安全领域部分题目列表 | https://mp.weixin.qq.com/s/3_Uy27WvNSf3e35mJWBVEQ| 
+| 20240112 | HackerGPT&WhiteRabbitNeo的使用及体验对比 | https://mp.weixin.qq.com/s/42ETiCS-e-yfvBdAfre3xg| 
+| 20240112 | 基于图实现 Kubernetes 异常权限检测 | https://mp.weixin.qq.com/s/sf3RFJAJEg3HVeFrI-jBKg| 
+| 20240112 | Remcos RAT通信模型剖析及攻防技术对抗 | https://mp.weixin.qq.com/s/yqauQ6rtBzrLI7h1nB7zQg| 
 | 20240109 | 波音遭遇勒索攻击的数据损失分析 | https://mp.weixin.qq.com/s/9HPlaRoNGjWlOsWcOYxjmA| 
 | 20240109 | 波音遭遇勒索攻击事件分析复盘——定向勒索的威胁趋势分析与防... | https://mp.weixin.qq.com/s/K1tb86Gy6V9GlrIb__ZM_g| 
 | 20240109 | Gartne《2024年网络安全主要趋势》 | https://mp.weixin.qq.com/s/o3HnQlicgR3cl4t5BFV6Ug| 
 | 20240109 | 工控IDS规则构建及验证实战 | https://mp.weixin.qq.com/s/TJWW3RfB2-1mvmAeArQHtw| 
 | 20240109 | Low-level RASP: Protecting Applications Implemented in Hig... | https://github.com/h2-stack/LL-RASP| 
 | 20240109 | 2022年魔都数据泄露始末 | https://mp.weixin.qq.com/s/ldk-7M_zg1o909CiCwZIvQ| 
-| 20240109 | 被低估的Prompt | https://zhuanlan.zhihu.com/p/676543080| 
-| 20240109 | 跨域协同网络作战：现代战争的新形势 | https://mp.weixin.qq.com/s/xcRElPpnK7CkKjZdYPDEPA| 
-| 20240109 | SecWiki周刊（第514期) | https://www.sec-wiki.com/weekly/514| 
-| 20240108 | Chrome 调试模式学习 | https://mp.weixin.qq.com/s/yaDtGeKpuzFQZDoRdaAPKg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240111T22:37:03Z | CVE-2023-49070 | CVE-2023-49070 exploit and CVE-2023-49070 & CVE-2023-51467 vulnerability scanner | https://github.com/yukselberkay/CVE-2023-49070_CVE-2023-51467 | | 
-| 20240111T19:35:22Z | CVE-2023-36003 | Privilege escalation using the XAML diagnostics API (CVE-2023-36003) | https://github.com/m417z/CVE-2023-36003-POC | | 
+| 20240112T12:59:57Z | CVE-2023-36003 | Privilege escalation using the XAML diagnostics API (CVE-2023-36003) | https://github.com/m417z/CVE-2023-36003-POC | | 
+| 20240112T12:46:08Z | CVE-2023-7028 | CVE-2023-7028 poc | https://github.com/V1lu0/CVE-2023-7028 | | 
+| 20240112T10:54:44Z | CVE-2023-7028 | CVE-2023-7028 | https://github.com/RandomRobbieBF/CVE-2023-7028 | | 
+| 20240112T09:40:17Z | CVE-2023-50164 | CVE-2023-50164 (Apache Struts path traversal to RCE vulnerability) - Proof of Concept | https://github.com/sunnyvale-it/CVE-2023-50164-PoC | | 
+| 20240112T08:52:45Z | CVE-2023-49070 | CVE-2023-49070 exploit and CVE-2023-49070 & CVE-2023-51467 vulnerability scanner | https://github.com/yukselberkay/CVE-2023-49070_CVE-2023-51467 | | 
 | 20240111T18:27:17Z | CVE-2023-51800 | Multiple cross-site scripting (XSS) vulnerabilities in School Fees Management System v1.0. | https://github.com/geraldoalcantara/CVE-2023-51800 | | 
 | 20240111T18:26:39Z | CVE-2023-51801 | Null | https://github.com/geraldoalcantara/CVE-2023-51801 | | 
 | 20240111T18:25:58Z | CVE-2023-51802 | Simple Student Attendance System v.1.0 - Cross-site scripting (XSS) vulnerabilities in attendance_report | https://github.com/geraldoalcantara/CVE-2023-51802 | | 
 | 20240111T18:15:29Z | CVE-2023-51810 | Null | https://github.com/Pastea/CVE-2023-51810 | | 
 | 20240111T16:07:34Z | CVE-2021-20323 | Tool for finding CVE-2021-20323 | https://github.com/Cappricio-Securities/CVE-2021-20323 | | 
-| 20240111T14:56:48Z | CVE-2023-28432 | minio系统存在信息泄露漏洞，未经身份认证的远程攻击，通过发送特殊POST请求到/minio/bootstrap/v1/verify即可获取所有敏感信息，其中包括MINIO_SECRET_KEY和MINIO_ROOT_PASSWORD，可能导致管理员账号密码泄露。 | https://github.com/xk-mt/CVE-2023-28432 | | 
-| 20240111T10:55:16Z | cve-2023-51467 | A go-exploit for Apache OFBiz CVE-2023-51467 | https://github.com/vulncheck-oss/cve-2023-51467 | | 
-| 20240111T08:35:18Z | CVE-2023-46474 | Technical details for CVE-2023-46474 | https://github.com/Xn2/CVE-2023-46474 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240111T16:46:01Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14906 | 447| 
+| 20240112T12:09:20Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14911 | 447| 
 | 20240111T12:12:44Z | Config files for my GitHub profile. | https://github.com/Kleezyy/Kleezyy | 0 | 0| 
 | 20240110T14:08:54Z | Null | https://github.com/Aadarsh-2912/KLEENEX | 0 | 0| 
 | 20240110T13:27:01Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2391 | 647| 
@@ -62,16 +62,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240112T12:59:12Z | Null | https://github.com/houjingyi233/office-exploit-case-study | 364 | 125| 
+| 20240112T12:49:36Z | Practice for binary exploitation and reverse engineering | https://github.com/3dgyGamer/binrev-practice | 0 | 0| 
+| 20240112T12:46:39Z | Null | https://github.com/MaksimPlatonov7777888/exploit22 | 0 | 0| 
+| 20240112T11:32:55Z | Null | https://github.com/gio-del/exploit_repo_ctf | 0 | 0| 
+| 20240112T09:54:34Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 84 | 12| 
+| 20240112T07:49:44Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5627 | 1090| 
+| 20240112T07:07:56Z | A repository to store some linux exploitation and technique i%ve seen during my studies | https://github.com/Disturbante/Linux-Pentest | 1 | 0| 
 | 20240112T01:31:22Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0017-app-Sl_QG-exploit-employ | 0 | 0| 
 | 20240112T01:30:58Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0006-app-RNFnu-voice-exploit | 0 | 0| 
 | 20240112T01:20:39Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-vd | 1 | 0| 
-| 20240112T01:19:58Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-vd | 1 | 0| 
-| 20240112T01:19:26Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-vd | 1 | 0| 
-| 20240112T01:18:19Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-vd | 1 | 0| 
-| 20240111T23:43:16Z | Null | https://github.com/jmart375/Enumeration-Scanning-Exploit | 0 | 0| 
-| 20240111T23:04:03Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 92 | 33| 
-| 20240111T18:36:10Z | External cheat for Rainbow Six Siege offering ESP, aimbot, and various tactical advantages. | https://github.com/Maskorws/Klar-gg-Rainbow-Six-Siege-RS6-Esp-NoRroil-Hwid-Spoofer-Exploit | 0 | 0| 
-| 20240111T18:35:27Z | Developed for Escape From Tarkov and written in C++ and C#. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/Maskorws/Escape-From-Tarkov-Eft-Aimbot-esp-Loots-Exploits-Max-Skills-High-Jump | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -107,7 +107,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240111T23:46:45Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 105 | 9| 
+| 20240112T05:32:42Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 107 | 9| 
 | 20240111T19:29:44Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 109 | 4| 
 | 20240110T02:41:21Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 143 | 13| 
 | 20240109T15:30:28Z | (NDSS 2024) Optimizing Decompiler Output with LLM | https://github.com/PeiweiHu/DeGPT | 2 | 0| 
@@ -117,16 +117,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240112T13:01:46Z | Null | https://github.com/Esyanugerah/Tugas-3-Logika-Fuzzy | 0 | 0| 
+| 20240112T12:38:56Z | blackbox fuzzing | https://github.com/duri12/NoCodeFuzz | 0 | 0| 
+| 20240112T12:33:50Z | Null | https://github.com/HidayatDeni/Tugas3-Fuzzy | 0 | 0| 
+| 20240112T12:30:57Z | Null | https://github.com/febriansyah973879/Tugas3LogikaFuzzy | 0 | 0| 
+| 20240112T11:45:05Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST, GraphQL and RPC (e.g., gRPC and Thrift). | https://github.com/EMResearch/EvoMaster | 394 | 73| 
+| 20240112T10:06:21Z | Null | https://github.com/andiniii02/Tugas-3-Logika-Fuzzy | 0 | 0| 
 | 20240112T02:57:48Z | WebFingerCat是一款使用Golang研发的,被动指纹检测,FUZZ,敏感信息收集工具,用于帮助安全工作人员开展工作。 | https://github.com/JishiTeam-J1wa/WebFingerCat | 0 | 0| 
 | 20240112T02:52:57Z | The Fuzzymeans algorithm for data classification utilizes fuzzy logic to handle uncertainty and variability in patterns. | https://github.com/juangallon08/Fuzzy-kmeans | 0 | 0| 
+| 20240112T02:49:31Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 333 | 48| 
 | 20240112T02:35:31Z | The Fuzzymeans algorithm for data classification utilizes fuzzy logic to handle uncertainty and variability in patterns. | https://github.com/juangallon08/Fuzzymeans | 0 | 0| 
-| 20240112T02:27:34Z | fuzzylite: a fuzzy logic control library in C++ | https://github.com/fuzzylite/fuzzylite | 256 | 68| 
-| 20240112T02:05:03Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51293 | 23461| 
-| 20240112T01:13:23Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5140 | 556| 
-| 20240112T01:08:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9306 | 2088| 
-| 20240112T00:39:47Z | Null | https://github.com/muhagusss12/Tugas-3---Logika-Fuzzy | 0 | 0| 
-| 20240112T00:32:34Z | Camera Ready version of FuzzSlice v1 code for ICSE | https://github.com/NobleMathews/FuzzSliceICSE | 4 | 0| 
-| 20240111T23:31:19Z | Null | https://github.com/tyroningram/fuzzy-lamp | 0 | 0| 
 
 
 
