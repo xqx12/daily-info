@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240113T00:31:57Z | CVE-2023-7028 | This repository presents a proof-of-concept of CVE-2023-7028 | https://github.com/Vozec/CVE-2023-7028 | | 
+| 20240113T01:21:43Z | CVE-2023-7028 | This repository presents a proof-of-concept of CVE-2023-7028 | https://github.com/Vozec/CVE-2023-7028 | | 
 | 20240113T00:21:38Z | CVE-2023-36003 | Privilege escalation using the XAML diagnostics API (CVE-2023-36003) | https://github.com/m417z/CVE-2023-36003-POC | | 
 | 20240112T23:32:26Z | CVE-2023-7028 | CVE-2023-7028 | https://github.com/RandomRobbieBF/CVE-2023-7028 | | 
 | 20240112T23:21:04Z | CVE-2024-20656 | Null | https://github.com/Wh04m1001/CVE-2024-20656 | | 
