@@ -118,8 +118,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240113T01:36:47Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51308 | 23468| 
 | 20240113T01:09:06Z | Fuzz testing framework for Solana programs written in Anchor | https://github.com/Ackee-Blockchain/trdelnik | 102 | 9| 
-| 20240113T00:02:31Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51306 | 23467| 
 | 20240112T22:08:02Z | In depth PHP learning | https://github.com/NoAnswerss/fuzzy-carnival | 0 | 0| 
 | 20240112T21:32:50Z | Command line helpers for fuzzing | https://github.com/rust-fuzz/cargo-fuzz | 1383 | 105| 
 | 20240112T21:06:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9301 | 2089| 
