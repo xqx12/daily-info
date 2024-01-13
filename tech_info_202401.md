@@ -41,7 +41,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240113T01:58:25Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14913 | 447| 
+| 20240113T02:48:05Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14914 | 447| 
 | 20240113T01:49:46Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 421 | 9| 
 | 20240112T18:03:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2387 | 647| 
 | 20240111T12:12:44Z | Config files for my GitHub profile. | https://github.com/Kleezyy/Kleezyy | 0 | 0| 
@@ -63,7 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240113T02:38:02Z | XSS Scanner and Automated Exploiter | https://github.com/scarlett-danger/XSSniper | 0 | 0| 
+| 20240113T02:47:05Z | XSS Scanner and Automated Exploiter | https://github.com/scarlett-danger/XSSniper | 0 | 0| 
 | 20240113T02:21:21Z | This project aims to learn different types of vulnerability that exists in windows XP as a way to deepen understanding of how could a system vulnerabilities  be exploited | https://github.com/sudoblanc/Exploiting-Windows-XP-In-a-close-lab-environment | 0 | 0| 
 | 20240113T01:37:56Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5628 | 1090| 
 | 20240113T00:41:11Z | In this repository you can find the Codify server write up and the exploit used to make the privilege escalation. | https://github.com/3mpir3Albert/HTB_Codify | 0 | 0| 
