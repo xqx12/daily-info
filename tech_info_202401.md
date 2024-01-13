@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240113T02:58:22Z | My modded version of @bypassiwastaken%s payment-based exploit, currently for testing. | https://github.com/Quartinal/buypass | 0 | 0| 
 | 20240113T02:47:05Z | XSS Scanner and Automated Exploiter | https://github.com/scarlett-danger/XSSniper | 0 | 0| 
 | 20240113T02:21:21Z | This project aims to learn different types of vulnerability that exists in windows XP as a way to deepen understanding of how could a system vulnerabilities  be exploited | https://github.com/sudoblanc/Exploiting-Windows-XP-In-a-close-lab-environment | 0 | 0| 
 | 20240113T01:37:56Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5628 | 1090| 
@@ -72,7 +73,6 @@
 | 20240113T00:09:44Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-re | 1 | 0| 
 | 20240113T00:09:00Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-re | 1 | 0| 
 | 20240112T23:03:23Z | Exploit Smartphone Sensors for Indoor Navigation | https://github.com/mmkrasel/sensinav | 0 | 0| 
-| 20240112T20:37:02Z | A repository to store some linux exploitation and technique i%ve seen during my studies | https://github.com/Disturbante/Linux-Pentest | 1 | 0| 
 
 
 # backdoor on Github 推荐
