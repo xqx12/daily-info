@@ -98,16 +98,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240112T22:08:02Z | In depth PHP learning | https://github.com/NoAnswerss/fuzzy-carnival | 0 | 0| 
+| 20240112T21:32:50Z | Command line helpers for fuzzing | https://github.com/rust-fuzz/cargo-fuzz | 1383 | 105| 
+| 20240112T21:06:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9301 | 2089| 
+| 20240112T18:28:42Z | Fuzzing corpoa for ref-fvm and connected libraries | https://github.com/filecoin-project/ref-fvm-fuzz-corpora | 2 | 1| 
 | 20240112T13:43:56Z | Every Hacker%s Go to Fuzzing List. | https://github.com/ho1x1ow/Fuzzout | 0 | 0| 
 | 20240112T13:14:00Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST, GraphQL and RPC (e.g., gRPC and Thrift). | https://github.com/EMResearch/EvoMaster | 393 | 73| 
 | 20240112T13:11:21Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 332 | 48| 
-| 20240112T13:10:14Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9303 | 2088| 
 | 20240112T13:10:11Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4982 | 1186| 
 | 20240112T13:09:06Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1723 | 256| 
 | 20240112T13:01:46Z | Null | https://github.com/Esyanugerah/Tugas-3-Logika-Fuzzy | 0 | 0| 
-| 20240112T12:38:56Z | blackbox fuzzing | https://github.com/duri12/NoCodeFuzz | 0 | 0| 
-| 20240112T12:33:50Z | Null | https://github.com/HidayatDeni/Tugas3-Fuzzy | 0 | 0| 
-| 20240112T12:30:57Z | Null | https://github.com/febriansyah973879/Tugas3LogikaFuzzy | 0 | 0| 
 
 
 
