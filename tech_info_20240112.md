@@ -47,6 +47,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240112T15:22:59Z | Null | https://github.com/sivar2311/s2e2-pio-demo | 0 | 0| 
 
 
 # exploit on Github 推荐
@@ -80,7 +81,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240112T13:10:02Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2389 | 647| 
+| 20240112T21:24:57Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 10 | 3| 
+| 20240112T21:17:24Z | Unicorn: Symbolic Execution, Bounded Model Checking, and Code Optimization of RISC-V Code using Classical Solvers and Quantum Computers | https://github.com/cksystemsgroup/unicorn | 26 | 8| 
+| 20240112T18:03:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2387 | 647| 
+| 20240112T15:17:34Z | A symbolic execution engine for EVM smart contract binaries | https://github.com/ucsb-seclab/greed | 12 | 0| 
 | 20240112T13:09:03Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 724 | 128| 
 | 20240112T08:43:25Z | Protocol Inference from an executable using dynamic symbolic execution. | https://github.com/saharmi22/piseDSE | 0 | 0| 
 
@@ -88,7 +92,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240112T05:32:42Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 107 | 9| 
+| 20240112T14:51:14Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 106 | 9| 
 
 
 # fuzz on Github 推荐
