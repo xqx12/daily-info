@@ -26,24 +26,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240113T02:34:45Z | CVE-2023-36003 | Privilege escalation using the XAML diagnostics API (CVE-2023-36003) | https://github.com/m417z/CVE-2023-36003-POC | | 
-| 20240113T02:34:05Z | CVE-2023-7028 | This repository presents a proof-of-concept of CVE-2023-7028 | https://github.com/Vozec/CVE-2023-7028 | | 
-| 20240113T01:51:48Z | CVE-2024-20656 | Null | https://github.com/Wh04m1001/CVE-2024-20656 | | 
-| 20240112T23:32:26Z | CVE-2023-7028 | CVE-2023-7028 | https://github.com/RandomRobbieBF/CVE-2023-7028 | | 
-| 20240112T21:54:22Z | CVE-2023-7028 | CVE-2023-7028 poc | https://github.com/V1lu0/CVE-2023-7028 | | 
-| 20240112T18:47:53Z | CVE-2023-50164 | CVE-2023-50164 (Apache Struts path traversal to RCE vulnerability) - Proof of Concept | https://github.com/sunnyvale-it/CVE-2023-50164-PoC | | 
+| 20240113T12:46:59Z | CVE-2023-7028 | CVE-2023-7028 | https://github.com/RandomRobbieBF/CVE-2023-7028 | | 
+| 20240113T12:43:48Z | CVE-2023-7028 | This repository presents a proof-of-concept of CVE-2023-7028 | https://github.com/Vozec/CVE-2023-7028 | | 
+| 20240113T12:42:57Z | CVE-2024-20656 | Null | https://github.com/Wh04m1001/CVE-2024-20656 | | 
+| 20240113T11:27:01Z | CVE-2023-36003 | Privilege escalation using the XAML diagnostics API (CVE-2023-36003) | https://github.com/m417z/CVE-2023-36003-POC | | 
+| 20240113T10:19:51Z | CVE-2022-20818 | CVE-2022-20818: Local Privilege Escalation via Partial File Read in Cisco SD-WAN | https://github.com/mbadanoiu/CVE-2022-20818 | | 
+| 20240113T10:11:18Z | CVE-2023-51000 | Null | https://github.com/Team-Byerus/CVE-2023-51000 | | 
+| 20240113T09:36:42Z | CVE-2023-50164 | CVE-2023-50164 (Apache Struts path traversal to RCE vulnerability) - Proof of Concept | https://github.com/sunnyvale-it/CVE-2023-50164-PoC | | 
+| 20240113T08:55:05Z | CVE-2023-7028 | An issue has been discovered in GitLab CE/EE affecting all versions from 16.1 prior to 16.1.6, 16.2 prior to 16.2.9, 16.3 prior to 16.3.7, 16.4 prior to 16.4.5, 16.5 prior to 16.5.6, 16.6 prior to 16.6.4, and 16.7 prior to 16.7.2 in which user account password reset emails could be delivered to an unverified email address. | https://github.com/duy-31/CVE-2023-7028 | | 
+| 20240113T08:04:40Z | CVE-2023-7028 | CVE-2023-7028 poc | https://github.com/V1lu0/CVE-2023-7028 | | 
 | 20240112T17:46:12Z | CVE-2021-20323 | Tool for finding CVE-2021-20323 | https://github.com/Cappricio-Securities/CVE-2021-20323 | | 
-| 20240112T16:38:02Z | CVE-2023-28588 | Null | https://github.com/Trinadh465/CVE-2023-28588 | | 
-| 20240112T15:20:29Z | CVE-2023-7028 | An issue has been discovered in GitLab CE/EE affecting all versions from 16.1 prior to 16.1.6, 16.2 prior to 16.2.9, 16.3 prior to 16.3.7, 16.4 prior to 16.4.5, 16.5 prior to 16.5.6, 16.6 prior to 16.6.4, and 16.7 prior to 16.7.2 in which user account password reset emails could be delivered to an unverified email address. | https://github.com/duy-31/CVE-2023-7028 | | 
-| 20240112T15:00:53Z | CVE-2023-28588 | system_bt_CVE-2023-28588 | https://github.com/uthrasri/CVE-2023-28588_system_bt | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240113T02:48:05Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14914 | 447| 
+| 20240113T09:34:34Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14916 | 447| 
+| 20240113T07:09:16Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2388 | 648| 
 | 20240113T01:49:46Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 421 | 9| 
-| 20240112T18:03:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2387 | 647| 
 | 20240111T12:12:44Z | Config files for my GitHub profile. | https://github.com/Kleezyy/Kleezyy | 0 | 0| 
 | 20240110T14:08:54Z | Null | https://github.com/Aadarsh-2912/KLEENEX | 0 | 0| 
 | 20240106T22:53:42Z | [ICSE SEIP 2024] Broadly Enabling KLEE to Effortlessly Find Unrecoverable Errors   in Rust | https://github.com/NEUZhangy/ICSE-SEIP-2024 | 0 | 0| 
@@ -63,21 +63,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240113T11:33:27Z | Verification Codes for the Research: Simple Vs Vectorial: Exploiting Structural Symmetry to Beat the ZeroSum Distinguisher Applications to SHA3, Xoodyak and Bash | https://github.com/ShibamCrS/SymSumsimSumSHA3Xoodyak | 0 | 0| 
+| 20240113T11:23:55Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5629 | 1090| 
+| 20240113T10:54:20Z | This GitHub directory contains a series of code examples in STM32CubeIDE and HAL for practical projects in the STM32F411 microcontroller course. Each compressed file corresponds to a specific project that exploits particular functionalities of the microcontroller and aims to demonstrate its use in various scenarios. | https://github.com/jimbaud/LAB_F411_STM32CubeIDE | 0 | 0| 
+| 20240113T06:04:47Z | DarkCool All Tools For Hacking Activity! List:~ Exploiter, Checker, Webshell Finder, Grabber, Searching, Bruteforce, Random, And Others Tools | https://github.com/DarkSkull777/DarkCool | 8 | 5| 
 | 20240113T02:58:22Z | My modded version of @bypassiwastaken%s payment-based exploit, currently for testing. | https://github.com/Quartinal/buypass | 0 | 0| 
 | 20240113T02:47:05Z | XSS Scanner and Automated Exploiter | https://github.com/scarlett-danger/XSSniper | 0 | 0| 
 | 20240113T02:21:21Z | This project aims to learn different types of vulnerability that exists in windows XP as a way to deepen understanding of how could a system vulnerabilities  be exploited | https://github.com/sudoblanc/Exploiting-Windows-XP-In-a-close-lab-environment | 0 | 0| 
-| 20240113T01:37:56Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5628 | 1090| 
 | 20240113T00:41:11Z | In this repository you can find the Codify server write up and the exploit used to make the privilege escalation. | https://github.com/3mpir3Albert/HTB_Codify | 0 | 0| 
 | 20240113T00:11:07Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-re | 1 | 0| 
 | 20240113T00:10:29Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-re | 1 | 0| 
-| 20240113T00:09:44Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-re | 1 | 0| 
-| 20240113T00:09:00Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-re | 1 | 0| 
-| 20240112T23:03:23Z | Exploit Smartphone Sensors for Indoor Navigation | https://github.com/mmkrasel/sensinav | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240113T12:37:54Z | Reproduction of Opportunistic Backdoor Attacks%s paper, thanks to the students at the National University of Defense Technology for providing the data set for the reproduction of this paper. | https://github.com/WD-2711/DABA | 0 | 0| 
 | 20240112T12:29:48Z | ACM MM 2022 Paper: Opportunistic Backdoor Attacks: Exploring Human-imperceptible Vulnerabilities on Speech Recognition Systems | https://github.com/lqsunshine/DABA | 3 | 0| 
 | 20240112T12:15:44Z | Persistent Powershell backdoor tool  | https://github.com/ELMERIKH/Keres | 73 | 10| 
 | 20240112T11:00:20Z | Android-BackDoor is a python and shell script that simplifies the process of adding a backdoor to any Android APK file. It also exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/BitWalls-Sec/AndroidHack_BackDoor | 21 | 10| 
@@ -87,7 +88,6 @@
 | 20240112T06:06:30Z | Null | https://github.com/SZU-AdvTech-2023/348-Deepsight-Mitigating-Backdoor-Attacks-in-Federated-Learning-Through-Deep-Model-Inspection | 0 | 0| 
 | 20240112T01:41:59Z | PHP shell backdoors list  ( collection ) | https://github.com/1337r0j4n/php-backdoors | 98 | 43| 
 | 20240111T20:52:20Z | ELF binary forensics tool for APT, virus, backdoor and rootkit detection | https://github.com/arcana-technologies/arcana.elfscan | 27 | 4| 
-| 20240111T13:25:37Z | Backdoor Collection 👾 | https://github.com/adilhyz/WebShell | 8 | 2| 
 
 
 # symbolic execution on Github 推荐
@@ -118,16 +118,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240113T12:35:22Z | Null | https://github.com/m-usman-24/fuzzy-octo-tribble | 0 | 0| 
+| 20240113T12:15:34Z | Every Hacker%s Go to Fuzzing List. Introducing the Ultimate Fuzzing Directory: Your Go-To Resource for Penetration Testers and Bug Bounty Hunters!  Unlock the power of comprehensive fuzzing with our meticulously curated Fuzzing Directory, a one-stop solution designed to streamline your penetration testing and bug bounty hunting endeavors.  | https://github.com/ho1x1ow/Fuzzout | 6 | 2| 
+| 20240113T11:59:44Z | Null | https://github.com/mehmetMRE/Fuzzy | 0 | 0| 
+| 20240113T11:44:13Z | Null | https://github.com/Akssaini20008/Fuzzy | 0 | 0| 
+| 20240113T11:32:25Z | Null | https://github.com/fbjytu5/fuzzy-octo-invention | 0 | 0| 
+| 20240113T09:24:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9302 | 2090| 
+| 20240113T09:13:15Z | Prediction of heart disease using fuzzy logic | https://github.com/bytehacktress/FuzzyProject | 0 | 0| 
+| 20240113T08:59:17Z | A short quiz that takes preferences from the user and assigning them a personality based on the responses. | https://github.com/BrianCibrian/Fuzzy-Personality-Quiz | 0 | 0| 
+| 20240113T07:56:13Z | Null | https://github.com/Jackie425/fuzzHLS | 0 | 0| 
 | 20240113T01:36:47Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51308 | 23468| 
-| 20240113T01:09:06Z | Fuzz testing framework for Solana programs written in Anchor | https://github.com/Ackee-Blockchain/trdelnik | 102 | 9| 
-| 20240112T22:08:02Z | In depth PHP learning | https://github.com/NoAnswerss/fuzzy-carnival | 0 | 0| 
-| 20240112T21:32:50Z | Command line helpers for fuzzing | https://github.com/rust-fuzz/cargo-fuzz | 1383 | 105| 
-| 20240112T21:06:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9301 | 2089| 
-| 20240112T18:28:42Z | Fuzzing corpoa for ref-fvm and connected libraries | https://github.com/filecoin-project/ref-fvm-fuzz-corpora | 2 | 1| 
-| 20240112T18:27:12Z | TokTok fuzzing corpus and coverage results. | https://github.com/TokTok/toktok-fuzzer | 3 | 2| 
-| 20240112T15:52:42Z | Null | https://github.com/google/fuzztest | 510 | 39| 
-| 20240112T13:43:56Z | Every Hacker%s Go to Fuzzing List. | https://github.com/ho1x1ow/Fuzzout | 0 | 0| 
-| 20240112T13:14:00Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST, GraphQL and RPC (e.g., gRPC and Thrift). | https://github.com/EMResearch/EvoMaster | 393 | 73| 
 
 
 
