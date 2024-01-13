@@ -124,10 +124,10 @@
 | 20240112T21:32:50Z | Command line helpers for fuzzing | https://github.com/rust-fuzz/cargo-fuzz | 1383 | 105| 
 | 20240112T21:06:32Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9301 | 2089| 
 | 20240112T18:28:42Z | Fuzzing corpoa for ref-fvm and connected libraries | https://github.com/filecoin-project/ref-fvm-fuzz-corpora | 2 | 1| 
+| 20240112T18:27:12Z | TokTok fuzzing corpus and coverage results. | https://github.com/TokTok/toktok-fuzzer | 3 | 2| 
 | 20240112T15:52:42Z | Null | https://github.com/google/fuzztest | 510 | 39| 
 | 20240112T13:43:56Z | Every Hacker%s Go to Fuzzing List. | https://github.com/ho1x1ow/Fuzzout | 0 | 0| 
 | 20240112T13:14:00Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST, GraphQL and RPC (e.g., gRPC and Thrift). | https://github.com/EMResearch/EvoMaster | 393 | 73| 
-| 20240112T13:11:21Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 332 | 48| 
 
 
 
