@@ -70,9 +70,9 @@
 | 20240113T00:09:00Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-re | 1 | 0| 
 | 20240112T23:03:23Z | Exploit Smartphone Sensors for Indoor Navigation | https://github.com/mmkrasel/sensinav | 0 | 0| 
 | 20240112T20:37:02Z | A repository to store some linux exploitation and technique i%ve seen during my studies | https://github.com/Disturbante/Linux-Pentest | 1 | 0| 
+| 20240112T18:00:22Z | Exploits for some linux binaries :) | https://github.com/GatoGamer1155/BinaryExploitation | 28 | 5| 
 | 20240112T15:22:56Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5627 | 1090| 
 | 20240112T15:13:41Z | Null | https://github.com/Riotscripter/LuffyExploits | 0 | 0| 
-| 20240112T13:11:08Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 774 | 185| 
 
 
 # backdoor on Github 推荐
