@@ -15,24 +15,33 @@
 | 20240112 | HackerGPT&WhiteRabbitNeo的使用及体验对比 | https://mp.weixin.qq.com/s/42ETiCS-e-yfvBdAfre3xg| 
 | 20240112 | 基于图实现 Kubernetes 异常权限检测 | https://mp.weixin.qq.com/s/sf3RFJAJEg3HVeFrI-jBKg| 
 | 20240112 | Remcos RAT通信模型剖析及攻防技术对抗 | https://mp.weixin.qq.com/s/yqauQ6rtBzrLI7h1nB7zQg| 
+| 20240112 | 恶意App后台弹窗技术手法分析 | https://mp.weixin.qq.com/s/hGx8FNjI37trnZehY839bQ| 
+| 20240112 | Linksys设备多个0-day漏洞 | https://mp.weixin.qq.com/s/MyT_EWKaVYTStEUi3MKSOw| 
+| 20240112 | 关基系统应对定向勒索攻击的防御和治理思考 | https://mp.weixin.qq.com/s/9DNFqKAXdti8W2jHfZFgqA| 
+| 20240112 | 《智星动网 · 安全引航》卫星安全研究报告 | https://book.yunzhan365.com/tkgd/nomj/mobile/index.html| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240112T13:59:17Z | CVE-2021-20323 | Tool for finding CVE-2021-20323 | https://github.com/Cappricio-Securities/CVE-2021-20323 | | 
-| 20240112T13:57:01Z | CVE-2023-7028 | CVE-2023-7028 | https://github.com/RandomRobbieBF/CVE-2023-7028 | | 
-| 20240112T13:56:27Z | CVE-2023-36003 | Privilege escalation using the XAML diagnostics API (CVE-2023-36003) | https://github.com/m417z/CVE-2023-36003-POC | | 
-| 20240112T13:32:43Z | CVE-2023-7028 | CVE-2023-7028 poc | https://github.com/V1lu0/CVE-2023-7028 | | 
-| 20240112T09:40:17Z | CVE-2023-50164 | CVE-2023-50164 (Apache Struts path traversal to RCE vulnerability) - Proof of Concept | https://github.com/sunnyvale-it/CVE-2023-50164-PoC | | 
+| 20240112T23:32:26Z | CVE-2023-7028 | CVE-2023-7028 | https://github.com/RandomRobbieBF/CVE-2023-7028 | | 
+| 20240112T23:21:04Z | CVE-2024-20656 | Null | https://github.com/Wh04m1001/CVE-2024-20656 | | 
+| 20240112T21:54:22Z | CVE-2023-7028 | CVE-2023-7028 poc | https://github.com/V1lu0/CVE-2023-7028 | | 
+| 20240112T18:47:53Z | CVE-2023-50164 | CVE-2023-50164 (Apache Struts path traversal to RCE vulnerability) - Proof of Concept | https://github.com/sunnyvale-it/CVE-2023-50164-PoC | | 
+| 20240112T17:46:12Z | CVE-2021-20323 | Tool for finding CVE-2021-20323 | https://github.com/Cappricio-Securities/CVE-2021-20323 | | 
+| 20240112T16:38:02Z | CVE-2023-28588 | Null | https://github.com/Trinadh465/CVE-2023-28588 | | 
+| 20240112T15:20:29Z | CVE-2023-7028 | An issue has been discovered in GitLab CE/EE affecting all versions from 16.1 prior to 16.1.6, 16.2 prior to 16.2.9, 16.3 prior to 16.3.7, 16.4 prior to 16.4.5, 16.5 prior to 16.5.6, 16.6 prior to 16.6.4, and 16.7 prior to 16.7.2 in which user account password reset emails could be delivered to an unverified email address. | https://github.com/duy-31/CVE-2023-7028 | | 
+| 20240112T15:00:53Z | CVE-2023-28588 | system_bt_CVE-2023-28588 | https://github.com/uthrasri/CVE-2023-28588_system_bt | | 
+| 20240112T14:02:22Z | CVE-2023-28588 | Null | https://github.com/uthrasri/CVE-2023-28588 | | 
 | 20240112T08:52:45Z | CVE-2023-49070 | CVE-2023-49070 exploit and CVE-2023-49070 & CVE-2023-51467 vulnerability scanner | https://github.com/yukselberkay/CVE-2023-49070_CVE-2023-51467 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240112T13:37:27Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14911 | 447| 
-| 20240112T13:10:02Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2389 | 647| 
+| 20240112T19:30:52Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 420 | 9| 
+| 20240112T18:40:18Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14911 | 447| 
+| 20240112T18:03:17Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2387 | 647| 
 
 
 # s2e on Github 推荐
@@ -43,16 +52,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240112T13:37:04Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5627 | 1090| 
+| 20240112T23:03:23Z | Exploit Smartphone Sensors for Indoor Navigation | https://github.com/mmkrasel/sensinav | 0 | 0| 
+| 20240112T20:37:02Z | A repository to store some linux exploitation and technique i%ve seen during my studies | https://github.com/Disturbante/Linux-Pentest | 1 | 0| 
+| 20240112T15:22:56Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5627 | 1090| 
+| 20240112T15:13:41Z | Null | https://github.com/Riotscripter/LuffyExploits | 0 | 0| 
+| 20240112T13:11:08Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 774 | 185| 
 | 20240112T12:59:12Z | Null | https://github.com/houjingyi233/office-exploit-case-study | 364 | 125| 
 | 20240112T12:49:36Z | Practice for binary exploitation and reverse engineering | https://github.com/3dgyGamer/binrev-practice | 0 | 0| 
 | 20240112T12:46:39Z | Null | https://github.com/MaksimPlatonov7777888/exploit22 | 0 | 0| 
 | 20240112T11:32:55Z | Null | https://github.com/gio-del/exploit_repo_ctf | 0 | 0| 
 | 20240112T09:54:34Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 84 | 12| 
-| 20240112T07:07:56Z | A repository to store some linux exploitation and technique i%ve seen during my studies | https://github.com/Disturbante/Linux-Pentest | 1 | 0| 
-| 20240112T01:31:22Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0017-app-Sl_QG-exploit-employ | 0 | 0| 
-| 20240112T01:30:58Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0006-app-RNFnu-voice-exploit | 0 | 0| 
-| 20240112T01:20:39Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-vd | 1 | 0| 
 
 
 # backdoor on Github 推荐
