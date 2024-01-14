@@ -40,6 +40,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240114T13:15:43Z | This Android application showcases various security vulnerabilities and potential security threats that can occur on an Android device. It includes demonstrations of exploiting services, content providers, notification permissions, and more. | https://github.com/n0S3curity/PT-Android-Malware-App | 1 | 0| 
 | 20240114T12:57:10Z | Exploit tool implemented using ebpf. | https://github.com/bfengj/eBPFeXPLOIT | 78 | 5| 
 | 20240114T11:17:27Z | Silly ass gif exploit  | https://github.com/ivorydevrimoalt/middleclickonthis | 0 | 0| 
 | 20240114T10:40:53Z |  SploitScan is a sophisticated cybersecurity utility designed to provide detailed information on vulnerabilities and associated proof-of-concept (PoC) exploits.  | https://github.com/xaitax/SploitScan | 4 | 0| 
@@ -49,7 +50,6 @@
 | 20240114T01:13:01Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0027-app-rMYRO-prepare-exploit | 0 | 0| 
 | 20240114T00:57:20Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 775 | 185| 
 | 20240114T00:25:02Z | Null | https://github.com/deeplearnerali/exploit | 0 | 0| 
-| 20240114T00:14:02Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-de | 1 | 0| 
 
 
 # backdoor on Github 推荐
