@@ -63,6 +63,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240114T01:13:37Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0033-app-m8S-R-exploit-interpret | 0 | 0| 
+| 20240114T01:13:01Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0027-app-rMYRO-prepare-exploit | 0 | 0| 
 | 20240114T00:25:02Z | Null | https://github.com/deeplearnerali/exploit | 0 | 0| 
 | 20240114T00:14:02Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-de | 1 | 0| 
 | 20240114T00:13:16Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-de | 1 | 0| 
@@ -71,8 +73,6 @@
 | 20240113T21:25:49Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5632 | 1090| 
 | 20240113T11:33:27Z | Verification Codes for the Research: Simple Vs Vectorial: Exploiting Structural Symmetry to Beat the ZeroSum Distinguisher Applications to SHA3, Xoodyak and Bash | https://github.com/ShibamCrS/SymSumsimSumSHA3Xoodyak | 0 | 0| 
 | 20240113T10:54:20Z | This GitHub directory contains a series of code examples in STM32CubeIDE and HAL for practical projects in the STM32F411 microcontroller course. Each compressed file corresponds to a specific project that exploits particular functionalities of the microcontroller and aims to demonstrate its use in various scenarios. | https://github.com/jimbaud/LAB_F411_STM32CubeIDE | 0 | 0| 
-| 20240113T06:04:47Z | DarkCool All Tools For Hacking Activity! List:~ Exploiter, Checker, Webshell Finder, Grabber, Searching, Bruteforce, Random, And Others Tools | https://github.com/DarkSkull777/DarkCool | 8 | 5| 
-| 20240113T02:58:22Z | My modded version of @bypassiwastaken%s payment-based exploit, currently for testing. | https://github.com/Quartinal/buypass | 0 | 0| 
 
 
 # backdoor on Github 推荐
