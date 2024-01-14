@@ -118,9 +118,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240114T02:47:30Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST, GraphQL and RPC (e.g., gRPC and Thrift). | https://github.com/EMResearch/EvoMaster | 395 | 73| 
 | 20240114T01:25:44Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51326 | 23472| 
 | 20240114T01:01:53Z | AMD OpenCL Runtime for Navi Cards. | https://github.com/supersonictw/fuzzy | 0 | 0| 
-| 20240113T23:56:47Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST, GraphQL and RPC (e.g., gRPC and Thrift). | https://github.com/EMResearch/EvoMaster | 394 | 73| 
 | 20240113T23:55:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9304 | 2090| 
 | 20240113T23:39:49Z | A fuzzing library for rust hardware drivers | https://github.com/silvergasp/embedded-hal-fuzz | 23 | 0| 
 | 20240113T21:30:07Z | Null | https://github.com/SHADOW4566/fuzzy-succotash | 0 | 0| 

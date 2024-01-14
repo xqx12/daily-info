@@ -76,7 +76,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240113T23:56:47Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST, GraphQL and RPC (e.g., gRPC and Thrift). | https://github.com/EMResearch/EvoMaster | 394 | 73| 
 | 20240113T23:55:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9304 | 2090| 
 | 20240113T23:39:49Z | A fuzzing library for rust hardware drivers | https://github.com/silvergasp/embedded-hal-fuzz | 23 | 0| 
 | 20240113T21:30:07Z | Null | https://github.com/SHADOW4566/fuzzy-succotash | 0 | 0| 
@@ -86,6 +85,7 @@
 | 20240113T12:35:22Z | Null | https://github.com/m-usman-24/fuzzy-octo-tribble | 0 | 0| 
 | 20240113T12:15:34Z | Every Hacker%s Go to Fuzzing List. Introducing the Ultimate Fuzzing Directory: Your Go-To Resource for Penetration Testers and Bug Bounty Hunters!  Unlock the power of comprehensive fuzzing with our meticulously curated Fuzzing Directory, a one-stop solution designed to streamline your penetration testing and bug bounty hunting endeavors.  | https://github.com/ho1x1ow/Fuzzout | 6 | 2| 
 | 20240113T11:59:44Z | Null | https://github.com/mehmetMRE/Fuzzy | 0 | 0| 
+| 20240113T11:44:13Z | Null | https://github.com/Akssaini20008/Fuzzy | 0 | 0| 
 
 
 
