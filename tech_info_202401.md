@@ -118,6 +118,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240114T01:25:44Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51326 | 23472| 
 | 20240114T01:01:53Z | AMD OpenCL Runtime for Navi Cards. | https://github.com/supersonictw/fuzzy | 0 | 0| 
 | 20240113T23:56:47Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST, GraphQL and RPC (e.g., gRPC and Thrift). | https://github.com/EMResearch/EvoMaster | 394 | 73| 
 | 20240113T23:55:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9304 | 2090| 
@@ -127,7 +128,6 @@
 | 20240113T21:13:16Z | Null | https://github.com/eliaskosunen/scnlib-fuzz-corpus | 0 | 0| 
 | 20240113T13:36:20Z | Null | https://github.com/aoki-rin/AE_Fuzzy | 0 | 0| 
 | 20240113T12:35:22Z | Null | https://github.com/m-usman-24/fuzzy-octo-tribble | 0 | 0| 
-| 20240113T12:15:34Z | Every Hacker%s Go to Fuzzing List. Introducing the Ultimate Fuzzing Directory: Your Go-To Resource for Penetration Testers and Bug Bounty Hunters!  Unlock the power of comprehensive fuzzing with our meticulously curated Fuzzing Directory, a one-stop solution designed to streamline your penetration testing and bug bounty hunting endeavors.  | https://github.com/ho1x1ow/Fuzzout | 6 | 2| 
 
 
 
