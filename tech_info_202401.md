@@ -118,6 +118,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240114T13:59:52Z | Null | https://github.com/Erenzeybek2020/fuzzy-umbrella | 0 | 0| 
 | 20240114T13:19:30Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1725 | 257| 
 | 20240114T07:50:06Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 938 | 214| 
 | 20240114T06:35:48Z | nullpwn.ro/oldwebiste | https://github.com/null-p4n/fuzzy-octo-dollop | 0 | 0| 
@@ -127,7 +128,6 @@
 | 20240114T01:01:53Z | AMD OpenCL Runtime for Navi Cards. | https://github.com/supersonictw/fuzzy | 0 | 0| 
 | 20240113T23:55:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9304 | 2090| 
 | 20240113T23:39:49Z | A fuzzing library for rust hardware drivers | https://github.com/silvergasp/embedded-hal-fuzz | 23 | 0| 
-| 20240113T21:30:07Z | Null | https://github.com/SHADOW4566/fuzzy-succotash | 0 | 0| 
 
 
 
