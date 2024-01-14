@@ -26,10 +26,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240114T01:02:11Z | CVE-2024-20656 | Null | https://github.com/Wh04m1001/CVE-2024-20656 | | 
 | 20240114T00:30:24Z | CVE-2023-7028 | This repository presents a proof-of-concept of CVE-2023-7028 | https://github.com/Vozec/CVE-2023-7028 | | 
 | 20240114T00:30:19Z | CVE-2023-7028 | CVE-2023-7028 | https://github.com/RandomRobbieBF/CVE-2023-7028 | | 
 | 20240113T23:54:45Z | CVE-2020-0796 | Null | https://github.com/Vladshambaryan/https-github.com-jamf-CVE-2020-0796-RCE-POC | | 
-| 20240113T22:22:24Z | CVE-2024-20656 | Null | https://github.com/Wh04m1001/CVE-2024-20656 | | 
 | 20240113T15:25:16Z | CVE-2023-6875 | CVE-2023-6875 PoC | https://github.com/UlyssesSaicha/CVE-2023-6875 | | 
 | 20240113T11:27:01Z | CVE-2023-36003 | Privilege escalation using the XAML diagnostics API (CVE-2023-36003) | https://github.com/m417z/CVE-2023-36003-POC | | 
 | 20240113T10:19:51Z | CVE-2022-20818 | CVE-2022-20818: Local Privilege Escalation via Partial File Read in Cisco SD-WAN | https://github.com/mbadanoiu/CVE-2022-20818 | | 
@@ -93,7 +93,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240113T07:09:16Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2388 | 648| 
+| 20240114T00:02:17Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 484 | 34| 
+| 20240113T23:51:39Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2389 | 648| 
 | 20240112T21:24:57Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 10 | 3| 
 | 20240112T21:17:24Z | Unicorn: Symbolic Execution, Bounded Model Checking, and Code Optimization of RISC-V Code using Classical Solvers and Quantum Computers | https://github.com/cksystemsgroup/unicorn | 26 | 8| 
 | 20240112T15:17:34Z | A symbolic execution engine for EVM smart contract binaries | https://github.com/ucsb-seclab/greed | 12 | 0| 
@@ -102,7 +103,6 @@
 | 20240110T09:40:54Z | Null | https://github.com/dynaroars/symbolic-execution-analysis | 0 | 0| 
 | 20240108T19:36:56Z | Solving Crosswords Puzzles with Symbolic Execution | https://github.com/47Cid/Symbolic-Crossword | 0 | 0| 
 | 20240108T09:45:08Z | Symbolic Execution Benchmarks for Ethereum Smart Contracts | https://github.com/eth-sc-comp/benchmarks | 16 | 1| 
-| 20240108T03:58:34Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 483 | 34| 
 
 
 # big4 on Github 推荐

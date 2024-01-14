@@ -17,7 +17,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20240113T23:54:45Z | CVE-2020-0796 | Null | https://github.com/Vladshambaryan/https-github.com-jamf-CVE-2020-0796-RCE-POC | | 
-| 20240113T22:22:24Z | CVE-2024-20656 | Null | https://github.com/Wh04m1001/CVE-2024-20656 | | 
 | 20240113T15:25:16Z | CVE-2023-6875 | CVE-2023-6875 PoC | https://github.com/UlyssesSaicha/CVE-2023-6875 | | 
 | 20240113T11:27:01Z | CVE-2023-36003 | Privilege escalation using the XAML diagnostics API (CVE-2023-36003) | https://github.com/m417z/CVE-2023-36003-POC | | 
 | 20240113T10:19:51Z | CVE-2022-20818 | CVE-2022-20818: Local Privilege Escalation via Partial File Read in Cisco SD-WAN | https://github.com/mbadanoiu/CVE-2022-20818 | | 
@@ -68,7 +67,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240113T07:09:16Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2388 | 648| 
+| 20240113T23:51:39Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2389 | 648| 
 
 
 # big4 on Github 推荐
