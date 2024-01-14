@@ -16,9 +16,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240114T13:38:16Z | CVE-2023-6875 | CVE-2023-6875 PoC | https://github.com/UlyssesSaicha/CVE-2023-6875 | | 
+| 20240114T13:37:16Z | CVE-2024-20656 | Null | https://github.com/Wh04m1001/CVE-2024-20656 | | 
 | 20240114T13:28:24Z | CVE-2023-7028 | This repository presents a proof-of-concept of CVE-2023-7028 | https://github.com/Vozec/CVE-2023-7028 | | 
-| 20240114T13:22:17Z | CVE-2024-20656 | Null | https://github.com/Wh04m1001/CVE-2024-20656 | | 
-| 20240114T12:30:55Z | CVE-2023-6875 | CVE-2023-6875 PoC | https://github.com/UlyssesSaicha/CVE-2023-6875 | | 
 | 20240114T09:27:39Z | CVE-2024-21887 | POC Checker for ivanti CVE-2024-21887 Command injcetion | https://github.com/oways/ivanti-CVE-2024-21887 | | 
 | 20240114T03:44:46Z | CVE-2023-7028 | An issue has been discovered in GitLab CE/EE affecting all versions from 16.1 prior to 16.1.6, 16.2 prior to 16.2.9, 16.3 prior to 16.3.7, 16.4 prior to 16.4.5, 16.5 prior to 16.5.6, 16.6 prior to 16.6.4, and 16.7 prior to 16.7.2 in which user account password reset emails could be delivered to an unverified email address. | https://github.com/duy-31/CVE-2023-7028 | | 
 | 20240114T02:24:48Z | CVE-2023-7028 | CVE-2023-7028 | https://github.com/RandomRobbieBF/CVE-2023-7028 | | 
