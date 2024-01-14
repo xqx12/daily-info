@@ -55,6 +55,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240114T13:02:02Z | The S-500 G2 Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/Maskiow/S500-RAT-HVNC-HAPP-HIdden-BROWSER-HRDP-REVERSE-PROXY-CRYPTO-MONITOR | 1 | 0| 
 | 20240114T10:33:31Z | Backdoor written in Go which provides website interface for dangerous functionality. | https://github.com/Fish-Sticks/backdoor | 0 | 0| 
 | 20240114T02:21:19Z | Dynamic PHP backdoor generator utilizing the OpenSSL%s RSA Algorithm. | https://github.com/z0r0/Crypt-o-Door | 5 | 4| 
 
@@ -62,7 +63,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240114T02:45:41Z | Null | https://github.com/leiDnedyA/ocaml_symbolic_execution | 0 | 0| 
+| 20240114T02:59:10Z | Null | https://github.com/leiDnedyA/ocaml_symbolic_execution | 0 | 0| 
 | 20240114T02:22:16Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2390 | 648| 
 | 20240114T00:02:17Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 484 | 34| 
 

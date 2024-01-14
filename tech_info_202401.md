@@ -78,6 +78,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240114T13:02:02Z | The S-500 G2 Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/Maskiow/S500-RAT-HVNC-HAPP-HIdden-BROWSER-HRDP-REVERSE-PROXY-CRYPTO-MONITOR | 1 | 0| 
 | 20240114T10:33:31Z | Backdoor written in Go which provides website interface for dangerous functionality. | https://github.com/Fish-Sticks/backdoor | 0 | 0| 
 | 20240114T02:21:19Z | Dynamic PHP backdoor generator utilizing the OpenSSL%s RSA Algorithm. | https://github.com/z0r0/Crypt-o-Door | 5 | 4| 
 | 20240113T20:40:05Z | Repository Consists of Code that Implements  Backdoor Attacks and Defenses on DNN%s | https://github.com/MarkoHaralovic/DL_cyber_attacks | 3 | 0| 
@@ -86,14 +87,13 @@
 | 20240112T12:29:48Z | ACM MM 2022 Paper: Opportunistic Backdoor Attacks: Exploring Human-imperceptible Vulnerabilities on Speech Recognition Systems | https://github.com/lqsunshine/DABA | 3 | 0| 
 | 20240112T12:15:44Z | Persistent Powershell backdoor tool  | https://github.com/ELMERIKH/Keres | 73 | 10| 
 | 20240112T11:00:20Z | Android-BackDoor is a python and shell script that simplifies the process of adding a backdoor to any Android APK file. It also exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/BitWalls-Sec/AndroidHack_BackDoor | 21 | 10| 
-| 20240112T10:50:51Z | The S-500 G2 Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/Maskiow/S500-RAT-HVNC-HAPP-HIdden-BROWSER-HRDP-REVERSE-PROXY-CRYPTO-MONITOR | 2 | 0| 
 | 20240112T09:13:01Z | Simplified code implementation of the paper %On the Vulnerability of Backdoor Defenses for Federated Learning% from AAAI2023 | https://github.com/WangJing-wwj/F3BA | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240114T02:45:41Z | Null | https://github.com/leiDnedyA/ocaml_symbolic_execution | 0 | 0| 
+| 20240114T02:59:10Z | Null | https://github.com/leiDnedyA/ocaml_symbolic_execution | 0 | 0| 
 | 20240114T02:22:16Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2390 | 648| 
 | 20240114T00:02:17Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 484 | 34| 
 | 20240112T21:24:57Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 10 | 3| 
