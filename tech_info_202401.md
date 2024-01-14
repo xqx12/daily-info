@@ -93,6 +93,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240114T13:32:31Z | Protocol Inference Symbolic Execution - using dynamic symbolic execution | https://github.com/liordror/piseDSE | 0 | 0| 
 | 20240114T02:59:10Z | Null | https://github.com/leiDnedyA/ocaml_symbolic_execution | 0 | 0| 
 | 20240114T02:22:16Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2390 | 648| 
 | 20240114T00:02:17Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 484 | 34| 
@@ -102,7 +103,6 @@
 | 20240112T13:09:03Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 724 | 128| 
 | 20240112T08:43:25Z | Protocol Inference from an executable using dynamic symbolic execution. | https://github.com/saharmi22/piseDSE | 0 | 0| 
 | 20240110T09:40:54Z | Null | https://github.com/dynaroars/symbolic-execution-analysis | 0 | 0| 
-| 20240108T19:36:56Z | Solving Crosswords Puzzles with Symbolic Execution | https://github.com/47Cid/Symbolic-Crossword | 0 | 0| 
 
 
 # big4 on Github 推荐
