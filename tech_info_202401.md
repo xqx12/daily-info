@@ -71,8 +71,8 @@
 | 20240114T00:12:27Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-de | 1 | 0| 
 | 20240114T00:11:42Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-de | 1 | 0| 
 | 20240113T21:25:49Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5632 | 1090| 
+| 20240113T16:13:58Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 239 | 19| 
 | 20240113T11:33:27Z | Verification Codes for the Research: Simple Vs Vectorial: Exploiting Structural Symmetry to Beat the ZeroSum Distinguisher Applications to SHA3, Xoodyak and Bash | https://github.com/ShibamCrS/SymSumsimSumSHA3Xoodyak | 0 | 0| 
-| 20240113T10:54:20Z | This GitHub directory contains a series of code examples in STM32CubeIDE and HAL for practical projects in the STM32F411 microcontroller course. Each compressed file corresponds to a specific project that exploits particular functionalities of the microcontroller and aims to demonstrate its use in various scenarios. | https://github.com/jimbaud/LAB_F411_STM32CubeIDE | 0 | 0| 
 
 
 # backdoor on Github 推荐
