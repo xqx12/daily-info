@@ -63,7 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240114T01:51:17Z |  SploitScan is a sophisticated cybersecurity utility designed to provide detailed information on vulnerabilities and associated proof-of-concept (PoC) exploits.  | https://github.com/xaitax/SploitScan | 0 | 0| 
+| 20240114T02:25:49Z |  SploitScan is a sophisticated cybersecurity utility designed to provide detailed information on vulnerabilities and associated proof-of-concept (PoC) exploits.  | https://github.com/xaitax/SploitScan | 1 | 0| 
 | 20240114T01:30:49Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0049-app-Uqn3d-exploit-break | 0 | 0| 
 | 20240114T01:13:37Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0033-app-m8S-R-exploit-interpret | 0 | 0| 
 | 20240114T01:13:01Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0027-app-rMYRO-prepare-exploit | 0 | 0| 
