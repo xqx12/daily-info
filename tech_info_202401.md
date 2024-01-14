@@ -26,9 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240114T02:30:01Z | CVE-2023-7028 | This repository presents a proof-of-concept of CVE-2023-7028 | https://github.com/Vozec/CVE-2023-7028 | | 
 | 20240114T02:24:48Z | CVE-2023-7028 | CVE-2023-7028 | https://github.com/RandomRobbieBF/CVE-2023-7028 | | 
 | 20240114T02:16:21Z | CVE-2024-20656 | Null | https://github.com/Wh04m1001/CVE-2024-20656 | | 
-| 20240114T00:30:24Z | CVE-2023-7028 | This repository presents a proof-of-concept of CVE-2023-7028 | https://github.com/Vozec/CVE-2023-7028 | | 
 | 20240113T23:54:45Z | CVE-2020-0796 | Null | https://github.com/Vladshambaryan/https-github.com-jamf-CVE-2020-0796-RCE-POC | | 
 | 20240113T15:25:16Z | CVE-2023-6875 | CVE-2023-6875 PoC | https://github.com/UlyssesSaicha/CVE-2023-6875 | | 
 | 20240113T11:27:01Z | CVE-2023-36003 | Privilege escalation using the XAML diagnostics API (CVE-2023-36003) | https://github.com/m417z/CVE-2023-36003-POC | | 
@@ -93,6 +93,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240114T02:24:09Z | Null | https://github.com/leiDnedyA/ocaml_symbolic_execution | 0 | 0| 
 | 20240114T02:22:16Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2390 | 648| 
 | 20240114T00:02:17Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 484 | 34| 
 | 20240112T21:24:57Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 10 | 3| 
@@ -102,7 +103,6 @@
 | 20240112T08:43:25Z | Protocol Inference from an executable using dynamic symbolic execution. | https://github.com/saharmi22/piseDSE | 0 | 0| 
 | 20240110T09:40:54Z | Null | https://github.com/dynaroars/symbolic-execution-analysis | 0 | 0| 
 | 20240108T19:36:56Z | Solving Crosswords Puzzles with Symbolic Execution | https://github.com/47Cid/Symbolic-Crossword | 0 | 0| 
-| 20240108T09:45:08Z | Symbolic Execution Benchmarks for Ethereum Smart Contracts | https://github.com/eth-sc-comp/benchmarks | 16 | 1| 
 
 
 # big4 on Github 推荐
