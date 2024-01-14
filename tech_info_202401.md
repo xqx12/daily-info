@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240114T01:02:11Z | CVE-2024-20656 | Null | https://github.com/Wh04m1001/CVE-2024-20656 | | 
+| 20240114T01:02:54Z | CVE-2024-20656 | Null | https://github.com/Wh04m1001/CVE-2024-20656 | | 
 | 20240114T00:30:24Z | CVE-2023-7028 | This repository presents a proof-of-concept of CVE-2023-7028 | https://github.com/Vozec/CVE-2023-7028 | | 
 | 20240114T00:30:19Z | CVE-2023-7028 | CVE-2023-7028 | https://github.com/RandomRobbieBF/CVE-2023-7028 | | 
 | 20240113T23:54:45Z | CVE-2020-0796 | Null | https://github.com/Vladshambaryan/https-github.com-jamf-CVE-2020-0796-RCE-POC | | 
@@ -118,6 +118,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240114T01:01:53Z | AMD OpenCL Runtime for Navi Cards. | https://github.com/supersonictw/fuzzy | 0 | 0| 
 | 20240113T23:56:47Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST, GraphQL and RPC (e.g., gRPC and Thrift). | https://github.com/EMResearch/EvoMaster | 394 | 73| 
 | 20240113T23:55:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9304 | 2090| 
 | 20240113T23:39:49Z | A fuzzing library for rust hardware drivers | https://github.com/silvergasp/embedded-hal-fuzz | 23 | 0| 
@@ -127,7 +128,6 @@
 | 20240113T13:36:20Z | Null | https://github.com/aoki-rin/AE_Fuzzy | 0 | 0| 
 | 20240113T12:35:22Z | Null | https://github.com/m-usman-24/fuzzy-octo-tribble | 0 | 0| 
 | 20240113T12:15:34Z | Every Hacker%s Go to Fuzzing List. Introducing the Ultimate Fuzzing Directory: Your Go-To Resource for Penetration Testers and Bug Bounty Hunters!  Unlock the power of comprehensive fuzzing with our meticulously curated Fuzzing Directory, a one-stop solution designed to streamline your penetration testing and bug bounty hunting endeavors.  | https://github.com/ho1x1ow/Fuzzout | 6 | 2| 
-| 20240113T11:59:44Z | Null | https://github.com/mehmetMRE/Fuzzy | 0 | 0| 
 
 
 
