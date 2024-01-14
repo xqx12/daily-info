@@ -76,6 +76,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240114T13:19:30Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1725 | 257| 
 | 20240114T07:50:06Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 938 | 214| 
 | 20240114T06:35:48Z | nullpwn.ro/oldwebiste | https://github.com/null-p4n/fuzzy-octo-dollop | 0 | 0| 
 | 20240114T04:09:41Z | Null | https://github.com/beverworrior/fuzzy-octo-train | 0 | 0| 
