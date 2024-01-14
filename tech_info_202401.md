@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240114T01:51:17Z |  SploitScan is a sophisticated cybersecurity utility designed to provide detailed information on vulnerabilities and associated proof-of-concept (PoC) exploits.  | https://github.com/xaitax/SploitScan | 0 | 0| 
 | 20240114T01:30:49Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0049-app-Uqn3d-exploit-break | 0 | 0| 
 | 20240114T01:13:37Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0033-app-m8S-R-exploit-interpret | 0 | 0| 
 | 20240114T01:13:01Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0027-app-rMYRO-prepare-exploit | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20240114T00:12:27Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-de | 1 | 0| 
 | 20240114T00:11:42Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-de | 1 | 0| 
 | 20240113T21:25:49Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5632 | 1090| 
-| 20240113T16:13:58Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 239 | 19| 
 
 
 # backdoor on Github 推荐
