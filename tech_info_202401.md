@@ -63,11 +63,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240115T02:28:30Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5634 | 1091| 
 | 20240115T02:20:29Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5748 | 778| 
 | 20240115T01:58:58Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0064-app-fQmDX-decide-exploit | 0 | 0| 
 | 20240115T00:51:41Z | A detailed and comprehensive list of several useful ChromeOS exploits for your school/work managed Chromebooks. | https://github.com/LegitZenith/ChromeOS-Exploits | 1 | 0| 
 | 20240114T23:56:16Z | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | 6634 | 1128| 
-| 20240114T21:04:05Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5633 | 1091| 
 | 20240114T18:00:39Z | Developed for Escape From Tarkov and written in C++ and C#. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/Maskorws/Escape-From-Tarkov-Eft-Aimbot-esp-Loots-Exploits-Max-Skills-High-Jump | 1 | 0| 
 | 20240114T16:21:23Z | A place-break patch extension of JobsReborn plugin for Bukkit servers (Minecraft). | https://github.com/Djaytan/mc-jobs-reborn-patch-place-break | 4 | 1| 
 | 20240114T13:23:37Z |  SploitScan is a sophisticated cybersecurity utility designed to provide detailed information on vulnerabilities and associated proof-of-concept (PoC) exploits.  | https://github.com/xaitax/SploitScan | 5 | 0| 

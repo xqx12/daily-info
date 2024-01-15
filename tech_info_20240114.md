@@ -42,7 +42,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20240114T23:56:16Z | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | 6634 | 1128| 
-| 20240114T21:04:05Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5633 | 1091| 
 | 20240114T18:00:39Z | Developed for Escape From Tarkov and written in C++ and C#. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/Maskorws/Escape-From-Tarkov-Eft-Aimbot-esp-Loots-Exploits-Max-Skills-High-Jump | 1 | 0| 
 | 20240114T16:21:23Z | A place-break patch extension of JobsReborn plugin for Bukkit servers (Minecraft). | https://github.com/Djaytan/mc-jobs-reborn-patch-place-break | 4 | 1| 
 | 20240114T13:23:37Z |  SploitScan is a sophisticated cybersecurity utility designed to provide detailed information on vulnerabilities and associated proof-of-concept (PoC) exploits.  | https://github.com/xaitax/SploitScan | 5 | 0| 
@@ -51,6 +50,7 @@
 | 20240114T11:17:27Z | Silly ass gif exploit  | https://github.com/ivorydevrimoalt/middleclickonthis | 0 | 0| 
 | 20240114T01:30:49Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0049-app-Uqn3d-exploit-break | 0 | 0| 
 | 20240114T01:13:37Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0033-app-m8S-R-exploit-interpret | 0 | 0| 
+| 20240114T01:13:01Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0027-app-rMYRO-prepare-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
