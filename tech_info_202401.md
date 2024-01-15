@@ -78,6 +78,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240115T01:26:38Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 244 | 31| 
 | 20240114T21:28:25Z | Null | https://github.com/mosfiend/Backdoor | 0 | 0| 
 | 20240114T16:28:07Z | I wrote backdoor and listener with python3 | https://github.com/Res4ad0/backdoor | 0 | 0| 
 | 20240114T13:02:02Z | The S-500 G2 Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/Maskiow/S500-RAT-HVNC-HAPP-HIdden-BROWSER-HRDP-REVERSE-PROXY-CRYPTO-MONITOR | 1 | 0| 
@@ -87,7 +88,6 @@
 | 20240113T15:00:54Z | Final version of Backdoor programmed in Python | https://github.com/Bruno-SantosS/Backdoor | 0 | 0| 
 | 20240113T12:37:54Z | Reproduction of Opportunistic Backdoor Attacks%s paper, thanks to the students at the National University of Defense Technology for providing the data set for the reproduction of this paper. | https://github.com/WD-2711/DABA | 0 | 0| 
 | 20240112T12:29:48Z | ACM MM 2022 Paper: Opportunistic Backdoor Attacks: Exploring Human-imperceptible Vulnerabilities on Speech Recognition Systems | https://github.com/lqsunshine/DABA | 3 | 0| 
-| 20240112T12:15:44Z | Persistent Powershell backdoor tool  | https://github.com/ELMERIKH/Keres | 73 | 10| 
 
 
 # symbolic execution on Github 推荐
