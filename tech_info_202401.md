@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240115T02:32:24Z | 3D NLOS imaging with an ordinary camera by exploiting unknown hidden 3D occluders | https://github.com/iscilab2020/SNLLS_3D-NLOS_OrdinaryCamera | 0 | 0| 
 | 20240115T02:28:30Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5634 | 1091| 
 | 20240115T02:20:29Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5748 | 778| 
 | 20240115T01:58:58Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0064-app-fQmDX-decide-exploit | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20240114T16:21:23Z | A place-break patch extension of JobsReborn plugin for Bukkit servers (Minecraft). | https://github.com/Djaytan/mc-jobs-reborn-patch-place-break | 4 | 1| 
 | 20240114T13:23:37Z |  SploitScan is a sophisticated cybersecurity utility designed to provide detailed information on vulnerabilities and associated proof-of-concept (PoC) exploits.  | https://github.com/xaitax/SploitScan | 5 | 0| 
 | 20240114T13:15:43Z | This Android application showcases various security vulnerabilities and potential security threats that can occur on an Android device. It includes demonstrations of exploiting services, content providers, notification permissions, and more. | https://github.com/n0S3curity/PT-Android-Malware-App | 1 | 0| 
-| 20240114T12:57:10Z | Exploit tool implemented using ebpf. | https://github.com/bfengj/eBPFeXPLOIT | 78 | 5| 
 
 
 # backdoor on Github 推荐
