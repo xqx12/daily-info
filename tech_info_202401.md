@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240115T13:58:11Z | CVE-2023-26602 | Exploit information for CVE-2023-26602 | https://github.com/d1gg0r/CVE-2023-26602 | | 
 | 20240115T12:56:48Z | CVE-2024-21887 | POC Checker for ivanti CVE-2024-21887 Command injcetion | https://github.com/oways/ivanti-CVE-2024-21887 | | 
 | 20240115T11:48:01Z | CVE-2024-0193 | Null | https://github.com/forsaken0128/CVE-2024-0193-Kernel-Root-Bypass | | 
 | 20240115T11:27:14Z | CVE-2024-23200 | CVE-2024-23200 | https://github.com/l00neyhacker/CVE-2024-23200 | | 
@@ -35,7 +36,6 @@
 | 20240115T09:27:28Z | CVE-2023-5043 | PoC CVE-2023-5043 | https://github.com/r0binak/CVE-2023-5043 | | 
 | 20240115T08:21:01Z | CVE-2023-36003 | Privilege escalation using the XAML diagnostics API | https://github.com/baph0m3th/CVE-2023-36003 | | 
 | 20240115T07:15:04Z | CVE-2021-3129 | CVE-2021-3129 | https://github.com/Axianke/CVE-2021-3129 | | 
-| 20240115T03:04:28Z | Cve-2023- | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Maskiow/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 
 
 # klee on Github 推荐
@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240115T13:58:11Z | Exploit information for CVE-2023-26602 | https://github.com/d1gg0r/CVE-2023-26602 | 0 | 0| 
 | 20240115T13:36:29Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 5927 | 1876| 
 | 20240115T13:33:27Z | Null | https://github.com/alinciprian/sc-minimized-exploits-working | 0 | 0| 
 | 20240115T12:32:01Z | Exploit through the service vsftdp  | https://github.com/lucaman93/S7-L1 | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20240115T03:04:28Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Maskiow/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 1 | 1| 
 | 20240115T02:53:14Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0040-app-CwJzD-return-exploit | 0 | 0| 
 | 20240115T02:35:51Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0091-app-8fisP-exploit-hang | 0 | 0| 
-| 20240115T02:35:42Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0072-app-DCSCm-exploit-abandon | 0 | 0| 
 
 
 # backdoor on Github 推荐
