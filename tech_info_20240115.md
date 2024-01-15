@@ -50,6 +50,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240115T13:33:27Z | Null | https://github.com/alinciprian/sc-minimized-exploits-working | 0 | 0| 
 | 20240115T13:01:33Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 5926 | 1876| 
 | 20240115T12:32:01Z | Exploit through the service vsftdp  | https://github.com/lucaman93/S7-L1 | 0 | 0| 
 | 20240115T12:25:44Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5635 | 1092| 
@@ -59,7 +60,6 @@
 | 20240115T02:53:14Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0040-app-CwJzD-return-exploit | 0 | 0| 
 | 20240115T02:35:51Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0091-app-8fisP-exploit-hang | 0 | 0| 
 | 20240115T02:35:42Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0072-app-DCSCm-exploit-abandon | 0 | 0| 
-| 20240115T02:32:24Z | 3D NLOS imaging with an ordinary camera by exploiting unknown hidden 3D occluders | https://github.com/iscilab2020/SNLLS_3D-NLOS_OrdinaryCamera | 0 | 0| 
 
 
 # backdoor on Github 推荐
