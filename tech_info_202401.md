@@ -118,6 +118,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240115T13:07:47Z | Null | https://github.com/dosman34/fuzzy-octo-computing-machine | 0 | 0| 
 | 20240115T12:55:17Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 1020 | 260| 
 | 20240115T10:49:55Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4986 | 1187| 
 | 20240115T06:27:54Z | Null | https://github.com/houjingyi233/awesome-fuzz | 66 | 4| 
@@ -127,7 +128,6 @@
 | 20240114T22:31:56Z | Null | https://github.com/MParchan/fuzzy-sets | 0 | 0| 
 | 20240114T22:16:22Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1517 | 110| 
 | 20240114T16:42:43Z | Null | https://github.com/lucaferranti/fuzzy-systems | 0 | 0| 
-| 20240114T14:15:29Z | A fuzzing library for rust hardware drivers | https://github.com/silvergasp/embedded-hal-fuzz | 24 | 0| 
 
 
 
