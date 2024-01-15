@@ -50,7 +50,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240115T12:58:09Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 5925 | 1876| 
+| 20240115T13:01:33Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 5926 | 1876| 
 | 20240115T12:32:01Z | Exploit through the service vsftdp  | https://github.com/lucaman93/S7-L1 | 0 | 0| 
 | 20240115T11:50:16Z | Exploit server for a project | https://github.com/jakubgorsky/zit-exploit-server | 0 | 0| 
 | 20240115T05:21:06Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 776 | 185| 
@@ -74,6 +74,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240115T08:06:02Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 47 | 8| 
+| 20240115T06:50:49Z | Protocol Inference Symbolic Execution - using dynamic symbolic execution | https://github.com/liordror/piseDSE | 1 | 0| 
 
 
 # big4 on Github 推荐
