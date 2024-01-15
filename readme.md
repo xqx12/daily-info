@@ -16,7 +16,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240114T23:00:06Z | CVE-2023-6875 | CVE-2023-6875 PoC | https://github.com/UlyssesSaicha/CVE-2023-6875 | | 
 | 20240114T21:46:28Z | CVE-2024-23200 | CVE-2024-23200 | https://github.com/l00neyhacker/CVE-2024-23200 | | 
 | 20240114T21:43:45Z | CVE-2024-23199 | CVE-2024-23199 | https://github.com/l00neyhacker/CVE-2024-23199 | | 
 | 20240114T19:05:36Z | CVE-2024-21887 | POC Checker for ivanti CVE-2024-21887 Command injcetion | https://github.com/oways/ivanti-CVE-2024-21887 | | 
