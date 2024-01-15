@@ -17,13 +17,13 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20240114T23:00:06Z | CVE-2023-6875 | CVE-2023-6875 PoC | https://github.com/UlyssesSaicha/CVE-2023-6875 | | 
+| 20240114T22:57:01Z | CVE-2023-7028 | This repository presents a proof-of-concept of CVE-2023-7028 | https://github.com/Vozec/CVE-2023-7028 | | 
 | 20240114T21:46:28Z | CVE-2024-23200 | CVE-2024-23200 | https://github.com/l00neyhacker/CVE-2024-23200 | | 
 | 20240114T21:43:45Z | CVE-2024-23199 | CVE-2024-23199 | https://github.com/l00neyhacker/CVE-2024-23199 | | 
+| 20240114T19:05:36Z | CVE-2024-21887 | POC Checker for ivanti CVE-2024-21887 Command injcetion | https://github.com/oways/ivanti-CVE-2024-21887 | | 
 | 20240114T18:15:29Z | 未知编号 | Null | https://github.com/s3mPr1linux/CVE_2023_360003_POC | | 
 | 20240114T17:12:41Z | CVE-2023-51000 | Null | https://github.com/Team-Byerus/CVE-2023-51000 | | 
 | 20240114T14:17:16Z | CVE-2023-51467 | Auto exploit script for the Java web framework OF Biz under CVE-2023-51467.  | https://github.com/Jake123otte1/BadBizness-CVE-2023-51467 | | 
-| 20240114T13:52:02Z | CVE-2023-7028 | This repository presents a proof-of-concept of CVE-2023-7028 | https://github.com/Vozec/CVE-2023-7028 | | 
-| 20240114T09:27:39Z | CVE-2024-21887 | POC Checker for ivanti CVE-2024-21887 Command injcetion | https://github.com/oways/ivanti-CVE-2024-21887 | | 
 | 20240114T03:44:46Z | CVE-2023-7028 | An issue has been discovered in GitLab CE/EE affecting all versions from 16.1 prior to 16.1.6, 16.2 prior to 16.2.9, 16.3 prior to 16.3.7, 16.4 prior to 16.4.5, 16.5 prior to 16.5.6, 16.6 prior to 16.6.4, and 16.7 prior to 16.7.2 in which user account password reset emails could be delivered to an unverified email address. | https://github.com/duy-31/CVE-2023-7028 | | 
 | 20240114T02:24:48Z | CVE-2023-7028 | CVE-2023-7028 | https://github.com/RandomRobbieBF/CVE-2023-7028 | | 
 
@@ -31,9 +31,9 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240114T13:33:58Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14923 | 447| 
-| 20240114T06:53:19Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 422 | 9| 
-| 20240114T02:22:16Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2390 | 648| 
+| 20240114T17:38:57Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14925 | 447| 
+| 20240114T17:17:02Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 423 | 9| 
+| 20240114T17:01:12Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2389 | 648| 
 
 
 # s2e on Github 推荐
@@ -69,15 +69,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240114T17:01:12Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2389 | 648| 
 | 20240114T13:37:00Z | Protocol Inference Symbolic Execution - using dynamic symbolic execution | https://github.com/liordror/piseDSE | 0 | 0| 
 | 20240114T02:59:10Z | Null | https://github.com/leiDnedyA/ocaml_symbolic_execution | 0 | 0| 
-| 20240114T02:22:16Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2390 | 648| 
 | 20240114T00:02:17Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 484 | 34| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240114T22:46:07Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 110 | 4| 
 
 
 # fuzz on Github 推荐

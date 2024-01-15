@@ -29,21 +29,21 @@
 | 20240115T00:56:59Z | CVE-2024-20656 | Null | https://github.com/Wh04m1001/CVE-2024-20656 | | 
 | 20240115T00:09:07Z | CVE-2023-46805 | Quick scanner for possible vulnerable Ivanti Connect Secure appliances by country using Shodan. | https://github.com/yoryio/CVE-2023-46805_CVE-2024-21887_Scanner | | 
 | 20240114T23:00:06Z | CVE-2023-6875 | CVE-2023-6875 PoC | https://github.com/UlyssesSaicha/CVE-2023-6875 | | 
+| 20240114T22:57:01Z | CVE-2023-7028 | This repository presents a proof-of-concept of CVE-2023-7028 | https://github.com/Vozec/CVE-2023-7028 | | 
 | 20240114T21:46:28Z | CVE-2024-23200 | CVE-2024-23200 | https://github.com/l00neyhacker/CVE-2024-23200 | | 
 | 20240114T21:43:45Z | CVE-2024-23199 | CVE-2024-23199 | https://github.com/l00neyhacker/CVE-2024-23199 | | 
+| 20240114T19:05:36Z | CVE-2024-21887 | POC Checker for ivanti CVE-2024-21887 Command injcetion | https://github.com/oways/ivanti-CVE-2024-21887 | | 
 | 20240114T18:15:29Z | 未知编号 | Null | https://github.com/s3mPr1linux/CVE_2023_360003_POC | | 
 | 20240114T17:12:41Z | CVE-2023-51000 | Null | https://github.com/Team-Byerus/CVE-2023-51000 | | 
 | 20240114T14:17:16Z | CVE-2023-51467 | Auto exploit script for the Java web framework OF Biz under CVE-2023-51467.  | https://github.com/Jake123otte1/BadBizness-CVE-2023-51467 | | 
-| 20240114T13:52:02Z | CVE-2023-7028 | This repository presents a proof-of-concept of CVE-2023-7028 | https://github.com/Vozec/CVE-2023-7028 | | 
-| 20240114T09:27:39Z | CVE-2024-21887 | POC Checker for ivanti CVE-2024-21887 Command injcetion | https://github.com/oways/ivanti-CVE-2024-21887 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240114T13:33:58Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14923 | 447| 
-| 20240114T06:53:19Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 422 | 9| 
-| 20240114T02:22:16Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2390 | 648| 
+| 20240114T17:38:57Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14925 | 447| 
+| 20240114T17:17:02Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 423 | 9| 
+| 20240114T17:01:12Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2389 | 648| 
 | 20240113T22:52:11Z | Null | https://github.com/Kleeiner21/klee | 0 | 0| 
 | 20240111T12:12:44Z | Config files for my GitHub profile. | https://github.com/Kleezyy/Kleezyy | 0 | 0| 
 | 20240110T14:08:54Z | Null | https://github.com/Aadarsh-2912/KLEENEX | 0 | 0| 
@@ -93,9 +93,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240114T17:01:12Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2389 | 648| 
 | 20240114T13:37:00Z | Protocol Inference Symbolic Execution - using dynamic symbolic execution | https://github.com/liordror/piseDSE | 0 | 0| 
 | 20240114T02:59:10Z | Null | https://github.com/leiDnedyA/ocaml_symbolic_execution | 0 | 0| 
-| 20240114T02:22:16Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2390 | 648| 
 | 20240114T00:02:17Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 484 | 34| 
 | 20240112T21:24:57Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 10 | 3| 
 | 20240112T21:17:24Z | Unicorn: Symbolic Execution, Bounded Model Checking, and Code Optimization of RISC-V Code using Classical Solvers and Quantum Computers | https://github.com/cksystemsgroup/unicorn | 26 | 8| 
@@ -108,8 +108,8 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240114T22:46:07Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 110 | 4| 
 | 20240113T01:57:15Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 107 | 9| 
-| 20240111T19:29:44Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 109 | 4| 
 | 20240110T02:41:21Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 143 | 13| 
 | 20240109T15:30:28Z | (NDSS 2024) Optimizing Decompiler Output with LLM | https://github.com/PeiweiHu/DeGPT | 2 | 0| 
 | 20240105T06:19:49Z | Null | https://github.com/Compass-All/NDSS24-CAGE | 0 | 0| 
