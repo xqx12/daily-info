@@ -101,7 +101,7 @@
 | 20240112T21:24:57Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 10 | 3| 
 | 20240112T21:17:24Z | Unicorn: Symbolic Execution, Bounded Model Checking, and Code Optimization of RISC-V Code using Classical Solvers and Quantum Computers | https://github.com/cksystemsgroup/unicorn | 26 | 8| 
 | 20240112T15:17:34Z | A symbolic execution engine for EVM smart contract binaries | https://github.com/ucsb-seclab/greed | 12 | 0| 
-| 20240112T13:09:03Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 724 | 128| 
+| 20240112T13:09:03Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 724 | 129| 
 | 20240112T08:43:25Z | Protocol Inference from an executable using dynamic symbolic execution. | https://github.com/saharmi22/piseDSE | 0 | 0| 
 
 
