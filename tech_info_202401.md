@@ -41,7 +41,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240114T17:38:57Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14925 | 447| 
+| 20240115T02:20:45Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14926 | 447| 
 | 20240114T17:17:02Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 423 | 9| 
 | 20240114T17:01:12Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2389 | 648| 
 | 20240113T22:52:11Z | Null | https://github.com/Kleeiner21/klee | 0 | 0| 
@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240115T02:20:29Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5748 | 778| 
 | 20240115T01:58:58Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0064-app-fQmDX-decide-exploit | 0 | 0| 
 | 20240115T00:51:41Z | A detailed and comprehensive list of several useful ChromeOS exploits for your school/work managed Chromebooks. | https://github.com/LegitZenith/ChromeOS-Exploits | 1 | 0| 
 | 20240114T23:56:16Z | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | 6634 | 1128| 
@@ -72,7 +73,6 @@
 | 20240114T13:23:37Z |  SploitScan is a sophisticated cybersecurity utility designed to provide detailed information on vulnerabilities and associated proof-of-concept (PoC) exploits.  | https://github.com/xaitax/SploitScan | 5 | 0| 
 | 20240114T13:15:43Z | This Android application showcases various security vulnerabilities and potential security threats that can occur on an Android device. It includes demonstrations of exploiting services, content providers, notification permissions, and more. | https://github.com/n0S3curity/PT-Android-Malware-App | 1 | 0| 
 | 20240114T12:57:10Z | Exploit tool implemented using ebpf. | https://github.com/bfengj/eBPFeXPLOIT | 78 | 5| 
-| 20240114T11:17:27Z | Silly ass gif exploit  | https://github.com/ivorydevrimoalt/middleclickonthis | 0 | 0| 
 
 
 # backdoor on Github 推荐
