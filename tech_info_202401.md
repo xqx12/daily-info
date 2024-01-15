@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240115T02:53:14Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0040-app-CwJzD-return-exploit | 0 | 0| 
 | 20240115T02:35:51Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0091-app-8fisP-exploit-hang | 0 | 0| 
 | 20240115T02:35:42Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0072-app-DCSCm-exploit-abandon | 0 | 0| 
 | 20240115T02:32:24Z | 3D NLOS imaging with an ordinary camera by exploiting unknown hidden 3D occluders | https://github.com/iscilab2020/SNLLS_3D-NLOS_OrdinaryCamera | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20240115T00:51:41Z | A detailed and comprehensive list of several useful ChromeOS exploits for your school/work managed Chromebooks. | https://github.com/LegitZenith/ChromeOS-Exploits | 1 | 0| 
 | 20240114T23:56:16Z | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | 6634 | 1128| 
 | 20240114T18:00:39Z | Developed for Escape From Tarkov and written in C++ and C#. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/Maskorws/Escape-From-Tarkov-Eft-Aimbot-esp-Loots-Exploits-Max-Skills-High-Jump | 1 | 0| 
-| 20240114T16:21:23Z | A place-break patch extension of JobsReborn plugin for Bukkit servers (Minecraft). | https://github.com/Djaytan/mc-jobs-reborn-patch-place-break | 4 | 1| 
 
 
 # backdoor on Github 推荐
