@@ -26,16 +26,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240115T00:56:59Z | CVE-2024-20656 | Null | https://github.com/Wh04m1001/CVE-2024-20656 | | 
+| 20240115T00:09:07Z | CVE-2023-46805 | Quick scanner for possible vulnerable Ivanti Connect Secure appliances by country using Shodan. | https://github.com/yoryio/CVE-2023-46805_CVE-2024-21887_Scanner | | 
+| 20240114T23:00:06Z | CVE-2023-6875 | CVE-2023-6875 PoC | https://github.com/UlyssesSaicha/CVE-2023-6875 | | 
+| 20240114T21:46:28Z | CVE-2024-23200 | CVE-2024-23200 | https://github.com/l00neyhacker/CVE-2024-23200 | | 
+| 20240114T21:43:45Z | CVE-2024-23199 | CVE-2024-23199 | https://github.com/l00neyhacker/CVE-2024-23199 | | 
+| 20240114T18:15:29Z | 未知编号 | Null | https://github.com/s3mPr1linux/CVE_2023_360003_POC | | 
+| 20240114T17:12:41Z | CVE-2023-51000 | Null | https://github.com/Team-Byerus/CVE-2023-51000 | | 
+| 20240114T14:17:16Z | CVE-2023-51467 | Auto exploit script for the Java web framework OF Biz under CVE-2023-51467.  | https://github.com/Jake123otte1/BadBizness-CVE-2023-51467 | | 
 | 20240114T13:52:02Z | CVE-2023-7028 | This repository presents a proof-of-concept of CVE-2023-7028 | https://github.com/Vozec/CVE-2023-7028 | | 
-| 20240114T13:38:16Z | CVE-2023-6875 | CVE-2023-6875 PoC | https://github.com/UlyssesSaicha/CVE-2023-6875 | | 
-| 20240114T13:37:16Z | CVE-2024-20656 | Null | https://github.com/Wh04m1001/CVE-2024-20656 | | 
 | 20240114T09:27:39Z | CVE-2024-21887 | POC Checker for ivanti CVE-2024-21887 Command injcetion | https://github.com/oways/ivanti-CVE-2024-21887 | | 
-| 20240114T03:44:46Z | CVE-2023-7028 | An issue has been discovered in GitLab CE/EE affecting all versions from 16.1 prior to 16.1.6, 16.2 prior to 16.2.9, 16.3 prior to 16.3.7, 16.4 prior to 16.4.5, 16.5 prior to 16.5.6, 16.6 prior to 16.6.4, and 16.7 prior to 16.7.2 in which user account password reset emails could be delivered to an unverified email address. | https://github.com/duy-31/CVE-2023-7028 | | 
-| 20240114T02:24:48Z | CVE-2023-7028 | CVE-2023-7028 | https://github.com/RandomRobbieBF/CVE-2023-7028 | | 
-| 20240113T23:54:45Z | CVE-2020-0796 | Null | https://github.com/Vladshambaryan/https-github.com-jamf-CVE-2020-0796-RCE-POC | | 
-| 20240113T11:27:01Z | CVE-2023-36003 | Privilege escalation using the XAML diagnostics API (CVE-2023-36003) | https://github.com/m417z/CVE-2023-36003-POC | | 
-| 20240113T10:19:51Z | CVE-2022-20818 | CVE-2022-20818: Local Privilege Escalation via Partial File Read in Cisco SD-WAN | https://github.com/mbadanoiu/CVE-2022-20818 | | 
-| 20240113T10:11:18Z | CVE-2023-51000 | Null | https://github.com/Team-Byerus/CVE-2023-51000 | | 
 
 
 # klee on Github 推荐
@@ -63,21 +63,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240115T00:51:41Z | A detailed and comprehensive list of several useful ChromeOS exploits for your school/work managed Chromebooks. | https://github.com/LegitZenith/ChromeOS-Exploits | 1 | 0| 
+| 20240114T23:56:16Z | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | 6634 | 1128| 
+| 20240114T21:04:05Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5633 | 1091| 
+| 20240114T18:00:39Z | Developed for Escape From Tarkov and written in C++ and C#. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/Maskorws/Escape-From-Tarkov-Eft-Aimbot-esp-Loots-Exploits-Max-Skills-High-Jump | 1 | 0| 
+| 20240114T16:21:23Z | A place-break patch extension of JobsReborn plugin for Bukkit servers (Minecraft). | https://github.com/Djaytan/mc-jobs-reborn-patch-place-break | 4 | 1| 
 | 20240114T13:23:37Z |  SploitScan is a sophisticated cybersecurity utility designed to provide detailed information on vulnerabilities and associated proof-of-concept (PoC) exploits.  | https://github.com/xaitax/SploitScan | 5 | 0| 
 | 20240114T13:15:43Z | This Android application showcases various security vulnerabilities and potential security threats that can occur on an Android device. It includes demonstrations of exploiting services, content providers, notification permissions, and more. | https://github.com/n0S3curity/PT-Android-Malware-App | 1 | 0| 
 | 20240114T12:57:10Z | Exploit tool implemented using ebpf. | https://github.com/bfengj/eBPFeXPLOIT | 78 | 5| 
 | 20240114T11:17:27Z | Silly ass gif exploit  | https://github.com/ivorydevrimoalt/middleclickonthis | 0 | 0| 
-| 20240114T08:36:09Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5634 | 1091| 
 | 20240114T01:30:49Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0049-app-Uqn3d-exploit-break | 0 | 0| 
-| 20240114T01:13:37Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0033-app-m8S-R-exploit-interpret | 0 | 0| 
-| 20240114T01:13:01Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0027-app-rMYRO-prepare-exploit | 0 | 0| 
-| 20240114T00:57:20Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 775 | 185| 
-| 20240114T00:25:02Z | Null | https://github.com/deeplearnerali/exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240114T21:28:25Z | Null | https://github.com/mosfiend/Backdoor | 0 | 0| 
+| 20240114T16:28:07Z | I wrote backdoor and listener with python3 | https://github.com/Res4ad0/backdoor | 0 | 0| 
 | 20240114T13:02:02Z | The S-500 G2 Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/Maskiow/S500-RAT-HVNC-HAPP-HIdden-BROWSER-HRDP-REVERSE-PROXY-CRYPTO-MONITOR | 1 | 0| 
 | 20240114T10:33:31Z | Backdoor written in Go which provides website interface for dangerous functionality. | https://github.com/Fish-Sticks/backdoor | 0 | 0| 
 | 20240114T02:21:19Z | Dynamic PHP backdoor generator utilizing the OpenSSL%s RSA Algorithm. | https://github.com/z0r0/Crypt-o-Door | 5 | 4| 
@@ -86,8 +88,6 @@
 | 20240113T12:37:54Z | Reproduction of Opportunistic Backdoor Attacks%s paper, thanks to the students at the National University of Defense Technology for providing the data set for the reproduction of this paper. | https://github.com/WD-2711/DABA | 0 | 0| 
 | 20240112T12:29:48Z | ACM MM 2022 Paper: Opportunistic Backdoor Attacks: Exploring Human-imperceptible Vulnerabilities on Speech Recognition Systems | https://github.com/lqsunshine/DABA | 3 | 0| 
 | 20240112T12:15:44Z | Persistent Powershell backdoor tool  | https://github.com/ELMERIKH/Keres | 73 | 10| 
-| 20240112T11:00:20Z | Android-BackDoor is a python and shell script that simplifies the process of adding a backdoor to any Android APK file. It also exploits the Android Debug Bridge to remotely access an Android device. | https://github.com/BitWalls-Sec/AndroidHack_BackDoor | 21 | 10| 
-| 20240112T09:13:01Z | Simplified code implementation of the paper %On the Vulnerability of Backdoor Defenses for Federated Learning% from AAAI2023 | https://github.com/WangJing-wwj/F3BA | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -118,16 +118,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240115T00:53:07Z | [WIP] Repository for ACM Cyber%s Fuzzing Lab project run Winter 2024. | https://github.com/pbrucla/fuzzing-lab | 0 | 0| 
+| 20240114T23:51:22Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9306 | 2090| 
+| 20240114T22:31:56Z | Null | https://github.com/MParchan/fuzzy-sets | 0 | 0| 
+| 20240114T16:42:43Z | Null | https://github.com/lucaferranti/fuzzy-systems | 0 | 0| 
+| 20240114T14:15:29Z | A fuzzing library for rust hardware drivers | https://github.com/silvergasp/embedded-hal-fuzz | 24 | 0| 
 | 20240114T13:59:52Z | Null | https://github.com/Erenzeybek2020/fuzzy-umbrella | 0 | 0| 
 | 20240114T13:19:30Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1725 | 257| 
+| 20240114T07:57:13Z | File Tree Fuzzer creates a pseudo-random directory hierarchy filled with some number of files. | https://github.com/SUPERCILEX/ftzz | 40 | 2| 
 | 20240114T07:50:06Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 938 | 214| 
 | 20240114T06:35:48Z | nullpwn.ro/oldwebiste | https://github.com/null-p4n/fuzzy-octo-dollop | 0 | 0| 
-| 20240114T04:09:41Z | Null | https://github.com/beverworrior/fuzzy-octo-train | 0 | 0| 
-| 20240114T02:47:30Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST, GraphQL and RPC (e.g., gRPC and Thrift). | https://github.com/EMResearch/EvoMaster | 395 | 73| 
-| 20240114T01:25:44Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51326 | 23472| 
-| 20240114T01:01:53Z | AMD OpenCL Runtime for Navi Cards. | https://github.com/supersonictw/fuzzy | 0 | 0| 
-| 20240113T23:55:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9304 | 2090| 
-| 20240113T23:39:49Z | A fuzzing library for rust hardware drivers | https://github.com/silvergasp/embedded-hal-fuzz | 23 | 0| 
 
 
 
