@@ -82,13 +82,15 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240115T19:26:28Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 725 | 129| 
 | 20240115T08:06:02Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 47 | 8| 
-| 20240115T06:50:49Z | Protocol Inference Symbolic Execution - using dynamic symbolic execution | https://github.com/liordror/piseDSE | 1 | 0| 
+| 20240115T06:50:49Z | Protocol Inference Symbolic Execution - using dynamic symbolic execution | https://github.com/liordror/piseDSE | 1 | 1| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240115T21:56:36Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 110 | 9| 
 
 
 # fuzz on Github 推荐

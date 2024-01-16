@@ -94,23 +94,23 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240115T19:26:28Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 725 | 129| 
 | 20240115T08:06:02Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 47 | 8| 
-| 20240115T06:50:49Z | Protocol Inference Symbolic Execution - using dynamic symbolic execution | https://github.com/liordror/piseDSE | 1 | 0| 
+| 20240115T06:50:49Z | Protocol Inference Symbolic Execution - using dynamic symbolic execution | https://github.com/liordror/piseDSE | 1 | 1| 
 | 20240114T17:01:12Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2389 | 648| 
 | 20240114T02:59:10Z | Null | https://github.com/leiDnedyA/ocaml_symbolic_execution | 0 | 0| 
 | 20240114T00:02:17Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 484 | 34| 
 | 20240112T21:24:57Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 10 | 3| 
 | 20240112T21:17:24Z | Unicorn: Symbolic Execution, Bounded Model Checking, and Code Optimization of RISC-V Code using Classical Solvers and Quantum Computers | https://github.com/cksystemsgroup/unicorn | 26 | 8| 
 | 20240112T15:17:34Z | A symbolic execution engine for EVM smart contract binaries | https://github.com/ucsb-seclab/greed | 12 | 0| 
-| 20240112T13:09:03Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 724 | 129| 
 | 20240112T08:43:25Z | Protocol Inference from an executable using dynamic symbolic execution. | https://github.com/saharmi22/piseDSE | 0 | 0| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240115T21:56:36Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 110 | 9| 
 | 20240114T22:46:07Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 110 | 4| 
-| 20240113T01:57:15Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 107 | 9| 
 | 20240110T02:41:21Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 143 | 13| 
 | 20240109T15:30:28Z | (NDSS 2024) Optimizing Decompiler Output with LLM | https://github.com/PeiweiHu/DeGPT | 2 | 0| 
 | 20240105T06:19:49Z | Null | https://github.com/Compass-All/NDSS24-CAGE | 0 | 0| 
