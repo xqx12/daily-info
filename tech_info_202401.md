@@ -64,7 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240116T12:58:59Z | Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google%s Tsunami, Ostorlab%s Asteroid and Bug Bounty programs. | https://github.com/Ostorlab/KEV | 94 | 3| 
+| 20240116T13:05:53Z | Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google%s Tsunami, Ostorlab%s Asteroid and Bug Bounty programs. | https://github.com/Ostorlab/KEV | 96 | 3| 
 | 20240116T12:55:36Z | Exploit generator tool for OSEP. | https://github.com/jghuathuat/ExpGen | 0 | 0| 
 | 20240116T08:47:28Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5639 | 1092| 
 | 20240116T01:57:03Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 1145 | 221| 
@@ -94,10 +94,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240116T12:19:52Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 48 | 8| 
+| 20240116T07:10:45Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2390 | 648| 
 | 20240115T19:26:28Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 725 | 129| 
-| 20240115T08:06:02Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 47 | 8| 
 | 20240115T06:50:49Z | Protocol Inference Symbolic Execution - using dynamic symbolic execution | https://github.com/liordror/piseDSE | 1 | 1| 
-| 20240114T17:01:12Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2389 | 648| 
 | 20240114T02:59:10Z | Null | https://github.com/leiDnedyA/ocaml_symbolic_execution | 0 | 0| 
 | 20240114T00:02:17Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 484 | 34| 
 | 20240112T21:24:57Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 10 | 3| 

@@ -41,7 +41,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240116T12:58:59Z | Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google%s Tsunami, Ostorlab%s Asteroid and Bug Bounty programs. | https://github.com/Ostorlab/KEV | 94 | 3| 
+| 20240116T13:05:53Z | Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google%s Tsunami, Ostorlab%s Asteroid and Bug Bounty programs. | https://github.com/Ostorlab/KEV | 96 | 3| 
 | 20240116T12:55:36Z | Exploit generator tool for OSEP. | https://github.com/jghuathuat/ExpGen | 0 | 0| 
 | 20240116T08:47:28Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5639 | 1092| 
 | 20240116T01:57:03Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 1145 | 221| 
@@ -63,6 +63,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240116T12:19:52Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 48 | 8| 
+| 20240116T07:10:45Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2390 | 648| 
 
 
 # big4 on Github 推荐
