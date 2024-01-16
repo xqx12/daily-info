@@ -73,7 +73,7 @@
 | 20240116T00:07:49Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-aq | 1 | 0| 
 | 20240115T19:04:30Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 777 | 185| 
 | 20240115T17:59:42Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Checkdos/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
-| 20240115T17:58:55Z | Ephemeral discourse is embodied by the likes of Messenger Sessions, the digital portraits of Accounts, and the enigmatic Token | https://github.com/Checkdos/Discord-Image-Logger-Slient-Exploit-Builder-Grabber-Stealer | 0 | 0| 
+| 20240115T17:59:36Z | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/Checkdos/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -119,16 +119,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240116T02:19:08Z | for my graduation thesis | https://github.com/fault2000/Fuzzing | 0 | 0| 
+| 20240116T02:17:35Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51366 | 23475| 
 | 20240116T02:01:27Z | A project utilizing Fuzzy C-means clustering to segment images into fuzzy regions. Demonstrates the application of fuzzy logic in distinguishing areas with overlapping boundaries in image analysis. | https://github.com/vivorima/FuzzyCMeans-ImageSegmentation | 0 | 0| 
 | 20240116T02:00:31Z | Null | https://github.com/Notch986/p8fuzzy | 0 | 0| 
-| 20240116T01:51:06Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51365 | 23475| 
 | 20240116T01:15:49Z | Null | https://github.com/emilmoham/fuzzy-funicular | 0 | 0| 
 | 20240115T23:12:08Z | Problema de lógica fuzzy resuelto en R | https://github.com/JsDev02/Logica-Fuzzy | 0 | 0| 
 | 20240115T22:26:57Z | Null | https://github.com/reggiewade/fuzzy-octo-waddle | 0 | 0| 
 | 20240115T22:24:00Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2444 | 311| 
 | 20240115T21:58:30Z | Simple Smart contracts to showcase Fuzz and Invariant testing on Foundry. | https://github.com/Cyfrin/fuzz-testing-on-foundry | 0 | 0| 
 | 20240115T20:56:19Z | Null | https://github.com/jorgsowa/php-src-fuzzer | 0 | 0| 
-| 20240115T17:45:11Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9309 | 2090| 
 
 
 
