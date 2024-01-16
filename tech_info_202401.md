@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240116T01:19:59Z | Berguna Untuk Exploit Sebuah Data Base | https://github.com/MrxMilzu/Exploit | 0 | 0| 
 | 20240116T00:11:53Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-aq | 1 | 0| 
 | 20240116T00:10:57Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-aq | 1 | 0| 
 | 20240116T00:09:34Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-aq | 1 | 0| 
@@ -73,7 +74,6 @@
 | 20240115T17:58:55Z | Ephemeral discourse is embodied by the likes of Messenger Sessions, the digital portraits of Accounts, and the enigmatic Token | https://github.com/Checkdos/Discord-Image-Logger-Slient-Exploit-Builder-Grabber-Stealer | 0 | 0| 
 | 20240115T17:44:17Z | A project that offers cheats developed with C++ for DayZ. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/Harleyqs022/PROOFCORE-Dayz-Cheat-Hack-Aimbot-Esp-Exploit-Magic-Bullet-Spoofer-Misc | 0 | 0| 
 | 20240115T16:56:58Z | Developed for Escape From Tarkov and written in C++ and C#. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/Maskorws/Escape-From-Tarkov-Eft-Aimbot-esp-Loots-Exploits-Max-Skills-High-Jump | 2 | 1| 
-| 20240115T13:58:11Z | Exploit information for CVE-2023-26602 | https://github.com/d1gg0r/CVE-2023-26602 | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -119,8 +119,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240116T01:20:19Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51363 | 23476| 
 | 20240116T01:15:49Z | Null | https://github.com/emilmoham/fuzzy-funicular | 0 | 0| 
-| 20240115T23:29:46Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51362 | 23476| 
 | 20240115T23:12:08Z | Problema de lógica fuzzy resuelto en R | https://github.com/JsDev02/Logica-Fuzzy | 0 | 0| 
 | 20240115T22:26:57Z | Null | https://github.com/reggiewade/fuzzy-octo-waddle | 0 | 0| 
 | 20240115T22:24:00Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2444 | 311| 
