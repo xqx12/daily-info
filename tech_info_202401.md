@@ -119,6 +119,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240116T02:43:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9310 | 2090| 
 | 20240116T02:32:48Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51367 | 23475| 
 | 20240116T02:19:08Z | for my graduation thesis | https://github.com/fault2000/Fuzzing | 0 | 0| 
 | 20240116T02:01:27Z | A project utilizing Fuzzy C-means clustering to segment images into fuzzy regions. Demonstrates the application of fuzzy logic in distinguishing areas with overlapping boundaries in image analysis. | https://github.com/vivorima/FuzzyCMeans-ImageSegmentation | 0 | 0| 
@@ -128,7 +129,6 @@
 | 20240115T22:26:57Z | Null | https://github.com/reggiewade/fuzzy-octo-waddle | 0 | 0| 
 | 20240115T22:24:00Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2444 | 311| 
 | 20240115T21:58:30Z | Simple Smart contracts to showcase Fuzz and Invariant testing on Foundry. | https://github.com/Cyfrin/fuzz-testing-on-foundry | 0 | 0| 
-| 20240115T20:56:19Z | Null | https://github.com/jorgsowa/php-src-fuzzer | 0 | 0| 
 
 
 
