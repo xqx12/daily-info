@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240116T01:29:35Z | Final project for the class 269 at 23 Fall | https://github.com/Allen0307/KKLIP-Knowledge-Distillation-Exploiting-K-means-Clustering-for-Language-Image-Pre-Training | 1 | 0| 
 | 20240116T01:19:59Z | Berguna Untuk Exploit Sebuah Data Base | https://github.com/MrxMilzu/Exploit | 0 | 0| 
 | 20240116T00:11:53Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-aq | 1 | 0| 
 | 20240116T00:10:57Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-aq | 1 | 0| 
@@ -73,7 +74,6 @@
 | 20240115T17:59:42Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Checkdos/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 | 20240115T17:58:55Z | Ephemeral discourse is embodied by the likes of Messenger Sessions, the digital portraits of Accounts, and the enigmatic Token | https://github.com/Checkdos/Discord-Image-Logger-Slient-Exploit-Builder-Grabber-Stealer | 0 | 0| 
 | 20240115T17:44:17Z | A project that offers cheats developed with C++ for DayZ. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/Harleyqs022/PROOFCORE-Dayz-Cheat-Hack-Aimbot-Esp-Exploit-Magic-Bullet-Spoofer-Misc | 0 | 0| 
-| 20240115T16:56:58Z | Developed for Escape From Tarkov and written in C++ and C#. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/Maskorws/Escape-From-Tarkov-Eft-Aimbot-esp-Loots-Exploits-Max-Skills-High-Jump | 2 | 1| 
 
 
 # backdoor on Github 推荐
@@ -109,7 +109,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240115T21:56:36Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 110 | 9| 
+| 20240116T01:24:46Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 111 | 9| 
 | 20240114T22:46:07Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 110 | 4| 
 | 20240110T02:41:21Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 143 | 13| 
 | 20240109T15:30:28Z | (NDSS 2024) Optimizing Decompiler Output with LLM | https://github.com/PeiweiHu/DeGPT | 2 | 0| 
