@@ -41,6 +41,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240116T13:15:31Z | Null | https://github.com/anon-2024/bitgo-tss-exploit-poc | 0 | 0| 
+| 20240116T13:11:07Z | POC for Signature Malleability exploit using Foundry | https://github.com/varun-doshi/Signature-Malleability | 0 | 0| 
 | 20240116T13:05:53Z | Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google%s Tsunami, Ostorlab%s Asteroid and Bug Bounty programs. | https://github.com/Ostorlab/KEV | 96 | 3| 
 | 20240116T12:55:36Z | Exploit generator tool for OSEP. | https://github.com/jghuathuat/ExpGen | 0 | 0| 
 | 20240116T08:47:28Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5639 | 1092| 
@@ -49,8 +51,6 @@
 | 20240116T01:29:35Z | Final project for the class 269 at 23 Fall | https://github.com/Allen0307/KKLIP-Knowledge-Distillation-Exploiting-K-means-Clustering-for-Language-Image-Pre-Training | 1 | 0| 
 | 20240116T00:11:53Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-aq | 1 | 0| 
 | 20240116T00:10:57Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-aq | 1 | 0| 
-| 20240116T00:09:34Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-aq | 1 | 0| 
-| 20240116T00:07:49Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-aq | 1 | 0| 
 
 
 # backdoor on Github 推荐
