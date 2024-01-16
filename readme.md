@@ -77,6 +77,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240116T13:50:47Z | Null | https://github.com/toton01/fuzzy-sweater | 0 | 0| 
 | 20240116T13:35:15Z | Null | https://github.com/dcdodd/Fuzzy-Logic-From-David | 0 | 0| 
 | 20240116T11:54:49Z | Scrut is an a testing toolkit for CLI applications. A tool to scrutinize terminal programs without fuzz. | https://github.com/facebookincubator/scrut | 2 | 1| 
 | 20240116T11:48:42Z | Null | https://github.com/orefash/fuzzy-gpt | 0 | 0| 
@@ -86,7 +87,6 @@
 | 20240116T09:42:25Z | Null | https://github.com/ollie-kh/fuzzy-spoon | 0 | 0| 
 | 20240116T08:00:29Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1735 | 258| 
 | 20240116T06:58:12Z | Fuzzy matcher to rename frontend media files with pinball tables | https://github.com/dsync89/fuzzymatch-pinball-media | 0 | 0| 
-| 20240116T02:54:52Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51368 | 23476| 
 
 
 
