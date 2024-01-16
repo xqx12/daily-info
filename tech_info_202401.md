@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240116T01:57:03Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 1145 | 221| 
 | 20240116T01:44:50Z | Berguna Untuk Exploit Sebuah Data Base | https://github.com/MrxMilzu/Exploit | 0 | 0| 
 | 20240116T01:29:35Z | Final project for the class 269 at 23 Fall | https://github.com/Allen0307/KKLIP-Knowledge-Distillation-Exploiting-K-means-Clustering-for-Language-Image-Pre-Training | 1 | 0| 
 | 20240116T00:11:53Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-aq | 1 | 0| 
@@ -73,7 +74,6 @@
 | 20240115T19:04:30Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 777 | 185| 
 | 20240115T17:59:42Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Checkdos/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 | 20240115T17:58:55Z | Ephemeral discourse is embodied by the likes of Messenger Sessions, the digital portraits of Accounts, and the enigmatic Token | https://github.com/Checkdos/Discord-Image-Logger-Slient-Exploit-Builder-Grabber-Stealer | 0 | 0| 
-| 20240115T17:44:17Z | A project that offers cheats developed with C++ for DayZ. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/Harleyqs022/PROOFCORE-Dayz-Cheat-Hack-Aimbot-Esp-Exploit-Magic-Bullet-Spoofer-Misc | 0 | 0| 
 
 
 # backdoor on Github 推荐
