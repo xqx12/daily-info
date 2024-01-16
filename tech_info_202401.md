@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240116T02:49:17Z | CVE-2023-6875 | CVE-2023-6875 PoC | https://github.com/UlyssesSaicha/CVE-2023-6875 | | 
 | 20240115T17:59:42Z | Cve-2023- | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Checkdos/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 | 20240115T17:59:36Z | Cve-2023- | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/Checkdos/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 | 20240115T17:59:29Z | Cve-2023- | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/Checkdos/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
@@ -35,7 +36,6 @@
 | 20240115T13:58:11Z | CVE-2023-26602 | Exploit information for CVE-2023-26602 | https://github.com/d1gg0r/CVE-2023-26602 | | 
 | 20240115T12:56:48Z | CVE-2024-21887 | POC Checker for ivanti CVE-2024-21887 Command injcetion | https://github.com/oways/ivanti-CVE-2024-21887 | | 
 | 20240115T11:48:01Z | CVE-2024-0193 | Null | https://github.com/forsaken0128/CVE-2024-0193-Kernel-Root-Bypass | | 
-| 20240115T11:27:14Z | CVE-2024-23200 | CVE-2024-23200 | https://github.com/l00neyhacker/CVE-2024-23200 | | 
 
 
 # klee on Github 推荐
