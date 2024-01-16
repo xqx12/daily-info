@@ -94,7 +94,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240116T12:19:52Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 48 | 8| 
+| 20240116T12:19:52Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 48 | 9| 
 | 20240116T07:10:45Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2390 | 648| 
 | 20240115T19:26:28Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 725 | 129| 
 | 20240115T06:50:49Z | Protocol Inference Symbolic Execution - using dynamic symbolic execution | https://github.com/liordror/piseDSE | 1 | 1| 
