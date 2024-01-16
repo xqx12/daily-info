@@ -79,6 +79,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240116T02:59:17Z | Null | https://github.com/zanwaar/backdoor | 0 | 0| 
 | 20240115T18:02:19Z | Un script para hacer backdoor a los SMS de un teléfono 📲 fácilmente. | https://github.com/Luke-Galaxy/MkBdLuke- | 1 | 0| 
 | 20240115T18:00:10Z | The S-500 G2 Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/Checkdos/S500-RAT-HVNC-HAPP-HIdden-BROWSER-HRDP-REVERSE-PROXY-CRYPTO-MONITOR | 0 | 0| 
 | 20240115T17:59:47Z | Hidden VNC constitutes an ingenious stratagem harnessed by the most adept connoisseurs of technology. This method, by far, presents an exhilarating modality to govern the operation | https://github.com/Checkdos/Pandora-HVNC-2FABypass-WebGL-Hidden-Desktop-Outlook-Foxmail-Stealer-Hidden-Browser | 0 | 0| 
@@ -88,7 +89,6 @@
 | 20240115T16:21:00Z | Code for Paper %Attacking by Aligning: Clean-Label Backdoor Attacks on Object Detection% | https://github.com/CHENGEZ/Attacking-by-Aligning | 0 | 0| 
 | 20240115T15:41:09Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 246 | 31| 
 | 20240115T14:51:24Z | It is a functional backdoor which is communicated via telegram api | https://github.com/hack505/Telegram_BackDoor | 0 | 0| 
-| 20240115T07:42:07Z | This is a PHP web shell with a backdoor which allows the operator to upload and download files to and from a web server. There is also an added authentication functionality and one that allows for malicious uploads of commands | https://github.com/Tafara0-o/A-PHP-webshell | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
