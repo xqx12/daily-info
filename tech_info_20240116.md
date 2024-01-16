@@ -74,6 +74,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240116T11:54:49Z | Scrut is an a testing toolkit for CLI applications. A tool to scrutinize terminal programs without fuzz. | https://github.com/facebookincubator/scrut | 2 | 1| 
 | 20240116T11:48:42Z | Null | https://github.com/orefash/fuzzy-gpt | 0 | 0| 
 | 20240116T11:43:18Z | Null | https://github.com/gauravemsec14/fuzzy | 0 | 0| 
 | 20240116T11:12:05Z | for my graduation thesis | https://github.com/fault2000/Fuzzing | 0 | 0| 
@@ -83,7 +84,6 @@
 | 20240116T02:54:52Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51368 | 23476| 
 | 20240116T02:43:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9310 | 2090| 
 | 20240116T02:01:27Z | A project utilizing Fuzzy C-means clustering to segment images into fuzzy regions. Demonstrates the application of fuzzy logic in distinguishing areas with overlapping boundaries in image analysis. | https://github.com/vivorima/FuzzyCMeans-ImageSegmentation | 0 | 0| 
-| 20240116T02:00:31Z | Null | https://github.com/Notch986/p8fuzzy | 0 | 0| 
 
 
 
