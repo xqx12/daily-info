@@ -125,10 +125,10 @@
 | 20240116T11:12:05Z | for my graduation thesis | https://github.com/fault2000/Fuzzing | 0 | 0| 
 | 20240116T10:52:09Z | PatchFuzz: Fuzzing for JavaScript Engine Incomplete Security Patches | https://github.com/PatchFuzz/patchfuzz | 0 | 0| 
 | 20240116T09:42:25Z | Null | https://github.com/ollie-kh/fuzzy-spoon | 0 | 0| 
+| 20240116T08:00:29Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1735 | 258| 
 | 20240116T06:58:12Z | Fuzzy matcher to rename frontend media files with pinball tables | https://github.com/dsync89/fuzzymatch-pinball-media | 0 | 0| 
 | 20240116T02:54:52Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51368 | 23476| 
 | 20240116T02:43:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9310 | 2090| 
-| 20240116T02:01:27Z | A project utilizing Fuzzy C-means clustering to segment images into fuzzy regions. Demonstrates the application of fuzzy logic in distinguishing areas with overlapping boundaries in image analysis. | https://github.com/vivorima/FuzzyCMeans-ImageSegmentation | 0 | 0| 
 
 
 
