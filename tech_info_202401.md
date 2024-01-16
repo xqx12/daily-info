@@ -120,7 +120,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20240116T02:43:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9310 | 2090| 
-| 20240116T02:32:48Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51367 | 23475| 
+| 20240116T02:32:48Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51367 | 23476| 
 | 20240116T02:19:08Z | for my graduation thesis | https://github.com/fault2000/Fuzzing | 0 | 0| 
 | 20240116T02:01:27Z | A project utilizing Fuzzy C-means clustering to segment images into fuzzy regions. Demonstrates the application of fuzzy logic in distinguishing areas with overlapping boundaries in image analysis. | https://github.com/vivorima/FuzzyCMeans-ImageSegmentation | 0 | 0| 
 | 20240116T02:00:31Z | Null | https://github.com/Notch986/p8fuzzy | 0 | 0| 
