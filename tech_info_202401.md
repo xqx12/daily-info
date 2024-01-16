@@ -119,7 +119,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240116T01:37:35Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51364 | 23475| 
+| 20240116T01:51:06Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51365 | 23475| 
 | 20240116T01:15:49Z | Null | https://github.com/emilmoham/fuzzy-funicular | 0 | 0| 
 | 20240115T23:12:08Z | Problema de lógica fuzzy resuelto en R | https://github.com/JsDev02/Logica-Fuzzy | 0 | 0| 
 | 20240115T22:26:57Z | Null | https://github.com/reggiewade/fuzzy-octo-waddle | 0 | 0| 
