@@ -26,12 +26,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240117T01:33:27Z | CVE-2023-22527 | Null | https://github.com/Sudistark/patch-diff-CVE-2023-22527 | | 
 | 20240117T00:25:53Z | CVE-2024-21887 | A command injection vulnerability in web components of Ivanti Connect Secure (9.x, 22.x) and Ivanti Policy Secure (9.x, 22.x) allows an authenticated administrator to send specially crafted requests and execute arbitrary commands on the appliance. | https://github.com/Chocapikk/CVE-2024-21887 | | 
 | 20240116T20:04:05Z | CVE-2023-43786 | Null | https://github.com/jfrog/jfrog-CVE-2023-43786-libX11_DoS | | 
 | 20240116T19:44:44Z | CVE-2023-46805 | Null | https://github.com/duy-31/CVE-2023-46805_CVE-2024-21887 | | 
 | 20240116T15:02:40Z | CVE-2023-26609 | Exploit information for CVE-2023-26609  | https://github.com/D1G17/CVE-2023-26609 | | 
 | 20240116T15:01:33Z | CVE-2023-26602 | Exploit information for CVE-2023-26602  | https://github.com/D1G17/CVE-2023-26602 | | 
-| 20240116T13:50:49Z | CVE-2023-22527 | Null | https://github.com/Sudistark/patch-diff-CVE-2023-22527 | | 
 | 20240116T10:57:23Z | CVE-2023-46805 | Simple scanner for scanning a list of ip-addresses for vulnerable Ivanti Pulse Secure devices | https://github.com/cbeek-r7/CVE-2023-46805 | | 
 | 20240116T10:20:53Z | CVE-2023-1326 | Esto es una prueba de concepto propia i basica de la vulneravilidad CVE-2023-1326 | https://github.com/Pol-Ruiz/CVE-2023-1326 | | 
 | 20240116T10:19:27Z | CVE-2021-4034 | Null | https://github.com/Pol-Ruiz/CVE-2021-4034 | | 
@@ -119,7 +119,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240117T00:57:28Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51400 | 23479| 
+| 20240117T01:33:30Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51401 | 23479| 
 | 20240117T00:26:56Z | https://github.dev/.googl/git | https://github.com/Mimsii/fuzzy-eureka | 0 | 0| 
 | 20240117T00:19:32Z | Library for structured fuzzing with protobuffers | https://github.com/google/libprotobuf-mutator | 543 | 111| 
 | 20240116T23:07:11Z | Null | https://github.com/google/fuzztest | 517 | 39| 
