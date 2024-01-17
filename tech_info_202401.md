@@ -119,16 +119,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240117T13:31:29Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51419 | 23480| 
 | 20240117T13:29:26Z | HCDA 2210 TP- Depuis Module 9 | https://github.com/0fc-tech/fuzzy-more-happiness | 0 | 0| 
 | 20240117T13:25:27Z | Null | https://github.com/LFGHO-Hackaton-Auto-Fuzzer/auto-fuzzer | 0 | 0| 
 | 20240117T13:14:11Z | This is my first one yet, let%s goooooo! | https://github.com/marcus-ha/fuzzy-meme | 0 | 0| 
 | 20240117T13:12:25Z | My project | https://github.com/Xeonplay/fuzzy-lamp | 0 | 0| 
-| 20240117T13:02:21Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51418 | 23480| 
 | 20240117T11:42:57Z | Null | https://github.com/collabwithvz/fuzzz | 0 | 0| 
 | 20240117T11:34:32Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 2127 | 340| 
 | 20240117T11:25:11Z | Null | https://github.com/KonstantinosGalanis/Neuro-fuzzy-computing-exercises | 0 | 0| 
+| 20240117T11:02:18Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9316 | 2090| 
 | 20240117T09:33:55Z | A privacy risk assessment for social media platform using Fuzzy-AHP | https://github.com/osasido/Fuzzy-AHP-risk-assessment- | 0 | 0| 
-| 20240117T08:37:04Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4991 | 1189| 
 
 
 
