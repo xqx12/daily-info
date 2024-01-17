@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240117T02:38:48Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5756 | 778| 
 | 20240117T02:28:37Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0085-app-vY9YI-exploit-satisfy | 0 | 0| 
 | 20240117T01:59:50Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0048-app-cKkgq-exploit-prove | 0 | 0| 
 | 20240117T01:50:14Z | 330+ UNRESTRICTED unblockers, games, cheats, exploits, AI, bypasses, and social media | https://github.com/wea-f/ByePassHub | 11 | 6| 
@@ -73,7 +74,6 @@
 | 20240117T00:31:34Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-u | 1 | 0| 
 | 20240117T00:30:40Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-u | 1 | 0| 
 | 20240117T00:29:34Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-u | 1 | 0| 
-| 20240117T00:28:56Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-u | 1 | 0| 
 
 
 # backdoor on Github 推荐
