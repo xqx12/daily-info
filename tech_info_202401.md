@@ -26,25 +26,25 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240117T00:25:53Z | CVE-2024-21887 | A command injection vulnerability in web components of Ivanti Connect Secure (9.x, 22.x) and Ivanti Policy Secure (9.x, 22.x) allows an authenticated administrator to send specially crafted requests and execute arbitrary commands on the appliance. | https://github.com/Chocapikk/CVE-2024-21887 | | 
+| 20240116T20:04:05Z | CVE-2023-43786 | Null | https://github.com/jfrog/jfrog-CVE-2023-43786-libX11_DoS | | 
+| 20240116T19:44:44Z | CVE-2023-46805 | Null | https://github.com/duy-31/CVE-2023-46805_CVE-2024-21887 | | 
+| 20240116T15:02:40Z | CVE-2023-26609 | Exploit information for CVE-2023-26609  | https://github.com/D1G17/CVE-2023-26609 | | 
+| 20240116T15:01:33Z | CVE-2023-26602 | Exploit information for CVE-2023-26602  | https://github.com/D1G17/CVE-2023-26602 | | 
 | 20240116T13:50:49Z | CVE-2023-22527 | Null | https://github.com/Sudistark/patch-diff-CVE-2023-22527 | | 
 | 20240116T10:57:23Z | CVE-2023-46805 | Simple scanner for scanning a list of ip-addresses for vulnerable Ivanti Pulse Secure devices | https://github.com/cbeek-r7/CVE-2023-46805 | | 
 | 20240116T10:20:53Z | CVE-2023-1326 | Esto es una prueba de concepto propia i basica de la vulneravilidad CVE-2023-1326 | https://github.com/Pol-Ruiz/CVE-2023-1326 | | 
 | 20240116T10:19:27Z | CVE-2021-4034 | Null | https://github.com/Pol-Ruiz/CVE-2021-4034 | | 
 | 20240116T08:46:22Z | CVE-2023-22527 | CVE-2023-22527 - RCE (Remote Code Execution) Vulnerability In Confluence Data Center and Confluence Server PoC | https://github.com/Avento/CVE-2023-22527_Confluence_RCE | | 
-| 20240116T08:08:56Z | CVE-2023-46805 | Quick scanner for possible vulnerable Ivanti Connect Secure appliances by country using Shodan. | https://github.com/yoryio/CVE-2023-46805_CVE-2024-21887_Scanner | | 
-| 20240116T02:49:17Z | CVE-2023-6875 | CVE-2023-6875 PoC | https://github.com/UlyssesSaicha/CVE-2023-6875 | | 
-| 20240115T17:59:42Z | Cve-2023- | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Checkdos/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
-| 20240115T17:59:36Z | Cve-2023- | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/Checkdos/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
-| 20240115T17:59:29Z | Cve-2023- | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/Checkdos/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240116T13:47:12Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14945 | 448| 
+| 20240116T21:56:50Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 425 | 9| 
+| 20240116T16:50:55Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14948 | 448| 
+| 20240116T16:21:18Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2391 | 648| 
 | 20240116T11:16:22Z | A customer management system for personal usage. The program is responsible for managing customers such as creating, updating and deleting as well as other functions such a invoice and statement generation. | https://github.com/terrychitter/kleenbin-cms | 0 | 0| 
-| 20240116T07:10:45Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2390 | 648| 
-| 20240116T04:21:25Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 424 | 9| 
 | 20240113T22:52:11Z | Null | https://github.com/Kleeiner21/klee | 0 | 0| 
 | 20240111T12:12:44Z | Config files for my GitHub profile. | https://github.com/Kleezyy/Kleezyy | 0 | 0| 
 | 20240110T14:08:54Z | Null | https://github.com/Aadarsh-2912/KLEENEX | 0 | 0| 
@@ -64,31 +64,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240117T00:48:10Z | Null | https://github.com/eatherne7/JD-Edwards-EnterpriseOne-9.2-RCE-Exploit | 0 | 0| 
+| 20240117T00:31:34Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-u | 1 | 0| 
+| 20240117T00:30:40Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-u | 1 | 0| 
+| 20240117T00:29:34Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-u | 1 | 0| 
+| 20240117T00:28:56Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-u | 1 | 0| 
+| 20240116T23:43:47Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5642 | 1092| 
+| 20240116T16:54:23Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 780 | 185| 
 | 20240116T13:15:31Z | Null | https://github.com/anon-2024/bitgo-tss-exploit-poc | 0 | 0| 
 | 20240116T13:11:07Z | POC for Signature Malleability exploit using Foundry | https://github.com/varun-doshi/Signature-Malleability | 0 | 0| 
 | 20240116T13:05:53Z | Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google%s Tsunami, Ostorlab%s Asteroid and Bug Bounty programs. | https://github.com/Ostorlab/KEV | 96 | 3| 
-| 20240116T12:55:36Z | Exploit generator tool for OSEP. | https://github.com/jghuathuat/ExpGen | 0 | 0| 
-| 20240116T09:53:42Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5782 | 729| 
-| 20240116T08:47:28Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5639 | 1092| 
-| 20240116T01:57:03Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 1145 | 221| 
-| 20240116T01:44:50Z | Berguna Untuk Exploit Sebuah Data Base | https://github.com/MrxMilzu/Exploit | 0 | 0| 
-| 20240116T01:29:35Z | Final project for the class 269 at 23 Fall | https://github.com/Allen0307/KKLIP-Knowledge-Distillation-Exploiting-K-means-Clustering-for-Language-Image-Pre-Training | 1 | 0| 
-| 20240116T00:11:53Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-aq | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240116T21:45:15Z | C2 extensible for post-explotation and remote control | https://github.com/aniko33/Unicorn | 1 | 0| 
+| 20240116T20:33:59Z | Simple backdoor en HTML y PHP, permite ejecutar una reverse shell en bash | https://github.com/M4THsb09/sadbackdoor | 0 | 0| 
+| 20240116T15:07:08Z | The X-Worm Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/Checkdos/XWorm-V5.2-Edition-HVNC-RAT-DDOS-PASSWORDS-RANSOMWARE-CLIPPER-KEYLOGGER-UAC-BYPASS | 0 | 0| 
 | 20240116T05:31:31Z | Remote Administration Either you are a private user wanting to control your PC from afar, or a big company which wants to administrate hundreds of machines from a single computer, | https://github.com/Checkdos/ICARUS-NET2-NET4-BAT-VBS-VBA-HVNC-BINDER-PHP-FTPLOGS-RECOVERY-KEYLOG-WEBGL-ROOKIT | 1 | 0| 
 | 20240116T03:01:07Z | Null | https://github.com/zanwaar/backdoor | 0 | 0| 
 | 20240115T18:02:19Z | Un script para hacer backdoor a los SMS de un teléfono 📲 fácilmente. | https://github.com/Luke-Galaxy/MkBdLuke- | 1 | 0| 
 | 20240115T18:00:10Z | The S-500 G2 Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/Checkdos/S500-RAT-HVNC-HAPP-HIdden-BROWSER-HRDP-REVERSE-PROXY-CRYPTO-MONITOR | 0 | 0| 
 | 20240115T17:59:47Z | Hidden VNC constitutes an ingenious stratagem harnessed by the most adept connoisseurs of technology. This method, by far, presents an exhilarating modality to govern the operation | https://github.com/Checkdos/Pandora-HVNC-2FABypass-WebGL-Hidden-Desktop-Outlook-Foxmail-Stealer-Hidden-Browser | 0 | 0| 
-| 20240115T17:58:54Z | The X-Worm Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/Checkdos/XWorm-V5.2-Edition-HVNC-RAT-DDOS-PASSWORDS-RANSOMWARE-CLIPPER-KEYLOGGER-UAC-BYPASS | 0 | 0| 
 | 20240115T16:29:02Z | Null | https://github.com/Pinguin2005/VNC-BACKDOOR | 0 | 0| 
 | 20240115T16:21:00Z | Code for Paper %Attacking by Aligning: Clean-Label Backdoor Attacks on Object Detection% | https://github.com/CHENGEZ/Attacking-by-Aligning | 0 | 0| 
-| 20240115T15:41:09Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 246 | 31| 
-| 20240115T14:51:24Z | It is a functional backdoor which is communicated via telegram api | https://github.com/hack505/Telegram_BackDoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -119,16 +119,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240117T00:57:28Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51400 | 23479| 
+| 20240117T00:26:56Z | https://github.dev/.googl/git | https://github.com/Mimsii/fuzzy-eureka | 0 | 0| 
+| 20240117T00:19:32Z | Library for structured fuzzing with protobuffers | https://github.com/google/libprotobuf-mutator | 543 | 111| 
+| 20240116T23:07:11Z | Null | https://github.com/google/fuzztest | 517 | 39| 
+| 20240116T22:26:02Z | In depth PHP learning | https://github.com/NoAnswerss/fuzzy-carnival | 0 | 0| 
+| 20240116T21:07:31Z | Fuzz-TK is an automated software debugging method that aims to relieve developers of the significant burden of fixing software failures. | https://github.com/MiaoWeiliu/Fuzz-TK | 1 | 0| 
+| 20240116T19:26:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9315 | 2091| 
+| 20240116T16:22:47Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 333 | 48| 
+| 20240116T15:41:45Z | Null | https://github.com/orefash/fuzzy-gpt | 0 | 0| 
 | 20240116T13:50:47Z | Null | https://github.com/toton01/fuzzy-sweater | 0 | 0| 
-| 20240116T13:35:15Z | Null | https://github.com/dcdodd/Fuzzy-Logic-From-David | 0 | 0| 
-| 20240116T11:54:49Z | Scrut is an a testing toolkit for CLI applications. A tool to scrutinize terminal programs without fuzz. | https://github.com/facebookincubator/scrut | 2 | 1| 
-| 20240116T11:48:42Z | Null | https://github.com/orefash/fuzzy-gpt | 0 | 0| 
-| 20240116T11:43:18Z | Null | https://github.com/gauravemsec14/fuzzy | 0 | 0| 
-| 20240116T11:12:05Z | for my graduation thesis | https://github.com/fault2000/Fuzzing | 0 | 0| 
-| 20240116T10:52:09Z | PatchFuzz: Fuzzing for JavaScript Engine Incomplete Security Patches | https://github.com/PatchFuzz/patchfuzz | 0 | 0| 
-| 20240116T09:42:25Z | Null | https://github.com/ollie-kh/fuzzy-spoon | 0 | 0| 
-| 20240116T08:00:29Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1735 | 258| 
-| 20240116T06:58:12Z | Fuzzy matcher to rename frontend media files with pinball tables | https://github.com/dsync89/fuzzymatch-pinball-media | 0 | 0| 
 
 
 
