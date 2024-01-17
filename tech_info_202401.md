@@ -119,6 +119,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240117T13:25:27Z | Null | https://github.com/LFGHO-Hackaton-Auto-Fuzzer/auto-fuzzer | 0 | 0| 
 | 20240117T13:14:11Z | This is my first one yet, let%s goooooo! | https://github.com/marcus-ha/fuzzy-meme | 0 | 0| 
 | 20240117T13:12:25Z | My project | https://github.com/Xeonplay/fuzzy-lamp | 0 | 0| 
 | 20240117T13:02:21Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51418 | 23480| 
@@ -128,7 +129,6 @@
 | 20240117T09:33:55Z | A privacy risk assessment for social media platform using Fuzzy-AHP | https://github.com/osasido/Fuzzy-AHP-risk-assessment- | 0 | 0| 
 | 20240117T08:37:04Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4991 | 1189| 
 | 20240117T02:35:40Z | Null | https://github.com/google/fuzztest | 518 | 39| 
-| 20240117T02:10:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9314 | 2091| 
 
 
 
