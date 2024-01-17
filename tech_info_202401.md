@@ -41,7 +41,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240117T11:01:38Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14963 | 449| 
+| 20240117T13:05:12Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14962 | 449| 
 | 20240117T06:48:12Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 427 | 9| 
 | 20240116T16:21:18Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2391 | 648| 
 | 20240116T11:16:22Z | A customer management system for personal usage. The program is responsible for managing customers such as creating, updating and deleting as well as other functions such a invoice and statement generation. | https://github.com/terrychitter/kleenbin-cms | 0 | 0| 
@@ -119,13 +119,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240117T13:02:21Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51418 | 23480| 
 | 20240117T11:42:57Z | Null | https://github.com/collabwithvz/fuzzz | 0 | 0| 
 | 20240117T11:34:32Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 2127 | 340| 
 | 20240117T11:25:11Z | Null | https://github.com/KonstantinosGalanis/Neuro-fuzzy-computing-exercises | 0 | 0| 
 | 20240117T09:33:55Z | A privacy risk assessment for social media platform using Fuzzy-AHP | https://github.com/osasido/Fuzzy-AHP-risk-assessment- | 0 | 0| 
 | 20240117T08:37:04Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4991 | 1189| 
 | 20240117T02:35:40Z | Null | https://github.com/google/fuzztest | 518 | 39| 
-| 20240117T02:30:49Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51404 | 23480| 
 | 20240117T02:10:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9314 | 2091| 
 | 20240117T00:26:56Z | https://github.dev/.googl/git | https://github.com/Mimsii/fuzzy-eureka | 0 | 0| 
 | 20240117T00:19:32Z | Library for structured fuzzing with protobuffers | https://github.com/google/libprotobuf-mutator | 543 | 111| 
