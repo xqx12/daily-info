@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240117T02:28:37Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0085-app-vY9YI-exploit-satisfy | 0 | 0| 
 | 20240117T01:59:50Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0048-app-cKkgq-exploit-prove | 0 | 0| 
 | 20240117T01:50:14Z | 330+ UNRESTRICTED unblockers, games, cheats, exploits, AI, bypasses, and social media | https://github.com/wea-f/ByePassHub | 11 | 6| 
 | 20240117T01:37:50Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5643 | 1092| 
@@ -73,7 +74,6 @@
 | 20240117T00:30:40Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-u | 1 | 0| 
 | 20240117T00:29:34Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-u | 1 | 0| 
 | 20240117T00:28:56Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-u | 1 | 0| 
-| 20240116T16:54:23Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 780 | 185| 
 
 
 # backdoor on Github 推荐
@@ -119,11 +119,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240117T02:35:40Z | Null | https://github.com/google/fuzztest | 518 | 39| 
 | 20240117T02:30:49Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51404 | 23480| 
 | 20240117T02:10:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9314 | 2091| 
 | 20240117T00:26:56Z | https://github.dev/.googl/git | https://github.com/Mimsii/fuzzy-eureka | 0 | 0| 
 | 20240117T00:19:32Z | Library for structured fuzzing with protobuffers | https://github.com/google/libprotobuf-mutator | 543 | 111| 
-| 20240116T23:07:11Z | Null | https://github.com/google/fuzztest | 517 | 39| 
 | 20240116T22:26:02Z | In depth PHP learning | https://github.com/NoAnswerss/fuzzy-carnival | 0 | 0| 
 | 20240116T21:07:31Z | Fuzz-TK is an automated software debugging method that aims to relieve developers of the significant burden of fixing software failures. | https://github.com/MiaoWeiliu/Fuzz-TK | 1 | 0| 
 | 20240116T16:22:47Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 333 | 48| 

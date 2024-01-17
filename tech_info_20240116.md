@@ -82,7 +82,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240116T23:07:11Z | Null | https://github.com/google/fuzztest | 517 | 39| 
 | 20240116T22:26:02Z | In depth PHP learning | https://github.com/NoAnswerss/fuzzy-carnival | 0 | 0| 
 | 20240116T21:07:31Z | Fuzz-TK is an automated software debugging method that aims to relieve developers of the significant burden of fixing software failures. | https://github.com/MiaoWeiliu/Fuzz-TK | 1 | 0| 
 | 20240116T16:22:47Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 333 | 48| 
@@ -92,6 +91,7 @@
 | 20240116T11:54:49Z | Scrut is an a testing toolkit for CLI applications. A tool to scrutinize terminal programs without fuzz. | https://github.com/facebookincubator/scrut | 2 | 1| 
 | 20240116T11:43:18Z | Null | https://github.com/gauravemsec14/fuzzy | 0 | 0| 
 | 20240116T11:12:05Z | for my graduation thesis | https://github.com/fault2000/Fuzzing | 0 | 0| 
+| 20240116T10:52:09Z | PatchFuzz: Fuzzing for JavaScript Engine Incomplete Security Patches | https://github.com/PatchFuzz/patchfuzz | 0 | 0| 
 
 
 
