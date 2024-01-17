@@ -119,8 +119,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240117T02:30:49Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51404 | 23480| 
 | 20240117T02:10:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9314 | 2091| 
-| 20240117T01:43:17Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51403 | 23479| 
 | 20240117T00:26:56Z | https://github.dev/.googl/git | https://github.com/Mimsii/fuzzy-eureka | 0 | 0| 
 | 20240117T00:19:32Z | Library for structured fuzzing with protobuffers | https://github.com/google/libprotobuf-mutator | 543 | 111| 
 | 20240116T23:07:11Z | Null | https://github.com/google/fuzztest | 517 | 39| 
