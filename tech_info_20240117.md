@@ -42,7 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240117T12:56:45Z | End-to-end AI system to automatically detect green areas and trees in orthophotos.   The aim is to automate the orthophotos labeling and processing pipeline of the Florence municipality, with urban and environmental purposes.  In the specific, state-of-the-art segmentation and object detection models have been exploited.  | https://github.com/GiggioIlGriggio/green_areas_detection | 0 | 0| 
+| 20240117T13:01:31Z | End-to-end AI system to automatically detect green areas and trees in orthophotos.   The aim is to automate the orthophotos labeling and processing pipeline of the Florence municipality, with urban and environmental purposes.  In the specific, state-of-the-art segmentation and object detection models have been exploited.  | https://github.com/GiggioIlGriggio/green_areas_detection | 0 | 0| 
 | 20240117T12:53:39Z | Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google%s Tsunami, Ostorlab%s Asteroid and Bug Bounty programs. | https://github.com/Ostorlab/KEV | 295 | 11| 
 | 20240117T11:11:01Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5647 | 1094| 
 | 20240117T02:38:48Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5756 | 778| 
