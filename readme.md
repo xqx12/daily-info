@@ -46,12 +46,12 @@
 | 20240117T12:53:39Z | Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google%s Tsunami, Ostorlab%s Asteroid and Bug Bounty programs. | https://github.com/Ostorlab/KEV | 295 | 11| 
 | 20240117T12:00:27Z | Stuxnet or possibly better or just a sample on your own computer(s) taught in CS50 | https://github.com/apt6969/cs50exploit | 0 | 0| 
 | 20240117T11:11:01Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5647 | 1094| 
+| 20240117T10:23:00Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 85 | 12| 
 | 20240117T02:38:48Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5756 | 778| 
 | 20240117T02:28:37Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0085-app-vY9YI-exploit-satisfy | 0 | 0| 
 | 20240117T01:59:50Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0048-app-cKkgq-exploit-prove | 0 | 0| 
 | 20240117T01:50:14Z | 330+ UNRESTRICTED unblockers, games, cheats, exploits, AI, bypasses, and social media | https://github.com/wea-f/ByePassHub | 11 | 6| 
 | 20240117T01:29:36Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0032-app-49dgI-exploit-refuse | 0 | 0| 
-| 20240117T00:48:10Z | Null | https://github.com/eatherne7/JD-Edwards-EnterpriseOne-9.2-RCE-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -75,7 +75,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240117T13:08:47Z | This is my first one yet, let%s goooooo! | https://github.com/marcus-ha/fuzzy-meme | 0 | 0| 
+| 20240117T13:14:11Z | This is my first one yet, let%s goooooo! | https://github.com/marcus-ha/fuzzy-meme | 0 | 0| 
+| 20240117T13:12:25Z | My project | https://github.com/Xeonplay/fuzzy-lamp | 0 | 0| 
 | 20240117T13:02:21Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51418 | 23480| 
 | 20240117T11:42:57Z | Null | https://github.com/collabwithvz/fuzzz | 0 | 0| 
 | 20240117T11:34:32Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 2127 | 340| 
@@ -84,7 +85,6 @@
 | 20240117T08:37:04Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4991 | 1189| 
 | 20240117T02:35:40Z | Null | https://github.com/google/fuzztest | 518 | 39| 
 | 20240117T02:10:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9314 | 2091| 
-| 20240117T00:26:56Z | https://github.dev/.googl/git | https://github.com/Mimsii/fuzzy-eureka | 0 | 0| 
 
 
 
