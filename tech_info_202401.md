@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240117T01:59:50Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0048-app-cKkgq-exploit-prove | 0 | 0| 
 | 20240117T01:50:14Z | 330+ UNRESTRICTED unblockers, games, cheats, exploits, AI, bypasses, and social media | https://github.com/wea-f/ByePassHub | 11 | 6| 
 | 20240117T01:37:50Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5643 | 1092| 
 | 20240117T01:29:36Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0032-app-49dgI-exploit-refuse | 0 | 0| 
@@ -73,7 +74,6 @@
 | 20240117T00:29:34Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-u | 1 | 0| 
 | 20240117T00:28:56Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-u | 1 | 0| 
 | 20240116T16:54:23Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 780 | 185| 
-| 20240116T13:15:31Z | Null | https://github.com/anon-2024/bitgo-tss-exploit-poc | 0 | 0| 
 
 
 # backdoor on Github 推荐
