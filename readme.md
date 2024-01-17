@@ -16,7 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240117T12:53:48Z | CVE-2023-6895 | Null | https://github.com/FuBoLuSec/CVE-2023-6895-RCE | | 
+| 20240117T13:08:42Z | CVE-2023-6895 | Null | https://github.com/FuBoLuSec/CVE-2023-6895-RCE | | 
 | 20240117T11:13:47Z | CVE-2023-46805 | Null | https://github.com/duy-31/CVE-2023-46805_CVE-2024-21887 | | 
 | 20240117T11:00:31Z | CVE-2023-22527 | CVE-2023-22527 - RCE (Remote Code Execution) Vulnerability In Confluence Data Center and Confluence Server PoC | https://github.com/Avento/CVE-2023-22527_Confluence_RCE | | 
 | 20240117T09:59:40Z | CVE-2023-48858 | PoC for CVE-2023-48858 | https://github.com/Shumerez/CVE-2023-48858 | | 
@@ -75,6 +75,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240117T13:08:47Z | This is my first one yet, let%s goooooo! | https://github.com/marcus-ha/fuzzy-meme | 0 | 0| 
 | 20240117T13:02:21Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51418 | 23480| 
 | 20240117T11:42:57Z | Null | https://github.com/collabwithvz/fuzzz | 0 | 0| 
 | 20240117T11:34:32Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 2127 | 340| 
@@ -84,7 +85,6 @@
 | 20240117T02:35:40Z | Null | https://github.com/google/fuzztest | 518 | 39| 
 | 20240117T02:10:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9314 | 2091| 
 | 20240117T00:26:56Z | https://github.dev/.googl/git | https://github.com/Mimsii/fuzzy-eureka | 0 | 0| 
-| 20240117T00:19:32Z | Library for structured fuzzing with protobuffers | https://github.com/google/libprotobuf-mutator | 543 | 111| 
 
 
 
