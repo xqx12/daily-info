@@ -41,7 +41,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240117T13:05:12Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14962 | 449| 
+| 20240117T13:49:39Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14963 | 449| 
 | 20240117T06:48:12Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 427 | 9| 
 | 20240116T16:21:18Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2391 | 648| 
 | 20240116T11:16:22Z | A customer management system for personal usage. The program is responsible for managing customers such as creating, updating and deleting as well as other functions such a invoice and statement generation. | https://github.com/terrychitter/kleenbin-cms | 0 | 0| 
