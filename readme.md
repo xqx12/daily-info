@@ -75,7 +75,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240117T13:29:10Z | HCDA 2210 TP- Depuis Module 9 | https://github.com/0fc-tech/fuzzy-more-happiness | 0 | 0| 
+| 20240117T13:29:26Z | HCDA 2210 TP- Depuis Module 9 | https://github.com/0fc-tech/fuzzy-more-happiness | 0 | 0| 
 | 20240117T13:25:27Z | Null | https://github.com/LFGHO-Hackaton-Auto-Fuzzer/auto-fuzzer | 0 | 0| 
 | 20240117T13:14:11Z | This is my first one yet, let%s goooooo! | https://github.com/marcus-ha/fuzzy-meme | 0 | 0| 
 | 20240117T13:12:25Z | My project | https://github.com/Xeonplay/fuzzy-lamp | 0 | 0| 
