@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240117T02:18:42Z | CVE-2023-22527 | CVE-2023-22527 - RCE (Remote Code Execution) Vulnerability In Confluence Data Center and Confluence Server PoC | https://github.com/Avento/CVE-2023-22527_Confluence_RCE | | 
 | 20240117T01:33:27Z | CVE-2023-22527 | Null | https://github.com/Sudistark/patch-diff-CVE-2023-22527 | | 
 | 20240117T00:25:53Z | CVE-2024-21887 | A command injection vulnerability in web components of Ivanti Connect Secure (9.x, 22.x) and Ivanti Policy Secure (9.x, 22.x) allows an authenticated administrator to send specially crafted requests and execute arbitrary commands on the appliance. | https://github.com/Chocapikk/CVE-2024-21887 | | 
 | 20240116T20:04:05Z | CVE-2023-43786 | Null | https://github.com/jfrog/jfrog-CVE-2023-43786-libX11_DoS | | 
@@ -35,7 +36,6 @@
 | 20240116T14:37:55Z | CVE-2023-46805 | Simple scanner for scanning a list of ip-addresses for vulnerable Ivanti Pulse Secure devices | https://github.com/cbeek-r7/CVE-2023-46805 | | 
 | 20240116T10:20:53Z | CVE-2023-1326 | Esto es una prueba de concepto propia i basica de la vulneravilidad CVE-2023-1326 | https://github.com/Pol-Ruiz/CVE-2023-1326 | | 
 | 20240116T10:19:27Z | CVE-2021-4034 | Null | https://github.com/Pol-Ruiz/CVE-2021-4034 | | 
-| 20240116T08:46:22Z | CVE-2023-22527 | CVE-2023-22527 - RCE (Remote Code Execution) Vulnerability In Confluence Data Center and Confluence Server PoC | https://github.com/Avento/CVE-2023-22527_Confluence_RCE | | 
 
 
 # klee on Github 推荐

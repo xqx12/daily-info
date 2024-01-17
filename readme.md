@@ -23,7 +23,6 @@
 | 20240116T14:37:55Z | CVE-2023-46805 | Simple scanner for scanning a list of ip-addresses for vulnerable Ivanti Pulse Secure devices | https://github.com/cbeek-r7/CVE-2023-46805 | | 
 | 20240116T10:20:53Z | CVE-2023-1326 | Esto es una prueba de concepto propia i basica de la vulneravilidad CVE-2023-1326 | https://github.com/Pol-Ruiz/CVE-2023-1326 | | 
 | 20240116T10:19:27Z | CVE-2021-4034 | Null | https://github.com/Pol-Ruiz/CVE-2021-4034 | | 
-| 20240116T08:46:22Z | CVE-2023-22527 | CVE-2023-22527 - RCE (Remote Code Execution) Vulnerability In Confluence Data Center and Confluence Server PoC | https://github.com/Avento/CVE-2023-22527_Confluence_RCE | | 
 | 20240116T08:08:56Z | CVE-2023-46805 | Quick scanner for possible vulnerable Ivanti Connect Secure appliances by country using Shodan. | https://github.com/yoryio/CVE-2023-46805_CVE-2024-21887_Scanner | | 
 | 20240116T02:49:17Z | CVE-2023-6875 | CVE-2023-6875 PoC | https://github.com/UlyssesSaicha/CVE-2023-6875 | | 
 
