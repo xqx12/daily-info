@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240117T01:29:36Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0032-app-49dgI-exploit-refuse | 0 | 0| 
 | 20240117T00:48:10Z | Null | https://github.com/eatherne7/JD-Edwards-EnterpriseOne-9.2-RCE-Exploit | 0 | 0| 
 | 20240117T00:31:34Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-u | 1 | 0| 
 | 20240117T00:30:40Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-u | 1 | 0| 
@@ -73,7 +74,6 @@
 | 20240116T16:54:23Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 780 | 185| 
 | 20240116T13:15:31Z | Null | https://github.com/anon-2024/bitgo-tss-exploit-poc | 0 | 0| 
 | 20240116T13:11:07Z | POC for Signature Malleability exploit using Foundry | https://github.com/varun-doshi/Signature-Malleability | 0 | 0| 
-| 20240116T13:05:53Z | Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google%s Tsunami, Ostorlab%s Asteroid and Bug Bounty programs. | https://github.com/Ostorlab/KEV | 96 | 3| 
 
 
 # backdoor on Github 推荐
