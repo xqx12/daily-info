@@ -41,7 +41,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240117T01:32:24Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14949 | 448| 
+| 20240117T01:36:02Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14950 | 448| 
 | 20240116T21:56:50Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 425 | 9| 
 | 20240116T16:21:18Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2391 | 648| 
 | 20240116T11:16:22Z | A customer management system for personal usage. The program is responsible for managing customers such as creating, updating and deleting as well as other functions such a invoice and statement generation. | https://github.com/terrychitter/kleenbin-cms | 0 | 0| 
@@ -64,13 +64,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240117T01:37:50Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5643 | 1092| 
 | 20240117T01:29:36Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0032-app-49dgI-exploit-refuse | 0 | 0| 
 | 20240117T00:48:10Z | Null | https://github.com/eatherne7/JD-Edwards-EnterpriseOne-9.2-RCE-Exploit | 0 | 0| 
 | 20240117T00:31:34Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-u | 1 | 0| 
 | 20240117T00:30:40Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-u | 1 | 0| 
 | 20240117T00:29:34Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-u | 1 | 0| 
 | 20240117T00:28:56Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-u | 1 | 0| 
-| 20240116T23:43:47Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5642 | 1092| 
 | 20240116T16:54:23Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 780 | 185| 
 | 20240116T13:15:31Z | Null | https://github.com/anon-2024/bitgo-tss-exploit-poc | 0 | 0| 
 | 20240116T13:11:07Z | POC for Signature Malleability exploit using Foundry | https://github.com/varun-doshi/Signature-Malleability | 0 | 0| 

@@ -44,7 +44,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240116T23:43:47Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5642 | 1092| 
 | 20240116T16:54:23Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 780 | 185| 
 | 20240116T13:15:31Z | Null | https://github.com/anon-2024/bitgo-tss-exploit-poc | 0 | 0| 
 | 20240116T13:11:07Z | POC for Signature Malleability exploit using Foundry | https://github.com/varun-doshi/Signature-Malleability | 0 | 0| 
@@ -54,6 +53,7 @@
 | 20240116T06:17:00Z | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | 738 | 69| 
 | 20240116T01:57:03Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 1145 | 221| 
 | 20240116T01:44:50Z | Berguna Untuk Exploit Sebuah Data Base | https://github.com/MrxMilzu/Exploit | 0 | 0| 
+| 20240116T01:29:35Z | Final project for the class 269 at 23 Fall | https://github.com/Allen0307/KKLIP-Knowledge-Distillation-Exploiting-K-means-Clustering-for-Language-Image-Pre-Training | 1 | 0| 
 
 
 # backdoor on Github 推荐
