@@ -124,11 +124,11 @@
 | 20240117T23:59:52Z | Null | https://github.com/temnikov-vb/fuzzy-sweater | 0 | 0| 
 | 20240117T23:57:41Z | Null | https://github.com/veronika-sidorova/fuzzy-sweater | 0 | 0| 
 | 20240117T23:32:39Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51432 | 23483| 
+| 20240117T23:10:14Z | A comparison of solidity fuzzing tools Foundry, Echidna & Medusa | https://github.com/devdacian/solidity-fuzzing-comparison | 64 | 7| 
 | 20240117T22:40:02Z | Null | https://github.com/jonahberean/fuzzy | 0 | 0| 
 | 20240117T15:59:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9317 | 2091| 
 | 20240117T13:29:26Z | HCDA 2210 TP- Depuis Module 9 | https://github.com/0fc-tech/fuzzy-more-happiness | 0 | 0| 
 | 20240117T13:25:27Z | Null | https://github.com/LFGHO-Hackaton-Auto-Fuzzer/auto-fuzzer | 0 | 0| 
-| 20240117T13:14:11Z | This is my first one yet, let%s goooooo! | https://github.com/marcus-ha/fuzzy-meme | 0 | 0| 
 
 
 
