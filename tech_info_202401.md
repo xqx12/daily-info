@@ -26,14 +26,14 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240118T01:42:05Z | CVE-2023-46805 | Null | https://github.com/duy-31/CVE-2023-46805_CVE-2024-21887 | | 
+| 20240118T01:41:10Z | CVE-2024-22145 | InstaWP Connect <= 0.1.0.8 - Missing Authorization to Arbitrary Options Update (Subscriber+) | https://github.com/RandomRobbieBF/CVE-2024-22145 | | 
 | 20240117T23:18:29Z | CVE-2023-49339 | Critical Security Vulnerability in Ellucian Banner System | https://github.com/3zizme/CVE-2023-49339 | | 
 | 20240117T22:42:47Z | CVE-2023-22527 | CVE-2023-22527 - RCE (Remote Code Execution) Vulnerability In Confluence Data Center and Confluence Server PoC | https://github.com/Avento/CVE-2023-22527_Confluence_RCE | | 
-| 20240117T20:59:31Z | CVE-2024-22145 | InstaWP Connect <= 0.1.0.8 - Missing Authorization to Arbitrary Options Update (Subscriber+) | https://github.com/RandomRobbieBF/CVE-2024-22145 | | 
 | 20240117T16:24:53Z | CVE-2023-22527 | Null | https://github.com/Sudistark/patch-diff-CVE-2023-22527 | | 
 | 20240117T15:46:59Z | CVE-2023-6895 | Null | https://github.com/FuBoLuSec/CVE-2023-6895 | | 
 | 20240117T14:34:16Z | cve-2023-5044 | Null | https://github.com/4ARMED/cve-2023-5044 | | 
 | 20240117T13:08:42Z | CVE-2023-6895 | Null | https://github.com/FuBoLuSec/CVE-2023-6895-RCE | | 
-| 20240117T11:13:47Z | CVE-2023-46805 | Null | https://github.com/duy-31/CVE-2023-46805_CVE-2024-21887 | | 
 | 20240117T09:59:40Z | CVE-2023-48858 | PoC for CVE-2023-48858 | https://github.com/Shumerez/CVE-2023-48858 | | 
 | 20240117T07:45:27Z | CVE-2023-49070 | This exploit scans whether the provided target is vulnerable to CVE-2023-49070/CVE-2023-51467 and also exploits it depending on the choice of the user. | https://github.com/Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467 | | 
 
@@ -64,9 +64,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240118T01:42:06Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5653 | 1094| 
 | 20240118T00:42:54Z | a demonstration of how the dependency-confusion attack with npm works  | https://github.com/SaintArthur/demo-dependency-confusion-exploit-ex | 0 | 0| 
 | 20240118T00:00:28Z | Code repository for the functions used in the experiments in the paper %Exploiting Trust for Resilent Hypothesis Testing with Malicious Robots% | https://github.com/mcavorsi/Adversarial_Hypothesis_Testing | 0 | 0| 
-| 20240117T22:46:33Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5652 | 1094| 
 | 20240117T20:00:00Z | A linearity-exploiting sparse nonlinear constrained optimization problem solver that uses the interior-point method. | https://github.com/SleipnirGroup/Sleipnir | 22 | 6| 
 | 20240117T13:01:31Z | End-to-end AI system to automatically detect green areas and trees in orthophotos.   The aim is to automate the orthophotos labeling and processing pipeline of the Florence municipality, with urban and environmental purposes.  In the specific, state-of-the-art segmentation and object detection models have been exploited.  | https://github.com/GiggioIlGriggio/green_areas_detection | 0 | 0| 
 | 20240117T12:54:12Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 240 | 19| 
