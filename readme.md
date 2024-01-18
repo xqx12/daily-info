@@ -48,13 +48,13 @@
 | 20240117T22:46:33Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5652 | 1094| 
 | 20240117T20:00:00Z | A linearity-exploiting sparse nonlinear constrained optimization problem solver that uses the interior-point method. | https://github.com/SleipnirGroup/Sleipnir | 22 | 6| 
 | 20240117T13:01:31Z | End-to-end AI system to automatically detect green areas and trees in orthophotos.   The aim is to automate the orthophotos labeling and processing pipeline of the Florence municipality, with urban and environmental purposes.  In the specific, state-of-the-art segmentation and object detection models have been exploited.  | https://github.com/GiggioIlGriggio/green_areas_detection | 0 | 0| 
+| 20240117T12:54:12Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 240 | 19| 
 | 20240117T12:53:39Z | Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google%s Tsunami, Ostorlab%s Asteroid and Bug Bounty programs. | https://github.com/Ostorlab/KEV | 295 | 11| 
 | 20240117T12:00:27Z | Stuxnet or possibly better or just a sample on your own computer(s) taught in CS50 | https://github.com/apt6969/cs50exploit | 0 | 0| 
 | 20240117T10:23:00Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 85 | 12| 
 | 20240117T09:17:52Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5788 | 729| 
 | 20240117T02:38:48Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5756 | 778| 
 | 20240117T02:28:37Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0085-app-vY9YI-exploit-satisfy | 0 | 0| 
-| 20240117T01:59:50Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0048-app-cKkgq-exploit-prove | 0 | 0| 
 
 
 # backdoor on Github 推荐
