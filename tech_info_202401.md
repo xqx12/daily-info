@@ -64,6 +64,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240118T02:34:51Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 781 | 185| 
+| 20240118T02:33:06Z | DrM, a visual RL algorithm, minimizes the dormant ratio to guide exploration-exploitation trade-offs, achieving significant improvements in sample efficiency and asymptotic performance across diverse domains. | https://github.com/XuGW-Kevin/DrM | 8 | 0| 
 | 20240118T02:10:49Z | This project is a project written in the Bash language. It aims to provide a stable Shell to the attacker in the post-exploitation phase after compromising a server. | https://github.com/dTMP3st/PostKey | 0 | 0| 
 | 20240118T01:42:06Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5653 | 1094| 
 | 20240118T00:42:54Z | a demonstration of how the dependency-confusion attack with npm works  | https://github.com/SaintArthur/demo-dependency-confusion-exploit-ex | 0 | 0| 
@@ -72,8 +74,6 @@
 | 20240117T13:01:31Z | End-to-end AI system to automatically detect green areas and trees in orthophotos.   The aim is to automate the orthophotos labeling and processing pipeline of the Florence municipality, with urban and environmental purposes.  In the specific, state-of-the-art segmentation and object detection models have been exploited.  | https://github.com/GiggioIlGriggio/green_areas_detection | 0 | 0| 
 | 20240117T12:54:12Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 240 | 19| 
 | 20240117T12:53:39Z | Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google%s Tsunami, Ostorlab%s Asteroid and Bug Bounty programs. | https://github.com/Ostorlab/KEV | 295 | 11| 
-| 20240117T12:00:27Z | Stuxnet or possibly better or just a sample on your own computer(s) taught in CS50 | https://github.com/apt6969/cs50exploit | 0 | 0| 
-| 20240117T10:23:00Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 85 | 12| 
 
 
 # backdoor on Github 推荐
