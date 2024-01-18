@@ -11,21 +11,24 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20240118 | 大模型攻防实践 | https://xz.aliyun.com/t/13189| 
+| 20240118 | 基于QEMU的通用化模糊测试框架探索与实践 | https://xz.aliyun.com/t/13190| 
+| 20240118 | 基于图的安全补丁检测 | https://mp.weixin.qq.com/s/tCqGkW93zA0rDTMt_xN9bA| 
+| 20240118 | 基于图的漏洞定位 | https://mp.weixin.qq.com/s/PHl0_EXvOr_D1cWopqQ5Ow| 
+| 20240118 | 基于LLM的多语言程序修复 | https://mp.weixin.qq.com/s/DzLbylXeCf-SkupPJXfkcg| 
+| 20240118 | 伪随机数问题浅析 | https://datacon.qianxin.com/info/information-detail?id=123| 
+| 20240118 | 审稿专家对安全顶会论文评审的见解 | https://mp.weixin.qq.com/s/3KfRB0jzC2ewYpckBDtmrA| 
+| 20240118 | 使用大模型进行软件测试：调查、现状和展望 | https://mp.weixin.qq.com/s/uUAIHhH5PqfGCxVA1xwFuw| 
+| 20240118 | 2024网络空间安全科技应重点关注六个方面 | https://mp.weixin.qq.com/s/_ekxKrrcPVQUOd8kl87NQw| 
 | 20240115 | 大语言模型系统安全综述 | https://mp.weixin.qq.com/s/wtJ8CPem_EQG1MnvbQdfJw| 
-| 20240115 | gogo: 面向红队的高度可控可拓展的自动化引擎 | https://github.com/chainreactors/gogo| 
-| 20240115 | ​加密C2框架EvilOSX流量分析 | https://mp.weixin.qq.com/s/Nl5SWMFFjsxG8LeYBOPuPg| 
-| 20240115 | 开源软件供应链风险分析与治理 | https://mp.weixin.qq.com/s/u3UEBjiMT1pSQiDNzkD4Kg| 
-| 20240115 | SecWiki周刊（第515期) | https://www.sec-wiki.com/weekly/515| 
-| 20240115 | 揭开隐蔽8年黑灰产团伙Bigpanzi的神秘面纱 | https://blog.xlab.qianxin.com/unveiling-the-mystery-of-bigpanzi/?continueFlag=a83b6547eed3247e32ba5a8db28db58a| 
-| 20240115 | 年安全运营实践总结与未来思考 | https://mp.weixin.qq.com/s/ViXzcMo3p1jukzdVPVXlNw| 
-| 20240115 | RASP大规模研发部署实践总结 | https://mp.weixin.qq.com/s/RHE8xoBCBTa4fKZGKyUKqg| 
-| 20240115 | 民航数据安全风险评估体系探讨 | https://mp.weixin.qq.com/s/nw6o6xHydxRoFc0xW6YvAg| 
-| 20240115 | JA3 Fingerprints Fade as Browsers Embrace TLS Extension Ra... | https://www.stamus-networks.com/blog/ja3-fingerprints-fade-browsers-embrace-tls-extension-randomization| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240118T08:49:07Z | cve-2024-22416 | CVE-2024-22416 exploit experiments | https://github.com/mindstorm38/ensimag-secu3a-cve-2024-22416 | | 
+| 20240118T08:24:08Z | CVE-2023-35001 | Exploit CVE-2023-35001 | https://github.com/mrbrelax/Exploit_CVE-2023-35001 | | 
+| 20240118T05:17:01Z | CVE-2023-7028 | Exploit for CVE-2023-7028 | https://github.com/yoryio/CVE-2023-7028 | | 
 | 20240118T02:14:57Z | CVE-2024-22145 | InstaWP Connect <= 0.1.0.8 - Missing Authorization to Arbitrary Options Update (Subscriber+) | https://github.com/RandomRobbieBF/CVE-2024-22145 | | 
 | 20240118T01:42:05Z | CVE-2023-46805 | Null | https://github.com/duy-31/CVE-2023-46805_CVE-2024-21887 | | 
 | 20240117T23:18:29Z | CVE-2023-49339 | Critical Security Vulnerability in Ellucian Banner System | https://github.com/3zizme/CVE-2023-49339 | | 
@@ -33,17 +36,14 @@
 | 20240117T16:24:53Z | CVE-2023-22527 | Null | https://github.com/Sudistark/patch-diff-CVE-2023-22527 | | 
 | 20240117T15:46:59Z | CVE-2023-6895 | Null | https://github.com/FuBoLuSec/CVE-2023-6895 | | 
 | 20240117T14:34:16Z | cve-2023-5044 | Null | https://github.com/4ARMED/cve-2023-5044 | | 
-| 20240117T13:08:42Z | CVE-2023-6895 | Null | https://github.com/FuBoLuSec/CVE-2023-6895-RCE | | 
-| 20240117T09:59:40Z | CVE-2023-48858 | PoC for CVE-2023-48858 | https://github.com/Shumerez/CVE-2023-48858 | | 
-| 20240117T07:45:27Z | CVE-2023-49070 | This exploit scans whether the provided target is vulnerable to CVE-2023-49070/CVE-2023-51467 and also exploits it depending on the choice of the user. | https://github.com/Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240118T11:45:44Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14974 | 450| 
 | 20240117T23:59:55Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 428 | 9| 
 | 20240117T15:57:56Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2392 | 648| 
-| 20240117T15:55:48Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14965 | 449| 
 | 20240116T11:16:22Z | A customer management system for personal usage. The program is responsible for managing customers such as creating, updating and deleting as well as other functions such a invoice and statement generation. | https://github.com/terrychitter/kleenbin-cms | 0 | 0| 
 | 20240113T22:52:11Z | Null | https://github.com/Kleeiner21/klee | 0 | 0| 
 | 20240111T12:12:44Z | Config files for my GitHub profile. | https://github.com/Kleezyy/Kleezyy | 0 | 0| 
@@ -64,31 +64,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240118T11:34:34Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5661 | 1095| 
 | 20240118T02:34:51Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 781 | 185| 
 | 20240118T02:33:06Z | DrM, a visual RL algorithm, minimizes the dormant ratio to guide exploration-exploitation trade-offs, achieving significant improvements in sample efficiency and asymptotic performance across diverse domains. | https://github.com/XuGW-Kevin/DrM | 8 | 0| 
 | 20240118T02:10:49Z | This project is a project written in the Bash language. It aims to provide a stable Shell to the attacker in the post-exploitation phase after compromising a server. | https://github.com/dTMP3st/PostKey | 0 | 0| 
-| 20240118T01:42:06Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5653 | 1094| 
 | 20240118T00:42:54Z | a demonstration of how the dependency-confusion attack with npm works  | https://github.com/SaintArthur/demo-dependency-confusion-exploit-ex | 0 | 0| 
 | 20240118T00:00:28Z | Code repository for the functions used in the experiments in the paper %Exploiting Trust for Resilent Hypothesis Testing with Malicious Robots% | https://github.com/mcavorsi/Adversarial_Hypothesis_Testing | 0 | 0| 
 | 20240117T20:00:00Z | A linearity-exploiting sparse nonlinear constrained optimization problem solver that uses the interior-point method. | https://github.com/SleipnirGroup/Sleipnir | 22 | 6| 
+| 20240117T17:27:33Z | Null | https://github.com/MysticalMike60t/exploits | 0 | 0| 
 | 20240117T13:01:31Z | End-to-end AI system to automatically detect green areas and trees in orthophotos.   The aim is to automate the orthophotos labeling and processing pipeline of the Florence municipality, with urban and environmental purposes.  In the specific, state-of-the-art segmentation and object detection models have been exploited.  | https://github.com/GiggioIlGriggio/green_areas_detection | 0 | 0| 
 | 20240117T12:54:12Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 240 | 19| 
-| 20240117T12:53:39Z | Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google%s Tsunami, Ostorlab%s Asteroid and Bug Bounty programs. | https://github.com/Ostorlab/KEV | 295 | 11| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240118T12:41:45Z | Simple backdoor en HTML y PHP, permite ejecutar una reverse shell en bash | https://github.com/M4THsb09/sadbackdoor | 0 | 0| 
+| 20240118T09:42:17Z | connect-4 backdoor game | https://github.com/pacifiquem/backdoor-game | 2 | 0| 
+| 20240118T09:08:32Z | PyTorch Implementation for %FIBA: Federated Invisible Backdoor Attack (ICASSP 2024)% | https://github.com/LukeZane118/FIBA | 0 | 0| 
+| 20240118T09:06:01Z | The S-500 G2 Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/Maskiow/S500-RAT-HVNC-HAPP-HIdden-BROWSER-HRDP-REVERSE-PROXY-CRYPTO-MONITOR | 2 | 0| 
+| 20240118T06:13:16Z | BitRAT CrackedIt is meticulously constructed utilizing the C++ programming language. It stands as the most recent iteration of the premier PC RAT for the year 2023. Regarded as a prized tool | https://github.com/MakShadow/Bitrat-Hvnc-Rat-Remote-Control-Av-Bypass | 1 | 0| 
 | 20240118T01:37:17Z | Generador de backdoors para cualquier sistema operativo | https://github.com/SrMai/backdoor-generator | 0 | 0| 
 | 20240117T22:26:33Z | Null | https://github.com/Ben-Schneider-code/Universal-Backdoor-Attacks | 0 | 0| 
 | 20240117T14:27:19Z | Towards Stable Backdoor Purification through Feature Shift Tuning (NeurIPS 2023) | https://github.com/AISafety-HKUST/stable_backdoor_purification | 15 | 0| 
 | 20240117T12:24:49Z | A backdoor made with python + netcat for reverse shell | https://github.com/valentindush/snake-game-backdoor | 0 | 0| 
 | 20240117T07:32:42Z | Official Implementation of %Not All Samples Are Born Equal: Towards Effective Clean-Label Backdoor Attacks% (PR, 2023) | https://github.com/YinghuaGao/Effective_CLB | 0 | 0| 
-| 20240116T21:45:15Z | C2 extensible for post-explotation and remote control | https://github.com/aniko33/Unicorn | 1 | 0| 
-| 20240116T20:33:59Z | Simple backdoor en HTML y PHP, permite ejecutar una reverse shell en bash | https://github.com/M4THsb09/sadbackdoor | 0 | 0| 
-| 20240116T15:07:08Z | The X-Worm Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/Checkdos/XWorm-V5.2-Edition-HVNC-RAT-DDOS-PASSWORDS-RANSOMWARE-CLIPPER-KEYLOGGER-UAC-BYPASS | 0 | 0| 
-| 20240116T05:31:31Z | Remote Administration Either you are a private user wanting to control your PC from afar, or a big company which wants to administrate hundreds of machines from a single computer, | https://github.com/Checkdos/ICARUS-NET2-NET4-BAT-VBS-VBA-HVNC-BINDER-PHP-FTPLOGS-RECOVERY-KEYLOG-WEBGL-ROOKIT | 1 | 0| 
-| 20240116T03:01:07Z | Null | https://github.com/zanwaar/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
