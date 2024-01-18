@@ -119,6 +119,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240118T02:24:53Z | A trivial fuzzer using libafl | https://github.com/twizmwazin/trivial-fuzzer | 0 | 0| 
 | 20240118T00:38:11Z | Null | https://github.com/v-a-n-o-o/fuzzy-sweater | 0 | 0| 
 | 20240118T00:06:38Z | Null | https://github.com/walruslaw/fuzzy-stream | 0 | 0| 
 | 20240117T23:59:52Z | Null | https://github.com/temnikov-vb/fuzzy-sweater | 0 | 0| 
@@ -128,7 +129,6 @@
 | 20240117T22:40:02Z | Null | https://github.com/jonahberean/fuzzy | 0 | 0| 
 | 20240117T15:59:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9317 | 2091| 
 | 20240117T13:29:26Z | HCDA 2210 TP- Depuis Module 9 | https://github.com/0fc-tech/fuzzy-more-happiness | 0 | 0| 
-| 20240117T13:25:27Z | Null | https://github.com/LFGHO-Hackaton-Auto-Fuzzer/auto-fuzzer | 0 | 0| 
 
 
 
