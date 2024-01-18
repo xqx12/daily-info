@@ -64,7 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240118T12:12:49Z | Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google%s Tsunami, Ostorlab%s Asteroid and Bug Bounty programs. | https://github.com/Ostorlab/KEV | 322 | 12| 
+| 20240118T13:16:26Z | Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google%s Tsunami, Ostorlab%s Asteroid and Bug Bounty programs. | https://github.com/Ostorlab/KEV | 323 | 12| 
 | 20240118T11:34:34Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5661 | 1095| 
 | 20240118T02:34:51Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 781 | 185| 
 | 20240118T02:33:06Z | DrM, a visual RL algorithm, minimizes the dormant ratio to guide exploration-exploitation trade-offs, achieving significant improvements in sample efficiency and asymptotic performance across diverse domains. | https://github.com/XuGW-Kevin/DrM | 8 | 0| 
