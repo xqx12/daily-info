@@ -79,6 +79,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240118T01:37:17Z | Generador de backdoors para cualquier sistema operativo | https://github.com/SrMai/backdoor-generator | 0 | 0| 
 | 20240117T22:26:33Z | Null | https://github.com/Ben-Schneider-code/Universal-Backdoor-Attacks | 0 | 0| 
 | 20240117T14:27:19Z | Towards Stable Backdoor Purification through Feature Shift Tuning (NeurIPS 2023) | https://github.com/AISafety-HKUST/stable_backdoor_purification | 15 | 0| 
 | 20240117T12:24:49Z | A backdoor made with python + netcat for reverse shell | https://github.com/valentindush/snake-game-backdoor | 0 | 0| 
@@ -88,7 +89,6 @@
 | 20240116T15:07:08Z | The X-Worm Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/Checkdos/XWorm-V5.2-Edition-HVNC-RAT-DDOS-PASSWORDS-RANSOMWARE-CLIPPER-KEYLOGGER-UAC-BYPASS | 0 | 0| 
 | 20240116T05:31:31Z | Remote Administration Either you are a private user wanting to control your PC from afar, or a big company which wants to administrate hundreds of machines from a single computer, | https://github.com/Checkdos/ICARUS-NET2-NET4-BAT-VBS-VBA-HVNC-BINDER-PHP-FTPLOGS-RECOVERY-KEYLOG-WEBGL-ROOKIT | 1 | 0| 
 | 20240116T03:01:07Z | Null | https://github.com/zanwaar/backdoor | 0 | 0| 
-| 20240115T18:02:19Z | Un script para hacer backdoor a los SMS de un teléfono 📲 fácilmente. | https://github.com/Luke-Galaxy/MkBdLuke- | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
