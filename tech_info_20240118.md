@@ -47,6 +47,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240118T13:36:26Z | All Tools for DarkCool Hacking Event! List:~ Exploiter, Checker, Webshell Finder, Grabber, Search, Bruteforce, Random and Other Tools | https://github.com/ziffir12/DarkTullLinux | 0 | 0| 
 | 20240118T13:27:38Z | Null | https://github.com/AkshatM1707/Automated-Exploitation-of-SQL-Injection | 0 | 0| 
 | 20240118T13:25:32Z | Null | https://github.com/VoidXII/S6-L4---La-fase-di-exploit-Gli-attacchi-alle-Reti | 0 | 0| 
 | 20240118T13:16:26Z | Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google%s Tsunami, Ostorlab%s Asteroid and Bug Bounty programs. | https://github.com/Ostorlab/KEV | 323 | 12| 
@@ -85,6 +86,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240118T13:37:02Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST, GraphQL and RPC (e.g., gRPC and Thrift). | https://github.com/EMResearch/EvoMaster | 396 | 73| 
 | 20240118T13:29:04Z | Null | https://github.com/Flagjackhub-hub2021/fuzzy-dollop | 0 | 0| 
 | 20240118T13:25:55Z | Null | https://github.com/fabroercost/FuzzyProbabilisticTSCRepresentation | 0 | 0| 
 | 20240118T13:10:54Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4995 | 1189| 
@@ -94,7 +96,6 @@
 | 20240118T10:35:43Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 334 | 48| 
 | 20240118T09:58:37Z | Null | https://github.com/xdmeen/fuzzy-sweater | 0 | 0| 
 | 20240118T09:57:53Z | Null | https://github.com/Sina-H-S/Fuzzy_Project | 0 | 0| 
-| 20240118T07:48:20Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 250 | 40| 
 
 
 
