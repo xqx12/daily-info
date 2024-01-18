@@ -68,12 +68,12 @@
 | 20240118T13:27:38Z | Null | https://github.com/AkshatM1707/Automated-Exploitation-of-SQL-Injection | 0 | 0| 
 | 20240118T13:25:32Z | Null | https://github.com/VoidXII/S6-L4---La-fase-di-exploit-Gli-attacchi-alle-Reti | 0 | 0| 
 | 20240118T13:16:26Z | Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google%s Tsunami, Ostorlab%s Asteroid and Bug Bounty programs. | https://github.com/Ostorlab/KEV | 323 | 12| 
+| 20240118T13:04:54Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5789 | 729| 
 | 20240118T11:34:34Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5661 | 1095| 
 | 20240118T02:34:51Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 781 | 185| 
 | 20240118T02:33:06Z | DrM, a visual RL algorithm, minimizes the dormant ratio to guide exploration-exploitation trade-offs, achieving significant improvements in sample efficiency and asymptotic performance across diverse domains. | https://github.com/XuGW-Kevin/DrM | 8 | 0| 
 | 20240118T02:10:49Z | This project is a project written in the Bash language. It aims to provide a stable Shell to the attacker in the post-exploitation phase after compromising a server. | https://github.com/dTMP3st/PostKey | 0 | 0| 
 | 20240118T00:42:54Z | a demonstration of how the dependency-confusion attack with npm works  | https://github.com/SaintArthur/demo-dependency-confusion-exploit-ex | 0 | 0| 
-| 20240118T00:00:28Z | Code repository for the functions used in the experiments in the paper %Exploiting Trust for Resilent Hypothesis Testing with Malicious Robots% | https://github.com/mcavorsi/Adversarial_Hypothesis_Testing | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -114,6 +114,7 @@
 | 20240117T22:11:59Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 118 | 11| 
 | 20240117T13:53:48Z | Null | https://github.com/Compass-All/NDSS24-CAGE | 1 | 0| 
 | 20240114T22:46:07Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 110 | 4| 
+| 20240113T11:22:58Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/puzhuoliu/Computer-Security-Conference-Acceptance-Rate | 37 | 2| 
 
 
 # fuzz on Github 推荐
