@@ -119,6 +119,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240118T13:29:04Z | Null | https://github.com/Flagjackhub-hub2021/fuzzy-dollop | 0 | 0| 
 | 20240118T13:25:55Z | Null | https://github.com/fabroercost/FuzzyProbabilisticTSCRepresentation | 0 | 0| 
 | 20240118T13:10:54Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4995 | 1189| 
 | 20240118T12:57:42Z | Null | https://github.com/vlad-dembel/fuzzy-sweater | 0 | 0| 
@@ -128,7 +129,6 @@
 | 20240118T09:58:37Z | Null | https://github.com/xdmeen/fuzzy-sweater | 0 | 0| 
 | 20240118T09:57:53Z | Null | https://github.com/Sina-H-S/Fuzzy_Project | 0 | 0| 
 | 20240118T07:48:20Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 250 | 40| 
-| 20240118T02:55:57Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51434 | 23484| 
 
 
 
