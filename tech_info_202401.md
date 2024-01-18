@@ -73,7 +73,7 @@
 | 20240118T00:00:28Z | Code repository for the functions used in the experiments in the paper %Exploiting Trust for Resilent Hypothesis Testing with Malicious Robots% | https://github.com/mcavorsi/Adversarial_Hypothesis_Testing | 0 | 0| 
 | 20240117T20:00:00Z | A linearity-exploiting sparse nonlinear constrained optimization problem solver that uses the interior-point method. | https://github.com/SleipnirGroup/Sleipnir | 22 | 6| 
 | 20240117T17:27:33Z | Null | https://github.com/MysticalMike60t/exploits | 0 | 0| 
-| 20240117T13:01:31Z | End-to-end AI system to automatically detect green areas and trees in orthophotos.   The aim is to automate the orthophotos labeling and processing pipeline of the Florence municipality, with urban and environmental purposes.  In the specific, state-of-the-art segmentation and object detection models have been exploited.  | https://github.com/GiggioIlGriggio/green_areas_detection | 0 | 0| 
+| 20240117T16:04:19Z | Sticky notes for pentesting, bug bounty, CTF. | https://github.com/hideckies/exploit-notes | 452 | 100| 
 
 
 # backdoor on Github 推荐
