@@ -119,13 +119,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240118T02:45:26Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51433 | 23484| 
 | 20240118T02:39:17Z | Null | https://github.com/sfsugy36/fuzzy-palm-tree | 0 | 0| 
 | 20240118T02:24:53Z | A trivial fuzzer using libafl | https://github.com/twizmwazin/trivial-fuzzer | 0 | 0| 
 | 20240118T00:38:11Z | Null | https://github.com/v-a-n-o-o/fuzzy-sweater | 0 | 0| 
 | 20240118T00:06:38Z | Null | https://github.com/walruslaw/fuzzy-stream | 0 | 0| 
 | 20240117T23:59:52Z | Null | https://github.com/temnikov-vb/fuzzy-sweater | 0 | 0| 
 | 20240117T23:57:41Z | Null | https://github.com/veronika-sidorova/fuzzy-sweater | 0 | 0| 
-| 20240117T23:32:39Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51432 | 23484| 
 | 20240117T23:10:14Z | A comparison of solidity fuzzing tools Foundry, Echidna & Medusa | https://github.com/devdacian/solidity-fuzzing-comparison | 64 | 8| 
 | 20240117T22:40:02Z | Null | https://github.com/jonahberean/fuzzy | 0 | 0| 
 | 20240117T15:59:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9317 | 2091| 
