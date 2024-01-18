@@ -26,8 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240118T02:14:57Z | CVE-2024-22145 | InstaWP Connect <= 0.1.0.8 - Missing Authorization to Arbitrary Options Update (Subscriber+) | https://github.com/RandomRobbieBF/CVE-2024-22145 | | 
 | 20240118T01:42:05Z | CVE-2023-46805 | Null | https://github.com/duy-31/CVE-2023-46805_CVE-2024-21887 | | 
-| 20240118T01:41:10Z | CVE-2024-22145 | InstaWP Connect <= 0.1.0.8 - Missing Authorization to Arbitrary Options Update (Subscriber+) | https://github.com/RandomRobbieBF/CVE-2024-22145 | | 
 | 20240117T23:18:29Z | CVE-2023-49339 | Critical Security Vulnerability in Ellucian Banner System | https://github.com/3zizme/CVE-2023-49339 | | 
 | 20240117T22:42:47Z | CVE-2023-22527 | CVE-2023-22527 - RCE (Remote Code Execution) Vulnerability In Confluence Data Center and Confluence Server PoC | https://github.com/Avento/CVE-2023-22527_Confluence_RCE | | 
 | 20240117T16:24:53Z | CVE-2023-22527 | Null | https://github.com/Sudistark/patch-diff-CVE-2023-22527 | | 
