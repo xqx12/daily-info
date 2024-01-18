@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240118T12:12:49Z | Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google%s Tsunami, Ostorlab%s Asteroid and Bug Bounty programs. | https://github.com/Ostorlab/KEV | 322 | 12| 
 | 20240118T11:34:34Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5661 | 1095| 
 | 20240118T02:34:51Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 781 | 185| 
 | 20240118T02:33:06Z | DrM, a visual RL algorithm, minimizes the dormant ratio to guide exploration-exploitation trade-offs, achieving significant improvements in sample efficiency and asymptotic performance across diverse domains. | https://github.com/XuGW-Kevin/DrM | 8 | 0| 
@@ -73,7 +74,6 @@
 | 20240117T20:00:00Z | A linearity-exploiting sparse nonlinear constrained optimization problem solver that uses the interior-point method. | https://github.com/SleipnirGroup/Sleipnir | 22 | 6| 
 | 20240117T17:27:33Z | Null | https://github.com/MysticalMike60t/exploits | 0 | 0| 
 | 20240117T13:01:31Z | End-to-end AI system to automatically detect green areas and trees in orthophotos.   The aim is to automate the orthophotos labeling and processing pipeline of the Florence municipality, with urban and environmental purposes.  In the specific, state-of-the-art segmentation and object detection models have been exploited.  | https://github.com/GiggioIlGriggio/green_areas_detection | 0 | 0| 
-| 20240117T12:54:12Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 240 | 19| 
 
 
 # backdoor on Github 推荐
@@ -109,11 +109,11 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240118T08:06:42Z | (NDSS 2024) Optimizing Decompiler Output with LLM | https://github.com/PeiweiHu/DeGPT | 3 | 0| 
 | 20240118T01:11:31Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 144 | 13| 
 | 20240117T22:11:59Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 118 | 11| 
 | 20240117T13:53:48Z | Null | https://github.com/Compass-All/NDSS24-CAGE | 1 | 0| 
 | 20240114T22:46:07Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 110 | 4| 
-| 20240109T15:30:28Z | (NDSS 2024) Optimizing Decompiler Output with LLM | https://github.com/PeiweiHu/DeGPT | 2 | 0| 
 
 
 # fuzz on Github 推荐

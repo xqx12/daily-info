@@ -46,6 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240118T12:12:49Z | Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google%s Tsunami, Ostorlab%s Asteroid and Bug Bounty programs. | https://github.com/Ostorlab/KEV | 322 | 12| 
 | 20240118T11:34:34Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5661 | 1095| 
 | 20240118T02:34:51Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 781 | 185| 
 | 20240118T02:33:06Z | DrM, a visual RL algorithm, minimizes the dormant ratio to guide exploration-exploitation trade-offs, achieving significant improvements in sample efficiency and asymptotic performance across diverse domains. | https://github.com/XuGW-Kevin/DrM | 8 | 0| 
@@ -73,6 +74,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240118T08:06:42Z | (NDSS 2024) Optimizing Decompiler Output with LLM | https://github.com/PeiweiHu/DeGPT | 3 | 0| 
 | 20240118T01:11:31Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 144 | 13| 
 
 
