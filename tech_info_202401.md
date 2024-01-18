@@ -94,6 +94,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240118T05:14:56Z | A symbolic execution engine for EVM smart contract binaries | https://github.com/ucsb-seclab/greed | 13 | 0| 
 | 20240117T17:41:43Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 727 | 129| 
 | 20240117T15:57:56Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2392 | 648| 
 | 20240116T12:19:52Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 48 | 9| 
@@ -102,7 +103,6 @@
 | 20240114T00:02:17Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 484 | 34| 
 | 20240112T21:24:57Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 10 | 3| 
 | 20240112T21:17:24Z | Unicorn: Symbolic Execution, Bounded Model Checking, and Code Optimization of RISC-V Code using Classical Solvers and Quantum Computers | https://github.com/cksystemsgroup/unicorn | 26 | 8| 
-| 20240112T15:17:34Z | A symbolic execution engine for EVM smart contract binaries | https://github.com/ucsb-seclab/greed | 12 | 0| 
 | 20240112T08:43:25Z | Protocol Inference from an executable using dynamic symbolic execution. | https://github.com/saharmi22/piseDSE | 0 | 0| 
 
 
@@ -119,16 +119,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240118T12:57:42Z | Null | https://github.com/vlad-dembel/fuzzy-sweater | 0 | 0| 
+| 20240118T12:41:17Z | Null | https://github.com/Geripanca/Fuzzy-Based-Rules-Rekomendasi-Smartphone | 0 | 0| 
+| 20240118T12:18:52Z | Null | https://github.com/web-fishmen/fuzzy-sweater | 0 | 0| 
+| 20240118T10:35:43Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 334 | 48| 
+| 20240118T10:04:14Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4994 | 1189| 
+| 20240118T09:58:37Z | Null | https://github.com/xdmeen/fuzzy-sweater | 0 | 0| 
+| 20240118T07:48:20Z | cifuzz makes fuzz tests as easy as unit tests | https://github.com/CodeIntelligenceTesting/cifuzz | 250 | 40| 
 | 20240118T02:55:57Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51434 | 23484| 
 | 20240118T02:39:17Z | Null | https://github.com/sfsugy36/fuzzy-palm-tree | 0 | 0| 
 | 20240118T02:24:53Z | A trivial fuzzer using libafl | https://github.com/twizmwazin/trivial-fuzzer | 0 | 0| 
-| 20240118T00:38:11Z | Null | https://github.com/v-a-n-o-o/fuzzy-sweater | 0 | 0| 
-| 20240118T00:06:38Z | Null | https://github.com/walruslaw/fuzzy-stream | 0 | 0| 
-| 20240117T23:59:52Z | Null | https://github.com/temnikov-vb/fuzzy-sweater | 0 | 0| 
-| 20240117T23:57:41Z | Null | https://github.com/veronika-sidorova/fuzzy-sweater | 0 | 0| 
-| 20240117T23:10:14Z | A comparison of solidity fuzzing tools Foundry, Echidna & Medusa | https://github.com/devdacian/solidity-fuzzing-comparison | 64 | 8| 
-| 20240117T22:40:02Z | Null | https://github.com/jonahberean/fuzzy | 0 | 0| 
-| 20240117T15:59:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9317 | 2091| 
 
 
 
