@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240118T13:25:47Z | CVE-2023-46805 | The script in this repository only checks whether the vulnerabilities specified in the Ivanti Connect Secure product exist. | https://github.com/raminkarimkhani1996/CVE-2023-46805_CVE-2024-21887 | | 
 | 20240118T08:49:07Z | cve-2024-22416 | CVE-2024-22416 exploit experiments | https://github.com/mindstorm38/ensimag-secu3a-cve-2024-22416 | | 
 | 20240118T08:24:08Z | CVE-2023-35001 | Exploit CVE-2023-35001 | https://github.com/mrbrelax/Exploit_CVE-2023-35001 | | 
 | 20240118T05:17:01Z | CVE-2023-7028 | Exploit for CVE-2023-7028 | https://github.com/yoryio/CVE-2023-7028 | | 
@@ -35,7 +36,6 @@
 | 20240117T22:42:47Z | CVE-2023-22527 | CVE-2023-22527 - RCE (Remote Code Execution) Vulnerability In Confluence Data Center and Confluence Server PoC | https://github.com/Avento/CVE-2023-22527_Confluence_RCE | | 
 | 20240117T16:24:53Z | CVE-2023-22527 | Null | https://github.com/Sudistark/patch-diff-CVE-2023-22527 | | 
 | 20240117T15:46:59Z | CVE-2023-6895 | Null | https://github.com/FuBoLuSec/CVE-2023-6895 | | 
-| 20240117T14:34:16Z | cve-2023-5044 | Null | https://github.com/4ARMED/cve-2023-5044 | | 
 
 
 # klee on Github 推荐
@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240118T13:25:32Z | Null | https://github.com/VoidXII/S6-L4---La-fase-di-exploit-Gli-attacchi-alle-Reti | 0 | 0| 
 | 20240118T13:16:26Z | Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google%s Tsunami, Ostorlab%s Asteroid and Bug Bounty programs. | https://github.com/Ostorlab/KEV | 323 | 12| 
 | 20240118T11:34:34Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5661 | 1095| 
 | 20240118T02:34:51Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 781 | 185| 
@@ -73,7 +74,6 @@
 | 20240118T00:00:28Z | Code repository for the functions used in the experiments in the paper %Exploiting Trust for Resilent Hypothesis Testing with Malicious Robots% | https://github.com/mcavorsi/Adversarial_Hypothesis_Testing | 0 | 0| 
 | 20240117T20:00:00Z | A linearity-exploiting sparse nonlinear constrained optimization problem solver that uses the interior-point method. | https://github.com/SleipnirGroup/Sleipnir | 22 | 6| 
 | 20240117T17:27:33Z | Null | https://github.com/MysticalMike60t/exploits | 0 | 0| 
-| 20240117T16:04:19Z | Sticky notes for pentesting, bug bounty, CTF. | https://github.com/hideckies/exploit-notes | 452 | 100| 
 
 
 # backdoor on Github 推荐
