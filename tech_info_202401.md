@@ -109,7 +109,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240118T21:23:56Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 121 | 11| 
+| 20240119T12:01:38Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 122 | 11| 
 | 20240118T08:06:42Z | (NDSS 2024) Optimizing Decompiler Output with LLM | https://github.com/PeiweiHu/DeGPT | 3 | 0| 
 | 20240118T01:11:31Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 144 | 13| 
 | 20240117T13:53:48Z | Null | https://github.com/Compass-All/NDSS24-CAGE | 1 | 0| 
