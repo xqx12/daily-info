@@ -26,10 +26,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240119T01:46:20Z | CVE-2023-46805 | Null | https://github.com/duy-31/CVE-2023-46805_CVE-2024-21887 | | 
 | 20240119T00:28:38Z | CVE-2022-28346 | A flaw was found in the Django package, which leads to a SQL injection. This flaw allows an attacker using a crafted dictionary containing malicious SQL queries to compromise the database completely. | https://github.com/kamal-marouane/CVE-2022-28346 | | 
 | 20240118T14:08:32Z | CVE-2023-22527 | Null | https://github.com/Sudistark/patch-diff-CVE-2023-22527 | | 
 | 20240118T13:57:46Z | CVE-2023-46805 | The script in this repository only checks whether the vulnerabilities specified in the Ivanti Connect Secure product exist. | https://github.com/raminkarimkhani1996/CVE-2023-46805_CVE-2024-21887 | | 
-| 20240118T13:38:16Z | CVE-2023-46805 | Null | https://github.com/duy-31/CVE-2023-46805_CVE-2024-21887 | | 
 | 20240118T08:49:07Z | cve-2024-22416 | CVE-2024-22416 exploit experiments | https://github.com/mindstorm38/ensimag-secu3a-cve-2024-22416 | | 
 | 20240118T08:24:08Z | CVE-2023-35001 | Exploit CVE-2023-35001 | https://github.com/mrbrelax/Exploit_CVE-2023-35001 | | 
 | 20240118T05:17:01Z | CVE-2023-7028 | Exploit for CVE-2023-7028 | https://github.com/yoryio/CVE-2023-7028 | | 
@@ -41,9 +41,9 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240119T01:46:35Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2393 | 648| 
 | 20240118T23:23:50Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14981 | 449| 
 | 20240117T23:59:55Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 428 | 9| 
-| 20240117T15:57:56Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2392 | 648| 
 | 20240116T11:16:22Z | A customer management system for personal usage. The program is responsible for managing customers such as creating, updating and deleting as well as other functions such a invoice and statement generation. | https://github.com/terrychitter/kleenbin-cms | 0 | 0| 
 | 20240113T22:52:11Z | Null | https://github.com/Kleeiner21/klee | 0 | 0| 
 | 20240111T12:12:44Z | Config files for my GitHub profile. | https://github.com/Kleezyy/Kleezyy | 0 | 0| 
