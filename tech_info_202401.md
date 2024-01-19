@@ -64,10 +64,10 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240119T02:08:58Z | Null | https://github.com/Riotscripter/RiotExploits | 0 | 0| 
 | 20240119T01:56:13Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0026-app-d51Tf-exploit-spend | 0 | 0| 
 | 20240119T01:53:45Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0022-app-3eCSS-exploit-have | 0 | 0| 
 | 20240119T01:34:00Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0057-app-olgsO-exploit-alter | 0 | 0| 
-| 20240119T01:23:13Z | Null | https://github.com/Riotscripter/RiotExploits | 0 | 0| 
 | 20240119T00:38:58Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-xs | 1 | 0| 
 | 20240119T00:38:01Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-xs | 1 | 0| 
 | 20240119T00:37:20Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-xs | 1 | 0| 
