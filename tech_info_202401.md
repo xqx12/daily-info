@@ -68,12 +68,12 @@
 | 20240119T13:14:54Z | CVE-2024-22416 exploit experiments | https://github.com/mindstorm38/ensimag-secu3a-cve-2024-22416 | 0 | 0| 
 | 20240119T13:08:34Z | Most ERC20 contracts have a permit function that can be called, while WETH does not.  | https://github.com/wezzcoetzee/weth-permit-exploit | 0 | 0| 
 | 20240119T12:18:33Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5669 | 1097| 
+| 20240119T10:16:11Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5791 | 729| 
 | 20240119T10:13:21Z | Null | https://github.com/FFJ1/Roblox-Exploits | 1 | 0| 
 | 20240119T02:59:43Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 782 | 186| 
 | 20240119T02:08:58Z | Null | https://github.com/Riotscripter/RiotExploits | 0 | 0| 
 | 20240119T01:56:13Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0026-app-d51Tf-exploit-spend | 0 | 0| 
 | 20240119T01:53:45Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0022-app-3eCSS-exploit-have | 0 | 0| 
-| 20240119T01:34:00Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0057-app-olgsO-exploit-alter | 0 | 0| 
 
 
 # backdoor on Github 推荐
