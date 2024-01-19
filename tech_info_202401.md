@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240119T01:34:00Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0057-app-olgsO-exploit-alter | 0 | 0| 
 | 20240119T01:23:13Z | Null | https://github.com/Riotscripter/RiotExploits | 0 | 0| 
 | 20240119T00:38:58Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-xs | 1 | 0| 
 | 20240119T00:38:01Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-xs | 1 | 0| 
@@ -73,7 +74,6 @@
 | 20240118T15:11:22Z | External cheat for Rainbow Six Siege offering ESP, aimbot, and various tactical advantages. | https://github.com/Maskorws/Klar-gg-Rainbow-Six-Siege-RS6-Esp-NoRroil-Hwid-Spoofer-Exploit | 1 | 0| 
 | 20240118T13:36:26Z | All Tools for DarkCool Hacking Event! List:~ Exploiter, Checker, Webshell Finder, Grabber, Search, Bruteforce, Random and Other Tools | https://github.com/ziffir12/DarkTullLinux | 0 | 0| 
 | 20240118T13:27:38Z | Null | https://github.com/AkshatM1707/Automated-Exploitation-of-SQL-Injection | 0 | 0| 
-| 20240118T13:25:32Z | Null | https://github.com/VoidXII/S6-L4---La-fase-di-exploit-Gli-attacchi-alle-Reti | 0 | 0| 
 
 
 # backdoor on Github 推荐
