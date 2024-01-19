@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240119T12:58:22Z | CVE-2023-28588 | Null | https://github.com/uthrasri/CVE-2023-28588_Singlefile | | 
+| 20240119T13:06:38Z | CVE-2023-28588 | Null | https://github.com/uthrasri/CVE-2023-28588_Singlefile | | 
 | 20240119T09:22:19Z | CVE-2024-22411 | Null | https://github.com/tamaloa/avo-CVE-2024-22411 | | 
 | 20240119T08:13:06Z | CVE-2023-46805 | Null | https://github.com/mickdec/CVE-2023-46805_CVE-2024-21887_scan_grouped | | 
 | 20240119T07:27:56Z | CVE-2023-46805 | CVE-2023-46805 scanner for possible vulnerable Ivanti Connect Secure appliances by country using Shodan. | https://github.com/yoryio/CVE-2023-46805 | | 
