@@ -64,6 +64,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240119T01:56:13Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0026-app-d51Tf-exploit-spend | 0 | 0| 
+| 20240119T01:53:45Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0022-app-3eCSS-exploit-have | 0 | 0| 
 | 20240119T01:34:00Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0057-app-olgsO-exploit-alter | 0 | 0| 
 | 20240119T01:23:13Z | Null | https://github.com/Riotscripter/RiotExploits | 0 | 0| 
 | 20240119T00:38:58Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-xs | 1 | 0| 
@@ -72,8 +74,6 @@
 | 20240119T00:36:14Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-xs | 1 | 0| 
 | 20240118T20:17:24Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5666 | 1096| 
 | 20240118T15:11:22Z | External cheat for Rainbow Six Siege offering ESP, aimbot, and various tactical advantages. | https://github.com/Maskorws/Klar-gg-Rainbow-Six-Siege-RS6-Esp-NoRroil-Hwid-Spoofer-Exploit | 1 | 0| 
-| 20240118T13:36:26Z | All Tools for DarkCool Hacking Event! List:~ Exploiter, Checker, Webshell Finder, Grabber, Search, Bruteforce, Random and Other Tools | https://github.com/ziffir12/DarkTullLinux | 0 | 0| 
-| 20240118T13:27:38Z | Null | https://github.com/AkshatM1707/Automated-Exploitation-of-SQL-Injection | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -120,6 +120,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240119T01:58:17Z | Null | https://github.com/wb913562a/fuzzy-sweater | 0 | 0| 
 | 20240119T01:27:51Z | Null | https://github.com/ahmed2132013/fuzzy-funicular | 0 | 0| 
 | 20240119T01:05:56Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51457 | 23486| 
 | 20240119T00:42:38Z | Null | https://github.com/somireddy11/fuzzy-octo-funicular | 0 | 0| 
@@ -129,7 +130,6 @@
 | 20240118T13:37:02Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST, GraphQL and RPC (e.g., gRPC and Thrift). | https://github.com/EMResearch/EvoMaster | 396 | 73| 
 | 20240118T13:29:04Z | Null | https://github.com/Flagjackhub-hub2021/fuzzy-dollop | 0 | 0| 
 | 20240118T13:25:55Z | Null | https://github.com/fabroercost/FuzzyProbabilisticTSCRepresentation | 0 | 0| 
-| 20240118T13:10:54Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4995 | 1189| 
 
 
 
