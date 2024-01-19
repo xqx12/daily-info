@@ -73,7 +73,6 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240118T22:44:37Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 728 | 129| 
 | 20240118T20:20:21Z | A symbolic execution engine for EVM smart contract binaries | https://github.com/ucsb-seclab/greed | 14 | 0| 
 
 
