@@ -59,6 +59,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240119T13:20:21Z | [ JustStoneTransferProtocol&Backdoor ]  This project stems from my interest in protocols and security, leading to the creation of a small backdoor and a proprietary protocol. | https://github.com/3QNRpDwD/JustStone | 0 | 0| 
+| 20240119T13:18:07Z | connect-4 backdoor game | https://github.com/pacifiquem/backdoor-game | 2 | 1| 
 | 20240119T12:42:43Z | Generador de backdoors para cualquier sistema operativo | https://github.com/SrMai/backdoor-generator | 1 | 0| 
 | 20240119T11:16:29Z | Backdoor game netsec assignment | https://github.com/mugishap/netsec-backdoor | 0 | 0| 
 | 20240119T10:59:43Z | This code creates backdoor admin access to any WordPress site. | https://github.com/evilleta/Admin-Backdoor | 0 | 0| 
