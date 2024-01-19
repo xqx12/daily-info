@@ -25,6 +25,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240118T14:08:32Z | CVE-2023-22527 | Null | https://github.com/Sudistark/patch-diff-CVE-2023-22527 | | 
 | 20240118T13:57:46Z | CVE-2023-46805 | The script in this repository only checks whether the vulnerabilities specified in the Ivanti Connect Secure product exist. | https://github.com/raminkarimkhani1996/CVE-2023-46805_CVE-2024-21887 | | 
 | 20240118T13:38:16Z | CVE-2023-46805 | Null | https://github.com/duy-31/CVE-2023-46805_CVE-2024-21887 | | 
 | 20240118T08:49:07Z | cve-2024-22416 | CVE-2024-22416 exploit experiments | https://github.com/mindstorm38/ensimag-secu3a-cve-2024-22416 | | 
@@ -36,7 +37,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240118T13:43:39Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14976 | 450| 
+| 20240118T23:23:50Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 14981 | 449| 
 
 
 # s2e on Github 推荐
@@ -47,12 +48,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240118T20:17:24Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5666 | 1096| 
 | 20240118T13:36:26Z | All Tools for DarkCool Hacking Event! List:~ Exploiter, Checker, Webshell Finder, Grabber, Search, Bruteforce, Random and Other Tools | https://github.com/ziffir12/DarkTullLinux | 0 | 0| 
 | 20240118T13:27:38Z | Null | https://github.com/AkshatM1707/Automated-Exploitation-of-SQL-Injection | 0 | 0| 
 | 20240118T13:25:32Z | Null | https://github.com/VoidXII/S6-L4---La-fase-di-exploit-Gli-attacchi-alle-Reti | 0 | 0| 
 | 20240118T13:16:26Z | Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google%s Tsunami, Ostorlab%s Asteroid and Bug Bounty programs. | https://github.com/Ostorlab/KEV | 323 | 12| 
 | 20240118T13:04:54Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5789 | 729| 
-| 20240118T11:34:34Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5661 | 1095| 
 | 20240118T02:34:51Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 781 | 185| 
 | 20240118T02:33:06Z | DrM, a visual RL algorithm, minimizes the dormant ratio to guide exploration-exploitation trade-offs, achieving significant improvements in sample efficiency and asymptotic performance across diverse domains. | https://github.com/XuGW-Kevin/DrM | 8 | 0| 
 | 20240118T02:10:49Z | This project is a project written in the Bash language. It aims to provide a stable Shell to the attacker in the post-exploitation phase after compromising a server. | https://github.com/dTMP3st/PostKey | 0 | 0| 
@@ -86,16 +87,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240118T23:43:56Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51456 | 23486| 
+| 20240118T21:43:17Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5147 | 557| 
+| 20240118T21:31:40Z | Null | https://github.com/AbedAmouneh/fuzzieplushie | 0 | 0| 
+| 20240118T20:09:57Z | Null | https://github.com/cwccie/fuzzy-artmap_bash-install | 0 | 0| 
 | 20240118T13:37:02Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST, GraphQL and RPC (e.g., gRPC and Thrift). | https://github.com/EMResearch/EvoMaster | 396 | 73| 
 | 20240118T13:29:04Z | Null | https://github.com/Flagjackhub-hub2021/fuzzy-dollop | 0 | 0| 
 | 20240118T13:25:55Z | Null | https://github.com/fabroercost/FuzzyProbabilisticTSCRepresentation | 0 | 0| 
 | 20240118T13:10:54Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 4995 | 1189| 
 | 20240118T12:57:42Z | Null | https://github.com/vlad-dembel/fuzzy-sweater | 0 | 0| 
 | 20240118T12:41:17Z | Null | https://github.com/Geripanca/Fuzzy-Based-Rules-Rekomendasi-Smartphone | 0 | 0| 
-| 20240118T12:18:52Z | Null | https://github.com/web-fishmen/fuzzy-sweater | 0 | 0| 
-| 20240118T10:35:43Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 334 | 48| 
-| 20240118T09:58:37Z | Null | https://github.com/xdmeen/fuzzy-sweater | 0 | 0| 
-| 20240118T09:57:53Z | Null | https://github.com/Sina-H-S/Fuzzy_Project | 0 | 0| 
 
 
 
