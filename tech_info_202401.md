@@ -73,7 +73,7 @@
 | 20240119T00:37:20Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-xs | 1 | 0| 
 | 20240119T00:36:14Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-xs | 1 | 0| 
 | 20240118T20:17:24Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5666 | 1096| 
-| 20240118T15:11:22Z | External cheat for Rainbow Six Siege offering ESP, aimbot, and various tactical advantages. | https://github.com/Maskorws/Klar-gg-Rainbow-Six-Siege-RS6-Esp-NoRroil-Hwid-Spoofer-Exploit | 1 | 0| 
+| 20240118T16:01:51Z | A terminal for the Splashtop Business app exploit on ChromeOS. Find for information at 3kh0/ext-remover soon...? | https://github.com/Sxri/splashtop-business-terminal | 0 | 0| 
 
 
 # backdoor on Github 推荐
