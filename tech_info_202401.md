@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240119T13:17:16Z | CVE-2023-33902 | Null | https://github.com/uthrasri/CVE-2023-33902_single_file | | 
+| 20240119T13:18:00Z | CVE-2023-33902 | Null | https://github.com/uthrasri/CVE-2023-33902_single_file | | 
 | 20240119T13:14:54Z | cve-2024-22416 | CVE-2024-22416 exploit experiments | https://github.com/mindstorm38/ensimag-secu3a-cve-2024-22416 | | 
 | 20240119T13:06:38Z | CVE-2023-28588 | Null | https://github.com/uthrasri/CVE-2023-28588_Singlefile | | 
 | 20240119T09:22:19Z | CVE-2024-22411 | Null | https://github.com/tamaloa/avo-CVE-2024-22411 | | 
@@ -120,6 +120,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240119T13:17:01Z | Null | https://github.com/fabroercost/FuzzyProbabilisticTSCRepresentation | 0 | 0| 
 | 20240119T12:06:56Z | Null | https://github.com/threatcode/fuzznet | 0 | 0| 
 | 20240119T11:50:45Z | Null | https://github.com/pstrzalk/fuzzy-text-search | 0 | 0| 
 | 20240119T11:24:49Z | Generate random UUIDs - Awesome for fuzzing. | https://github.com/mateofumis/UUID-Generator | 1 | 0| 
@@ -129,7 +130,6 @@
 | 20240119T02:31:54Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51458 | 23487| 
 | 20240119T01:58:17Z | Null | https://github.com/wb913562a/fuzzy-sweater | 0 | 0| 
 | 20240119T01:27:51Z | Null | https://github.com/ahmed2132013/fuzzy-funicular | 0 | 0| 
-| 20240119T00:42:38Z | Null | https://github.com/somireddy11/fuzzy-octo-funicular | 0 | 0| 
 
 
 
