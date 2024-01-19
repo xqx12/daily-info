@@ -74,12 +74,14 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240118T05:14:56Z | A symbolic execution engine for EVM smart contract binaries | https://github.com/ucsb-seclab/greed | 13 | 0| 
+| 20240118T22:44:37Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 728 | 129| 
+| 20240118T20:20:21Z | A symbolic execution engine for EVM smart contract binaries | https://github.com/ucsb-seclab/greed | 14 | 0| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240118T21:23:56Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 121 | 11| 
 | 20240118T08:06:42Z | (NDSS 2024) Optimizing Decompiler Output with LLM | https://github.com/PeiweiHu/DeGPT | 3 | 0| 
 | 20240118T01:11:31Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 144 | 13| 
 
