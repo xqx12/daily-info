@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240119T13:17:16Z | CVE-2023-33902 | Null | https://github.com/uthrasri/CVE-2023-33902_single_file | | 
 | 20240119T13:14:54Z | cve-2024-22416 | CVE-2024-22416 exploit experiments | https://github.com/mindstorm38/ensimag-secu3a-cve-2024-22416 | | 
 | 20240119T13:06:38Z | CVE-2023-28588 | Null | https://github.com/uthrasri/CVE-2023-28588_Singlefile | | 
 | 20240119T09:22:19Z | CVE-2024-22411 | Null | https://github.com/tamaloa/avo-CVE-2024-22411 | | 
@@ -35,7 +36,6 @@
 | 20240119T00:28:38Z | CVE-2022-28346 | A flaw was found in the Django package, which leads to a SQL injection. This flaw allows an attacker using a crafted dictionary containing malicious SQL queries to compromise the database completely. | https://github.com/kamal-marouane/CVE-2022-28346 | | 
 | 20240118T14:08:32Z | CVE-2023-22527 | Null | https://github.com/Sudistark/patch-diff-CVE-2023-22527 | | 
 | 20240118T13:57:46Z | CVE-2023-46805 | The script in this repository only checks whether the vulnerabilities specified in the Ivanti Connect Secure product exist. | https://github.com/raminkarimkhani1996/CVE-2023-46805_CVE-2024-21887 | | 
-| 20240118T08:24:08Z | CVE-2023-35001 | Exploit CVE-2023-35001 | https://github.com/mrbrelax/Exploit_CVE-2023-35001 | | 
 
 
 # klee on Github 推荐
