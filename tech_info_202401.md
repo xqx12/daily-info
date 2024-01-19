@@ -69,11 +69,11 @@
 | 20240119T00:37:20Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-xs | 1 | 0| 
 | 20240119T00:36:14Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-xs | 1 | 0| 
 | 20240118T20:17:24Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5666 | 1096| 
+| 20240118T15:11:22Z | External cheat for Rainbow Six Siege offering ESP, aimbot, and various tactical advantages. | https://github.com/Maskorws/Klar-gg-Rainbow-Six-Siege-RS6-Esp-NoRroil-Hwid-Spoofer-Exploit | 1 | 0| 
 | 20240118T13:36:26Z | All Tools for DarkCool Hacking Event! List:~ Exploiter, Checker, Webshell Finder, Grabber, Search, Bruteforce, Random and Other Tools | https://github.com/ziffir12/DarkTullLinux | 0 | 0| 
 | 20240118T13:27:38Z | Null | https://github.com/AkshatM1707/Automated-Exploitation-of-SQL-Injection | 0 | 0| 
 | 20240118T13:25:32Z | Null | https://github.com/VoidXII/S6-L4---La-fase-di-exploit-Gli-attacchi-alle-Reti | 0 | 0| 
 | 20240118T13:16:26Z | Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google%s Tsunami, Ostorlab%s Asteroid and Bug Bounty programs. | https://github.com/Ostorlab/KEV | 323 | 12| 
-| 20240118T13:04:54Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5789 | 729| 
 
 
 # backdoor on Github 推荐
