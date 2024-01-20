@@ -26,23 +26,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240119T22:36:14Z | CVE-2024-0679 | ColorMag <= 3.1.2 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Plugin Installation/Activation | https://github.com/RandomRobbieBF/CVE-2024-0679 | | 
+| 20240119T20:51:45Z | CVE-2023-2255 | exploit from CVE-2023-2255 | https://github.com/Mathieuleto/CVE-2023-2255 | | 
+| 20240119T19:08:16Z | 未知编号 | Null | https://github.com/jacobadodge/Spring2024_CVENG_8160 | | 
+| 20240119T18:29:17Z | CVE-2023-4911 | Null | https://github.com/yanfernandess/Looney-Tunables-CVE-2023-4911 | | 
+| 20240119T16:44:07Z | 未知编号 | Null | https://github.com/DashaMilitskaya/cve_2023_21822 | | 
+| 20240119T14:53:26Z | CVE-2024-21887 | Remote Code Execution : Ivanti  | https://github.com/zwxxb/CVE-2024-21887 | | 
+| 20240119T14:46:51Z | CVE-2023-28588 | Null | https://github.com/uthrasri/G2.5_CVE-2023-28588 | | 
 | 20240119T13:18:00Z | CVE-2023-33902 | Null | https://github.com/uthrasri/CVE-2023-33902_single_file | | 
 | 20240119T13:14:54Z | cve-2024-22416 | CVE-2024-22416 exploit experiments | https://github.com/mindstorm38/ensimag-secu3a-cve-2024-22416 | | 
 | 20240119T13:06:38Z | CVE-2023-28588 | Null | https://github.com/uthrasri/CVE-2023-28588_Singlefile | | 
-| 20240119T09:22:19Z | CVE-2024-22411 | Null | https://github.com/tamaloa/avo-CVE-2024-22411 | | 
-| 20240119T08:13:06Z | CVE-2023-46805 | Null | https://github.com/mickdec/CVE-2023-46805_CVE-2024-21887_scan_grouped | | 
-| 20240119T07:27:56Z | CVE-2023-46805 | CVE-2023-46805 scanner for possible vulnerable Ivanti Connect Secure appliances by country using Shodan. | https://github.com/yoryio/CVE-2023-46805 | | 
-| 20240119T01:46:20Z | CVE-2023-46805 | Null | https://github.com/duy-31/CVE-2023-46805_CVE-2024-21887 | | 
-| 20240119T00:28:38Z | CVE-2022-28346 | A flaw was found in the Django package, which leads to a SQL injection. This flaw allows an attacker using a crafted dictionary containing malicious SQL queries to compromise the database completely. | https://github.com/kamal-marouane/CVE-2022-28346 | | 
-| 20240118T14:08:32Z | CVE-2023-22527 | Null | https://github.com/Sudistark/patch-diff-CVE-2023-22527 | | 
-| 20240118T13:57:46Z | CVE-2023-46805 | The script in this repository only checks whether the vulnerabilities specified in the Ivanti Connect Secure product exist. | https://github.com/raminkarimkhani1996/CVE-2023-46805_CVE-2024-21887 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240119T12:02:15Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15008 | 450| 
-| 20240119T10:23:06Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2394 | 648| 
+| 20240120T00:08:30Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2394 | 648| 
+| 20240119T21:17:09Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15007 | 450| 
+| 20240119T17:52:18Z | Null | https://github.com/adarsh2023calc/AutomateKLEE | 0 | 0| 
 | 20240119T10:04:42Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 430 | 9| 
 | 20240116T11:16:22Z | A customer management system for personal usage. The program is responsible for managing customers such as creating, updating and deleting as well as other functions such a invoice and statement generation. | https://github.com/terrychitter/kleenbin-cms | 0 | 0| 
 | 20240113T22:52:11Z | Null | https://github.com/Kleeiner21/klee | 0 | 0| 
@@ -50,7 +51,6 @@
 | 20240110T14:08:54Z | Null | https://github.com/Aadarsh-2912/KLEENEX | 0 | 0| 
 | 20240108T04:42:06Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 105 | 22| 
 | 20240106T22:53:42Z | [ICSE SEIP 2024] Broadly Enabling KLEE to Effortlessly Find Unrecoverable Errors   in Rust | https://github.com/NEUZhangy/ICSE-SEIP-2024 | 0 | 0| 
-| 20240106T20:30:50Z | Experiments with running klee on coreutils | https://github.com/riesentoaster/klee-coreutils-experiments | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -64,31 +64,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240120T01:00:48Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0019-app-UxrV6-exploit-permit | 0 | 0| 
+| 20240120T00:22:30Z | SWAB (Solitude Without A Browser) - an unblocked Google Search exploit for school Chromebooks, with a read-only file explorer. Based on my Baghdad exploit (which is similar to @Brandon421-ops%s Incognito On The Sign-In Screen exploit). | https://github.com/Quartinal/SWAB | 0 | 0| 
+| 20240119T23:20:38Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5673 | 1097| 
+| 20240119T20:08:21Z | Developed for Escape From Tarkov and written in C++ and C#. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/Maskorws/Escape-From-Tarkov-Eft-Aimbot-esp-Loots-Exploits-Max-Skills-High-Jump | 3 | 1| 
 | 20240119T13:20:21Z | [ JustStoneTransferProtocol&Backdoor ]  This project stems from my interest in protocols and security, leading to the creation of a small backdoor and a proprietary protocol. | https://github.com/3QNRpDwD/JustStone | 0 | 0| 
 | 20240119T13:14:54Z | CVE-2024-22416 exploit experiments | https://github.com/mindstorm38/ensimag-secu3a-cve-2024-22416 | 0 | 0| 
 | 20240119T13:08:34Z | Most ERC20 contracts have a permit function that can be called, while WETH does not.  | https://github.com/wezzcoetzee/weth-permit-exploit | 0 | 0| 
-| 20240119T12:18:33Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5669 | 1097| 
 | 20240119T10:16:11Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5791 | 729| 
 | 20240119T10:13:21Z | Null | https://github.com/FFJ1/Roblox-Exploits | 1 | 0| 
 | 20240119T02:59:43Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 782 | 186| 
-| 20240119T02:08:58Z | Null | https://github.com/Riotscripter/RiotExploits | 0 | 0| 
-| 20240119T01:56:13Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0026-app-d51Tf-exploit-spend | 0 | 0| 
-| 20240119T01:53:45Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0022-app-3eCSS-exploit-have | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240119T22:06:20Z | CLEAN FRESHLY CODED DRAINER, NO BACKDOOR | https://github.com/godfather9916/Multi-Network-Drainer | 1 | 0| 
+| 20240119T21:16:13Z | Windows Hacking FrameWork using Reverse Shell | https://github.com/canarddu38/DUCKSPLOIT | 83 | 15| 
+| 20240119T20:08:37Z | Null | https://github.com/OldKokoroz/Red-BackDoor | 0 | 0| 
+| 20240119T17:30:13Z | Simple Backdoor for windows (Raw files ).These are just raw files,I upload fully developed backdoors later. | https://github.com/Chandu-geesala/Windows-Backdoor | 0 | 0| 
 | 20240119T13:20:21Z | [ JustStoneTransferProtocol&Backdoor ]  This project stems from my interest in protocols and security, leading to the creation of a small backdoor and a proprietary protocol. | https://github.com/3QNRpDwD/JustStone | 0 | 0| 
 | 20240119T13:18:07Z | connect-4 backdoor game | https://github.com/pacifiquem/backdoor-game | 2 | 1| 
 | 20240119T12:42:43Z | Generador de backdoors para cualquier sistema operativo | https://github.com/SrMai/backdoor-generator | 1 | 0| 
 | 20240119T11:16:29Z | Backdoor game netsec assignment | https://github.com/mugishap/netsec-backdoor | 0 | 0| 
 | 20240119T10:59:43Z | This code creates backdoor admin access to any WordPress site. | https://github.com/evilleta/Admin-Backdoor | 0 | 0| 
 | 20240119T08:50:17Z | Application State Shortcut - Appium Backdoors Technique | https://github.com/lana-20/appium-backdoor-testing | 0 | 0| 
-| 20240118T12:41:45Z | Simple backdoor en HTML y PHP, permite ejecutar una reverse shell en bash | https://github.com/M4THsb09/sadbackdoor | 0 | 0| 
-| 20240118T09:08:32Z | PyTorch Implementation for %FIBA: Federated Invisible Backdoor Attack (ICASSP 2024)% | https://github.com/LukeZane118/FIBA | 0 | 0| 
-| 20240118T09:06:01Z | The S-500 G2 Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/Maskiow/S500-RAT-HVNC-HAPP-HIdden-BROWSER-HRDP-REVERSE-PROXY-CRYPTO-MONITOR | 2 | 0| 
-| 20240118T06:13:16Z | BitRAT CrackedIt is meticulously constructed utilizing the C++ programming language. It stands as the most recent iteration of the premier PC RAT for the year 2023. Regarded as a prized tool | https://github.com/MakShadow/Bitrat-Hvnc-Rat-Remote-Control-Av-Bypass | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -120,16 +120,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240119T13:47:29Z | jenkins测试 | https://github.com/jiangchuangege/fuzzy-system | 0 | 0| 
-| 20240119T13:17:01Z | Null | https://github.com/fabroercost/FuzzyProbabilisticTSCRepresentation | 0 | 0| 
-| 20240119T12:06:56Z | Null | https://github.com/threatcode/fuzznet | 0 | 0| 
-| 20240119T11:50:45Z | Null | https://github.com/pstrzalk/fuzzy-text-search | 0 | 0| 
-| 20240119T11:24:49Z | Generate random UUIDs - Awesome for fuzzing. | https://github.com/mateofumis/UUID-Generator | 1 | 0| 
-| 20240119T10:36:52Z | Null | https://github.com/philippeee333/fuzzy-bassoon | 0 | 0| 
-| 20240119T10:24:49Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2449 | 312| 
-| 20240119T09:47:34Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9319 | 2092| 
-| 20240119T02:31:54Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51458 | 23487| 
-| 20240119T01:58:17Z | Null | https://github.com/wb913562a/fuzzy-sweater | 0 | 0| 
+| 20240120T00:47:12Z | Null | https://github.com/tuxedoedcoot2478/fuzzy-stream | 0 | 0| 
+| 20240120T00:45:35Z | Null | https://github.com/DarksAgency/offical-fuzzcast-2024 | 1 | 0| 
+| 20240120T00:33:38Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51482 | 23487| 
+| 20240120T00:23:40Z | Null | https://github.com/Levelup202/FuzzCast | 0 | 0| 
+| 20240120T00:12:58Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1744 | 259| 
+| 20240119T23:55:23Z | Null | https://github.com/CoralieRobel/go-fuzz | 0 | 0| 
+| 20240119T23:25:58Z | Null | https://github.com/thefish23/fuzzy-moon | 0 | 0| 
+| 20240119T23:17:26Z | Null | https://github.com/Pitterx58/fuzzy-doodle | 0 | 0| 
+| 20240119T21:02:56Z | Null | https://github.com/google/fuzztest | 520 | 40| 
+| 20240119T20:00:09Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9321 | 2093| 
 
 
 
