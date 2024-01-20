@@ -120,6 +120,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240120T02:47:14Z | This tool is a directory bruteforce, fuzzer or whatever you%d like to call it. The main purpose of this tool is to bruteforce directories using %cewl% or using your own wordlist-contents. For any custom scripts, feel free to contact me at cyberorganization1@gmail.com   | https://github.com/General-0/HonestBrute | 0 | 0| 
 | 20240120T02:38:31Z | Null | https://github.com/titinets/fuzzy-sweater | 0 | 0| 
 | 20240120T02:00:20Z | Null | https://github.com/wbrboggi/fuzzy-sweater | 0 | 0| 
 | 20240120T01:44:21Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51483 | 23487| 
@@ -129,7 +130,6 @@
 | 20240120T00:45:35Z | Null | https://github.com/DarksAgency/offical-fuzzcast-2024 | 1 | 0| 
 | 20240120T00:23:40Z | Null | https://github.com/Levelup202/FuzzCast | 0 | 0| 
 | 20240120T00:12:58Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1744 | 259| 
-| 20240119T23:55:23Z | Null | https://github.com/CoralieRobel/go-fuzz | 0 | 0| 
 
 
 
