@@ -67,13 +67,13 @@
 | 20240120T01:00:48Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0019-app-UxrV6-exploit-permit | 0 | 0| 
 | 20240120T00:22:30Z | SWAB (Solitude Without A Browser) - an unblocked Google Search exploit for school Chromebooks, with a read-only file explorer. Based on my Baghdad exploit (which is similar to @Brandon421-ops%s Incognito On The Sign-In Screen exploit). | https://github.com/Quartinal/SWAB | 0 | 0| 
 | 20240119T23:20:38Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5673 | 1097| 
+| 20240119T21:16:06Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 240 | 19| 
 | 20240119T20:08:21Z | Developed for Escape From Tarkov and written in C++ and C#. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/Maskorws/Escape-From-Tarkov-Eft-Aimbot-esp-Loots-Exploits-Max-Skills-High-Jump | 3 | 1| 
 | 20240119T13:20:21Z | [ JustStoneTransferProtocol&Backdoor ]  This project stems from my interest in protocols and security, leading to the creation of a small backdoor and a proprietary protocol. | https://github.com/3QNRpDwD/JustStone | 0 | 0| 
 | 20240119T13:14:54Z | CVE-2024-22416 exploit experiments | https://github.com/mindstorm38/ensimag-secu3a-cve-2024-22416 | 0 | 0| 
 | 20240119T13:08:34Z | Most ERC20 contracts have a permit function that can be called, while WETH does not.  | https://github.com/wezzcoetzee/weth-permit-exploit | 0 | 0| 
 | 20240119T10:16:11Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5791 | 729| 
 | 20240119T10:13:21Z | Null | https://github.com/FFJ1/Roblox-Exploits | 1 | 0| 
-| 20240119T02:59:43Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 782 | 186| 
 
 
 # backdoor on Github 推荐
