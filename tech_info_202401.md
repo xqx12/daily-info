@@ -120,6 +120,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240120T02:56:09Z | Null | https://github.com/DonAleXi/fuzzy-octo-engine | 0 | 0| 
 | 20240120T02:47:14Z | This tool is a directory bruteforce, fuzzer or whatever you%d like to call it. The main purpose of this tool is to bruteforce directories using %cewl% or using your own wordlist-contents. For any custom scripts, feel free to contact me at cyberorganization1@gmail.com   | https://github.com/General-0/HonestBrute | 0 | 0| 
 | 20240120T02:38:31Z | Null | https://github.com/titinets/fuzzy-sweater | 0 | 0| 
 | 20240120T02:00:20Z | Null | https://github.com/wbrboggi/fuzzy-sweater | 0 | 0| 
@@ -129,7 +130,6 @@
 | 20240120T00:47:12Z | Null | https://github.com/tuxedoedcoot2478/fuzzy-stream | 0 | 0| 
 | 20240120T00:45:35Z | Null | https://github.com/DarksAgency/offical-fuzzcast-2024 | 1 | 0| 
 | 20240120T00:23:40Z | Null | https://github.com/Levelup202/FuzzCast | 0 | 0| 
-| 20240120T00:12:58Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1744 | 259| 
 
 
 
