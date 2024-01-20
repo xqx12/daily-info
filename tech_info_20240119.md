@@ -78,14 +78,13 @@
 | --- | --- | --- | --- | ---| 
 | 20240119T12:31:21Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 502 | 43| 
 | 20240119T11:36:23Z | A symbolic execution engine for EVM smart contract binaries | https://github.com/ucsb-seclab/greed | 15 | 1| 
-| 20240119T10:23:06Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2394 | 648| 
 | 20240119T01:50:41Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 729 | 129| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240119T12:01:38Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 122 | 11| 
+| 20240119T14:35:05Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 145 | 13| 
 
 
 # fuzz on Github 推荐
