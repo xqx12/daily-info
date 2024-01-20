@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240120T13:57:00Z | Null | https://github.com/gvcreatorsnetwork/exploits | 0 | 0| 
 | 20240120T13:38:18Z | Exploiting a buffer overflow vulnerability that exists in some brands of IP camera. | https://github.com/Kenya123/Exploiting-Trivision-NC-227WF-IP-Camera | 0 | 0| 
 | 20240120T13:09:29Z | Config files for my GitHub profile. | https://github.com/NightmareShadow4Exploit/NightmareShadow4Exploit | 0 | 0| 
 | 20240120T12:22:03Z | office macro exploit builder 🚀 opensource & free excel word macro exploit builder - oneclick silent macro exploit docx excel word pdf macro exploit xls word macro exploit excel macro exploit oneclick silent macro exploit docx excel word pdf macro exploit xls word macro exploit excel macro exploitfchqasiq | https://github.com/3kj07m054hlb/doc-macro-exploit | 0 | 0| 
@@ -73,7 +74,6 @@
 | 20240120T01:00:48Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0019-app-UxrV6-exploit-permit | 0 | 0| 
 | 20240120T00:22:30Z | SWAB (Solitude Without A Browser) - an unblocked Google Search exploit for school Chromebooks, with a read-only file explorer. Based on my Baghdad exploit (which is similar to @Brandon421-ops%s Incognito On The Sign-In Screen exploit). | https://github.com/Quartinal/SWAB | 0 | 0| 
 | 20240119T21:16:06Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 240 | 19| 
-| 20240119T21:15:45Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5792 | 729| 
 
 
 # backdoor on Github 推荐
