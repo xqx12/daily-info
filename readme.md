@@ -42,6 +42,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20240120T12:22:03Z | office macro exploit builder 🚀 opensource & free excel word macro exploit builder - oneclick silent macro exploit docx excel word pdf macro exploit xls word macro exploit excel macro exploit oneclick silent macro exploit docx excel word pdf macro exploit xls word macro exploit excel macro exploitfchqasiq | https://github.com/3kj07m054hlb/doc-macro-exploit | 0 | 0| 
+| 20240120T12:03:20Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 93 | 33| 
 | 20240120T09:04:22Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5675 | 1097| 
 | 20240120T01:00:48Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0019-app-UxrV6-exploit-permit | 0 | 0| 
 | 20240120T00:22:30Z | SWAB (Solitude Without A Browser) - an unblocked Google Search exploit for school Chromebooks, with a read-only file explorer. Based on my Baghdad exploit (which is similar to @Brandon421-ops%s Incognito On The Sign-In Screen exploit). | https://github.com/Quartinal/SWAB | 0 | 0| 
