@@ -79,7 +79,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240120T01:41:15Z | Null | https://github.com/TheOtherTridentGuy/trid3nt-backdoor | 0 | 0| 
+| 20240120T01:44:05Z | Null | https://github.com/TheOtherTridentGuy/trid3nt-backdoor | 0 | 0| 
 | 20240119T22:06:20Z | CLEAN FRESHLY CODED DRAINER, NO BACKDOOR | https://github.com/godfather9916/Multi-Network-Drainer | 1 | 0| 
 | 20240119T21:16:13Z | Windows Hacking FrameWork using Reverse Shell | https://github.com/canarddu38/DUCKSPLOIT | 83 | 15| 
 | 20240119T20:08:37Z | Null | https://github.com/OldKokoroz/Red-BackDoor | 0 | 0| 
