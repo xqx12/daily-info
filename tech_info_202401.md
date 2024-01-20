@@ -79,6 +79,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240120T01:41:15Z | Null | https://github.com/TheOtherTridentGuy/trid3nt-backdoor | 0 | 0| 
 | 20240119T22:06:20Z | CLEAN FRESHLY CODED DRAINER, NO BACKDOOR | https://github.com/godfather9916/Multi-Network-Drainer | 1 | 0| 
 | 20240119T21:16:13Z | Windows Hacking FrameWork using Reverse Shell | https://github.com/canarddu38/DUCKSPLOIT | 83 | 15| 
 | 20240119T20:08:37Z | Null | https://github.com/OldKokoroz/Red-BackDoor | 0 | 0| 
@@ -88,7 +89,6 @@
 | 20240119T12:42:43Z | Generador de backdoors para cualquier sistema operativo | https://github.com/SrMai/backdoor-generator | 1 | 0| 
 | 20240119T11:16:29Z | Backdoor game netsec assignment | https://github.com/mugishap/netsec-backdoor | 0 | 0| 
 | 20240119T10:59:43Z | This code creates backdoor admin access to any WordPress site. | https://github.com/evilleta/Admin-Backdoor | 0 | 0| 
-| 20240119T08:50:17Z | Application State Shortcut - Appium Backdoors Technique | https://github.com/lana-20/appium-backdoor-testing | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
