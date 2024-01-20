@@ -26,23 +26,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240119T22:36:14Z | CVE-2024-0679 | ColorMag <= 3.1.2 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Plugin Installation/Activation | https://github.com/RandomRobbieBF/CVE-2024-0679 | | 
+| 20240120T11:39:14Z | CVE-2022-36946 | CVE-2022-36946 linux kernel panic in netfilter_queue | https://github.com/Pwnzer0tt1/CVE-2022-36946 | | 
+| 20240120T08:06:17Z | cve-2023- | Null | https://github.com/Hkhanbing/cve-2023-poc | | 
+| 20240120T06:36:47Z | CVE-2021-24917 | CVE-2021-24917  | https://github.com/dikalasenjadatang/CVE-2021-24917 | | 
+| 20240120T06:20:38Z | CVE-2023-51385 | CVE-2023-51385-save | https://github.com/farliy-hacker/CVE-2023-51385-save | | 
+| 20240120T06:09:46Z | CVE-2023-51385 | CVE-2023-51385 | https://github.com/farliy-hacker/CVE-2023-51385 | | 
+| 20240120T05:25:47Z | CVE-2023-4911 | Null | https://github.com/yanfernandess/Looney-Tunables-CVE-2023-4911 | | 
+| 20240120T05:08:55Z | CVE-2024-0679 | ColorMag <= 3.1.2 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Plugin Installation/Activation | https://github.com/RandomRobbieBF/CVE-2024-0679 | | 
 | 20240119T20:51:45Z | CVE-2023-2255 | exploit from CVE-2023-2255 | https://github.com/Mathieuleto/CVE-2023-2255 | | 
 | 20240119T19:08:16Z | 未知编号 | Null | https://github.com/jacobadodge/Spring2024_CVENG_8160 | | 
-| 20240119T18:29:17Z | CVE-2023-4911 | Null | https://github.com/yanfernandess/Looney-Tunables-CVE-2023-4911 | | 
 | 20240119T16:44:07Z | 未知编号 | Null | https://github.com/DashaMilitskaya/cve_2023_21822 | | 
-| 20240119T14:53:26Z | CVE-2024-21887 | Remote Code Execution : Ivanti  | https://github.com/zwxxb/CVE-2024-21887 | | 
-| 20240119T14:46:51Z | CVE-2023-28588 | Null | https://github.com/uthrasri/G2.5_CVE-2023-28588 | | 
-| 20240119T13:18:00Z | CVE-2023-33902 | Null | https://github.com/uthrasri/CVE-2023-33902_single_file | | 
-| 20240119T13:14:54Z | cve-2024-22416 | CVE-2024-22416 exploit experiments | https://github.com/mindstorm38/ensimag-secu3a-cve-2024-22416 | | 
-| 20240119T13:06:38Z | CVE-2023-28588 | Null | https://github.com/uthrasri/CVE-2023-28588_Singlefile | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240120T02:04:36Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2395 | 648| 
-| 20240120T01:09:58Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15008 | 449| 
+| 20240120T12:58:01Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15014 | 450| 
+| 20240120T07:18:40Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2396 | 648| 
 | 20240119T17:52:18Z | Null | https://github.com/adarsh2023calc/AutomateKLEE | 0 | 0| 
 | 20240119T10:04:42Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 430 | 9| 
 | 20240116T11:16:22Z | A customer management system for personal usage. The program is responsible for managing customers such as creating, updating and deleting as well as other functions such a invoice and statement generation. | https://github.com/terrychitter/kleenbin-cms | 0 | 0| 
@@ -56,7 +56,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240119T10:40:18Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 370 | 84| 
+| 20240120T07:15:29Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 370 | 84| 
 | 20240115T15:07:05Z | Null | https://github.com/Icey-Developer/-s2E27-CD6EE-8DEJ-6D | 0 | 0| 
 | 20240112T15:22:59Z | Null | https://github.com/sivar2311/s2e2-pio-demo | 0 | 0| 
 
@@ -64,16 +64,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240120T12:22:03Z | office macro exploit builder 🚀 opensource & free excel word macro exploit builder - oneclick silent macro exploit docx excel word pdf macro exploit xls word macro exploit excel macro exploit oneclick silent macro exploit docx excel word pdf macro exploit xls word macro exploit excel macro exploitfchqasiq | https://github.com/3kj07m054hlb/doc-macro-exploit | 0 | 0| 
+| 20240120T09:04:22Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5675 | 1097| 
 | 20240120T01:00:48Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0019-app-UxrV6-exploit-permit | 0 | 0| 
 | 20240120T00:22:30Z | SWAB (Solitude Without A Browser) - an unblocked Google Search exploit for school Chromebooks, with a read-only file explorer. Based on my Baghdad exploit (which is similar to @Brandon421-ops%s Incognito On The Sign-In Screen exploit). | https://github.com/Quartinal/SWAB | 0 | 0| 
-| 20240119T23:20:38Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5673 | 1097| 
 | 20240119T21:16:06Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 240 | 19| 
 | 20240119T20:08:21Z | Developed for Escape From Tarkov and written in C++ and C#. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/Maskorws/Escape-From-Tarkov-Eft-Aimbot-esp-Loots-Exploits-Max-Skills-High-Jump | 3 | 1| 
 | 20240119T16:56:40Z | A platform for both policy makers and  policy owners for smart contract exploit insurance | https://github.com/cherrypopsicle/insurance-platform | 0 | 0| 
 | 20240119T13:20:21Z | [ JustStoneTransferProtocol&Backdoor ]  This project stems from my interest in protocols and security, leading to the creation of a small backdoor and a proprietary protocol. | https://github.com/3QNRpDwD/JustStone | 0 | 0| 
 | 20240119T13:14:54Z | CVE-2024-22416 exploit experiments | https://github.com/mindstorm38/ensimag-secu3a-cve-2024-22416 | 0 | 0| 
 | 20240119T13:08:34Z | Most ERC20 contracts have a permit function that can be called, while WETH does not.  | https://github.com/wezzcoetzee/weth-permit-exploit | 0 | 0| 
-| 20240119T10:16:11Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5791 | 729| 
 
 
 # backdoor on Github 推荐
@@ -120,16 +120,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240120T12:01:01Z | Web CTF challenge were made by me on i360-ctf event. You can find challenges for couple of IDOR, Header  analysis, request method change,  fuzzing.  This was my support for i-CES .  | https://github.com/patali09/i360_ctf | 0 | 0| 
+| 20240120T11:10:50Z | fuzzy search algorithm implementation | https://github.com/Fara-light/cpp_fuzzy_search | 0 | 0| 
+| 20240120T10:33:18Z | Null | https://github.com/vividdust4118/fuzzy-doodle | 0 | 0| 
+| 20240120T09:49:15Z | Null | https://github.com/ed-is-dead/fuzzy-train | 0 | 0| 
+| 20240120T09:20:38Z | Null | https://github.com/xam9ale6on3/fuzzy-stream | 0 | 0| 
 | 20240120T02:56:09Z | Null | https://github.com/DonAleXi/fuzzy-octo-engine | 0 | 0| 
 | 20240120T02:47:14Z | This tool is a directory bruteforce, fuzzer or whatever you%d like to call it. The main purpose of this tool is to bruteforce directories using %cewl% or using your own wordlist-contents. For any custom scripts, feel free to contact me at cyberorganization1@gmail.com   | https://github.com/General-0/HonestBrute | 0 | 0| 
 | 20240120T02:38:31Z | Null | https://github.com/titinets/fuzzy-sweater | 0 | 0| 
 | 20240120T02:00:20Z | Null | https://github.com/wbrboggi/fuzzy-sweater | 0 | 0| 
 | 20240120T01:44:21Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51483 | 23487| 
-| 20240120T01:16:24Z | Null | https://github.com/yandreya81/fuzzy-sweater | 0 | 0| 
-| 20240120T01:06:26Z | Null | https://github.com/eliaskosunen/scnlib-fuzz-corpus | 0 | 0| 
-| 20240120T00:47:12Z | Null | https://github.com/tuxedoedcoot2478/fuzzy-stream | 0 | 0| 
-| 20240120T00:45:35Z | Null | https://github.com/DarksAgency/offical-fuzzcast-2024 | 1 | 0| 
-| 20240120T00:23:40Z | Null | https://github.com/Levelup202/FuzzCast | 0 | 0| 
 
 
 
