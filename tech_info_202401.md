@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240121T01:58:49Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0062-app-40Ydg-discuss-exploit | 0 | 0| 
 | 20240121T01:57:09Z | office macro exploit builder 🚀 opensource & free excel word macro exploit builder - oneclick silent macro exploit docx excel word pdf macro exploit xls word macro exploit excel macro exploit oneclick silent macro exploit docx excel word pdf macro exploit xls word macro exploit excel macro exploitzbrub | https://github.com/m2kam838594x/doc-macro-exploit | 0 | 0| 
 | 20240121T01:33:55Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0012-app-3ZiOL-exploit-want | 0 | 0| 
 | 20240121T01:11:33Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0010-app-_StjL-indicate-exploit | 0 | 0| 
@@ -73,7 +74,6 @@
 | 20240121T00:55:59Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-tu | 1 | 0| 
 | 20240120T19:12:14Z | HEVD Exploit - Bypassing KVA Shadow and SMEP on Windows 10 22H2 | https://github.com/ommadawn46/HEVD-Arbitrary_Overwrite-KVA_Shadow | 0 | 0| 
 | 20240120T14:37:37Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 783 | 186| 
-| 20240120T13:57:00Z | Null | https://github.com/gvcreatorsnetwork/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
