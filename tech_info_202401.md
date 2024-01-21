@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240121T01:11:33Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0010-app-_StjL-indicate-exploit | 0 | 0| 
 | 20240121T00:58:31Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-tu | 1 | 0| 
 | 20240121T00:57:34Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-tu | 1 | 0| 
 | 20240121T00:56:54Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-tu | 1 | 0| 
@@ -73,7 +74,6 @@
 | 20240120T13:38:18Z | Exploiting a buffer overflow vulnerability that exists in some brands of IP camera. | https://github.com/Kenya123/Exploiting-Trivision-NC-227WF-IP-Camera | 0 | 0| 
 | 20240120T13:09:29Z | Config files for my GitHub profile. | https://github.com/NightmareShadow4Exploit/NightmareShadow4Exploit | 0 | 0| 
 | 20240120T12:22:03Z | office macro exploit builder 🚀 opensource & free excel word macro exploit builder - oneclick silent macro exploit docx excel word pdf macro exploit xls word macro exploit excel macro exploit oneclick silent macro exploit docx excel word pdf macro exploit xls word macro exploit excel macro exploitfchqasiq | https://github.com/3kj07m054hlb/doc-macro-exploit | 0 | 0| 
-| 20240120T12:03:20Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 93 | 33| 
 
 
 # backdoor on Github 推荐
