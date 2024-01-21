@@ -59,7 +59,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240120T20:56:23Z | Null | https://github.com/zhmzm/Poisoning_Backdoor-critical_Layers_Attack | 0 | 0| 
 | 20240120T20:26:23Z | a simple yet effective behavioral analysis program to detect abnormal patterns indicative of rootkit or backdoor activity involving monitoring system behavior and setting up rules to identify suspicious activities | https://github.com/conie151/BehavioralAnalysisBackdoorDetectionProject | 0 | 0| 
 | 20240120T18:12:39Z | Null | https://github.com/astakhiv/BackDoorsWeb | 0 | 0| 
 | 20240120T17:00:27Z | Backdoor, keylogger, mac changer, mitm, netscan, sniffer | https://github.com/h4md153v63n/Python_Security_Codes | 8 | 7| 
