@@ -120,6 +120,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240121T02:50:24Z | Null | https://github.com/YixuanGao98/Py-Blind-Image-Quality-Assessment-A-Fuzzy-Neural-Network-for-Opinion-Score-Distribution-Prediction | 2 | 0| 
 | 20240121T02:30:22Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51507 | 23491| 
 | 20240120T22:28:53Z | Null | https://github.com/MPTGits/Satellite-Collision-Fuzzy-Sets | 0 | 0| 
 | 20240120T21:42:24Z | Null | https://github.com/LFGHO-Hackaton-Auto-Fuzzer/auto-fuzzer | 1 | 0| 
@@ -129,7 +130,6 @@
 | 20240120T20:22:09Z | Null | https://github.com/FUZZYBRUSH/DataformFuzzybrush | 0 | 0| 
 | 20240120T12:01:01Z | Web CTF challenge were made by me on i360-ctf event. You can find challenges for couple of IDOR, Header  analysis, request method change,  fuzzing.  This was my support for i-CES .  | https://github.com/patali09/i360_ctf | 0 | 0| 
 | 20240120T11:10:50Z | fuzzy search algorithm implementation | https://github.com/Fara-light/cpp_fuzzy_search | 0 | 0| 
-| 20240120T10:33:18Z | Null | https://github.com/vividdust4118/fuzzy-doodle | 0 | 0| 
 
 
 
