@@ -16,6 +16,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240120T19:16:21Z | CVE-2024-21887 | exploit for ivanti | https://github.com/tucommenceapousser/CVE-2024-21887 | | 
+| 20240120T14:45:27Z | CVE-2023-7028 | Exploit of account take-over in Gitlab | https://github.com/TheRedDevil1/CVE-2023-7028 | | 
 | 20240120T11:39:14Z | CVE-2022-36946 | CVE-2022-36946 linux kernel panic in netfilter_queue | https://github.com/Pwnzer0tt1/CVE-2022-36946 | | 
 | 20240120T08:06:17Z | cve-2023- | Null | https://github.com/Hkhanbing/cve-2023-poc | | 
 | 20240120T06:36:47Z | CVE-2021-24917 | CVE-2021-24917  | https://github.com/dikalasenjadatang/CVE-2021-24917 | | 
@@ -28,8 +30,9 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240120T13:23:36Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15013 | 450| 
-| 20240120T07:18:40Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2396 | 648| 
+| 20240120T23:10:29Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2397 | 648| 
+| 20240120T21:11:56Z | Null | https://github.com/darlingklee/klee_resource | 0 | 0| 
+| 20240120T18:46:11Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15017 | 450| 
 
 
 # s2e on Github 推荐
@@ -41,6 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240120T19:12:14Z | HEVD Exploit - Bypassing KVA Shadow and SMEP on Windows 10 22H2 | https://github.com/ommadawn46/HEVD-Arbitrary_Overwrite-KVA_Shadow | 0 | 0| 
 | 20240120T13:57:00Z | Null | https://github.com/gvcreatorsnetwork/exploits | 0 | 0| 
 | 20240120T13:38:18Z | Exploiting a buffer overflow vulnerability that exists in some brands of IP camera. | https://github.com/Kenya123/Exploiting-Trivision-NC-227WF-IP-Camera | 0 | 0| 
 | 20240120T13:09:29Z | Config files for my GitHub profile. | https://github.com/NightmareShadow4Exploit/NightmareShadow4Exploit | 0 | 0| 
@@ -55,6 +59,11 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240120T20:56:23Z | Null | https://github.com/zhmzm/Poisoning_Backdoor-critical_Layers_Attack | 0 | 0| 
+| 20240120T20:26:23Z | a simple yet effective behavioral analysis program to detect abnormal patterns indicative of rootkit or backdoor activity involving monitoring system behavior and setting up rules to identify suspicious activities | https://github.com/conie151/BehavioralAnalysisBackdoorDetectionProject | 0 | 0| 
+| 20240120T18:12:39Z | Null | https://github.com/astakhiv/BackDoorsWeb | 0 | 0| 
+| 20240120T17:00:27Z | Backdoor, keylogger, mac changer, mitm, netscan, sniffer | https://github.com/h4md153v63n/Python_Security_Codes | 8 | 7| 
+| 20240120T16:46:38Z | Null | https://github.com/OldKokoroz/backdoor-ng | 0 | 0| 
 | 20240120T01:44:05Z | Null | https://github.com/TheOtherTridentGuy/trid3nt-backdoor | 0 | 0| 
 
 
@@ -73,16 +82,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240120T22:42:06Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51503 | 23491| 
+| 20240120T22:28:53Z | Null | https://github.com/MPTGits/Satellite-Collision-Fuzzy-Sets | 0 | 0| 
+| 20240120T21:42:24Z | Null | https://github.com/LFGHO-Hackaton-Auto-Fuzzer/auto-fuzzer | 1 | 0| 
+| 20240120T21:12:29Z | Pokemon App , API data obtained from https://pokeapi.co/ | https://github.com/grandpaCanCode/fuzzy-system | 0 | 0| 
+| 20240120T20:47:49Z | Null | https://github.com/octopunkk/fuzzy-disco | 1 | 0| 
+| 20240120T20:27:46Z | Test repo With public visibility | https://github.com/jlec/test-fuzzy-public | 0 | 0| 
+| 20240120T20:22:09Z | Null | https://github.com/FUZZYBRUSH/DataformFuzzybrush | 0 | 0| 
 | 20240120T12:01:01Z | Web CTF challenge were made by me on i360-ctf event. You can find challenges for couple of IDOR, Header  analysis, request method change,  fuzzing.  This was my support for i-CES .  | https://github.com/patali09/i360_ctf | 0 | 0| 
 | 20240120T11:10:50Z | fuzzy search algorithm implementation | https://github.com/Fara-light/cpp_fuzzy_search | 0 | 0| 
 | 20240120T10:33:18Z | Null | https://github.com/vividdust4118/fuzzy-doodle | 0 | 0| 
-| 20240120T09:49:15Z | Null | https://github.com/ed-is-dead/fuzzy-train | 0 | 0| 
-| 20240120T09:20:38Z | Null | https://github.com/xam9ale6on3/fuzzy-stream | 0 | 0| 
-| 20240120T02:56:09Z | Null | https://github.com/DonAleXi/fuzzy-octo-engine | 0 | 0| 
-| 20240120T02:47:14Z | This tool is a directory bruteforce, fuzzer or whatever you%d like to call it. The main purpose of this tool is to bruteforce directories using %cewl% or using your own wordlist-contents. For any custom scripts, feel free to contact me at cyberorganization1@gmail.com   | https://github.com/General-0/HonestBrute | 0 | 0| 
-| 20240120T02:38:31Z | Null | https://github.com/titinets/fuzzy-sweater | 0 | 0| 
-| 20240120T02:00:20Z | Null | https://github.com/wbrboggi/fuzzy-sweater | 0 | 0| 
-| 20240120T01:44:21Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51483 | 23487| 
 
 
 
