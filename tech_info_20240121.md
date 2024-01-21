@@ -59,6 +59,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240121T06:51:11Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 48 | 9| 
 
 
 # big4 on Github 推荐
