@@ -72,6 +72,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240121T13:24:09Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 113 | 43| 
 | 20240121T13:15:09Z | a web fuzzer using the httpipe format | https://github.com/codesoap/pfuzz | 10 | 0| 
 | 20240121T12:08:31Z | Null | https://github.com/LinneaBerge/go-fuzz | 0 | 0| 
 | 20240121T10:48:08Z | Null | https://github.com/xarlamv/fuzzy-stream | 0 | 0| 
@@ -81,7 +82,6 @@
 | 20240121T09:11:45Z | Null | https://github.com/YixuanGao98/Blind-Image-Quality-Assessment-A-Fuzzy-Neural-Network-for-Opinion-Score-Distribution-Prediction | 2 | 0| 
 | 20240121T07:07:05Z | Null | https://github.com/XxxqpxxX/Comparison-of-fuzzy-test-tools | 0 | 0| 
 | 20240121T06:05:16Z | simulink实现的模糊控制器 | https://github.com/AaaGss/fuzzy_controler_in_simulink | 0 | 0| 
-| 20240121T02:50:24Z | Null | https://github.com/YixuanGao98/Py-Blind-Image-Quality-Assessment-A-Fuzzy-Neural-Network-for-Opinion-Score-Distribution-Prediction | 2 | 0| 
 
 
 
