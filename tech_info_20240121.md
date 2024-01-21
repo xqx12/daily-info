@@ -43,9 +43,9 @@
 | 20240121T12:31:16Z | Null | https://github.com/RedbeanGit/devsecops-exploit | 0 | 0| 
 | 20240121T01:58:49Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0062-app-40Ydg-discuss-exploit | 0 | 0| 
 | 20240121T01:57:09Z | office macro exploit builder 🚀 opensource & free excel word macro exploit builder - oneclick silent macro exploit docx excel word pdf macro exploit xls word macro exploit excel macro exploit oneclick silent macro exploit docx excel word pdf macro exploit xls word macro exploit excel macro exploitzbrub | https://github.com/m2kam838594x/doc-macro-exploit | 0 | 0| 
+| 20240121T01:43:24Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5793 | 729| 
 | 20240121T01:33:55Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0012-app-3ZiOL-exploit-want | 0 | 0| 
 | 20240121T01:11:33Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0010-app-_StjL-indicate-exploit | 0 | 0| 
-| 20240121T00:58:31Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-tu | 1 | 0| 
 
 
 # backdoor on Github 推荐
