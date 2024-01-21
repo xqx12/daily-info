@@ -70,13 +70,14 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240120T07:18:40Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2396 | 648| 
+| 20240120T23:10:29Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2397 | 648| 
+| 20240120T17:38:20Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 730 | 129| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240120T00:17:05Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 123 | 11| 
+| 20240120T14:58:28Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 124 | 11| 
 
 
 # fuzz on Github 推荐

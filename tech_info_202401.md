@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240121T01:01:03Z | CVE-2023-46805 | CVE-2023-46805 scanner for possible vulnerable Ivanti Connect Secure appliances by country using Shodan. | https://github.com/yoryio/CVE-2023-46805 | | 
 | 20240120T19:16:21Z | CVE-2024-21887 | exploit for ivanti | https://github.com/tucommenceapousser/CVE-2024-21887 | | 
 | 20240120T14:45:27Z | CVE-2023-7028 | Exploit of account take-over in Gitlab | https://github.com/TheRedDevil1/CVE-2023-7028 | | 
 | 20240120T11:39:14Z | CVE-2022-36946 | CVE-2022-36946 linux kernel panic in netfilter_queue | https://github.com/Pwnzer0tt1/CVE-2022-36946 | | 
@@ -35,7 +36,6 @@
 | 20240120T06:09:46Z | CVE-2023-51385 | CVE-2023-51385 | https://github.com/farliy-hacker/CVE-2023-51385 | | 
 | 20240120T05:25:47Z | CVE-2023-4911 | Null | https://github.com/yanfernandess/Looney-Tunables-CVE-2023-4911 | | 
 | 20240120T05:08:55Z | CVE-2024-0679 | ColorMag <= 3.1.2 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Plugin Installation/Activation | https://github.com/RandomRobbieBF/CVE-2024-0679 | | 
-| 20240119T20:51:45Z | CVE-2023-2255 | exploit from CVE-2023-2255 | https://github.com/Mathieuleto/CVE-2023-2255 | | 
 
 
 # klee on Github 推荐
@@ -94,10 +94,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240120T07:18:40Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2396 | 648| 
+| 20240120T23:10:29Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2397 | 648| 
+| 20240120T17:38:20Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 730 | 129| 
 | 20240119T12:31:21Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 502 | 43| 
 | 20240119T11:36:23Z | A symbolic execution engine for EVM smart contract binaries | https://github.com/ucsb-seclab/greed | 15 | 1| 
-| 20240119T01:50:41Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 729 | 129| 
 | 20240116T12:19:52Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 48 | 9| 
 | 20240115T06:50:49Z | Protocol Inference Symbolic Execution - using dynamic symbolic execution | https://github.com/liordror/piseDSE | 1 | 1| 
 | 20240114T02:59:10Z | Null | https://github.com/leiDnedyA/ocaml_symbolic_execution | 0 | 0| 
@@ -109,7 +109,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240120T00:17:05Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 123 | 11| 
+| 20240120T14:58:28Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 124 | 11| 
 | 20240119T14:35:05Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 145 | 13| 
 | 20240118T08:06:42Z | (NDSS 2024) Optimizing Decompiler Output with LLM | https://github.com/PeiweiHu/DeGPT | 3 | 0| 
 | 20240117T13:53:48Z | Null | https://github.com/Compass-All/NDSS24-CAGE | 1 | 0| 
