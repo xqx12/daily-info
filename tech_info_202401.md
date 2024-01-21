@@ -26,16 +26,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240121T12:09:30Z | CVE-2024-21887 | exploit for ivanti | https://github.com/tucommenceapousser/CVE-2024-21887 | | 
+| 20240121T10:50:40Z | CVE-2022-38694 | This is a one-time signature verification bypass. For persistent signature verification bypass, check https://github.com/TomKing062/CVE-2022-38691_38692 | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
+| 20240121T04:33:53Z | CVE-2023-7028 | Exploit for CVE-2023-7028 | https://github.com/yoryio/CVE-2023-7028 | | 
 | 20240121T01:01:03Z | CVE-2023-46805 | CVE-2023-46805 scanner for possible vulnerable Ivanti Connect Secure appliances by country using Shodan. | https://github.com/yoryio/CVE-2023-46805 | | 
-| 20240120T19:16:21Z | CVE-2024-21887 | exploit for ivanti | https://github.com/tucommenceapousser/CVE-2024-21887 | | 
 | 20240120T14:45:27Z | CVE-2023-7028 | Exploit of account take-over in Gitlab | https://github.com/TheRedDevil1/CVE-2023-7028 | | 
 | 20240120T11:39:14Z | CVE-2022-36946 | CVE-2022-36946 linux kernel panic in netfilter_queue | https://github.com/Pwnzer0tt1/CVE-2022-36946 | | 
 | 20240120T08:06:17Z | cve-2023- | Null | https://github.com/Hkhanbing/cve-2023-poc | | 
 | 20240120T06:36:47Z | CVE-2021-24917 | CVE-2021-24917  | https://github.com/dikalasenjadatang/CVE-2021-24917 | | 
 | 20240120T06:20:38Z | CVE-2023-51385 | CVE-2023-51385-save | https://github.com/farliy-hacker/CVE-2023-51385-save | | 
 | 20240120T06:09:46Z | CVE-2023-51385 | CVE-2023-51385 | https://github.com/farliy-hacker/CVE-2023-51385 | | 
-| 20240120T05:25:47Z | CVE-2023-4911 | Null | https://github.com/yanfernandess/Looney-Tunables-CVE-2023-4911 | | 
-| 20240120T05:08:55Z | CVE-2024-0679 | ColorMag <= 3.1.2 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Plugin Installation/Activation | https://github.com/RandomRobbieBF/CVE-2024-0679 | | 
 
 
 # klee on Github 推荐
@@ -64,6 +64,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240121T12:43:28Z | Insider Threats are a form of cybersecurity challenges that are caused by insider employees/working officials inside an organization.  Why is it a challenge? Surveys tell that around 90% of the cybersecurity challenges are due to insider threats so they need to be tackled. Insiders posess unauthorized access and information that they may exploit. | https://github.com/galactic-me/Insider-Threat-Detection | 1 | 0| 
+| 20240121T12:31:16Z | Null | https://github.com/RedbeanGit/devsecops-exploit | 0 | 0| 
+| 20240121T08:13:52Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 182 | 15| 
 | 20240121T01:58:49Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0062-app-40Ydg-discuss-exploit | 0 | 0| 
 | 20240121T01:57:09Z | office macro exploit builder 🚀 opensource & free excel word macro exploit builder - oneclick silent macro exploit docx excel word pdf macro exploit xls word macro exploit excel macro exploit oneclick silent macro exploit docx excel word pdf macro exploit xls word macro exploit excel macro exploitzbrub | https://github.com/m2kam838594x/doc-macro-exploit | 0 | 0| 
 | 20240121T01:33:55Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0012-app-3ZiOL-exploit-want | 0 | 0| 
@@ -71,14 +74,14 @@
 | 20240121T00:58:31Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-tu | 1 | 0| 
 | 20240121T00:57:34Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-tu | 1 | 0| 
 | 20240121T00:56:54Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-tu | 1 | 0| 
-| 20240121T00:55:59Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-tu | 1 | 0| 
-| 20240120T19:12:14Z | HEVD Exploit - Bypassing KVA Shadow and SMEP on Windows 10 22H2 | https://github.com/ommadawn46/HEVD-Arbitrary_Overwrite-KVA_Shadow | 0 | 0| 
-| 20240120T14:37:37Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 783 | 186| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240121T12:04:28Z | VenomControl Rat is a Remote Access Tool (RAT) designed to remotely monitor and control other computers through a secure encrypted connection | https://github.com/MakShadow/VenomControl-Rat-Crack-Source | 1 | 0| 
+| 20240121T09:18:05Z | The C2 Cloud is a robust web-based C2 framework, designed to simplify the life of penetration testers. It allows easy access to compromised backdoors, just like accessing an EC2 instance in the AWS cloud. It can manage several simultaneous backdoor sessions with a user-friendly interface.  | https://github.com/govindasamyarun/c2-cloud | 10 | 0| 
+| 20240121T06:35:40Z | This Discord Rat give you the best way to control victims pc on discord. | https://github.com/0giv/HaterCollecter | 0 | 1| 
 | 20240121T01:26:23Z | Null | https://github.com/zhmzm/Poisoning_Backdoor-critical_Layers_Attack | 1 | 0| 
 | 20240120T20:26:23Z | a simple yet effective behavioral analysis program to detect abnormal patterns indicative of rootkit or backdoor activity involving monitoring system behavior and setting up rules to identify suspicious activities | https://github.com/conie151/BehavioralAnalysisBackdoorDetectionProject | 0 | 0| 
 | 20240120T18:12:39Z | Null | https://github.com/astakhiv/BackDoorsWeb | 0 | 0| 
@@ -86,9 +89,6 @@
 | 20240120T16:46:38Z | Null | https://github.com/OldKokoroz/backdoor-ng | 0 | 0| 
 | 20240120T01:44:05Z | Null | https://github.com/TheOtherTridentGuy/trid3nt-backdoor | 0 | 0| 
 | 20240119T22:06:20Z | CLEAN FRESHLY CODED DRAINER, NO BACKDOOR | https://github.com/godfather9916/Multi-Network-Drainer | 1 | 0| 
-| 20240119T21:16:13Z | Windows Hacking FrameWork using Reverse Shell | https://github.com/canarddu38/DUCKSPLOIT | 83 | 15| 
-| 20240119T20:08:37Z | Null | https://github.com/OldKokoroz/Red-BackDoor | 0 | 0| 
-| 20240119T17:30:13Z | Simple Backdoor for windows (Raw files ).These are just raw files,I upload fully developed backdoors later. | https://github.com/Chandu-geesala/Windows-Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -109,7 +109,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240120T14:58:28Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 124 | 11| 
+| 20240121T10:09:47Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 126 | 11| 
 | 20240119T14:35:05Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 145 | 13| 
 | 20240118T08:06:42Z | (NDSS 2024) Optimizing Decompiler Output with LLM | https://github.com/PeiweiHu/DeGPT | 3 | 0| 
 | 20240117T13:53:48Z | Null | https://github.com/Compass-All/NDSS24-CAGE | 1 | 0| 
@@ -120,16 +120,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240121T12:58:59Z | a web fuzzer using the httpipe format | https://github.com/codesoap/pfuzz | 8 | 0| 
+| 20240121T12:08:31Z | Null | https://github.com/LinneaBerge/go-fuzz | 0 | 0| 
+| 20240121T10:48:08Z | Null | https://github.com/xarlamv/fuzzy-stream | 0 | 0| 
+| 20240121T10:35:42Z | A Fuzzy Process Control System Sample | https://github.com/irmaan/FuzzyControlProject | 0 | 0| 
+| 20240121T10:03:12Z | Test repo With public visibility | https://github.com/jlec/test-fuzzy-public | 0 | 0| 
+| 20240121T09:22:55Z | Null | https://github.com/YixuanGao98/Mindspore--A-fuzzy-neural-network-for-opinion-score-distribution-prediction | 0 | 0| 
+| 20240121T09:11:45Z | Null | https://github.com/YixuanGao98/Blind-Image-Quality-Assessment-A-Fuzzy-Neural-Network-for-Opinion-Score-Distribution-Prediction | 2 | 0| 
+| 20240121T07:07:05Z | Null | https://github.com/XxxqpxxX/Comparison-of-fuzzy-test-tools | 0 | 0| 
+| 20240121T06:05:16Z | simulink实现的模糊控制器 | https://github.com/AaaGss/fuzzy_controler_in_simulink | 0 | 0| 
 | 20240121T02:50:24Z | Null | https://github.com/YixuanGao98/Py-Blind-Image-Quality-Assessment-A-Fuzzy-Neural-Network-for-Opinion-Score-Distribution-Prediction | 2 | 0| 
-| 20240121T02:30:22Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51507 | 23491| 
-| 20240120T22:28:53Z | Null | https://github.com/MPTGits/Satellite-Collision-Fuzzy-Sets | 0 | 0| 
-| 20240120T21:42:24Z | Null | https://github.com/LFGHO-Hackaton-Auto-Fuzzer/auto-fuzzer | 1 | 0| 
-| 20240120T21:12:29Z | Pokemon App , API data obtained from https://pokeapi.co/ | https://github.com/grandpaCanCode/fuzzy-system | 0 | 0| 
-| 20240120T20:47:49Z | Null | https://github.com/octopunkk/fuzzy-disco | 1 | 0| 
-| 20240120T20:27:46Z | Test repo With public visibility | https://github.com/jlec/test-fuzzy-public | 0 | 0| 
-| 20240120T20:22:09Z | Null | https://github.com/FUZZYBRUSH/DataformFuzzybrush | 0 | 0| 
-| 20240120T12:01:01Z | Web CTF challenge were made by me on i360-ctf event. You can find challenges for couple of IDOR, Header  analysis, request method change,  fuzzing.  This was my support for i-CES .  | https://github.com/patali09/i360_ctf | 0 | 0| 
-| 20240120T11:10:50Z | fuzzy search algorithm implementation | https://github.com/Fara-light/cpp_fuzzy_search | 0 | 0| 
 
 
 
