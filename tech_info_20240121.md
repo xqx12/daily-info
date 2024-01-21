@@ -71,7 +71,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240121T13:02:37Z | a web fuzzer using the httpipe format | https://github.com/codesoap/pfuzz | 9 | 0| 
+| 20240121T13:15:09Z | a web fuzzer using the httpipe format | https://github.com/codesoap/pfuzz | 10 | 0| 
 | 20240121T12:08:31Z | Null | https://github.com/LinneaBerge/go-fuzz | 0 | 0| 
 | 20240121T10:48:08Z | Null | https://github.com/xarlamv/fuzzy-stream | 0 | 0| 
 | 20240121T10:35:42Z | A Fuzzy Process Control System Sample | https://github.com/irmaan/FuzzyControlProject | 0 | 0| 
