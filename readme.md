@@ -72,7 +72,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240121T13:44:16Z | a web fuzzer using the httpipe format | https://github.com/codesoap/pfuzz | 14 | 0| 
+| 20240121T13:47:52Z | a web fuzzer using the httpipe format | https://github.com/codesoap/pfuzz | 15 | 0| 
 | 20240121T13:40:42Z | Null | https://github.com/gdhar3080/Fuzzy-logic-based-speed-control-of-BLDC-motor | 0 | 0| 
 | 20240121T13:24:09Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 113 | 43| 
 | 20240121T12:08:31Z | Null | https://github.com/LinneaBerge/go-fuzz | 0 | 0| 
