@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240121T13:06:46Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 94 | 34| 
 | 20240121T13:05:13Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5676 | 1097| 
 | 20240121T12:43:28Z | Insider Threats are a form of cybersecurity challenges that are caused by insider employees/working officials inside an organization.  Why is it a challenge? Surveys tell that around 90% of the cybersecurity challenges are due to insider threats so they need to be tackled. Insiders posess unauthorized access and information that they may exploit. | https://github.com/galactic-me/Insider-Threat-Detection | 1 | 0| 
 | 20240121T12:31:16Z | Null | https://github.com/RedbeanGit/devsecops-exploit | 0 | 0| 
@@ -73,7 +74,6 @@
 | 20240121T01:33:55Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0012-app-3ZiOL-exploit-want | 0 | 0| 
 | 20240121T01:11:33Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0010-app-_StjL-indicate-exploit | 0 | 0| 
 | 20240121T00:58:31Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-tu | 1 | 0| 
-| 20240121T00:57:34Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-tu | 1 | 0| 
 
 
 # backdoor on Github 推荐
