@@ -120,7 +120,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240121T01:41:19Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51506 | 23491| 
+| 20240121T02:30:22Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51507 | 23491| 
 | 20240120T22:28:53Z | Null | https://github.com/MPTGits/Satellite-Collision-Fuzzy-Sets | 0 | 0| 
 | 20240120T21:42:24Z | Null | https://github.com/LFGHO-Hackaton-Auto-Fuzzer/auto-fuzzer | 1 | 0| 
 | 20240120T21:12:29Z | Pokemon App , API data obtained from https://pokeapi.co/ | https://github.com/grandpaCanCode/fuzzy-system | 0 | 0| 
