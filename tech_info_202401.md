@@ -71,9 +71,9 @@
 | 20240121T00:56:54Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-tu | 1 | 0| 
 | 20240121T00:55:59Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-tu | 1 | 0| 
 | 20240120T19:12:14Z | HEVD Exploit - Bypassing KVA Shadow and SMEP on Windows 10 22H2 | https://github.com/ommadawn46/HEVD-Arbitrary_Overwrite-KVA_Shadow | 0 | 0| 
+| 20240120T14:37:37Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 783 | 186| 
 | 20240120T13:57:00Z | Null | https://github.com/gvcreatorsnetwork/exploits | 0 | 0| 
 | 20240120T13:38:18Z | Exploiting a buffer overflow vulnerability that exists in some brands of IP camera. | https://github.com/Kenya123/Exploiting-Trivision-NC-227WF-IP-Camera | 0 | 0| 
-| 20240120T13:09:29Z | Config files for my GitHub profile. | https://github.com/NightmareShadow4Exploit/NightmareShadow4Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐

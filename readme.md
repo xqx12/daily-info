@@ -45,6 +45,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20240120T19:12:14Z | HEVD Exploit - Bypassing KVA Shadow and SMEP on Windows 10 22H2 | https://github.com/ommadawn46/HEVD-Arbitrary_Overwrite-KVA_Shadow | 0 | 0| 
+| 20240120T14:37:37Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 783 | 186| 
 | 20240120T13:57:00Z | Null | https://github.com/gvcreatorsnetwork/exploits | 0 | 0| 
 | 20240120T13:38:18Z | Exploiting a buffer overflow vulnerability that exists in some brands of IP camera. | https://github.com/Kenya123/Exploiting-Trivision-NC-227WF-IP-Camera | 0 | 0| 
 | 20240120T13:09:29Z | Config files for my GitHub profile. | https://github.com/NightmareShadow4Exploit/NightmareShadow4Exploit | 0 | 0| 
@@ -53,7 +54,6 @@
 | 20240120T11:48:57Z | Create your own animated network visualization by exploiting a diffusion model! | https://github.com/andreafailla/Diff2GIF-Animated-Diffusion-Models | 4 | 1| 
 | 20240120T09:04:22Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5675 | 1097| 
 | 20240120T01:00:48Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0019-app-UxrV6-exploit-permit | 0 | 0| 
-| 20240120T00:22:30Z | SWAB (Solitude Without A Browser) - an unblocked Google Search exploit for school Chromebooks, with a read-only file explorer. Based on my Baghdad exploit (which is similar to @Brandon421-ops%s Incognito On The Sign-In Screen exploit). | https://github.com/Quartinal/SWAB | 0 | 0| 
 
 
 # backdoor on Github 推荐
