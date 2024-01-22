@@ -26,6 +26,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240121T22:29:46Z | Updated for symbolically identifying auto-vectorization checks with KLEE | https://github.com/weirdsmiley/polybench-c-4.2.1-beta | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -36,22 +37,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240121T20:07:16Z | these are just a lists of exploits for the discord bot %dyno% that can be used to raid / nuke servers | https://github.com/illic-it/dyno-exploits | 0 | 0| 
+| 20240121T19:56:42Z | Developed for Escape From Tarkov and written in C++ and C#. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/Maskorws/Escape-From-Tarkov-Eft-Aimbot-esp-Loots-Exploits-Max-Skills-High-Jump | 3 | 1| 
+| 20240121T14:34:03Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5677 | 1099| 
 | 20240121T13:18:41Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 183 | 15| 
 | 20240121T13:06:46Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 94 | 34| 
-| 20240121T13:05:13Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5676 | 1097| 
 | 20240121T12:43:28Z | Insider Threats are a form of cybersecurity challenges that are caused by insider employees/working officials inside an organization.  Why is it a challenge? Surveys tell that around 90% of the cybersecurity challenges are due to insider threats so they need to be tackled. Insiders posess unauthorized access and information that they may exploit. | https://github.com/galactic-me/Insider-Threat-Detection | 1 | 0| 
 | 20240121T12:31:16Z | Null | https://github.com/RedbeanGit/devsecops-exploit | 0 | 0| 
 | 20240121T01:58:49Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0062-app-40Ydg-discuss-exploit | 0 | 0| 
 | 20240121T01:57:09Z | office macro exploit builder 🚀 opensource & free excel word macro exploit builder - oneclick silent macro exploit docx excel word pdf macro exploit xls word macro exploit excel macro exploit oneclick silent macro exploit docx excel word pdf macro exploit xls word macro exploit excel macro exploitzbrub | https://github.com/m2kam838594x/doc-macro-exploit | 0 | 0| 
 | 20240121T01:43:24Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5793 | 729| 
-| 20240121T01:33:55Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0012-app-3ZiOL-exploit-want | 0 | 0| 
-| 20240121T01:11:33Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0010-app-_StjL-indicate-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240121T12:04:28Z | VenomControl Rat is a Remote Access Tool (RAT) designed to remotely monitor and control other computers through a secure encrypted connection | https://github.com/MakShadow/VenomControl-Rat-Crack-Source | 1 | 0| 
+| 20240121T22:04:37Z | VenomControl Rat is a Remote Access Tool (RAT) designed to remotely monitor and control other computers through a secure encrypted connection | https://github.com/MakShadow/VenomControl-Rat-Crack-Source | 0 | 0| 
+| 20240121T21:46:32Z | Null | https://github.com/Spiegelin/Simple-Backdoor | 0 | 0| 
+| 20240121T19:52:45Z | Null | https://github.com/tde-nico/backdoor_ctf_2023 | 0 | 0| 
 | 20240121T09:18:05Z | The C2 Cloud is a robust web-based C2 framework, designed to simplify the life of penetration testers. It allows easy access to compromised backdoors, just like accessing an EC2 instance in the AWS cloud. It can manage several simultaneous backdoor sessions with a user-friendly interface.  | https://github.com/govindasamyarun/c2-cloud | 10 | 0| 
 | 20240121T06:35:40Z | This Discord Rat give you the best way to control victims pc on discord. | https://github.com/0giv/HaterCollecter | 0 | 1| 
 | 20240121T01:26:23Z | Null | https://github.com/zhmzm/Poisoning_Backdoor-critical_Layers_Attack | 1 | 0| 
@@ -72,16 +75,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240121T23:54:04Z | Null | https://github.com/ProgrammerMikey/fuzzy-garbanzo | 0 | 0| 
+| 20240121T23:33:08Z | Null | https://github.com/kgue0001/MachineLearning-ExpertSystems_FuzzyLogic | 0 | 0| 
+| 20240121T22:58:46Z | Null | https://github.com/EOC-dev/FuzzyLogicSpeedControllerV1 | 0 | 0| 
+| 20240121T14:34:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9325 | 2093| 
 | 20240121T13:47:52Z | a web fuzzer using the httpipe format | https://github.com/codesoap/pfuzz | 15 | 0| 
 | 20240121T13:40:42Z | Null | https://github.com/gdhar3080/Fuzzy-logic-based-speed-control-of-BLDC-motor | 0 | 0| 
 | 20240121T13:24:09Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 113 | 43| 
 | 20240121T12:08:31Z | Null | https://github.com/LinneaBerge/go-fuzz | 0 | 0| 
 | 20240121T10:48:08Z | Null | https://github.com/xarlamv/fuzzy-stream | 0 | 0| 
 | 20240121T10:35:42Z | A Fuzzy Process Control System Sample | https://github.com/irmaan/FuzzyControlProject | 0 | 0| 
-| 20240121T10:03:12Z | Test repo With public visibility | https://github.com/jlec/test-fuzzy-public | 0 | 0| 
-| 20240121T09:22:55Z | Null | https://github.com/YixuanGao98/Mindspore--A-fuzzy-neural-network-for-opinion-score-distribution-prediction | 0 | 0| 
-| 20240121T09:11:45Z | Null | https://github.com/YixuanGao98/Blind-Image-Quality-Assessment-A-Fuzzy-Neural-Network-for-Opinion-Score-Distribution-Prediction | 2 | 0| 
-| 20240121T07:07:05Z | Null | https://github.com/XxxqpxxX/Comparison-of-fuzzy-test-tools | 0 | 0| 
 
 
 
