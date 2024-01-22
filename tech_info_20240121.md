@@ -39,7 +39,6 @@
 | --- | --- | --- | --- | ---| 
 | 20240121T20:07:16Z | these are just a lists of exploits for the discord bot %dyno% that can be used to raid / nuke servers | https://github.com/illic-it/dyno-exploits | 0 | 0| 
 | 20240121T19:56:42Z | Developed for Escape From Tarkov and written in C++ and C#. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/Maskorws/Escape-From-Tarkov-Eft-Aimbot-esp-Loots-Exploits-Max-Skills-High-Jump | 3 | 1| 
-| 20240121T14:24:17Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5771 | 778| 
 | 20240121T13:18:41Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 183 | 15| 
 | 20240121T13:06:46Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 94 | 34| 
 | 20240121T12:43:28Z | Insider Threats are a form of cybersecurity challenges that are caused by insider employees/working officials inside an organization.  Why is it a challenge? Surveys tell that around 90% of the cybersecurity challenges are due to insider threats so they need to be tackled. Insiders posess unauthorized access and information that they may exploit. | https://github.com/galactic-me/Insider-Threat-Detection | 1 | 0| 
@@ -47,6 +46,7 @@
 | 20240121T01:58:49Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0062-app-40Ydg-discuss-exploit | 0 | 0| 
 | 20240121T01:57:09Z | office macro exploit builder 🚀 opensource & free excel word macro exploit builder - oneclick silent macro exploit docx excel word pdf macro exploit xls word macro exploit excel macro exploit oneclick silent macro exploit docx excel word pdf macro exploit xls word macro exploit excel macro exploitzbrub | https://github.com/m2kam838594x/doc-macro-exploit | 0 | 0| 
 | 20240121T01:43:24Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5793 | 729| 
+| 20240121T01:33:55Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0012-app-3ZiOL-exploit-want | 0 | 0| 
 
 
 # backdoor on Github 推荐

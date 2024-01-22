@@ -64,6 +64,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240122T02:42:53Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5772 | 778| 
+| 20240122T02:42:47Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0013-app-DET2l-exploit-recover | 0 | 0| 
 | 20240122T02:13:04Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5679 | 1099| 
 | 20240122T02:06:04Z | Null | https://github.com/LUNAAR-SALT/Exploit | 0 | 0| 
 | 20240122T02:00:21Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0075-app-ZYeJf-touch-exploit | 0 | 0| 
@@ -72,8 +74,6 @@
 | 20240122T01:07:09Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0065-app-7pWP--stop-exploit | 0 | 0| 
 | 20240122T00:30:04Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-tf | 1 | 0| 
 | 20240122T00:29:27Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-tf | 1 | 0| 
-| 20240122T00:28:46Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-tf | 1 | 0| 
-| 20240122T00:27:27Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-tf | 1 | 0| 
 
 
 # backdoor on Github 推荐
