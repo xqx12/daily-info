@@ -68,12 +68,12 @@
 | 20240122T13:15:58Z | Null | https://github.com/VoidXII/S7-L1---La-fase-di-exploit-Gli-attacchi-alle-Reti | 0 | 0| 
 | 20240122T12:03:15Z | A game where Cardano developers and enthusiasts can try to exploit purposely vulnerable smart contracts and learn about the most common security issues and how to prevent them. | https://github.com/vacuumlabs/cardano-ctf | 1 | 0| 
 | 20240122T11:59:25Z | A Transformer Model Exploiting Histology Images and Spatial Gene Expression | https://github.com/Zhaocy-Research/TransformerST | 1 | 2| 
+| 20240122T11:57:27Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5798 | 729| 
 | 20240122T11:57:20Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 246 | 47| 
 | 20240122T11:55:37Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 11122 | 1682| 
 | 20240122T11:24:12Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 95 | 34| 
 | 20240122T09:57:00Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5682 | 1100| 
 | 20240122T07:31:32Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 784 | 186| 
-| 20240122T02:51:05Z | GitOps Repository | https://github.com/redhat-appstudio-qe/jvm-build-suite-application-becc-sRvLF-escape-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
