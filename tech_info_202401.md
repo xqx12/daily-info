@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240122T02:06:04Z | Null | https://github.com/LUNAAR-SALT/Exploit | 0 | 0| 
 | 20240122T02:00:21Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0075-app-ZYeJf-touch-exploit | 0 | 0| 
 | 20240122T01:13:23Z | Explore various tutorials around exploiting different services, the vulnerabilities around those services and best security measures for protecting your organization.  | https://github.com/ThiasCannon/CTFs | 0 | 0| 
 | 20240122T01:10:17Z | HEVD Exploit - Bypassing KVA Shadow and SMEP on Windows 10 22H2 | https://github.com/ommadawn46/HEVD-Exploit-Win10-22H2-KVAS | 1 | 0| 
@@ -73,7 +74,6 @@
 | 20240122T00:29:27Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-tf | 1 | 0| 
 | 20240122T00:28:46Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-tf | 1 | 0| 
 | 20240122T00:27:27Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-tf | 1 | 0| 
-| 20240121T20:07:16Z | these are just a lists of exploits for the discord bot %dyno% that can be used to raid / nuke servers | https://github.com/illic-it/dyno-exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
