@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240122T02:50:01Z | GitOps Repository | https://github.com/redhat-appstudio-qe/component-annotation-dotnet-component-N70bU-teach-exploit | 0 | 0| 
 | 20240122T02:42:53Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5772 | 778| 
 | 20240122T02:42:47Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0013-app-DET2l-exploit-recover | 0 | 0| 
 | 20240122T02:13:04Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5679 | 1099| 
@@ -73,7 +74,6 @@
 | 20240122T01:10:17Z | HEVD Exploit - Bypassing KVA Shadow and SMEP on Windows 10 22H2 | https://github.com/ommadawn46/HEVD-Exploit-Win10-22H2-KVAS | 1 | 0| 
 | 20240122T01:07:09Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0065-app-7pWP--stop-exploit | 0 | 0| 
 | 20240122T00:30:04Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-tf | 1 | 0| 
-| 20240122T00:29:27Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-tf | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -120,6 +120,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240122T02:51:12Z | Null | https://github.com/artemtar/artemtar-fuzzy-bot4 | 0 | 0| 
 | 20240122T02:37:26Z | A fuzzy logic controller to control the speed of dc motors in based on ultrasonic distance measurement, utilizing the SKFuzzy Python library. | https://github.com/EOC-dev/FuzzyLogicSpeedControllerV1 | 0 | 0| 
 | 20240122T02:26:56Z | Pokemon App , API data obtained from https://pokeapi.co/ | https://github.com/grandpaCanCode/fuzzy-system | 0 | 0| 
 | 20240122T00:22:02Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51522 | 23492| 
@@ -129,7 +130,6 @@
 | 20240121T13:47:52Z | a web fuzzer using the httpipe format | https://github.com/codesoap/pfuzz | 15 | 0| 
 | 20240121T13:40:42Z | Null | https://github.com/gdhar3080/Fuzzy-logic-based-speed-control-of-BLDC-motor | 0 | 0| 
 | 20240121T13:24:09Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 113 | 43| 
-| 20240121T12:08:31Z | Null | https://github.com/LinneaBerge/go-fuzz | 0 | 0| 
 
 
 
