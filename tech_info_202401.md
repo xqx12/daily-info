@@ -120,10 +120,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240122T13:47:18Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9328 | 2093| 
 | 20240122T12:25:49Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 977 | 220| 
 | 20240122T12:02:14Z | Null | https://github.com/viktorlt63/fuzzy-moon | 0 | 0| 
 | 20240122T10:18:41Z | Null | https://github.com/Fadhlan54/sistem-pendukung-keputusan-penerimaan-beasiswa-menggunakan-fuzzy-logic | 0 | 0| 
-| 20240122T07:32:31Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9327 | 2093| 
 | 20240122T07:07:03Z | A fuzzy logic controller to control the speed of dc motors in based on ultrasonic distance measurement, utilizing the SKFuzzy Python library.  | https://github.com/EOC-dev/FuzzyLogicSpeedController_V1 | 0 | 0| 
 | 20240122T02:51:12Z | Null | https://github.com/artemtar/artemtar-fuzzy-bot4 | 0 | 0| 
 | 20240122T02:37:26Z | A fuzzy logic controller to control the speed of dc motors in based on ultrasonic distance measurement, utilizing the SKFuzzy Python library. | https://github.com/EOC-dev/FuzzyLogicSpeedControllerV1 | 0 | 0| 
