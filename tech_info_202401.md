@@ -123,13 +123,13 @@
 | 20240122T12:25:49Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 977 | 220| 
 | 20240122T12:02:14Z | Null | https://github.com/viktorlt63/fuzzy-moon | 0 | 0| 
 | 20240122T10:18:41Z | Null | https://github.com/Fadhlan54/sistem-pendukung-keputusan-penerimaan-beasiswa-menggunakan-fuzzy-logic | 0 | 0| 
+| 20240122T07:32:31Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9327 | 2093| 
 | 20240122T07:07:03Z | A fuzzy logic controller to control the speed of dc motors in based on ultrasonic distance measurement, utilizing the SKFuzzy Python library.  | https://github.com/EOC-dev/FuzzyLogicSpeedController_V1 | 0 | 0| 
 | 20240122T02:51:12Z | Null | https://github.com/artemtar/artemtar-fuzzy-bot4 | 0 | 0| 
 | 20240122T02:37:26Z | A fuzzy logic controller to control the speed of dc motors in based on ultrasonic distance measurement, utilizing the SKFuzzy Python library. | https://github.com/EOC-dev/FuzzyLogicSpeedControllerV1 | 0 | 0| 
 | 20240122T02:26:56Z | Pokemon App , API data obtained from https://pokeapi.co/ | https://github.com/grandpaCanCode/fuzzy-system | 0 | 0| 
 | 20240122T00:22:02Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51522 | 23492| 
 | 20240121T23:54:04Z | Null | https://github.com/ProgrammerMikey/fuzzy-garbanzo | 0 | 0| 
-| 20240121T23:33:08Z | Null | https://github.com/kgue0001/MachineLearning-ExpertSystems_FuzzyLogic | 0 | 0| 
 
 
 
