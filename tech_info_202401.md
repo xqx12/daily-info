@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240122T02:51:05Z | GitOps Repository | https://github.com/redhat-appstudio-qe/jvm-build-suite-application-becc-sRvLF-escape-exploit | 0 | 0| 
 | 20240122T02:50:01Z | GitOps Repository | https://github.com/redhat-appstudio-qe/component-annotation-dotnet-component-N70bU-teach-exploit | 0 | 0| 
 | 20240122T02:42:53Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5772 | 778| 
 | 20240122T02:42:47Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0013-app-DET2l-exploit-recover | 0 | 0| 
@@ -73,7 +74,6 @@
 | 20240122T01:13:23Z | Explore various tutorials around exploiting different services, the vulnerabilities around those services and best security measures for protecting your organization.  | https://github.com/ThiasCannon/CTFs | 0 | 0| 
 | 20240122T01:10:17Z | HEVD Exploit - Bypassing KVA Shadow and SMEP on Windows 10 22H2 | https://github.com/ommadawn46/HEVD-Exploit-Win10-22H2-KVAS | 1 | 0| 
 | 20240122T01:07:09Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0065-app-7pWP--stop-exploit | 0 | 0| 
-| 20240122T00:30:04Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-tf | 1 | 0| 
 
 
 # backdoor on Github 推荐
