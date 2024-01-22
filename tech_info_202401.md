@@ -11,6 +11,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20240122 | 检测程序代码和文档中的错误 | https://mp.weixin.qq.com/s/1pRJSOm77CCK1Wi8IG-KNA| 
+| 20240122 | 借助大语言模型GPT-4辅助恶意代码动态分析 | https://mp.weixin.qq.com/s/zIAYb4jF-f5rsEFLNQPbww| 
 | 20240119 | 基于原生Kibana+Clickhouse构建日志平台 | https://mp.weixin.qq.com/s/T3tKYn6zE464bqTkoIa3dg| 
 | 20240118 | 大模型攻防实践 | https://xz.aliyun.com/t/13189| 
 | 20240118 | 基于QEMU的通用化模糊测试框架探索与实践 | https://xz.aliyun.com/t/13190| 
@@ -19,23 +21,21 @@
 | 20240118 | 基于LLM的多语言程序修复 | https://mp.weixin.qq.com/s/DzLbylXeCf-SkupPJXfkcg| 
 | 20240118 | 伪随机数问题浅析 | https://datacon.qianxin.com/info/information-detail?id=123| 
 | 20240118 | 审稿专家对安全顶会论文评审的见解 | https://mp.weixin.qq.com/s/3KfRB0jzC2ewYpckBDtmrA| 
-| 20240118 | 使用大模型进行软件测试：调查、现状和展望 | https://mp.weixin.qq.com/s/uUAIHhH5PqfGCxVA1xwFuw| 
-| 20240118 | 2024网络空间安全科技应重点关注六个方面 | https://mp.weixin.qq.com/s/_ekxKrrcPVQUOd8kl87NQw| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240122T11:38:56Z | CVE-2023-22527 | Null | https://github.com/Drun1baby/CVE-2023-22527 | | 
+| 20240122T09:52:00Z | CVE-2024-33333 | CVE-2024-20656 | https://github.com/xiaoqiao147/CVE-2024-33333 | | 
+| 20240122T06:44:07Z | CVE-2021-3156 | Different files for computer security coursework | https://github.com/wurwur/CVE-2021-3156 | | 
+| 20240122T06:20:26Z | CVE-2023-46604 |  Achieving a Reverse Shell Exploit for Apache ActiveMQ (CVE_2023-46604)  | https://github.com/SaumyajeetDas/CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ | | 
 | 20240122T02:46:03Z | CVE-2023-6895 | Null | https://github.com/FuBoLuSec/CVE-2023-6895 | | 
 | 20240121T13:20:28Z | CVE-2020-35489 | WordPress Sites Vulnerability Checker for CVE-2020-35489 - "Educational Use Only" | https://github.com/reneoliveirajr/wp_CVE-2020-35489_checker | | 
 | 20240121T12:09:30Z | CVE-2024-21887 | exploit for ivanti | https://github.com/tucommenceapousser/CVE-2024-21887 | | 
 | 20240121T10:50:40Z | CVE-2022-38694 | This is a one-time signature verification bypass. For persistent signature verification bypass, check https://github.com/TomKing062/CVE-2022-38691_38692 | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20240121T04:33:53Z | CVE-2023-7028 | Exploit for CVE-2023-7028 | https://github.com/yoryio/CVE-2023-7028 | | 
 | 20240121T01:01:03Z | CVE-2023-46805 | CVE-2023-46805 scanner for possible vulnerable Ivanti Connect Secure appliances by country using Shodan. | https://github.com/yoryio/CVE-2023-46805 | | 
-| 20240120T14:45:27Z | CVE-2023-7028 | Exploit of account take-over in Gitlab | https://github.com/TheRedDevil1/CVE-2023-7028 | | 
-| 20240120T11:39:14Z | CVE-2022-36946 | CVE-2022-36946 linux kernel panic in netfilter_queue | https://github.com/Pwnzer0tt1/CVE-2022-36946 | | 
-| 20240120T08:06:17Z | cve-2023- | Null | https://github.com/Hkhanbing/cve-2023-poc | | 
-| 20240120T06:36:47Z | CVE-2021-24917 | CVE-2021-24917  | https://github.com/dikalasenjadatang/CVE-2021-24917 | | 
 
 
 # klee on Github 推荐
@@ -64,21 +64,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240122T11:59:25Z | A Transformer Model Exploiting Histology Images and Spatial Gene Expression | https://github.com/Zhaocy-Research/TransformerST | 1 | 2| 
+| 20240122T11:55:37Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 11122 | 1682| 
+| 20240122T09:57:00Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5682 | 1100| 
+| 20240122T07:31:32Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 784 | 186| 
 | 20240122T02:51:05Z | GitOps Repository | https://github.com/redhat-appstudio-qe/jvm-build-suite-application-becc-sRvLF-escape-exploit | 0 | 0| 
 | 20240122T02:50:01Z | GitOps Repository | https://github.com/redhat-appstudio-qe/component-annotation-dotnet-component-N70bU-teach-exploit | 0 | 0| 
 | 20240122T02:42:53Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5772 | 778| 
 | 20240122T02:42:47Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0013-app-DET2l-exploit-recover | 0 | 0| 
-| 20240122T02:13:04Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5679 | 1099| 
 | 20240122T02:06:04Z | Null | https://github.com/LUNAAR-SALT/Exploit | 0 | 0| 
 | 20240122T02:00:21Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0075-app-ZYeJf-touch-exploit | 0 | 0| 
-| 20240122T01:13:23Z | Explore various tutorials around exploiting different services, the vulnerabilities around those services and best security measures for protecting your organization.  | https://github.com/ThiasCannon/CTFs | 0 | 0| 
-| 20240122T01:10:17Z | HEVD Exploit - Bypassing KVA Shadow and SMEP on Windows 10 22H2 | https://github.com/ommadawn46/HEVD-Exploit-Win10-22H2-KVAS | 1 | 0| 
-| 20240122T01:07:09Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0065-app-7pWP--stop-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240122T09:18:53Z | Remove Telia backdoors from ADB EA4201N | https://github.com/antnks/debloat-telia-adb | 1 | 2| 
+| 20240122T09:10:10Z | PHP shell backdoors list  ( collection ) | https://github.com/1337r0j4n/php-backdoors | 102 | 42| 
+| 20240122T06:26:42Z | Null | https://github.com/zro-0/Backdoor | 0 | 0| 
 | 20240121T22:04:37Z | VenomControl Rat is a Remote Access Tool (RAT) designed to remotely monitor and control other computers through a secure encrypted connection | https://github.com/MakShadow/VenomControl-Rat-Crack-Source | 0 | 0| 
 | 20240121T21:46:32Z | Null | https://github.com/Spiegelin/Simple-Backdoor | 0 | 0| 
 | 20240121T19:52:45Z | Null | https://github.com/tde-nico/backdoor_ctf_2023 | 0 | 0| 
@@ -86,9 +89,6 @@
 | 20240121T06:35:40Z | This Discord Rat give you the best way to control victims pc on discord. | https://github.com/0giv/HaterCollecter | 0 | 1| 
 | 20240121T01:26:23Z | Null | https://github.com/zhmzm/Poisoning_Backdoor-critical_Layers_Attack | 1 | 0| 
 | 20240120T20:26:23Z | a simple yet effective behavioral analysis program to detect abnormal patterns indicative of rootkit or backdoor activity involving monitoring system behavior and setting up rules to identify suspicious activities | https://github.com/conie151/BehavioralAnalysisBackdoorDetectionProject | 0 | 0| 
-| 20240120T18:12:39Z | Null | https://github.com/astakhiv/BackDoorsWeb | 0 | 0| 
-| 20240120T17:00:27Z | Backdoor, keylogger, mac changer, mitm, netscan, sniffer | https://github.com/h4md153v63n/Python_Security_Codes | 8 | 7| 
-| 20240120T16:46:38Z | Null | https://github.com/OldKokoroz/backdoor-ng | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -120,16 +120,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240122T12:25:49Z | Project page for %The Fuzzing Book% | https://github.com/uds-se/fuzzingbook | 977 | 220| 
+| 20240122T12:02:14Z | Null | https://github.com/viktorlt63/fuzzy-moon | 0 | 0| 
+| 20240122T10:18:41Z | Null | https://github.com/Fadhlan54/sistem-pendukung-keputusan-penerimaan-beasiswa-menggunakan-fuzzy-logic | 0 | 0| 
+| 20240122T07:07:03Z | A fuzzy logic controller to control the speed of dc motors in based on ultrasonic distance measurement, utilizing the SKFuzzy Python library.  | https://github.com/EOC-dev/FuzzyLogicSpeedController_V1 | 0 | 0| 
 | 20240122T02:51:12Z | Null | https://github.com/artemtar/artemtar-fuzzy-bot4 | 0 | 0| 
 | 20240122T02:37:26Z | A fuzzy logic controller to control the speed of dc motors in based on ultrasonic distance measurement, utilizing the SKFuzzy Python library. | https://github.com/EOC-dev/FuzzyLogicSpeedControllerV1 | 0 | 0| 
 | 20240122T02:26:56Z | Pokemon App , API data obtained from https://pokeapi.co/ | https://github.com/grandpaCanCode/fuzzy-system | 0 | 0| 
 | 20240122T00:22:02Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51522 | 23492| 
 | 20240121T23:54:04Z | Null | https://github.com/ProgrammerMikey/fuzzy-garbanzo | 0 | 0| 
 | 20240121T23:33:08Z | Null | https://github.com/kgue0001/MachineLearning-ExpertSystems_FuzzyLogic | 0 | 0| 
-| 20240121T14:34:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9325 | 2093| 
-| 20240121T13:47:52Z | a web fuzzer using the httpipe format | https://github.com/codesoap/pfuzz | 15 | 0| 
-| 20240121T13:40:42Z | Null | https://github.com/gdhar3080/Fuzzy-logic-based-speed-control-of-BLDC-motor | 0 | 0| 
-| 20240121T13:24:09Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 113 | 43| 
 
 
 
