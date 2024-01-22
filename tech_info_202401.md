@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240122T02:00:21Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0075-app-ZYeJf-touch-exploit | 0 | 0| 
 | 20240122T01:13:23Z | Explore various tutorials around exploiting different services, the vulnerabilities around those services and best security measures for protecting your organization.  | https://github.com/ThiasCannon/CTFs | 0 | 0| 
 | 20240122T01:10:17Z | HEVD Exploit - Bypassing KVA Shadow and SMEP on Windows 10 22H2 | https://github.com/ommadawn46/HEVD-Exploit-Win10-22H2-KVAS | 1 | 0| 
 | 20240122T01:07:09Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0065-app-7pWP--stop-exploit | 0 | 0| 
@@ -73,7 +74,6 @@
 | 20240122T00:28:46Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-tf | 1 | 0| 
 | 20240122T00:27:27Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-tf | 1 | 0| 
 | 20240121T20:07:16Z | these are just a lists of exploits for the discord bot %dyno% that can be used to raid / nuke servers | https://github.com/illic-it/dyno-exploits | 0 | 0| 
-| 20240121T19:56:42Z | Developed for Escape From Tarkov and written in C++ and C#. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/Maskorws/Escape-From-Tarkov-Eft-Aimbot-esp-Loots-Exploits-Max-Skills-High-Jump | 3 | 1| 
 
 
 # backdoor on Github 推荐
