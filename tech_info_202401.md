@@ -64,16 +64,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240122T01:08:59Z | HEVD Exploit - Bypassing KVA Shadow and SMEP on Windows 10 22H2 | https://github.com/ommadawn46/HEVD-Exploit-Win10-22H2-KVAS | 1 | 0| 
+| 20240122T01:07:09Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0065-app-7pWP--stop-exploit | 0 | 0| 
+| 20240122T01:05:31Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5678 | 1099| 
 | 20240122T00:30:04Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-tf | 1 | 0| 
 | 20240122T00:29:27Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-tf | 1 | 0| 
 | 20240122T00:28:46Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-tf | 1 | 0| 
 | 20240122T00:27:27Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-tf | 1 | 0| 
 | 20240121T20:07:16Z | these are just a lists of exploits for the discord bot %dyno% that can be used to raid / nuke servers | https://github.com/illic-it/dyno-exploits | 0 | 0| 
 | 20240121T19:56:42Z | Developed for Escape From Tarkov and written in C++ and C#. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/Maskorws/Escape-From-Tarkov-Eft-Aimbot-esp-Loots-Exploits-Max-Skills-High-Jump | 3 | 1| 
-| 20240121T15:25:53Z | HEVD Exploit - Bypassing KVA Shadow and SMEP on Windows 10 22H2 | https://github.com/ommadawn46/HEVD-Exploit-Win10-22H2-KVAS | 1 | 0| 
-| 20240121T14:34:03Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5677 | 1099| 
 | 20240121T13:18:41Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 183 | 15| 
-| 20240121T13:06:46Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 94 | 34| 
 
 
 # backdoor on Github 推荐
