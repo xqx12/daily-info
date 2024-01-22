@@ -66,6 +66,7 @@
 | --- | --- | --- | --- | ---| 
 | 20240122T11:59:25Z | A Transformer Model Exploiting Histology Images and Spatial Gene Expression | https://github.com/Zhaocy-Research/TransformerST | 1 | 2| 
 | 20240122T11:55:37Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 11122 | 1682| 
+| 20240122T11:24:12Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 95 | 34| 
 | 20240122T09:57:00Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5682 | 1100| 
 | 20240122T07:31:32Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 784 | 186| 
 | 20240122T02:51:05Z | GitOps Repository | https://github.com/redhat-appstudio-qe/jvm-build-suite-application-becc-sRvLF-escape-exploit | 0 | 0| 
@@ -73,7 +74,6 @@
 | 20240122T02:42:53Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5772 | 778| 
 | 20240122T02:42:47Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0013-app-DET2l-exploit-recover | 0 | 0| 
 | 20240122T02:06:04Z | Null | https://github.com/LUNAAR-SALT/Exploit | 0 | 0| 
-| 20240122T02:00:21Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0075-app-ZYeJf-touch-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
