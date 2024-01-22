@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240122T13:17:36Z | CVE-2023-28588 | Null | https://github.com/uthrasri/CVE-2023-28588_G2.5_singlefile | | 
+| 20240122T13:18:30Z | CVE-2023-28588 | Null | https://github.com/uthrasri/CVE-2023-28588_G2.5_singlefile | | 
 | 20240122T11:38:56Z | CVE-2023-22527 | Null | https://github.com/Drun1baby/CVE-2023-22527 | | 
 | 20240122T09:52:00Z | CVE-2024-33333 | CVE-2024-20656 | https://github.com/xiaoqiao147/CVE-2024-33333 | | 
 | 20240122T06:44:07Z | CVE-2021-3156 | Different files for computer security coursework | https://github.com/wurwur/CVE-2021-3156 | | 
