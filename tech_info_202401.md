@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240122T13:15:58Z | Null | https://github.com/VoidXII/S7-L1---La-fase-di-exploit-Gli-attacchi-alle-Reti | 0 | 0| 
 | 20240122T11:59:25Z | A Transformer Model Exploiting Histology Images and Spatial Gene Expression | https://github.com/Zhaocy-Research/TransformerST | 1 | 2| 
 | 20240122T11:55:37Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 11122 | 1682| 
 | 20240122T11:24:12Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 95 | 34| 
@@ -73,7 +74,6 @@
 | 20240122T02:50:01Z | GitOps Repository | https://github.com/redhat-appstudio-qe/component-annotation-dotnet-component-N70bU-teach-exploit | 0 | 0| 
 | 20240122T02:42:53Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5772 | 778| 
 | 20240122T02:42:47Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0013-app-DET2l-exploit-recover | 0 | 0| 
-| 20240122T02:06:04Z | Null | https://github.com/LUNAAR-SALT/Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
