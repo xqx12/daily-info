@@ -18,6 +18,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240122T13:17:36Z | CVE-2023-28588 | Null | https://github.com/uthrasri/CVE-2023-28588_G2.5_singlefile | | 
 | 20240122T11:38:56Z | CVE-2023-22527 | Null | https://github.com/Drun1baby/CVE-2023-22527 | | 
 | 20240122T09:52:00Z | CVE-2024-33333 | CVE-2024-20656 | https://github.com/xiaoqiao147/CVE-2024-33333 | | 
 | 20240122T06:44:07Z | CVE-2021-3156 | Different files for computer security coursework | https://github.com/wurwur/CVE-2021-3156 | | 
@@ -53,6 +54,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240122T13:16:57Z | Windows Hacking FrameWork using Reverse Shell | https://github.com/canarddu38/DUCKSPLOIT | 84 | 16| 
 | 20240122T09:18:53Z | Remove Telia backdoors from ADB EA4201N | https://github.com/antnks/debloat-telia-adb | 1 | 2| 
 | 20240122T09:10:10Z | PHP shell backdoors list  ( collection ) | https://github.com/1337r0j4n/php-backdoors | 102 | 42| 
 | 20240122T06:26:42Z | Null | https://github.com/zro-0/Backdoor | 0 | 0| 

@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240122T13:17:36Z | CVE-2023-28588 | Null | https://github.com/uthrasri/CVE-2023-28588_G2.5_singlefile | | 
 | 20240122T11:38:56Z | CVE-2023-22527 | Null | https://github.com/Drun1baby/CVE-2023-22527 | | 
 | 20240122T09:52:00Z | CVE-2024-33333 | CVE-2024-20656 | https://github.com/xiaoqiao147/CVE-2024-33333 | | 
 | 20240122T06:44:07Z | CVE-2021-3156 | Different files for computer security coursework | https://github.com/wurwur/CVE-2021-3156 | | 
@@ -35,7 +36,6 @@
 | 20240121T12:09:30Z | CVE-2024-21887 | exploit for ivanti | https://github.com/tucommenceapousser/CVE-2024-21887 | | 
 | 20240121T10:50:40Z | CVE-2022-38694 | This is a one-time signature verification bypass. For persistent signature verification bypass, check https://github.com/TomKing062/CVE-2022-38691_38692 | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20240121T04:33:53Z | CVE-2023-7028 | Exploit for CVE-2023-7028 | https://github.com/yoryio/CVE-2023-7028 | | 
-| 20240121T01:01:03Z | CVE-2023-46805 | CVE-2023-46805 scanner for possible vulnerable Ivanti Connect Secure appliances by country using Shodan. | https://github.com/yoryio/CVE-2023-46805 | | 
 
 
 # klee on Github 推荐
@@ -79,6 +79,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240122T13:16:57Z | Windows Hacking FrameWork using Reverse Shell | https://github.com/canarddu38/DUCKSPLOIT | 84 | 16| 
 | 20240122T09:18:53Z | Remove Telia backdoors from ADB EA4201N | https://github.com/antnks/debloat-telia-adb | 1 | 2| 
 | 20240122T09:10:10Z | PHP shell backdoors list  ( collection ) | https://github.com/1337r0j4n/php-backdoors | 102 | 42| 
 | 20240122T06:26:42Z | Null | https://github.com/zro-0/Backdoor | 0 | 0| 
@@ -88,7 +89,6 @@
 | 20240121T09:18:05Z | The C2 Cloud is a robust web-based C2 framework, designed to simplify the life of penetration testers. It allows easy access to compromised backdoors, just like accessing an EC2 instance in the AWS cloud. It can manage several simultaneous backdoor sessions with a user-friendly interface.  | https://github.com/govindasamyarun/c2-cloud | 10 | 0| 
 | 20240121T06:35:40Z | This Discord Rat give you the best way to control victims pc on discord. | https://github.com/0giv/HaterCollecter | 0 | 1| 
 | 20240121T01:26:23Z | Null | https://github.com/zhmzm/Poisoning_Backdoor-critical_Layers_Attack | 1 | 0| 
-| 20240120T20:26:23Z | a simple yet effective behavioral analysis program to detect abnormal patterns indicative of rootkit or backdoor activity involving monitoring system behavior and setting up rules to identify suspicious activities | https://github.com/conie151/BehavioralAnalysisBackdoorDetectionProject | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
