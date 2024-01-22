@@ -40,7 +40,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240122T13:31:06Z | Challenges of exploiting and fixing javascript snippet vulnerabilities. | https://github.com/sun0day/js-audit | 0 | 0| 
 | 20240122T13:15:58Z | Null | https://github.com/VoidXII/S7-L1---La-fase-di-exploit-Gli-attacchi-alle-Reti | 0 | 0| 
+| 20240122T12:03:15Z | A game where Cardano developers and enthusiasts can try to exploit purposely vulnerable smart contracts and learn about the most common security issues and how to prevent them. | https://github.com/vacuumlabs/cardano-ctf | 1 | 0| 
 | 20240122T11:59:25Z | A Transformer Model Exploiting Histology Images and Spatial Gene Expression | https://github.com/Zhaocy-Research/TransformerST | 1 | 2| 
 | 20240122T11:55:37Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 11122 | 1682| 
 | 20240122T11:24:12Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 95 | 34| 
@@ -48,8 +50,6 @@
 | 20240122T07:31:32Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 784 | 186| 
 | 20240122T02:51:05Z | GitOps Repository | https://github.com/redhat-appstudio-qe/jvm-build-suite-application-becc-sRvLF-escape-exploit | 0 | 0| 
 | 20240122T02:50:01Z | GitOps Repository | https://github.com/redhat-appstudio-qe/component-annotation-dotnet-component-N70bU-teach-exploit | 0 | 0| 
-| 20240122T02:42:53Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5772 | 778| 
-| 20240122T02:42:47Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0013-app-DET2l-exploit-recover | 0 | 0| 
 
 
 # backdoor on Github 推荐
