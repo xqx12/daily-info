@@ -72,8 +72,8 @@
 | 20240122T11:57:20Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 246 | 47| 
 | 20240122T11:55:37Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 11122 | 1682| 
 | 20240122T11:24:12Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 95 | 34| 
+| 20240122T11:07:25Z | Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google%s Tsunami, Ostorlab%s Asteroid and Bug Bounty programs. | https://github.com/Ostorlab/KEV | 362 | 14| 
 | 20240122T09:57:00Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5682 | 1100| 
-| 20240122T07:31:32Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 784 | 186| 
 
 
 # backdoor on Github 推荐
