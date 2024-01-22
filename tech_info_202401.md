@@ -120,6 +120,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240122T02:26:56Z | Pokemon App , API data obtained from https://pokeapi.co/ | https://github.com/grandpaCanCode/fuzzy-system | 0 | 0| 
 | 20240122T00:22:02Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51522 | 23492| 
 | 20240121T23:54:04Z | Null | https://github.com/ProgrammerMikey/fuzzy-garbanzo | 0 | 0| 
 | 20240121T23:33:08Z | Null | https://github.com/kgue0001/MachineLearning-ExpertSystems_FuzzyLogic | 0 | 0| 
@@ -129,7 +130,6 @@
 | 20240121T13:40:42Z | Null | https://github.com/gdhar3080/Fuzzy-logic-based-speed-control-of-BLDC-motor | 0 | 0| 
 | 20240121T13:24:09Z | OSS-Fuzz vulnerabilities for OSV. | https://github.com/google/oss-fuzz-vulns | 113 | 43| 
 | 20240121T12:08:31Z | Null | https://github.com/LinneaBerge/go-fuzz | 0 | 0| 
-| 20240121T10:48:08Z | Null | https://github.com/xarlamv/fuzzy-stream | 0 | 0| 
 
 
 
