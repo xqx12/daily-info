@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240122T02:46:03Z | CVE-2023-6895 | Null | https://github.com/FuBoLuSec/CVE-2023-6895 | | 
 | 20240121T13:20:28Z | CVE-2020-35489 | WordPress Sites Vulnerability Checker for CVE-2020-35489 - "Educational Use Only" | https://github.com/reneoliveirajr/wp_CVE-2020-35489_checker | | 
 | 20240121T12:09:30Z | CVE-2024-21887 | exploit for ivanti | https://github.com/tucommenceapousser/CVE-2024-21887 | | 
 | 20240121T10:50:40Z | CVE-2022-38694 | This is a one-time signature verification bypass. For persistent signature verification bypass, check https://github.com/TomKing062/CVE-2022-38691_38692 | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
@@ -35,7 +36,6 @@
 | 20240120T11:39:14Z | CVE-2022-36946 | CVE-2022-36946 linux kernel panic in netfilter_queue | https://github.com/Pwnzer0tt1/CVE-2022-36946 | | 
 | 20240120T08:06:17Z | cve-2023- | Null | https://github.com/Hkhanbing/cve-2023-poc | | 
 | 20240120T06:36:47Z | CVE-2021-24917 | CVE-2021-24917  | https://github.com/dikalasenjadatang/CVE-2021-24917 | | 
-| 20240120T06:20:38Z | CVE-2023-51385 | CVE-2023-51385-save | https://github.com/farliy-hacker/CVE-2023-51385-save | | 
 
 
 # klee on Github 推荐
