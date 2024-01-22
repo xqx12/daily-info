@@ -77,7 +77,6 @@
 | --- | --- | --- | --- | ---| 
 | 20240121T23:54:04Z | Null | https://github.com/ProgrammerMikey/fuzzy-garbanzo | 0 | 0| 
 | 20240121T23:33:08Z | Null | https://github.com/kgue0001/MachineLearning-ExpertSystems_FuzzyLogic | 0 | 0| 
-| 20240121T22:58:46Z | Null | https://github.com/EOC-dev/FuzzyLogicSpeedControllerV1 | 0 | 0| 
 | 20240121T14:34:24Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9325 | 2093| 
 | 20240121T13:47:52Z | a web fuzzer using the httpipe format | https://github.com/codesoap/pfuzz | 15 | 0| 
 | 20240121T13:40:42Z | Null | https://github.com/gdhar3080/Fuzzy-logic-based-speed-control-of-BLDC-motor | 0 | 0| 
@@ -85,6 +84,7 @@
 | 20240121T12:08:31Z | Null | https://github.com/LinneaBerge/go-fuzz | 0 | 0| 
 | 20240121T10:48:08Z | Null | https://github.com/xarlamv/fuzzy-stream | 0 | 0| 
 | 20240121T10:35:42Z | A Fuzzy Process Control System Sample | https://github.com/irmaan/FuzzyControlProject | 0 | 0| 
+| 20240121T10:03:12Z | Test repo With public visibility | https://github.com/jlec/test-fuzzy-public | 0 | 0| 
 
 
 
