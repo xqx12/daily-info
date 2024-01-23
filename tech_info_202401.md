@@ -120,6 +120,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240123T01:55:33Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2455 | 312| 
 | 20240123T01:23:18Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51535 | 23493| 
 | 20240122T23:57:58Z | Null | https://github.com/x2-PABHO-4/fuzzy-moon | 0 | 0| 
 | 20240122T23:42:07Z | Fuzzing related tools for GCC (or any compiler) with a focus on RISC-V | https://github.com/patrick-rivos/compiler-fuzz-ci | 0 | 0| 
@@ -129,7 +130,6 @@
 | 20240122T10:18:41Z | Null | https://github.com/Fadhlan54/sistem-pendukung-keputusan-penerimaan-beasiswa-menggunakan-fuzzy-logic | 0 | 0| 
 | 20240122T07:07:03Z | A fuzzy logic controller to control the speed of dc motors in based on ultrasonic distance measurement, utilizing the SKFuzzy Python library.  | https://github.com/EOC-dev/FuzzyLogicSpeedController_V1 | 0 | 0| 
 | 20240122T02:51:12Z | Null | https://github.com/artemtar/artemtar-fuzzy-bot4 | 0 | 0| 
-| 20240122T02:37:26Z | A fuzzy logic controller to control the speed of dc motors in based on ultrasonic distance measurement, utilizing the SKFuzzy Python library. | https://github.com/EOC-dev/FuzzyLogicSpeedControllerV1 | 0 | 0| 
 
 
 
