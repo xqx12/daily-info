@@ -68,13 +68,14 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240122T08:48:10Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 218 | 21| 
 | 20240122T06:43:47Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 49 | 9| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240122T05:22:26Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 127 | 11| 
+| 20240122T16:08:28Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 129 | 11| 
 
 
 # fuzz on Github 推荐

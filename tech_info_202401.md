@@ -94,22 +94,22 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240122T08:48:10Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 218 | 21| 
 | 20240122T06:43:47Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 49 | 9| 
 | 20240120T23:10:29Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2397 | 648| 
-| 20240120T17:38:20Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 730 | 129| 
+| 20240120T17:38:20Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 730 | 130| 
 | 20240119T12:31:21Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 502 | 43| 
 | 20240119T11:36:23Z | A symbolic execution engine for EVM smart contract binaries | https://github.com/ucsb-seclab/greed | 15 | 1| 
 | 20240115T06:50:49Z | Protocol Inference Symbolic Execution - using dynamic symbolic execution | https://github.com/liordror/piseDSE | 1 | 1| 
 | 20240114T02:59:10Z | Null | https://github.com/leiDnedyA/ocaml_symbolic_execution | 0 | 0| 
 | 20240114T00:02:17Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 484 | 34| 
 | 20240112T21:24:57Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 10 | 3| 
-| 20240112T21:17:24Z | Unicorn: Symbolic Execution, Bounded Model Checking, and Code Optimization of RISC-V Code using Classical Solvers and Quantum Computers | https://github.com/cksystemsgroup/unicorn | 26 | 8| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240122T05:22:26Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 127 | 11| 
+| 20240122T16:08:28Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 129 | 11| 
 | 20240119T14:35:05Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 145 | 13| 
 | 20240118T08:06:42Z | (NDSS 2024) Optimizing Decompiler Output with LLM | https://github.com/PeiweiHu/DeGPT | 3 | 0| 
 | 20240117T13:53:48Z | Null | https://github.com/Compass-All/NDSS24-CAGE | 1 | 0| 
