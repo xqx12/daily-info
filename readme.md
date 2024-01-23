@@ -19,6 +19,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240123T13:03:31Z | CVE-2023-40109 | Null | https://github.com/uthrasri/CVE-2023-40109 | | 
 | 20240123T12:55:14Z | CVE-2023-5717 | Null | https://github.com/uthrasri/linux_4.19.72_CVE-2023-5717 | | 
 | 20240123T12:38:29Z | CVE-2023-22527 | CVE-2023-22527 - RCE (Remote Code Execution) Vulnerability In Confluence Data Center and Confluence Server PoC | https://github.com/Avento/CVE-2023-22527_Confluence_RCE | | 
 | 20240123T12:15:30Z | CVE-2023-22527 | Atlassian Confluence - Remote Code Execution | https://github.com/Chocapikk/CVE-2023-22527 | | 
@@ -28,7 +29,6 @@
 | 20240123T10:20:13Z | CVE-2023-22527 | Atlassian Confluence - Remote Code Execution (CVE-2023-22527) | https://github.com/C1ph3rX13/CVE-2023-22527 | | 
 | 20240123T10:16:43Z | cve-2024-65230 | Null | https://github.com/CBaekhyunC/cve-2024-65230 | | 
 | 20240123T09:58:22Z | CVE-2023-22527 | POC | https://github.com/Niuwoo/CVE-2023-22527 | | 
-| 20240123T09:26:07Z | cve-2024-666 | Null | https://github.com/xiaoqiao147/cve-2024-666 | | 
 
 
 # klee on Github 推荐
