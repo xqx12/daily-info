@@ -120,6 +120,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240123T13:44:27Z | Null | https://github.com/Mirjinx80/fuzzy-winner | 0 | 0| 
 | 20240123T13:12:32Z | Null | https://github.com/Mirjinx80/fuzzy-telegram | 0 | 0| 
 | 20240123T13:04:32Z | Null | https://github.com/Mirjinx80/fuzzy-sniffle | 0 | 0| 
 | 20240123T12:13:25Z | poc | https://github.com/OraclePi/fuzzing | 0 | 0| 
@@ -129,7 +130,6 @@
 | 20240123T06:31:51Z | Null | https://github.com/aldop07/Fuzzy-Fmea | 0 | 0| 
 | 20240123T01:55:33Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2455 | 312| 
 | 20240123T01:23:18Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51535 | 23493| 
-| 20240122T23:57:58Z | Null | https://github.com/x2-PABHO-4/fuzzy-moon | 0 | 0| 
 
 
 
