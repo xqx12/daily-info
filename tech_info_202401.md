@@ -120,6 +120,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240123T13:04:32Z | Null | https://github.com/Mirjinx80/fuzzy-sniffle | 0 | 0| 
 | 20240123T12:13:25Z | poc | https://github.com/OraclePi/fuzzing | 0 | 0| 
 | 20240123T10:05:01Z | A comparison of solidity fuzzing tools Foundry, Echidna & Medusa | https://github.com/devdacian/solidity-fuzzing-comparison | 73 | 9| 
 | 20240123T09:36:32Z | An HTTP Response fuzzer to find Vulnerabilities in Security Scanners | https://github.com/AvalZ/RevOK | 25 | 7| 
@@ -129,7 +130,6 @@
 | 20240123T01:23:18Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51535 | 23493| 
 | 20240122T23:57:58Z | Null | https://github.com/x2-PABHO-4/fuzzy-moon | 0 | 0| 
 | 20240122T23:42:07Z | Fuzzing related tools for GCC (or any compiler) with a focus on RISC-V | https://github.com/patrick-rivos/compiler-fuzz-ci | 0 | 0| 
-| 20240122T22:07:49Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9334 | 2092| 
 
 
 
