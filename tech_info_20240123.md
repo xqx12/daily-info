@@ -78,6 +78,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240123T13:12:32Z | Null | https://github.com/Mirjinx80/fuzzy-telegram | 0 | 0| 
 | 20240123T13:04:32Z | Null | https://github.com/Mirjinx80/fuzzy-sniffle | 0 | 0| 
 | 20240123T12:13:25Z | poc | https://github.com/OraclePi/fuzzing | 0 | 0| 
 | 20240123T10:05:01Z | A comparison of solidity fuzzing tools Foundry, Echidna & Medusa | https://github.com/devdacian/solidity-fuzzing-comparison | 73 | 9| 
