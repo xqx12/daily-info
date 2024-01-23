@@ -19,6 +19,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240123T13:38:47Z | CVE-2023-22518 | Lỗ hổng ủy quyền không phù hợp trong Trung tâm dữ liệu Confluence và Máy chủ + bugsBonus 🔥 | https://github.com/bibo318/CVE-2023-22518 | | 
 | 20240123T13:34:15Z | CVE-2023-22527 | A critical severity Remote Code Execution (RCE) vulnerability (CVE-2023-22527) was discovered in Confluence Server and Data Center.  | https://github.com/Manh130902/CVE-2023-22527-POC | | 
 | 20240123T13:11:54Z | CVE-2023-40109 | Null | https://github.com/uthrasri/CVE-2023-40109 | | 
 | 20240123T12:55:14Z | CVE-2023-5717 | Null | https://github.com/uthrasri/linux_4.19.72_CVE-2023-5717 | | 
@@ -28,7 +29,6 @@
 | 20240123T10:37:36Z | CVE-2023-22527 | This repository presents a proof-of-concept of CVE-2023-22527 | https://github.com/Vozec/CVE-2023-22527 | | 
 | 20240123T10:20:13Z | CVE-2023-22527 | Atlassian Confluence - Remote Code Execution (CVE-2023-22527) | https://github.com/C1ph3rX13/CVE-2023-22527 | | 
 | 20240123T10:16:43Z | cve-2024-65230 | Null | https://github.com/CBaekhyunC/cve-2024-65230 | | 
-| 20240123T09:58:22Z | CVE-2023-22527 | POC | https://github.com/Niuwoo/CVE-2023-22527 | | 
 
 
 # klee on Github 推荐
