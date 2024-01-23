@@ -67,6 +67,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240123T03:59:52Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 503 | 43| 
 
 
 # big4 on Github 推荐

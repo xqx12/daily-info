@@ -94,16 +94,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240123T03:59:52Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 503 | 43| 
+| 20240122T17:48:03Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 103 | 10| 
 | 20240122T08:48:10Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 218 | 21| 
 | 20240122T06:43:47Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 49 | 9| 
 | 20240120T23:10:29Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2397 | 648| 
 | 20240120T17:38:20Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 730 | 130| 
-| 20240119T12:31:21Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 502 | 43| 
 | 20240119T11:36:23Z | A symbolic execution engine for EVM smart contract binaries | https://github.com/ucsb-seclab/greed | 15 | 1| 
 | 20240115T06:50:49Z | Protocol Inference Symbolic Execution - using dynamic symbolic execution | https://github.com/liordror/piseDSE | 1 | 1| 
 | 20240114T02:59:10Z | Null | https://github.com/leiDnedyA/ocaml_symbolic_execution | 0 | 0| 
 | 20240114T00:02:17Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 484 | 34| 
-| 20240112T21:24:57Z | Monster is a symbolic execution engine for 64-bit RISC-U code | https://github.com/cksystemsgroup/monster | 10 | 3| 
 
 
 # big4 on Github 推荐
