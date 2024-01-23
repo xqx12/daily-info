@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240123T13:57:32Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-python-personal-M430A-challenge-exploit | 0 | 0| 
 | 20240123T13:47:34Z | Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google%s Tsunami, Ostorlab%s Asteroid and Bug Bounty programs. | https://github.com/Ostorlab/KEV | 365 | 16| 
 | 20240123T13:43:50Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 1462 | 175| 
 | 20240123T13:33:10Z | the wonderful little wifi exploit. | https://github.com/AnnotateHQ/caub | 0 | 0| 
@@ -73,7 +74,6 @@
 | 20240123T08:26:30Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5687 | 1101| 
 | 20240123T02:44:08Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0066-app-rX8iE-exploit-overcome | 0 | 0| 
 | 20240123T02:43:52Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0054-app-dFVuc-come-exploit | 0 | 0| 
-| 20240123T02:34:09Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0015-app-7Whpm-exploit-recognize | 0 | 0| 
 
 
 # backdoor on Github 推荐
