@@ -26,8 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240123T02:43:54Z | CVE-2023-22527 | Null | https://github.com/Manh130902/CVE-2023-22527-POC | | 
 | 20240123T02:20:48Z | CVE-2023-22527 | A template injection vulnerability on older versions of Confluence Data Center and Server allows an unauthenticated attacker to achieve RCE on an affected instance. Customers using an affected version must take immediate action. | https://github.com/cleverg0d/CVE-2023-22527 | | 
-| 20240123T02:17:37Z | CVE-2023-22527 | Null | https://github.com/Manh130902/CVE-2023-22527-POC | | 
 | 20240123T02:15:54Z | CVE-2023-22527 | Null | https://github.com/Manh130902/CVE-2023-22527 | | 
 | 20240123T02:15:18Z | CVE-2023-22527 | CVE-2023-22527 - RCE (Remote Code Execution) Vulnerability In Confluence Data Center and Confluence Server PoC | https://github.com/Avento/CVE-2023-22527_Confluence_RCE | | 
 | 20240123T01:52:40Z | CVE-2023-22527 | Null | https://github.com/Drun1baby/CVE-2023-22527 | | 
@@ -64,6 +64,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240123T02:44:08Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0066-app-rX8iE-exploit-overcome | 0 | 0| 
+| 20240123T02:43:52Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0054-app-dFVuc-come-exploit | 0 | 0| 
 | 20240123T02:34:09Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0015-app-7Whpm-exploit-recognize | 0 | 0| 
 | 20240123T02:16:03Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0010-app-g6lha-exploit-close | 0 | 0| 
 | 20240123T02:15:05Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0005-app-Z8Qo0-exploit-think | 0 | 0| 
@@ -72,8 +74,6 @@
 | 20240123T01:03:57Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0010-app-emKHw-secure-exploit | 0 | 0| 
 | 20240123T00:55:18Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 242 | 19| 
 | 20240122T17:34:28Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5685 | 1101| 
-| 20240122T16:29:22Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 72 | 35| 
-| 20240122T14:54:17Z | Null | https://github.com/Niviana1/Personal-exploit- | 0 | 0| 
 
 
 # backdoor on Github 推荐
