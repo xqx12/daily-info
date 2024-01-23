@@ -64,7 +64,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240123T13:10:45Z | Null | https://github.com/jaytiwari05/Portswigger-SQLi-Exploits | 0 | 0| 
+| 20240123T13:13:18Z | All my random files, exploits and (hopefully) writeups for CTFs that I play | https://github.com/TheFlash2k/ctf-writeups | 0 | 0| 
+| 20240123T13:11:40Z | Null | https://github.com/jaytiwari05/Portswigger-SQLi-Exploits | 0 | 0| 
 | 20240123T11:36:10Z | A game where Cardano developers and enthusiasts can try to exploit purposely vulnerable smart contracts and learn about the most common security issues and how to prevent them. | https://github.com/vacuumlabs/cardano-ctf | 5 | 0| 
 | 20240123T08:26:30Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5687 | 1101| 
 | 20240123T02:44:08Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0066-app-rX8iE-exploit-overcome | 0 | 0| 
@@ -73,7 +74,6 @@
 | 20240123T02:16:03Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0010-app-g6lha-exploit-close | 0 | 0| 
 | 20240123T02:15:05Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0005-app-Z8Qo0-exploit-think | 0 | 0| 
 | 20240123T01:37:08Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0004-app-rH7yV-sleep-exploit | 0 | 0| 
-| 20240123T01:26:04Z | Null | https://github.com/ytaousi/OverRide-BinaryExploits- | 0 | 0| 
 
 
 # backdoor on Github 推荐
