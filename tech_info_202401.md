@@ -26,10 +26,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240123T02:46:48Z | CVE-2023-22527 | CVE-2023-22527 - RCE (Remote Code Execution) Vulnerability In Confluence Data Center and Confluence Server PoC | https://github.com/Avento/CVE-2023-22527_Confluence_RCE | | 
 | 20240123T02:43:54Z | CVE-2023-22527 | Null | https://github.com/Manh130902/CVE-2023-22527-POC | | 
 | 20240123T02:20:48Z | CVE-2023-22527 | A template injection vulnerability on older versions of Confluence Data Center and Server allows an unauthenticated attacker to achieve RCE on an affected instance. Customers using an affected version must take immediate action. | https://github.com/cleverg0d/CVE-2023-22527 | | 
 | 20240123T02:15:54Z | CVE-2023-22527 | Null | https://github.com/Manh130902/CVE-2023-22527 | | 
-| 20240123T02:15:18Z | CVE-2023-22527 | CVE-2023-22527 - RCE (Remote Code Execution) Vulnerability In Confluence Data Center and Confluence Server PoC | https://github.com/Avento/CVE-2023-22527_Confluence_RCE | | 
 | 20240123T01:52:40Z | CVE-2023-22527 | Null | https://github.com/Drun1baby/CVE-2023-22527 | | 
 | 20240123T00:00:29Z | CVE-2023-4863 | Null | https://github.com/LiveOverflow/webp-CVE-2023-4863 | | 
 | 20240122T17:19:06Z | 未知编号 | Null | https://github.com/jacobadodge/Spring2024_CVENG_8160 | | 
