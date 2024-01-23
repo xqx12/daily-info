@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240123T02:17:37Z | CVE-2023-22527 | Null | https://github.com/Manh130902/CVE-2023-22527-POC | | 
 | 20240123T02:15:54Z | CVE-2023-22527 | Null | https://github.com/Manh130902/CVE-2023-22527 | | 
 | 20240123T02:15:18Z | CVE-2023-22527 | CVE-2023-22527 - RCE (Remote Code Execution) Vulnerability In Confluence Data Center and Confluence Server PoC | https://github.com/Avento/CVE-2023-22527_Confluence_RCE | | 
 | 20240123T01:52:40Z | CVE-2023-22527 | Null | https://github.com/Drun1baby/CVE-2023-22527 | | 
@@ -35,7 +36,6 @@
 | 20240122T14:49:17Z | CVE-2022-25765 | Exploit for CVE-2022-25765 | https://github.com/lowercasenumbers/CVE-2022-25765 | | 
 | 20240122T13:26:45Z | CVE-2023-22527 | A template injection vulnerability on older versions of Confluence Data Center and Server allows an unauthenticated attacker to achieve RCE on an affected instance. Customers using an affected version must take immediate action. | https://github.com/cleverg0d/CVE-2023-22527 | | 
 | 20240122T13:18:30Z | CVE-2023-28588 | Null | https://github.com/uthrasri/CVE-2023-28588_G2.5_singlefile | | 
-| 20240122T09:52:00Z | CVE-2024-33333 | CVE-2024-20656 | https://github.com/xiaoqiao147/CVE-2024-33333 | | 
 
 
 # klee on Github 推荐
@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240123T02:16:03Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0010-app-g6lha-exploit-close | 0 | 0| 
 | 20240123T02:15:05Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0005-app-Z8Qo0-exploit-think | 0 | 0| 
 | 20240123T01:37:08Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0004-app-rH7yV-sleep-exploit | 0 | 0| 
 | 20240123T01:26:04Z | Null | https://github.com/ytaousi/OverRide-BinaryExploits- | 0 | 0| 
@@ -73,7 +74,6 @@
 | 20240122T16:29:22Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 72 | 35| 
 | 20240122T14:54:17Z | Null | https://github.com/Niviana1/Personal-exploit- | 0 | 0| 
 | 20240122T13:31:06Z | Challenges of exploiting and fixing javascript snippet vulnerabilities. | https://github.com/sun0day/js-audit | 0 | 0| 
-| 20240122T13:15:58Z | Null | https://github.com/VoidXII/S7-L1---La-fase-di-exploit-Gli-attacchi-alle-Reti | 0 | 0| 
 
 
 # backdoor on Github 推荐
