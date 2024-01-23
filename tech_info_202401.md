@@ -120,6 +120,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240123T13:47:28Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST, GraphQL and RPC (e.g., gRPC and Thrift). | https://github.com/EMResearch/EvoMaster | 398 | 73| 
 | 20240123T13:44:27Z | Null | https://github.com/Mirjinx80/fuzzy-winner | 0 | 0| 
 | 20240123T13:12:32Z | Null | https://github.com/Mirjinx80/fuzzy-telegram | 0 | 0| 
 | 20240123T13:04:32Z | Null | https://github.com/Mirjinx80/fuzzy-sniffle | 0 | 0| 
@@ -129,7 +130,6 @@
 | 20240123T08:40:36Z | Null | https://github.com/Guilleag01/fuzzy-search | 0 | 0| 
 | 20240123T06:31:51Z | Null | https://github.com/aldop07/Fuzzy-Fmea | 0 | 0| 
 | 20240123T01:55:33Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2455 | 312| 
-| 20240123T01:23:18Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51535 | 23493| 
 
 
 
