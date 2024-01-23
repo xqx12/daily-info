@@ -26,11 +26,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240123T13:34:15Z | CVE-2023-22527 | A critical severity Remote Code Execution (RCE) vulnerability (CVE-2023-22527) was discovered in Confluence Server and Data Center.  | https://github.com/Manh130902/CVE-2023-22527-POC | | 
 | 20240123T13:11:54Z | CVE-2023-40109 | Null | https://github.com/uthrasri/CVE-2023-40109 | | 
 | 20240123T12:55:14Z | CVE-2023-5717 | Null | https://github.com/uthrasri/linux_4.19.72_CVE-2023-5717 | | 
 | 20240123T12:38:29Z | CVE-2023-22527 | CVE-2023-22527 - RCE (Remote Code Execution) Vulnerability In Confluence Data Center and Confluence Server PoC | https://github.com/Avento/CVE-2023-22527_Confluence_RCE | | 
 | 20240123T12:15:30Z | CVE-2023-22527 | Atlassian Confluence - Remote Code Execution | https://github.com/Chocapikk/CVE-2023-22527 | | 
-| 20240123T12:10:42Z | CVE-2023-22527 | A critical severity Remote Code Execution (RCE) vulnerability (CVE-2023-22527) was discovered in Confluence Server and Data Center.  | https://github.com/Manh130902/CVE-2023-22527-POC | | 
 | 20240123T11:01:04Z | CVE-2023-7028 | Null | https://github.com/Shimon03/CVE-2023-7028-Account-Take-Over-Gitlab | | 
 | 20240123T10:37:36Z | CVE-2023-22527 | This repository presents a proof-of-concept of CVE-2023-22527 | https://github.com/Vozec/CVE-2023-22527 | | 
 | 20240123T10:20:13Z | CVE-2023-22527 | Atlassian Confluence - Remote Code Execution (CVE-2023-22527) | https://github.com/C1ph3rX13/CVE-2023-22527 | | 
@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240123T13:33:10Z | the wonderful little wifi exploit. | https://github.com/AnnotateHQ/caub | 0 | 0| 
 | 20240123T13:23:21Z | All my random files, exploits and (hopefully) writeups for CTFs that I play | https://github.com/TheFlash2k/ctf-writeups | 0 | 0| 
 | 20240123T13:11:40Z | Null | https://github.com/jaytiwari05/Portswigger-SQLi-Exploits | 0 | 0| 
 | 20240123T11:36:10Z | A game where Cardano developers and enthusiasts can try to exploit purposely vulnerable smart contracts and learn about the most common security issues and how to prevent them. | https://github.com/vacuumlabs/cardano-ctf | 5 | 0| 
@@ -73,7 +74,6 @@
 | 20240123T02:43:52Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0054-app-dFVuc-come-exploit | 0 | 0| 
 | 20240123T02:34:09Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0015-app-7Whpm-exploit-recognize | 0 | 0| 
 | 20240123T02:16:03Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0010-app-g6lha-exploit-close | 0 | 0| 
-| 20240123T02:15:05Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0005-app-Z8Qo0-exploit-think | 0 | 0| 
 
 
 # backdoor on Github 推荐
