@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240123T02:20:48Z | CVE-2023-22527 | A template injection vulnerability on older versions of Confluence Data Center and Server allows an unauthenticated attacker to achieve RCE on an affected instance. Customers using an affected version must take immediate action. | https://github.com/cleverg0d/CVE-2023-22527 | | 
 | 20240123T02:17:37Z | CVE-2023-22527 | Null | https://github.com/Manh130902/CVE-2023-22527-POC | | 
 | 20240123T02:15:54Z | CVE-2023-22527 | Null | https://github.com/Manh130902/CVE-2023-22527 | | 
 | 20240123T02:15:18Z | CVE-2023-22527 | CVE-2023-22527 - RCE (Remote Code Execution) Vulnerability In Confluence Data Center and Confluence Server PoC | https://github.com/Avento/CVE-2023-22527_Confluence_RCE | | 
@@ -34,7 +35,6 @@
 | 20240122T17:19:06Z | 未知编号 | Null | https://github.com/jacobadodge/Spring2024_CVENG_8160 | | 
 | 20240122T15:55:28Z | CVE-2023-29489 | Null | https://github.com/Praveenms13/CVE-2023-29489 | | 
 | 20240122T14:49:17Z | CVE-2022-25765 | Exploit for CVE-2022-25765 | https://github.com/lowercasenumbers/CVE-2022-25765 | | 
-| 20240122T13:26:45Z | CVE-2023-22527 | A template injection vulnerability on older versions of Confluence Data Center and Server allows an unauthenticated attacker to achieve RCE on an affected instance. Customers using an affected version must take immediate action. | https://github.com/cleverg0d/CVE-2023-22527 | | 
 | 20240122T13:18:30Z | CVE-2023-28588 | Null | https://github.com/uthrasri/CVE-2023-28588_G2.5_singlefile | | 
 
 
