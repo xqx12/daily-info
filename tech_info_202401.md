@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240123T02:34:09Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0015-app-7Whpm-exploit-recognize | 0 | 0| 
 | 20240123T02:16:03Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0010-app-g6lha-exploit-close | 0 | 0| 
 | 20240123T02:15:05Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0005-app-Z8Qo0-exploit-think | 0 | 0| 
 | 20240123T01:37:08Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0004-app-rH7yV-sleep-exploit | 0 | 0| 
@@ -73,7 +74,6 @@
 | 20240122T17:34:28Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5685 | 1101| 
 | 20240122T16:29:22Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 72 | 35| 
 | 20240122T14:54:17Z | Null | https://github.com/Niviana1/Personal-exploit- | 0 | 0| 
-| 20240122T13:31:06Z | Challenges of exploiting and fixing javascript snippet vulnerabilities. | https://github.com/sun0day/js-audit | 0 | 0| 
 
 
 # backdoor on Github 推荐

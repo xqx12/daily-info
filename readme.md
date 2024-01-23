@@ -44,13 +44,13 @@
 | 20240122T17:34:28Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5685 | 1101| 
 | 20240122T16:29:22Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 72 | 35| 
 | 20240122T14:54:17Z | Null | https://github.com/Niviana1/Personal-exploit- | 0 | 0| 
+| 20240122T14:35:50Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5773 | 778| 
 | 20240122T13:31:06Z | Challenges of exploiting and fixing javascript snippet vulnerabilities. | https://github.com/sun0day/js-audit | 0 | 0| 
 | 20240122T13:15:58Z | Null | https://github.com/VoidXII/S7-L1---La-fase-di-exploit-Gli-attacchi-alle-Reti | 0 | 0| 
 | 20240122T12:03:15Z | A game where Cardano developers and enthusiasts can try to exploit purposely vulnerable smart contracts and learn about the most common security issues and how to prevent them. | https://github.com/vacuumlabs/cardano-ctf | 1 | 0| 
 | 20240122T11:59:25Z | A Transformer Model Exploiting Histology Images and Spatial Gene Expression | https://github.com/Zhaocy-Research/TransformerST | 1 | 2| 
 | 20240122T11:57:27Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5798 | 729| 
 | 20240122T11:57:20Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 246 | 47| 
-| 20240122T11:55:37Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 11122 | 1682| 
 
 
 # backdoor on Github 推荐
