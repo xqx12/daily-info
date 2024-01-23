@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240123T01:26:04Z | Null | https://github.com/ytaousi/OverRide-BinaryExploits- | 0 | 0| 
 | 20240123T01:03:57Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0070-0010-app-emKHw-secure-exploit | 0 | 0| 
 | 20240123T00:55:18Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 242 | 19| 
 | 20240122T17:34:28Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5685 | 1101| 
@@ -73,7 +74,6 @@
 | 20240122T13:15:58Z | Null | https://github.com/VoidXII/S7-L1---La-fase-di-exploit-Gli-attacchi-alle-Reti | 0 | 0| 
 | 20240122T12:03:15Z | A game where Cardano developers and enthusiasts can try to exploit purposely vulnerable smart contracts and learn about the most common security issues and how to prevent them. | https://github.com/vacuumlabs/cardano-ctf | 1 | 0| 
 | 20240122T11:59:25Z | A Transformer Model Exploiting Histology Images and Spatial Gene Expression | https://github.com/Zhaocy-Research/TransformerST | 1 | 2| 
-| 20240122T11:57:27Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5798 | 729| 
 
 
 # backdoor on Github 推荐
