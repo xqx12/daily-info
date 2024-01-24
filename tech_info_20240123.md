@@ -60,7 +60,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240123T23:32:14Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 46 | 11| 
+| 20240123T23:32:14Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 46 | 12| 
 | 20240123T18:12:38Z | Null | https://github.com/mrsuthar22/Backdoor | 0 | 0| 
 | 20240123T17:57:00Z | Windows Hacking FrameWork using Reverse Shell | https://github.com/canarddu38/DUCKSPLOIT | 85 | 16| 
 | 20240123T13:57:04Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 252 | 31| 
