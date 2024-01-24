@@ -79,27 +79,27 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240123T23:32:14Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 46 | 11| 
+| 20240123T18:12:38Z | Null | https://github.com/mrsuthar22/Backdoor | 0 | 0| 
+| 20240123T17:57:00Z | Windows Hacking FrameWork using Reverse Shell | https://github.com/canarddu38/DUCKSPLOIT | 85 | 16| 
+| 20240123T13:57:04Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 252 | 31| 
 | 20240123T10:26:23Z | Null | https://github.com/akankshar05/cluster_backdoor | 0 | 0| 
 | 20240123T06:19:33Z | Official implementation of paper %Venom: A Generic Backdoor Attack Enhancer for Improving Survivability by Decision Path Coupling% | https://github.com/VenomEnhancer/Venom | 0 | 0| 
 | 20240123T04:03:47Z | EasyFL is a platform tailored for federated learning backdoor attacks, offering a user-friendly and maintainable environment for neural network research and experimentation.  | https://github.com/Elonisme/EasyFL | 2 | 1| 
 | 20240122T23:10:30Z | php simple backdoor | https://github.com/Yunolay/php_simple_backdoor | 0 | 0| 
-| 20240122T13:16:57Z | Windows Hacking FrameWork using Reverse Shell | https://github.com/canarddu38/DUCKSPLOIT | 84 | 16| 
 | 20240122T09:18:53Z | Remove Telia backdoors from ADB EA4201N | https://github.com/antnks/debloat-telia-adb | 1 | 2| 
 | 20240122T09:10:10Z | PHP shell backdoors list  ( collection ) | https://github.com/1337r0j4n/php-backdoors | 102 | 42| 
-| 20240122T06:26:42Z | Null | https://github.com/zro-0/Backdoor | 0 | 0| 
-| 20240121T22:04:37Z | VenomControl Rat is a Remote Access Tool (RAT) designed to remotely monitor and control other computers through a secure encrypted connection | https://github.com/MakShadow/VenomControl-Rat-Crack-Source | 0 | 0| 
-| 20240121T21:46:32Z | Null | https://github.com/Spiegelin/Simple-Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240123T20:32:32Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 731 | 130| 
+| 20240123T20:29:45Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2399 | 649| 
 | 20240123T03:59:52Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 503 | 43| 
 | 20240122T17:48:03Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 103 | 10| 
 | 20240122T08:48:10Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 218 | 21| 
 | 20240122T06:43:47Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 49 | 9| 
-| 20240120T23:10:29Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2397 | 648| 
-| 20240120T17:38:20Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 730 | 130| 
 | 20240119T11:36:23Z | A symbolic execution engine for EVM smart contract binaries | https://github.com/ucsb-seclab/greed | 15 | 1| 
 | 20240115T06:50:49Z | Protocol Inference Symbolic Execution - using dynamic symbolic execution | https://github.com/liordror/piseDSE | 1 | 1| 
 | 20240114T02:59:10Z | Null | https://github.com/leiDnedyA/ocaml_symbolic_execution | 0 | 0| 
