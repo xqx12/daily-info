@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240124T02:36:38Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5779 | 778| 
 | 20240124T02:16:00Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0065-app-RbcA_-advise-exploit | 0 | 0| 
 | 20240124T02:00:56Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5693 | 1101| 
 | 20240124T00:36:15Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 243 | 19| 
@@ -71,7 +72,6 @@
 | 20240124T00:18:30Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-gb | 1 | 0| 
 | 20240124T00:17:16Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-tg | 1 | 0| 
 | 20240124T00:16:33Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-tg | 1 | 0| 
-| 20240123T22:57:35Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5778 | 778| 
 | 20240123T19:55:57Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 1151 | 222| 
 | 20240123T14:42:38Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 86 | 12| 
 
