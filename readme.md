@@ -18,9 +18,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240124T13:16:37Z | CVE-2024-0204 | Authentication Bypass in GoAnywhere MFT | https://github.com/horizon3ai/CVE-2024-0204 | | 
 | 20240124T12:58:49Z | CVE-2022-4262 | Null | https://github.com/mistymntncop/CVE-2022-4262 | | 
 | 20240124T12:43:11Z | CVE-2023-40140 | Null | https://github.com/hshivhare67/platform_frameworks_base_android-4.2.2_r1_CVE-2023-40140 | | 
-| 20240124T11:59:07Z | CVE-2024-0204 | Authentication Bypass in GoAnywhere MFT | https://github.com/horizon3ai/CVE-2024-0204 | | 
 | 20240124T10:15:44Z | CVE-2023-22518 | Lỗ hổng ủy quyền không phù hợp trong Trung tâm dữ liệu Confluence và Máy chủ + bugsBonus 🔥 | https://github.com/bibo318/CVE-2023-22518 | | 
 | 20240124T07:30:45Z | CVE-2024-0204 | Scanning for vulnerable GoAnywhere MFT CVE-2024-0204 | https://github.com/cbeek-r7/CVE-2024-0204 | | 
 | 20240124T06:11:19Z | CVE-2023-22527 | Exploit for CVE-2023-22527 - Atlassian Confluence | https://github.com/yoryio/CVE-2023-22527 | | 
