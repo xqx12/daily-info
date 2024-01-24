@@ -45,6 +45,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240123T19:55:57Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 1151 | 222| 
 | 20240123T14:42:38Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 86 | 12| 
 | 20240123T13:57:32Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-python-personal-M430A-challenge-exploit | 0 | 0| 
 | 20240123T13:47:34Z | Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google%s Tsunami, Ostorlab%s Asteroid and Bug Bounty programs. | https://github.com/Ostorlab/KEV | 365 | 16| 
@@ -54,7 +55,6 @@
 | 20240123T13:11:40Z | Null | https://github.com/jaytiwari05/Portswigger-SQLi-Exploits | 0 | 0| 
 | 20240123T11:36:10Z | A game where Cardano developers and enthusiasts can try to exploit purposely vulnerable smart contracts and learn about the most common security issues and how to prevent them. | https://github.com/vacuumlabs/cardano-ctf | 5 | 0| 
 | 20240123T02:44:08Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0066-app-rX8iE-exploit-overcome | 0 | 0| 
-| 20240123T02:43:52Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0054-app-dFVuc-come-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐

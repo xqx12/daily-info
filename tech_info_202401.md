@@ -70,10 +70,10 @@
 | 20240124T00:18:30Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-gb | 1 | 0| 
 | 20240124T00:17:16Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-tg | 1 | 0| 
 | 20240124T00:16:33Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-tg | 1 | 0| 
+| 20240123T19:55:57Z | Linux/Windows post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | 1151 | 222| 
 | 20240123T14:42:38Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 86 | 12| 
 | 20240123T13:57:32Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-python-personal-M430A-challenge-exploit | 0 | 0| 
 | 20240123T13:47:34Z | Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google%s Tsunami, Ostorlab%s Asteroid and Bug Bounty programs. | https://github.com/Ostorlab/KEV | 365 | 16| 
-| 20240123T13:43:50Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 1462 | 175| 
 
 
 # backdoor on Github 推荐
