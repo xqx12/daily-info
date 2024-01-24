@@ -121,7 +121,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240124T12:32:29Z | Flipperzero Mifare Fuzzer/WordList mifare classic 4k | https://github.com/naz50/Flipperzero-Mifare-Fuzzer- | 0 | 0| 
+| 20240124T13:03:23Z | Flipperzero Mifare Fuzzer/WordList mifare classic 4k | https://github.com/naz50/Flipperzero-Mifare-Fuzzer- | 0 | 0| 
 | 20240124T12:23:22Z | Null | https://github.com/Forrest-Jones/fuzzy-memory | 0 | 0| 
 | 20240124T11:54:53Z | Null | https://github.com/SZU-AdvTech-2023/243-Evaluating-and-Improving-Hybrid-Fuzzing | 0 | 0| 
 | 20240124T09:41:22Z | Null | https://github.com/ntkolev/fuzzy-guacamole | 0 | 0| 
