@@ -64,12 +64,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240124T01:36:42Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5692 | 1101| 
 | 20240124T00:36:15Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 243 | 19| 
 | 20240124T00:19:27Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-gb | 1 | 0| 
 | 20240124T00:18:30Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-gb | 1 | 0| 
 | 20240124T00:17:16Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-tg | 1 | 0| 
 | 20240124T00:16:33Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-tg | 1 | 0| 
-| 20240123T21:09:07Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5691 | 1101| 
 | 20240123T14:42:38Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 86 | 12| 
 | 20240123T13:57:32Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-python-personal-M430A-challenge-exploit | 0 | 0| 
 | 20240123T13:47:34Z | Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google%s Tsunami, Ostorlab%s Asteroid and Bug Bounty programs. | https://github.com/Ostorlab/KEV | 365 | 16| 
