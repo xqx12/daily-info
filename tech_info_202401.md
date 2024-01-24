@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240124T13:53:37Z | CVE-2023-45185 | IBM i Access Client Solutions < 1.1.9.4 - Remote code execution via insecure deserialisation | https://github.com/afine-com/CVE-2023-45185 | | 
 | 20240124T13:51:13Z | CVE-2022-4262 | Null | https://github.com/mistymntncop/CVE-2022-4262 | | 
 | 20240124T13:31:08Z | CVE-2024-0204 | Authentication Bypass in GoAnywhere MFT | https://github.com/horizon3ai/CVE-2024-0204 | | 
 | 20240124T12:43:11Z | CVE-2023-40140 | Null | https://github.com/hshivhare67/platform_frameworks_base_android-4.2.2_r1_CVE-2023-40140 | | 
@@ -35,7 +36,6 @@
 | 20240124T04:50:13Z | CVE-2023-7028 | Exploit for CVE-2023-7028 - GitLab | https://github.com/yoryio/CVE-2023-7028 | | 
 | 20240124T04:49:56Z | CVE-2023-46805 | Scanner for CVE-2023-46805 - Ivanti Connect Secure | https://github.com/yoryio/CVE-2023-46805 | | 
 | 20240124T01:39:36Z | CVE-2024-20698 | Analysis of the vulnerability | https://github.com/RomanRybachek/CVE-2024-20698 | | 
-| 20240124T01:05:19Z | CVE-2023-22527 | A critical severity Remote Code Execution (RCE) vulnerability (CVE-2023-22527) was discovered in Confluence Server and Data Center.  | https://github.com/Manh130902/CVE-2023-22527-POC | | 
 
 
 # klee on Github 推荐
