@@ -46,6 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240124T13:50:37Z | Team project that exploits parallelization for image filtering  | https://github.com/bestavra/INF560_Image-Filtering | 0 | 0| 
 | 20240124T13:48:02Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5784 | 779| 
 | 20240124T13:19:45Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5695 | 1101| 
 | 20240124T13:00:16Z | Exploit Central | https://github.com/NapoleonSchoolGames/Exploit-Central | 0 | 0| 
@@ -55,7 +56,6 @@
 | 20240124T08:33:24Z | Developed for Escape From Tarkov and written in C++ and C#. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/Maskorws/Escape-From-Tarkov-Eft-Aimbot-esp-Loots-Exploits-Max-Skills-High-Jump | 2 | 1| 
 | 20240124T02:16:00Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0065-app-RbcA_-advise-exploit | 0 | 0| 
 | 20240124T00:36:15Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 243 | 19| 
-| 20240124T00:19:27Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-gb | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -88,6 +88,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240124T13:49:45Z | a web fuzzer using the httpipe format | https://github.com/codesoap/pfuzz | 80 | 3| 
 | 20240124T13:46:48Z | A multi-fuzzer management utility for all of your Rust fuzzing needs 🧑‍🎤 | https://github.com/srlabs/ziggy | 46 | 6| 
 | 20240124T13:21:03Z | Papers on Fuzzing with the assistance of AI and Large Language Models | https://github.com/Microsvuln/Awesome-AI-Fuzzing | 0 | 0| 
 | 20240124T13:03:23Z | Flipperzero Mifare Fuzzer/WordList mifare classic 4k | https://github.com/naz50/Flipperzero-Mifare-Fuzzer- | 0 | 0| 
