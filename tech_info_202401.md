@@ -32,10 +32,10 @@
 | 20240123T22:44:08Z | CVE-2024-0204 | Scanning for vulnerable GoAnywhere MFT CVE-2024-0204 | https://github.com/cbeek-r7/CVE-2024-0204 | | 
 | 20240123T21:40:35Z | cve-2023-45866 | Null | https://github.com/jjjjjjjj987/cve-2023-45866-py | | 
 | 20240123T19:19:30Z | CVE-2023-7028 | Null | https://github.com/thanhlam-attt/CVE-2023-7028 | | 
+| 20240123T18:09:32Z | CVE-2023-22527 | Atlassian Confluence - Remote Code Execution | https://github.com/Chocapikk/CVE-2023-22527 | | 
 | 20240123T18:01:09Z | CVE-2023-22527 | An Exploitation tool to exploit the confluence server that are vulnerable to CVE-2023-22527 leads to RCE | https://github.com/sanjai-AK47/CVE-2023-22527 | | 
 | 20240123T16:08:21Z | CVE-2023-45182 | IBM i Access Client Solutions < 1.1.9.4 - Weak password encryption | https://github.com/afine-com/CVE-2023-45182 | | 
 | 20240123T13:38:47Z | CVE-2023-22518 | Lỗ hổng ủy quyền không phù hợp trong Trung tâm dữ liệu Confluence và Máy chủ + bugsBonus 🔥 | https://github.com/bibo318/CVE-2023-22518 | | 
-| 20240123T13:11:54Z | CVE-2023-40109 | Null | https://github.com/uthrasri/CVE-2023-40109 | | 
 
 
 # klee on Github 推荐
