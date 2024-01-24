@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240124T00:36:15Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 243 | 19| 
 | 20240124T00:19:27Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-gb | 1 | 0| 
 | 20240124T00:18:30Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-gb | 1 | 0| 
 | 20240124T00:17:16Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-tg | 1 | 0| 
@@ -73,7 +74,6 @@
 | 20240123T13:57:32Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-python-personal-M430A-challenge-exploit | 0 | 0| 
 | 20240123T13:47:34Z | Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google%s Tsunami, Ostorlab%s Asteroid and Bug Bounty programs. | https://github.com/Ostorlab/KEV | 365 | 16| 
 | 20240123T13:43:50Z | Learn & Contribute on previously exploited vulnerabilities across several EVM projects. | https://github.com/coinspect/learn-evm-attacks | 1462 | 175| 
-| 20240123T13:33:10Z | the wonderful little wifi exploit. | https://github.com/AnnotateHQ/caub | 0 | 0| 
 
 
 # backdoor on Github 推荐
