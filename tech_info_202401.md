@@ -26,8 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240124T01:51:46Z | CVE-2024-0204 | Authentication Bypass in GoAnywhere MFT | https://github.com/horizon3ai/CVE-2024-0204 | | 
 | 20240124T01:39:36Z | CVE-2024-20698 | Analysis of the vulnerability | https://github.com/RomanRybachek/CVE-2024-20698 | | 
-| 20240124T01:11:28Z | CVE-2024-0204 | Authentication Bypass in GoAnywhere MFT | https://github.com/horizon3ai/CVE-2024-0204 | | 
 | 20240124T01:05:19Z | CVE-2023-22527 | A critical severity Remote Code Execution (RCE) vulnerability (CVE-2023-22527) was discovered in Confluence Server and Data Center.  | https://github.com/Manh130902/CVE-2023-22527-POC | | 
 | 20240123T22:44:08Z | CVE-2024-0204 | Scanning for vulnerable GoAnywhere MFT CVE-2024-0204 | https://github.com/cbeek-r7/CVE-2024-0204 | | 
 | 20240123T21:40:35Z | cve-2023-45866 | Null | https://github.com/jjjjjjjj987/cve-2023-45866-py | | 
