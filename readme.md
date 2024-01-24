@@ -61,6 +61,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240124T13:08:53Z | Linux kernel module that provides remote backdoor using netfilters, file and pid hiding. | https://github.com/toIstoy/rootkit | 0 | 0| 
 | 20240124T12:33:55Z | Null | https://github.com/Raytsang24/NLP-backdoor-scanning | 0 | 0| 
 | 20240124T12:31:29Z | Null | https://github.com/Raytsang24/backdoor-detection-HuggingFace | 1 | 0| 
 | 20240124T11:58:33Z | Null | https://github.com/SZU-AdvTech-2023/348-Deepsight-Mitigating-Backdoor-Attacks-in-Federated-Learning-Through-Deep-Model-Inspection | 0 | 0| 
