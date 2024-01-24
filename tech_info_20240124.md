@@ -88,6 +88,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240124T13:46:48Z | A multi-fuzzer management utility for all of your Rust fuzzing needs 🧑‍🎤 | https://github.com/srlabs/ziggy | 46 | 6| 
 | 20240124T13:21:03Z | Papers on Fuzzing with the assistance of AI and Large Language Models | https://github.com/Microsvuln/Awesome-AI-Fuzzing | 0 | 0| 
 | 20240124T13:03:23Z | Flipperzero Mifare Fuzzer/WordList mifare classic 4k | https://github.com/naz50/Flipperzero-Mifare-Fuzzer- | 0 | 0| 
 | 20240124T12:28:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9343 | 2093| 
