@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240124T01:51:46Z | CVE-2024-0204 | Authentication Bypass in GoAnywhere MFT | https://github.com/horizon3ai/CVE-2024-0204 | | 
+| 20240124T02:33:15Z | CVE-2024-0204 | Authentication Bypass in GoAnywhere MFT | https://github.com/horizon3ai/CVE-2024-0204 | | 
 | 20240124T01:39:36Z | CVE-2024-20698 | Analysis of the vulnerability | https://github.com/RomanRybachek/CVE-2024-20698 | | 
 | 20240124T01:05:19Z | CVE-2023-22527 | A critical severity Remote Code Execution (RCE) vulnerability (CVE-2023-22527) was discovered in Confluence Server and Data Center.  | https://github.com/Manh130902/CVE-2023-22527-POC | | 
 | 20240123T22:44:08Z | CVE-2024-0204 | Scanning for vulnerable GoAnywhere MFT CVE-2024-0204 | https://github.com/cbeek-r7/CVE-2024-0204 | | 
@@ -79,7 +79,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240124T02:02:04Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 48 | 14| 
+| 20240124T02:28:32Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 49 | 15| 
+| 20240124T02:28:17Z | Wordpress BackDoor Plugin  | https://github.com/mashraf1997/wp-backdoor | 0 | 0| 
 | 20240123T18:12:38Z | Null | https://github.com/mrsuthar22/Backdoor | 0 | 0| 
 | 20240123T17:57:00Z | Windows Hacking FrameWork using Reverse Shell | https://github.com/canarddu38/DUCKSPLOIT | 85 | 16| 
 | 20240123T13:57:04Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 252 | 31| 
@@ -88,7 +89,6 @@
 | 20240123T04:03:47Z | EasyFL is a platform tailored for federated learning backdoor attacks, offering a user-friendly and maintainable environment for neural network research and experimentation.  | https://github.com/Elonisme/EasyFL | 2 | 1| 
 | 20240122T23:10:30Z | php simple backdoor | https://github.com/Yunolay/php_simple_backdoor | 0 | 0| 
 | 20240122T09:18:53Z | Remove Telia backdoors from ADB EA4201N | https://github.com/antnks/debloat-telia-adb | 1 | 2| 
-| 20240122T09:10:10Z | PHP shell backdoors list  ( collection ) | https://github.com/1337r0j4n/php-backdoors | 102 | 42| 
 
 
 # symbolic execution on Github 推荐
