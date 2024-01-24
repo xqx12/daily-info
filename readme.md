@@ -24,11 +24,11 @@
 | 20240123T19:19:30Z | CVE-2023-7028 | Null | https://github.com/thanhlam-attt/CVE-2023-7028 | | 
 | 20240123T18:01:09Z | CVE-2023-22527 | An Exploitation tool to exploit the confluence server that are vulnerable to CVE-2023-22527 leads to RCE | https://github.com/sanjai-AK47/CVE-2023-22527 | | 
 | 20240123T16:08:21Z | CVE-2023-45182 | IBM i Access Client Solutions < 1.1.9.4 - Weak password encryption | https://github.com/afine-com/CVE-2023-45182 | | 
-| 20240123T14:46:44Z | CVE-2023-22527 | A critical severity Remote Code Execution (RCE) vulnerability (CVE-2023-22527) was discovered in Confluence Server and Data Center.  | https://github.com/Manh130902/CVE-2023-22527-POC | | 
 | 20240123T13:38:47Z | CVE-2023-22518 | Lỗ hổng ủy quyền không phù hợp trong Trung tâm dữ liệu Confluence và Máy chủ + bugsBonus 🔥 | https://github.com/bibo318/CVE-2023-22518 | | 
 | 20240123T13:11:54Z | CVE-2023-40109 | Null | https://github.com/uthrasri/CVE-2023-40109 | | 
 | 20240123T12:55:14Z | CVE-2023-5717 | Null | https://github.com/uthrasri/linux_4.19.72_CVE-2023-5717 | | 
 | 20240123T12:38:29Z | CVE-2023-22527 | CVE-2023-22527 - RCE (Remote Code Execution) Vulnerability In Confluence Data Center and Confluence Server PoC | https://github.com/Avento/CVE-2023-22527_Confluence_RCE | | 
+| 20240123T12:15:30Z | CVE-2023-22527 | Atlassian Confluence - Remote Code Execution | https://github.com/Chocapikk/CVE-2023-22527 | | 
 
 
 # klee on Github 推荐
@@ -80,6 +80,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240123T13:41:16Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/puzhuoliu/Computer-Security-Conference-Acceptance-Rate | 38 | 2| 
 
 
 # fuzz on Github 推荐
@@ -91,10 +92,10 @@
 | 20240123T22:03:47Z | Null | https://github.com/google/fuzztest | 527 | 42| 
 | 20240123T21:56:10Z | Null | https://github.com/mariosky/2024-FuzzyCloud-paper | 0 | 0| 
 | 20240123T20:55:51Z | Null | https://github.com/erickfernandox/SqliFuzz | 0 | 0| 
-| 20240123T20:22:02Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51546 | 23498| 
 | 20240123T13:47:28Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST, GraphQL and RPC (e.g., gRPC and Thrift). | https://github.com/EMResearch/EvoMaster | 398 | 73| 
 | 20240123T13:44:27Z | Null | https://github.com/Mirjinx80/fuzzy-winner | 0 | 0| 
 | 20240123T13:12:32Z | Null | https://github.com/Mirjinx80/fuzzy-telegram | 0 | 0| 
+| 20240123T13:04:32Z | Null | https://github.com/Mirjinx80/fuzzy-sniffle | 0 | 0| 
 
 
 
