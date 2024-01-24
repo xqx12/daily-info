@@ -79,6 +79,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240124T02:42:33Z | Wordpress BackDoor Plugin  | https://github.com/mashraf1997/Wordpress-Backdoor | 0 | 0| 
 | 20240124T02:28:32Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 49 | 15| 
 | 20240124T02:28:17Z | Wordpress BackDoor Plugin  | https://github.com/mashraf1997/wp-backdoor | 0 | 0| 
 | 20240123T18:12:38Z | Null | https://github.com/mrsuthar22/Backdoor | 0 | 0| 
@@ -88,7 +89,6 @@
 | 20240123T06:19:33Z | Official implementation of paper %Venom: A Generic Backdoor Attack Enhancer for Improving Survivability by Decision Path Coupling% | https://github.com/VenomEnhancer/Venom | 0 | 0| 
 | 20240123T04:03:47Z | EasyFL is a platform tailored for federated learning backdoor attacks, offering a user-friendly and maintainable environment for neural network research and experimentation.  | https://github.com/Elonisme/EasyFL | 2 | 1| 
 | 20240122T23:10:30Z | php simple backdoor | https://github.com/Yunolay/php_simple_backdoor | 0 | 0| 
-| 20240122T09:18:53Z | Remove Telia backdoors from ADB EA4201N | https://github.com/antnks/debloat-telia-adb | 1 | 2| 
 
 
 # symbolic execution on Github 推荐
