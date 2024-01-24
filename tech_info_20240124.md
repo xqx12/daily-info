@@ -74,11 +74,14 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240124T12:31:19Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 731 | 130| 
+| 20240124T05:52:52Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 371 | 84| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240124T10:48:37Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 146 | 13| 
 
 
 # fuzz on Github 推荐
