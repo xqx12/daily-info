@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240125T02:46:01Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0033-app-YwpVw-exploit-drive | 0 | 0| 
 | 20240125T02:26:57Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 6197 | 702| 
 | 20240125T02:17:40Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0063-app-AZNKZ-exploit-guide | 0 | 0| 
 | 20240125T02:15:06Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 786 | 186| 
@@ -74,7 +75,6 @@
 | 20240125T01:50:41Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0008-app-CADOz-conduct-exploit | 0 | 0| 
 | 20240125T01:32:42Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0007-app-x3cd2-describe-exploit | 0 | 0| 
 | 20240125T01:32:41Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0025-app-VcPXT-exploit-win | 0 | 0| 
-| 20240125T01:19:13Z | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | 744 | 69| 
 
 
 # backdoor on Github 推荐
