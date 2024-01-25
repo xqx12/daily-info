@@ -64,6 +64,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240125T06:42:10Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 104 | 10| 
 | 20240125T02:09:01Z | A symbolic execution engine for EVM smart contract binaries | https://github.com/ucsb-seclab/greed | 16 | 1| 
 
 
