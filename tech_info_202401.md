@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240125T02:01:17Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0055-app-ADxuo-exploit-learn | 0 | 0| 
 | 20240125T02:00:27Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5785 | 779| 
 | 20240125T01:55:52Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 6195 | 702| 
 | 20240125T01:50:41Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0008-app-CADOz-conduct-exploit | 0 | 0| 
@@ -74,7 +75,6 @@
 | 20240125T01:08:04Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0058-app-R5f7S-press-exploit | 0 | 0| 
 | 20240125T00:53:34Z | Library for the exploitation of the PSP Kernel. | https://github.com/PSP-Archive/LibPspExploit | 0 | 0| 
 | 20240125T00:38:05Z | Probe the internet privately. | https://github.com/Aluminum-Depot/Tinf0il-new | 8 | 72| 
-| 20240125T00:36:40Z | A tool made for easy creation of personalized flipper zero skiovox exploit assisters. | https://github.com/SpacedOutCode/WINDEX | 0 | 0| 
 
 
 # backdoor on Github 推荐
