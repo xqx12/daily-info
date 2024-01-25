@@ -72,9 +72,9 @@
 | 20240125T02:14:41Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0024-app-dUB5c-fit-exploit | 0 | 0| 
 | 20240125T02:01:17Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0055-app-ADxuo-exploit-learn | 0 | 0| 
 | 20240125T02:00:27Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5785 | 779| 
+| 20240125T01:56:56Z | Porch Pirate is the most comprehensive Postman recon / OSINT client and framework that facilitates the automated discovery and exploitation of API endpoints and secrets committed to workspaces, collections, requests, users and teams. Porch Pirate can be used as a client or be incorporated into your own applications. | https://github.com/MandConsultingGroup/porch-pirate | 214 | 23| 
 | 20240125T01:50:41Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0008-app-CADOz-conduct-exploit | 0 | 0| 
 | 20240125T01:32:42Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0007-app-x3cd2-describe-exploit | 0 | 0| 
-| 20240125T01:32:41Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0025-app-VcPXT-exploit-win | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -122,7 +122,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20240125T02:39:13Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9343 | 2096| 
-| 20240125T02:36:50Z | Null | https://github.com/waleedassar/SimpleNTSyscallFuzzer | 0 | 0| 
+| 20240125T02:36:50Z | Null | https://github.com/waleedassar/SimpleNTSyscallFuzzer | 0 | 1| 
 | 20240125T02:11:04Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51580 | 23499| 
 | 20240125T01:52:09Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2459 | 313| 
 | 20240125T01:38:02Z | Pact Consumer | https://github.com/daedalus1215/fuzzy-guide | 0 | 0| 
