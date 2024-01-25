@@ -93,7 +93,6 @@
 | --- | --- | --- | --- | ---| 
 | 20240124T22:37:09Z | Null | https://github.com/GrafVonTee/fuzzy-shooter | 0 | 0| 
 | 20240124T19:15:15Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5149 | 557| 
-| 20240124T16:24:44Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2458 | 313| 
 | 20240124T13:49:45Z | a web fuzzer using the httpipe format | https://github.com/codesoap/pfuzz | 80 | 3| 
 | 20240124T13:46:48Z | A multi-fuzzer management utility for all of your Rust fuzzing needs 🧑‍🎤 | https://github.com/srlabs/ziggy | 46 | 6| 
 | 20240124T13:21:03Z | Papers on Fuzzing with the assistance of AI and Large Language Models | https://github.com/Microsvuln/Awesome-AI-Fuzzing | 0 | 0| 
@@ -101,6 +100,7 @@
 | 20240124T12:28:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9343 | 2093| 
 | 20240124T12:23:22Z | Null | https://github.com/Forrest-Jones/fuzzy-memory | 0 | 0| 
 | 20240124T11:54:53Z | Null | https://github.com/SZU-AdvTech-2023/243-Evaluating-and-Improving-Hybrid-Fuzzing | 0 | 0| 
+| 20240124T09:41:22Z | Null | https://github.com/ntkolev/fuzzy-guacamole | 0 | 0| 
 
 
 
