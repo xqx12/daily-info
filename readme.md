@@ -18,6 +18,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240124T23:41:28Z | CVE-2021-4034 | PoC de Polkit | https://github.com/cerodah/CVE-2021-4034 | | 
+| 20240124T22:59:40Z | CVE-2024-0204 | This script exploits the CVE-2024-0204 vulnerability in Fortra GoAnywhere MFT, allowing the creation of unauthorized administrative users, for educational and authorized testing purposes. | https://github.com/m-cetin/CVE-2024-0204 | | 
+| 20240124T19:57:37Z | 未知编号 | V8 type confusion allows chrome sandbox escape | https://github.com/paulsery/CVE_2023_3420 | | 
 | 20240124T13:53:37Z | CVE-2023-45185 | IBM i Access Client Solutions < 1.1.9.4 - Remote code execution via insecure deserialisation | https://github.com/afine-com/CVE-2023-45185 | | 
 | 20240124T13:51:13Z | CVE-2022-4262 | Null | https://github.com/mistymntncop/CVE-2022-4262 | | 
 | 20240124T13:31:08Z | CVE-2024-0204 | Authentication Bypass in GoAnywhere MFT | https://github.com/horizon3ai/CVE-2024-0204 | | 
@@ -25,42 +28,41 @@
 | 20240124T10:15:44Z | CVE-2023-22518 | Lỗ hổng ủy quyền không phù hợp trong Trung tâm dữ liệu Confluence và Máy chủ + bugsBonus 🔥 | https://github.com/bibo318/CVE-2023-22518 | | 
 | 20240124T07:30:45Z | CVE-2024-0204 | Scanning for vulnerable GoAnywhere MFT CVE-2024-0204 | https://github.com/cbeek-r7/CVE-2024-0204 | | 
 | 20240124T06:11:19Z | CVE-2023-22527 | Exploit for CVE-2023-22527 - Atlassian Confluence | https://github.com/yoryio/CVE-2023-22527 | | 
-| 20240124T04:50:13Z | CVE-2023-7028 | Exploit for CVE-2023-7028 - GitLab | https://github.com/yoryio/CVE-2023-7028 | | 
-| 20240124T04:49:56Z | CVE-2023-46805 | Scanner for CVE-2023-46805 - Ivanti Connect Secure | https://github.com/yoryio/CVE-2023-46805 | | 
-| 20240124T01:39:36Z | CVE-2024-20698 | Analysis of the vulnerability | https://github.com/RomanRybachek/CVE-2024-20698 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240124T11:15:37Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15068 | 451| 
+| 20240124T19:28:02Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15070 | 451| 
+| 20240124T16:17:42Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2398 | 649| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240124T11:09:00Z | Null | https://github.com/pristaaaa/S2e | 0 | 0| 
+| 20240124T14:24:16Z | Null | https://github.com/pristaaaa/S2e | 0 | 0| 
 | 20240124T05:52:52Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 371 | 84| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240124T22:19:01Z | just a bunch of stuff related to web exp | https://github.com/gerbsec/web-exploitation | 0 | 0| 
+| 20240124T18:11:32Z | External cheat for Rainbow Six Siege offering ESP, aimbot, and various tactical advantages. | https://github.com/Maskorws/Klar-gg-Rainbow-Six-Siege-RS6-Esp-NoRroil-Hwid-Spoofer-Exploit | 0 | 0| 
 | 20240124T13:58:06Z | dotnet 6 project to pown visual htb | https://github.com/bcosteGH/visual-exploit | 0 | 0| 
 | 20240124T13:50:37Z | Team project that exploits parallelization for image filtering  | https://github.com/bestavra/INF560_Image-Filtering | 0 | 0| 
 | 20240124T13:48:02Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5784 | 779| 
-| 20240124T13:19:45Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5695 | 1101| 
 | 20240124T13:00:16Z | Exploit Central | https://github.com/NapoleonSchoolGames/Exploit-Central | 0 | 0| 
 | 20240124T11:18:28Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5805 | 730| 
+| 20240124T11:16:06Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 785 | 186| 
 | 20240124T09:09:50Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/GhostTroops/TOP | 598 | 118| 
 | 20240124T08:40:55Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 87 | 12| 
-| 20240124T08:33:24Z | Developed for Escape From Tarkov and written in C++ and C#. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/Maskorws/Escape-From-Tarkov-Eft-Aimbot-esp-Loots-Exploits-Max-Skills-High-Jump | 2 | 1| 
-| 20240124T02:16:00Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0065-app-RbcA_-advise-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240124T17:35:52Z | Attiny85 USB Rubber ducky to download a backdoor from powershell and make it launch on startup eachtime | https://github.com/Aliefe02/Attiny85-Rubber-Ducky | 0 | 0| 
 | 20240124T13:08:53Z | Linux kernel module that provides remote backdoor using netfilters, file and pid hiding. | https://github.com/toIstoy/rootkit | 0 | 0| 
 | 20240124T12:33:55Z | Null | https://github.com/Raytsang24/NLP-backdoor-scanning | 0 | 0| 
 | 20240124T12:31:29Z | Null | https://github.com/Raytsang24/backdoor-detection-HuggingFace | 1 | 0| 
@@ -88,6 +90,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240124T22:37:09Z | Null | https://github.com/GrafVonTee/fuzzy-shooter | 0 | 0| 
+| 20240124T19:15:15Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5149 | 557| 
+| 20240124T16:24:44Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2458 | 313| 
 | 20240124T13:49:45Z | a web fuzzer using the httpipe format | https://github.com/codesoap/pfuzz | 80 | 3| 
 | 20240124T13:46:48Z | A multi-fuzzer management utility for all of your Rust fuzzing needs 🧑‍🎤 | https://github.com/srlabs/ziggy | 46 | 6| 
 | 20240124T13:21:03Z | Papers on Fuzzing with the assistance of AI and Large Language Models | https://github.com/Microsvuln/Awesome-AI-Fuzzing | 0 | 0| 
@@ -95,9 +100,6 @@
 | 20240124T12:28:57Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9343 | 2093| 
 | 20240124T12:23:22Z | Null | https://github.com/Forrest-Jones/fuzzy-memory | 0 | 0| 
 | 20240124T11:54:53Z | Null | https://github.com/SZU-AdvTech-2023/243-Evaluating-and-Improving-Hybrid-Fuzzing | 0 | 0| 
-| 20240124T09:41:22Z | Null | https://github.com/ntkolev/fuzzy-guacamole | 0 | 0| 
-| 20240124T09:13:44Z | CMake-based C++ project template for streamlined cross-platform development and easy build configuration. | https://github.com/georgegoldman/fuzzy-octo-system | 0 | 0| 
-| 20240124T01:54:44Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51548 | 23498| 
 
 
 
