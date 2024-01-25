@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240125T02:14:41Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0024-app-dUB5c-fit-exploit | 0 | 0| 
 | 20240125T02:04:22Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 6196 | 702| 
 | 20240125T02:01:17Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0055-app-ADxuo-exploit-learn | 0 | 0| 
 | 20240125T02:00:27Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5785 | 779| 
@@ -74,7 +75,6 @@
 | 20240125T01:19:13Z | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | 744 | 69| 
 | 20240125T01:08:04Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0058-app-R5f7S-press-exploit | 0 | 0| 
 | 20240125T00:53:34Z | Library for the exploitation of the PSP Kernel. | https://github.com/PSP-Archive/LibPspExploit | 0 | 0| 
-| 20240125T00:38:05Z | Probe the internet privately. | https://github.com/Aluminum-Depot/Tinf0il-new | 8 | 72| 
 
 
 # backdoor on Github 推荐
@@ -95,6 +95,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240125T02:09:01Z | A symbolic execution engine for EVM smart contract binaries | https://github.com/ucsb-seclab/greed | 16 | 1| 
 | 20240124T16:17:42Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2398 | 649| 
 | 20240124T12:31:19Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 731 | 131| 
 | 20240124T05:52:52Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 371 | 84| 
@@ -102,7 +103,6 @@
 | 20240122T17:48:03Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 103 | 10| 
 | 20240122T08:48:10Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 218 | 21| 
 | 20240122T06:43:47Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 49 | 9| 
-| 20240119T11:36:23Z | A symbolic execution engine for EVM smart contract binaries | https://github.com/ucsb-seclab/greed | 15 | 1| 
 | 20240115T06:50:49Z | Protocol Inference Symbolic Execution - using dynamic symbolic execution | https://github.com/liordror/piseDSE | 1 | 1| 
 | 20240114T02:59:10Z | Null | https://github.com/leiDnedyA/ocaml_symbolic_execution | 0 | 0| 
 
