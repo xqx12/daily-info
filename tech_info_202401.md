@@ -65,16 +65,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240125T13:33:59Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 5021 | 652| 
+| 20240125T13:33:03Z | Null | https://github.com/NikamSugat/Port-Exploiter | 0 | 0| 
 | 20240125T12:41:24Z | Exploit Central | https://github.com/NapoleonSchoolGames/Exploit-Central | 0 | 0| 
 | 20240125T12:31:06Z | Very Basic package to store results of ML models Grid search results are hard to exploit. This package aims to store them in a more convenient way. | https://github.com/AlexandreGazagnes/skres | 1 | 0| 
 | 20240125T12:30:21Z | Consensus Knowledge Exploitation for Partial Query Based Image Retrieval, TCSVT 2023 | https://github.com/zhangy0822/AoCer | 1 | 0| 
 | 20240125T12:11:27Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5700 | 1101| 
-| 20240125T11:29:31Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 5020 | 652| 
 | 20240125T09:30:40Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 94 | 34| 
 | 20240125T02:46:01Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0033-app-YwpVw-exploit-drive | 0 | 0| 
 | 20240125T02:26:57Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 6197 | 702| 
 | 20240125T02:17:40Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0063-app-AZNKZ-exploit-guide | 0 | 0| 
-| 20240125T02:15:06Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 786 | 186| 
 
 
 # backdoor on Github 推荐
