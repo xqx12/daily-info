@@ -19,6 +19,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240125T13:43:33Z | CVE-2024-23740 |  CVE-2024-23739 | https://github.com/V3x0r/CVE-2024-23740 | | 
 | 20240125T13:41:50Z | CVE-2024-23739 |  CVE-2024-23739 | https://github.com/V3x0r/CVE-2024-23739 | | 
 | 20240125T13:37:08Z | CVE-2024-23739 |  CVE-2024-23739 | https://github.com/V3x0r/-CVE-2024-23739 | | 
 | 20240125T13:27:20Z | CVE-2024-23738 | CVE-2024-23738 | https://github.com/V3x0r/CVE-2024-23738 | | 
@@ -28,7 +29,6 @@
 | 20240125T09:56:01Z | CVE-2023-7028 | Repository to install CVE-2023-7028 vulnerable Gitlab instance | https://github.com/Trackflaw/CVE-2023-7028-Docker | | 
 | 20240125T09:23:36Z | CVE-2023-22527 | CVE-2023-22527 | https://github.com/Privia-Security/CVE-2023-22527 | | 
 | 20240125T08:37:31Z | CVE-2024-23897 | CVE-2024-23897 (CVSS 9.8): Critical Jenkins Security Vulnerability, RCE POC  | https://github.com/forsaken0127/CVE-2024-23897 | | 
-| 20240125T07:00:38Z | CVE-2024-22939 | CVE-2024-22939 | https://github.com/NUDTTAN91/CVE-2024-22939 | | 
 
 
 # klee on Github 推荐
@@ -46,7 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240125T13:33:59Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 5021 | 652| 
+| 20240125T13:42:58Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 5022 | 652| 
 | 20240125T13:33:03Z | Null | https://github.com/NikamSugat/Port-Exploiter | 0 | 0| 
 | 20240125T12:41:24Z | Exploit Central | https://github.com/NapoleonSchoolGames/Exploit-Central | 0 | 0| 
 | 20240125T12:31:06Z | Very Basic package to store results of ML models Grid search results are hard to exploit. This package aims to store them in a more convenient way. | https://github.com/AlexandreGazagnes/skres | 1 | 0| 
