@@ -11,6 +11,9 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20240125 | 软件供应商攻防常规战之SDL | https://mp.weixin.qq.com/s/DJNfsg3D6vxXEcH1RSWPbw| 
+| 20240125 | 软件供应商实战对抗十大安全举措 | https://mp.weixin.qq.com/s/xyItAKLszooqKpxs6H2Tlw| 
+| 20240125 | 软件供应商面临的攻防实战风险 | https://mp.weixin.qq.com/s/X6hzmGathXkg11Bs0ohD2Q| 
 | 20240124 | 2023年威胁情报及APT活动分析报告 | https://archive.threatbook.cn/threatbook/2023-ThreatBook-CTI-APT-Analysis-Report.pdf| 
 | 20240124 | [SecData#1]-移动应用流量数据集 | https://mp.weixin.qq.com/s/GbcxQ9G4oH0nOWASmWVYLQ| 
 | 20240123 | 回望勒索软件的 2023 | https://mp.weixin.qq.com/s/WhKTQphzco5MWfGNfRH21g| 
@@ -18,31 +21,28 @@
 | 20240123 | “LLM+EM”—大语言模型赋能的暴露面管理系统思考 | https://mp.weixin.qq.com/s/mu7HUCPURtk6_4BAKwOeSw| 
 | 20240122 | 检测程序代码和文档中的错误 | https://mp.weixin.qq.com/s/1pRJSOm77CCK1Wi8IG-KNA| 
 | 20240122 | 借助大语言模型GPT-4辅助恶意代码动态分析 | https://mp.weixin.qq.com/s/zIAYb4jF-f5rsEFLNQPbww| 
-| 20240119 | 基于原生Kibana+Clickhouse构建日志平台 | https://mp.weixin.qq.com/s/T3tKYn6zE464bqTkoIa3dg| 
-| 20240118 | 大模型攻防实践 | https://xz.aliyun.com/t/13189| 
-| 20240118 | 基于QEMU的通用化模糊测试框架探索与实践 | https://xz.aliyun.com/t/13190| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240125T11:06:34Z | CVE-2023-22527 | CVE-2023-22527 - RCE (Remote Code Execution) Vulnerability In Confluence Data Center and Confluence Server PoC | https://github.com/adminlove520/CVE-2023-22527 | | 
+| 20240125T10:26:29Z | CVE-2024-22889 | Null | https://github.com/shenhav12/CVE-2024-22889-Plone-v6.0.9 | | 
+| 20240125T10:22:47Z | CVE-2023-22527 | Atlassian Confluence Remote Code Execution(RCE) Proof Of Concept | https://github.com/MaanVader/CVE-2023-22527-POC | | 
+| 20240125T09:56:01Z | CVE-2023-7028 | Repository to install CVE-2023-7028 vulnerable Gitlab instance | https://github.com/Trackflaw/CVE-2023-7028-Docker | | 
+| 20240125T09:23:36Z | CVE-2023-22527 | CVE-2023-22527 | https://github.com/Privia-Security/CVE-2023-22527 | | 
+| 20240125T08:37:31Z | CVE-2024-23897 | CVE-2024-23897 (CVSS 9.8): Critical Jenkins Security Vulnerability, RCE POC  | https://github.com/forsaken0127/CVE-2024-23897 | | 
+| 20240125T07:00:38Z | CVE-2024-22939 | CVE-2024-22939 | https://github.com/NUDTTAN91/CVE-2024-22939 | | 
 | 20240124T23:41:28Z | CVE-2021-4034 | PoC de Polkit | https://github.com/cerodah/CVE-2021-4034 | | 
 | 20240124T22:59:40Z | CVE-2024-0204 | This script exploits the CVE-2024-0204 vulnerability in Fortra GoAnywhere MFT, allowing the creation of unauthorized administrative users, for educational and authorized testing purposes. | https://github.com/m-cetin/CVE-2024-0204 | | 
 | 20240124T19:57:37Z | 未知编号 | V8 type confusion allows chrome sandbox escape | https://github.com/paulsery/CVE_2023_3420 | | 
-| 20240124T13:53:37Z | CVE-2023-45185 | IBM i Access Client Solutions < 1.1.9.4 - Remote code execution via insecure deserialisation | https://github.com/afine-com/CVE-2023-45185 | | 
-| 20240124T13:51:13Z | CVE-2022-4262 | Null | https://github.com/mistymntncop/CVE-2022-4262 | | 
-| 20240124T13:31:08Z | CVE-2024-0204 | Authentication Bypass in GoAnywhere MFT | https://github.com/horizon3ai/CVE-2024-0204 | | 
-| 20240124T12:43:11Z | CVE-2023-40140 | Null | https://github.com/hshivhare67/platform_frameworks_base_android-4.2.2_r1_CVE-2023-40140 | | 
-| 20240124T10:15:44Z | CVE-2023-22518 | Lỗ hổng ủy quyền không phù hợp trong Trung tâm dữ liệu Confluence và Máy chủ + bugsBonus 🔥 | https://github.com/bibo318/CVE-2023-22518 | | 
-| 20240124T07:30:45Z | CVE-2024-0204 | Scanning for vulnerable GoAnywhere MFT CVE-2024-0204 | https://github.com/cbeek-r7/CVE-2024-0204 | | 
-| 20240124T06:11:19Z | CVE-2023-22527 | Exploit for CVE-2023-22527 - Atlassian Confluence | https://github.com/yoryio/CVE-2023-22527 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240125T02:07:47Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15072 | 452| 
-| 20240125T01:38:27Z | Null | https://github.com/weshandsome/Klee-Running | 0 | 0| 
+| 20240125T12:51:05Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15075 | 452| 
+| 20240125T07:45:24Z | Null | https://github.com/weshandsome/Klee-Running | 0 | 0| 
 | 20240124T16:17:42Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2398 | 649| 
 | 20240121T22:29:46Z | Updated for symbolically identifying auto-vectorization checks with KLEE | https://github.com/weirdsmiley/polybench-c-4.2.1-beta | 0 | 0| 
 | 20240120T21:11:56Z | Null | https://github.com/darlingklee/klee_resource | 0 | 0| 
@@ -65,21 +65,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240125T12:41:24Z | Exploit Central | https://github.com/NapoleonSchoolGames/Exploit-Central | 0 | 0| 
+| 20240125T12:31:06Z | Very Basic package to store results of ML models Grid search results are hard to exploit. This package aims to store them in a more convenient way. | https://github.com/AlexandreGazagnes/skres | 1 | 0| 
+| 20240125T12:30:21Z | Consensus Knowledge Exploitation for Partial Query Based Image Retrieval, TCSVT 2023 | https://github.com/zhangy0822/AoCer | 1 | 0| 
+| 20240125T12:11:27Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5700 | 1101| 
+| 20240125T11:29:31Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 5020 | 652| 
 | 20240125T02:46:01Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0033-app-YwpVw-exploit-drive | 0 | 0| 
 | 20240125T02:26:57Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 6197 | 702| 
 | 20240125T02:17:40Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0063-app-AZNKZ-exploit-guide | 0 | 0| 
 | 20240125T02:15:06Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 786 | 186| 
 | 20240125T02:14:41Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0024-app-dUB5c-fit-exploit | 0 | 0| 
-| 20240125T02:01:17Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0055-app-ADxuo-exploit-learn | 0 | 0| 
-| 20240125T02:00:27Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5785 | 779| 
-| 20240125T01:56:56Z | Porch Pirate is the most comprehensive Postman recon / OSINT client and framework that facilitates the automated discovery and exploitation of API endpoints and secrets committed to workspaces, collections, requests, users and teams. Porch Pirate can be used as a client or be incorporated into your own applications. | https://github.com/MandConsultingGroup/porch-pirate | 214 | 23| 
-| 20240125T01:50:41Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0008-app-CADOz-conduct-exploit | 0 | 0| 
-| 20240125T01:32:42Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0007-app-x3cd2-describe-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240125T03:00:27Z | Null | https://github.com/osamasayed585/BackDoor | 0 | 0| 
 | 20240124T17:35:52Z | Attiny85 USB Rubber ducky to download a backdoor from powershell and make it launch on startup eachtime | https://github.com/Aliefe02/Attiny85-Rubber-Ducky | 0 | 0| 
 | 20240124T13:08:53Z | Linux kernel module that provides remote backdoor using netfilters, file and pid hiding. | https://github.com/toIstoy/rootkit | 0 | 0| 
 | 20240124T12:33:55Z | Null | https://github.com/Raytsang24/NLP-backdoor-scanning | 0 | 0| 
@@ -89,7 +90,6 @@
 | 20240124T02:55:40Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 253 | 31| 
 | 20240124T02:43:48Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 50 | 15| 
 | 20240124T02:42:33Z | Wordpress BackDoor Plugin  | https://github.com/mashraf1997/Wordpress-Backdoor | 0 | 0| 
-| 20240124T02:28:17Z | Wordpress BackDoor Plugin  | https://github.com/mashraf1997/wp-backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -121,16 +121,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240125T12:47:42Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 335 | 48| 
+| 20240125T12:15:12Z | Null | https://github.com/Dyceleb/fuzzy-winner | 0 | 0| 
+| 20240125T12:01:41Z | UPN Veteran Jatim , Aquaponic pH Control-Monitoring with Type-2 Fuzzy Method Based on IoT Bot , S1 Thesis Project | https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot | 1 | 0| 
+| 20240125T11:58:04Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4293 | 872| 
+| 20240125T06:30:45Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5150 | 557| 
+| 20240125T05:48:40Z | Papers on Fuzzing with the assistance of AI and Large Language Models | https://github.com/Microsvuln/Awesome-AI-Fuzzing | 1 | 0| 
+| 20240125T05:44:59Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9344 | 2096| 
 | 20240125T02:51:13Z | Null | https://github.com/waleedassar/SimpleNTSyscallFuzzer | 1 | 1| 
 | 20240125T02:50:13Z | Null | https://github.com/safemap0334/fuzzy-octo-garbanzo | 0 | 0| 
 | 20240125T02:48:32Z | :exclamation: This is a read-only mirror of the CRAN R package repository.  fuzzySim — Fuzzy Similarity in Species Distributions. Homepage: fuzzysim.r-forge.r-project.org, https://CRAN.R-project.org/package=fuzzySim   | https://github.com/cran/fuzzySim | 0 | 0| 
-| 20240125T02:39:13Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9343 | 2096| 
-| 20240125T02:11:04Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51580 | 23499| 
-| 20240125T01:52:09Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2459 | 313| 
-| 20240125T01:38:02Z | Pact Consumer | https://github.com/daedalus1215/fuzzy-guide | 0 | 0| 
-| 20240125T01:37:35Z | A simple Inform 7 tale.  It attempts to answer the question: %what would a C.S. Lewis Carroll have written?% | https://github.com/mysterymagination/Fuzziolump_Inform7 | 0 | 0| 
-| 20240125T00:21:59Z | Null | https://github.com/SSL4-Drone/Parrot-Sphinx-Fuzzer | 0 | 0| 
-| 20240125T00:16:43Z | testing something out | https://github.com/noobz101/fuzzy-octo-parakeet | 0 | 0| 
 
 
 
