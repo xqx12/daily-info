@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240125T01:55:52Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 6195 | 702| 
 | 20240125T01:50:41Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0008-app-CADOz-conduct-exploit | 0 | 0| 
 | 20240125T01:32:42Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0007-app-x3cd2-describe-exploit | 0 | 0| 
 | 20240125T01:32:41Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0025-app-VcPXT-exploit-win | 0 | 0| 
@@ -74,7 +75,6 @@
 | 20240125T00:38:05Z | Probe the internet privately. | https://github.com/Aluminum-Depot/Tinf0il-new | 8 | 72| 
 | 20240125T00:36:40Z | A tool made for easy creation of personalized flipper zero skiovox exploit assisters. | https://github.com/SpacedOutCode/WINDEX | 0 | 0| 
 | 20240125T00:27:42Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5698 | 1101| 
-| 20240124T22:19:01Z | just a bunch of stuff related to web exp | https://github.com/gerbsec/web-exploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
