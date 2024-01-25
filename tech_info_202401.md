@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240125T01:50:41Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0008-app-CADOz-conduct-exploit | 0 | 0| 
 | 20240125T01:32:42Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0007-app-x3cd2-describe-exploit | 0 | 0| 
 | 20240125T01:32:41Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0025-app-VcPXT-exploit-win | 0 | 0| 
 | 20240125T01:19:13Z | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | 744 | 69| 
@@ -74,7 +75,6 @@
 | 20240125T00:36:40Z | A tool made for easy creation of personalized flipper zero skiovox exploit assisters. | https://github.com/SpacedOutCode/WINDEX | 0 | 0| 
 | 20240125T00:27:42Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5698 | 1101| 
 | 20240124T22:19:01Z | just a bunch of stuff related to web exp | https://github.com/gerbsec/web-exploitation | 0 | 0| 
-| 20240124T21:26:22Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 244 | 20| 
 
 
 # backdoor on Github 推荐
