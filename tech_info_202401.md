@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240125T13:41:50Z | CVE-2024-23739 |  CVE-2024-23739 | https://github.com/V3x0r/CVE-2024-23739 | | 
 | 20240125T13:37:08Z | CVE-2024-23739 |  CVE-2024-23739 | https://github.com/V3x0r/-CVE-2024-23739 | | 
 | 20240125T13:27:20Z | CVE-2024-23738 | CVE-2024-23738 | https://github.com/V3x0r/CVE-2024-23738 | | 
 | 20240125T11:06:34Z | CVE-2023-22527 | CVE-2023-22527 - RCE (Remote Code Execution) Vulnerability In Confluence Data Center and Confluence Server PoC | https://github.com/adminlove520/CVE-2023-22527 | | 
@@ -35,7 +36,6 @@
 | 20240125T09:23:36Z | CVE-2023-22527 | CVE-2023-22527 | https://github.com/Privia-Security/CVE-2023-22527 | | 
 | 20240125T08:37:31Z | CVE-2024-23897 | CVE-2024-23897 (CVSS 9.8): Critical Jenkins Security Vulnerability, RCE POC  | https://github.com/forsaken0127/CVE-2024-23897 | | 
 | 20240125T07:00:38Z | CVE-2024-22939 | CVE-2024-22939 | https://github.com/NUDTTAN91/CVE-2024-22939 | | 
-| 20240124T23:41:28Z | CVE-2021-4034 | PoC de Polkit | https://github.com/cerodah/CVE-2021-4034 | | 
 
 
 # klee on Github 推荐
@@ -121,6 +121,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240125T13:42:36Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 5007 | 1194| 
 | 20240125T13:21:56Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 336 | 48| 
 | 20240125T12:15:12Z | Null | https://github.com/Dyceleb/fuzzy-winner | 0 | 0| 
 | 20240125T12:01:41Z | UPN Veteran Jatim , Aquaponic pH Control-Monitoring with Type-2 Fuzzy Method Based on IoT Bot , S1 Thesis Project | https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot | 1 | 0| 
@@ -130,7 +131,6 @@
 | 20240125T05:44:59Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9344 | 2096| 
 | 20240125T02:51:13Z | Null | https://github.com/waleedassar/SimpleNTSyscallFuzzer | 1 | 1| 
 | 20240125T02:50:13Z | Null | https://github.com/safemap0334/fuzzy-octo-garbanzo | 0 | 0| 
-| 20240125T02:48:32Z | :exclamation: This is a read-only mirror of the CRAN R package repository.  fuzzySim — Fuzzy Similarity in Species Distributions. Homepage: fuzzysim.r-forge.r-project.org, https://CRAN.R-project.org/package=fuzzySim   | https://github.com/cran/fuzzySim | 0 | 0| 
 
 
 
