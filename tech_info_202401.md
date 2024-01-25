@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240125T01:08:04Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0058-app-R5f7S-press-exploit | 0 | 0| 
 | 20240125T00:53:34Z | Library for the exploitation of the PSP Kernel. | https://github.com/PSP-Archive/LibPspExploit | 0 | 0| 
 | 20240125T00:38:05Z | Probe the internet privately. | https://github.com/Aluminum-Depot/Tinf0il-new | 8 | 72| 
 | 20240125T00:36:40Z | A tool made for easy creation of personalized flipper zero skiovox exploit assisters. | https://github.com/SpacedOutCode/WINDEX | 0 | 0| 
@@ -74,7 +75,6 @@
 | 20240124T13:58:06Z | dotnet 6 project to pown visual htb | https://github.com/bcosteGH/visual-exploit | 0 | 0| 
 | 20240124T13:50:37Z | Team project that exploits parallelization for image filtering  | https://github.com/bestavra/INF560_Image-Filtering | 0 | 0| 
 | 20240124T13:48:02Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5784 | 779| 
-| 20240124T13:00:16Z | Exploit Central | https://github.com/NapoleonSchoolGames/Exploit-Central | 0 | 0| 
 
 
 # backdoor on Github 推荐
