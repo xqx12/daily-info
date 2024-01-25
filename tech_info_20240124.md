@@ -52,11 +52,11 @@
 | 20240124T18:11:32Z | External cheat for Rainbow Six Siege offering ESP, aimbot, and various tactical advantages. | https://github.com/Maskorws/Klar-gg-Rainbow-Six-Siege-RS6-Esp-NoRroil-Hwid-Spoofer-Exploit | 0 | 0| 
 | 20240124T13:58:06Z | dotnet 6 project to pown visual htb | https://github.com/bcosteGH/visual-exploit | 0 | 0| 
 | 20240124T13:50:37Z | Team project that exploits parallelization for image filtering  | https://github.com/bestavra/INF560_Image-Filtering | 0 | 0| 
-| 20240124T13:48:02Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5784 | 779| 
 | 20240124T13:00:16Z | Exploit Central | https://github.com/NapoleonSchoolGames/Exploit-Central | 0 | 0| 
 | 20240124T11:18:28Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5805 | 730| 
 | 20240124T11:16:06Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 785 | 186| 
 | 20240124T09:09:50Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/GhostTroops/TOP | 598 | 118| 
+| 20240124T08:40:55Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 87 | 12| 
 
 
 # backdoor on Github 推荐
