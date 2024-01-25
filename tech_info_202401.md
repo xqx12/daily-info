@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240125T13:57:11Z | CVE-2024-23743 | Null | https://github.com/V3x0r/CVE-2024-23743 | | 
 | 20240125T13:52:06Z | CVE-2024-23742 | CVE-2024-23742 | https://github.com/V3x0r/CVE-2024-23742 | | 
 | 20240125T13:49:10Z | CVE-2024-23741 | CVE-2024-23741 | https://github.com/V3x0r/CVE-2024-23741 | | 
 | 20240125T13:44:16Z | CVE-2024-23739 | CVE-2024-23739 | https://github.com/V3x0r/CVE-2024-23739 | | 
@@ -35,7 +36,6 @@
 | 20240125T11:06:34Z | CVE-2023-22527 | CVE-2023-22527 - RCE (Remote Code Execution) Vulnerability In Confluence Data Center and Confluence Server PoC | https://github.com/adminlove520/CVE-2023-22527 | | 
 | 20240125T10:26:29Z | CVE-2024-22889 | Null | https://github.com/shenhav12/CVE-2024-22889-Plone-v6.0.9 | | 
 | 20240125T10:22:47Z | CVE-2023-22527 | Atlassian Confluence Remote Code Execution(RCE) Proof Of Concept | https://github.com/MaanVader/CVE-2023-22527-POC | | 
-| 20240125T09:56:01Z | CVE-2023-7028 | Repository to install CVE-2023-7028 vulnerable Gitlab instance | https://github.com/Trackflaw/CVE-2023-7028-Docker | | 
 
 
 # klee on Github 推荐
@@ -121,6 +121,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240125T13:57:28Z | A enumerator for MLIR, relying on the information given by IRDL. | https://github.com/opencompl/mlir-fuzz | 13 | 3| 
 | 20240125T13:49:30Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4294 | 872| 
 | 20240125T13:47:17Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5151 | 557| 
 | 20240125T13:42:36Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 5007 | 1194| 
@@ -130,7 +131,6 @@
 | 20240125T05:48:40Z | Papers on Fuzzing with the assistance of AI and Large Language Models | https://github.com/Microsvuln/Awesome-AI-Fuzzing | 1 | 0| 
 | 20240125T05:44:59Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9344 | 2096| 
 | 20240125T02:51:13Z | Null | https://github.com/waleedassar/SimpleNTSyscallFuzzer | 1 | 1| 
-| 20240125T02:50:13Z | Null | https://github.com/safemap0334/fuzzy-octo-garbanzo | 0 | 0| 
 
 
 
