@@ -121,16 +121,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240125T02:51:13Z | Null | https://github.com/waleedassar/SimpleNTSyscallFuzzer | 1 | 1| 
+| 20240125T02:50:13Z | Null | https://github.com/safemap0334/fuzzy-octo-garbanzo | 0 | 0| 
+| 20240125T02:48:32Z | :exclamation: This is a read-only mirror of the CRAN R package repository.  fuzzySim — Fuzzy Similarity in Species Distributions. Homepage: fuzzysim.r-forge.r-project.org, https://CRAN.R-project.org/package=fuzzySim   | https://github.com/cran/fuzzySim | 0 | 0| 
 | 20240125T02:39:13Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9343 | 2096| 
-| 20240125T02:36:50Z | Null | https://github.com/waleedassar/SimpleNTSyscallFuzzer | 0 | 1| 
 | 20240125T02:11:04Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51580 | 23499| 
 | 20240125T01:52:09Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2459 | 313| 
 | 20240125T01:38:02Z | Pact Consumer | https://github.com/daedalus1215/fuzzy-guide | 0 | 0| 
 | 20240125T01:37:35Z | A simple Inform 7 tale.  It attempts to answer the question: %what would a C.S. Lewis Carroll have written?% | https://github.com/mysterymagination/Fuzziolump_Inform7 | 0 | 0| 
 | 20240125T00:21:59Z | Null | https://github.com/SSL4-Drone/Parrot-Sphinx-Fuzzer | 0 | 0| 
 | 20240125T00:16:43Z | testing something out | https://github.com/noobz101/fuzzy-octo-parakeet | 0 | 0| 
-| 20240124T22:37:09Z | Null | https://github.com/GrafVonTee/fuzzy-shooter | 0 | 0| 
-| 20240124T19:15:15Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5149 | 557| 
 
 
 
