@@ -65,7 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240125T13:53:22Z | Very Basic package to store results of ML models Grid search results are hard to exploit. This package aims to store them in a more convenient way.  | https://github.com/AlexandreGazagnes/scikit-res | 0 | 0| 
+| 20240125T13:55:03Z | Very Basic package to store results of ML models Grid search results are hard to exploit. This package aims to store them in a more convenient way.  | https://github.com/AlexandreGazagnes/scikit-res | 0 | 0| 
 | 20240125T13:46:18Z | Null | https://github.com/Widar999/exploit.com | 0 | 0| 
 | 20240125T13:42:58Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 5022 | 652| 
 | 20240125T13:33:03Z | Null | https://github.com/NikamSugat/Port-Exploiter | 0 | 0| 
