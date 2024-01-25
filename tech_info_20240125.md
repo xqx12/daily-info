@@ -19,8 +19,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240125T13:44:16Z | CVE-2024-23739 | CVE-2024-23739 | https://github.com/V3x0r/CVE-2024-23739 | | 
 | 20240125T13:43:33Z | CVE-2024-23740 |  CVE-2024-23739 | https://github.com/V3x0r/CVE-2024-23740 | | 
-| 20240125T13:41:50Z | CVE-2024-23739 |  CVE-2024-23739 | https://github.com/V3x0r/CVE-2024-23739 | | 
 | 20240125T13:37:08Z | CVE-2024-23739 |  CVE-2024-23739 | https://github.com/V3x0r/-CVE-2024-23739 | | 
 | 20240125T13:27:20Z | CVE-2024-23738 | CVE-2024-23738 | https://github.com/V3x0r/CVE-2024-23738 | | 
 | 20240125T11:06:34Z | CVE-2023-22527 | CVE-2023-22527 - RCE (Remote Code Execution) Vulnerability In Confluence Data Center and Confluence Server PoC | https://github.com/adminlove520/CVE-2023-22527 | | 
@@ -48,6 +48,7 @@
 | --- | --- | --- | --- | ---| 
 | 20240125T13:42:58Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 5022 | 652| 
 | 20240125T13:33:03Z | Null | https://github.com/NikamSugat/Port-Exploiter | 0 | 0| 
+| 20240125T13:25:03Z | AutoGDB: Combining Large Language models and GDB (Dynamic debugging tool) to automatic binary vulnerability hunting and exploitations | https://github.com/retr0reg/AutoGDB | 37 | 5| 
 | 20240125T12:41:24Z | Exploit Central | https://github.com/NapoleonSchoolGames/Exploit-Central | 0 | 0| 
 | 20240125T12:31:06Z | Very Basic package to store results of ML models Grid search results are hard to exploit. This package aims to store them in a more convenient way. | https://github.com/AlexandreGazagnes/skres | 1 | 0| 
 | 20240125T12:30:21Z | Consensus Knowledge Exploitation for Partial Query Based Image Retrieval, TCSVT 2023 | https://github.com/zhangy0822/AoCer | 1 | 0| 
@@ -55,7 +56,6 @@
 | 20240125T09:30:40Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 94 | 34| 
 | 20240125T02:46:01Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0033-app-YwpVw-exploit-drive | 0 | 0| 
 | 20240125T02:26:57Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 6197 | 702| 
-| 20240125T02:17:40Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0063-app-AZNKZ-exploit-guide | 0 | 0| 
 
 
 # backdoor on Github 推荐
