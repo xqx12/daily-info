@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240125T13:49:10Z | CVE-2024-23741 | CVE-2024-23741 | https://github.com/V3x0r/CVE-2024-23741 | | 
 | 20240125T13:44:16Z | CVE-2024-23739 | CVE-2024-23739 | https://github.com/V3x0r/CVE-2024-23739 | | 
 | 20240125T13:43:33Z | CVE-2024-23740 |  CVE-2024-23739 | https://github.com/V3x0r/CVE-2024-23740 | | 
 | 20240125T13:37:08Z | CVE-2024-23739 |  CVE-2024-23739 | https://github.com/V3x0r/-CVE-2024-23739 | | 
@@ -35,7 +36,6 @@
 | 20240125T10:22:47Z | CVE-2023-22527 | Atlassian Confluence Remote Code Execution(RCE) Proof Of Concept | https://github.com/MaanVader/CVE-2023-22527-POC | | 
 | 20240125T09:56:01Z | CVE-2023-7028 | Repository to install CVE-2023-7028 vulnerable Gitlab instance | https://github.com/Trackflaw/CVE-2023-7028-Docker | | 
 | 20240125T09:23:36Z | CVE-2023-22527 | CVE-2023-22527 | https://github.com/Privia-Security/CVE-2023-22527 | | 
-| 20240125T08:37:31Z | CVE-2024-23897 | CVE-2024-23897 (CVSS 9.8): Critical Jenkins Security Vulnerability, RCE POC  | https://github.com/forsaken0127/CVE-2024-23897 | | 
 
 
 # klee on Github 推荐
@@ -121,12 +121,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240125T13:49:30Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4294 | 872| 
 | 20240125T13:47:17Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5151 | 557| 
 | 20240125T13:42:36Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 5007 | 1194| 
 | 20240125T13:21:56Z | Fuzz Introspector -- introspect, extend and optimise fuzzers | https://github.com/ossf/fuzz-introspector | 336 | 48| 
 | 20240125T12:15:12Z | Null | https://github.com/Dyceleb/fuzzy-winner | 0 | 0| 
 | 20240125T12:01:41Z | UPN Veteran Jatim , Aquaponic pH Control-Monitoring with Type-2 Fuzzy Method Based on IoT Bot , S1 Thesis Project | https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot | 1 | 0| 
-| 20240125T11:58:04Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4293 | 872| 
 | 20240125T05:48:40Z | Papers on Fuzzing with the assistance of AI and Large Language Models | https://github.com/Microsvuln/Awesome-AI-Fuzzing | 1 | 0| 
 | 20240125T05:44:59Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9344 | 2096| 
 | 20240125T02:51:13Z | Null | https://github.com/waleedassar/SimpleNTSyscallFuzzer | 1 | 1| 
