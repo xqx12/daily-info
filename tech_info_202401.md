@@ -65,16 +65,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240125T01:19:13Z | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | 744 | 69| 
 | 20240125T01:08:04Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0058-app-R5f7S-press-exploit | 0 | 0| 
 | 20240125T00:53:34Z | Library for the exploitation of the PSP Kernel. | https://github.com/PSP-Archive/LibPspExploit | 0 | 0| 
 | 20240125T00:38:05Z | Probe the internet privately. | https://github.com/Aluminum-Depot/Tinf0il-new | 8 | 72| 
 | 20240125T00:36:40Z | A tool made for easy creation of personalized flipper zero skiovox exploit assisters. | https://github.com/SpacedOutCode/WINDEX | 0 | 0| 
 | 20240125T00:27:42Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5698 | 1101| 
 | 20240124T22:19:01Z | just a bunch of stuff related to web exp | https://github.com/gerbsec/web-exploitation | 0 | 0| 
+| 20240124T21:26:22Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 244 | 20| 
 | 20240124T18:11:32Z | External cheat for Rainbow Six Siege offering ESP, aimbot, and various tactical advantages. | https://github.com/Maskorws/Klar-gg-Rainbow-Six-Siege-RS6-Esp-NoRroil-Hwid-Spoofer-Exploit | 0 | 0| 
 | 20240124T13:58:06Z | dotnet 6 project to pown visual htb | https://github.com/bcosteGH/visual-exploit | 0 | 0| 
-| 20240124T13:50:37Z | Team project that exploits parallelization for image filtering  | https://github.com/bestavra/INF560_Image-Filtering | 0 | 0| 
-| 20240124T13:48:02Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5784 | 779| 
 
 
 # backdoor on Github 推荐
