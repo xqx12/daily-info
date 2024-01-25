@@ -19,6 +19,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240125T13:52:06Z | CVE-2024-23742 | CVE-2024-23742 | https://github.com/V3x0r/CVE-2024-23742 | | 
 | 20240125T13:49:10Z | CVE-2024-23741 | CVE-2024-23741 | https://github.com/V3x0r/CVE-2024-23741 | | 
 | 20240125T13:44:16Z | CVE-2024-23739 | CVE-2024-23739 | https://github.com/V3x0r/CVE-2024-23739 | | 
 | 20240125T13:43:33Z | CVE-2024-23740 |  CVE-2024-23739 | https://github.com/V3x0r/CVE-2024-23740 | | 
@@ -28,7 +29,6 @@
 | 20240125T10:26:29Z | CVE-2024-22889 | Null | https://github.com/shenhav12/CVE-2024-22889-Plone-v6.0.9 | | 
 | 20240125T10:22:47Z | CVE-2023-22527 | Atlassian Confluence Remote Code Execution(RCE) Proof Of Concept | https://github.com/MaanVader/CVE-2023-22527-POC | | 
 | 20240125T09:56:01Z | CVE-2023-7028 | Repository to install CVE-2023-7028 vulnerable Gitlab instance | https://github.com/Trackflaw/CVE-2023-7028-Docker | | 
-| 20240125T09:23:36Z | CVE-2023-22527 | CVE-2023-22527 | https://github.com/Privia-Security/CVE-2023-22527 | | 
 
 
 # klee on Github 推荐
@@ -46,6 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240125T13:53:22Z | Very Basic package to store results of ML models Grid search results are hard to exploit. This package aims to store them in a more convenient way.  | https://github.com/AlexandreGazagnes/scikit-res | 0 | 0| 
 | 20240125T13:46:18Z | Null | https://github.com/Widar999/exploit.com | 0 | 0| 
 | 20240125T13:42:58Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 5022 | 652| 
 | 20240125T13:33:03Z | Null | https://github.com/NikamSugat/Port-Exploiter | 0 | 0| 
@@ -55,7 +56,6 @@
 | 20240125T12:30:21Z | Consensus Knowledge Exploitation for Partial Query Based Image Retrieval, TCSVT 2023 | https://github.com/zhangy0822/AoCer | 1 | 0| 
 | 20240125T12:11:27Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5700 | 1101| 
 | 20240125T09:30:40Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 94 | 34| 
-| 20240125T05:34:05Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5805 | 730| 
 
 
 # backdoor on Github 推荐
