@@ -53,9 +53,9 @@
 | 20240124T13:50:37Z | Team project that exploits parallelization for image filtering  | https://github.com/bestavra/INF560_Image-Filtering | 0 | 0| 
 | 20240124T13:00:16Z | Exploit Central | https://github.com/NapoleonSchoolGames/Exploit-Central | 0 | 0| 
 | 20240124T11:18:28Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5805 | 730| 
-| 20240124T11:16:06Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 785 | 186| 
 | 20240124T09:09:50Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/GhostTroops/TOP | 598 | 118| 
 | 20240124T08:40:55Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 87 | 12| 
+| 20240124T08:33:24Z | Developed for Escape From Tarkov and written in C++ and C#. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/Maskorws/Escape-From-Tarkov-Eft-Aimbot-esp-Loots-Exploits-Max-Skills-High-Jump | 2 | 2| 
 
 
 # backdoor on Github 推荐
