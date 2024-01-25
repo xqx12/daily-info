@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240125T13:27:20Z | CVE-2024-23738 | CVE-2024-23738 | https://github.com/V3x0r/CVE-2024-23738 | | 
 | 20240125T11:06:34Z | CVE-2023-22527 | CVE-2023-22527 - RCE (Remote Code Execution) Vulnerability In Confluence Data Center and Confluence Server PoC | https://github.com/adminlove520/CVE-2023-22527 | | 
 | 20240125T10:26:29Z | CVE-2024-22889 | Null | https://github.com/shenhav12/CVE-2024-22889-Plone-v6.0.9 | | 
 | 20240125T10:22:47Z | CVE-2023-22527 | Atlassian Confluence Remote Code Execution(RCE) Proof Of Concept | https://github.com/MaanVader/CVE-2023-22527-POC | | 
@@ -35,7 +36,6 @@
 | 20240125T07:00:38Z | CVE-2024-22939 | CVE-2024-22939 | https://github.com/NUDTTAN91/CVE-2024-22939 | | 
 | 20240124T23:41:28Z | CVE-2021-4034 | PoC de Polkit | https://github.com/cerodah/CVE-2021-4034 | | 
 | 20240124T22:59:40Z | CVE-2024-0204 | This script exploits the CVE-2024-0204 vulnerability in Fortra GoAnywhere MFT, allowing the creation of unauthorized administrative users, for educational and authorized testing purposes. | https://github.com/m-cetin/CVE-2024-0204 | | 
-| 20240124T19:57:37Z | 未知编号 | V8 type confusion allows chrome sandbox escape | https://github.com/paulsery/CVE_2023_3420 | | 
 
 
 # klee on Github 推荐
