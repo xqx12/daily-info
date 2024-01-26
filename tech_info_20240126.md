@@ -19,9 +19,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240126T13:08:45Z | CVE-2024-23897 | CVE-2024-23897 | https://github.com/h4x0r-dz/CVE-2024-23897 | | 
+| 20240126T13:13:29Z | CVE-2024-23897 | Null | https://github.com/binganao/CVE-2024-23897 | | 
+| 20240126T13:13:25Z | CVE-2024-23897 | CVE-2024-23897 | https://github.com/h4x0r-dz/CVE-2024-23897 | | 
 | 20240126T13:07:15Z | CVE-2023-22527 | Null | https://github.com/thanhlam-attt/CVE-2023-22527 | | 
-| 20240126T13:02:33Z | CVE-2024-23897 | Null | https://github.com/binganao/CVE-2024-23897 | | 
 | 20240126T11:56:24Z | CVE-2022-4262 | Null | https://github.com/mistymntncop/CVE-2022-4262 | | 
 | 20240126T06:32:54Z | CVE-2023-7028 | Python Code for Exploit Automation CVE-2023-7028 | https://github.com/mochammadrafi/CVE-2023-7028 | | 
 | 20240126T05:11:08Z | CVE-2020-1472 | Null | https://github.com/whoami-chmod777/Zerologon-Attack-CVE-2020-1472-POC | | 
@@ -44,6 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240126T13:11:05Z | Allows you to edit discord messages without it saying that you have! | https://github.com/ZensDK/EditExploiting | 0 | 0| 
 | 20240126T12:48:00Z | Null | https://github.com/jilani192/Binary-Exploitation | 0 | 0| 
 | 20240126T12:41:32Z | Snake game with AI exploiting the DQN framework to learn to play | https://github.com/bindas1/rl_snake | 0 | 0| 
 | 20240126T12:27:36Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5711 | 1101| 
@@ -53,7 +54,6 @@
 | 20240126T02:38:44Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5793 | 779| 
 | 20240126T01:45:25Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3813 | 547| 
 | 20240126T01:30:45Z | 350+ UNRESTRICTED unblockers, games, cheats, exploits, AI, bypasses, and social media | https://github.com/wea-f/ByePassHub | 12 | 6| 
-| 20240126T01:18:24Z | GitOps Repository | https://github.com/redhat-appstudio-qe/jvm-build-suite-application-cwfa-4pFQf-exploit-suit | 0 | 0| 
 
 
 # backdoor on Github 推荐
