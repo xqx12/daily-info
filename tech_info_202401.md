@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240126T02:53:58Z | WGU BSCS Capstone project exploring the exploitability of CVE%s through Classification using CISA KEV%s as a target. | https://github.com/s4mw1se/cve-exploitability | 0 | 0| 
 | 20240126T02:52:32Z | WGU BSCS Capstone project exploring the exploitability of CVE%s through Classification using CISA KEV%s as a target. | https://github.com/s4mw1se/cve-exploitability- | 0 | 0| 
 | 20240126T02:38:44Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5793 | 779| 
 | 20240126T01:55:12Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5706 | 1101| 
@@ -74,7 +75,6 @@
 | 20240126T00:32:22Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-gj | 1 | 0| 
 | 20240126T00:31:16Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-gj | 1 | 0| 
 | 20240126T00:30:31Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-gj | 1 | 0| 
-| 20240126T00:29:55Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-gj | 1 | 0| 
 
 
 # backdoor on Github 推荐
