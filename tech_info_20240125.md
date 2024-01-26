@@ -24,11 +24,11 @@
 | 20240125T21:55:43Z | CVE-2024-23745 | In Notion Web Clipper 1.0.3(7), a .nib file is susceptible to the Dirty NIB attack. | https://github.com/louiselalanne/CVE-2024-23745 | | 
 | 20240125T18:57:35Z | CVE-2024-22534 | Null | https://github.com/austino2000/CVE-2024-22534 | | 
 | 20240125T18:07:02Z | CVE-2023-46805 | CVE-2023-46805 Ivanti POC RCE - Ultra fast scanner. | https://github.com/w2xim3/CVE-2023-46805 | | 
-| 20240125T17:59:41Z | CVE-2023-22527 | Null | https://github.com/thanhlam-attt/CVE-2023-22527 | | 
 | 20240125T15:29:25Z | CVE-2024-0846 | WP Subscription Forms <= 1.2.1 - Email Verification Bypass | https://github.com/0x9567b/CVE-2024-0846 | | 
 | 20240125T15:25:03Z | CVE-2024-0844 | Path traversal in the popup-more WordPress plugin | https://github.com/0x9567b/CVE-2024-0844 | | 
 | 20240125T13:57:11Z | CVE-2024-23743 | Null | https://github.com/V3x0r/CVE-2024-23743 | | 
 | 20240125T13:52:06Z | CVE-2024-23742 | CVE-2024-23742 | https://github.com/V3x0r/CVE-2024-23742 | | 
+| 20240125T13:49:10Z | CVE-2024-23741 | CVE-2024-23741 | https://github.com/V3x0r/CVE-2024-23741 | | 
 
 
 # klee on Github 推荐

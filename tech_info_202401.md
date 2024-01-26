@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240126T01:50:44Z | CVE-2023-22527 | Null | https://github.com/thanhlam-attt/CVE-2023-22527 | | 
 | 20240126T00:43:30Z | CVE-2024-23747 | Moderna Sistemas ModernaNet Hospital Management System 2024 is susceptible to an Insecure Direct Object Reference (IDOR) vulnerability | https://github.com/louiselalanne/CVE-2024-23747 | | 
 | 20240126T00:39:20Z | CVE-2024-23746 | Miro Desktop 0.8.18 on macOS allows Electron code injection. | https://github.com/louiselalanne/CVE-2024-23746 | | 
 | 20240125T22:55:49Z | CVE-2022-4262 | Null | https://github.com/mistymntncop/CVE-2022-4262 | | 
@@ -33,7 +34,6 @@
 | 20240125T21:55:43Z | CVE-2024-23745 | In Notion Web Clipper 1.0.3(7), a .nib file is susceptible to the Dirty NIB attack. | https://github.com/louiselalanne/CVE-2024-23745 | | 
 | 20240125T18:57:35Z | CVE-2024-22534 | Null | https://github.com/austino2000/CVE-2024-22534 | | 
 | 20240125T18:07:02Z | CVE-2023-46805 | CVE-2023-46805 Ivanti POC RCE - Ultra fast scanner. | https://github.com/w2xim3/CVE-2023-46805 | | 
-| 20240125T17:59:41Z | CVE-2023-22527 | Null | https://github.com/thanhlam-attt/CVE-2023-22527 | | 
 | 20240125T15:29:25Z | CVE-2024-0846 | WP Subscription Forms <= 1.2.1 - Email Verification Bypass | https://github.com/0x9567b/CVE-2024-0846 | | 
 | 20240125T15:25:03Z | CVE-2024-0844 | Path traversal in the popup-more WordPress plugin | https://github.com/0x9567b/CVE-2024-0844 | | 
 
