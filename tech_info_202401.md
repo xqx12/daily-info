@@ -65,7 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240126T02:16:06Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5792 | 779| 
+| 20240126T02:38:44Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5793 | 779| 
 | 20240126T01:55:12Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5706 | 1101| 
 | 20240126T01:45:25Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3813 | 547| 
 | 20240126T01:30:45Z | 350+ UNRESTRICTED unblockers, games, cheats, exploits, AI, bypasses, and social media | https://github.com/wea-f/ByePassHub | 12 | 6| 
