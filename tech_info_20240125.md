@@ -75,7 +75,6 @@
 | --- | --- | --- | --- | ---| 
 | 20240125T18:49:23Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2400 | 651| 
 | 20240125T06:42:10Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 104 | 10| 
-| 20240125T02:09:01Z | A symbolic execution engine for EVM smart contract binaries | https://github.com/ucsb-seclab/greed | 16 | 1| 
 
 
 # big4 on Github 推荐
