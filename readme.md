@@ -19,7 +19,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240126T13:15:18Z | CVE-2024-23897 | CVE-2024-23897 | https://github.com/h4x0r-dz/CVE-2024-23897 | | 
+| 20240126T13:39:51Z | CVE-2024-23897 | CVE-2024-23897 | https://github.com/h4x0r-dz/CVE-2024-23897 | | 
 | 20240126T13:13:29Z | CVE-2024-23897 | Null | https://github.com/binganao/CVE-2024-23897 | | 
 | 20240126T13:07:15Z | CVE-2023-22527 | Null | https://github.com/thanhlam-attt/CVE-2023-22527 | | 
 | 20240126T11:56:24Z | CVE-2022-4262 | Null | https://github.com/mistymntncop/CVE-2022-4262 | | 
