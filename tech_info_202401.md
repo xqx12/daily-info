@@ -65,13 +65,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240126T01:30:45Z | 350+ UNRESTRICTED unblockers, games, cheats, exploits, AI, bypasses, and social media | https://github.com/wea-f/ByePassHub | 12 | 6| 
 | 20240126T01:18:24Z | GitOps Repository | https://github.com/redhat-appstudio-qe/jvm-build-suite-application-cwfa-4pFQf-exploit-suit | 0 | 0| 
 | 20240126T01:07:06Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3812 | 547| 
 | 20240126T00:32:22Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-gj | 1 | 0| 
 | 20240126T00:31:16Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-gj | 1 | 0| 
 | 20240126T00:30:31Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-gj | 1 | 0| 
 | 20240126T00:29:55Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-gj | 1 | 0| 
-| 20240125T23:13:07Z | 330+ UNRESTRICTED unblockers, games, cheats, exploits, AI, bypasses, and social media | https://github.com/wea-f/ByePassHub | 12 | 6| 
 | 20240125T19:45:01Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5705 | 1101| 
 | 20240125T14:01:24Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 246 | 20| 
 | 20240125T13:55:03Z | Very Basic package to store results of ML models Grid search results are hard to exploit. This package aims to store them in a more convenient way.  | https://github.com/AlexandreGazagnes/scikit-res | 0 | 0| 
