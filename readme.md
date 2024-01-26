@@ -34,7 +34,6 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240125T18:49:23Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2400 | 651| 
 | 20240125T07:45:24Z | Null | https://github.com/weshandsome/Klee-Running | 0 | 0| 
 
 
