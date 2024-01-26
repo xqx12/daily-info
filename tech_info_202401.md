@@ -11,6 +11,9 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20240126 | 2024年网络与信息安全风险前瞻 | https://mp.weixin.qq.com/s/cKp4XorkLU6vLHJuUT76-w| 
+| 20240126 | 多视角下的网络空间安全模型与体系化发展 | https://mp.weixin.qq.com/s/4XVuuDTtLOgIxzkpQ2hCuw| 
+| 20240126 | 2024 CSRankings 全球计算机安全学术机构与人员分析 | https://mp.weixin.qq.com/s/S5qzlESSL8GLKEeOZbnB1g| 
 | 20240125 | 软件供应商攻防常规战之SDL | https://mp.weixin.qq.com/s/DJNfsg3D6vxXEcH1RSWPbw| 
 | 20240125 | 软件供应商实战对抗十大安全举措 | https://mp.weixin.qq.com/s/xyItAKLszooqKpxs6H2Tlw| 
 | 20240125 | 软件供应商面临的攻防实战风险 | https://mp.weixin.qq.com/s/X6hzmGathXkg11Bs0ohD2Q| 
@@ -18,31 +21,28 @@
 | 20240124 | [SecData#1]-移动应用流量数据集 | https://mp.weixin.qq.com/s/GbcxQ9G4oH0nOWASmWVYLQ| 
 | 20240123 | 回望勒索软件的 2023 | https://mp.weixin.qq.com/s/WhKTQphzco5MWfGNfRH21g| 
 | 20240123 | SecWiki周刊（第516期) | https://www.sec-wiki.com/weekly/516| 
-| 20240123 | “LLM+EM”—大语言模型赋能的暴露面管理系统思考 | https://mp.weixin.qq.com/s/mu7HUCPURtk6_4BAKwOeSw| 
-| 20240122 | 检测程序代码和文档中的错误 | https://mp.weixin.qq.com/s/1pRJSOm77CCK1Wi8IG-KNA| 
-| 20240122 | 借助大语言模型GPT-4辅助恶意代码动态分析 | https://mp.weixin.qq.com/s/zIAYb4jF-f5rsEFLNQPbww| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240126T01:50:44Z | CVE-2023-22527 | Null | https://github.com/thanhlam-attt/CVE-2023-22527 | | 
+| 20240126T12:43:03Z | CVE-2024-23897 | Null | https://github.com/binganao/CVE-2024-23897 | | 
+| 20240126T12:41:12Z | CVE-2024-23897 | CVE-2024-23897 | https://github.com/h4x0r-dz/CVE-2024-23897 | | 
+| 20240126T11:56:24Z | CVE-2022-4262 | Null | https://github.com/mistymntncop/CVE-2022-4262 | | 
+| 20240126T07:15:27Z | CVE-2023-22527 | Null | https://github.com/thanhlam-attt/CVE-2023-22527 | | 
+| 20240126T06:32:54Z | CVE-2023-7028 | Python Code for Exploit Automation CVE-2023-7028 | https://github.com/mochammadrafi/CVE-2023-7028 | | 
+| 20240126T05:11:08Z | CVE-2020-1472 | Null | https://github.com/whoami-chmod777/Zerologon-Attack-CVE-2020-1472-POC | | 
 | 20240126T00:43:30Z | CVE-2024-23747 | Moderna Sistemas ModernaNet Hospital Management System 2024 is susceptible to an Insecure Direct Object Reference (IDOR) vulnerability | https://github.com/louiselalanne/CVE-2024-23747 | | 
 | 20240126T00:39:20Z | CVE-2024-23746 | Miro Desktop 0.8.18 on macOS allows Electron code injection. | https://github.com/louiselalanne/CVE-2024-23746 | | 
-| 20240125T22:55:49Z | CVE-2022-4262 | Null | https://github.com/mistymntncop/CVE-2022-4262 | | 
-| 20240125T22:12:10Z | CVE-2020-1472 | Null | https://github.com/whoami-chmod777/Zerologon-Attack-CVE-2020-1472-POC | | 
 | 20240125T21:55:43Z | CVE-2024-23745 | In Notion Web Clipper 1.0.3(7), a .nib file is susceptible to the Dirty NIB attack. | https://github.com/louiselalanne/CVE-2024-23745 | | 
 | 20240125T18:57:35Z | CVE-2024-22534 | Null | https://github.com/austino2000/CVE-2024-22534 | | 
-| 20240125T18:07:02Z | CVE-2023-46805 | CVE-2023-46805 Ivanti POC RCE - Ultra fast scanner. | https://github.com/w2xim3/CVE-2023-46805 | | 
-| 20240125T15:29:25Z | CVE-2024-0846 | WP Subscription Forms <= 1.2.1 - Email Verification Bypass | https://github.com/0x9567b/CVE-2024-0846 | | 
-| 20240125T15:25:03Z | CVE-2024-0844 | Path traversal in the popup-more WordPress plugin | https://github.com/0x9567b/CVE-2024-0844 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240126T02:03:06Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2401 | 651| 
-| 20240126T01:05:23Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15080 | 452| 
+| 20240126T12:56:55Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2400 | 651| 
+| 20240126T12:52:25Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15090 | 452| 
 | 20240125T07:45:24Z | Null | https://github.com/weshandsome/Klee-Running | 0 | 0| 
 | 20240121T22:29:46Z | Updated for symbolically identifying auto-vectorization checks with KLEE | https://github.com/weirdsmiley/polybench-c-4.2.1-beta | 0 | 0| 
 | 20240120T21:11:56Z | Null | https://github.com/darlingklee/klee_resource | 0 | 0| 
@@ -65,31 +65,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240126T12:48:00Z | Null | https://github.com/jilani192/Binary-Exploitation | 0 | 0| 
+| 20240126T12:41:32Z | Snake game with AI exploiting the DQN framework to learn to play | https://github.com/bindas1/rl_snake | 0 | 0| 
+| 20240126T12:27:36Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5711 | 1101| 
+| 20240126T03:26:59Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 88 | 13| 
 | 20240126T02:53:58Z | WGU BSCS Capstone project exploring the exploitability of CVE%s through Classification using CISA KEV%s as a target. | https://github.com/s4mw1se/cve-exploitability | 0 | 0| 
 | 20240126T02:52:32Z | WGU BSCS Capstone project exploring the exploitability of CVE%s through Classification using CISA KEV%s as a target. | https://github.com/s4mw1se/cve-exploitability- | 0 | 0| 
 | 20240126T02:38:44Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5793 | 779| 
-| 20240126T01:55:12Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5706 | 1101| 
 | 20240126T01:45:25Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3813 | 547| 
 | 20240126T01:30:45Z | 350+ UNRESTRICTED unblockers, games, cheats, exploits, AI, bypasses, and social media | https://github.com/wea-f/ByePassHub | 12 | 6| 
 | 20240126T01:18:24Z | GitOps Repository | https://github.com/redhat-appstudio-qe/jvm-build-suite-application-cwfa-4pFQf-exploit-suit | 0 | 0| 
-| 20240126T00:32:22Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-gj | 1 | 0| 
-| 20240126T00:31:16Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-gj | 1 | 0| 
-| 20240126T00:30:31Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-gj | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240126T12:22:29Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 2482 | 901| 
+| 20240126T09:21:47Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 66 | 18| 
 | 20240126T01:39:05Z | Null | https://github.com/TeuZero/Backdoor | 0 | 0| 
 | 20240126T00:47:12Z | This Python script designed as a backdoor to enable remote command execution on a target machine. | https://github.com/TUR14CUS/Audax | 0 | 0| 
 | 20240125T21:16:26Z | A Python backdoor with diverse functionalities, designed for simplicity and efficiency. | https://github.com/samedokceci/PyBackdoor | 0 | 0| 
 | 20240125T21:11:01Z | 👁️ Modded Program for remote control of windows computers via telegram bot. Written in C# | https://github.com/cisamu123/CyberEye | 17 | 3| 
 | 20240125T18:52:31Z | This backdoor webshell will allow you to query the database and fetch information | https://github.com/LinuxDestroy/PHP-Backdoor | 0 | 0| 
-| 20240125T17:50:12Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 65 | 18| 
 | 20240125T17:01:58Z | Null | https://github.com/Sh4dowX404/UnrealIRCD-3.2.8.1-Backdoor | 0 | 0| 
 | 20240125T16:09:35Z | Null | https://github.com/Himangshu30/BackDoor-Framework-for-Reverse-Shell | 0 | 0| 
 | 20240125T03:00:27Z | Null | https://github.com/osamasayed585/BackDoor | 0 | 0| 
-| 20240124T17:35:52Z | Attiny85 USB Rubber ducky to download a backdoor from powershell and make it launch on startup eachtime | https://github.com/Aliefe02/Attiny85-Rubber-Ducky | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -121,16 +121,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240126T12:57:56Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4303 | 872| 
+| 20240126T11:49:57Z | Null | https://github.com/uskovaleks/fuzzy-sweater | 0 | 0| 
+| 20240126T11:33:30Z | Null | https://github.com/sydr-fuzz/sydr-fuzz.github.io | 3 | 0| 
+| 20240126T11:11:12Z | Null | https://github.com/woron2004/fuzzy-moon | 0 | 0| 
+| 20240126T11:00:13Z | Null | https://github.com/warriorxd96/fuzzy-sweater | 0 | 0| 
+| 20240126T10:05:56Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 2146 | 342| 
+| 20240126T07:34:33Z | Fuzzy Playground / Sandbox | https://github.com/jbytecode/FuzzyPlayground | 0 | 0| 
 | 20240126T02:34:03Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51602 | 23500| 
 | 20240126T00:37:00Z | To explore Codespaces | https://github.com/henryburton1/fuzzy-system | 0 | 0| 
 | 20240126T00:35:20Z | Coverage guided fuzz testing for cobra^H^H^H^H^Hpython | https://github.com/senier/cobrafuzz | 3 | 0| 
-| 20240125T22:49:43Z | Null | https://github.com/uhk148skew/fuzzy-stream | 0 | 0| 
-| 20240125T21:24:53Z | Null | https://github.com/dhaneshraju/Fuzzy_Logic_Obstracle_Avoidance_Turtlebot3_Burger | 0 | 0| 
-| 20240125T20:20:25Z | Web fuzzer written in Go | https://github.com/strange-fruit/goby | 1 | 0| 
-| 20240125T18:31:34Z | Command line helpers for fuzzing | https://github.com/rust-fuzz/cargo-fuzz | 1390 | 107| 
-| 20240125T13:57:28Z | A enumerator for MLIR, relying on the information given by IRDL. | https://github.com/opencompl/mlir-fuzz | 13 | 3| 
-| 20240125T13:49:30Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4294 | 872| 
-| 20240125T13:47:17Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5151 | 557| 
 
 
 
