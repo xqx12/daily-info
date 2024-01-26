@@ -80,6 +80,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240126T01:39:05Z | Null | https://github.com/TeuZero/Backdoor | 0 | 0| 
 | 20240126T00:47:12Z | This Python script designed as a backdoor to enable remote command execution on a target machine. | https://github.com/TUR14CUS/Audax | 0 | 0| 
 | 20240125T21:16:26Z | A Python backdoor with diverse functionalities, designed for simplicity and efficiency. | https://github.com/samedokceci/PyBackdoor | 0 | 0| 
 | 20240125T21:11:01Z | 👁️ Modded Program for remote control of windows computers via telegram bot. Written in C# | https://github.com/cisamu123/CyberEye | 17 | 3| 
@@ -89,7 +90,6 @@
 | 20240125T16:09:35Z | Null | https://github.com/Himangshu30/BackDoor-Framework-for-Reverse-Shell | 0 | 0| 
 | 20240125T03:00:27Z | Null | https://github.com/osamasayed585/BackDoor | 0 | 0| 
 | 20240124T17:35:52Z | Attiny85 USB Rubber ducky to download a backdoor from powershell and make it launch on startup eachtime | https://github.com/Aliefe02/Attiny85-Rubber-Ducky | 0 | 0| 
-| 20240124T13:08:53Z | Linux kernel module that provides remote backdoor using netfilters, file and pid hiding. | https://github.com/toIstoy/rootkit | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
