@@ -44,16 +44,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240126T13:15:34Z | Bypasses the (edited) part of Discord messages | https://github.com/ZensDK/EditExploit | 0 | 0| 
+| 20240126T13:15:06Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5712 | 1101| 
 | 20240126T13:11:05Z | Allows you to edit discord messages without it saying that you have! | https://github.com/ZensDK/EditExploiting | 0 | 0| 
 | 20240126T12:48:00Z | Null | https://github.com/jilani192/Binary-Exploitation | 0 | 0| 
 | 20240126T12:41:32Z | Snake game with AI exploiting the DQN framework to learn to play | https://github.com/bindas1/rl_snake | 0 | 0| 
-| 20240126T12:27:36Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5711 | 1101| 
 | 20240126T03:26:59Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 88 | 13| 
 | 20240126T02:53:58Z | WGU BSCS Capstone project exploring the exploitability of CVE%s through Classification using CISA KEV%s as a target. | https://github.com/s4mw1se/cve-exploitability | 0 | 0| 
 | 20240126T02:52:32Z | WGU BSCS Capstone project exploring the exploitability of CVE%s through Classification using CISA KEV%s as a target. | https://github.com/s4mw1se/cve-exploitability- | 0 | 0| 
 | 20240126T02:38:44Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5793 | 779| 
 | 20240126T01:45:25Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3813 | 547| 
-| 20240126T01:30:45Z | 350+ UNRESTRICTED unblockers, games, cheats, exploits, AI, bypasses, and social media | https://github.com/wea-f/ByePassHub | 12 | 6| 
 
 
 # backdoor on Github 推荐
