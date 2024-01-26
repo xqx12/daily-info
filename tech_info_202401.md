@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240126T02:52:32Z | WGU BSCS Capstone project exploring the exploitability of CVE%s through Classification using CISA KEV%s as a target. | https://github.com/s4mw1se/cve-exploitability- | 0 | 0| 
 | 20240126T02:38:44Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5793 | 779| 
 | 20240126T01:55:12Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5706 | 1101| 
 | 20240126T01:45:25Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3813 | 547| 
@@ -74,7 +75,6 @@
 | 20240126T00:31:16Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-gj | 1 | 0| 
 | 20240126T00:30:31Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-gj | 1 | 0| 
 | 20240126T00:29:55Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-gj | 1 | 0| 
-| 20240125T14:01:24Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 246 | 20| 
 
 
 # backdoor on Github 推荐
