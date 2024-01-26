@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240126T01:18:24Z | GitOps Repository | https://github.com/redhat-appstudio-qe/jvm-build-suite-application-cwfa-4pFQf-exploit-suit | 0 | 0| 
 | 20240126T01:07:06Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3812 | 547| 
 | 20240126T00:32:22Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-gj | 1 | 0| 
 | 20240126T00:31:16Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-gj | 1 | 0| 
@@ -74,7 +75,6 @@
 | 20240125T14:01:24Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 246 | 20| 
 | 20240125T13:55:03Z | Very Basic package to store results of ML models Grid search results are hard to exploit. This package aims to store them in a more convenient way.  | https://github.com/AlexandreGazagnes/scikit-res | 0 | 0| 
 | 20240125T13:46:18Z | Null | https://github.com/Widar999/exploit.com | 0 | 0| 
-| 20240125T13:42:58Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 5022 | 652| 
 
 
 # backdoor on Github 推荐
