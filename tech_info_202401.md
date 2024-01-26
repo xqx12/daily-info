@@ -30,12 +30,12 @@
 | 20240126T13:13:29Z | CVE-2024-23897 | Null | https://github.com/binganao/CVE-2024-23897 | | 
 | 20240126T13:07:15Z | CVE-2023-22527 | Null | https://github.com/thanhlam-attt/CVE-2023-22527 | | 
 | 20240126T11:56:24Z | CVE-2022-4262 | Null | https://github.com/mistymntncop/CVE-2022-4262 | | 
+| 20240126T09:28:21Z | CVE-2024-0844 | CVE-2024-0844 - Popup More <= 2.2.4 - Authenticated (Admin+) Directory Traversal to Limited Local File Inclusion | https://github.com/0x9567b/CVE-2024-0844 | | 
 | 20240126T06:32:54Z | CVE-2023-7028 | Python Code for Exploit Automation CVE-2023-7028 | https://github.com/mochammadrafi/CVE-2023-7028 | | 
 | 20240126T05:11:08Z | CVE-2020-1472 | Null | https://github.com/whoami-chmod777/Zerologon-Attack-CVE-2020-1472-POC | | 
 | 20240126T00:43:30Z | CVE-2024-23747 | Moderna Sistemas ModernaNet Hospital Management System 2024 is susceptible to an Insecure Direct Object Reference (IDOR) vulnerability | https://github.com/louiselalanne/CVE-2024-23747 | | 
 | 20240126T00:39:20Z | CVE-2024-23746 | Miro Desktop 0.8.18 on macOS allows Electron code injection. | https://github.com/louiselalanne/CVE-2024-23746 | | 
 | 20240125T21:55:43Z | CVE-2024-23745 | In Notion Web Clipper 1.0.3(7), a .nib file is susceptible to the Dirty NIB attack. | https://github.com/louiselalanne/CVE-2024-23745 | | 
-| 20240125T18:57:35Z | CVE-2024-22534 | Null | https://github.com/austino2000/CVE-2024-22534 | | 
 
 
 # klee on Github 推荐

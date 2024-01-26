@@ -23,6 +23,7 @@
 | 20240126T13:13:29Z | CVE-2024-23897 | Null | https://github.com/binganao/CVE-2024-23897 | | 
 | 20240126T13:07:15Z | CVE-2023-22527 | Null | https://github.com/thanhlam-attt/CVE-2023-22527 | | 
 | 20240126T11:56:24Z | CVE-2022-4262 | Null | https://github.com/mistymntncop/CVE-2022-4262 | | 
+| 20240126T09:28:21Z | CVE-2024-0844 | CVE-2024-0844 - Popup More <= 2.2.4 - Authenticated (Admin+) Directory Traversal to Limited Local File Inclusion | https://github.com/0x9567b/CVE-2024-0844 | | 
 | 20240126T06:32:54Z | CVE-2023-7028 | Python Code for Exploit Automation CVE-2023-7028 | https://github.com/mochammadrafi/CVE-2023-7028 | | 
 | 20240126T05:11:08Z | CVE-2020-1472 | Null | https://github.com/whoami-chmod777/Zerologon-Attack-CVE-2020-1472-POC | | 
 | 20240126T00:43:30Z | CVE-2024-23747 | Moderna Sistemas ModernaNet Hospital Management System 2024 is susceptible to an Insecure Direct Object Reference (IDOR) vulnerability | https://github.com/louiselalanne/CVE-2024-23747 | | 
