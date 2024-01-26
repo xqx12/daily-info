@@ -44,6 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240126T13:48:17Z | Null | https://github.com/floki5444/exploitdarlenepro.zip | 0 | 0| 
 | 20240126T13:15:34Z | Bypasses the (edited) part of Discord messages | https://github.com/ZensDK/EditExploit | 0 | 0| 
 | 20240126T13:15:06Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5712 | 1101| 
 | 20240126T13:11:05Z | Allows you to edit discord messages without it saying that you have! | https://github.com/ZensDK/EditExploiting | 0 | 0| 
@@ -53,7 +54,6 @@
 | 20240126T09:40:57Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5808 | 730| 
 | 20240126T03:26:59Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 88 | 13| 
 | 20240126T02:53:58Z | WGU BSCS Capstone project exploring the exploitability of CVE%s through Classification using CISA KEV%s as a target. | https://github.com/s4mw1se/cve-exploitability | 0 | 0| 
-| 20240126T02:52:32Z | WGU BSCS Capstone project exploring the exploitability of CVE%s through Classification using CISA KEV%s as a target. | https://github.com/s4mw1se/cve-exploitability- | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -83,6 +83,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240126T13:49:38Z | Null | https://github.com/ylle-43/fuzzy-moon | 0 | 0| 
+| 20240126T13:49:25Z | Null | https://github.com/valchuk-andreyam/fuzzy-sweater | 0 | 0| 
 | 20240126T13:46:21Z | Null | https://github.com/tubby-bry03/fuzzy-moon | 0 | 0| 
 | 20240126T13:38:06Z | Null | https://github.com/gringames/fuzzy-happinezzz | 0 | 0| 
 | 20240126T13:33:38Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1749 | 263| 
@@ -91,8 +93,6 @@
 | 20240126T12:57:56Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4303 | 872| 
 | 20240126T11:49:57Z | Null | https://github.com/uskovaleks/fuzzy-sweater | 0 | 0| 
 | 20240126T11:33:30Z | Null | https://github.com/sydr-fuzz/sydr-fuzz.github.io | 3 | 0| 
-| 20240126T11:11:12Z | Null | https://github.com/woron2004/fuzzy-moon | 0 | 0| 
-| 20240126T11:00:13Z | Null | https://github.com/warriorxd96/fuzzy-sweater | 0 | 0| 
 
 
 
