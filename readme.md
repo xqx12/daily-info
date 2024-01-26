@@ -83,6 +83,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240126T13:46:21Z | Null | https://github.com/tubby-bry03/fuzzy-moon | 0 | 0| 
 | 20240126T13:38:06Z | Null | https://github.com/gringames/fuzzy-happinezzz | 0 | 0| 
 | 20240126T13:33:38Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1749 | 263| 
 | 20240126T13:17:39Z | Null | https://github.com/tin-graphic/fuzzy-stream | 0 | 0| 
@@ -92,7 +93,6 @@
 | 20240126T11:33:30Z | Null | https://github.com/sydr-fuzz/sydr-fuzz.github.io | 3 | 0| 
 | 20240126T11:11:12Z | Null | https://github.com/woron2004/fuzzy-moon | 0 | 0| 
 | 20240126T11:00:13Z | Null | https://github.com/warriorxd96/fuzzy-sweater | 0 | 0| 
-| 20240126T10:05:56Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 2146 | 342| 
 
 
 
