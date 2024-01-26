@@ -65,7 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240126T00:47:37Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3811 | 547| 
+| 20240126T01:07:06Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3812 | 547| 
 | 20240126T00:32:22Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-gj | 1 | 0| 
 | 20240126T00:31:16Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-gj | 1 | 0| 
 | 20240126T00:30:31Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-gj | 1 | 0| 
