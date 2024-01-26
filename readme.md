@@ -19,8 +19,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240126T12:43:03Z | CVE-2024-23897 | Null | https://github.com/binganao/CVE-2024-23897 | | 
-| 20240126T12:41:12Z | CVE-2024-23897 | CVE-2024-23897 | https://github.com/h4x0r-dz/CVE-2024-23897 | | 
+| 20240126T13:02:33Z | CVE-2024-23897 | Null | https://github.com/binganao/CVE-2024-23897 | | 
+| 20240126T13:02:03Z | CVE-2024-23897 | CVE-2024-23897 | https://github.com/h4x0r-dz/CVE-2024-23897 | | 
 | 20240126T11:56:24Z | CVE-2022-4262 | Null | https://github.com/mistymntncop/CVE-2022-4262 | | 
 | 20240126T07:15:27Z | CVE-2023-22527 | Null | https://github.com/thanhlam-attt/CVE-2023-22527 | | 
 | 20240126T06:32:54Z | CVE-2023-7028 | Python Code for Exploit Automation CVE-2023-7028 | https://github.com/mochammadrafi/CVE-2023-7028 | | 
@@ -68,7 +68,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240126T02:03:06Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2401 | 651| 
+| 20240126T12:56:55Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2400 | 651| 
 | 20240126T01:37:37Z | A symbolic execution engine for EVM smart contract binaries | https://github.com/ucsb-seclab/greed | 17 | 1| 
 | 20240126T01:20:44Z | Null | https://github.com/GeuseWei/Symbolic-Execution-and-Verification-Engine-for-WHILE-Language | 0 | 0| 
 
@@ -76,6 +76,8 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240126T08:05:36Z | (NDSS 2024) Optimizing Decompiler Output with LLM | https://github.com/PeiweiHu/DeGPT | 4 | 0| 
+| 20240126T07:12:03Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 148 | 13| 
 
 
 # fuzz on Github 推荐

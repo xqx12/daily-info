@@ -26,8 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240126T12:43:03Z | CVE-2024-23897 | Null | https://github.com/binganao/CVE-2024-23897 | | 
-| 20240126T12:41:12Z | CVE-2024-23897 | CVE-2024-23897 | https://github.com/h4x0r-dz/CVE-2024-23897 | | 
+| 20240126T13:02:33Z | CVE-2024-23897 | Null | https://github.com/binganao/CVE-2024-23897 | | 
+| 20240126T13:02:03Z | CVE-2024-23897 | CVE-2024-23897 | https://github.com/h4x0r-dz/CVE-2024-23897 | | 
 | 20240126T11:56:24Z | CVE-2022-4262 | Null | https://github.com/mistymntncop/CVE-2022-4262 | | 
 | 20240126T07:15:27Z | CVE-2023-22527 | Null | https://github.com/thanhlam-attt/CVE-2023-22527 | | 
 | 20240126T06:32:54Z | CVE-2023-7028 | Python Code for Exploit Automation CVE-2023-7028 | https://github.com/mochammadrafi/CVE-2023-7028 | | 
@@ -95,7 +95,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240126T02:03:06Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2401 | 651| 
+| 20240126T12:56:55Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2400 | 651| 
 | 20240126T01:37:37Z | A symbolic execution engine for EVM smart contract binaries | https://github.com/ucsb-seclab/greed | 17 | 1| 
 | 20240126T01:20:44Z | Null | https://github.com/GeuseWei/Symbolic-Execution-and-Verification-Engine-for-WHILE-Language | 0 | 0| 
 | 20240125T06:42:10Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 104 | 10| 
@@ -110,10 +110,10 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240125T07:20:41Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 147 | 13| 
+| 20240126T08:05:36Z | (NDSS 2024) Optimizing Decompiler Output with LLM | https://github.com/PeiweiHu/DeGPT | 4 | 0| 
+| 20240126T07:12:03Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 148 | 13| 
 | 20240123T13:41:16Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/puzhuoliu/Computer-Security-Conference-Acceptance-Rate | 38 | 2| 
-| 20240122T16:08:28Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 129 | 12| 
-| 20240118T08:06:42Z | (NDSS 2024) Optimizing Decompiler Output with LLM | https://github.com/PeiweiHu/DeGPT | 3 | 0| 
+| 20240122T16:08:28Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 129 | 13| 
 | 20240117T13:53:48Z | Null | https://github.com/Compass-All/NDSS24-CAGE | 1 | 0| 
 | 20240114T22:46:07Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 110 | 4| 
 
