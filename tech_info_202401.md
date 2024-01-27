@@ -121,6 +121,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240127T13:45:09Z | Null | https://github.com/wari4106/fuzzy-moon | 0 | 0| 
 | 20240127T12:23:23Z | Null | https://github.com/DanielEbert/FuzzSight | 0 | 0| 
 | 20240127T11:27:36Z | Null | https://github.com/razorzero0/fuzzy-logic-sugeno | 0 | 0| 
 | 20240127T09:57:24Z | Null | https://github.com/gringames/fuzzy-happinezzz | 0 | 0| 
@@ -130,7 +131,6 @@
 | 20240127T00:52:49Z | Null | https://github.com/urshy-baby/fuzzy-moon | 0 | 0| 
 | 20240126T23:50:12Z | Null | https://github.com/google/fuzztest | 532 | 45| 
 | 20240126T23:02:21Z | Null | https://github.com/vortiz382/fuzzy-moon | 0 | 0| 
-| 20240126T22:37:50Z | Null | https://github.com/vitamin4ikkiska/fuzzy-stream | 0 | 0| 
 
 
 
