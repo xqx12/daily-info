@@ -64,6 +64,9 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240127T08:30:37Z | Python infrastructure to train paths selectors for symbolic execution engines. | https://github.com/gsvgit/PySymGym | 1 | 1| 
+| 20240127T06:41:57Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2401 | 651| 
+| 20240127T05:59:26Z | A symbolic execution engine for EVM smart contract binaries | https://github.com/ucsb-seclab/greed | 18 | 1| 
 
 
 # big4 on Github 推荐
