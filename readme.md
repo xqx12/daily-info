@@ -54,8 +54,8 @@
 | 20240126T12:48:00Z | Null | https://github.com/jilani192/Binary-Exploitation | 0 | 0| 
 | 20240126T12:41:32Z | Snake game with AI exploiting the DQN framework to learn to play | https://github.com/bindas1/rl_snake | 0 | 0| 
 | 20240126T12:23:32Z | AutoGDB: Automatic Binary-exploitation Tool combining GPT and GDB | https://github.com/retr0reg/AutoGDB | 38 | 5| 
+| 20240126T12:07:19Z | YiTu is an easy-to-use runtime to fully exploit the hybrid parallelism of different hardwares (e.g., GPU) to efficiently support the execution of various kinds of graph algorithms (e.g., GNNs). | https://github.com/CGCL-codes/YiTu | 23 | 14| 
 | 20240126T09:40:57Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5808 | 730| 
-| 20240126T03:26:59Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 88 | 13| 
 
 
 # backdoor on Github 推荐
