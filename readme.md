@@ -16,6 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240127T13:17:50Z | CVE-2021-4034 | Null | https://github.com/FancySauce/PwnKit-CVE-2021-4034- | | 
 | 20240127T13:16:02Z | CVE-2024-23897 | CVE-2024-23897 | https://github.com/h4x0r-dz/CVE-2024-23897 | | 
 | 20240127T13:15:18Z | CVE-2024-23897 | CVE-2024-23897 jenkins-cli | https://github.com/CKevens/CVE-2024-23897 | | 
 | 20240127T13:10:35Z | CVE-2024-23897 | CVE-2024-23897 , Jenkins <= 2.441 & <= LTS 2.426.2 PoC and scanner.  | https://github.com/xaitax/CVE-2024-23897 | | 

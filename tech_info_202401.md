@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240127T13:17:50Z | CVE-2021-4034 | Null | https://github.com/FancySauce/PwnKit-CVE-2021-4034- | | 
 | 20240127T13:16:02Z | CVE-2024-23897 | CVE-2024-23897 | https://github.com/h4x0r-dz/CVE-2024-23897 | | 
 | 20240127T13:15:18Z | CVE-2024-23897 | CVE-2024-23897 jenkins-cli | https://github.com/CKevens/CVE-2024-23897 | | 
 | 20240127T13:10:35Z | CVE-2024-23897 | CVE-2024-23897 , Jenkins <= 2.441 & <= LTS 2.426.2 PoC and scanner.  | https://github.com/xaitax/CVE-2024-23897 | | 
@@ -35,7 +36,6 @@
 | 20240127T00:08:27Z | CVE-2023-47400 | Proof of Concept for the CVE-2023-47400 | https://github.com/LucasVanHaaren/CVE-2023-47400 | | 
 | 20240126T21:40:59Z | cve-2024-23897 | Null | https://github.com/vmtyan/poc-cve-2024-23897 | | 
 | 20240126T19:10:28Z | CVE-2022-4262 | Null | https://github.com/mistymntncop/CVE-2022-4262 | | 
-| 20240126T13:07:15Z | CVE-2023-22527 | Null | https://github.com/thanhlam-attt/CVE-2023-22527 | | 
 
 
 # klee on Github 推荐
