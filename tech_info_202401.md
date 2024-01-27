@@ -121,8 +121,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240127T13:51:34Z | Null | https://github.com/DanielEbert/FuzzSight | 0 | 0| 
 | 20240127T13:45:09Z | Null | https://github.com/wari4106/fuzzy-moon | 0 | 0| 
-| 20240127T12:23:23Z | Null | https://github.com/DanielEbert/FuzzSight | 0 | 0| 
 | 20240127T11:27:36Z | Null | https://github.com/razorzero0/fuzzy-logic-sugeno | 0 | 0| 
 | 20240127T09:57:24Z | Null | https://github.com/gringames/fuzzy-happinezzz | 0 | 0| 
 | 20240127T07:53:34Z | Directory fuzzer for termux | https://github.com/anonymouseshrivastav/fuzzer | 1 | 0| 
