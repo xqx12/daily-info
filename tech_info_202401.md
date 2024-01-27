@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240127T00:50:15Z | CVE-2024-23897 | CVE-2024-23897 | https://github.com/h4x0r-dz/CVE-2024-23897 | | 
+| 20240127T01:09:42Z | CVE-2024-23897 | CVE-2024-23897 | https://github.com/h4x0r-dz/CVE-2024-23897 | | 
 | 20240127T00:08:27Z | CVE-2023-47400 | Proof of Concept for the CVE-2023-47400 | https://github.com/LucasVanHaaren/CVE-2023-47400 | | 
 | 20240126T22:47:41Z | CVE-2024-23897 | Null | https://github.com/binganao/CVE-2024-23897 | | 
 | 20240126T21:40:59Z | cve-2024-23897 | Null | https://github.com/vmtyan/poc-cve-2024-23897 | | 
@@ -72,9 +72,9 @@
 | 20240127T00:06:43Z | Discord Remote Administration Tool fully written in c#, stub size of ~75kb, over 40 post exploitations modules - GitHub - moom825/Discord-RAT-2.0: Discord Remote Administration Tool fully written in c#, stub size of ~75kb, over 40 post exploitations modules | https://github.com/Nanakwameself/Discord-RAT-2.0 | 0 | 0| 
 | 20240126T23:39:14Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5716 | 1101| 
 | 20240126T13:48:17Z | Null | https://github.com/floki5444/exploitdarlenepro.zip | 0 | 0| 
+| 20240126T13:30:30Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 247 | 20| 
 | 20240126T13:15:34Z | Bypasses the (edited) part of Discord messages | https://github.com/ZensDK/EditExploit | 0 | 0| 
 | 20240126T13:11:05Z | Allows you to edit discord messages without it saying that you have! | https://github.com/ZensDK/EditExploiting | 0 | 0| 
-| 20240126T12:48:00Z | Null | https://github.com/jilani192/Binary-Exploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐

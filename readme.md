@@ -49,6 +49,7 @@
 | --- | --- | --- | --- | ---| 
 | 20240126T23:39:14Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5716 | 1101| 
 | 20240126T13:48:17Z | Null | https://github.com/floki5444/exploitdarlenepro.zip | 0 | 0| 
+| 20240126T13:30:30Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 247 | 20| 
 | 20240126T13:15:34Z | Bypasses the (edited) part of Discord messages | https://github.com/ZensDK/EditExploit | 0 | 0| 
 | 20240126T13:11:05Z | Allows you to edit discord messages without it saying that you have! | https://github.com/ZensDK/EditExploiting | 0 | 0| 
 | 20240126T12:48:00Z | Null | https://github.com/jilani192/Binary-Exploitation | 0 | 0| 
@@ -56,7 +57,6 @@
 | 20240126T12:23:32Z | AutoGDB: Automatic Binary-exploitation Tool combining GPT and GDB | https://github.com/retr0reg/AutoGDB | 38 | 5| 
 | 20240126T09:40:57Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5808 | 730| 
 | 20240126T03:26:59Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 88 | 13| 
-| 20240126T02:53:58Z | WGU BSCS Capstone project exploring the exploitability of CVE%s through Classification using CISA KEV%s as a target. | https://github.com/s4mw1se/cve-exploitability | 0 | 0| 
 
 
 # backdoor on Github 推荐
