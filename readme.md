@@ -16,12 +16,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240127T13:10:35Z | CVE-2024-23897 | CVE-2024-23897 , Jenkins <= 2.441 & <= LTS 2.426.2 PoC and scanner.  | https://github.com/xaitax/CVE-2024-23897 | | 
 | 20240127T12:57:28Z | CVE-2024-23897 | CVE-2024-23897 jenkins-cli | https://github.com/CKevens/CVE-2024-23897 | | 
 | 20240127T12:36:40Z | CVE-2024-23897 | CVE-2024-23897 | https://github.com/h4x0r-dz/CVE-2024-23897 | | 
 | 20240127T06:01:19Z | CVE-2023-30258 | Null | https://github.com/gy741/CVE-2023-30258-setup | | 
 | 20240127T05:02:59Z | CVE-2024-23897 | Scanner for CVE-2024-23897 - Jenkins | https://github.com/yoryio/CVE-2024-23897 | | 
 | 20240127T02:36:55Z | CVE-2024-23897 | Null | https://github.com/binganao/CVE-2024-23897 | | 
-| 20240127T02:22:29Z | CVE-2024-23897 | CVE-2024-23897 , Jenkins <= 2.441 & <= LTS 2.426.2 PoC and scanner.  | https://github.com/xaitax/CVE-2024-23897 | | 
 | 20240127T00:08:27Z | CVE-2023-47400 | Proof of Concept for the CVE-2023-47400 | https://github.com/LucasVanHaaren/CVE-2023-47400 | | 
 
 
