@@ -80,6 +80,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240127T01:16:03Z | Distribution Preserving Backdoor Attack in Self-supervised Learning | https://github.com/Gwinhen/DRUPE | 5 | 0| 
 | 20240126T23:38:39Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 2487 | 902| 
 | 20240126T21:30:23Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 68 | 18| 
 | 20240126T21:14:46Z | Implementation of %How to Backdoor Federated Learning% paper. | https://github.com/Fquico1999/backdoor_federated_learning | 0 | 0| 
@@ -89,7 +90,6 @@
 | 20240126T00:47:12Z | This Python script designed as a backdoor to enable remote command execution on a target machine. | https://github.com/TUR14CUS/Audax | 0 | 0| 
 | 20240125T21:16:26Z | A Python backdoor with diverse functionalities, designed for simplicity and efficiency. | https://github.com/samedokceci/PyBackdoor | 0 | 0| 
 | 20240125T21:11:01Z | 👁️ Modded Program for remote control of windows computers via telegram bot. Written in C# | https://github.com/cisamu123/CyberEye | 17 | 3| 
-| 20240125T18:52:31Z | This backdoor webshell will allow you to query the database and fetch information | https://github.com/LinuxDestroy/PHP-Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
