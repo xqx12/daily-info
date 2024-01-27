@@ -26,6 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240127T13:29:02Z | CVE-2021-4034 | Null | https://github.com/FancySauce/PwnKit-CVE-2021-4034 | | 
+| 20240127T13:27:57Z | CVE-2024-23897 | on this git you can find all information on the CVE-2024-23897. | https://github.com/iota4/PoC-jenkins-rce_CVE-2024-23897. | | 
 | 20240127T13:17:50Z | CVE-2021-4034 | Null | https://github.com/FancySauce/PwnKit-CVE-2021-4034- | | 
 | 20240127T13:16:02Z | CVE-2024-23897 | CVE-2024-23897 | https://github.com/h4x0r-dz/CVE-2024-23897 | | 
 | 20240127T13:15:18Z | CVE-2024-23897 | CVE-2024-23897 jenkins-cli | https://github.com/CKevens/CVE-2024-23897 | | 
@@ -34,8 +36,6 @@
 | 20240127T05:02:59Z | CVE-2024-23897 | Scanner for CVE-2024-23897 - Jenkins | https://github.com/yoryio/CVE-2024-23897 | | 
 | 20240127T02:36:55Z | CVE-2024-23897 | Null | https://github.com/binganao/CVE-2024-23897 | | 
 | 20240127T00:08:27Z | CVE-2023-47400 | Proof of Concept for the CVE-2023-47400 | https://github.com/LucasVanHaaren/CVE-2023-47400 | | 
-| 20240126T21:40:59Z | cve-2024-23897 | Null | https://github.com/vmtyan/poc-cve-2024-23897 | | 
-| 20240126T19:10:28Z | CVE-2022-4262 | Null | https://github.com/mistymntncop/CVE-2022-4262 | | 
 
 
 # klee on Github 推荐
