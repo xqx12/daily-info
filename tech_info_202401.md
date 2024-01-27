@@ -26,24 +26,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240127T02:38:59Z | CVE-2024-23897 | CVE-2024-23897 | https://github.com/h4x0r-dz/CVE-2024-23897 | | 
+| 20240127T12:57:28Z | CVE-2024-23897 | CVE-2024-23897 jenkins-cli | https://github.com/CKevens/CVE-2024-23897 | | 
+| 20240127T12:36:40Z | CVE-2024-23897 | CVE-2024-23897 | https://github.com/h4x0r-dz/CVE-2024-23897 | | 
+| 20240127T06:01:19Z | CVE-2023-30258 | Null | https://github.com/gy741/CVE-2023-30258-setup | | 
+| 20240127T05:02:59Z | CVE-2024-23897 | Scanner for CVE-2024-23897 - Jenkins | https://github.com/yoryio/CVE-2024-23897 | | 
 | 20240127T02:36:55Z | CVE-2024-23897 | Null | https://github.com/binganao/CVE-2024-23897 | | 
 | 20240127T02:22:29Z | CVE-2024-23897 | CVE-2024-23897 , Jenkins <= 2.441 & <= LTS 2.426.2 PoC and scanner.  | https://github.com/xaitax/CVE-2024-23897 | | 
 | 20240127T00:08:27Z | CVE-2023-47400 | Proof of Concept for the CVE-2023-47400 | https://github.com/LucasVanHaaren/CVE-2023-47400 | | 
 | 20240126T21:40:59Z | cve-2024-23897 | Null | https://github.com/vmtyan/poc-cve-2024-23897 | | 
 | 20240126T19:10:28Z | CVE-2022-4262 | Null | https://github.com/mistymntncop/CVE-2022-4262 | | 
 | 20240126T13:07:15Z | CVE-2023-22527 | Null | https://github.com/thanhlam-attt/CVE-2023-22527 | | 
-| 20240126T09:28:21Z | CVE-2024-0844 | CVE-2024-0844 - Popup More <= 2.2.4 - Authenticated (Admin+) Directory Traversal to Limited Local File Inclusion | https://github.com/0x9567b/CVE-2024-0844 | | 
-| 20240126T06:32:54Z | CVE-2023-7028 | Python Code for Exploit Automation CVE-2023-7028 | https://github.com/mochammadrafi/CVE-2023-7028 | | 
-| 20240126T05:11:08Z | CVE-2020-1472 | Null | https://github.com/whoami-chmod777/Zerologon-Attack-CVE-2020-1472-POC | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240126T22:06:15Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15091 | 452| 
+| 20240127T09:59:06Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15091 | 452| 
+| 20240127T06:41:57Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2401 | 651| 
 | 20240126T16:11:21Z | Experiments with running klee on coreutils | https://github.com/riesentoaster/klee-coreutils-experiments | 0 | 0| 
-| 20240126T12:56:55Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2400 | 651| 
 | 20240125T07:45:24Z | Null | https://github.com/weshandsome/Klee-Running | 0 | 0| 
 | 20240121T22:29:46Z | Updated for symbolically identifying auto-vectorization checks with KLEE | https://github.com/weirdsmiley/polybench-c-4.2.1-beta | 0 | 0| 
 | 20240120T21:11:56Z | Null | https://github.com/darlingklee/klee_resource | 0 | 0| 
@@ -65,6 +65,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240127T12:19:33Z | Military Tycoon Exploit (working on) | https://github.com/NpChaadow/ChaadHub | 1 | 0| 
+| 20240127T12:01:52Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 247 | 47| 
+| 20240127T09:31:38Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 5052 | 654| 
 | 20240127T02:39:36Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0082-app-uypml-perform-exploit | 0 | 0| 
 | 20240127T02:38:52Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0042-app-4zt2X-exploit-hope | 0 | 0| 
 | 20240127T01:43:22Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0014-app-Aq-sT-help-exploit | 0 | 0| 
@@ -72,24 +75,21 @@
 | 20240127T01:22:10Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0070-app-1x8ow-place-exploit | 0 | 0| 
 | 20240127T00:33:32Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-tt | 1 | 0| 
 | 20240127T00:32:35Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-tt | 1 | 0| 
-| 20240127T00:31:37Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-tt | 1 | 0| 
-| 20240127T00:30:28Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-tt | 1 | 0| 
-| 20240127T00:06:43Z | Discord Remote Administration Tool fully written in c#, stub size of ~75kb, over 40 post exploitations modules - GitHub - moom825/Discord-RAT-2.0: Discord Remote Administration Tool fully written in c#, stub size of ~75kb, over 40 post exploitations modules | https://github.com/Nanakwameself/Discord-RAT-2.0 | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240127T11:13:55Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 71 | 18| 
+| 20240127T08:08:11Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 2488 | 902| 
+| 20240127T04:24:29Z | Windows Exploiter with AntiVirus Bypass | https://github.com/gsociety0/AnonXploit | 0 | 0| 
 | 20240127T01:16:03Z | Distribution Preserving Backdoor Attack in Self-supervised Learning | https://github.com/Gwinhen/DRUPE | 5 | 0| 
-| 20240126T23:38:39Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 2487 | 902| 
-| 20240126T21:30:23Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 68 | 18| 
 | 20240126T21:14:46Z | Implementation of %How to Backdoor Federated Learning% paper. | https://github.com/Fquico1999/backdoor_federated_learning | 0 | 0| 
 | 20240126T16:27:25Z | This project is a cross-platform backdoor/reverse shell and post-exploitation tool written in Python3 | https://github.com/xp4xbox/Python-Backdoor | 676 | 258| 
 | 20240126T16:20:05Z | Clone of https://github.com/TracksJosh/ktaneMultiRuleseededModules-master - Multi-Rulseeded Modules for KTANE (New World, Backdoor Keypad, Simon Steps) | https://github.com/KtaneModules/ktaneMultiRuleseededModules-master-TracksJosh | 0 | 0| 
 | 20240126T01:39:05Z | Null | https://github.com/TeuZero/Backdoor | 0 | 0| 
 | 20240126T00:47:12Z | This Python script designed as a backdoor to enable remote command execution on a target machine. | https://github.com/TUR14CUS/Audax | 0 | 0| 
 | 20240125T21:16:26Z | A Python backdoor with diverse functionalities, designed for simplicity and efficiency. | https://github.com/samedokceci/PyBackdoor | 0 | 0| 
-| 20240125T21:11:01Z | 👁️ Modded Program for remote control of windows computers via telegram bot. Written in C# | https://github.com/cisamu123/CyberEye | 17 | 3| 
 
 
 # symbolic execution on Github 推荐
@@ -121,16 +121,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240127T12:23:23Z | Null | https://github.com/DanielEbert/FuzzSight | 0 | 0| 
+| 20240127T11:27:36Z | Null | https://github.com/razorzero0/fuzzy-logic-sugeno | 0 | 0| 
+| 20240127T09:57:24Z | Null | https://github.com/gringames/fuzzy-happinezzz | 0 | 0| 
+| 20240127T07:53:34Z | Directory fuzzer for termux | https://github.com/anonymouseshrivastav/fuzzer | 1 | 0| 
 | 20240127T02:37:20Z | bsae image | https://github.com/yangchenguang94/fuzz | 0 | 0| 
 | 20240127T01:57:36Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51635 | 23500| 
 | 20240127T00:52:49Z | Null | https://github.com/urshy-baby/fuzzy-moon | 0 | 0| 
 | 20240126T23:50:12Z | Null | https://github.com/google/fuzztest | 532 | 45| 
 | 20240126T23:02:21Z | Null | https://github.com/vortiz382/fuzzy-moon | 0 | 0| 
 | 20240126T22:37:50Z | Null | https://github.com/vitamin4ikkiska/fuzzy-stream | 0 | 0| 
-| 20240126T13:49:38Z | Null | https://github.com/ylle-43/fuzzy-moon | 0 | 0| 
-| 20240126T13:49:25Z | Null | https://github.com/valchuk-andreyam/fuzzy-sweater | 0 | 0| 
-| 20240126T13:46:21Z | Null | https://github.com/tubby-bry03/fuzzy-moon | 0 | 0| 
-| 20240126T13:38:06Z | Null | https://github.com/gringames/fuzzy-happinezzz | 0 | 0| 
 
 
 
