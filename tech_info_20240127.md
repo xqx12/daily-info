@@ -43,6 +43,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240127T13:45:27Z | создан | https://github.com/MaxVolum/exploit-visionary-niches | 0 | 0| 
 | 20240127T13:12:18Z | Null | https://github.com/bridgelol/ContainerExploitPrevention | 2 | 0| 
 | 20240127T12:19:33Z | Military Tycoon Exploit (working on) | https://github.com/NpChaadow/ChaadHub | 1 | 0| 
 | 20240127T12:01:52Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 247 | 47| 
@@ -52,7 +53,6 @@
 | 20240127T01:43:22Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0014-app-Aq-sT-help-exploit | 0 | 0| 
 | 20240127T01:30:15Z | DevHaxx was the BEST i-Ready Utility | https://github.com/DevTech-Services/DevHaxx | 86 | 13| 
 | 20240127T01:22:10Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0070-app-1x8ow-place-exploit | 0 | 0| 
-| 20240127T00:33:32Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-tt | 1 | 0| 
 
 
 # backdoor on Github 推荐
