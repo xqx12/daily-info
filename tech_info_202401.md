@@ -26,23 +26,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240126T13:39:51Z | CVE-2024-23897 | CVE-2024-23897 | https://github.com/h4x0r-dz/CVE-2024-23897 | | 
-| 20240126T13:13:29Z | CVE-2024-23897 | Null | https://github.com/binganao/CVE-2024-23897 | | 
+| 20240127T00:50:15Z | CVE-2024-23897 | CVE-2024-23897 | https://github.com/h4x0r-dz/CVE-2024-23897 | | 
+| 20240127T00:08:27Z | CVE-2023-47400 | Proof of Concept for the CVE-2023-47400 | https://github.com/LucasVanHaaren/CVE-2023-47400 | | 
+| 20240126T22:47:41Z | CVE-2024-23897 | Null | https://github.com/binganao/CVE-2024-23897 | | 
+| 20240126T21:40:59Z | cve-2024-23897 | Null | https://github.com/vmtyan/poc-cve-2024-23897 | | 
+| 20240126T19:14:10Z | CVE-2024-23897 | CVE-2024-23897 , Jenkins <= 2.441 & <= LTS 2.426.2 PoC and scanner.  | https://github.com/xaitax/CVE-2024-23897 | | 
+| 20240126T19:10:28Z | CVE-2022-4262 | Null | https://github.com/mistymntncop/CVE-2022-4262 | | 
 | 20240126T13:07:15Z | CVE-2023-22527 | Null | https://github.com/thanhlam-attt/CVE-2023-22527 | | 
-| 20240126T11:56:24Z | CVE-2022-4262 | Null | https://github.com/mistymntncop/CVE-2022-4262 | | 
 | 20240126T09:28:21Z | CVE-2024-0844 | CVE-2024-0844 - Popup More <= 2.2.4 - Authenticated (Admin+) Directory Traversal to Limited Local File Inclusion | https://github.com/0x9567b/CVE-2024-0844 | | 
 | 20240126T06:32:54Z | CVE-2023-7028 | Python Code for Exploit Automation CVE-2023-7028 | https://github.com/mochammadrafi/CVE-2023-7028 | | 
 | 20240126T05:11:08Z | CVE-2020-1472 | Null | https://github.com/whoami-chmod777/Zerologon-Attack-CVE-2020-1472-POC | | 
-| 20240126T00:43:30Z | CVE-2024-23747 | Moderna Sistemas ModernaNet Hospital Management System 2024 is susceptible to an Insecure Direct Object Reference (IDOR) vulnerability | https://github.com/louiselalanne/CVE-2024-23747 | | 
-| 20240126T00:39:20Z | CVE-2024-23746 | Miro Desktop 0.8.18 on macOS allows Electron code injection. | https://github.com/louiselalanne/CVE-2024-23746 | | 
-| 20240125T21:55:43Z | CVE-2024-23745 | In Notion Web Clipper 1.0.3(7), a .nib file is susceptible to the Dirty NIB attack. | https://github.com/louiselalanne/CVE-2024-23745 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240126T22:06:15Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15091 | 452| 
+| 20240126T16:11:21Z | Experiments with running klee on coreutils | https://github.com/riesentoaster/klee-coreutils-experiments | 0 | 0| 
 | 20240126T12:56:55Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2400 | 651| 
-| 20240126T12:52:25Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15090 | 452| 
 | 20240125T07:45:24Z | Null | https://github.com/weshandsome/Klee-Running | 0 | 0| 
 | 20240121T22:29:46Z | Updated for symbolically identifying auto-vectorization checks with KLEE | https://github.com/weirdsmiley/polybench-c-4.2.1-beta | 0 | 0| 
 | 20240120T21:11:56Z | Null | https://github.com/darlingklee/klee_resource | 0 | 0| 
@@ -50,7 +51,6 @@
 | 20240119T10:04:42Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 430 | 9| 
 | 20240116T11:16:22Z | A customer management system for personal usage. The program is responsible for managing customers such as creating, updating and deleting as well as other functions such a invoice and statement generation. | https://github.com/terrychitter/kleenbin-cms | 0 | 0| 
 | 20240113T22:52:11Z | Null | https://github.com/Kleeiner21/klee | 0 | 0| 
-| 20240111T12:12:44Z | Config files for my GitHub profile. | https://github.com/Kleezyy/Kleezyy | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -65,31 +65,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240127T00:33:32Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-tt | 1 | 0| 
+| 20240127T00:32:35Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-tt | 1 | 0| 
+| 20240127T00:31:37Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-tt | 1 | 0| 
+| 20240127T00:30:28Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-tt | 1 | 0| 
+| 20240127T00:06:43Z | Discord Remote Administration Tool fully written in c#, stub size of ~75kb, over 40 post exploitations modules - GitHub - moom825/Discord-RAT-2.0: Discord Remote Administration Tool fully written in c#, stub size of ~75kb, over 40 post exploitations modules | https://github.com/Nanakwameself/Discord-RAT-2.0 | 0 | 0| 
+| 20240126T23:39:14Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5716 | 1101| 
 | 20240126T13:48:17Z | Null | https://github.com/floki5444/exploitdarlenepro.zip | 0 | 0| 
 | 20240126T13:15:34Z | Bypasses the (edited) part of Discord messages | https://github.com/ZensDK/EditExploit | 0 | 0| 
-| 20240126T13:15:06Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5712 | 1101| 
 | 20240126T13:11:05Z | Allows you to edit discord messages without it saying that you have! | https://github.com/ZensDK/EditExploiting | 0 | 0| 
 | 20240126T12:48:00Z | Null | https://github.com/jilani192/Binary-Exploitation | 0 | 0| 
-| 20240126T12:41:32Z | Snake game with AI exploiting the DQN framework to learn to play | https://github.com/bindas1/rl_snake | 0 | 0| 
-| 20240126T12:23:32Z | AutoGDB: Automatic Binary-exploitation Tool combining GPT and GDB | https://github.com/retr0reg/AutoGDB | 38 | 5| 
-| 20240126T09:40:57Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5808 | 730| 
-| 20240126T03:26:59Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 88 | 13| 
-| 20240126T02:53:58Z | WGU BSCS Capstone project exploring the exploitability of CVE%s through Classification using CISA KEV%s as a target. | https://github.com/s4mw1se/cve-exploitability | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240126T12:22:29Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 2482 | 901| 
-| 20240126T09:21:47Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 66 | 18| 
+| 20240126T23:38:39Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 2487 | 902| 
+| 20240126T21:30:23Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 68 | 18| 
+| 20240126T21:14:46Z | Implementation of %How to Backdoor Federated Learning% paper. | https://github.com/Fquico1999/backdoor_federated_learning | 0 | 0| 
+| 20240126T16:27:25Z | This project is a cross-platform backdoor/reverse shell and post-exploitation tool written in Python3 | https://github.com/xp4xbox/Python-Backdoor | 676 | 258| 
+| 20240126T16:20:05Z | Clone of https://github.com/TracksJosh/ktaneMultiRuleseededModules-master - Multi-Rulseeded Modules for KTANE (New World, Backdoor Keypad, Simon Steps) | https://github.com/KtaneModules/ktaneMultiRuleseededModules-master-TracksJosh | 0 | 0| 
 | 20240126T01:39:05Z | Null | https://github.com/TeuZero/Backdoor | 0 | 0| 
 | 20240126T00:47:12Z | This Python script designed as a backdoor to enable remote command execution on a target machine. | https://github.com/TUR14CUS/Audax | 0 | 0| 
 | 20240125T21:16:26Z | A Python backdoor with diverse functionalities, designed for simplicity and efficiency. | https://github.com/samedokceci/PyBackdoor | 0 | 0| 
 | 20240125T21:11:01Z | 👁️ Modded Program for remote control of windows computers via telegram bot. Written in C# | https://github.com/cisamu123/CyberEye | 17 | 3| 
 | 20240125T18:52:31Z | This backdoor webshell will allow you to query the database and fetch information | https://github.com/LinuxDestroy/PHP-Backdoor | 0 | 0| 
-| 20240125T17:01:58Z | Null | https://github.com/Sh4dowX404/UnrealIRCD-3.2.8.1-Backdoor | 0 | 0| 
-| 20240125T16:09:35Z | Null | https://github.com/Himangshu30/BackDoor-Framework-for-Reverse-Shell | 0 | 0| 
-| 20240125T03:00:27Z | Null | https://github.com/osamasayed585/BackDoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -121,16 +121,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240127T00:52:49Z | Null | https://github.com/urshy-baby/fuzzy-moon | 0 | 0| 
+| 20240126T23:51:22Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51634 | 23500| 
+| 20240126T23:50:12Z | Null | https://github.com/google/fuzztest | 532 | 45| 
+| 20240126T23:02:21Z | Null | https://github.com/vortiz382/fuzzy-moon | 0 | 0| 
+| 20240126T22:37:50Z | Null | https://github.com/vitamin4ikkiska/fuzzy-stream | 0 | 0| 
 | 20240126T13:49:38Z | Null | https://github.com/ylle-43/fuzzy-moon | 0 | 0| 
 | 20240126T13:49:25Z | Null | https://github.com/valchuk-andreyam/fuzzy-sweater | 0 | 0| 
 | 20240126T13:46:21Z | Null | https://github.com/tubby-bry03/fuzzy-moon | 0 | 0| 
 | 20240126T13:38:06Z | Null | https://github.com/gringames/fuzzy-happinezzz | 0 | 0| 
 | 20240126T13:33:38Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1749 | 263| 
-| 20240126T13:17:39Z | Null | https://github.com/tin-graphic/fuzzy-stream | 0 | 0| 
-| 20240126T13:10:11Z | Test repo for workshop | https://github.com/ivastar/fuzzy-palm-tree | 0 | 0| 
-| 20240126T12:57:56Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4303 | 872| 
-| 20240126T11:49:57Z | Null | https://github.com/uskovaleks/fuzzy-sweater | 0 | 0| 
-| 20240126T11:33:30Z | Null | https://github.com/sydr-fuzz/sydr-fuzz.github.io | 3 | 0| 
 
 
 
