@@ -83,7 +83,6 @@
 | --- | --- | --- | --- | ---| 
 | 20240127T23:04:44Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51658 | 23507| 
 | 20240127T22:40:01Z | Null | https://github.com/FuzzLibb/FuzzLibb.github.io | 0 | 0| 
-| 20240127T13:51:34Z | Null | https://github.com/DanielEbert/FuzzSight | 0 | 0| 
 | 20240127T13:45:09Z | Null | https://github.com/wari4106/fuzzy-moon | 0 | 0| 
 | 20240127T13:41:33Z | Command line helpers for fuzzing | https://github.com/rust-fuzz/cargo-fuzz | 1392 | 107| 
 | 20240127T11:27:36Z | Null | https://github.com/razorzero0/fuzzy-logic-sugeno | 0 | 0| 
@@ -91,6 +90,7 @@
 | 20240127T07:53:34Z | Directory fuzzer for termux | https://github.com/anonymouseshrivastav/fuzzer | 1 | 0| 
 | 20240127T03:42:39Z | Fuzzbuckets and Flops | https://github.com/jharger/FuzzbucketsAndFlops | 0 | 0| 
 | 20240127T02:37:20Z | bsae image | https://github.com/yangchenguang94/fuzz | 0 | 0| 
+| 20240127T00:52:49Z | Null | https://github.com/urshy-baby/fuzzy-moon | 0 | 0| 
 
 
 
