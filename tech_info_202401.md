@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240128T02:21:35Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0037-app-mWVwv-exploit-borrow | 0 | 0| 
 | 20240128T00:19:05Z | Script Exploits Roblox For Click Madness | https://github.com/R1TGAMING/IPIhub | 0 | 0| 
 | 20240127T23:38:36Z | the exploit for the truly desperate | https://github.com/Whelement/CRSH1TTY-public-beta | 0 | 0| 
 | 20240127T17:01:06Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5718 | 1101| 
@@ -74,7 +75,6 @@
 | 20240127T12:19:33Z | Military Tycoon Exploit (working on) | https://github.com/NpChaadow/ChaadHub | 1 | 0| 
 | 20240127T12:01:52Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 247 | 47| 
 | 20240127T09:31:38Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 5052 | 654| 
-| 20240127T02:39:36Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0082-app-uypml-perform-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
