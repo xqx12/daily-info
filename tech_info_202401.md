@@ -121,11 +121,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240128T02:26:36Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51658 | 23507| 
 | 20240128T01:27:24Z | Null | https://github.com/DanielEbert/FuzzSight | 0 | 0| 
 | 20240128T01:17:03Z | Null | https://github.com/axlserial/hotels-rating-fuzzy | 0 | 0| 
 | 20240128T00:55:41Z | UPN Veteran Jatim , Aquaponic pH Control-Monitoring with Type-2 Fuzzy Method Based on IoT Bot , S1 Thesis Project | https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot | 2 | 0| 
 | 20240128T00:32:53Z | Null | https://github.com/decagondev/fuzzy-location-finder-api | 0 | 0| 
-| 20240127T23:04:44Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51658 | 23507| 
 | 20240127T22:40:01Z | Null | https://github.com/FuzzLibb/FuzzLibb.github.io | 0 | 0| 
 | 20240127T13:45:09Z | Null | https://github.com/wari4106/fuzzy-moon | 0 | 0| 
 | 20240127T13:41:33Z | Command line helpers for fuzzing | https://github.com/rust-fuzz/cargo-fuzz | 1392 | 107| 
