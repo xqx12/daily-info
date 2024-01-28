@@ -41,7 +41,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240128T12:53:23Z | A flaw in Jenkins% CLI command parser allows attackers to inject file paths using the @ character, causing the parser to read and potentially expose sensitive file contents. This vulnerability can be exploited without authentication. | https://github.com/raheel0x01/CVE-2024-23897 | 0 | 0| 
+| 20240128T13:00:40Z | A flaw in Jenkins% CLI command parser allows attackers to inject file paths using the @ character, causing the parser to read and potentially expose sensitive file contents. This vulnerability can be exploited without authentication. | https://github.com/raheel0x01/CVE-2024-23897 | 0 | 0| 
 | 20240128T12:18:18Z | Repository with quick triggers to help during Pentest in an Active Directory environment. | https://github.com/rodolfomarianocy/AD-Exploitation-Basics | 20 | 7| 
 | 20240128T11:44:36Z | Null | https://github.com/ultrarazrab227/exploit | 0 | 0| 
 | 20240128T09:18:22Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5720 | 1101| 
