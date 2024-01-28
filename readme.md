@@ -74,6 +74,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240128T13:46:12Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4311 | 874| 
 | 20240128T13:42:15Z | Script diseñado para la enumeración de directorios en aplicaciones web mediante el uso de un diccionario de posibles rutas.  | https://github.com/0xju4ncaa/FuzzFlow | 0 | 0| 
 | 20240128T12:41:51Z | Null | https://github.com/tazz4523/fuzzy-moon | 0 | 0| 
 | 20240128T12:25:05Z | Null | https://github.com/Saikrishna9059049066/fuzzy-potato | 0 | 0| 
@@ -83,7 +84,6 @@
 | 20240128T11:28:32Z | do task with tcpdump fuzzing | https://github.com/dumprop/tcpdump-fuzzing | 0 | 0| 
 | 20240128T10:22:30Z | Null | https://github.com/vadyha25039/fuzzy-stream | 0 | 0| 
 | 20240128T07:15:28Z | Null | https://github.com/ttrippc750re/fuzzy-stream | 0 | 0| 
-| 20240128T06:50:03Z | Null | https://github.com/5thwalletvrindavaneshwarieth/fuzzy-waffle | 0 | 0| 
 
 
 
