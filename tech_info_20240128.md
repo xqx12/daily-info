@@ -16,7 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240128T11:26:20Z | CVE-2024-23897 | CVE-2024-23897 | https://github.com/h4x0r-dz/CVE-2024-23897 | | 
+| 20240128T13:10:24Z | CVE-2024-23897 | CVE-2024-23897 | https://github.com/h4x0r-dz/CVE-2024-23897 | | 
 | 20240128T10:20:15Z | CVE-2024-23897 | CVE-2024-23897 , Jenkins <= 2.441 & <= LTS 2.426.2 PoC and scanner.  | https://github.com/xaitax/CVE-2024-23897 | | 
 | 20240128T08:11:54Z | CVE-2022-4262 | Null | https://github.com/mistymntncop/CVE-2022-4262 | | 
 | 20240128T07:35:54Z | Cve-2023- | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/Maskiow/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
