@@ -26,23 +26,24 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240128T02:01:40Z | CVE-2024-23897 | This repository presents a proof-of-concept of CVE-2024-23897 | https://github.com/Vozec/CVE-2024-23897 | | 
+| 20240128T11:26:20Z | CVE-2024-23897 | CVE-2024-23897 | https://github.com/h4x0r-dz/CVE-2024-23897 | | 
+| 20240128T10:20:15Z | CVE-2024-23897 | CVE-2024-23897 , Jenkins <= 2.441 & <= LTS 2.426.2 PoC and scanner.  | https://github.com/xaitax/CVE-2024-23897 | | 
+| 20240128T08:11:54Z | CVE-2022-4262 | Null | https://github.com/mistymntncop/CVE-2022-4262 | | 
+| 20240128T07:35:54Z | Cve-2023- | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/Maskiow/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
+| 20240128T06:01:32Z | CVE-2024-23897 | This repository presents a proof-of-concept of CVE-2024-23897 | https://github.com/Vozec/CVE-2024-23897 | | 
+| 20240128T03:56:26Z | CVE-2024-23897 | CVE-2024-23897 - Jenkins 任意文件读取 利用工具 | https://github.com/wjlin0/CVE-2024-23897 | | 
 | 20240128T00:56:07Z | CVE-2024-23897 | on this git you can find all information on the CVE-2024-23897 | https://github.com/iota4/PoC-jenkins-rce_CVE-2024-23897 | | 
-| 20240127T21:54:29Z | CVE-2024-23897 | CVE-2024-23897 - Jenkins 任意文件读取 利用工具 | https://github.com/wjlin0/CVE-2024-23897 | | 
 | 20240127T19:04:56Z | CVE-2024-22514 | Null | https://github.com/Orange-418/CVE-2024-22514-Remote-Code-Execution | | 
 | 20240127T18:51:26Z | CVE-2024-22515 | Null | https://github.com/Orange-418/CVE-2024-22515-File-Upload-Vulnerability | | 
 | 20240127T18:17:48Z | CVE-2024-22894 | Null | https://github.com/Jaarden/CVE-2024-22894 | | 
-| 20240127T17:55:59Z | CVE-2024-23897 | CVE-2024-23897 , Jenkins <= 2.441 & <= LTS 2.426.2 PoC and scanner.  | https://github.com/xaitax/CVE-2024-23897 | | 
-| 20240127T14:23:49Z | CVE-2023-6875 | Exploit for CVE-2023-6875 - Unauthorized Account Takeover.  | https://github.com/gbrsh/CVE-2023-6875 | | 
-| 20240127T13:29:02Z | CVE-2021-4034 | Null | https://github.com/FancySauce/PwnKit-CVE-2021-4034 | | 
-| 20240127T13:27:57Z | CVE-2024-23897 | on this git you can find all information on the CVE-2024-23897. | https://github.com/iota4/PoC-jenkins-rce_CVE-2024-23897. | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240127T17:13:22Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15093 | 452| 
-| 20240127T06:41:57Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2401 | 651| 
+| 20240128T12:17:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2402 | 652| 
+| 20240128T12:09:48Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15097 | 452| 
+| 20240128T11:13:07Z | Null | https://github.com/2khanh/kleetcode | 0 | 0| 
 | 20240126T16:11:21Z | Experiments with running klee on coreutils | https://github.com/riesentoaster/klee-coreutils-experiments | 0 | 0| 
 | 20240125T07:45:24Z | Null | https://github.com/weshandsome/Klee-Running | 0 | 0| 
 | 20240121T22:29:46Z | Updated for symbolically identifying auto-vectorization checks with KLEE | https://github.com/weirdsmiley/polybench-c-4.2.1-beta | 0 | 0| 
@@ -50,7 +51,6 @@
 | 20240119T17:52:18Z | Null | https://github.com/adarsh2023calc/AutomateKLEE | 0 | 0| 
 | 20240119T10:04:42Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 430 | 9| 
 | 20240116T11:16:22Z | A customer management system for personal usage. The program is responsible for managing customers such as creating, updating and deleting as well as other functions such a invoice and statement generation. | https://github.com/terrychitter/kleenbin-cms | 0 | 0| 
-| 20240113T22:52:11Z | Null | https://github.com/Kleeiner21/klee | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -65,21 +65,23 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240128T12:53:23Z | A flaw in Jenkins% CLI command parser allows attackers to inject file paths using the @ character, causing the parser to read and potentially expose sensitive file contents. This vulnerability can be exploited without authentication. | https://github.com/raheel0x01/CVE-2024-23897 | 0 | 0| 
+| 20240128T12:18:18Z | Repository with quick triggers to help during Pentest in an Active Directory environment. | https://github.com/rodolfomarianocy/AD-Exploitation-Basics | 20 | 7| 
+| 20240128T11:44:36Z | Null | https://github.com/ultrarazrab227/exploit | 0 | 0| 
+| 20240128T09:18:22Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5720 | 1101| 
+| 20240128T07:35:54Z | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/Maskiow/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | 1 | 0| 
 | 20240128T02:21:35Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0037-app-mWVwv-exploit-borrow | 0 | 0| 
 | 20240128T00:19:05Z | Script Exploits Roblox For Click Madness | https://github.com/R1TGAMING/IPIhub | 0 | 0| 
 | 20240127T23:38:36Z | the exploit for the truly desperate | https://github.com/Whelement/CRSH1TTY-public-beta | 0 | 0| 
-| 20240127T17:01:06Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5718 | 1101| 
 | 20240127T15:18:02Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 785 | 186| 
 | 20240127T13:45:27Z | создан | https://github.com/MaxVolum/exploit-visionary-niches | 0 | 0| 
-| 20240127T13:12:18Z | Null | https://github.com/bridgelol/ContainerExploitPrevention | 2 | 0| 
-| 20240127T12:19:33Z | Military Tycoon Exploit (working on) | https://github.com/NpChaadow/ChaadHub | 1 | 0| 
-| 20240127T12:01:52Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 247 | 47| 
-| 20240127T09:31:38Z | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | 5052 | 654| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240128T12:35:00Z | Official implementation of paper %Venom: A Generic Backdoor Attack Enhancer for Improving Survivability by Decision Path Coupling% | https://github.com/VenomEnhancer/Venom | 0 | 0| 
+| 20240128T11:43:19Z | Null | https://github.com/exaland/PHP_Backdoor_Scanner | 0 | 0| 
 | 20240127T23:11:22Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 2491 | 903| 
 | 20240127T14:19:00Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 72 | 18| 
 | 20240127T04:24:29Z | Windows Exploiter with AntiVirus Bypass | https://github.com/gsociety0/AnonXploit | 0 | 0| 
@@ -88,8 +90,6 @@
 | 20240126T16:27:25Z | This project is a cross-platform backdoor/reverse shell and post-exploitation tool written in Python3 | https://github.com/xp4xbox/Python-Backdoor | 676 | 258| 
 | 20240126T16:20:05Z | Clone of https://github.com/TracksJosh/ktaneMultiRuleseededModules-master - Multi-Rulseeded Modules for KTANE (New World, Backdoor Keypad, Simon Steps) | https://github.com/KtaneModules/ktaneMultiRuleseededModules-master-TracksJosh | 0 | 0| 
 | 20240126T01:39:05Z | Null | https://github.com/TeuZero/Backdoor | 0 | 0| 
-| 20240126T00:47:12Z | This Python script designed as a backdoor to enable remote command execution on a target machine. | https://github.com/TUR14CUS/Audax | 0 | 0| 
-| 20240125T21:16:26Z | A Python backdoor with diverse functionalities, designed for simplicity and efficiency. | https://github.com/samedokceci/PyBackdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -121,16 +121,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240128T12:41:51Z | Null | https://github.com/tazz4523/fuzzy-moon | 0 | 0| 
+| 20240128T12:25:05Z | Null | https://github.com/Saikrishna9059049066/fuzzy-potato | 0 | 0| 
+| 20240128T11:59:21Z | Null | https://github.com/klstoch/fuzzy-logic-questionnaire | 0 | 0| 
+| 20240128T11:59:00Z | Null | https://github.com/Fuck4ik/fuzzy-logic-questionnaire | 0 | 0| 
+| 20240128T11:57:59Z | Simulation of the robot with fuzzy logic | https://github.com/crylent/AI_fuzzy_robot | 0 | 0| 
+| 20240128T11:28:32Z | do task with tcpdump fuzzing | https://github.com/dumprop/tcpdump-fuzzing | 0 | 0| 
+| 20240128T10:22:30Z | Null | https://github.com/vadyha25039/fuzzy-stream | 0 | 0| 
+| 20240128T07:15:28Z | Null | https://github.com/ttrippc750re/fuzzy-stream | 0 | 0| 
+| 20240128T06:50:03Z | Null | https://github.com/5thwalletvrindavaneshwarieth/fuzzy-waffle | 0 | 0| 
 | 20240128T02:26:36Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51658 | 23507| 
-| 20240128T01:27:24Z | Null | https://github.com/DanielEbert/FuzzSight | 0 | 0| 
-| 20240128T01:17:03Z | Null | https://github.com/axlserial/hotels-rating-fuzzy | 0 | 0| 
-| 20240128T00:55:41Z | UPN Veteran Jatim , Aquaponic pH Control-Monitoring with Type-2 Fuzzy Method Based on IoT Bot , S1 Thesis Project | https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot | 2 | 0| 
-| 20240128T00:32:53Z | Null | https://github.com/decagondev/fuzzy-location-finder-api | 0 | 0| 
-| 20240127T22:40:01Z | Null | https://github.com/FuzzLibb/FuzzLibb.github.io | 0 | 0| 
-| 20240127T13:45:09Z | Null | https://github.com/wari4106/fuzzy-moon | 0 | 0| 
-| 20240127T13:41:33Z | Command line helpers for fuzzing | https://github.com/rust-fuzz/cargo-fuzz | 1392 | 107| 
-| 20240127T11:27:36Z | Null | https://github.com/razorzero0/fuzzy-logic-sugeno | 0 | 0| 
-| 20240127T09:57:24Z | Null | https://github.com/gringames/fuzzy-happinezzz | 0 | 0| 
 
 
 
