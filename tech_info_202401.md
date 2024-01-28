@@ -121,6 +121,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240128T01:17:03Z | Null | https://github.com/axlserial/hotels-rating-fuzzy | 0 | 0| 
 | 20240128T00:55:41Z | UPN Veteran Jatim , Aquaponic pH Control-Monitoring with Type-2 Fuzzy Method Based on IoT Bot , S1 Thesis Project | https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot | 2 | 0| 
 | 20240128T00:32:53Z | Null | https://github.com/decagondev/fuzzy-location-finder-api | 0 | 0| 
 | 20240127T23:04:44Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51658 | 23507| 
@@ -130,7 +131,6 @@
 | 20240127T13:41:33Z | Command line helpers for fuzzing | https://github.com/rust-fuzz/cargo-fuzz | 1392 | 107| 
 | 20240127T11:27:36Z | Null | https://github.com/razorzero0/fuzzy-logic-sugeno | 0 | 0| 
 | 20240127T09:57:24Z | Null | https://github.com/gringames/fuzzy-happinezzz | 0 | 0| 
-| 20240127T07:53:34Z | Directory fuzzer for termux | https://github.com/anonymouseshrivastav/fuzzer | 1 | 0| 
 
 
 
