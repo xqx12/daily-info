@@ -26,9 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240128T13:42:42Z | CVE-2022-4262 | Null | https://github.com/mistymntncop/CVE-2022-4262 | | 
 | 20240128T13:10:24Z | CVE-2024-23897 | CVE-2024-23897 | https://github.com/h4x0r-dz/CVE-2024-23897 | | 
 | 20240128T10:20:15Z | CVE-2024-23897 | CVE-2024-23897 , Jenkins <= 2.441 & <= LTS 2.426.2 PoC and scanner.  | https://github.com/xaitax/CVE-2024-23897 | | 
-| 20240128T08:11:54Z | CVE-2022-4262 | Null | https://github.com/mistymntncop/CVE-2022-4262 | | 
 | 20240128T07:35:54Z | Cve-2023- | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/Maskiow/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 | 20240128T06:01:32Z | CVE-2024-23897 | This repository presents a proof-of-concept of CVE-2024-23897 | https://github.com/Vozec/CVE-2024-23897 | | 
 | 20240128T03:56:26Z | CVE-2024-23897 | CVE-2024-23897 - Jenkins 任意文件读取 利用工具 | https://github.com/wjlin0/CVE-2024-23897 | | 
@@ -121,6 +121,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240128T13:42:15Z | Script diseñado para la enumeración de directorios en aplicaciones web mediante el uso de un diccionario de posibles rutas.  | https://github.com/0xju4ncaa/FuzzFlow | 0 | 0| 
 | 20240128T12:41:51Z | Null | https://github.com/tazz4523/fuzzy-moon | 0 | 0| 
 | 20240128T12:25:05Z | Null | https://github.com/Saikrishna9059049066/fuzzy-potato | 0 | 0| 
 | 20240128T11:59:21Z | Null | https://github.com/klstoch/fuzzy-logic-questionnaire | 0 | 0| 
@@ -130,7 +131,6 @@
 | 20240128T10:22:30Z | Null | https://github.com/vadyha25039/fuzzy-stream | 0 | 0| 
 | 20240128T07:15:28Z | Null | https://github.com/ttrippc750re/fuzzy-stream | 0 | 0| 
 | 20240128T06:50:03Z | Null | https://github.com/5thwalletvrindavaneshwarieth/fuzzy-waffle | 0 | 0| 
-| 20240128T02:26:36Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51658 | 23507| 
 
 
 
