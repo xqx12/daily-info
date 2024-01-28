@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240128T01:57:39Z | CVE-2024-23897 | This repository presents a proof-of-concept of CVE-2024-23897 | https://github.com/Vozec/CVE-2024-23897 | | 
+| 20240128T02:01:40Z | CVE-2024-23897 | This repository presents a proof-of-concept of CVE-2024-23897 | https://github.com/Vozec/CVE-2024-23897 | | 
 | 20240128T00:56:07Z | CVE-2024-23897 | on this git you can find all information on the CVE-2024-23897 | https://github.com/iota4/PoC-jenkins-rce_CVE-2024-23897 | | 
 | 20240127T21:54:29Z | CVE-2024-23897 | CVE-2024-23897 - Jenkins 任意文件读取 利用工具 | https://github.com/wjlin0/CVE-2024-23897 | | 
 | 20240127T19:04:56Z | CVE-2024-22514 | Null | https://github.com/Orange-418/CVE-2024-22514-Remote-Code-Execution | | 
