@@ -55,6 +55,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240128T13:26:54Z | Null | https://github.com/BangW2001/APK-Specific-Backdoor-Attack-Against-Android-Malware | 0 | 0| 
 | 20240128T12:35:00Z | Official implementation of paper %Venom: A Generic Backdoor Attack Enhancer for Improving Survivability by Decision Path Coupling% | https://github.com/VenomEnhancer/Venom | 0 | 0| 
 | 20240128T11:43:19Z | Null | https://github.com/exaland/PHP_Backdoor_Scanner | 0 | 0| 
 

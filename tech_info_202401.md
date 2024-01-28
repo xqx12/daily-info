@@ -80,6 +80,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240128T13:26:54Z | Null | https://github.com/BangW2001/APK-Specific-Backdoor-Attack-Against-Android-Malware | 0 | 0| 
 | 20240128T12:35:00Z | Official implementation of paper %Venom: A Generic Backdoor Attack Enhancer for Improving Survivability by Decision Path Coupling% | https://github.com/VenomEnhancer/Venom | 0 | 0| 
 | 20240128T11:43:19Z | Null | https://github.com/exaland/PHP_Backdoor_Scanner | 0 | 0| 
 | 20240127T23:11:22Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 2491 | 903| 
@@ -89,7 +90,6 @@
 | 20240126T21:14:46Z | Implementation of %How to Backdoor Federated Learning% paper. | https://github.com/Fquico1999/backdoor_federated_learning | 0 | 0| 
 | 20240126T16:27:25Z | This project is a cross-platform backdoor/reverse shell and post-exploitation tool written in Python3 | https://github.com/xp4xbox/Python-Backdoor | 676 | 258| 
 | 20240126T16:20:05Z | Clone of https://github.com/TracksJosh/ktaneMultiRuleseededModules-master - Multi-Rulseeded Modules for KTANE (New World, Backdoor Keypad, Simon Steps) | https://github.com/KtaneModules/ktaneMultiRuleseededModules-master-TracksJosh | 0 | 0| 
-| 20240126T01:39:05Z | Null | https://github.com/TeuZero/Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
