@@ -47,8 +47,8 @@
 | 20240128T11:44:36Z | Null | https://github.com/ultrarazrab227/exploit | 0 | 0| 
 | 20240128T09:44:43Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/GhostTroops/TOP | 599 | 118| 
 | 20240128T07:35:54Z | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/Maskiow/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | 1 | 0| 
+| 20240128T02:44:00Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5792 | 780| 
 | 20240128T02:21:35Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0037-app-mWVwv-exploit-borrow | 0 | 0| 
-| 20240128T00:19:05Z | Script Exploits Roblox For Click Madness | https://github.com/R1TGAMING/IPIhub | 0 | 0| 
 
 
 # backdoor on Github 推荐
