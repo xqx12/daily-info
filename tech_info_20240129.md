@@ -82,6 +82,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240129T13:42:41Z | This website is built with html and CSS | https://github.com/Omoshewaa/fuzzy-palm-tree | 0 | 0| 
 | 20240129T13:40:16Z | Null | https://github.com/Duca2020/Fuzzy-and-swarm | 0 | 0| 
 | 20240129T13:08:47Z | Null | https://github.com/evangsherlock/AdventuresInFuzzing | 0 | 0| 
 | 20240129T12:34:15Z |  This GitHub repo offers a method for label transfer in single-cell RNA-seq data using shared embeddings from foundation models. It leverages language model APIs (GPT-3.5 or 4) for harmonizing label sets, enhancing transfer interpretation and facilitating basic metric evaluation. | https://github.com/Eamonmca/Single-Cell-Fuzzy-Labels | 0 | 0| 
@@ -91,7 +92,6 @@
 | 20240129T09:20:24Z | Null | https://github.com/JulienLebranchu/fuzzy-octo-quarto-book | 0 | 0| 
 | 20240129T07:18:09Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1907 | 334| 
 | 20240129T02:33:41Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51681 | 23511| 
-| 20240129T01:09:27Z | BackUpFuzzer | https://github.com/aashishsec/BackUpFuzzer | 0 | 0| 
 
 
 
