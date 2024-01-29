@@ -82,7 +82,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240129T13:55:19Z | Null | https://github.com/PerplexusPixel/fuzzy-winner | 0 | 0| 
+| 20240129T13:55:58Z | Null | https://github.com/PerplexusPixel/fuzzy-winner | 0 | 0| 
 | 20240129T13:48:25Z | This website is built with html and CSS | https://github.com/Omoshewaa/fuzzy-palm-tree | 0 | 0| 
 | 20240129T13:40:16Z | Null | https://github.com/Duca2020/Fuzzy-and-swarm | 0 | 0| 
 | 20240129T13:08:47Z | Null | https://github.com/evangsherlock/AdventuresInFuzzing | 0 | 0| 
