@@ -121,8 +121,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240129T13:08:47Z | Null | https://github.com/evangsherlock/AdventuresInFuzzing | 0 | 0| 
 | 20240129T12:34:15Z |  This GitHub repo offers a method for label transfer in single-cell RNA-seq data using shared embeddings from foundation models. It leverages language model APIs (GPT-3.5 or 4) for harmonizing label sets, enhancing transfer interpretation and facilitating basic metric evaluation. | https://github.com/Eamonmca/Single-Cell-Fuzzy-Labels | 0 | 0| 
-| 20240129T12:12:20Z | Null | https://github.com/evangsherlock/AdventuresInFuzzing | 0 | 0| 
 | 20240129T11:39:48Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9360 | 2098| 
 | 20240129T11:17:06Z | Null | https://github.com/liliansteven/Entropy-Based-Fuzzy-Clustering-algorithm-implemented-from-scratch-with-PCA | 0 | 0| 
 | 20240129T09:33:45Z | Contains basic smoke test, unit tests, fuzzing in Golang | https://github.com/0xTenma/Go-Testing | 0 | 0| 
