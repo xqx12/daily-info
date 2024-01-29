@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240129T02:26:33Z | CVE-2023-6933 | Introduction to CVE-2023-6933 Vulnerability | https://github.com/w2xim3/CVE-2023-6933 | | 
 | 20240129T00:22:55Z | CVE-2024-24206 | Null | https://github.com/l00neyhacker/CVE-2024-24206 | | 
 | 20240129T00:21:39Z | CVE-2024-23897 | CVE-2024-23897 | https://github.com/h4x0r-dz/CVE-2024-23897 | | 
 | 20240129T00:21:27Z | CVE-2024-24204 | Null | https://github.com/l00neyhacker/CVE-2024-24204 | | 
@@ -33,7 +34,6 @@
 | 20240129T00:19:49Z | CVE-2024-22678 | Null | https://github.com/l00neyhacker/CVE-2024-22678 | | 
 | 20240129T00:19:07Z | CVE-2024-22676 | Null | https://github.com/l00neyhacker/CVE-2024-22676 | | 
 | 20240129T00:17:52Z | CVE-2024-22675 | Null | https://github.com/l00neyhacker/CVE-2024-22675 | | 
-| 20240128T23:16:53Z | CVE-2023-6933 | Introduction to CVE-2023-6933 Vulnerability | https://github.com/w2xim3/CVE-2023-6933 | | 
 | 20240128T17:47:20Z | CVE-2024-23897 | CVE-2024-23897 - Jenkins 任意文件读取 利用工具 | https://github.com/wjlin0/CVE-2024-23897 | | 
 | 20240128T13:42:42Z | CVE-2022-4262 | Null | https://github.com/mistymntncop/CVE-2022-4262 | | 
 
@@ -110,9 +110,9 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240129T02:25:36Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 110 | 4| 
 | 20240129T02:08:07Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 149 | 13| 
 | 20240127T14:01:33Z | (NDSS 2024) Optimizing Decompiler Output with LLM | https://github.com/PeiweiHu/DeGPT | 5 | 0| 
-| 20240126T20:54:00Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 111 | 4| 
 | 20240126T19:02:55Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 130 | 13| 
 | 20240123T13:41:16Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/puzhuoliu/Computer-Security-Conference-Acceptance-Rate | 38 | 2| 
 | 20240117T13:53:48Z | Null | https://github.com/Compass-All/NDSS24-CAGE | 1 | 0| 
