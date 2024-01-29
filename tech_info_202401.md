@@ -80,6 +80,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240129T02:29:48Z | backdoor_attack | https://github.com/lihe19980424/rick | 0 | 0| 
 | 20240129T00:17:43Z | Implementation of %How to Backdoor Federated Learning% paper. | https://github.com/Fquico1999/backdoor_federated_learning | 0 | 0| 
 | 20240128T19:26:58Z | test | https://github.com/CharonX1X/backdoor | 0 | 0| 
 | 20240128T18:26:08Z | Windows RAT w/ antivirus bypass. | https://github.com/gsociety0/AnonXploit | 0 | 0| 
@@ -89,7 +90,6 @@
 | 20240128T12:35:00Z | Official implementation of paper %Venom: A Generic Backdoor Attack Enhancer for Improving Survivability by Decision Path Coupling% | https://github.com/VenomEnhancer/Venom | 0 | 0| 
 | 20240128T11:43:19Z | Null | https://github.com/exaland/PHP_Backdoor_Scanner | 0 | 0| 
 | 20240127T23:11:22Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 2491 | 903| 
-| 20240127T14:19:00Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 72 | 18| 
 
 
 # symbolic execution on Github 推荐
