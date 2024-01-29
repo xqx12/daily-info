@@ -41,7 +41,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240128T16:19:54Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15099 | 452| 
+| 20240129T01:07:55Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15100 | 452| 
 | 20240128T12:17:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2402 | 652| 
 | 20240128T11:13:07Z | Null | https://github.com/2khanh/kleetcode | 0 | 0| 
 | 20240126T16:11:21Z | Experiments with running klee on coreutils | https://github.com/riesentoaster/klee-coreutils-experiments | 0 | 0| 
@@ -121,6 +121,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240129T01:09:27Z | BackUpFuzzer | https://github.com/aashishsec/BackUpFuzzer | 0 | 0| 
 | 20240128T23:24:11Z | Null | https://github.com/vulahmarina/fuzzy-sweater | 0 | 0| 
 | 20240128T23:05:49Z | Null | https://github.com/teach4all-99/fuzzy-sweater | 0 | 0| 
 | 20240128T21:54:32Z | Null | https://github.com/FuzzCast2024/fuzzcast-platform-project | 0 | 0| 
@@ -130,7 +131,6 @@
 | 20240128T12:41:51Z | Null | https://github.com/tazz4523/fuzzy-moon | 0 | 0| 
 | 20240128T12:25:05Z | Null | https://github.com/Saikrishna9059049066/fuzzy-potato | 0 | 0| 
 | 20240128T11:59:21Z | Null | https://github.com/klstoch/fuzzy-logic-questionnaire | 0 | 0| 
-| 20240128T11:59:00Z | Null | https://github.com/Fuck4ik/fuzzy-logic-questionnaire | 0 | 0| 
 
 
 
