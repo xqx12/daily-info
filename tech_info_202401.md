@@ -26,22 +26,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240129T00:22:55Z | CVE-2024-24206 | Null | https://github.com/l00neyhacker/CVE-2024-24206 | | 
+| 20240129T00:21:39Z | CVE-2024-23897 | CVE-2024-23897 | https://github.com/h4x0r-dz/CVE-2024-23897 | | 
+| 20240129T00:21:27Z | CVE-2024-24204 | Null | https://github.com/l00neyhacker/CVE-2024-24204 | | 
+| 20240129T00:20:37Z | CVE-2024-24203 | Null | https://github.com/l00neyhacker/CVE-2024-24203 | | 
+| 20240129T00:19:49Z | CVE-2024-22678 | Null | https://github.com/l00neyhacker/CVE-2024-22678 | | 
+| 20240129T00:19:07Z | CVE-2024-22676 | Null | https://github.com/l00neyhacker/CVE-2024-22676 | | 
+| 20240129T00:17:52Z | CVE-2024-22675 | Null | https://github.com/l00neyhacker/CVE-2024-22675 | | 
+| 20240128T23:16:53Z | CVE-2023-6933 | Introduction to CVE-2023-6933 Vulnerability | https://github.com/w2xim3/CVE-2023-6933 | | 
+| 20240128T17:47:20Z | CVE-2024-23897 | CVE-2024-23897 - Jenkins 任意文件读取 利用工具 | https://github.com/wjlin0/CVE-2024-23897 | | 
 | 20240128T13:42:42Z | CVE-2022-4262 | Null | https://github.com/mistymntncop/CVE-2022-4262 | | 
-| 20240128T13:10:24Z | CVE-2024-23897 | CVE-2024-23897 | https://github.com/h4x0r-dz/CVE-2024-23897 | | 
-| 20240128T10:20:15Z | CVE-2024-23897 | CVE-2024-23897 , Jenkins <= 2.441 & <= LTS 2.426.2 PoC and scanner.  | https://github.com/xaitax/CVE-2024-23897 | | 
-| 20240128T07:35:54Z | Cve-2023- | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/Maskiow/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
-| 20240128T06:01:32Z | CVE-2024-23897 | This repository presents a proof-of-concept of CVE-2024-23897 | https://github.com/Vozec/CVE-2024-23897 | | 
-| 20240128T03:56:26Z | CVE-2024-23897 | CVE-2024-23897 - Jenkins 任意文件读取 利用工具 | https://github.com/wjlin0/CVE-2024-23897 | | 
-| 20240128T00:56:07Z | CVE-2024-23897 | on this git you can find all information on the CVE-2024-23897 | https://github.com/iota4/PoC-jenkins-rce_CVE-2024-23897 | | 
-| 20240127T19:04:56Z | CVE-2024-22514 | Null | https://github.com/Orange-418/CVE-2024-22514-Remote-Code-Execution | | 
-| 20240127T18:51:26Z | CVE-2024-22515 | Null | https://github.com/Orange-418/CVE-2024-22515-File-Upload-Vulnerability | | 
-| 20240127T18:17:48Z | CVE-2024-22894 | Null | https://github.com/Jaarden/CVE-2024-22894 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240128T13:05:18Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15098 | 452| 
+| 20240128T16:19:54Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15099 | 452| 
 | 20240128T12:17:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2402 | 652| 
 | 20240128T11:13:07Z | Null | https://github.com/2khanh/kleetcode | 0 | 0| 
 | 20240126T16:11:21Z | Experiments with running klee on coreutils | https://github.com/riesentoaster/klee-coreutils-experiments | 0 | 0| 
@@ -65,31 +65,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240129T00:57:55Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-kk | 1 | 0| 
+| 20240129T00:57:15Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-kk | 1 | 0| 
+| 20240129T00:56:24Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-kk | 1 | 0| 
+| 20240129T00:55:39Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-kk | 1 | 0| 
+| 20240129T00:43:14Z |  zFTPServer Suite 6.0.0.52 - %rmdir% Directory Traversal python exploit  | https://github.com/Sic4rio/-zFTPServer-Suite-6.0.0.52---rmdir-Directory-Traversal | 0 | 0| 
+| 20240128T22:31:19Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5722 | 1101| 
 | 20240128T13:13:05Z | ROBLOX Executor Free Best Keyless Exploit | https://github.com/BraceDoze/ROBLOX-Executor-Free-Best-Keyless-Exploit | 1 | 0| 
 | 20240128T13:00:40Z | A flaw in Jenkins% CLI command parser allows attackers to inject file paths using the @ character, causing the parser to read and potentially expose sensitive file contents. This vulnerability can be exploited without authentication. | https://github.com/raheel0x01/CVE-2024-23897 | 0 | 0| 
 | 20240128T12:18:18Z | Repository with quick triggers to help during Pentest in an Active Directory environment. | https://github.com/rodolfomarianocy/AD-Exploitation-Basics | 20 | 7| 
 | 20240128T11:47:07Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 5951 | 1880| 
-| 20240128T11:44:36Z | Null | https://github.com/ultrarazrab227/exploit | 0 | 0| 
-| 20240128T09:18:22Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5720 | 1101| 
-| 20240128T07:35:54Z | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/Maskiow/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | 1 | 0| 
-| 20240128T02:21:35Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0037-app-mWVwv-exploit-borrow | 0 | 0| 
-| 20240128T00:19:05Z | Script Exploits Roblox For Click Madness | https://github.com/R1TGAMING/IPIhub | 0 | 0| 
-| 20240127T23:38:36Z | the exploit for the truly desperate | https://github.com/Whelement/CRSH1TTY-public-beta | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240129T00:17:43Z | Implementation of %How to Backdoor Federated Learning% paper. | https://github.com/Fquico1999/backdoor_federated_learning | 0 | 0| 
+| 20240128T19:26:58Z | test | https://github.com/CharonX1X/backdoor | 0 | 0| 
+| 20240128T18:26:08Z | Windows RAT w/ antivirus bypass. | https://github.com/gsociety0/AnonXploit | 0 | 0| 
+| 20240128T17:47:50Z | how to minning at webserver shell backdoor | https://github.com/caterscam/minershell | 0 | 0| 
+| 20240128T15:53:47Z | Null | https://github.com/24greyhat/echoBackdoor | 0 | 0| 
 | 20240128T13:26:54Z | Null | https://github.com/BangW2001/APK-Specific-Backdoor-Attack-Against-Android-Malware | 0 | 0| 
 | 20240128T12:35:00Z | Official implementation of paper %Venom: A Generic Backdoor Attack Enhancer for Improving Survivability by Decision Path Coupling% | https://github.com/VenomEnhancer/Venom | 0 | 0| 
 | 20240128T11:43:19Z | Null | https://github.com/exaland/PHP_Backdoor_Scanner | 0 | 0| 
 | 20240127T23:11:22Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 2491 | 903| 
 | 20240127T14:19:00Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 72 | 18| 
-| 20240127T04:24:29Z | Windows Exploiter with AntiVirus Bypass | https://github.com/gsociety0/AnonXploit | 0 | 0| 
-| 20240127T01:16:03Z | Distribution Preserving Backdoor Attack in Self-supervised Learning | https://github.com/Gwinhen/DRUPE | 5 | 0| 
-| 20240126T21:14:46Z | Implementation of %How to Backdoor Federated Learning% paper. | https://github.com/Fquico1999/backdoor_federated_learning | 0 | 0| 
-| 20240126T16:27:25Z | This project is a cross-platform backdoor/reverse shell and post-exploitation tool written in Python3 | https://github.com/xp4xbox/Python-Backdoor | 676 | 258| 
-| 20240126T16:20:05Z | Clone of https://github.com/TracksJosh/ktaneMultiRuleseededModules-master - Multi-Rulseeded Modules for KTANE (New World, Backdoor Keypad, Simon Steps) | https://github.com/KtaneModules/ktaneMultiRuleseededModules-master-TracksJosh | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -121,16 +121,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240128T23:24:11Z | Null | https://github.com/vulahmarina/fuzzy-sweater | 0 | 0| 
+| 20240128T23:05:49Z | Null | https://github.com/teach4all-99/fuzzy-sweater | 0 | 0| 
+| 20240128T21:54:32Z | Null | https://github.com/FuzzCast2024/fuzzcast-platform-project | 0 | 0| 
+| 20240128T21:31:22Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51680 | 23511| 
+| 20240128T17:13:26Z | Script diseñado para la enumeración de directorios en aplicaciones web mediante el uso de un diccionario de posibles rutas.  | https://github.com/0xju4ncaa/FuzzFlow | 1 | 0| 
 | 20240128T13:46:12Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4311 | 874| 
-| 20240128T13:42:15Z | Script diseñado para la enumeración de directorios en aplicaciones web mediante el uso de un diccionario de posibles rutas.  | https://github.com/0xju4ncaa/FuzzFlow | 0 | 0| 
 | 20240128T12:41:51Z | Null | https://github.com/tazz4523/fuzzy-moon | 0 | 0| 
 | 20240128T12:25:05Z | Null | https://github.com/Saikrishna9059049066/fuzzy-potato | 0 | 0| 
 | 20240128T11:59:21Z | Null | https://github.com/klstoch/fuzzy-logic-questionnaire | 0 | 0| 
 | 20240128T11:59:00Z | Null | https://github.com/Fuck4ik/fuzzy-logic-questionnaire | 0 | 0| 
-| 20240128T11:57:59Z | Simulation of the robot with fuzzy logic | https://github.com/crylent/AI_fuzzy_robot | 0 | 0| 
-| 20240128T11:28:32Z | do task with tcpdump fuzzing | https://github.com/dumprop/tcpdump-fuzzing | 0 | 0| 
-| 20240128T10:22:30Z | Null | https://github.com/vadyha25039/fuzzy-stream | 0 | 0| 
-| 20240128T07:15:28Z | Null | https://github.com/ttrippc750re/fuzzy-stream | 0 | 0| 
 
 
 
