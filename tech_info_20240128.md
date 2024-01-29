@@ -81,13 +81,13 @@
 | 20240128T23:24:11Z | Null | https://github.com/vulahmarina/fuzzy-sweater | 0 | 0| 
 | 20240128T23:05:49Z | Null | https://github.com/teach4all-99/fuzzy-sweater | 0 | 0| 
 | 20240128T21:54:32Z | Null | https://github.com/FuzzCast2024/fuzzcast-platform-project | 0 | 0| 
-| 20240128T21:31:22Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51680 | 23511| 
 | 20240128T17:13:26Z | Script diseñado para la enumeración de directorios en aplicaciones web mediante el uso de un diccionario de posibles rutas.  | https://github.com/0xju4ncaa/FuzzFlow | 1 | 0| 
 | 20240128T13:46:12Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4311 | 874| 
 | 20240128T12:41:51Z | Null | https://github.com/tazz4523/fuzzy-moon | 0 | 0| 
 | 20240128T12:25:05Z | Null | https://github.com/Saikrishna9059049066/fuzzy-potato | 0 | 0| 
 | 20240128T11:59:21Z | Null | https://github.com/klstoch/fuzzy-logic-questionnaire | 0 | 0| 
 | 20240128T11:59:00Z | Null | https://github.com/Fuck4ik/fuzzy-logic-questionnaire | 0 | 0| 
+| 20240128T11:57:59Z | Simulation of the robot with fuzzy logic | https://github.com/crylent/AI_fuzzy_robot | 0 | 0| 
 
 
 
