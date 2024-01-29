@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240129T02:31:34Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0098-app-v-FOq-state-exploit | 0 | 0| 
 | 20240129T02:14:04Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0083-app-4y-ha-exploit-clean | 0 | 0| 
 | 20240129T02:03:30Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0007-app-29eui-alter-exploit | 0 | 0| 
 | 20240129T01:47:24Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0021-app-LgPHQ-determine-exploit | 0 | 0| 
@@ -74,7 +75,6 @@
 | 20240129T00:57:15Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-kk | 1 | 0| 
 | 20240129T00:56:24Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-kk | 1 | 0| 
 | 20240129T00:55:39Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-kk | 1 | 0| 
-| 20240129T00:43:14Z |  zFTPServer Suite 6.0.0.52 - %rmdir% Directory Traversal python exploit  | https://github.com/Sic4rio/-zFTPServer-Suite-6.0.0.52---rmdir-Directory-Traversal | 0 | 0| 
 
 
 # backdoor on Github 推荐
