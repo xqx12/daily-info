@@ -12,6 +12,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20240129 | 代码安全审计经验集（上） | https://mp.weixin.qq.com/s/7dZCe_ahDBLmIskibGzmog| 
+| 20240129 | SecWiki周刊（第517期) | https://www.sec-wiki.com/weekly/517| 
 | 20240126 | 2024年网络与信息安全风险前瞻 | https://mp.weixin.qq.com/s/cKp4XorkLU6vLHJuUT76-w| 
 | 20240126 | 多视角下的网络空间安全模型与体系化发展 | https://mp.weixin.qq.com/s/4XVuuDTtLOgIxzkpQ2hCuw| 
 | 20240126 | 2024 CSRankings 全球计算机安全学术机构与人员分析 | https://mp.weixin.qq.com/s/S5qzlESSL8GLKEeOZbnB1g| 
@@ -20,7 +21,6 @@
 | 20240125 | 软件供应商面临的攻防实战风险 | https://mp.weixin.qq.com/s/X6hzmGathXkg11Bs0ohD2Q| 
 | 20240124 | 2023年威胁情报及APT活动分析报告 | https://archive.threatbook.cn/threatbook/2023-ThreatBook-CTI-APT-Analysis-Report.pdf| 
 | 20240124 | [SecData#1]-移动应用流量数据集 | https://mp.weixin.qq.com/s/GbcxQ9G4oH0nOWASmWVYLQ| 
-| 20240123 | 回望勒索软件的 2023 | https://mp.weixin.qq.com/s/WhKTQphzco5MWfGNfRH21g| 
 
 
 # CVE Github 推荐

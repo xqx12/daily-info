@@ -12,6 +12,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20240129 | 代码安全审计经验集（上） | https://mp.weixin.qq.com/s/7dZCe_ahDBLmIskibGzmog| 
+| 20240129 | SecWiki周刊（第517期) | https://www.sec-wiki.com/weekly/517| 
 
 
 # CVE Github 推荐
