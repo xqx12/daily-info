@@ -60,6 +60,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240129T13:32:01Z | Python web backdoor  | https://github.com/Arumuza/Web-backdoor | 0 | 0| 
 | 20240129T09:07:47Z | A backdoor, triggered by a link in a corrupted PDF, that enables connections to a victim%s computer using ReverseShell feature on NetCat. | https://github.com/Navyn27/Backdoor-CorruptPDF | 0 | 0| 
 | 20240129T08:59:55Z | BackdoorSim: An Educational into Remote Administration Tools | https://github.com/HalilDeniz/BackDoorSim | 1 | 0| 
 | 20240129T02:29:48Z | backdoor_attack | https://github.com/lihe19980424/rick | 0 | 0| 

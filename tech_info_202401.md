@@ -80,6 +80,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240129T13:32:01Z | Python web backdoor  | https://github.com/Arumuza/Web-backdoor | 0 | 0| 
 | 20240129T09:07:47Z | A backdoor, triggered by a link in a corrupted PDF, that enables connections to a victim%s computer using ReverseShell feature on NetCat. | https://github.com/Navyn27/Backdoor-CorruptPDF | 0 | 0| 
 | 20240129T08:59:55Z | BackdoorSim: An Educational into Remote Administration Tools | https://github.com/HalilDeniz/BackDoorSim | 1 | 0| 
 | 20240129T02:29:48Z | backdoor_attack | https://github.com/lihe19980424/rick | 0 | 0| 
@@ -89,7 +90,6 @@
 | 20240128T17:47:50Z | how to minning at webserver shell backdoor | https://github.com/caterscam/minershell | 0 | 0| 
 | 20240128T15:53:47Z | Null | https://github.com/24greyhat/echoBackdoor | 0 | 0| 
 | 20240128T13:26:54Z | Null | https://github.com/BangW2001/APK-Specific-Backdoor-Attack-Against-Android-Malware | 0 | 0| 
-| 20240128T12:35:00Z | Official implementation of paper %Venom: A Generic Backdoor Attack Enhancer for Improving Survivability by Decision Path Coupling% | https://github.com/VenomEnhancer/Venom | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
