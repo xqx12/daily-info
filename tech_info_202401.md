@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240129T02:14:04Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0083-app-4y-ha-exploit-clean | 0 | 0| 
 | 20240129T02:03:30Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0007-app-29eui-alter-exploit | 0 | 0| 
 | 20240129T01:47:24Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0021-app-LgPHQ-determine-exploit | 0 | 0| 
 | 20240129T01:44:11Z | Cryptographic Exploits. | https://github.com/J-Lw/cryptography | 0 | 0| 
@@ -74,7 +75,6 @@
 | 20240129T00:56:24Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-kk | 1 | 0| 
 | 20240129T00:55:39Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-kk | 1 | 0| 
 | 20240129T00:43:14Z |  zFTPServer Suite 6.0.0.52 - %rmdir% Directory Traversal python exploit  | https://github.com/Sic4rio/-zFTPServer-Suite-6.0.0.52---rmdir-Directory-Traversal | 0 | 0| 
-| 20240128T22:31:19Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5722 | 1101| 
 
 
 # backdoor on Github 推荐
@@ -110,10 +110,10 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240129T02:08:07Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 149 | 13| 
 | 20240127T14:01:33Z | (NDSS 2024) Optimizing Decompiler Output with LLM | https://github.com/PeiweiHu/DeGPT | 5 | 0| 
 | 20240126T20:54:00Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 111 | 4| 
 | 20240126T19:02:55Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 130 | 13| 
-| 20240126T07:12:03Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 148 | 13| 
 | 20240123T13:41:16Z | Statistics of acceptance rate for the top conferences: Oakland, CCS, USENIX Security, NDSS. | https://github.com/puzhuoliu/Computer-Security-Conference-Acceptance-Rate | 38 | 2| 
 | 20240117T13:53:48Z | Null | https://github.com/Compass-All/NDSS24-CAGE | 1 | 0| 
 
