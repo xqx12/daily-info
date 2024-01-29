@@ -65,6 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240129T01:25:13Z | Cryptographic exploits. | https://github.com/J-Lw/cryptography | 0 | 0| 
 | 20240129T01:12:40Z | Null | https://github.com/mirror12k/exploit-java-sourcefile | 0 | 0| 
 | 20240129T00:57:55Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-kk | 1 | 0| 
 | 20240129T00:57:15Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-kk | 1 | 0| 
@@ -74,7 +75,6 @@
 | 20240128T22:31:19Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5722 | 1101| 
 | 20240128T13:13:05Z | ROBLOX Executor Free Best Keyless Exploit | https://github.com/BraceDoze/ROBLOX-Executor-Free-Best-Keyless-Exploit | 1 | 0| 
 | 20240128T13:00:40Z | A flaw in Jenkins% CLI command parser allows attackers to inject file paths using the @ character, causing the parser to read and potentially expose sensitive file contents. This vulnerability can be exploited without authentication. | https://github.com/raheel0x01/CVE-2024-23897 | 0 | 0| 
-| 20240128T12:18:18Z | Repository with quick triggers to help during Pentest in an Active Directory environment. | https://github.com/rodolfomarianocy/AD-Exploitation-Basics | 20 | 7| 
 
 
 # backdoor on Github 推荐
