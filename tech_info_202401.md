@@ -65,7 +65,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240129T01:25:13Z | Cryptographic exploits. | https://github.com/J-Lw/cryptography | 0 | 0| 
+| 20240129T01:44:11Z | Cryptographic Exploits. | https://github.com/J-Lw/cryptography | 0 | 0| 
 | 20240129T01:12:40Z | Null | https://github.com/mirror12k/exploit-java-sourcefile | 0 | 0| 
 | 20240129T00:57:55Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-kk | 1 | 0| 
 | 20240129T00:57:15Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-kk | 1 | 0| 
