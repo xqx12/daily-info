@@ -41,9 +41,9 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20240128T22:31:19Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5722 | 1101| 
+| 20240128T13:33:39Z | Repository with quick triggers to help during Pentest in an Active Directory environment. | https://github.com/rodolfomarianocy/AD-Exploitation-Basics | 21 | 7| 
 | 20240128T13:13:05Z | ROBLOX Executor Free Best Keyless Exploit | https://github.com/BraceDoze/ROBLOX-Executor-Free-Best-Keyless-Exploit | 1 | 0| 
 | 20240128T13:00:40Z | A flaw in Jenkins% CLI command parser allows attackers to inject file paths using the @ character, causing the parser to read and potentially expose sensitive file contents. This vulnerability can be exploited without authentication. | https://github.com/raheel0x01/CVE-2024-23897 | 0 | 0| 
-| 20240128T12:18:18Z | Repository with quick triggers to help during Pentest in an Active Directory environment. | https://github.com/rodolfomarianocy/AD-Exploitation-Basics | 20 | 7| 
 | 20240128T11:47:07Z | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | 5951 | 1880| 
 | 20240128T11:44:36Z | Null | https://github.com/ultrarazrab227/exploit | 0 | 0| 
 | 20240128T09:44:43Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/GhostTroops/TOP | 599 | 118| 
