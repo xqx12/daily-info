@@ -33,7 +33,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240129T12:25:05Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15118 | 452| 
+| 20240129T13:54:35Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15119 | 452| 
 | 20240129T09:30:31Z | maklerauftrag-makler_kleefeld_griese created by GitHub Classroom | https://github.com/FIA-GSO/maklerauftrag-makler_kleefeld_griese | 0 | 0| 
 
 
@@ -82,6 +82,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240129T13:55:19Z | Null | https://github.com/PerplexusPixel/fuzzy-winner | 0 | 0| 
 | 20240129T13:48:25Z | This website is built with html and CSS | https://github.com/Omoshewaa/fuzzy-palm-tree | 0 | 0| 
 | 20240129T13:40:16Z | Null | https://github.com/Duca2020/Fuzzy-and-swarm | 0 | 0| 
 | 20240129T13:08:47Z | Null | https://github.com/evangsherlock/AdventuresInFuzzing | 0 | 0| 
@@ -91,7 +92,6 @@
 | 20240129T09:33:45Z | Contains basic smoke test, unit tests, fuzzing in Golang | https://github.com/0xTenma/Go-Testing | 0 | 0| 
 | 20240129T09:20:24Z | Null | https://github.com/JulienLebranchu/fuzzy-octo-quarto-book | 0 | 0| 
 | 20240129T07:18:09Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1907 | 334| 
-| 20240129T02:33:41Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51681 | 23511| 
 
 
 
