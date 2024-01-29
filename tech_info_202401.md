@@ -26,11 +26,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240129T13:57:01Z | CVE-2024-23897 | Jenkins POC of Arbitrary file read vulnerability through the CLI can lead to RCE | https://github.com/viszsec/CVE-2024-23897 | | 
 | 20240129T12:45:27Z | CVE-2024-23897 | CVE-2024-23897 | https://github.com/h4x0r-dz/CVE-2024-23897 | | 
 | 20240129T12:01:13Z | CVE-2024-23897 | Null | https://github.com/jopraveen/CVE-2024-23897 | | 
 | 20240129T09:27:14Z | CVE-2024-23897 | CVE-2024-23897 - Jenkins 任意文件读取 利用工具 | https://github.com/wjlin0/CVE-2024-23897 | | 
 | 20240129T08:46:37Z | CVE-2024-23897 | This repository presents a proof-of-concept of CVE-2024-23897 | https://github.com/Vozec/CVE-2024-23897 | | 
-| 20240129T04:57:05Z | CVE-2024-23897 | Jenkins POC of Arbitrary file read vulnerability through the CLI can lead to RCE | https://github.com/viszsec/CVE-2024-23897 | | 
 | 20240129T02:26:33Z | CVE-2023-6933 | Introduction to CVE-2023-6933 Vulnerability | https://github.com/w2xim3/CVE-2023-6933 | | 
 | 20240129T00:22:55Z | CVE-2024-24206 | Null | https://github.com/l00neyhacker/CVE-2024-24206 | | 
 | 20240129T00:21:27Z | CVE-2024-24204 | Null | https://github.com/l00neyhacker/CVE-2024-24204 | | 
