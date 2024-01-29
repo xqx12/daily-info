@@ -68,6 +68,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240128T15:53:32Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 504 | 43| 
 | 20240128T12:17:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2402 | 652| 
 
 
