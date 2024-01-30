@@ -81,6 +81,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240130T13:58:38Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9362 | 2100| 
 | 20240130T13:56:21Z | Null | https://github.com/trytquar/fuzzy-moon | 0 | 0| 
 | 20240130T13:10:21Z | Projeto que utiliza lógica fuzzy para criar uma aplicação de recomendação de restaurantes | https://github.com/GMMello/LogicaFuzzy | 0 | 0| 
 | 20240130T12:59:54Z | Null | https://github.com/Forrest-Jones/fuzzy-computing-machine | 0 | 0| 
@@ -90,7 +91,6 @@
 | 20240130T12:36:55Z | Null | https://github.com/someshavi/fuzzy_1 | 0 | 0| 
 | 20240130T12:34:49Z | Null | https://github.com/someshavi/fuzzy | 0 | 0| 
 | 20240130T11:02:54Z | Nexttjs project | https://github.com/devmarin17/fuzzy-fishstick | 0 | 0| 
-| 20240130T07:35:39Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 101 | 29| 
 
 
 
