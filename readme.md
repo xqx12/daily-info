@@ -20,7 +20,6 @@
 | --- | --- | --- | --- | ---| 
 | 20240129T19:43:18Z | cve-2023-36845 | Simple Automation script for juniper cve-2023-36845 | https://github.com/Asbawy/Automation-for-Juniper-cve-2023-36845 | | 
 | 20240129T18:02:51Z | CVE-2024-23897 | Null | https://github.com/jopraveen/CVE-2024-23897 | | 
-| 20240129T17:46:27Z | CVE-2023-35636 | Microsoft Outlook Information Disclosure Vulnerability (leak password hash) - Expect Script POC | https://github.com/duy-31/CVE-2023-35636 | | 
 | 20240129T17:15:46Z | CVE-2022-4262 | Null | https://github.com/mistymntncop/CVE-2022-4262 | | 
 | 20240129T16:55:00Z | CVE-2023-6985 | 10Web AI Assistant – AI content writing assistant <= 1.0.18 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Plugin Installation/Activation Description | https://github.com/RandomRobbieBF/CVE-2023-6985 | | 
 | 20240129T13:57:01Z | CVE-2024-23897 | Jenkins POC of Arbitrary file read vulnerability through the CLI can lead to RCE | https://github.com/viszsec/CVE-2024-23897 | | 
@@ -28,6 +27,7 @@
 | 20240129T09:27:14Z | CVE-2024-23897 | CVE-2024-23897 - Jenkins 任意文件读取 利用工具 | https://github.com/wjlin0/CVE-2024-23897 | | 
 | 20240129T08:46:37Z | CVE-2024-23897 | This repository presents a proof-of-concept of CVE-2024-23897 | https://github.com/Vozec/CVE-2024-23897 | | 
 | 20240129T02:26:33Z | CVE-2023-6933 | Introduction to CVE-2023-6933 Vulnerability | https://github.com/w2xim3/CVE-2023-6933 | | 
+| 20240129T00:22:55Z | CVE-2024-24206 | Null | https://github.com/l00neyhacker/CVE-2024-24206 | | 
 
 
 # klee on Github 推荐
