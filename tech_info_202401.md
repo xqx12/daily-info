@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240130T13:29:34Z | PoC repo that exploits CSS selectors to exfiltrate HTML attributes | https://github.com/Freilichtbuehne/css-selector-exploit | 0 | 0| 
 | 20240130T13:11:05Z | Notes and tasks related to web security and  exploitation | https://github.com/winters0x64/WebSec | 2 | 0| 
 | 20240130T12:56:25Z | GitOps Repository | https://github.com/rhtap-perf-test/cin4s-1022-0030-app-ziKjr-exploit-overcome | 0 | 0| 
 | 20240130T12:55:29Z | GitOps Repository | https://github.com/rhtap-perf-test/cin4s-1022-0009-app-29StH-exploit-abandon | 0 | 0| 
@@ -75,7 +76,6 @@
 | 20240130T12:08:42Z | A veritable tool to exploit mobile devices | https://github.com/Jeediof/PhoneSploit | 0 | 0| 
 | 20240130T11:29:22Z | Tools for exploit SRIM outputs | https://github.com/Loopr0/SRIMTools | 0 | 0| 
 | 20240130T10:37:21Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 787 | 186| 
-| 20240130T08:24:07Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5728 | 1103| 
 
 
 # backdoor on Github 推荐
