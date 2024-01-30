@@ -85,12 +85,12 @@
 | 20240129T09:28:50Z | Windows Hacking FrameWork using Reverse Shell | https://github.com/canarddu38/DUCKSPLOIT | 87 | 16| 
 | 20240129T09:07:47Z | A backdoor, triggered by a link in a corrupted PDF, that enables connections to a victim%s computer using ReverseShell feature on NetCat. | https://github.com/Navyn27/Backdoor-CorruptPDF | 0 | 0| 
 | 20240129T08:59:55Z | BackdoorSim: An Educational into Remote Administration Tools | https://github.com/HalilDeniz/BackDoorSim | 1 | 0| 
+| 20240129T03:26:33Z | TransTroj: Transferable Backdoor Attacks to Pre-trained Models via Embedding Indistinguishability | https://github.com/haowang-cqu/TransTroj | 0 | 0| 
 | 20240129T02:29:48Z | backdoor_attack | https://github.com/lihe19980424/rick | 0 | 0| 
 | 20240129T01:34:38Z | SSHD Based implant supporting tunneling mecanisms to reach the C2 (DNS, ICMP, HTTP Encapsulation, HTTP/Socks Proxies, UDP...) | https://github.com/lexfo/sshimpanzee | 215 | 25| 
 | 20240129T00:17:43Z | Implementation of %How to Backdoor Federated Learning% paper. | https://github.com/Fquico1999/backdoor_federated_learning | 0 | 0| 
 | 20240128T19:26:58Z | test | https://github.com/CharonX1X/backdoor | 0 | 0| 
 | 20240128T18:26:08Z | Windows RAT w/ antivirus bypass. | https://github.com/gsociety0/AnonXploit | 0 | 0| 
-| 20240128T17:47:50Z | how to minning at webserver shell backdoor | https://github.com/caterscam/minershell | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
