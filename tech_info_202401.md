@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240130T02:29:37Z | CVE-2023-35636 | Microsoft Outlook Information Disclosure Vulnerability (leak password hash) - Expect Script POC | https://github.com/duy-31/CVE-2023-35636 | | 
+| 20240130T02:49:02Z | CVE-2023-35636 | Microsoft Outlook Information Disclosure Vulnerability (leak password hash) - Expect Script POC | https://github.com/duy-31/CVE-2023-35636 | | 
 | 20240130T02:29:21Z | CVE-2022-4262 | Root Cause Analysis of CVE-2022-4262. | https://github.com/bjrjk/CVE-2022-4262 | | 
 | 20240130T02:24:39Z | CVE-2022-4262 | Null | https://github.com/mistymntncop/CVE-2022-4262 | | 
 | 20240130T01:08:55Z | Cve-2023- | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/Maskiow/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
