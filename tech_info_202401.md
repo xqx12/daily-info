@@ -72,10 +72,10 @@
 | 20240130T12:44:06Z | The repository contains the scripts to exploit the xss. These are scripts, I write while doing bugbouties. If you think the scripts are useful to you feel free use. | https://github.com/secureITmania/xss_exploit_scripts | 0 | 0| 
 | 20240130T12:20:11Z | BERT(Bidirectional Encoder Representations from Transformers) is a powerful natural language processing (NLP)  model. It has advanced the field of NLP by capturing contextual information bidirectionally, allowing it to comprehend the meaning of words in a sentence based on their surrounding context. | https://github.com/alainthierry/Bert-explore-exploit | 0 | 0| 
 | 20240130T12:08:42Z | A veritable tool to exploit mobile devices | https://github.com/Jeediof/PhoneSploit | 0 | 0| 
+| 20240130T11:29:22Z | Tools for exploit SRIM outputs | https://github.com/Loopr0/SRIMTools | 0 | 0| 
 | 20240130T10:37:21Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 787 | 186| 
 | 20240130T08:24:07Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5728 | 1103| 
-| 20240130T02:51:19Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/test-app-762-Dyf2k-exploit-make | 0 | 0| 
-| 20240130T02:26:22Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5795 | 780| 
+| 20240130T03:55:31Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 11153 | 1685| 
 
 
 # backdoor on Github 推荐
@@ -122,10 +122,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240130T13:10:21Z | Projeto que utiliza lógica fuzzy para criar uma aplicação de recomendação de restaurantes | https://github.com/GMMello/LogicaFuzzy | 0 | 0| 
 | 20240130T12:59:54Z | Null | https://github.com/Forrest-Jones/fuzzy-computing-machine | 0 | 0| 
 | 20240130T12:58:09Z | Null | https://github.com/vamshi470pagidi/fuzzy-broccoli | 0 | 0| 
 | 20240130T12:53:31Z | Null | https://github.com/Fuminides/ex-fuzzy | 0 | 0| 
-| 20240130T12:45:28Z | Projeto que utiliza lógica fuzzy para criar uma aplicação de recomendação de restaurantes | https://github.com/GMMello/LogicaFuzzy | 0 | 0| 
 | 20240130T12:38:32Z | Null | https://github.com/someshavi/fuzzy_2 | 0 | 0| 
 | 20240130T12:36:55Z | Null | https://github.com/someshavi/fuzzy_1 | 0 | 0| 
 | 20240130T12:34:49Z | Null | https://github.com/someshavi/fuzzy | 0 | 0| 
