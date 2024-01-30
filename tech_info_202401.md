@@ -41,7 +41,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240130T02:24:41Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15121 | 452| 
+| 20240130T02:24:41Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15121 | 453| 
 | 20240129T09:30:31Z | maklerauftrag-makler_kleefeld_griese created by GitHub Classroom | https://github.com/FIA-GSO/maklerauftrag-makler_kleefeld_griese | 0 | 0| 
 | 20240128T12:17:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2402 | 651| 
 | 20240128T11:13:07Z | Null | https://github.com/2khanh/kleetcode | 0 | 0| 
@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240130T02:26:22Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5795 | 780| 
 | 20240130T02:06:51Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0070-app-0akRL-prove-exploit | 0 | 0| 
 | 20240130T01:46:05Z | Null | https://github.com/illic-it/discord-oauth-exploit | 1 | 0| 
 | 20240130T01:08:55Z | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/Maskiow/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | 2 | 0| 
@@ -75,7 +76,6 @@
 | 20240130T00:24:59Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-ww | 1 | 0| 
 | 20240129T23:00:26Z | Null | https://github.com/wshepherd0010/exploit-development-lab | 0 | 0| 
 | 20240129T20:46:51Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5725 | 1102| 
-| 20240129T18:34:49Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 6222 | 705| 
 
 
 # backdoor on Github 推荐
