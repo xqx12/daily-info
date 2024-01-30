@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240130T02:51:19Z | GitOps Repository | https://github.com/redhat-appstudio-appdata/test-app-762-Dyf2k-exploit-make | 0 | 0| 
 | 20240130T02:26:22Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5795 | 780| 
 | 20240130T02:06:51Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0070-app-0akRL-prove-exploit | 0 | 0| 
 | 20240130T01:46:05Z | Null | https://github.com/illic-it/discord-oauth-exploit | 1 | 0| 
@@ -75,7 +76,6 @@
 | 20240130T00:25:56Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-ww | 1 | 0| 
 | 20240130T00:24:59Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-ww | 1 | 0| 
 | 20240129T23:00:26Z | Null | https://github.com/wshepherd0010/exploit-development-lab | 0 | 0| 
-| 20240129T20:46:51Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5725 | 1102| 
 
 
 # backdoor on Github 推荐
@@ -122,7 +122,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240130T02:43:03Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51740 | 23517| 
+| 20240130T02:49:41Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51741 | 23517| 
 | 20240130T02:09:17Z | Fuzzy - MacOS Keyboard Cleaning tool | https://github.com/ClarkTheCoder/Fuzzy-Keyboard-Cleaning-Tool | 0 | 0| 
 | 20240130T00:09:16Z | Null | https://github.com/vladkys/fuzzy-sweater | 0 | 0| 
 | 20240129T23:58:10Z | Null | https://github.com/u8arco/fuzzy-stream | 0 | 0| 
