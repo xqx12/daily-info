@@ -71,11 +71,11 @@
 | 20240130T12:56:25Z | GitOps Repository | https://github.com/rhtap-perf-test/cin4s-1022-0030-app-ziKjr-exploit-overcome | 0 | 0| 
 | 20240130T12:55:29Z | GitOps Repository | https://github.com/rhtap-perf-test/cin4s-1022-0009-app-29StH-exploit-abandon | 0 | 0| 
 | 20240130T12:52:28Z | GitOps Repository | https://github.com/rhtap-perf-test/cin4s-1022-0093-app-PeKeo-fear-exploit | 0 | 0| 
+| 20240130T12:45:13Z | Is Anti Exploit Core | https://github.com/Blaackknight/AntiExploitCore | 1 | 0| 
 | 20240130T12:44:06Z | The repository contains the scripts to exploit the xss. These are scripts, I write while doing bugbouties. If you think the scripts are useful to you feel free use. | https://github.com/secureITmania/xss_exploit_scripts | 0 | 0| 
 | 20240130T12:20:11Z | BERT(Bidirectional Encoder Representations from Transformers) is a powerful natural language processing (NLP)  model. It has advanced the field of NLP by capturing contextual information bidirectionally, allowing it to comprehend the meaning of words in a sentence based on their surrounding context. | https://github.com/alainthierry/Bert-explore-exploit | 0 | 0| 
 | 20240130T12:08:42Z | A veritable tool to exploit mobile devices | https://github.com/Jeediof/PhoneSploit | 0 | 0| 
 | 20240130T11:29:22Z | Tools for exploit SRIM outputs | https://github.com/Loopr0/SRIMTools | 0 | 0| 
-| 20240130T10:37:21Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 787 | 186| 
 
 
 # backdoor on Github 推荐
