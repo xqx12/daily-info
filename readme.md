@@ -60,7 +60,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240130T12:36:02Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 133 | 34| 
+| 20240130T13:11:54Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 134 | 34| 
 | 20240130T11:27:12Z | Null | https://github.com/ericgxr100/backdoor | 0 | 0| 
 | 20240130T09:28:38Z | reviews for %Fake the Real: Backdoor Attack on Deep Speech Classification via Voice Conversion% and %Towards Multi-Lingual Audio Question Answering% as assessed task in a course. | https://github.com/KT313/paper_reviews | 0 | 0| 
 | 20240130T06:28:21Z | A curated list of papers & resources linked to data poisoning, backdoor attacks and defenses against them | https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks | 68 | 9| 
