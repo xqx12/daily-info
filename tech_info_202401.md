@@ -122,7 +122,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240130T02:25:55Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51739 | 23517| 
+| 20240130T02:43:03Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51740 | 23517| 
 | 20240130T02:09:17Z | Fuzzy - MacOS Keyboard Cleaning tool | https://github.com/ClarkTheCoder/Fuzzy-Keyboard-Cleaning-Tool | 0 | 0| 
 | 20240130T00:09:16Z | Null | https://github.com/vladkys/fuzzy-sweater | 0 | 0| 
 | 20240129T23:58:10Z | Null | https://github.com/u8arco/fuzzy-stream | 0 | 0| 
