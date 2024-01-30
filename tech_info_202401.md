@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240130T01:46:05Z | Null | https://github.com/illic-it/discord-oauth-exploit | 1 | 0| 
 | 20240130T01:08:55Z | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/Maskiow/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | 2 | 0| 
 | 20240130T00:28:44Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-ww | 1 | 0| 
 | 20240130T00:27:24Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ww | 1 | 0| 
@@ -75,7 +76,6 @@
 | 20240129T20:46:51Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5725 | 1102| 
 | 20240129T18:34:49Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 6222 | 705| 
 | 20240129T14:41:35Z | the exploit for the truly desperate | https://github.com/Whelement/CRSH1TTY-public-beta | 1 | 4| 
-| 20240129T12:33:35Z | Null | https://github.com/cherif-ichrak/ModuleExploitationHTML | 0 | 0| 
 
 
 # backdoor on Github 推荐
