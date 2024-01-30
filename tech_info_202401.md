@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240130T10:55:33Z | CVE-2023-35636 | Microsoft Outlook Information Disclosure Vulnerability (leak password hash) - Expect Script POC | https://github.com/duy-31/CVE-2023-35636 | | 
+| 20240130T13:48:26Z | CVE-2023-35636 | Microsoft Outlook Information Disclosure Vulnerability (leak password hash) - Expect Script POC | https://github.com/duy-31/CVE-2023-35636 | | 
 | 20240130T10:35:00Z | CVE-2023-6700 | Cookie Information , Free GDPR Consent Solution <= 2.0.22 - Authenticated (Subscriber+) Arbitrary Options Update | https://github.com/RandomRobbieBF/CVE-2023-6700 | | 
 | 20240130T10:07:17Z | cve-2023-36845 | Simple Automation script for juniper cve-2023-36845 | https://github.com/Asbawy/Automation-for-Juniper-cve-2023-36845 | | 
 | 20240130T09:02:38Z | CVE-2023-51385 | CVE-2023-51385 的exp | https://github.com/2048JiaLi/CVE-2023-51385 | | 
