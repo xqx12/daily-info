@@ -131,7 +131,7 @@
 | 20240130T12:34:49Z | Null | https://github.com/someshavi/fuzzy | 0 | 0| 
 | 20240130T11:02:54Z | Nexttjs project | https://github.com/devmarin17/fuzzy-fishstick | 0 | 0| 
 | 20240130T07:35:39Z | OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software. | https://github.com/ispras/oss-sydr-fuzz | 101 | 29| 
-| 20240130T06:21:26Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9361 | 2099| 
+| 20240130T06:21:26Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9361 | 2100| 
 
 
 
