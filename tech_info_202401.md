@@ -26,8 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240130T02:29:37Z | CVE-2023-35636 | Microsoft Outlook Information Disclosure Vulnerability (leak password hash) - Expect Script POC | https://github.com/duy-31/CVE-2023-35636 | | 
+| 20240130T02:29:21Z | CVE-2022-4262 | Root Cause Analysis of CVE-2022-4262. | https://github.com/bjrjk/CVE-2022-4262 | | 
 | 20240130T02:24:39Z | CVE-2022-4262 | Null | https://github.com/mistymntncop/CVE-2022-4262 | | 
-| 20240130T02:23:12Z | CVE-2023-35636 | Microsoft Outlook Information Disclosure Vulnerability (leak password hash) - Expect Script POC | https://github.com/duy-31/CVE-2023-35636 | | 
 | 20240130T01:08:55Z | Cve-2023- | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/Maskiow/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 | 20240129T19:43:18Z | cve-2023-36845 | Simple Automation script for juniper cve-2023-36845 | https://github.com/Asbawy/Automation-for-Juniper-cve-2023-36845 | | 
 | 20240129T18:02:51Z | CVE-2024-23897 | Null | https://github.com/jopraveen/CVE-2024-23897 | | 
@@ -35,7 +36,6 @@
 | 20240129T13:57:01Z | CVE-2024-23897 | Jenkins POC of Arbitrary file read vulnerability through the CLI can lead to RCE | https://github.com/viszsec/CVE-2024-23897 | | 
 | 20240129T12:45:27Z | CVE-2024-23897 | CVE-2024-23897 | https://github.com/h4x0r-dz/CVE-2024-23897 | | 
 | 20240129T09:27:14Z | CVE-2024-23897 | CVE-2024-23897 - Jenkins 任意文件读取 利用工具 | https://github.com/wjlin0/CVE-2024-23897 | | 
-| 20240129T08:46:37Z | CVE-2024-23897 | This repository presents a proof-of-concept of CVE-2024-23897 | https://github.com/Vozec/CVE-2024-23897 | | 
 
 
 # klee on Github 推荐
