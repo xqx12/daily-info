@@ -73,9 +73,9 @@
 | 20240130T00:24:59Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-ww | 1 | 0| 
 | 20240129T23:00:26Z | Null | https://github.com/wshepherd0010/exploit-development-lab | 0 | 0| 
 | 20240129T20:46:51Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5725 | 1102| 
+| 20240129T18:34:49Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 6222 | 705| 
 | 20240129T14:41:35Z | the exploit for the truly desperate | https://github.com/Whelement/CRSH1TTY-public-beta | 1 | 4| 
 | 20240129T12:33:35Z | Null | https://github.com/cherif-ichrak/ModuleExploitationHTML | 0 | 0| 
-| 20240129T09:28:44Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 248 | 20| 
 
 
 # backdoor on Github 推荐

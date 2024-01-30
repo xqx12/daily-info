@@ -48,6 +48,7 @@
 | --- | --- | --- | --- | ---| 
 | 20240129T23:00:26Z | Null | https://github.com/wshepherd0010/exploit-development-lab | 0 | 0| 
 | 20240129T20:46:51Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5725 | 1102| 
+| 20240129T18:34:49Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 6222 | 705| 
 | 20240129T14:41:35Z | the exploit for the truly desperate | https://github.com/Whelement/CRSH1TTY-public-beta | 1 | 4| 
 | 20240129T12:33:35Z | Null | https://github.com/cherif-ichrak/ModuleExploitationHTML | 0 | 0| 
 | 20240129T09:28:44Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 248 | 20| 
@@ -55,7 +56,6 @@
 | 20240129T02:31:34Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0098-app-v-FOq-state-exploit | 0 | 0| 
 | 20240129T02:14:04Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0083-app-4y-ha-exploit-clean | 0 | 0| 
 | 20240129T02:03:30Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0007-app-29eui-alter-exploit | 0 | 0| 
-| 20240129T01:47:24Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0021-app-LgPHQ-determine-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
