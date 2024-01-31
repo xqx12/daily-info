@@ -81,7 +81,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240131T00:54:42Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 141 | 37| 
+| 20240131T00:54:42Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 141 | 36| 
 | 20240131T00:50:30Z | Null | https://github.com/d-armendariz88/backdoor | 0 | 0| 
 | 20240130T22:47:05Z | Null | https://github.com/alexdegtest/backdoor | 0 | 0| 
 | 20240130T22:40:49Z | Windows RAT w/ antivirus bypass. | https://github.com/gsociety0/AnonXploit | 1 | 0| 
