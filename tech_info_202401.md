@@ -69,13 +69,13 @@
 | 20240131T12:26:14Z | 一款Jenkins的综合漏洞利用工具 | https://github.com/TheBeastofwar/JenkinsExploit-GUI | 1 | 0| 
 | 20240131T12:26:04Z | 7-gen; a tool made to exploit guilded%s bad account creation system | https://github.com/ItsYaBoiSimonx/7-Gen | 1 | 0| 
 | 20240131T11:57:18Z | A project for the course TDA 602 Language based security at Chalmers. Projects looks at vulnerabilities in GraphQL, and also how to exploit and patch them. | https://github.com/hamasl/GraphQL_Security | 0 | 0| 
+| 20240131T11:46:26Z | This repo has a collection of hubs I found with games, prxes, apps, bookmarklets, exploits and more! | https://github.com/S-PScripts/chromebook-utilities | 37 | 19| 
 | 20240131T07:34:52Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5729 | 1103| 
 | 20240131T05:51:18Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Maskiow/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 2 | 1| 
 | 20240131T05:51:17Z | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/Maskiow/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 2 | 0| 
 | 20240131T05:51:16Z | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/Maskiow/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | 3 | 0| 
 | 20240131T05:51:06Z | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/Maskiow/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 1 | 0| 
 | 20240131T02:49:58Z | GitOps Repository | https://github.com/redhat-appstudio-qe/multi-platform-suite-application-zxeu-hb_RU-exploit-return | 0 | 0| 
-| 20240131T02:43:01Z | Library of all of the hacks/exploits/code I%ve made for websites (mainly bookmarklets) | https://github.com/whosdread/Library | 0 | 0| 
 
 
 # backdoor on Github 推荐
