@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240131T02:49:58Z | GitOps Repository | https://github.com/redhat-appstudio-qe/multi-platform-suite-application-zxeu-hb_RU-exploit-return | 0 | 0| 
 | 20240131T02:43:01Z | Library of all of the hacks/exploits/code I%ve made for websites (mainly bookmarklets) | https://github.com/whosdread/Library | 0 | 0| 
 | 20240131T02:23:02Z | Exploit for Real World CTF 6th RIPTC.  | https://github.com/N1ghtu/RWCTF6th-RIPTC | 12 | 2| 
 | 20240131T02:21:44Z | learning | https://github.com/cBomb2/Internet-Exploiter.github.io | 0 | 0| 
@@ -75,7 +76,6 @@
 | 20240131T01:44:12Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-ii | 1 | 0| 
 | 20240131T01:41:38Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0052-app-y2dks-exploit-grow | 0 | 0| 
 | 20240131T01:39:55Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 89 | 13| 
-| 20240131T01:18:10Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0059-app-F83Uk-exploit-die | 0 | 0| 
 
 
 # backdoor on Github 推荐
