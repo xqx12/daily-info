@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240131T02:23:02Z | Exploit for Real World CTF 6th RIPTC.  | https://github.com/N1ghtu/RWCTF6th-RIPTC | 12 | 2| 
 | 20240131T02:21:44Z | learning | https://github.com/cBomb2/Internet-Exploiter.github.io | 0 | 0| 
 | 20240131T01:46:16Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-ii | 1 | 0| 
 | 20240131T01:45:29Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ii | 1 | 0| 
@@ -75,7 +76,6 @@
 | 20240131T01:39:55Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 89 | 13| 
 | 20240131T01:18:10Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0059-app-F83Uk-exploit-die | 0 | 0| 
 | 20240130T23:15:07Z | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/Maskiow/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 1 | 0| 
-| 20240130T22:53:58Z | 350+ UNRESTRICTED unblockers, games, cheats, exploits, AI, bypasses, and social media | https://github.com/wea-f/ByePassHub | 13 | 7| 
 
 
 # backdoor on Github 推荐
