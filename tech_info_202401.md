@@ -96,7 +96,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240130T16:58:16Z | A symbolic execution engine for EVM smart contract binaries | https://github.com/ucsb-seclab/greed | 19 | 1| 
+| 20240131T02:55:20Z | A symbolic execution engine for EVM smart contract binaries | https://github.com/ucsb-seclab/greed | 20 | 1| 
 | 20240130T16:36:48Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2403 | 651| 
 | 20240130T08:37:22Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 494 | 34| 
 | 20240128T15:53:32Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 504 | 43| 
