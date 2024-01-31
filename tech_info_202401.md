@@ -73,9 +73,9 @@
 | 20240131T01:41:38Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0052-app-y2dks-exploit-grow | 0 | 0| 
 | 20240131T01:39:55Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 89 | 13| 
 | 20240131T01:18:10Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0059-app-F83Uk-exploit-die | 0 | 0| 
+| 20240130T23:15:07Z | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/Maskiow/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 1 | 0| 
 | 20240130T22:53:58Z | 350+ UNRESTRICTED unblockers, games, cheats, exploits, AI, bypasses, and social media | https://github.com/wea-f/ByePassHub | 13 | 7| 
 | 20240130T19:30:47Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5726 | 1103| 
-| 20240130T17:13:28Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 249 | 20| 
 
 
 # backdoor on Github 推荐
