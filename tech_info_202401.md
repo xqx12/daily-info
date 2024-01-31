@@ -11,6 +11,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20240131 | 2023年Ms08067安全实验室公众号年度盘点 | https://mp.weixin.qq.com/s/hMfuaX7z-5PFRRQXMyQtvw| 
 | 20240130 | 中国全网DNS错误数据分析 | https://blog.xlab.qianxin.com/zhong-guo-quan-wang-cuo-wu-shu-ju-fen-xi/| 
 | 20240130 | QA-GNN: 使用语言模型和知识图谱的推理问答 | https://mp.weixin.qq.com/s/33PW_fDMp_HT4yKARsacQA| 
 | 20240130 | 工业控制系统网络安全防护指南 | https://mp.weixin.qq.com/s/R_QxlJ3zMQ3R_qC74UMPjA| 
@@ -20,28 +21,27 @@
 | 20240126 | 多视角下的网络空间安全模型与体系化发展 | https://mp.weixin.qq.com/s/4XVuuDTtLOgIxzkpQ2hCuw| 
 | 20240126 | 2024 CSRankings 全球计算机安全学术机构与人员分析 | https://mp.weixin.qq.com/s/S5qzlESSL8GLKEeOZbnB1g| 
 | 20240125 | 软件供应商攻防常规战之SDL | https://mp.weixin.qq.com/s/DJNfsg3D6vxXEcH1RSWPbw| 
-| 20240125 | 软件供应商实战对抗十大安全举措 | https://mp.weixin.qq.com/s/xyItAKLszooqKpxs6H2Tlw| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240131T12:22:53Z | CVE-2023-40459 | PoC of CVE-2023-40459 (DoS on ACEmanager) | https://github.com/majidmc2/CVE-2023-40459 | | 
+| 20240131T12:04:55Z | cve-2023-49950 | A write-up detailing CVE-2023-49950. Affects Logpoint SIEM v6.1.0-v7.3.0 | https://github.com/shrikeinfosec/cve-2023-49950 | | 
+| 20240131T05:51:18Z | Cve-2023- | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Maskiow/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
+| 20240131T05:51:17Z | Cve-2023- | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/Maskiow/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
+| 20240131T05:51:16Z | Cve-2023- | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/Maskiow/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
+| 20240131T05:51:06Z | Cve-2023- | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/Maskiow/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
+| 20240131T03:37:53Z | CVE-2021-30632 |  m-y-mo: https://github.com/github/securitylab/tree/main/SecurityExploits/Chrome/v8/CVE-2021-30632 | https://github.com/paulsery/CVE-2021-30632 | | 
 | 20240131T02:54:38Z | cve-2023-45779 | Proof-of-concept code for the Android APEX key reuse vulnerability described in https://rtx.meta.security/exploitation/2024/01/30/Android-vendors-APEX-test-keys.html | https://github.com/metaredteam/rtx-cve-2023-45779 | | 
 | 20240130T23:44:46Z | CVE-2024-24142 | Null | https://github.com/BurakSevben/CVE-2024-24142 | | 
 | 20240130T23:44:32Z | CVE-2024-24141 | Null | https://github.com/BurakSevben/CVE-2024-24141 | | 
-| 20240130T23:22:08Z | CVE-2024-24140 | Null | https://github.com/BurakSevben/CVE-2024-24140 | | 
-| 20240130T23:16:22Z | CVE-2024-24139 | Null | https://github.com/BurakSevben/CVE-2024-24139 | | 
-| 20240130T23:15:07Z | Cve-2023- | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/Maskiow/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
-| 20240130T23:12:31Z | CVE-2024-24138 | Null | https://github.com/BurakSevben/CVE-2024-24138 | | 
-| 20240130T23:07:02Z | CVE-2024-24137 | Null | https://github.com/BurakSevben/CVE-2024-24137 | | 
-| 20240130T22:51:47Z | CVE-2024-24136 | Null | https://github.com/BurakSevben/CVE-2024-24136 | | 
-| 20240130T22:34:13Z | CVE-2024-24135 | Null | https://github.com/BurakSevben/CVE-2024-24135 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240131T02:01:07Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15137 | 452| 
+| 20240131T10:54:41Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15147 | 452| 
 | 20240130T17:46:57Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 106 | 22| 
 | 20240130T16:36:48Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2403 | 651| 
 | 20240129T09:30:31Z | maklerauftrag-makler_kleefeld_griese created by GitHub Classroom | https://github.com/FIA-GSO/maklerauftrag-makler_kleefeld_griese | 0 | 0| 
@@ -66,22 +66,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240131T12:26:14Z | 一款Jenkins的综合漏洞利用工具 | https://github.com/TheBeastofwar/JenkinsExploit-GUI | 1 | 0| 
+| 20240131T12:26:04Z | 7-gen; a tool made to exploit guilded%s bad account creation system | https://github.com/ItsYaBoiSimonx/7-Gen | 1 | 0| 
+| 20240131T11:57:18Z | A project for the course TDA 602 Language based security at Chalmers. Projects looks at vulnerabilities in GraphQL, and also how to exploit and patch them. | https://github.com/hamasl/GraphQL_Security | 0 | 0| 
+| 20240131T07:34:52Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5729 | 1103| 
+| 20240131T05:51:18Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Maskiow/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 2 | 1| 
+| 20240131T05:51:17Z | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/Maskiow/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 2 | 0| 
+| 20240131T05:51:16Z | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/Maskiow/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | 3 | 0| 
+| 20240131T05:51:06Z | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/Maskiow/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 1 | 0| 
 | 20240131T02:49:58Z | GitOps Repository | https://github.com/redhat-appstudio-qe/multi-platform-suite-application-zxeu-hb_RU-exploit-return | 0 | 0| 
 | 20240131T02:43:01Z | Library of all of the hacks/exploits/code I%ve made for websites (mainly bookmarklets) | https://github.com/whosdread/Library | 0 | 0| 
-| 20240131T02:23:02Z | Exploit for Real World CTF 6th RIPTC.  | https://github.com/N1ghtu/RWCTF6th-RIPTC | 12 | 2| 
-| 20240131T02:21:44Z | learning | https://github.com/cBomb2/Internet-Exploiter.github.io | 0 | 0| 
-| 20240131T01:46:16Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-ii | 1 | 0| 
-| 20240131T01:45:29Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ii | 1 | 0| 
-| 20240131T01:44:44Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-ii | 1 | 0| 
-| 20240131T01:44:12Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-ii | 1 | 0| 
-| 20240131T01:41:38Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0052-app-y2dks-exploit-grow | 0 | 0| 
-| 20240131T01:39:55Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 89 | 13| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240131T00:54:42Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 141 | 36| 
+| 20240131T11:52:52Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 151 | 39| 
+| 20240131T10:16:40Z | Null | https://github.com/NoberthNikombolwe/Backdoor-via-application | 0 | 0| 
+| 20240131T04:01:48Z | Null | https://github.com/CTP2001/Backdoor | 0 | 0| 
 | 20240131T00:50:30Z | Null | https://github.com/d-armendariz88/backdoor | 0 | 0| 
 | 20240130T22:47:05Z | Null | https://github.com/alexdegtest/backdoor | 0 | 0| 
 | 20240130T22:40:49Z | Windows RAT w/ antivirus bypass. | https://github.com/gsociety0/AnonXploit | 1 | 0| 
@@ -89,8 +91,6 @@
 | 20240130T11:27:12Z | Null | https://github.com/ericgxr100/backdoor | 0 | 0| 
 | 20240130T09:28:38Z | reviews for %Fake the Real: Backdoor Attack on Deep Speech Classification via Voice Conversion% and %Towards Multi-Lingual Audio Question Answering% as assessed task in a course. | https://github.com/KT313/paper_reviews | 0 | 0| 
 | 20240130T06:28:21Z | A curated list of papers & resources linked to data poisoning, backdoor attacks and defenses against them | https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks | 68 | 9| 
-| 20240129T13:32:01Z | Python web backdoor  | https://github.com/Arumuza/Web-backdoor | 0 | 0| 
-| 20240129T09:28:50Z | Windows Hacking FrameWork using Reverse Shell | https://github.com/canarddu38/DUCKSPLOIT | 87 | 16| 
 
 
 # symbolic execution on Github 推荐
@@ -111,7 +111,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240129T17:25:54Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 150 | 13| 
+| 20240131T06:56:17Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 151 | 13| 
 | 20240129T02:25:36Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 110 | 4| 
 | 20240127T14:01:33Z | (NDSS 2024) Optimizing Decompiler Output with LLM | https://github.com/PeiweiHu/DeGPT | 5 | 0| 
 | 20240126T19:02:55Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 130 | 13| 
@@ -122,16 +122,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240131T12:42:26Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 13 | 2| 
+| 20240131T11:41:59Z | qfuzz( QwekuFuzzer ), web fuzzer written in Go | https://github.com/SpeedyQweku/qfuzz | 0 | 0| 
+| 20240131T10:45:51Z | Null | https://github.com/servetisikli/fuzzy-broccoli | 0 | 0| 
+| 20240131T10:33:14Z | Null | https://github.com/Vasil57/fuzzy-winner | 0 | 0| 
+| 20240131T10:17:29Z | Null | https://github.com/vamshi470pagidi/fuzzy-broccoli | 0 | 0| 
+| 20240131T09:51:26Z | Null | https://github.com/tckatchswetlana/fuzzy-moon | 0 | 0| 
 | 20240131T02:50:13Z | Null | https://github.com/watyn-1/fuzzy-sweater | 0 | 0| 
 | 20240131T02:48:06Z | Exploring typing effect in web development. | https://github.com/ana-radchuk/alpha-fuzzy-guacamole | 0 | 0| 
-| 20240131T02:36:39Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 10 | 0| 
 | 20240131T01:59:28Z | simple fuzzing tool | https://github.com/kaiz3nn/fuzzy | 0 | 0| 
 | 20240131T01:45:49Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51799 | 23523| 
-| 20240131T01:29:30Z | Null | https://github.com/lysgoup/Fuzz_Fshare | 0 | 1| 
-| 20240131T01:21:13Z | Null | https://github.com/Elmich09/fuzzy-palm-tree | 0 | 0| 
-| 20240131T00:59:05Z | A simple tool for generating fuzzy strings to handle typos in searches. | https://github.com/michaelfaith84/string_fuzzer | 0 | 0| 
-| 20240131T00:24:08Z | Null | https://github.com/tsv1981mail/fuzzy-sweater | 0 | 0| 
-| 20240130T23:43:28Z | Null | https://github.com/utilitarianbezquo/fuzzy-sweater | 0 | 0| 
 
 
 
