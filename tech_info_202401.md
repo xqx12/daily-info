@@ -26,9 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240131T02:30:56Z | cve-2023-45779 | Proof-of-concept code for the Android APEX key reuse vulnerability described in https://rtx.meta.security/exploitation/2024/01/30/Android-vendors-APEX-test-keys.html | https://github.com/metaredteam/rtx-cve-2023-45779 | | 
 | 20240130T23:44:46Z | CVE-2024-24142 | Null | https://github.com/BurakSevben/CVE-2024-24142 | | 
 | 20240130T23:44:32Z | CVE-2024-24141 | Null | https://github.com/BurakSevben/CVE-2024-24141 | | 
-| 20240130T23:25:18Z | cve-2023-45779 | Proof-of-concept code for the Android APEX key reuse vulnerability described in https://rtx.meta.security/exploitation/2024/01/30/Android-vendors-APEX-test-keys.html | https://github.com/metaredteam/rtx-cve-2023-45779 | | 
 | 20240130T23:22:08Z | CVE-2024-24140 | Null | https://github.com/BurakSevben/CVE-2024-24140 | | 
 | 20240130T23:16:22Z | CVE-2024-24139 | Null | https://github.com/BurakSevben/CVE-2024-24139 | | 
 | 20240130T23:15:07Z | Cve-2023- | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/Maskiow/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
