@@ -41,7 +41,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240131T00:12:58Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15136 | 452| 
+| 20240131T02:01:07Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15137 | 452| 
 | 20240130T17:46:57Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 106 | 22| 
 | 20240130T16:36:48Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2403 | 651| 
 | 20240129T09:30:31Z | maklerauftrag-makler_kleefeld_griese created by GitHub Classroom | https://github.com/FIA-GSO/maklerauftrag-makler_kleefeld_griese | 0 | 0| 
@@ -122,7 +122,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240131T01:54:20Z | simple fuzzing tool | https://github.com/kaiz3nn/fuzzy | 0 | 0| 
+| 20240131T01:59:28Z | simple fuzzing tool | https://github.com/kaiz3nn/fuzzy | 0 | 0| 
 | 20240131T01:45:49Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51799 | 23523| 
 | 20240131T01:29:30Z | Null | https://github.com/lysgoup/Fuzz_Fshare | 0 | 1| 
 | 20240131T01:21:13Z | Null | https://github.com/Elmich09/fuzzy-palm-tree | 0 | 0| 
