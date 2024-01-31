@@ -49,13 +49,13 @@
 | 20240130T23:15:07Z | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/Maskiow/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 1 | 0| 
 | 20240130T22:53:58Z | 350+ UNRESTRICTED unblockers, games, cheats, exploits, AI, bypasses, and social media | https://github.com/wea-f/ByePassHub | 13 | 7| 
 | 20240130T19:30:47Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5726 | 1103| 
+| 20240130T17:32:35Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 6226 | 705| 
 | 20240130T17:13:28Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 249 | 20| 
 | 20240130T13:29:34Z | PoC repo that exploits CSS selectors to exfiltrate HTML attributes | https://github.com/Freilichtbuehne/css-selector-exploit | 0 | 0| 
 | 20240130T13:11:05Z | Notes and tasks related to web security and  exploitation | https://github.com/winters0x64/WebSec | 2 | 0| 
 | 20240130T12:56:25Z | GitOps Repository | https://github.com/rhtap-perf-test/cin4s-1022-0030-app-ziKjr-exploit-overcome | 0 | 0| 
 | 20240130T12:55:29Z | GitOps Repository | https://github.com/rhtap-perf-test/cin4s-1022-0009-app-29StH-exploit-abandon | 0 | 0| 
 | 20240130T12:52:28Z | GitOps Repository | https://github.com/rhtap-perf-test/cin4s-1022-0093-app-PeKeo-fear-exploit | 0 | 0| 
-| 20240130T12:45:13Z | Is Anti Exploit Core | https://github.com/Blaackknight/AntiExploitCore | 1 | 0| 
 
 
 # backdoor on Github 推荐
