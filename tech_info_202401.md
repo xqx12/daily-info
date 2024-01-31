@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240131T02:21:44Z | learning | https://github.com/cBomb2/Internet-Exploiter.github.io | 0 | 0| 
 | 20240131T01:46:16Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-ii | 1 | 0| 
 | 20240131T01:45:29Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ii | 1 | 0| 
 | 20240131T01:44:44Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-ii | 1 | 0| 
@@ -75,7 +76,6 @@
 | 20240131T01:18:10Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0059-app-F83Uk-exploit-die | 0 | 0| 
 | 20240130T23:15:07Z | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/Maskiow/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 1 | 0| 
 | 20240130T22:53:58Z | 350+ UNRESTRICTED unblockers, games, cheats, exploits, AI, bypasses, and social media | https://github.com/wea-f/ByePassHub | 13 | 7| 
-| 20240130T19:30:47Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5726 | 1103| 
 
 
 # backdoor on Github 推荐
@@ -122,7 +122,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240131T02:07:40Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 8 | 0| 
+| 20240131T02:23:34Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 9 | 0| 
 | 20240131T01:59:28Z | simple fuzzing tool | https://github.com/kaiz3nn/fuzzy | 0 | 0| 
 | 20240131T01:45:49Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51799 | 23523| 
 | 20240131T01:29:30Z | Null | https://github.com/lysgoup/Fuzz_Fshare | 0 | 1| 
