@@ -13,6 +13,7 @@
 | --- | --- | ---| 
 | 20240130 | 中国全网DNS错误数据分析 | https://blog.xlab.qianxin.com/zhong-guo-quan-wang-cuo-wu-shu-ju-fen-xi/| 
 | 20240130 | QA-GNN: 使用语言模型和知识图谱的推理问答 | https://mp.weixin.qq.com/s/33PW_fDMp_HT4yKARsacQA| 
+| 20240130 | 工业控制系统网络安全防护指南 | https://mp.weixin.qq.com/s/R_QxlJ3zMQ3R_qC74UMPjA| 
 | 20240129 | 代码安全审计经验集（上） | https://mp.weixin.qq.com/s/7dZCe_ahDBLmIskibGzmog| 
 | 20240129 | SecWiki周刊（第517期) | https://www.sec-wiki.com/weekly/517| 
 | 20240126 | 2024年网络与信息安全风险前瞻 | https://mp.weixin.qq.com/s/cKp4XorkLU6vLHJuUT76-w| 
@@ -20,31 +21,30 @@
 | 20240126 | 2024 CSRankings 全球计算机安全学术机构与人员分析 | https://mp.weixin.qq.com/s/S5qzlESSL8GLKEeOZbnB1g| 
 | 20240125 | 软件供应商攻防常规战之SDL | https://mp.weixin.qq.com/s/DJNfsg3D6vxXEcH1RSWPbw| 
 | 20240125 | 软件供应商实战对抗十大安全举措 | https://mp.weixin.qq.com/s/xyItAKLszooqKpxs6H2Tlw| 
-| 20240125 | 软件供应商面临的攻防实战风险 | https://mp.weixin.qq.com/s/X6hzmGathXkg11Bs0ohD2Q| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240130T13:48:26Z | CVE-2023-35636 | Microsoft Outlook Information Disclosure Vulnerability (leak password hash) - Expect Script POC | https://github.com/duy-31/CVE-2023-35636 | | 
-| 20240130T10:35:00Z | CVE-2023-6700 | Cookie Information , Free GDPR Consent Solution <= 2.0.22 - Authenticated (Subscriber+) Arbitrary Options Update | https://github.com/RandomRobbieBF/CVE-2023-6700 | | 
-| 20240130T10:07:17Z | cve-2023-36845 | Simple Automation script for juniper cve-2023-36845 | https://github.com/Asbawy/Automation-for-Juniper-cve-2023-36845 | | 
-| 20240130T09:02:38Z | CVE-2023-51385 | CVE-2023-51385 的exp | https://github.com/2048JiaLi/CVE-2023-51385 | | 
-| 20240130T08:45:47Z | 未知编号 | Bludit | https://github.com/CpyRe/I-Find-CVE-2024 | | 
-| 20240130T07:22:44Z | CVE-2024-23897 | Jenkins POC of Arbitrary file read vulnerability through the CLI can lead to RCE | https://github.com/viszsec/CVE-2024-23897 | | 
-| 20240130T06:51:38Z | CVE-2023-37790 | Null | https://github.com/kaizensecurity/CVE-2023-37790 | | 
-| 20240130T02:29:21Z | CVE-2022-4262 | Root Cause Analysis of CVE-2022-4262. | https://github.com/bjrjk/CVE-2022-4262 | | 
-| 20240130T02:24:39Z | CVE-2022-4262 | Null | https://github.com/mistymntncop/CVE-2022-4262 | | 
-| 20240130T01:08:55Z | Cve-2023- | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/Maskiow/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
+| 20240130T23:44:46Z | CVE-2024-24142 | Null | https://github.com/BurakSevben/CVE-2024-24142 | | 
+| 20240130T23:44:32Z | CVE-2024-24141 | Null | https://github.com/BurakSevben/CVE-2024-24141 | | 
+| 20240130T23:25:18Z | cve-2023-45779 | Proof-of-concept code for the Android APEX key reuse vulnerability described in https://rtx.meta.security/exploitation/2024/01/30/Android-vendors-APEX-test-keys.html | https://github.com/metaredteam/rtx-cve-2023-45779 | | 
+| 20240130T23:22:08Z | CVE-2024-24140 | Null | https://github.com/BurakSevben/CVE-2024-24140 | | 
+| 20240130T23:16:22Z | CVE-2024-24139 | Null | https://github.com/BurakSevben/CVE-2024-24139 | | 
+| 20240130T23:15:07Z | Cve-2023- | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/Maskiow/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
+| 20240130T23:12:31Z | CVE-2024-24138 | Null | https://github.com/BurakSevben/CVE-2024-24138 | | 
+| 20240130T23:07:02Z | CVE-2024-24137 | Null | https://github.com/BurakSevben/CVE-2024-24137 | | 
+| 20240130T22:51:47Z | CVE-2024-24136 | Null | https://github.com/BurakSevben/CVE-2024-24136 | | 
+| 20240130T22:34:13Z | CVE-2024-24135 | Null | https://github.com/BurakSevben/CVE-2024-24135 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240130T13:53:56Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15129 | 453| 
-| 20240130T08:30:44Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 106 | 22| 
+| 20240131T00:12:58Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15136 | 452| 
+| 20240130T17:46:57Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 106 | 22| 
+| 20240130T16:36:48Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2403 | 651| 
 | 20240129T09:30:31Z | maklerauftrag-makler_kleefeld_griese created by GitHub Classroom | https://github.com/FIA-GSO/maklerauftrag-makler_kleefeld_griese | 0 | 0| 
-| 20240128T12:17:50Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2402 | 651| 
 | 20240128T11:13:07Z | Null | https://github.com/2khanh/kleetcode | 0 | 0| 
 | 20240126T16:11:21Z | Experiments with running klee on coreutils | https://github.com/riesentoaster/klee-coreutils-experiments | 0 | 0| 
 | 20240125T07:45:24Z | Null | https://github.com/weshandsome/Klee-Running | 0 | 0| 
@@ -66,6 +66,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240130T22:53:58Z | 350+ UNRESTRICTED unblockers, games, cheats, exploits, AI, bypasses, and social media | https://github.com/wea-f/ByePassHub | 13 | 7| 
+| 20240130T19:30:47Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5726 | 1103| 
 | 20240130T13:29:34Z | PoC repo that exploits CSS selectors to exfiltrate HTML attributes | https://github.com/Freilichtbuehne/css-selector-exploit | 0 | 0| 
 | 20240130T13:11:05Z | Notes and tasks related to web security and  exploitation | https://github.com/winters0x64/WebSec | 2 | 0| 
 | 20240130T12:56:25Z | GitOps Repository | https://github.com/rhtap-perf-test/cin4s-1022-0030-app-ziKjr-exploit-overcome | 0 | 0| 
@@ -74,23 +76,21 @@
 | 20240130T12:45:13Z | Is Anti Exploit Core | https://github.com/Blaackknight/AntiExploitCore | 1 | 0| 
 | 20240130T12:44:06Z | The repository contains the scripts to exploit the xss. These are scripts, I write while doing bugbouties. If you think the scripts are useful to you feel free use. | https://github.com/secureITmania/xss_exploit_scripts | 0 | 0| 
 | 20240130T12:20:11Z | BERT(Bidirectional Encoder Representations from Transformers) is a powerful natural language processing (NLP)  model. It has advanced the field of NLP by capturing contextual information bidirectionally, allowing it to comprehend the meaning of words in a sentence based on their surrounding context. | https://github.com/alainthierry/Bert-explore-exploit | 0 | 0| 
-| 20240130T12:08:42Z | A veritable tool to exploit mobile devices | https://github.com/Jeediof/PhoneSploit | 0 | 0| 
-| 20240130T11:29:22Z | Tools for exploit SRIM outputs | https://github.com/Loopr0/SRIMTools | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240130T13:11:54Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 134 | 34| 
+| 20240131T00:54:42Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 141 | 37| 
+| 20240131T00:50:30Z | Null | https://github.com/d-armendariz88/backdoor | 0 | 0| 
+| 20240130T22:47:05Z | Null | https://github.com/alexdegtest/backdoor | 0 | 0| 
+| 20240130T22:40:49Z | Windows RAT w/ antivirus bypass. | https://github.com/gsociety0/AnonXploit | 1 | 0| 
+| 20240130T16:55:10Z | This is my testing project  , if you help you can use. | https://github.com/minsattpaing/Backdoor_reverseshell | 0 | 0| 
 | 20240130T11:27:12Z | Null | https://github.com/ericgxr100/backdoor | 0 | 0| 
 | 20240130T09:28:38Z | reviews for %Fake the Real: Backdoor Attack on Deep Speech Classification via Voice Conversion% and %Towards Multi-Lingual Audio Question Answering% as assessed task in a course. | https://github.com/KT313/paper_reviews | 0 | 0| 
 | 20240130T06:28:21Z | A curated list of papers & resources linked to data poisoning, backdoor attacks and defenses against them | https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks | 68 | 9| 
-| 20240130T02:17:22Z | Null | https://github.com/d-armendariz88/backdoor | 0 | 0| 
 | 20240129T13:32:01Z | Python web backdoor  | https://github.com/Arumuza/Web-backdoor | 0 | 0| 
 | 20240129T09:28:50Z | Windows Hacking FrameWork using Reverse Shell | https://github.com/canarddu38/DUCKSPLOIT | 87 | 16| 
-| 20240129T09:07:47Z | A backdoor, triggered by a link in a corrupted PDF, that enables connections to a victim%s computer using ReverseShell feature on NetCat. | https://github.com/Navyn27/Backdoor-CorruptPDF | 0 | 0| 
-| 20240129T08:59:55Z | BackdoorSim: An Educational into Remote Administration Tools | https://github.com/HalilDeniz/BackDoorSim | 1 | 0| 
-| 20240129T03:26:33Z | TransTroj: Transferable Backdoor Attacks to Pre-trained Models via Embedding Indistinguishability | https://github.com/haowang-cqu/TransTroj | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -122,16 +122,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240131T01:00:18Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 7 | 0| 
+| 20240131T00:59:05Z | A simple tool for generating fuzzy strings to handle typos in searches. | https://github.com/michaelfaith84/string_fuzzer | 0 | 0| 
+| 20240131T00:57:15Z | Null | https://github.com/lysgoup/Fuzz_Fshare | 0 | 1| 
+| 20240131T00:28:42Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51797 | 23523| 
+| 20240131T00:24:08Z | Null | https://github.com/tsv1981mail/fuzzy-sweater | 0 | 0| 
+| 20240130T23:43:28Z | Null | https://github.com/utilitarianbezquo/fuzzy-sweater | 0 | 0| 
+| 20240130T23:01:23Z | Null | https://github.com/VENOMGAMING12/fuzzy-tribble | 1 | 0| 
+| 20240130T22:22:29Z | Null | https://github.com/FuzzCast2024/FuzzCast-platform-original---main | 0 | 0| 
+| 20240130T14:42:49Z | Null | https://github.com/google/fuzztest | 535 | 47| 
 | 20240130T13:58:38Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9362 | 2100| 
-| 20240130T13:56:21Z | Null | https://github.com/trytquar/fuzzy-moon | 0 | 0| 
-| 20240130T13:10:21Z | Projeto que utiliza lógica fuzzy para criar uma aplicação de recomendação de restaurantes | https://github.com/GMMello/LogicaFuzzy | 0 | 0| 
-| 20240130T12:59:54Z | Null | https://github.com/Forrest-Jones/fuzzy-computing-machine | 0 | 0| 
-| 20240130T12:58:09Z | Null | https://github.com/vamshi470pagidi/fuzzy-broccoli | 0 | 0| 
-| 20240130T12:53:31Z | Null | https://github.com/Fuminides/ex-fuzzy | 0 | 0| 
-| 20240130T12:38:32Z | Null | https://github.com/someshavi/fuzzy_2 | 0 | 0| 
-| 20240130T12:36:55Z | Null | https://github.com/someshavi/fuzzy_1 | 0 | 0| 
-| 20240130T12:34:49Z | Null | https://github.com/someshavi/fuzzy | 0 | 0| 
-| 20240130T11:02:54Z | Nexttjs project | https://github.com/devmarin17/fuzzy-fishstick | 0 | 0| 
 
 
 
