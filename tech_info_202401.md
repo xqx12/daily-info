@@ -122,7 +122,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240131T01:04:29Z | Null | https://github.com/lysgoup/Fuzz_Fshare | 0 | 1| 
+| 20240131T01:22:53Z | Null | https://github.com/lysgoup/Fuzz_Fshare | 0 | 1| 
+| 20240131T01:21:13Z | Null | https://github.com/Elmich09/fuzzy-palm-tree | 0 | 0| 
 | 20240131T01:00:18Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 7 | 0| 
 | 20240131T00:59:05Z | A simple tool for generating fuzzy strings to handle typos in searches. | https://github.com/michaelfaith84/string_fuzzer | 0 | 0| 
 | 20240131T00:28:42Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51797 | 23523| 
@@ -131,7 +132,6 @@
 | 20240130T23:01:23Z | Null | https://github.com/VENOMGAMING12/fuzzy-tribble | 1 | 0| 
 | 20240130T22:22:29Z | Null | https://github.com/FuzzCast2024/FuzzCast-platform-original---main | 0 | 0| 
 | 20240130T14:42:49Z | Null | https://github.com/google/fuzztest | 535 | 47| 
-| 20240130T13:58:38Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9362 | 2100| 
 
 
 
