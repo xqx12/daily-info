@@ -66,6 +66,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240131T01:45:29Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ii | 1 | 0| 
+| 20240131T01:44:44Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-ii | 1 | 0| 
+| 20240131T01:44:12Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-ii | 1 | 0| 
 | 20240131T01:41:38Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0052-app-y2dks-exploit-grow | 0 | 0| 
 | 20240131T01:39:55Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 89 | 13| 
 | 20240131T01:18:10Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0059-app-F83Uk-exploit-die | 0 | 0| 
@@ -73,9 +76,6 @@
 | 20240130T19:30:47Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5726 | 1103| 
 | 20240130T17:13:28Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 249 | 20| 
 | 20240130T13:29:34Z | PoC repo that exploits CSS selectors to exfiltrate HTML attributes | https://github.com/Freilichtbuehne/css-selector-exploit | 0 | 0| 
-| 20240130T13:11:05Z | Notes and tasks related to web security and  exploitation | https://github.com/winters0x64/WebSec | 2 | 0| 
-| 20240130T12:56:25Z | GitOps Repository | https://github.com/rhtap-perf-test/cin4s-1022-0030-app-ziKjr-exploit-overcome | 0 | 0| 
-| 20240130T12:55:29Z | GitOps Repository | https://github.com/rhtap-perf-test/cin4s-1022-0009-app-29StH-exploit-abandon | 0 | 0| 
 
 
 # backdoor on Github 推荐
