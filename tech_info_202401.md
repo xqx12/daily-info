@@ -66,6 +66,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240131T01:46:16Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-ii | 1 | 0| 
 | 20240131T01:45:29Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ii | 1 | 0| 
 | 20240131T01:44:44Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-ii | 1 | 0| 
 | 20240131T01:44:12Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-ii | 1 | 0| 
@@ -75,7 +76,6 @@
 | 20240130T22:53:58Z | 350+ UNRESTRICTED unblockers, games, cheats, exploits, AI, bypasses, and social media | https://github.com/wea-f/ByePassHub | 13 | 7| 
 | 20240130T19:30:47Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5726 | 1103| 
 | 20240130T17:13:28Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 249 | 20| 
-| 20240130T13:29:34Z | PoC repo that exploits CSS selectors to exfiltrate HTML attributes | https://github.com/Freilichtbuehne/css-selector-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -122,7 +122,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240131T01:33:00Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51798 | 23523| 
+| 20240131T01:45:49Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51799 | 23523| 
 | 20240131T01:29:30Z | Null | https://github.com/lysgoup/Fuzz_Fshare | 0 | 1| 
 | 20240131T01:21:13Z | Null | https://github.com/Elmich09/fuzzy-palm-tree | 0 | 0| 
 | 20240131T01:00:18Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 7 | 0| 
