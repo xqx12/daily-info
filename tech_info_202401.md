@@ -68,6 +68,7 @@
 | --- | --- | --- | --- | ---| 
 | 20240131T21:22:23Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5730 | 1103| 
 | 20240131T13:46:44Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/test-rhtap-91-app-OI_EM-exploit-guess | 0 | 0| 
+| 20240131T13:37:40Z | Repository with quick triggers to help during Pentest in an Active Directory environment. | https://github.com/rodolfomarianocy/AD-Exploitation-Basics | 23 | 8| 
 | 20240131T12:26:04Z | 7-gen; a tool made to exploit guilded%s bad account creation system | https://github.com/ItsYaBoiSimonx/7-Gen | 1 | 0| 
 | 20240131T11:57:18Z | A project for the course TDA 602 Language based security at Chalmers. Projects looks at vulnerabilities in GraphQL, and also how to exploit and patch them. | https://github.com/hamasl/GraphQL_Security | 0 | 0| 
 | 20240131T11:46:26Z | This repo has a collection of hubs I found with games, prxes, apps, bookmarklets, exploits and more! | https://github.com/S-PScripts/chromebook-utilities | 37 | 19| 
@@ -75,7 +76,6 @@
 | 20240131T05:51:17Z | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/Maskiow/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 2 | 0| 
 | 20240131T05:51:16Z | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/Maskiow/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | 3 | 0| 
 | 20240131T05:51:06Z | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/Maskiow/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 1 | 0| 
-| 20240131T05:22:53Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 248 | 20| 
 
 
 # backdoor on Github 推荐
