@@ -89,7 +89,7 @@
 | 20240201T10:22:30Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4333 | 877| 
 | 20240201T09:18:50Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 5013 | 1195| 
 | 20240201T08:35:30Z | helm test | https://github.com/LrsWnd/fuzzy-octo-waffle | 0 | 0| 
-| 20240201T02:21:29Z | Null | https://github.com/chrisnbrendan/fuzzy-enigma | 0 | 0| 
+| 20240201T02:36:53Z | A general purpose foundation for cloud-based fuzzing and mutation testing jobs | https://github.com/crytic/cloudexec | 5 | 0| 
 
 
 
