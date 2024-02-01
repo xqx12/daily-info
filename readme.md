@@ -44,7 +44,6 @@
 | --- | --- | --- | --- | ---| 
 | 20240131T21:22:23Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5730 | 1103| 
 | 20240131T17:53:35Z | 一款Jenkins的综合漏洞利用工具 | https://github.com/TheBeastofwar/JenkinsExploit-GUI | 3 | 0| 
-| 20240131T14:15:29Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 6231 | 705| 
 | 20240131T13:46:44Z | GitOps Repository | https://github.com/redhat-appstudio-appdata-staging/test-rhtap-91-app-OI_EM-exploit-guess | 0 | 0| 
 | 20240131T12:26:04Z | 7-gen; a tool made to exploit guilded%s bad account creation system | https://github.com/ItsYaBoiSimonx/7-Gen | 1 | 0| 
 | 20240131T11:57:18Z | A project for the course TDA 602 Language based security at Chalmers. Projects looks at vulnerabilities in GraphQL, and also how to exploit and patch them. | https://github.com/hamasl/GraphQL_Security | 0 | 0| 
@@ -52,6 +51,7 @@
 | 20240131T05:51:18Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Maskiow/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 2 | 1| 
 | 20240131T05:51:17Z | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/Maskiow/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 2 | 0| 
 | 20240131T05:51:16Z | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/Maskiow/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | 3 | 0| 
+| 20240131T05:51:06Z | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/Maskiow/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 1 | 0| 
 
 
 # backdoor on Github 推荐
