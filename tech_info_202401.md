@@ -96,7 +96,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240131T02:55:20Z | A symbolic execution engine for EVM smart contract binaries | https://github.com/ucsb-seclab/greed | 20 | 1| 
+| 20240131T19:02:57Z | A symbolic execution engine for EVM smart contract binaries | https://github.com/ucsb-seclab/greed | 21 | 1| 
+| 20240131T08:06:08Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 51 | 9| 
 | 20240130T16:36:48Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2403 | 651| 
 | 20240130T08:37:22Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 494 | 34| 
 | 20240128T15:53:32Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 504 | 43| 
@@ -105,7 +106,6 @@
 | 20240125T06:42:10Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 104 | 10| 
 | 20240124T12:31:19Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 731 | 131| 
 | 20240124T05:52:52Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 371 | 84| 
-| 20240122T08:48:10Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 218 | 21| 
 
 
 # big4 on Github 推荐

@@ -68,7 +68,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240131T02:55:20Z | A symbolic execution engine for EVM smart contract binaries | https://github.com/ucsb-seclab/greed | 20 | 1| 
+| 20240131T19:02:57Z | A symbolic execution engine for EVM smart contract binaries | https://github.com/ucsb-seclab/greed | 21 | 1| 
+| 20240131T08:06:08Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 51 | 9| 
 
 
 # big4 on Github 推荐
