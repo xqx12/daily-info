@@ -43,7 +43,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240201T13:10:30Z | ROBLOX Exploit Free Best Executor Keyless | https://github.com/YapsCobweb/ROBLOX-Exploit-Free-Best-Executor-Keyless | 2 | 0| 
+| 20240201T13:10:39Z | ROBLOX Exploit Free Best Executor Keyless | https://github.com/YapsCobweb/ROBLOX-Exploit-Free-Best-Executor-Keyless | 1 | 0| 
 | 20240201T13:05:26Z | Config files for my GitHub profile. | https://github.com/Mr-exploiter-Nani/Mr-exploiter-Nani | 0 | 0| 
 | 20240201T12:05:46Z | Detectar vulnerabilidades script con nmap | https://github.com/hackingyseguridad/nmap | 23 | 6| 
 | 20240201T11:58:38Z | The useful exploit finder | https://github.com/justakazh/sicat | 1 | 0| 
