@@ -17,8 +17,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240201T13:34:20Z | CVE-2024-21626 | Null | https://github.com/Wall1e/CVE-2024-21626-POC | | 
 | 20240201T13:23:22Z | cve-2023-45779 | Proof-of-concept code for the Android APEX key reuse vulnerability described in https://rtx.meta.security/exploitation/2024/01/30/Android-vendors-APEX-test-keys.html | https://github.com/metaredteam/rtx-cve-2023-45779 | | 
-| 20240201T12:53:26Z | CVE-2024-21626 | Null | https://github.com/Wall1e/CVE-2024-21626-POC | | 
 | 20240201T09:51:06Z | cve-2023-32784 | Null | https://github.com/mister-turtle/cve-2023-32784 | | 
 | 20240201T07:30:59Z | CVE-2023-40140 | Null | https://github.com/hshivhare67/platform_frameworks_base_AOSP6_r22_CVE-2023-40140 | | 
 | 20240201T04:12:54Z | CVE-2023-36845 | Null | https://github.com/cyb3rzest/Juniper-Bug-Automation-CVE-2023-36845 | | 
