@@ -81,7 +81,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20240131T22:59:58Z | Using fuzzy logic to operate within an asteroids environment | https://github.com/kuhnph/fuzzyAsteroids | 0 | 0| 
-| 20240131T22:47:15Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51821 | 23526| 
+| 20240131T22:47:15Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51821 | 23527| 
 | 20240131T11:41:59Z | qfuzz( QwekuFuzzer ), web fuzzer written in Go | https://github.com/SpeedyQweku/qfuzz | 0 | 0| 
 | 20240131T10:45:51Z | Null | https://github.com/servetisikli/fuzzy-broccoli | 0 | 0| 
 | 20240131T10:33:14Z | Null | https://github.com/Vasil57/fuzzy-winner | 0 | 0| 
