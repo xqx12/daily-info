@@ -43,8 +43,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240201T13:10:30Z | ROBLOX Exploit Free Best Executor Keyless | https://github.com/YapsCobweb/ROBLOX-Exploit-Free-Best-Executor-Keyless | 2 | 0| 
 | 20240201T13:05:26Z | Config files for my GitHub profile. | https://github.com/Mr-exploiter-Nani/Mr-exploiter-Nani | 0 | 0| 
-| 20240201T12:32:10Z | ROBLOX Exploit Free Best Executor Keyless | https://github.com/YapsCobweb/ROBLOX-Exploit-Free-Best-Executor-Keyless | 1 | 0| 
 | 20240201T12:05:46Z | Detectar vulnerabilidades script con nmap | https://github.com/hackingyseguridad/nmap | 23 | 6| 
 | 20240201T11:58:38Z | The useful exploit finder | https://github.com/justakazh/sicat | 1 | 0| 
 | 20240201T09:43:00Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5734 | 1103| 
@@ -80,7 +80,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240201T12:57:38Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 105 | 5| 
+| 20240201T13:10:58Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 106 | 5| 
 | 20240201T12:09:18Z | Null | https://github.com/Forrest-Jones/fuzzy-fiesta | 0 | 0| 
 | 20240201T12:06:45Z | A multi-fuzzer management utility for all of your Rust fuzzing needs 🧑‍🎤 | https://github.com/srlabs/ziggy | 46 | 6| 
 | 20240201T11:26:55Z | Null | https://github.com/UTandor/fuzzy-scraper | 0 | 0| 
