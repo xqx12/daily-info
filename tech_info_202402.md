@@ -59,7 +59,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20240201T09:40:46Z | whitelist for backdoor in roblox | https://github.com/BakeTheLuaScripter/whitelist | 0 | 0| 
-| 20240201T09:10:24Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 161 | 43| 
+| 20240201T09:10:24Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 161 | 44| 
 | 20240201T08:21:08Z | C17_killer | https://github.com/gilcedr/backdoor | 0 | 0| 
 | 20240201T07:15:07Z | Null | https://github.com/hugeth/backdoor | 0 | 0| 
 | 20240201T01:14:25Z | Backdoor Program made in the batch programming language | https://github.com/gato001k1/Batchdoor | 0 | 0| 
