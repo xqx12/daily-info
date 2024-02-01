@@ -43,6 +43,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240201T13:05:26Z | Config files for my GitHub profile. | https://github.com/Mr-exploiter-Nani/Mr-exploiter-Nani | 0 | 0| 
 | 20240201T12:32:10Z | ROBLOX Exploit Free Best Executor Keyless | https://github.com/YapsCobweb/ROBLOX-Exploit-Free-Best-Executor-Keyless | 1 | 0| 
 | 20240201T12:05:46Z | Detectar vulnerabilidades script con nmap | https://github.com/hackingyseguridad/nmap | 23 | 6| 
 | 20240201T11:58:38Z | The useful exploit finder | https://github.com/justakazh/sicat | 1 | 0| 
@@ -52,7 +53,6 @@
 | 20240201T01:59:33Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0032-app-wvCGs-exploit-ring | 0 | 0| 
 | 20240201T01:37:54Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 6232 | 705| 
 | 20240201T01:20:51Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-pm | 1 | 0| 
-| 20240201T01:20:08Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-pm | 1 | 0| 
 
 
 # backdoor on Github 推荐
