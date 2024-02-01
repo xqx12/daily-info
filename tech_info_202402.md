@@ -80,10 +80,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240201T13:10:58Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 106 | 5| 
+| 20240201T13:12:33Z | Null | https://github.com/UTandor/fuzzy-scraper | 0 | 0| 
+| 20240201T13:12:32Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 107 | 5| 
 | 20240201T12:09:18Z | Null | https://github.com/Forrest-Jones/fuzzy-fiesta | 0 | 0| 
 | 20240201T12:06:45Z | A multi-fuzzer management utility for all of your Rust fuzzing needs 🧑‍🎤 | https://github.com/srlabs/ziggy | 46 | 6| 
-| 20240201T11:26:55Z | Null | https://github.com/UTandor/fuzzy-scraper | 0 | 0| 
 | 20240201T10:45:10Z | UPN Veteran Jatim , Aquaponic pH Control-Monitoring with Type-2 Fuzzy Method Based on IoT Bot , S1 Thesis Project | https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot | 2 | 0| 
 | 20240201T10:22:30Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4333 | 877| 
 | 20240201T09:18:50Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 5013 | 1195| 
