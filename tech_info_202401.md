@@ -124,7 +124,6 @@
 | --- | --- | --- | --- | ---| 
 | 20240131T22:59:58Z | Using fuzzy logic to operate within an asteroids environment | https://github.com/kuhnph/fuzzyAsteroids | 0 | 0| 
 | 20240131T22:47:15Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51821 | 23526| 
-| 20240131T22:40:09Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9372 | 2104| 
 | 20240131T11:41:59Z | qfuzz( QwekuFuzzer ), web fuzzer written in Go | https://github.com/SpeedyQweku/qfuzz | 0 | 0| 
 | 20240131T10:45:51Z | Null | https://github.com/servetisikli/fuzzy-broccoli | 0 | 0| 
 | 20240131T10:33:14Z | Null | https://github.com/Vasil57/fuzzy-winner | 0 | 0| 
@@ -132,6 +131,7 @@
 | 20240131T09:51:26Z | Null | https://github.com/tckatchswetlana/fuzzy-moon | 0 | 0| 
 | 20240131T02:50:13Z | Null | https://github.com/watyn-1/fuzzy-sweater | 0 | 0| 
 | 20240131T02:48:06Z | Exploring typing effect in web development. | https://github.com/ana-radchuk/alpha-fuzzy-guacamole | 0 | 0| 
+| 20240131T01:59:28Z | simple fuzzing tool | https://github.com/kaiz3nn/fuzzy | 0 | 0| 
 
 
 
