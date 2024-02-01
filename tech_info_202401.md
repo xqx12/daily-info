@@ -26,7 +26,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240131T21:41:27Z | cve-2023-45779 | Proof-of-concept code for the Android APEX key reuse vulnerability described in https://rtx.meta.security/exploitation/2024/01/30/Android-vendors-APEX-test-keys.html | https://github.com/metaredteam/rtx-cve-2023-45779 | | 
 | 20240131T20:14:12Z | CVE-2024-0402 | CVE-2024-0402 Gitlab arbitrary file write/RCE | https://github.com/ch4nui/CVE-2024-0402-RCE | | 
 | 20240131T17:00:04Z | CVE-2023-6036 | POC about Web3 – Crypto wallet Login & NFT token gating < 3.0.0 - Authentication Bypass Wordpress plugin | https://github.com/pctripsesp/CVE-2023-6036 | | 
 | 20240131T12:22:53Z | CVE-2023-40459 | PoC of CVE-2023-40459 (DoS on ACEmanager) | https://github.com/majidmc2/CVE-2023-40459 | | 
@@ -36,6 +35,7 @@
 | 20240131T05:51:16Z | Cve-2023- | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/Maskiow/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 | 20240131T05:51:06Z | Cve-2023- | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/Maskiow/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 | 20240131T03:37:53Z | CVE-2021-30632 |  m-y-mo: https://github.com/github/securitylab/tree/main/SecurityExploits/Chrome/v8/CVE-2021-30632 | https://github.com/paulsery/CVE-2021-30632 | | 
+| 20240130T23:44:46Z | CVE-2024-24142 | Null | https://github.com/BurakSevben/CVE-2024-24142 | | 
 
 
 # klee on Github 推荐

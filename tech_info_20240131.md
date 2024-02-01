@@ -17,7 +17,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240131T21:41:27Z | cve-2023-45779 | Proof-of-concept code for the Android APEX key reuse vulnerability described in https://rtx.meta.security/exploitation/2024/01/30/Android-vendors-APEX-test-keys.html | https://github.com/metaredteam/rtx-cve-2023-45779 | | 
 | 20240131T20:14:12Z | CVE-2024-0402 | CVE-2024-0402 Gitlab arbitrary file write/RCE | https://github.com/ch4nui/CVE-2024-0402-RCE | | 
 | 20240131T17:00:04Z | CVE-2023-6036 | POC about Web3 – Crypto wallet Login & NFT token gating < 3.0.0 - Authentication Bypass Wordpress plugin | https://github.com/pctripsesp/CVE-2023-6036 | | 
 | 20240131T12:22:53Z | CVE-2023-40459 | PoC of CVE-2023-40459 (DoS on ACEmanager) | https://github.com/majidmc2/CVE-2023-40459 | | 
