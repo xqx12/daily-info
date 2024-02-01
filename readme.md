@@ -82,6 +82,7 @@
 | --- | --- | --- | --- | ---| 
 | 20240201T13:40:22Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 108 | 5| 
 | 20240201T13:12:33Z | Null | https://github.com/UTandor/fuzzy-scraper | 0 | 0| 
+| 20240201T12:30:12Z | Null | https://github.com/luckyluke66/FuzzySets | 0 | 0| 
 | 20240201T12:09:18Z | Null | https://github.com/Forrest-Jones/fuzzy-fiesta | 0 | 0| 
 | 20240201T12:06:45Z | A multi-fuzzer management utility for all of your Rust fuzzing needs 🧑‍🎤 | https://github.com/srlabs/ziggy | 46 | 6| 
 | 20240201T10:45:10Z | UPN Veteran Jatim , Aquaponic pH Control-Monitoring with Type-2 Fuzzy Method Based on IoT Bot , S1 Thesis Project | https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot | 2 | 0| 
@@ -89,7 +90,6 @@
 | 20240201T09:18:50Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 5013 | 1195| 
 | 20240201T08:35:30Z | helm test | https://github.com/LrsWnd/fuzzy-octo-waffle | 0 | 0| 
 | 20240201T02:21:29Z | Null | https://github.com/chrisnbrendan/fuzzy-enigma | 0 | 0| 
-| 20240201T01:54:03Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51822 | 23527| 
 
 
 
