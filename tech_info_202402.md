@@ -17,7 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240202T02:47:11Z | CVE-2024-20931 | The Poc for CVE-2024-20931 | https://github.com/GlassyAmadeus/CVE-2024-20931 | | 
+| 20240202T02:49:02Z | CVE-2024-20931 | The Poc for CVE-2024-20931 | https://github.com/GlassyAmadeus/CVE-2024-20931 | | 
 | 20240202T02:45:29Z | CVE-2024-21626 | Null | https://github.com/zpxlz/CVE-2024-21626-POC | | 
 | 20240202T02:28:26Z | CVE-2024-21626 | PoC and Detection for CVE-2024-21626 | https://github.com/NitroCao/CVE-2024-21626 | | 
 | 20240202T02:05:12Z | CVE-2024-22899 | Comprehensive Exploit Chain for Multiple Vulnerabilities in VinChin Backup & Recovery <= 7.2 | https://github.com/Chocapikk/CVE-2024-22899-to-22903-ExploitChain | | 
