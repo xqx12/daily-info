@@ -17,6 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240202T01:58:49Z | CVE-2024-20931 | The Poc for CVE-2024-20931 | https://github.com/GlassyAmadeus/CVE-2024-20931 | | 
 | 20240202T00:56:30Z | CVE-2024-21626 | PoC and Detection for CVE-2024-21626 | https://github.com/NitroCao/CVE-2024-21626 | | 
 | 20240201T22:57:10Z | CVE-2024-21626 | Null | https://github.com/Wall1e/CVE-2024-21626-POC | | 
 | 20240201T22:17:45Z | cve-2023-45779 | Proof-of-concept code for the Android APEX key reuse vulnerability described in https://rtx.meta.security/exploitation/2024/01/30/Android-vendors-APEX-test-keys.html | https://github.com/metaredteam/rtx-cve-2023-45779 | | 
@@ -26,7 +27,6 @@
 | 20240201T16:10:27Z | CVE-2024-0402 | CVE-2024-0402 Gitlab arbitrary file write/RCE | https://github.com/ch4nui/CVE-2024-0402-RCE | | 
 | 20240201T14:37:49Z | cve-2023-32784 | Null | https://github.com/mister-turtle/cve-2023-32784 | | 
 | 20240201T14:21:59Z | CVE-2023-6036 | POC about Web3 – Crypto wallet Login & NFT token gating < 3.0.0 - Authentication Bypass Wordpress plugin | https://github.com/pctripsesp/CVE-2023-6036 | | 
-| 20240201T07:30:59Z | CVE-2023-40140 | Null | https://github.com/hshivhare67/platform_frameworks_base_AOSP6_r22_CVE-2023-40140 | | 
 
 
 # klee on Github 推荐
@@ -45,7 +45,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240202T01:47:59Z | x86 Yarn scanner / loader | https://github.com/Hell-Sec/Yarn-exploit | 0 | 0| 
+| 20240202T01:57:41Z | x86 Yarn scanner / loader | https://github.com/Hell-Sec/Yarn-exploit | 0 | 0| 
 | 20240202T01:42:44Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/GhostTroops/TOP | 600 | 119| 
 | 20240202T01:17:55Z | Modular Discord Token Gen written in Golang that uses an exploit to bypass captcha for FREE 🤑 | https://github.com/Hell-Sec/KlixGen | 0 | 0| 
 | 20240202T01:03:56Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-rr | 1 | 0| 
