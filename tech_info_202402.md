@@ -45,6 +45,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240202T01:03:56Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-rr | 1 | 0| 
+| 20240202T01:03:17Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-rr | 1 | 0| 
 | 20240202T01:02:36Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-rr | 1 | 0| 
 | 20240202T01:01:52Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-rr | 1 | 0| 
 | 20240202T00:45:58Z | A batch script for windows post exploitation system information gatering  | https://github.com/blackmagic2023/Info-dumpster | 0 | 0| 
@@ -53,8 +55,6 @@
 | 20240201T13:10:39Z | ROBLOX Exploit Free Best Executor Keyless | https://github.com/YapsCobweb/ROBLOX-Exploit-Free-Best-Executor-Keyless | 1 | 0| 
 | 20240201T13:05:26Z | Config files for my GitHub profile. | https://github.com/Mr-exploiter-Nani/Mr-exploiter-Nani | 0 | 0| 
 | 20240201T12:05:46Z | Detectar vulnerabilidades script con nmap | https://github.com/hackingyseguridad/nmap | 23 | 6| 
-| 20240201T11:58:38Z | The useful exploit finder | https://github.com/justakazh/sicat | 1 | 0| 
-| 20240201T09:17:15Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 95 | 34| 
 
 
 # backdoor on Github 推荐
@@ -84,6 +84,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240202T01:01:43Z | Find the ideal fuzz targets in a Rust codebase | https://github.com/trailofbits/siderophile | 180 | 12| 
 | 20240202T00:44:32Z | API para gestion de compras / ventas de articulos musicales de negocio propio, el plan es poder consumir esta API en cualquier ambiente y mantenerla corriendo en una  | https://github.com/HalfBuchon/FuzzTiendaApp | 0 | 0| 
 | 20240202T00:44:06Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 141 | 8| 
 | 20240201T23:38:15Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51848 | 23527| 
@@ -93,7 +94,6 @@
 | 20240201T13:12:33Z | Null | https://github.com/UTandor/fuzzy-scraper | 0 | 0| 
 | 20240201T12:30:12Z | Null | https://github.com/luckyluke66/FuzzySets | 0 | 0| 
 | 20240201T12:09:18Z | Null | https://github.com/Forrest-Jones/fuzzy-fiesta | 0 | 0| 
-| 20240201T12:06:45Z | A multi-fuzzer management utility for all of your Rust fuzzing needs 🧑‍🎤 | https://github.com/srlabs/ziggy | 46 | 6| 
 
 
 
