@@ -17,8 +17,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240202T01:58:49Z | CVE-2024-20931 | The Poc for CVE-2024-20931 | https://github.com/GlassyAmadeus/CVE-2024-20931 | | 
-| 20240202T00:56:30Z | CVE-2024-21626 | PoC and Detection for CVE-2024-21626 | https://github.com/NitroCao/CVE-2024-21626 | | 
+| 20240202T02:05:05Z | CVE-2024-21626 | PoC and Detection for CVE-2024-21626 | https://github.com/NitroCao/CVE-2024-21626 | | 
+| 20240202T02:04:17Z | CVE-2024-20931 | The Poc for CVE-2024-20931 | https://github.com/GlassyAmadeus/CVE-2024-20931 | | 
 | 20240201T22:57:10Z | CVE-2024-21626 | Null | https://github.com/Wall1e/CVE-2024-21626-POC | | 
 | 20240201T22:17:45Z | cve-2023-45779 | Proof-of-concept code for the Android APEX key reuse vulnerability described in https://rtx.meta.security/exploitation/2024/01/30/Android-vendors-APEX-test-keys.html | https://github.com/metaredteam/rtx-cve-2023-45779 | | 
 | 20240201T17:35:54Z | CVE-2024-23897 | Null | https://github.com/binganao/CVE-2024-23897 | | 
@@ -84,8 +84,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240202T02:01:37Z |  IEEE S&P 2023 - DEVFUZZ: Automatic Device Model-Guided Device Driver Fuzzing | https://github.com/yiluwusbu/DEVFUZZ | 0 | 0| 
-| 20240202T01:50:20Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 146 | 8| 
+| 20240202T02:03:02Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 147 | 8| 
+| 20240202T02:02:56Z |  IEEE S&P 2023 - DEVFUZZ: Automatic Device Model-Guided Device Driver Fuzzing | https://github.com/yiluwusbu/DEVFUZZ | 0 | 0| 
 | 20240202T01:42:06Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51851 | 23527| 
 | 20240202T01:37:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9377 | 2105| 
 | 20240202T01:01:43Z | Find the ideal fuzz targets in a Rust codebase | https://github.com/trailofbits/siderophile | 180 | 12| 
