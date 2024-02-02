@@ -51,10 +51,10 @@
 | 20240201T12:05:46Z | Detectar vulnerabilidades script con nmap | https://github.com/hackingyseguridad/nmap | 23 | 6| 
 | 20240201T11:58:38Z | The useful exploit finder | https://github.com/justakazh/sicat | 1 | 0| 
 | 20240201T09:17:15Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 95 | 34| 
+| 20240201T09:01:37Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 249 | 20| 
 | 20240201T02:38:51Z | 一款Jenkins的综合漏洞利用工具 | https://github.com/TheBeastofwar/JenkinsExploit-GUI | 12 | 2| 
 | 20240201T01:59:33Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0032-app-wvCGs-exploit-ring | 0 | 0| 
 | 20240201T01:37:54Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 6232 | 705| 
-| 20240201T01:20:51Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-pm | 1 | 0| 
 
 
 # backdoor on Github 推荐
