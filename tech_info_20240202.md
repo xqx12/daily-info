@@ -67,7 +67,7 @@
 | --- | --- | --- | --- | ---| 
 | 20240202T11:28:43Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 259 | 31| 
 | 20240202T10:04:17Z | Null | https://github.com/incoggeek/backdoor | 0 | 0| 
-| 20240202T04:59:20Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 168 | 48| 
+| 20240202T04:59:20Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 168 | 49| 
 | 20240202T02:13:03Z | An automation to monitor if backdoors/default settings are still active on the compromised machines over time.  | https://github.com/Drakiat/RedTeam-Checker | 0 | 0| 
 
 
@@ -87,16 +87,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240202T13:55:34Z | Null | https://github.com/Aryan-d13/Fuzzy-Logic-Inference-Logic | 0 | 0| 
 | 20240202T13:50:15Z | Null | https://github.com/DanielAviv007/FuzzNav | 0 | 0| 
 | 20240202T13:37:53Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51859 | 23534| 
 | 20240202T13:09:10Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 174 | 10| 
+| 20240202T12:52:01Z | The opensoure repository of FuzzLLM | https://github.com/RainJamesY/FuzzLLM | 4 | 0| 
 | 20240202T12:13:02Z | Null | https://github.com/Forrest-Jones/fuzzy-dollop | 0 | 0| 
 | 20240202T12:03:12Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9382 | 2105| 
 | 20240202T11:56:56Z | Null | https://github.com/nican0r/aave-v3-fuzzy-review | 0 | 0| 
 | 20240202T09:45:54Z | Null | https://github.com/AXELEXA117/fuzzy-palm-tree | 1 | 0| 
 | 20240202T08:58:48Z | Null | https://github.com/GFJKHKGHKKGH/fuzzy-journey | 0 | 0| 
-| 20240202T08:30:41Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 5014 | 1195| 
-| 20240202T02:42:25Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/GhostTroops/scan4all | 4961 | 611| 
 
 
 
