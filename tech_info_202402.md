@@ -52,7 +52,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240202T12:47:45Z | Customize 2048 with my tool (@calskidal). Adjust tile values and spawn probabilities in the console to tailor the game to your preferences. | https://github.com/Calskidal/2048-custom-tile-value | 0 | 0| 
+| 20240202T13:29:09Z | Customize 2048 with my tool (@calskidal). Adjust tile values and spawn probabilities in the console to tailor the game to your preferences. | https://github.com/Calskidal/2048-custom-tile-value | 1 | 0| 
 | 20240202T12:35:43Z | GitOps Repository | https://github.com/rhtap-perf-test/cipoc-1029-0589-app-73trc-listen-exploit | 0 | 0| 
 | 20240202T12:29:05Z | GitOps Repository | https://github.com/rhtap-perf-test/cipoc-1029-0987-app-4s3VY-exploit-paint | 0 | 0| 
 | 20240202T12:24:56Z | GitOps Repository | https://github.com/rhtap-perf-test/cipoc-1029-0486-app-ECdHh-exploit-affect | 0 | 0| 
