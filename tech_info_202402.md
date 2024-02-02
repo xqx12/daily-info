@@ -17,7 +17,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240202T02:39:34Z | CVE-2024-20931 | The Poc for CVE-2024-20931 | https://github.com/GlassyAmadeus/CVE-2024-20931 | | 
+| 20240202T02:47:11Z | CVE-2024-20931 | The Poc for CVE-2024-20931 | https://github.com/GlassyAmadeus/CVE-2024-20931 | | 
+| 20240202T02:45:29Z | CVE-2024-21626 | Null | https://github.com/zpxlz/CVE-2024-21626-POC | | 
 | 20240202T02:28:26Z | CVE-2024-21626 | PoC and Detection for CVE-2024-21626 | https://github.com/NitroCao/CVE-2024-21626 | | 
 | 20240202T02:05:12Z | CVE-2024-22899 | Comprehensive Exploit Chain for Multiple Vulnerabilities in VinChin Backup & Recovery <= 7.2 | https://github.com/Chocapikk/CVE-2024-22899-to-22903-ExploitChain | | 
 | 20240201T22:57:10Z | CVE-2024-21626 | Null | https://github.com/Wall1e/CVE-2024-21626-POC | | 
@@ -26,7 +27,6 @@
 | 20240201T16:27:25Z | CVE-2024-0652 | A vulnerability was found in PHPgurukul visitor management system 1.0. it has been rated as problemic. Affected by the issue is some unknown functionality of the file search bar that called search-visitor.php . The vulnerability is Cross-Site-Scripting (XSS). | https://github.com/White-Hat-HackerX/CVE-2024-0652 | | 
 | 20240201T16:10:27Z | CVE-2024-0402 | CVE-2024-0402 Gitlab arbitrary file write/RCE | https://github.com/ch4nui/CVE-2024-0402-RCE | | 
 | 20240201T14:37:49Z | cve-2023-32784 | Null | https://github.com/mister-turtle/cve-2023-32784 | | 
-| 20240201T14:21:59Z | CVE-2023-6036 | POC about Web3 – Crypto wallet Login & NFT token gating < 3.0.0 - Authentication Bypass Wordpress plugin | https://github.com/pctripsesp/CVE-2023-6036 | | 
 
 
 # klee on Github 推荐
@@ -46,7 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240202T02:44:50Z | Jenkins CLI 任意文件读取漏洞检查工具 | https://github.com/charonlight/JenkinsExploitGUI | 0 | 0| 
+| 20240202T02:46:25Z | Jenkins CLI 任意文件读取漏洞检查工具 | https://github.com/charonlight/JenkinsExploitGUI | 1 | 0| 
 | 20240202T02:42:29Z | 𓃌 -  Exploit faster with simplicity and ease using Axer | https://github.com/0romos/Axer | 36 | 4| 
 | 20240202T02:42:16Z | Password Exploitation Software | https://github.com/HarbingerOfFire/Passploit | 0 | 0| 
 | 20240202T02:29:55Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5805 | 780| 
@@ -86,11 +86,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240202T02:46:19Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51852 | 23531| 
 | 20240202T02:42:25Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/GhostTroops/scan4all | 4961 | 611| 
 | 20240202T02:35:49Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 148 | 8| 
 | 20240202T02:07:21Z | Differential testing and fuzzing of HTTP servers and proxies | https://github.com/narfindustries/http-garden | 10 | 1| 
 | 20240202T02:02:56Z |  IEEE S&P 2023 - DEVFUZZ: Automatic Device Model-Guided Device Driver Fuzzing | https://github.com/yiluwusbu/DEVFUZZ | 0 | 0| 
-| 20240202T01:42:06Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51851 | 23529| 
 | 20240202T01:37:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9377 | 2105| 
 | 20240202T01:01:43Z | Find the ideal fuzz targets in a Rust codebase | https://github.com/trailofbits/siderophile | 180 | 12| 
 | 20240202T00:44:32Z | API para gestion de compras / ventas de articulos musicales de negocio propio, el plan es poder consumir esta API en cualquier ambiente y mantenerla corriendo en una  | https://github.com/HalfBuchon/FuzzTiendaApp | 0 | 0| 
