@@ -54,7 +54,7 @@
 | 20240202T01:01:52Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-rr | 1 | 0| 
 | 20240202T00:45:58Z | A batch script for windows post exploitation system information gatering  | https://github.com/blackmagic2023/Info-dumpster | 0 | 0| 
 | 20240202T00:38:50Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5738 | 1103| 
-| 20240201T13:37:53Z | Null | https://github.com/isirajieinnocent/exploitative_data_analysis_R | 0 | 0| 
+| 20240202T00:35:58Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5804 | 780| 
 
 
 # backdoor on Github 推荐
@@ -85,6 +85,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240202T02:24:18Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/GhostTroops/scan4all | 4960 | 611| 
 | 20240202T02:07:21Z | Differential testing and fuzzing of HTTP servers and proxies | https://github.com/narfindustries/http-garden | 10 | 1| 
 | 20240202T02:03:02Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 147 | 8| 
 | 20240202T02:02:56Z |  IEEE S&P 2023 - DEVFUZZ: Automatic Device Model-Guided Device Driver Fuzzing | https://github.com/yiluwusbu/DEVFUZZ | 0 | 0| 
@@ -94,7 +95,6 @@
 | 20240202T00:44:32Z | API para gestion de compras / ventas de articulos musicales de negocio propio, el plan es poder consumir esta API en cualquier ambiente y mantenerla corriendo en una  | https://github.com/HalfBuchon/FuzzTiendaApp | 0 | 0| 
 | 20240201T22:56:16Z | Null | https://github.com/google/fuzztest | 538 | 47| 
 | 20240201T13:12:33Z | Null | https://github.com/UTandor/fuzzy-scraper | 0 | 0| 
-| 20240201T12:30:12Z | Null | https://github.com/luckyluke66/FuzzySets | 0 | 0| 
 
 
 
