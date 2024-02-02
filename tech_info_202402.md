@@ -45,6 +45,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240202T01:02:36Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-rr | 1 | 0| 
+| 20240202T01:01:52Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-rr | 1 | 0| 
 | 20240202T00:45:58Z | A batch script for windows post exploitation system information gatering  | https://github.com/blackmagic2023/Info-dumpster | 0 | 0| 
 | 20240202T00:38:50Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5738 | 1103| 
 | 20240201T13:37:53Z | Null | https://github.com/isirajieinnocent/exploitative_data_analysis_R | 0 | 0| 
@@ -53,8 +55,6 @@
 | 20240201T12:05:46Z | Detectar vulnerabilidades script con nmap | https://github.com/hackingyseguridad/nmap | 23 | 6| 
 | 20240201T11:58:38Z | The useful exploit finder | https://github.com/justakazh/sicat | 1 | 0| 
 | 20240201T09:17:15Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 95 | 34| 
-| 20240201T02:38:51Z | 一款Jenkins的综合漏洞利用工具 | https://github.com/TheBeastofwar/JenkinsExploit-GUI | 12 | 2| 
-| 20240201T01:59:33Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0032-app-wvCGs-exploit-ring | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -72,7 +72,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240201T10:41:02Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2404 | 652| 
+| 20240201T22:09:54Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2404 | 652| 
+| 20240201T19:35:11Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 105 | 10| 
 
 
 # big4 on Github 推荐
