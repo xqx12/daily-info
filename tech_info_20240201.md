@@ -86,7 +86,6 @@
 | --- | --- | --- | --- | ---| 
 | 20240201T22:56:16Z | Null | https://github.com/google/fuzztest | 538 | 47| 
 | 20240201T21:09:04Z | Differential testing and fuzzing of HTTP servers and proxies | https://github.com/narfindustries/http-garden | 9 | 1| 
-| 20240201T20:39:08Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9376 | 2105| 
 | 20240201T13:12:33Z | Null | https://github.com/UTandor/fuzzy-scraper | 0 | 0| 
 | 20240201T12:30:12Z | Null | https://github.com/luckyluke66/FuzzySets | 0 | 0| 
 | 20240201T12:09:18Z | Null | https://github.com/Forrest-Jones/fuzzy-fiesta | 0 | 0| 
@@ -94,6 +93,7 @@
 | 20240201T10:45:10Z | UPN Veteran Jatim , Aquaponic pH Control-Monitoring with Type-2 Fuzzy Method Based on IoT Bot , S1 Thesis Project | https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot | 2 | 0| 
 | 20240201T10:22:30Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4333 | 877| 
 | 20240201T09:18:50Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 5013 | 1195| 
+| 20240201T08:35:30Z | helm test | https://github.com/LrsWnd/fuzzy-octo-waffle | 0 | 0| 
 
 
 
