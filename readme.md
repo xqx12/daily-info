@@ -91,7 +91,7 @@
 | 20240202T12:13:02Z | Null | https://github.com/Forrest-Jones/fuzzy-dollop | 0 | 0| 
 | 20240202T12:03:12Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9382 | 2105| 
 | 20240202T11:56:56Z | Null | https://github.com/nican0r/aave-v3-fuzzy-review | 0 | 0| 
-| 20240202T11:56:51Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51858 | 23534| 
+| 20240202T11:56:51Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51858 | 23535| 
 | 20240202T09:45:54Z | Null | https://github.com/AXELEXA117/fuzzy-palm-tree | 1 | 0| 
 | 20240202T08:58:48Z | Null | https://github.com/GFJKHKGHKKGH/fuzzy-journey | 0 | 0| 
 | 20240202T08:30:41Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 5014 | 1195| 
