@@ -46,6 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240202T02:44:50Z | Jenkins CLI 任意文件读取漏洞检查工具 | https://github.com/charonlight/JenkinsExploitGUI | 0 | 0| 
 | 20240202T02:42:29Z | 𓃌 -  Exploit faster with simplicity and ease using Axer | https://github.com/0romos/Axer | 36 | 4| 
 | 20240202T02:42:16Z | Password Exploitation Software | https://github.com/HarbingerOfFire/Passploit | 0 | 0| 
 | 20240202T02:29:55Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5805 | 780| 
@@ -55,7 +56,6 @@
 | 20240202T01:03:56Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-rr | 1 | 0| 
 | 20240202T01:03:17Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-rr | 1 | 0| 
 | 20240202T01:02:36Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-rr | 1 | 0| 
-| 20240202T01:01:52Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-rr | 1 | 0| 
 
 
 # backdoor on Github 推荐
