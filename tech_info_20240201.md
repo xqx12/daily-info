@@ -17,7 +17,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240201T22:57:10Z | CVE-2024-21626 | Null | https://github.com/Wall1e/CVE-2024-21626-POC | | 
 | 20240201T22:17:45Z | cve-2023-45779 | Proof-of-concept code for the Android APEX key reuse vulnerability described in https://rtx.meta.security/exploitation/2024/01/30/Android-vendors-APEX-test-keys.html | https://github.com/metaredteam/rtx-cve-2023-45779 | | 
 | 20240201T17:35:54Z | CVE-2024-23897 | Null | https://github.com/binganao/CVE-2024-23897 | | 
 | 20240201T16:27:25Z | CVE-2024-0652 | A vulnerability was found in PHPgurukul visitor management system 1.0. it has been rated as problemic. Affected by the issue is some unknown functionality of the file search bar that called search-visitor.php . The vulnerability is Cross-Site-Scripting (XSS). | https://github.com/White-Hat-HackerX/CVE-2024-0652 | | 
@@ -27,6 +26,7 @@
 | 20240201T07:30:59Z | CVE-2023-40140 | Null | https://github.com/hshivhare67/platform_frameworks_base_AOSP6_r22_CVE-2023-40140 | | 
 | 20240201T04:12:54Z | CVE-2023-36845 | Null | https://github.com/cyb3rzest/Juniper-Bug-Automation-CVE-2023-36845 | | 
 | 20240201T03:17:35Z | CVE-2024-23897 | PoC for CVE-2024-23897 | https://github.com/AbraXa5/Jenkins-CVE-2024-23897 | | 
+| 20240201T02:41:23Z | CVE-2024-24488 | An issue in Shenzen Tenda Technology CP3V2.0 V11.10.00.2311090948 allows a local attacker to obtain sensitive information via the password component. | https://github.com/minj-ae/CVE-2024-24488 | | 
 
 
 # klee on Github 推荐
