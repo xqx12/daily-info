@@ -85,6 +85,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240202T02:07:21Z | Differential testing and fuzzing of HTTP servers and proxies | https://github.com/narfindustries/http-garden | 10 | 1| 
 | 20240202T02:03:02Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 147 | 8| 
 | 20240202T02:02:56Z |  IEEE S&P 2023 - DEVFUZZ: Automatic Device Model-Guided Device Driver Fuzzing | https://github.com/yiluwusbu/DEVFUZZ | 0 | 0| 
 | 20240202T01:42:06Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51851 | 23527| 
@@ -92,7 +93,6 @@
 | 20240202T01:01:43Z | Find the ideal fuzz targets in a Rust codebase | https://github.com/trailofbits/siderophile | 180 | 12| 
 | 20240202T00:44:32Z | API para gestion de compras / ventas de articulos musicales de negocio propio, el plan es poder consumir esta API en cualquier ambiente y mantenerla corriendo en una  | https://github.com/HalfBuchon/FuzzTiendaApp | 0 | 0| 
 | 20240201T22:56:16Z | Null | https://github.com/google/fuzztest | 538 | 47| 
-| 20240201T21:09:04Z | Differential testing and fuzzing of HTTP servers and proxies | https://github.com/narfindustries/http-garden | 9 | 1| 
 | 20240201T13:12:33Z | Null | https://github.com/UTandor/fuzzy-scraper | 0 | 0| 
 | 20240201T12:30:12Z | Null | https://github.com/luckyluke66/FuzzySets | 0 | 0| 
 
