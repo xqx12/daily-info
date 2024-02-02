@@ -45,6 +45,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240202T01:17:55Z | Modular Discord Token Gen written in Golang that uses an exploit to bypass captcha for FREE 🤑 | https://github.com/Hell-Sec/KlixGen | 0 | 0| 
 | 20240202T01:03:56Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-rr | 1 | 0| 
 | 20240202T01:03:17Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-rr | 1 | 0| 
 | 20240202T01:02:36Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-rr | 1 | 0| 
@@ -54,7 +55,6 @@
 | 20240201T13:37:53Z | Null | https://github.com/isirajieinnocent/exploitative_data_analysis_R | 0 | 0| 
 | 20240201T13:10:39Z | ROBLOX Exploit Free Best Executor Keyless | https://github.com/YapsCobweb/ROBLOX-Exploit-Free-Best-Executor-Keyless | 1 | 0| 
 | 20240201T13:05:26Z | Config files for my GitHub profile. | https://github.com/Mr-exploiter-Nani/Mr-exploiter-Nani | 0 | 0| 
-| 20240201T12:05:46Z | Detectar vulnerabilidades script con nmap | https://github.com/hackingyseguridad/nmap | 23 | 6| 
 
 
 # backdoor on Github 推荐
