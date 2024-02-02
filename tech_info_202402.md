@@ -46,6 +46,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240202T02:42:29Z | 𓃌 -  Exploit faster with simplicity and ease using Axer | https://github.com/0romos/Axer | 36 | 4| 
+| 20240202T02:42:16Z | Password Exploitation Software | https://github.com/HarbingerOfFire/Passploit | 0 | 0| 
 | 20240202T02:29:55Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5805 | 780| 
 | 20240202T01:57:41Z | x86 Yarn scanner / loader | https://github.com/Hell-Sec/Yarn-exploit | 0 | 0| 
 | 20240202T01:42:44Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/GhostTroops/TOP | 600 | 119| 
@@ -54,8 +56,6 @@
 | 20240202T01:03:17Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-rr | 1 | 0| 
 | 20240202T01:02:36Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-rr | 1 | 0| 
 | 20240202T01:01:52Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-rr | 1 | 0| 
-| 20240202T00:45:58Z | A batch script for windows post exploitation system information gatering  | https://github.com/blackmagic2023/Info-dumpster | 0 | 0| 
-| 20240202T00:38:50Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5738 | 1103| 
 
 
 # backdoor on Github 推荐
