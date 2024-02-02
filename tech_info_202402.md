@@ -17,12 +17,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240202T02:05:12Z | CVE-2024-22899 | Comprehensive Exploit Chain for Multiple Vulnerabilities in VinChin Backup & Recovery <= 7.2 | https://github.com/Chocapikk/CVE-2024-22899-to-22903-ExploitChain | | 
 | 20240202T02:05:05Z | CVE-2024-21626 | PoC and Detection for CVE-2024-21626 | https://github.com/NitroCao/CVE-2024-21626 | | 
 | 20240202T02:04:17Z | CVE-2024-20931 | The Poc for CVE-2024-20931 | https://github.com/GlassyAmadeus/CVE-2024-20931 | | 
 | 20240201T22:57:10Z | CVE-2024-21626 | Null | https://github.com/Wall1e/CVE-2024-21626-POC | | 
 | 20240201T22:17:45Z | cve-2023-45779 | Proof-of-concept code for the Android APEX key reuse vulnerability described in https://rtx.meta.security/exploitation/2024/01/30/Android-vendors-APEX-test-keys.html | https://github.com/metaredteam/rtx-cve-2023-45779 | | 
 | 20240201T17:35:54Z | CVE-2024-23897 | Null | https://github.com/binganao/CVE-2024-23897 | | 
-| 20240201T17:20:22Z | CVE-2024-22899 | Comprehensive Exploit Chain for Multiple Vulnerabilities in VinChin Backup & Recovery <= 7.2 | https://github.com/Chocapikk/CVE-2024-22899-to-22903-ExploitChain | | 
 | 20240201T16:27:25Z | CVE-2024-0652 | A vulnerability was found in PHPgurukul visitor management system 1.0. it has been rated as problemic. Affected by the issue is some unknown functionality of the file search bar that called search-visitor.php . The vulnerability is Cross-Site-Scripting (XSS). | https://github.com/White-Hat-HackerX/CVE-2024-0652 | | 
 | 20240201T16:10:27Z | CVE-2024-0402 | CVE-2024-0402 Gitlab arbitrary file write/RCE | https://github.com/ch4nui/CVE-2024-0402-RCE | | 
 | 20240201T14:37:49Z | cve-2023-32784 | Null | https://github.com/mister-turtle/cve-2023-32784 | | 
@@ -60,6 +60,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240202T02:06:53Z | An automation to monitor if backdoors/default settings are still active on the compromised machines over time.  | https://github.com/Drakiat/RedTeam-Checker | 0 | 0| 
 | 20240201T20:07:52Z | Backdoor Using PHP files | https://github.com/irfanprayoga29/awshitprot | 0 | 0| 
 | 20240201T18:14:01Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 166 | 46| 
 | 20240201T16:37:15Z | Backdoor Program made in the batch programming language | https://github.com/gato001k1/Batchdoor | 1 | 0| 
