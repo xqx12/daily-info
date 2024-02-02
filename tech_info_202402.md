@@ -23,7 +23,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240202T13:29:54Z | CVE-2024-21626 | PoC and Detection for CVE-2024-21626 | https://github.com/NitroCao/CVE-2024-21626 | | 
+| 20240202T13:49:44Z | CVE-2024-21626 | PoC and Detection for CVE-2024-21626 | https://github.com/NitroCao/CVE-2024-21626 | | 
 | 20240202T13:05:24Z | CVE-2024-21626 | Container Runtime Meetup #5 のLT用のデモ | https://github.com/laysakura/CVE-2024-21626-demo | | 
 | 20240202T10:28:44Z | CVE-2022-37434 | Null | https://github.com/Trinadh465/external_zlib_CVE-2022-37434 | | 
 | 20240202T10:11:01Z | CVE-2024-21626 | Null | https://github.com/Wall1e/CVE-2024-21626-POC | | 
@@ -69,7 +69,7 @@
 | --- | --- | --- | --- | ---| 
 | 20240202T11:28:43Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 259 | 31| 
 | 20240202T10:04:17Z | Null | https://github.com/incoggeek/backdoor | 0 | 0| 
-| 20240202T04:59:20Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 168 | 47| 
+| 20240202T04:59:20Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 168 | 48| 
 | 20240202T02:13:03Z | An automation to monitor if backdoors/default settings are still active on the compromised machines over time.  | https://github.com/Drakiat/RedTeam-Checker | 0 | 0| 
 | 20240201T20:07:52Z | Backdoor Using PHP files | https://github.com/irfanprayoga29/awshitprot | 0 | 0| 
 | 20240201T16:37:15Z | Backdoor Program made in the batch programming language | https://github.com/gato001k1/Batchdoor | 1 | 0| 
@@ -95,7 +95,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240202T13:37:53Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51859 | 23535| 
+| 20240202T13:50:15Z | Null | https://github.com/DanielAviv007/FuzzNav | 0 | 0| 
+| 20240202T13:37:53Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51859 | 23534| 
 | 20240202T13:09:10Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 174 | 10| 
 | 20240202T12:13:02Z | Null | https://github.com/Forrest-Jones/fuzzy-dollop | 0 | 0| 
 | 20240202T12:03:12Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9382 | 2105| 
@@ -104,7 +105,6 @@
 | 20240202T08:58:48Z | Null | https://github.com/GFJKHKGHKKGH/fuzzy-journey | 0 | 0| 
 | 20240202T08:30:41Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 5014 | 1195| 
 | 20240202T02:42:25Z | Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)... | https://github.com/GhostTroops/scan4all | 4961 | 611| 
-| 20240202T02:07:21Z | Differential testing and fuzzing of HTTP servers and proxies | https://github.com/narfindustries/http-garden | 10 | 1| 
 
 
 
