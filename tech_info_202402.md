@@ -84,8 +84,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240202T01:27:01Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 142 | 8| 
-| 20240202T01:12:42Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51849 | 23527| 
+| 20240202T01:34:09Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 144 | 8| 
+| 20240202T01:33:24Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51850 | 23527| 
 | 20240202T01:01:43Z | Find the ideal fuzz targets in a Rust codebase | https://github.com/trailofbits/siderophile | 180 | 12| 
 | 20240202T00:44:32Z | API para gestion de compras / ventas de articulos musicales de negocio propio, el plan es poder consumir esta API en cualquier ambiente y mantenerla corriendo en una  | https://github.com/HalfBuchon/FuzzTiendaApp | 0 | 0| 
 | 20240201T22:56:16Z | Null | https://github.com/google/fuzztest | 538 | 47| 
