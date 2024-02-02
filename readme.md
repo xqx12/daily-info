@@ -22,8 +22,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240202T13:29:54Z | CVE-2024-21626 | PoC and Detection for CVE-2024-21626 | https://github.com/NitroCao/CVE-2024-21626 | | 
 | 20240202T13:05:24Z | CVE-2024-21626 | Container Runtime Meetup #5 のLT用のデモ | https://github.com/laysakura/CVE-2024-21626-demo | | 
-| 20240202T13:04:34Z | CVE-2024-21626 | PoC and Detection for CVE-2024-21626 | https://github.com/NitroCao/CVE-2024-21626 | | 
 | 20240202T10:28:44Z | CVE-2022-37434 | Null | https://github.com/Trinadh465/external_zlib_CVE-2022-37434 | | 
 | 20240202T10:11:01Z | CVE-2024-21626 | Null | https://github.com/Wall1e/CVE-2024-21626-POC | | 
 | 20240202T09:26:46Z | CVE-2024-21626 | Null | https://github.com/zpxlz/CVE-2024-21626-POC | | 
