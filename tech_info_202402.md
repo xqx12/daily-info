@@ -84,7 +84,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240202T01:54:44Z |  IEEE S&P 2023 - DEVFUZZ: Automatic Device Model-Guided Device Driver Fuzzing | https://github.com/yiluwusbu/DEVFUZZ | 0 | 0| 
+| 20240202T02:01:37Z |  IEEE S&P 2023 - DEVFUZZ: Automatic Device Model-Guided Device Driver Fuzzing | https://github.com/yiluwusbu/DEVFUZZ | 0 | 0| 
 | 20240202T01:50:20Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 146 | 8| 
 | 20240202T01:42:06Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51851 | 23527| 
 | 20240202T01:37:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9377 | 2105| 
