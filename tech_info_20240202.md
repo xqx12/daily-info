@@ -52,6 +52,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20240202T20:54:31Z | MultiDump is a post-exploitation tool for dumping and extracting LSASS memory discreetly. | https://github.com/Xre0uS/MultiDump | 2 | 0| 
+| 20240202T18:14:39Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 251 | 20| 
 | 20240202T16:13:58Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5744 | 1104| 
 | 20240202T13:29:09Z | Customize 2048 with my tool (@calskidal). Adjust tile values and spawn probabilities in the console to tailor the game to your preferences. | https://github.com/Calskidal/2048-custom-tile-value | 1 | 0| 
 | 20240202T12:35:43Z | GitOps Repository | https://github.com/rhtap-perf-test/cipoc-1029-0589-app-73trc-listen-exploit | 0 | 0| 
@@ -60,7 +61,6 @@
 | 20240202T12:24:56Z | GitOps Repository | https://github.com/rhtap-perf-test/cipoc-1029-0486-app-ECdHh-exploit-affect | 0 | 0| 
 | 20240202T12:13:48Z | GitOps Repository | https://github.com/rhtap-perf-test/cipoc-1029-0283-app-aItJ9-suggest-exploit | 0 | 0| 
 | 20240202T12:13:46Z | GitOps Repository | https://github.com/rhtap-perf-test/cipoc-1029-0923-app-A9p0Z-argue-exploit | 0 | 0| 
-| 20240202T09:12:27Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 89 | 13| 
 
 
 # backdoor on Github 推荐

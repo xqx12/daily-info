@@ -59,10 +59,10 @@
 | 20240203T00:53:04Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-fr | 1 | 0| 
 | 20240203T00:32:54Z | The latest r/k12sysadmin updates all in one place, mainly for new exploits. | https://github.com/Quartinal/k12sysadmin-updates | 0 | 0| 
 | 20240202T20:54:31Z | MultiDump is a post-exploitation tool for dumping and extracting LSASS memory discreetly. | https://github.com/Xre0uS/MultiDump | 2 | 0| 
+| 20240202T18:14:39Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 251 | 20| 
 | 20240202T16:13:58Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5744 | 1104| 
 | 20240202T13:29:09Z | Customize 2048 with my tool (@calskidal). Adjust tile values and spawn probabilities in the console to tailor the game to your preferences. | https://github.com/Calskidal/2048-custom-tile-value | 1 | 0| 
 | 20240202T12:35:43Z | GitOps Repository | https://github.com/rhtap-perf-test/cipoc-1029-0589-app-73trc-listen-exploit | 0 | 0| 
-| 20240202T12:29:34Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/GhostTroops/TOP | 601 | 119| 
 
 
 # backdoor on Github 推荐
