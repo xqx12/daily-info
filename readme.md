@@ -24,7 +24,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20240202T23:13:27Z | CVE-2024-23897 | CVE-2024-23897 jenkins arbitrary file read which leads to unauthenticated RCE | https://github.com/brijne/CVE-2024-23897-RCE | | 
-| 20240202T18:12:40Z | CVE-2024-21626 | Null | https://github.com/Wall1e/CVE-2024-21626-POC | | 
 | 20240202T15:28:21Z | CVE-2024-21626 | CVE-2024-21626-poc-research-Reappearance-andtodo | https://github.com/cdxiaodong/CVE-2024-21626 | | 
 | 20240202T14:29:25Z | CVE-2022-37434 | Null | https://github.com/Trinadh465/external_zlib_CVE-2022-37434 | | 
 | 20240202T13:49:44Z | CVE-2024-21626 | PoC and Detection for CVE-2024-21626 | https://github.com/NitroCao/CVE-2024-21626 | | 
@@ -33,6 +32,7 @@
 | 20240202T09:10:04Z | CVE-2024-21626 | Null | https://github.com/zhangguanzhang/CVE-2024-21626 | | 
 | 20240202T07:03:41Z | CVE-2024-22899 | Comprehensive Exploit Chain for Multiple Vulnerabilities in VinChin Backup & Recovery <= 7.2 | https://github.com/Chocapikk/CVE-2024-22899-to-22903-ExploitChain | | 
 | 20240202T06:57:18Z | CVE-2022-37434 | Null | https://github.com/Trinadh465/external_zlib_android-6.0.1_r22_CVE-2022-37434 | | 
+| 20240202T04:21:05Z | CVE-2023-22527 | CVE-2023-22527 Batch scanning | https://github.com/YongYe-Security/CVE-2023-22527 | | 
 
 
 # klee on Github 推荐
