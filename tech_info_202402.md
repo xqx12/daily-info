@@ -24,8 +24,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240203T02:18:05Z | CVE-2024-20931 | The Poc for CVE-2024-20931 | https://github.com/GlassyAmadeus/CVE-2024-20931 | | 
 | 20240203T02:04:51Z | CVE-2024-21893 | CVE-2024-21893: SSRF Vulnerability in Ivanti Connect Secure | https://github.com/h4x0r-dz/CVE-2024-21893.py | | 
-| 20240203T00:57:35Z | CVE-2024-20931 | The Poc for CVE-2024-20931 | https://github.com/GlassyAmadeus/CVE-2024-20931 | | 
 | 20240202T23:13:27Z | CVE-2024-23897 | CVE-2024-23897 jenkins arbitrary file read which leads to unauthenticated RCE | https://github.com/brijne/CVE-2024-23897-RCE | | 
 | 20240202T18:12:40Z | CVE-2024-21626 | Null | https://github.com/Wall1e/CVE-2024-21626-POC | | 
 | 20240202T15:28:21Z | CVE-2024-21626 | CVE-2024-21626-poc-research-Reappearance-andtodo | https://github.com/cdxiaodong/CVE-2024-21626 | | 
@@ -97,6 +97,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240203T02:18:48Z | Null | https://github.com/torhovairina/fuzzy-moon | 0 | 0| 
 | 20240203T02:05:40Z | CMPUT 656 Term project | https://github.com/alex-l-f/Evaluating-Knowledge-Fusion-and-Reasoning-on-Fuzzy-Knowledge-Graphs | 0 | 0| 
 | 20240203T02:05:36Z | Null | https://github.com/YXLZJ/FuzzingVM | 0 | 0| 
 | 20240203T01:54:08Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51867 | 23535| 
@@ -106,7 +107,6 @@
 | 20240203T01:05:41Z | Program GUI Temp-Humidity | https://github.com/jayrboy/fuzzylogic-gui-matlab | 0 | 0| 
 | 20240203T00:46:20Z | My clone repository | https://github.com/DevABM/fuzzy-lamp | 0 | 0| 
 | 20240203T00:10:49Z | Null | https://github.com/rsher60/Fastapi_Fuzzy | 0 | 0| 
-| 20240202T23:04:09Z | Null | https://github.com/ana-radchuk/alpha-fuzzy-guacamole | 0 | 0| 
 
 
 
