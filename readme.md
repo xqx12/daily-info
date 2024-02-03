@@ -90,7 +90,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240202T23:58:48Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51867 | 23535| 
 | 20240202T23:04:09Z | Null | https://github.com/ana-radchuk/alpha-fuzzy-guacamole | 0 | 0| 
 | 20240202T20:25:08Z | Null | https://github.com/jsoulier/fuzztext | 0 | 0| 
 | 20240202T16:34:03Z | Differential testing and fuzzing of HTTP servers and proxies | https://github.com/narfindustries/http-garden | 14 | 1| 
@@ -100,6 +99,7 @@
 | 20240202T13:09:10Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 174 | 10| 
 | 20240202T12:52:01Z | The opensoure repository of FuzzLLM | https://github.com/RainJamesY/FuzzLLM | 4 | 0| 
 | 20240202T12:13:02Z | Null | https://github.com/Forrest-Jones/fuzzy-dollop | 0 | 0| 
+| 20240202T11:56:56Z | Null | https://github.com/nican0r/aave-v3-fuzzy-review | 0 | 0| 
 
 
 
