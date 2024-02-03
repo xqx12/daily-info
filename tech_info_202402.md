@@ -97,6 +97,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240203T02:50:33Z | Null | https://github.com/varna-clab/fuzzy-stream | 0 | 0| 
 | 20240203T02:18:48Z | Null | https://github.com/torhovairina/fuzzy-moon | 0 | 0| 
 | 20240203T02:05:40Z | CMPUT 656 Term project | https://github.com/alex-l-f/Evaluating-Knowledge-Fusion-and-Reasoning-on-Fuzzy-Knowledge-Graphs | 0 | 0| 
 | 20240203T02:05:36Z | Null | https://github.com/YXLZJ/FuzzingVM | 0 | 0| 
@@ -106,7 +107,6 @@
 | 20240203T01:07:37Z | Null | https://github.com/taticatma0386/fuzzy-moon | 0 | 0| 
 | 20240203T01:05:41Z | Program GUI Temp-Humidity | https://github.com/jayrboy/fuzzylogic-gui-matlab | 0 | 0| 
 | 20240203T00:46:20Z | My clone repository | https://github.com/DevABM/fuzzy-lamp | 0 | 0| 
-| 20240203T00:10:49Z | Null | https://github.com/rsher60/Fastapi_Fuzzy | 0 | 0| 
 
 
 
