@@ -24,8 +24,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240203T02:04:51Z | CVE-2024-21893 | CVE-2024-21893: SSRF Vulnerability in Ivanti Connect Secure | https://github.com/h4x0r-dz/CVE-2024-21893.py | | 
 | 20240203T00:57:35Z | CVE-2024-20931 | The Poc for CVE-2024-20931 | https://github.com/GlassyAmadeus/CVE-2024-20931 | | 
-| 20240203T00:47:19Z | CVE-2024-21893 | CVE-2024-21893: SSRF Vulnerability in Ivanti Connect Secure | https://github.com/h4x0r-dz/CVE-2024-21893.py | | 
 | 20240202T23:13:27Z | CVE-2024-23897 | CVE-2024-23897 jenkins arbitrary file read which leads to unauthenticated RCE | https://github.com/brijne/CVE-2024-23897-RCE | | 
 | 20240202T18:12:40Z | CVE-2024-21626 | Null | https://github.com/Wall1e/CVE-2024-21626-POC | | 
 | 20240202T15:28:21Z | CVE-2024-21626 | CVE-2024-21626-poc-research-Reappearance-andtodo | https://github.com/cdxiaodong/CVE-2024-21626 | | 
