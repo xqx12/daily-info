@@ -24,9 +24,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240203T13:42:47Z | CVE-2024-21893 | CVE-2024-21893 to CVE-2024-21887 Exploit Toolkit | https://github.com/Chocapikk/CVE-2024-21893-to-CVE-2024-21887 | | 
 | 20240203T12:31:26Z | CVE-2023-4863 | Triggering the famous libweb 0day vuln with libfuzzer | https://github.com/Microsvuln/CVE-2023-4863 | | 
 | 20240203T12:04:30Z | CVE-2024-21893 | CVE-2024-21893: SSRF Vulnerability in Ivanti Connect Secure | https://github.com/h4x0r-dz/CVE-2024-21893.py | | 
-| 20240203T11:34:11Z | CVE-2024-21893 | CVE-2024-21893 to CVE-2024-21887 Exploit Toolkit | https://github.com/Chocapikk/CVE-2024-21893-to-CVE-2024-21887 | | 
 | 20240203T06:10:08Z | CVE-2023-36845 | Null | https://github.com/CharonDefalt/Juniper-exploit-CVE-2023-36845 | | 
 | 20240203T06:02:46Z | CVE-2023-40459 | PoC of CVE-2023-40459 (DoS on ACEmanager) | https://github.com/majidmc2/CVE-2023-40459 | | 
 | 20240203T02:48:21Z | CVE-2024-20931 | The Poc for CVE-2024-20931 | https://github.com/GlassyAmadeus/CVE-2024-20931 | | 
