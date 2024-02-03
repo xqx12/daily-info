@@ -97,6 +97,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240203T01:07:37Z | Null | https://github.com/taticatma0386/fuzzy-moon | 0 | 0| 
+| 20240203T01:05:41Z | Program GUI Temp-Humidity | https://github.com/jayrboy/fuzzylogic-gui-matlab | 0 | 0| 
 | 20240203T00:46:20Z | My clone repository | https://github.com/DevABM/fuzzy-lamp | 0 | 0| 
 | 20240203T00:10:49Z | Null | https://github.com/rsher60/Fastapi_Fuzzy | 0 | 0| 
 | 20240202T23:58:48Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51867 | 23535| 
@@ -105,8 +107,6 @@
 | 20240202T16:34:03Z | Differential testing and fuzzing of HTTP servers and proxies | https://github.com/narfindustries/http-garden | 14 | 1| 
 | 20240202T13:59:58Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9381 | 2105| 
 | 20240202T13:55:34Z | Null | https://github.com/Aryan-d13/Fuzzy-Logic-Inference-Logic | 0 | 0| 
-| 20240202T13:50:15Z | Null | https://github.com/DanielAviv007/FuzzNav | 0 | 0| 
-| 20240202T13:09:10Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 174 | 10| 
 
 
 
