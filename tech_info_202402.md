@@ -98,6 +98,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240203T13:20:17Z | Null | https://github.com/SWAR0K/fuzzy-lamp123 | 0 | 0| 
 | 20240203T12:56:43Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 5017 | 1195| 
 | 20240203T12:28:58Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4410 | 917| 
 | 20240203T12:11:44Z | Null | https://github.com/topberkut/fuzzy-sweater | 0 | 0| 
@@ -107,7 +108,6 @@
 | 20240203T02:50:33Z | Null | https://github.com/varna-clab/fuzzy-stream | 0 | 0| 
 | 20240203T02:18:48Z | Null | https://github.com/torhovairina/fuzzy-moon | 0 | 0| 
 | 20240203T02:05:40Z | CMPUT 656 Term project | https://github.com/alex-l-f/Evaluating-Knowledge-Fusion-and-Reasoning-on-Fuzzy-Knowledge-Graphs | 0 | 0| 
-| 20240203T02:05:36Z | Null | https://github.com/YXLZJ/FuzzingVM | 0 | 0| 
 
 
 
