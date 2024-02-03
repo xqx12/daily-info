@@ -73,7 +73,7 @@
 | --- | --- | --- | --- | ---| 
 | 20240203T13:20:17Z | Null | https://github.com/SWAR0K/fuzzy-lamp123 | 0 | 0| 
 | 20240203T12:56:43Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 5017 | 1195| 
-| 20240203T12:28:58Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4410 | 917| 
+| 20240203T12:28:58Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4410 | 918| 
 | 20240203T12:11:44Z | Null | https://github.com/topberkut/fuzzy-sweater | 0 | 0| 
 | 20240203T09:09:14Z | Null | https://github.com/xanter52rus/fuzzy-moon | 0 | 0| 
 | 20240203T08:40:32Z | Null | https://github.com/varekarprajwal/Fuzzylogic | 0 | 0| 
