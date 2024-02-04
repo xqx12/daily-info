@@ -40,6 +40,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240203T23:06:16Z | Collection of notes, files, and exploits from web challenges. | https://github.com/RosePwns/Web_Challenges | 1 | 0| 
 | 20240203T21:37:19Z | PS4 , PS5 Jailbreak for all exploitable firmwares | https://github.com/GamerHack/GamerHack.github.io | 45 | 29| 
 | 20240203T11:09:45Z | Real-time detection and defense against malicious network activity and policy violations (exploits, port-scanners, advertising, telemetry, state surveillance, etc.) | https://github.com/ClarkFieseln/IPRadar2ForLinux | 0 | 0| 
 | 20240203T07:28:36Z | MultiDump is a post-exploitation tool for dumping and extracting LSASS memory discreetly. | https://github.com/Xre0uS/MultiDump | 8 | 1| 
