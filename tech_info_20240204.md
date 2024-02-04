@@ -42,6 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240204T13:54:20Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 184 | 15| 
 | 20240204T12:05:53Z | DWWA Command injection exploit | https://github.com/Suppressorx1/DVWA-Command-injection-exploit | 0 | 0| 
 | 20240204T11:46:30Z | Zero Exploitation Unified System for Entity Security: Cyber Resilience Controls Framework for Finance  | https://github.com/rogue0xbyte/zeus | 0 | 2| 
 | 20240204T08:39:31Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5748 | 1105| 
@@ -51,7 +52,6 @@
 | 20240204T01:50:54Z | 🔓A curated list of modern Android exploitation conference talks. | https://github.com/actuator/Android-Security-Exploits-YouTube-Curriculum | 360 | 30| 
 | 20240204T00:42:19Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-bi | 1 | 0| 
 | 20240204T00:41:37Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-bi | 1 | 0| 
-| 20240204T00:40:33Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEANSILENT-DOC-EXPLOIT-CLEAN-gb | 0 | 0| 
 
 
 # backdoor on Github 推荐
