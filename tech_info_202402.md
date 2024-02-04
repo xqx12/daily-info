@@ -55,6 +55,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240204T02:30:58Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0079-app-K5iiV-exploit-state | 0 | 0| 
 | 20240204T02:17:44Z | Repository to work on our class project UMGC CMSC 495 Team Exploit | https://github.com/BitDevelopersLLC/myexploitscanner | 0 | 0| 
 | 20240204T02:08:00Z | Video of a bio-inspired bipedal robot that exploits its mechanical properties to learn to walk without explicit control with only 2 minutes of ‘natural’ motor babbling (i.e., an exploration strategy that uses leg and task dynamics). | https://github.com/DarioUrbina/natural_babbling | 0 | 0| 
 | 20240204T01:50:54Z | 🔓A curated list of modern Android exploitation conference talks. | https://github.com/actuator/Android-Security-Exploits-YouTube-Curriculum | 360 | 30| 
@@ -64,7 +65,6 @@
 | 20240204T00:40:33Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEANSILENT-DOC-EXPLOIT-CLEAN-gb | 0 | 0| 
 | 20240204T00:39:24Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-gb | 1 | 0| 
 | 20240204T00:38:40Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-gb | 1 | 0| 
-| 20240204T00:11:18Z | Chromecast with Google TV (4K) %sabrina% - Persistent Secure-Boot Bypass Exploit Chain | https://github.com/oddsolutions/sabrina-unlock | 7 | 3| 
 
 
 # backdoor on Github 推荐
