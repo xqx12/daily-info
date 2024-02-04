@@ -66,11 +66,13 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240204T10:07:08Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 222 | 22| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240204T12:53:36Z | (NDSS 2024) Optimizing Decompiler Output with LLM | https://github.com/PeiweiHu/DeGPT | 6 | 0| 
 
 
 # fuzz on Github 推荐
