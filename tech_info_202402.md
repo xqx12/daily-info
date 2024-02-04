@@ -25,7 +25,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240204T02:24:35Z | CVE-2023-32233 | CVE-2023-32233 | https://github.com/RogelioPumajulca/TEST-CVE-2023-32233 | | 
+| 20240204T02:26:32Z | CVE-2023-32233 | CVE-2023-32233 | https://github.com/RogelioPumajulca/TEST-CVE-2023-32233 | | 
 | 20240204T01:46:19Z | CVE-2024-21893 | CVE-2024-21893: SSRF Vulnerability in Ivanti Connect Secure | https://github.com/h4x0r-dz/CVE-2024-21893.py | | 
 | 20240204T01:43:55Z | CVE-2024-0204 | GoAnywhere MFT | https://github.com/adminlove520/CVE-2024-0204 | | 
 | 20240204T01:21:30Z | CVE-2024-23897 | Null | https://github.com/WLXQqwer/Jenkins-CVE-2024-23897- | | 
