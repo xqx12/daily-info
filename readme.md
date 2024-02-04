@@ -41,7 +41,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240203T22:06:21Z | 🔓A curated list of modern Android exploitation conference talks. | https://github.com/actuator/Android-Security-Exploits-YouTube-Curriculum | 360 | 30| 
 | 20240203T21:37:19Z | PS4 , PS5 Jailbreak for all exploitable firmwares | https://github.com/GamerHack/GamerHack.github.io | 45 | 29| 
 | 20240203T11:09:45Z | Real-time detection and defense against malicious network activity and policy violations (exploits, port-scanners, advertising, telemetry, state surveillance, etc.) | https://github.com/ClarkFieseln/IPRadar2ForLinux | 0 | 0| 
 | 20240203T07:28:36Z | MultiDump is a post-exploitation tool for dumping and extracting LSASS memory discreetly. | https://github.com/Xre0uS/MultiDump | 8 | 1| 
