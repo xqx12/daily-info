@@ -55,6 +55,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240204T01:57:45Z | Video of a bio-inspired bipedal robot that exploits its mechanical properties to learn to walk without explicit control with only 2 minutes of ‘natural’ motor babbling (i.e., an exploration strategy that uses leg and task dynamics). | https://github.com/DarioUrbina/natural_babbling | 0 | 0| 
 | 20240204T01:50:54Z | 🔓A curated list of modern Android exploitation conference talks. | https://github.com/actuator/Android-Security-Exploits-YouTube-Curriculum | 360 | 30| 
 | 20240204T01:13:17Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5747 | 1105| 
 | 20240204T00:42:19Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-bi | 1 | 0| 
@@ -64,7 +65,6 @@
 | 20240204T00:38:40Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-gb | 1 | 0| 
 | 20240204T00:11:18Z | Chromecast with Google TV (4K) %sabrina% - Persistent Secure-Boot Bypass Exploit Chain | https://github.com/oddsolutions/sabrina-unlock | 7 | 3| 
 | 20240203T21:37:19Z | PS4 , PS5 Jailbreak for all exploitable firmwares | https://github.com/GamerHack/GamerHack.github.io | 45 | 29| 
-| 20240203T11:09:45Z | Real-time detection and defense against malicious network activity and policy violations (exploits, port-scanners, advertising, telemetry, state surveillance, etc.) | https://github.com/ClarkFieseln/IPRadar2ForLinux | 0 | 0| 
 
 
 # backdoor on Github 推荐
