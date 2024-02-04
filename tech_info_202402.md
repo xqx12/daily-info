@@ -25,6 +25,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240204T01:14:41Z | CVE-2024-23897 | Null | https://github.com/WLXQqwer/Jenkins-CVE-2024-23897- | | 
 | 20240203T23:55:11Z | CVE-2024-21893 | CVE-2024-21893: SSRF Vulnerability in Ivanti Connect Secure | https://github.com/h4x0r-dz/CVE-2024-21893.py | | 
 | 20240203T17:40:33Z | CVE-2024-21893 | CVE-2024-21893 to CVE-2024-21887 Exploit Toolkit | https://github.com/Chocapikk/CVE-2024-21893-to-CVE-2024-21887 | | 
 | 20240203T14:00:48Z | CVE-2023-4863 | Triggering the famous libweb 0day vuln with libfuzzer | https://github.com/Microsvuln/CVE-2023-4863 | | 
@@ -34,7 +35,6 @@
 | 20240203T02:37:57Z | CVE-2024-21626 | Null | https://github.com/Wall1e/CVE-2024-21626-POC | | 
 | 20240202T23:13:27Z | CVE-2024-23897 | CVE-2024-23897 jenkins arbitrary file read which leads to unauthenticated RCE | https://github.com/brijne/CVE-2024-23897-RCE | | 
 | 20240202T15:28:21Z | CVE-2024-21626 | CVE-2024-21626-poc-research-Reappearance-andtodo | https://github.com/cdxiaodong/CVE-2024-21626 | | 
-| 20240202T14:29:25Z | CVE-2022-37434 | Null | https://github.com/Trinadh465/external_zlib_CVE-2022-37434 | | 
 
 
 # klee on Github 推荐
@@ -55,13 +55,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240204T01:13:17Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5747 | 1104| 
 | 20240204T00:42:19Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-bi | 1 | 0| 
 | 20240204T00:41:37Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-bi | 1 | 0| 
 | 20240204T00:40:33Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEANSILENT-DOC-EXPLOIT-CLEAN-gb | 0 | 0| 
 | 20240204T00:39:24Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-gb | 1 | 0| 
 | 20240204T00:38:40Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-gb | 1 | 0| 
 | 20240204T00:11:18Z | Chromecast with Google TV (4K) %sabrina% - Persistent Secure-Boot Bypass Exploit Chain | https://github.com/oddsolutions/sabrina-unlock | 7 | 3| 
-| 20240203T16:43:27Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5746 | 1104| 
 | 20240203T11:09:45Z | Real-time detection and defense against malicious network activity and policy violations (exploits, port-scanners, advertising, telemetry, state surveillance, etc.) | https://github.com/ClarkFieseln/IPRadar2ForLinux | 0 | 0| 
 | 20240203T07:28:36Z | MultiDump is a post-exploitation tool for dumping and extracting LSASS memory discreetly. | https://github.com/Xre0uS/MultiDump | 8 | 1| 
 | 20240203T00:55:03Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-fr | 1 | 0| 
