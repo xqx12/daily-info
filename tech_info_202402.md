@@ -25,7 +25,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240204T01:14:41Z | CVE-2024-23897 | Null | https://github.com/WLXQqwer/Jenkins-CVE-2024-23897- | | 
+| 20240204T01:21:30Z | CVE-2024-23897 | Null | https://github.com/WLXQqwer/Jenkins-CVE-2024-23897- | | 
 | 20240203T23:55:11Z | CVE-2024-21893 | CVE-2024-21893: SSRF Vulnerability in Ivanti Connect Secure | https://github.com/h4x0r-dz/CVE-2024-21893.py | | 
 | 20240203T17:40:33Z | CVE-2024-21893 | CVE-2024-21893 to CVE-2024-21887 Exploit Toolkit | https://github.com/Chocapikk/CVE-2024-21893-to-CVE-2024-21887 | | 
 | 20240203T14:00:48Z | CVE-2023-4863 | Triggering the famous libweb 0day vuln with libfuzzer | https://github.com/Microsvuln/CVE-2023-4863 | | 
@@ -55,7 +55,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240204T01:13:17Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5747 | 1104| 
+| 20240204T01:13:17Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5747 | 1105| 
 | 20240204T00:42:19Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-bi | 1 | 0| 
 | 20240204T00:41:37Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-bi | 1 | 0| 
 | 20240204T00:40:33Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEANSILENT-DOC-EXPLOIT-CLEAN-gb | 0 | 0| 
