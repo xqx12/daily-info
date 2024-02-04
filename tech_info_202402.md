@@ -57,7 +57,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20240204T12:05:53Z | DWWA Command injection exploit | https://github.com/Suppressorx1/DVWA-Command-injection-exploit | 0 | 0| 
-| 20240204T11:46:30Z | Zero Exploitation Unified System for Entity Security: Cyber Resilience Controls Framework for Finance  | https://github.com/rogue0xbyte/zeus | 0 | 1| 
+| 20240204T11:46:30Z | Zero Exploitation Unified System for Entity Security: Cyber Resilience Controls Framework for Finance  | https://github.com/rogue0xbyte/zeus | 0 | 2| 
 | 20240204T08:39:31Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5748 | 1105| 
 | 20240204T02:30:58Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0079-app-K5iiV-exploit-state | 0 | 0| 
 | 20240204T02:17:44Z | Repository to work on our class project UMGC CMSC 495 Team Exploit | https://github.com/BitDevelopersLLC/myexploitscanner | 0 | 0| 
