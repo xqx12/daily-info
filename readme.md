@@ -79,12 +79,12 @@
 | 20240203T23:46:49Z | Null | https://github.com/skalvin/fuzz | 0 | 0| 
 | 20240203T23:33:38Z | Null | https://github.com/yakupov-timurmud/fuzzy-stream | 0 | 0| 
 | 20240203T23:16:21Z | Spring Boot application with Elasticsearch focusing on fuzzy queries | https://github.com/lucasruviaro/spring-elasticsearch-fuzzyquery | 0 | 0| 
-| 20240203T22:53:30Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51884 | 23537| 
 | 20240203T22:05:06Z | Null | https://github.com/erenhatipoglu/fuzzy-logic | 0 | 0| 
 | 20240203T21:01:30Z | Systems exploitation and fixes, along with AFL for fuzzing, lcov to measure coverage and Travis CI for regression testing | https://github.com/DianaZawislak/application-security-attacks-and-defenses | 0 | 0| 
 | 20240203T19:17:36Z | Null | https://github.com/jsoulier/vscode_fuzztext | 0 | 0| 
 | 20240203T13:20:17Z | Null | https://github.com/SWAR0K/fuzzy-lamp123 | 0 | 0| 
 | 20240203T12:56:43Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 5017 | 1195| 
+| 20240203T12:28:58Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4410 | 918| 
 
 
 
