@@ -70,6 +70,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240204T01:08:33Z | C2 extensible for post-explotation and remote control | https://github.com/aniko33/Unicorn | 3 | 1| 
 | 20240203T14:02:47Z | Simple Python Backdoor | https://github.com/henry-jacq/socket-snippets | 0 | 0| 
 | 20240203T13:47:56Z | Simple Backdoor for fivem | https://github.com/Lip1337/fivem_backdoor | 0 | 0| 
 | 20240203T09:07:19Z | An automation to monitor if backdoors/default settings are still active on the compromised machines over time.  | https://github.com/Drakiat/RedTeam-Checker | 1 | 1| 
@@ -79,7 +80,6 @@
 | 20240202T10:04:17Z | Null | https://github.com/incoggeek/backdoor | 0 | 0| 
 | 20240201T20:07:52Z | Backdoor Using PHP files | https://github.com/irfanprayoga29/awshitprot | 0 | 0| 
 | 20240201T16:37:15Z | Backdoor Program made in the batch programming language | https://github.com/gato001k1/Batchdoor | 1 | 0| 
-| 20240201T09:40:46Z | whitelist for backdoor in roblox | https://github.com/BakeTheLuaScripter/whitelist | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -101,7 +101,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240204T01:04:40Z | Clothes store FOR Hmmh  | https://github.com/Zakaria-Sirwan/Fuzzy | 0 | 0| 
+| 20240204T01:08:18Z | Clothes store FOR Hmmh  | https://github.com/Zakaria-Sirwan/Fuzzy | 0 | 0| 
 | 20240204T00:51:01Z | Null | https://github.com/thehoovman1969/fuzzy-moon | 0 | 0| 
 | 20240204T00:21:25Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5156 | 557| 
 | 20240203T23:47:09Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9384 | 2106| 
