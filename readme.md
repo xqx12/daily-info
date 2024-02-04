@@ -19,8 +19,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240204T13:56:07Z | CVE-2024-21893 | CVE-2024-21893: SSRF Vulnerability in Ivanti Connect Secure | https://github.com/h4x0r-dz/CVE-2024-21893.py | | 
 | 20240204T12:28:16Z | CVE-2024-21893 | CVE-2024-21893 to CVE-2024-21887 Exploit Toolkit | https://github.com/Chocapikk/CVE-2024-21893-to-CVE-2024-21887 | | 
-| 20240204T10:55:08Z | CVE-2024-21893 | CVE-2024-21893: SSRF Vulnerability in Ivanti Connect Secure | https://github.com/h4x0r-dz/CVE-2024-21893.py | | 
 | 20240204T09:36:57Z | CVE-2020-14882 | Null | https://github.com/xMr110/CVE-2020-14882 | | 
 | 20240204T08:35:43Z | CVE-2024-23208 | Null | https://github.com/hrtowii/CVE-2024-23208-test | | 
 | 20240204T02:26:32Z | CVE-2023-32233 | CVE-2023-32233 | https://github.com/RogelioPumajulca/TEST-CVE-2023-32233 | | 
