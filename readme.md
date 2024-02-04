@@ -78,6 +78,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240204T13:26:09Z | Welcome to Hoyt%s macOS Fuzzing & Code Repo. Contribute Code or Open an Issue or Discussion. | https://github.com/xsscx/macos-research | 19 | 0| 
 | 20240204T12:48:09Z | Null | https://github.com/vasa-68nia/fuzzy-sweater | 0 | 0| 
 | 20240204T12:31:25Z | A fuzzy, lazy loading emoji picker. | https://github.com/aziznal/nextjs-fuzzy-lazy-loading-emoji-picker | 0 | 0| 
 | 20240204T11:32:36Z | MATLAB code for the research paper titled %Semi-Supervised Fuzzily Weighted Adaptive Boosting for Classification%. | https://github.com/Gu-X/Semi-Supervised-Fuzzily-Weighted-Adaptive-Boosting-for-Classification | 0 | 0| 
@@ -87,7 +88,6 @@
 | 20240204T01:41:09Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51885 | 23538| 
 | 20240204T01:30:12Z | Null | https://github.com/tunnel4reals/fuzzy-moon | 0 | 0| 
 | 20240204T01:08:18Z | Clothes store FOR Hmmh  | https://github.com/Zakaria-Sirwan/Fuzzy | 0 | 0| 
-| 20240204T00:51:01Z | Null | https://github.com/thehoovman1969/fuzzy-moon | 0 | 0| 
 
 
 
