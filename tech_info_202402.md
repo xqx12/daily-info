@@ -25,6 +25,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240204T02:24:35Z | CVE-2023-32233 | CVE-2023-32233 | https://github.com/RogelioPumajulca/TEST-CVE-2023-32233 | | 
 | 20240204T01:46:19Z | CVE-2024-21893 | CVE-2024-21893: SSRF Vulnerability in Ivanti Connect Secure | https://github.com/h4x0r-dz/CVE-2024-21893.py | | 
 | 20240204T01:43:55Z | CVE-2024-0204 | GoAnywhere MFT | https://github.com/adminlove520/CVE-2024-0204 | | 
 | 20240204T01:21:30Z | CVE-2024-23897 | Null | https://github.com/WLXQqwer/Jenkins-CVE-2024-23897- | | 
@@ -34,7 +35,6 @@
 | 20240203T06:02:46Z | CVE-2023-40459 | PoC of CVE-2023-40459 (DoS on ACEmanager) | https://github.com/majidmc2/CVE-2023-40459 | | 
 | 20240203T02:48:21Z | CVE-2024-20931 | The Poc for CVE-2024-20931 | https://github.com/GlassyAmadeus/CVE-2024-20931 | | 
 | 20240203T02:37:57Z | CVE-2024-21626 | Null | https://github.com/Wall1e/CVE-2024-21626-POC | | 
-| 20240202T23:13:27Z | CVE-2024-23897 | CVE-2024-23897 jenkins arbitrary file read which leads to unauthenticated RCE | https://github.com/brijne/CVE-2024-23897-RCE | | 
 
 
 # klee on Github 推荐
