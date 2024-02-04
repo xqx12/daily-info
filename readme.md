@@ -62,7 +62,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240203T20:40:03Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 220 | 21| 
+| 20240203T20:40:03Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 220 | 22| 
 | 20240203T01:46:05Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 506 | 44| 
 
 
