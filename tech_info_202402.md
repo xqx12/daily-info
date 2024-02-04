@@ -25,7 +25,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240204T01:40:46Z | CVE-2024-0204 | GoAnywhere MFT | https://github.com/adminlove520/CVE-2024-0204 | | 
+| 20240204T01:43:55Z | CVE-2024-0204 | GoAnywhere MFT | https://github.com/adminlove520/CVE-2024-0204 | | 
 | 20240204T01:21:30Z | CVE-2024-23897 | Null | https://github.com/WLXQqwer/Jenkins-CVE-2024-23897- | | 
 | 20240203T23:55:11Z | CVE-2024-21893 | CVE-2024-21893: SSRF Vulnerability in Ivanti Connect Secure | https://github.com/h4x0r-dz/CVE-2024-21893.py | | 
 | 20240203T17:40:33Z | CVE-2024-21893 | CVE-2024-21893 to CVE-2024-21887 Exploit Toolkit | https://github.com/Chocapikk/CVE-2024-21893-to-CVE-2024-21887 | | 
@@ -62,9 +62,9 @@
 | 20240204T00:39:24Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-gb | 1 | 0| 
 | 20240204T00:38:40Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-gb | 1 | 0| 
 | 20240204T00:11:18Z | Chromecast with Google TV (4K) %sabrina% - Persistent Secure-Boot Bypass Exploit Chain | https://github.com/oddsolutions/sabrina-unlock | 7 | 3| 
+| 20240203T21:37:19Z | PS4 , PS5 Jailbreak for all exploitable firmwares | https://github.com/GamerHack/GamerHack.github.io | 45 | 29| 
 | 20240203T11:09:45Z | Real-time detection and defense against malicious network activity and policy violations (exploits, port-scanners, advertising, telemetry, state surveillance, etc.) | https://github.com/ClarkFieseln/IPRadar2ForLinux | 0 | 0| 
 | 20240203T07:28:36Z | MultiDump is a post-exploitation tool for dumping and extracting LSASS memory discreetly. | https://github.com/Xre0uS/MultiDump | 8 | 1| 
-| 20240203T00:55:03Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-fr | 1 | 0| 
 
 
 # backdoor on Github 推荐
