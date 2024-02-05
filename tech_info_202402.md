@@ -41,7 +41,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240205T01:32:00Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15178 | 453| 
+| 20240205T02:26:37Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15179 | 453| 
 | 20240204T17:18:40Z | 基於 Klee One 改造的字型，以傳承字形風格為主。 | https://github.com/Ayaginu-Sue/Astalia | 13 | 0| 
 | 20240203T11:15:01Z | Null | https://github.com/geregrassi12/klee-games | 1 | 0| 
 | 20240203T07:44:39Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 107 | 22| 
@@ -57,6 +57,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240205T02:26:28Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0070-app-J4Rz_-argue-exploit | 0 | 0| 
+| 20240205T02:26:02Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0044-app-jX8JQ-land-exploit | 0 | 0| 
 | 20240205T01:11:43Z | IOS screentime remover using the KFD exploit (WIP) | https://github.com/cintagram/ScreenTimeRemover | 2 | 0| 
 | 20240205T01:05:51Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0028-app-zEy3f-react-exploit | 0 | 0| 
 | 20240205T00:37:49Z | A bookmarklet menu/client with bookmarklet hacks, exploits, games, scripts, and proxies. Unblocked, all in one place. | https://github.com/car-axle-client/car-axle-client | 44 | 38| 
@@ -65,8 +67,6 @@
 | 20240205T00:15:10Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-hg | 1 | 0| 
 | 20240205T00:14:28Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-hg | 1 | 0| 
 | 20240204T15:31:19Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 788 | 186| 
-| 20240204T15:29:07Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5749 | 1105| 
-| 20240204T13:54:20Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 184 | 15| 
 
 
 # backdoor on Github 推荐
