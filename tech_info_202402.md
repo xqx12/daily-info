@@ -111,7 +111,7 @@
 | 20240205T10:16:44Z | A multi-fuzzer management utility for all of your Rust fuzzing needs 🧑‍🎤 | https://github.com/srlabs/ziggy | 46 | 6| 
 | 20240205T09:17:55Z | Step by step | https://github.com/TroC007/fuzzy-enigma | 0 | 0| 
 | 20240205T08:53:37Z | Testing the performance of various algorithms for fast computation of conjunction and supports of fuzzy sets | https://github.com/beerda/fuzzychains | 0 | 0| 
-| 20240205T02:53:41Z | Welcome to Hoyt%s macOS Fuzzing & Code Repo. Contribute Code or Open an Issue or Discussion. | https://github.com/xsscx/macos-research | 24 | 1| 
+| 20240205T06:35:44Z | Welcome to Hoyt%s macOS Fuzzing & Code Repo. Contribute Code or Open an Issue or Discussion. | https://github.com/xsscx/macos-research | 27 | 1| 
 | 20240205T02:42:29Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1911 | 335| 
 | 20240205T02:36:49Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 293 | 14| 
 
