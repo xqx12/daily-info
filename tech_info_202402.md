@@ -57,6 +57,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240205T01:11:43Z | IOS screentime remover using the KFD exploit (WIP) | https://github.com/cintagram/ScreenTimeRemover | 2 | 0| 
+| 20240205T01:05:51Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0028-app-zEy3f-react-exploit | 0 | 0| 
 | 20240205T00:37:49Z | A bookmarklet menu/client with bookmarklet hacks, exploits, games, scripts, and proxies. Unblocked, all in one place. | https://github.com/car-axle-client/car-axle-client | 44 | 38| 
 | 20240205T00:16:30Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-hg | 1 | 0| 
 | 20240205T00:15:57Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-hg | 1 | 0| 
@@ -65,8 +67,6 @@
 | 20240204T15:31:19Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 788 | 186| 
 | 20240204T15:29:07Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5749 | 1105| 
 | 20240204T13:54:20Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 184 | 15| 
-| 20240204T12:05:53Z | DWWA Command injection exploit | https://github.com/Suppressorx1/DVWA-Command-injection-exploit | 0 | 0| 
-| 20240204T11:46:30Z | Zero Exploitation Unified System for Entity Security: Cyber Resilience Controls Framework for Finance  | https://github.com/rogue0xbyte/zeus | 0 | 2| 
 
 
 # backdoor on Github 推荐

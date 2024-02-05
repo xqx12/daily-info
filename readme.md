@@ -51,11 +51,11 @@
 | 20240204T13:54:20Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 184 | 15| 
 | 20240204T12:05:53Z | DWWA Command injection exploit | https://github.com/Suppressorx1/DVWA-Command-injection-exploit | 0 | 0| 
 | 20240204T11:46:30Z | Zero Exploitation Unified System for Entity Security: Cyber Resilience Controls Framework for Finance  | https://github.com/rogue0xbyte/zeus | 0 | 2| 
+| 20240204T11:00:50Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 252 | 20| 
 | 20240204T04:57:56Z | A collection of notes, artifacts, and exploits from various HackTheBox challenges. | https://github.com/RosePwns/HTB_Challenges | 1 | 0| 
 | 20240204T02:30:58Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0079-app-K5iiV-exploit-state | 0 | 0| 
 | 20240204T02:17:44Z | Repository to work on our class project UMGC CMSC 495 Team Exploit | https://github.com/BitDevelopersLLC/myexploitscanner | 0 | 0| 
 | 20240204T02:08:00Z | Video of a bio-inspired bipedal robot that exploits its mechanical properties to learn to walk without explicit control with only 2 minutes of ‘natural’ motor babbling (i.e., an exploration strategy that uses leg and task dynamics). | https://github.com/DarioUrbina/natural_babbling | 0 | 0| 
-| 20240204T01:50:54Z | 🔓A curated list of modern Android exploitation conference talks. | https://github.com/actuator/Android-Security-Exploits-YouTube-Curriculum | 360 | 30| 
 
 
 # backdoor on Github 推荐
