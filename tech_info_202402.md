@@ -72,6 +72,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240205T01:34:38Z | The best backdoor scanner there is. | https://github.com/k4scripts/backdoor.exe | 39 | 32| 
 | 20240205T00:46:26Z | An automation to monitor if backdoors/default settings are still active on the compromised machines over time.  | https://github.com/Drakiat/RedTeam-Checker | 20 | 3| 
 | 20240204T19:40:33Z | Americum backdoor plugin and the auth backend | https://github.com/Epik123/americium-and-americum-backend | 0 | 0| 
 | 20240204T17:24:38Z | Ce projet est un module kernel pour Linux qui permet de changer les privilèges d%un processus ou de son parent en fonction d%un mot de passe secret. Il s%agit d%un exercice de manipulation des modules kernel et du noyau Linux, et non d%un outil malveillant. | https://github.com/griisemine/becomeRoot | 0 | 0| 
@@ -81,7 +82,6 @@
 | 20240204T12:42:44Z | Promotor Login , http://tunes.herobuxx.me/backdoor/ | https://github.com/thetunes/backdoor | 0 | 0| 
 | 20240204T11:38:17Z | A Study on Transfer Learning-Based Investigation of Backdoor Attack Vulnerabilities in 3D Point Cloud Classifiers | https://github.com/parkie0517/Transfer-Learning-Based-Backdoor-Attack-Vulnerabilities-in-3D-Point-Cloud-Classifiers | 0 | 0| 
 | 20240204T01:08:33Z | C2 extensible for post-explotation and remote control | https://github.com/aniko33/Unicorn | 3 | 1| 
-| 20240203T14:02:47Z | Simple Python Backdoor | https://github.com/henry-jacq/socket-snippets | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
