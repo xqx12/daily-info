@@ -104,9 +104,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240205T01:17:51Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51905 | 23539| 
+| 20240205T01:35:11Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 285 | 14| 
+| 20240205T01:33:08Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51906 | 23539| 
 | 20240205T00:51:43Z | Welcome to Hoyt%s macOS Fuzzing & Code Repo. Contribute Code or Open an Issue or Discussion. | https://github.com/xsscx/macos-research | 22 | 1| 
-| 20240205T00:45:07Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 284 | 14| 
 | 20240204T23:25:26Z | MetaFuzzies Portfolio | https://github.com/Nice-Take/metaFuzzies | 0 | 0| 
 | 20240204T23:19:11Z | Hello huciBubi l thinks l sweet grill  | https://github.com/huclBubl1989/fuzzy-journey | 1 | 0| 
 | 20240204T23:04:48Z | Differential testing and fuzzing of HTTP servers and proxies | https://github.com/narfindustries/http-garden | 19 | 2| 
