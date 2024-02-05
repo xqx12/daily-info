@@ -34,7 +34,6 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240204T18:13:00Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15178 | 453| 
 | 20240204T17:18:40Z | 基於 Klee One 改造的字型，以傳承字形風格為主。 | https://github.com/Ayaginu-Sue/Astalia | 13 | 0| 
 
 
@@ -87,7 +86,6 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240204T23:57:21Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51907 | 23539| 
 | 20240204T23:25:26Z | MetaFuzzies Portfolio | https://github.com/Nice-Take/metaFuzzies | 0 | 0| 
 | 20240204T23:19:11Z | Hello huciBubi l thinks l sweet grill  | https://github.com/huclBubl1989/fuzzy-journey | 1 | 0| 
 | 20240204T23:04:48Z | Differential testing and fuzzing of HTTP servers and proxies | https://github.com/narfindustries/http-garden | 19 | 2| 
@@ -97,6 +95,7 @@
 | 20240204T11:32:36Z | MATLAB code for the research paper titled %Semi-Supervised Fuzzily Weighted Adaptive Boosting for Classification%. | https://github.com/Gu-X/Semi-Supervised-Fuzzily-Weighted-Adaptive-Boosting-for-Classification | 0 | 0| 
 | 20240204T11:24:15Z | MATLAB code for the research paper titled %Multilayer Evolving Fuzzy Neural Networks%. | https://github.com/Gu-X/Multilayer-Evolving-Fuzzy-Neural-Networks | 0 | 0| 
 | 20240204T08:28:04Z | Null | https://github.com/psycoplankton/Fuzzy-Representation-Learning | 0 | 0| 
+| 20240204T07:42:06Z | Null | https://github.com/tatasm666lens/fuzzy-stream | 0 | 0| 
 
 
 
