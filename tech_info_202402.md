@@ -87,7 +87,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240204T18:50:40Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 507 | 44| 
+| 20240205T01:18:47Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 506 | 44| 
 | 20240204T10:07:08Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 222 | 22| 
 | 20240202T16:15:54Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2406 | 652| 
 | 20240202T12:41:38Z | A symbolic execution engine for EVM smart contract binaries | https://github.com/ucsb-seclab/greed | 22 | 1| 
