@@ -57,16 +57,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240205T13:57:02Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5752 | 1106| 
 | 20240205T13:47:53Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 790 | 186| 
-| 20240205T13:47:44Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5751 | 1106| 
+| 20240205T13:20:07Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 4222 | 810| 
 | 20240205T12:07:01Z | Null | https://github.com/thanapoom-won/visual-exploit | 0 | 0| 
+| 20240205T10:42:48Z | 一款Jenkins的综合漏洞利用工具 | https://github.com/TheBeastofwar/JenkinsExploit-GUI | 138 | 11| 
 | 20240205T09:15:11Z | A collection of ChromeOS exploits free for the public | https://github.com/3kh0/ext-remover | 326 | 341| 
 | 20240205T08:43:43Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 90 | 13| 
 | 20240205T02:26:28Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0070-app-J4Rz_-argue-exploit | 0 | 0| 
 | 20240205T02:26:02Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0044-app-jX8JQ-land-exploit | 0 | 0| 
 | 20240205T01:11:43Z | IOS screentime remover using the KFD exploit (WIP) | https://github.com/cintagram/ScreenTimeRemover | 2 | 0| 
-| 20240205T01:05:51Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0028-app-zEy3f-react-exploit | 0 | 0| 
-| 20240205T00:37:49Z | A bookmarklet menu/client with bookmarklet hacks, exploits, games, scripts, and proxies. Unblocked, all in one place. | https://github.com/car-axle-client/car-axle-client | 44 | 38| 
 
 
 # backdoor on Github 推荐
