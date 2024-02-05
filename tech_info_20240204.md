@@ -20,7 +20,6 @@
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
 | 20240204T21:57:08Z | CVE-2024-21626 | PoC and Detection for CVE-2024-21626 | https://github.com/NitroCao/CVE-2024-21626 | | 
-| 20240204T19:00:38Z | CVE-2021-4034 | Null | https://github.com/wechicken456/CVE-2021-4034-writeup | | 
 | 20240204T18:32:49Z | CVE-2024-23897 | PoC for Jenkins CVE-2024-23897 | https://github.com/AbraXa5/Jenkins-CVE-2024-23897 | | 
 | 20240204T17:50:30Z | CVE-2022-38694 | This is a one-time signature verification bypass. For persistent signature verification bypass, check https://github.com/TomKing062/CVE-2022-38691_38692 | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20240204T15:17:11Z | CVE-2024-21893 | CVE-2024-21893: SSRF Vulnerability in Ivanti Connect Secure | https://github.com/h4x0r-dz/CVE-2024-21893.py | | 
