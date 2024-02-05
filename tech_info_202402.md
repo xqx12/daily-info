@@ -104,6 +104,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240205T13:19:09Z | Null | https://github.com/scab24/FV-FUZZ | 0 | 0| 
 | 20240205T12:23:07Z | Null | https://github.com/vladkontakt18/fuzzy-sweater | 0 | 0| 
 | 20240205T12:01:06Z | Null | https://github.com/workNearn/fuzzy-moon | 0 | 0| 
 | 20240205T11:42:03Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9397 | 2111| 
@@ -113,7 +114,6 @@
 | 20240205T08:53:37Z | Testing the performance of various algorithms for fast computation of conjunction and supports of fuzzy sets | https://github.com/beerda/fuzzychains | 0 | 0| 
 | 20240205T06:35:44Z | Welcome to Hoyt%s macOS Fuzzing & Code Repo. Contribute Code or Open an Issue or Discussion. | https://github.com/xsscx/macos-research | 27 | 1| 
 | 20240205T02:42:29Z | A fork and successor of the Sulley Fuzzing Framework | https://github.com/jtpereyda/boofuzz | 1911 | 335| 
-| 20240205T02:36:49Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 293 | 14| 
 
 
 
