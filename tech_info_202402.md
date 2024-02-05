@@ -104,9 +104,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240205T02:30:28Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 290 | 14| 
 | 20240205T02:18:16Z | Null | https://github.com/GeuseWei/Doom-Fuzzing-Battle | 0 | 0| 
 | 20240205T02:14:58Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51906 | 23539| 
-| 20240205T01:45:00Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 289 | 14| 
 | 20240205T00:51:43Z | Welcome to Hoyt%s macOS Fuzzing & Code Repo. Contribute Code or Open an Issue or Discussion. | https://github.com/xsscx/macos-research | 22 | 1| 
 | 20240204T23:25:26Z | MetaFuzzies Portfolio | https://github.com/Nice-Take/metaFuzzies | 0 | 0| 
 | 20240204T23:19:11Z | Hello huciBubi l thinks l sweet grill  | https://github.com/huclBubl1989/fuzzy-journey | 1 | 0| 
