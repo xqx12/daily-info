@@ -26,8 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240205T02:44:10Z | CVE-2024-23208 | Null | https://github.com/hrtowii/CVE-2024-23208-test | | 
 | 20240205T02:36:42Z | CVE-2021-4034 | Null | https://github.com/wechicken456/CVE-2021-4034-writeup | | 
-| 20240205T02:11:50Z | CVE-2024-23208 | Null | https://github.com/hrtowii/CVE-2024-23208-test | | 
 | 20240204T21:57:08Z | CVE-2024-21626 | PoC and Detection for CVE-2024-21626 | https://github.com/NitroCao/CVE-2024-21626 | | 
 | 20240204T18:32:49Z | CVE-2024-23897 | PoC for Jenkins CVE-2024-23897 | https://github.com/AbraXa5/Jenkins-CVE-2024-23897 | | 
 | 20240204T17:50:30Z | CVE-2022-38694 | This is a one-time signature verification bypass. For persistent signature verification bypass, check https://github.com/TomKing062/CVE-2022-38691_38692 | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
