@@ -111,6 +111,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240206T13:47:01Z | Some task implementations from Data Structures and Algorithms course | https://github.com/Stillah/fuzzy-goggles | 0 | 0| 
 | 20240206T13:30:47Z | Null | https://github.com/umarovaibekplor/fuzzy-moon | 0 | 0| 
 | 20240206T13:25:51Z | Null | https://github.com/GianfrancoBazzani/Trail-Of-Bits-how-to-fuzz-like-a-pro | 0 | 0| 
 | 20240206T13:25:07Z | Null | https://github.com/GianfrancoBazzani/Trail-Of-Bits-how-to-fuzz-like-a-pro-homework | 0 | 0| 
@@ -120,7 +121,6 @@
 | 20240206T12:43:57Z | minimalist fuzzy finder in shell | https://github.com/yazgoo/fuzzysh | 0 | 0| 
 | 20240206T12:30:17Z | Null | https://github.com/tme4mllr/fuzzy-moon | 0 | 0| 
 | 20240206T11:31:19Z | Null | https://github.com/sepffuzzball/fuzzlab-cluster | 0 | 0| 
-| 20240206T10:55:38Z | PluralSight demo repository | https://github.com/marcodimaio/fuzzy-spoon | 0 | 0| 
 
 
 
