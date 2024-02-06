@@ -60,6 +60,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240206T13:30:24Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 495 | 34| 
 | 20240206T07:32:18Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 509 | 44| 
 
 
