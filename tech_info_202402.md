@@ -60,6 +60,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240206T02:17:59Z | GitOps Repository | https://github.com/pmacik-testing/max-poc-0075-0043-app-ydCJd-express-exploit | 0 | 0| 
 | 20240206T02:05:43Z | GitOps Repository | https://github.com/redhat-appstudio-qe/byoc-app-hocc-TRGQC-should-exploit | 0 | 0| 
 | 20240206T01:24:47Z | Exploiting Tiktok%s server PNG upload | https://github.com/ketphan02/Tiktok-Server-HLS-Streaming | 0 | 0| 
 | 20240206T01:23:52Z | GitOps Repository | https://github.com/pmacik-testing/max-poc-0075-0001-app-htASQ-look-exploit | 0 | 0| 
@@ -69,7 +70,6 @@
 | 20240206T00:41:28Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-bt | 1 | 0| 
 | 20240206T00:40:42Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-bt | 1 | 0| 
 | 20240206T00:40:10Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-bt | 1 | 0| 
-| 20240206T00:12:29Z | Mirai, Qbot, Exploits | https://github.com/l33t1/Mirai-1337 | 0 | 0| 
 
 
 # backdoor on Github 推荐
