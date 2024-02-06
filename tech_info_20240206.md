@@ -38,6 +38,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240206T13:27:24Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-8h5aW-establish-exploit | 0 | 0| 
 | 20240206T12:45:16Z | G-Tomo (Galactic Tomography) app for exploitation of 3d dust extinction in the local galaxy. Extraction of 1d profiles and 2d maps (slices) | https://github.com/explore-platform/g-tomo | 0 | 0| 
 | 20240206T04:48:11Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5754 | 1106| 
 | 20240206T03:08:06Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 92 | 14| 
@@ -47,7 +48,6 @@
 | 20240206T01:51:31Z | Collection of exploits for loading bots to mirai/qbot botnets | https://github.com/IceBearCDev/Mirai-Qbot-Exploits | 0 | 0| 
 | 20240206T01:24:47Z | Exploiting Tiktok%s server PNG upload | https://github.com/ketphan02/Tiktok-Server-HLS-Streaming | 0 | 0| 
 | 20240206T01:23:52Z | GitOps Repository | https://github.com/pmacik-testing/max-poc-0075-0001-app-htASQ-look-exploit | 0 | 0| 
-| 20240206T01:02:59Z | The Anti-Exploitation Creative License (AECL) is a creative license for people who are sick of being exploited. | https://github.com/SparkliTwizzl/anti-exploitation-creative-license | 0 | 0| 
 
 
 # backdoor on Github 推荐
