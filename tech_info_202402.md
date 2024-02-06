@@ -26,10 +26,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240206T01:22:37Z | CVE-2024-21626 | Null | https://github.com/V0WKeep3r/CVE-2024-21626-runcPOC | | 
 | 20240205T21:15:51Z | CVE-2024-1208 | Sensitive Information Exposure via API in LearnDash. | https://github.com/karlemilnikka/CVE-2024-1208-and-CVE-2024-1210 | | 
 | 20240205T21:05:03Z | 未知编号 | Null | https://github.com/JayBeale/cve-202421626 | | 
 | 20240205T18:52:59Z | CVE-2024-1209 | Sensitive Information Exposure via assignments in LearnDash.  | https://github.com/karlemilnikka/CVE-2024-1209 | | 
-| 20240205T17:52:30Z | CVE-2024-21626 | Null | https://github.com/V0WKeep3r/CVE-2024-21626-runcPOC | | 
 | 20240205T14:19:50Z | CVE-2024-23897 | Nuclei template for CVE-2024-23897 (Jenkins LFI Vulnerability) | https://github.com/kaanatmacaa/CVE-2024-23897 | | 
 | 20240205T10:59:03Z | CVE-2024-23774 | Null | https://github.com/Verrideo/CVE-2024-23774 | | 
 | 20240205T10:58:51Z | CVE-2024-23773 | Null | https://github.com/Verrideo/CVE-2024-23773 | | 
@@ -110,6 +110,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240206T01:20:23Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9400 | 2112| 
 | 20240206T01:19:17Z | Null | https://github.com/vasya068r/fuzzy-stream | 0 | 0| 
 | 20240206T01:14:26Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51923 | 23543| 
 | 20240206T00:32:57Z | Null | https://github.com/0x0MLT/FuZzURi | 0 | 0| 
@@ -119,7 +120,6 @@
 | 20240205T22:27:24Z | Null | https://github.com/vladimir-velizhanintact/fuzzy-sweater | 0 | 0| 
 | 20240205T19:39:06Z | Null | https://github.com/google/fuzztest | 542 | 48| 
 | 20240205T13:19:09Z | Null | https://github.com/scab24/FV-FUZZ | 0 | 0| 
-| 20240205T12:23:07Z | Null | https://github.com/vladkontakt18/fuzzy-sweater | 0 | 0| 
 
 
 

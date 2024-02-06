@@ -23,13 +23,13 @@
 | 20240205T21:15:51Z | CVE-2024-1208 | Sensitive Information Exposure via API in LearnDash. | https://github.com/karlemilnikka/CVE-2024-1208-and-CVE-2024-1210 | | 
 | 20240205T21:05:03Z | 未知编号 | Null | https://github.com/JayBeale/cve-202421626 | | 
 | 20240205T18:52:59Z | CVE-2024-1209 | Sensitive Information Exposure via assignments in LearnDash.  | https://github.com/karlemilnikka/CVE-2024-1209 | | 
-| 20240205T17:52:30Z | CVE-2024-21626 | Null | https://github.com/V0WKeep3r/CVE-2024-21626-runcPOC | | 
 | 20240205T14:19:50Z | CVE-2024-23897 | Nuclei template for CVE-2024-23897 (Jenkins LFI Vulnerability) | https://github.com/kaanatmacaa/CVE-2024-23897 | | 
 | 20240205T10:59:03Z | CVE-2024-23774 | Null | https://github.com/Verrideo/CVE-2024-23774 | | 
 | 20240205T10:58:51Z | CVE-2024-23773 | Null | https://github.com/Verrideo/CVE-2024-23773 | | 
 | 20240205T10:58:33Z | CVE-2024-23772 | Null | https://github.com/Verrideo/CVE-2024-23772 | | 
 | 20240205T09:45:06Z | CVE-2023-6875 | CVE-2023-6875 exploit written for Xakep.Ru | https://github.com/hatlesswizard/CVE-2023-6875 | | 
 | 20240205T09:15:17Z | CVE-2024-24398 | Null | https://github.com/trustcves/CVE-2024-24398 | | 
+| 20240205T09:08:35Z | CVE-2024-24397 | Null | https://github.com/trustcves/CVE-2024-24397 | | 
 
 
 # klee on Github 推荐
@@ -95,9 +95,9 @@
 | 20240205T13:19:09Z | Null | https://github.com/scab24/FV-FUZZ | 0 | 0| 
 | 20240205T12:23:07Z | Null | https://github.com/vladkontakt18/fuzzy-sweater | 0 | 0| 
 | 20240205T12:01:06Z | Null | https://github.com/workNearn/fuzzy-moon | 0 | 0| 
-| 20240205T11:42:03Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9397 | 2111| 
 | 20240205T10:42:15Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2476 | 315| 
 | 20240205T10:32:17Z | Null | https://github.com/izuomeng/fuzzy-system | 0 | 0| 
+| 20240205T10:16:44Z | A multi-fuzzer management utility for all of your Rust fuzzing needs 🧑‍🎤 | https://github.com/srlabs/ziggy | 46 | 6| 
 
 
 
