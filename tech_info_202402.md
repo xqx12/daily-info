@@ -60,6 +60,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240206T01:02:59Z | The Anti-Exploitation Creative License (AECL) is a creative license for people who are sick of being exploited. | https://github.com/SparkliTwizzl/anti-exploitation-creative-license | 0 | 0| 
 | 20240206T00:56:14Z | GitOps Repository | https://github.com/pmacik-testing/max-poc-0075-0059-app-whkcj-drink-exploit | 0 | 0| 
 | 20240206T00:42:17Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-bt | 1 | 0| 
 | 20240206T00:41:28Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-bt | 1 | 0| 
@@ -69,7 +70,6 @@
 | 20240205T23:37:40Z | psfree new exploit | https://github.com/ps4xploit900/beta | 0 | 0| 
 | 20240205T14:44:12Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5753 | 1106| 
 | 20240205T13:47:53Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 790 | 186| 
-| 20240205T13:20:07Z | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | 4222 | 810| 
 
 
 # backdoor on Github 推荐
