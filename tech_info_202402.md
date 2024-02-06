@@ -60,6 +60,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240206T02:44:23Z | Roblox exploiting isn%t possible so I made a lil som to make u feel like a hacker | https://github.com/Semailol/Fake-injector-roblox | 0 | 1| 
 | 20240206T02:27:50Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 91 | 14| 
 | 20240206T02:17:59Z | GitOps Repository | https://github.com/pmacik-testing/max-poc-0075-0043-app-ydCJd-express-exploit | 0 | 0| 
 | 20240206T02:05:43Z | GitOps Repository | https://github.com/redhat-appstudio-qe/byoc-app-hocc-TRGQC-should-exploit | 0 | 0| 
@@ -69,7 +70,6 @@
 | 20240206T00:56:14Z | GitOps Repository | https://github.com/pmacik-testing/max-poc-0075-0059-app-whkcj-drink-exploit | 0 | 0| 
 | 20240206T00:42:17Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-bt | 1 | 0| 
 | 20240206T00:41:28Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-bt | 1 | 0| 
-| 20240206T00:40:42Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-bt | 1 | 0| 
 
 
 # backdoor on Github 推荐
