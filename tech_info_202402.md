@@ -90,10 +90,10 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240206T07:32:18Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 509 | 44| 
 | 20240205T21:50:16Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 52 | 9| 
 | 20240205T16:29:37Z | Null | https://github.com/holdenbrown/Compression-of-Symbolic-Execution-Trees | 0 | 0| 
 | 20240205T15:00:22Z | A Guix channel for reproducible symbolic execution research | https://github.com/nmeum/guix-symex | 0 | 0| 
-| 20240205T05:03:26Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 508 | 44| 
 | 20240204T10:07:08Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 222 | 22| 
 | 20240202T16:15:54Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2406 | 652| 
 | 20240202T12:41:38Z | A symbolic execution engine for EVM smart contract binaries | https://github.com/ucsb-seclab/greed | 22 | 1| 
