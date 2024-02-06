@@ -23,13 +23,13 @@
 | 20240205T21:15:51Z | CVE-2024-1208 | Sensitive Information Exposure via API in LearnDash. | https://github.com/karlemilnikka/CVE-2024-1208-and-CVE-2024-1210 | | 
 | 20240205T21:05:03Z | 未知编号 | Null | https://github.com/JayBeale/cve-202421626 | | 
 | 20240205T18:52:59Z | CVE-2024-1209 | Sensitive Information Exposure via assignments in LearnDash.  | https://github.com/karlemilnikka/CVE-2024-1209 | | 
+| 20240205T15:53:16Z | CVE-2022-38694 | This is a one-time signature verification bypass. For persistent signature verification bypass, check https://github.com/TomKing062/CVE-2022-38691_38692 | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20240205T14:19:50Z | CVE-2024-23897 | Nuclei template for CVE-2024-23897 (Jenkins LFI Vulnerability) | https://github.com/kaanatmacaa/CVE-2024-23897 | | 
 | 20240205T10:59:03Z | CVE-2024-23774 | Null | https://github.com/Verrideo/CVE-2024-23774 | | 
 | 20240205T10:58:51Z | CVE-2024-23773 | Null | https://github.com/Verrideo/CVE-2024-23773 | | 
 | 20240205T10:58:33Z | CVE-2024-23772 | Null | https://github.com/Verrideo/CVE-2024-23772 | | 
 | 20240205T09:45:06Z | CVE-2023-6875 | CVE-2023-6875 exploit written for Xakep.Ru | https://github.com/hatlesswizard/CVE-2023-6875 | | 
 | 20240205T09:15:17Z | CVE-2024-24398 | Null | https://github.com/trustcves/CVE-2024-24398 | | 
-| 20240205T09:08:35Z | CVE-2024-24397 | Null | https://github.com/trustcves/CVE-2024-24397 | | 
 
 
 # klee on Github 推荐
