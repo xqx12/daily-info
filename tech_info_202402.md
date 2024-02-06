@@ -110,11 +110,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240206T02:20:06Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 353 | 21| 
 | 20240206T02:13:24Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51925 | 23544| 
 | 20240206T02:11:12Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9401 | 2112| 
 | 20240206T01:19:17Z | Null | https://github.com/vasya068r/fuzzy-stream | 0 | 0| 
 | 20240206T00:32:57Z | Null | https://github.com/0x0MLT/FuZzURi | 0 | 0| 
-| 20240206T00:32:28Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 352 | 21| 
 | 20240205T23:44:57Z | TCC sobre fuzzer - Teste de Software | https://github.com/juniordc15900/TCC-SoftwareTest | 0 | 0| 
 | 20240205T23:25:50Z | RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. | https://github.com/microsoft/restler-fuzzer | 2387 | 278| 
 | 20240205T22:27:24Z | Null | https://github.com/vladimir-velizhanintact/fuzzy-sweater | 0 | 0| 
