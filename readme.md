@@ -16,8 +16,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240206T13:10:34Z | CVE-2023-4427 | Null | https://github.com/tianstcht/CVE-2023-4427 | | 
 | 20240206T11:52:22Z | CVE-2024-23897 | Nuclei template for CVE-2024-23897 (Jenkins LFI Vulnerability) | https://github.com/kaanatmacaa/CVE-2024-23897 | | 
-| 20240206T11:11:07Z | CVE-2023-4427 | Null | https://github.com/tianstcht/CVE-2023-4427 | | 
 | 20240206T11:02:48Z | CVE-2020-11579 | Exploit code for CVE-2020-11579, an arbitrary file disclosure through the MySQL client in PHPKB | https://github.com/ShielderSec/CVE-2020-11579 | | 
 | 20240206T09:21:09Z | CVE-2024-20931 | Null | https://github.com/ATonysan/CVE-2024-20931_weblogic | | 
 | 20240206T06:35:07Z | CVE-2024-20931 | Null | https://github.com/Leocodefocus/CVE-2024-20931-Poc | | 
