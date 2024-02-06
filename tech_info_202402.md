@@ -41,8 +41,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240206T01:23:54Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15189 | 453| 
 | 20240205T19:57:37Z | Null | https://github.com/shafiuzzaman-md/edk2_klee | 0 | 0| 
-| 20240205T18:08:34Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15188 | 453| 
 | 20240205T15:00:22Z | A Guix channel for reproducible symbolic execution research | https://github.com/nmeum/guix-symex | 0 | 0| 
 | 20240204T17:18:40Z | 基於 Klee One 改造的字型，以傳承字形風格為主。 | https://github.com/Ayaginu-Sue/Astalia | 13 | 0| 
 | 20240203T11:15:01Z | Null | https://github.com/geregrassi12/klee-games | 1 | 0| 
@@ -60,6 +60,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240206T01:24:47Z | Exploiting Tiktok%s server PNG upload | https://github.com/ketphan02/Tiktok-Server-HLS-Streaming | 0 | 0| 
+| 20240206T01:23:52Z | GitOps Repository | https://github.com/pmacik-testing/max-poc-0075-0001-app-htASQ-look-exploit | 0 | 0| 
 | 20240206T01:02:59Z | The Anti-Exploitation Creative License (AECL) is a creative license for people who are sick of being exploited. | https://github.com/SparkliTwizzl/anti-exploitation-creative-license | 0 | 0| 
 | 20240206T00:56:14Z | GitOps Repository | https://github.com/pmacik-testing/max-poc-0075-0059-app-whkcj-drink-exploit | 0 | 0| 
 | 20240206T00:42:17Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-bt | 1 | 0| 
@@ -68,8 +70,6 @@
 | 20240206T00:40:10Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-bt | 1 | 0| 
 | 20240206T00:12:29Z | Mirai, Qbot, Exploits | https://github.com/l33t1/Mirai-1337 | 0 | 0| 
 | 20240205T23:37:40Z | psfree new exploit | https://github.com/ps4xploit900/beta | 0 | 0| 
-| 20240205T14:44:12Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5753 | 1106| 
-| 20240205T13:47:53Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 790 | 186| 
 
 
 # backdoor on Github 推荐
