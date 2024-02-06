@@ -111,7 +111,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240206T13:47:01Z | Some task implementations from Data Structures and Algorithms course | https://github.com/Stillah/fuzzy-goggles | 0 | 0| 
+| 20240206T13:52:34Z | Some task implementations from Data Structures and Algorithms course | https://github.com/Stillah/fuzzy-goggles | 0 | 0| 
 | 20240206T13:30:47Z | Null | https://github.com/umarovaibekplor/fuzzy-moon | 0 | 0| 
 | 20240206T13:25:51Z | Null | https://github.com/GianfrancoBazzani/Trail-Of-Bits-how-to-fuzz-like-a-pro | 0 | 0| 
 | 20240206T13:25:07Z | Null | https://github.com/GianfrancoBazzani/Trail-Of-Bits-how-to-fuzz-like-a-pro-homework | 0 | 0| 
