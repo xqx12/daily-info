@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240206T02:29:06Z | CVE-2023-4427 | Null | https://github.com/tianstcht/CVE-2023-4427 | | 
 | 20240206T01:22:37Z | CVE-2024-21626 | Null | https://github.com/V0WKeep3r/CVE-2024-21626-runcPOC | | 
 | 20240205T21:15:51Z | CVE-2024-1208 | Sensitive Information Exposure via API in LearnDash. | https://github.com/karlemilnikka/CVE-2024-1208-and-CVE-2024-1210 | | 
 | 20240205T21:05:03Z | 未知编号 | Null | https://github.com/JayBeale/cve-202421626 | | 
@@ -35,7 +36,6 @@
 | 20240205T10:59:03Z | CVE-2024-23774 | Null | https://github.com/Verrideo/CVE-2024-23774 | | 
 | 20240205T10:58:51Z | CVE-2024-23773 | Null | https://github.com/Verrideo/CVE-2024-23773 | | 
 | 20240205T10:58:33Z | CVE-2024-23772 | Null | https://github.com/Verrideo/CVE-2024-23772 | | 
-| 20240205T09:45:06Z | CVE-2023-6875 | CVE-2023-6875 exploit written for Xakep.Ru | https://github.com/hatlesswizard/CVE-2023-6875 | | 
 
 
 # klee on Github 推荐
@@ -60,6 +60,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240206T02:27:50Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 91 | 14| 
 | 20240206T02:17:59Z | GitOps Repository | https://github.com/pmacik-testing/max-poc-0075-0043-app-ydCJd-express-exploit | 0 | 0| 
 | 20240206T02:05:43Z | GitOps Repository | https://github.com/redhat-appstudio-qe/byoc-app-hocc-TRGQC-should-exploit | 0 | 0| 
 | 20240206T01:24:47Z | Exploiting Tiktok%s server PNG upload | https://github.com/ketphan02/Tiktok-Server-HLS-Streaming | 0 | 0| 
@@ -69,7 +70,6 @@
 | 20240206T00:42:17Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-bt | 1 | 0| 
 | 20240206T00:41:28Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-bt | 1 | 0| 
 | 20240206T00:40:42Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-bt | 1 | 0| 
-| 20240206T00:40:10Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-bt | 1 | 0| 
 
 
 # backdoor on Github 推荐

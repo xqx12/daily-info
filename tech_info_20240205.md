@@ -56,8 +56,8 @@
 | 20240205T12:07:01Z | Null | https://github.com/thanapoom-won/visual-exploit | 0 | 0| 
 | 20240205T10:42:48Z | 一款Jenkins的综合漏洞利用工具 | https://github.com/TheBeastofwar/JenkinsExploit-GUI | 138 | 11| 
 | 20240205T09:15:11Z | A collection of ChromeOS exploits free for the public | https://github.com/3kh0/ext-remover | 326 | 341| 
-| 20240205T08:43:43Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 90 | 14| 
 | 20240205T02:26:28Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0070-app-J4Rz_-argue-exploit | 0 | 0| 
+| 20240205T02:26:02Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0044-app-jX8JQ-land-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
