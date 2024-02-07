@@ -61,6 +61,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240207T02:51:20Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 11178 | 1689| 
 | 20240207T02:45:38Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0010-app-RJCcn-release-exploit | 0 | 0| 
 | 20240207T02:31:25Z | :exclamation: This is a read-only mirror of the CRAN R package repository.  tsdataleaks — Exploit Data Leakages in Time Series Forecasting Competitions. Homepage: https://github.com/thiyangt/tsdataleaks  Report bugs for this package: https://github.com/thiyangt/tsdataleaks/issues | https://github.com/cran/tsdataleaks | 0 | 0| 
 | 20240207T02:29:55Z | Null | https://github.com/Usama79/trustme_exploit | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20240207T01:11:27Z | Burp Suite Professional is a web security testing platform that provides a comprehensive set of tools for discovering, exploiting, and remediating security vulnerabilities in web applications. It is the world%s most popular web penetration testing toolkit, used by over 70,000 security professionals worldwide. | https://github.com/20MH1A04H9/Burpsuitepro | 0 | 0| 
 | 20240207T00:05:28Z | Null | https://github.com/B1naryo/Exploit | 0 | 0| 
 | 20240206T21:47:53Z | Each audit includes an audit report summarizing the findings and recommendations, as well as any relevant code, tests, and exploits. | https://github.com/LoadingALIAS/Audits | 0 | 0| 
-| 20240206T20:11:50Z | edited block page used on the exploit url | https://github.com/bypas-si/edit-block-page | 0 | 0| 
 
 
 # backdoor on Github 推荐
