@@ -62,6 +62,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240207T13:11:27Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-golang-nested-q90Tz-exclude-exploit | 0 | 0| 
 | 20240207T11:59:27Z | This Repository Is Dedicated To The TestNavWebExploit That Allows You To Visit Websites Unrestricted On A School Chromebook | https://github.com/ApplePieCodes/TestNavWebExploit | 1 | 0| 
 | 20240207T11:49:00Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6386 | 835| 
 | 20240207T11:42:13Z | Basic algos for implementation of machine learning. It contains exploiting various datasets and using different algorithms on those to make meaningful models  | https://github.com/sitaram077/ML-ALgos | 0 | 0| 
@@ -71,7 +72,6 @@
 | 20240207T02:51:20Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 11178 | 1689| 
 | 20240207T02:45:38Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0010-app-RJCcn-release-exploit | 0 | 0| 
 | 20240207T02:31:25Z | :exclamation: This is a read-only mirror of the CRAN R package repository.  tsdataleaks — Exploit Data Leakages in Time Series Forecasting Competitions. Homepage: https://github.com/thiyangt/tsdataleaks  Report bugs for this package: https://github.com/thiyangt/tsdataleaks/issues | https://github.com/cran/tsdataleaks | 0 | 0| 
-| 20240207T02:29:55Z | Null | https://github.com/Usama79/trustme_exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
