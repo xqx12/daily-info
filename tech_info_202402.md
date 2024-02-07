@@ -61,6 +61,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240207T02:45:38Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0010-app-RJCcn-release-exploit | 0 | 0| 
 | 20240207T02:31:25Z | :exclamation: This is a read-only mirror of the CRAN R package repository.  tsdataleaks — Exploit Data Leakages in Time Series Forecasting Competitions. Homepage: https://github.com/thiyangt/tsdataleaks  Report bugs for this package: https://github.com/thiyangt/tsdataleaks/issues | https://github.com/cran/tsdataleaks | 0 | 0| 
 | 20240207T02:29:55Z | Null | https://github.com/Usama79/trustme_exploit | 0 | 0| 
 | 20240207T02:29:07Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6383 | 835| 
@@ -70,7 +71,6 @@
 | 20240207T00:05:28Z | Null | https://github.com/B1naryo/Exploit | 0 | 0| 
 | 20240206T21:47:53Z | Each audit includes an audit report summarizing the findings and recommendations, as well as any relevant code, tests, and exploits. | https://github.com/LoadingALIAS/Audits | 0 | 0| 
 | 20240206T20:11:50Z | edited block page used on the exploit url | https://github.com/bypas-si/edit-block-page | 0 | 0| 
-| 20240206T17:34:42Z | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | 6708 | 1130| 
 
 
 # backdoor on Github 推荐
