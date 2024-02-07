@@ -43,6 +43,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240206T22:51:37Z | Introduction to the exploitation of (elf-like) binary | https://github.com/AndreIglesias/Rainfall | 0 | 0| 
 | 20240206T21:47:53Z | Each audit includes an audit report summarizing the findings and recommendations, as well as any relevant code, tests, and exploits. | https://github.com/LoadingALIAS/Audits | 0 | 0| 
 | 20240206T20:11:50Z | edited block page used on the exploit url | https://github.com/bypas-si/edit-block-page | 0 | 0| 
 | 20240206T17:34:42Z | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | 6708 | 1130| 
@@ -52,7 +53,6 @@
 | 20240206T13:27:24Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-8h5aW-establish-exploit | 0 | 0| 
 | 20240206T12:45:16Z | G-Tomo (Galactic Tomography) app for exploitation of 3d dust extinction in the local galaxy. Extraction of 1d profiles and 2d maps (slices) | https://github.com/explore-platform/g-tomo | 0 | 0| 
 | 20240206T08:33:31Z | The Anti-Exploitation License (AEL) is a license for people who are sick of their work being exploited or used to cause harm. | https://github.com/SparkliTwizzl/anti-exploitation-license | 0 | 0| 
-| 20240206T03:08:06Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 92 | 14| 
 
 
 # backdoor on Github 推荐

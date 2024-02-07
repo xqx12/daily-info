@@ -61,6 +61,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240207T02:58:32Z | Null | https://github.com/furious-tc/ExploitTool | 0 | 0| 
 | 20240207T02:53:58Z | GitOps Repository | https://github.com/pmacik-testing/max-poc-0075-0024-app-xqwzl-exploit-produce | 0 | 0| 
 | 20240207T02:51:20Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 11178 | 1689| 
 | 20240207T02:45:38Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0010-app-RJCcn-release-exploit | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20240207T01:32:19Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0003-app-Obw6I-exploit-realize | 0 | 0| 
 | 20240207T01:19:13Z | Sparsity exploitation via discovering graphical models in multi-variate time-series forecasting | https://github.com/HySonLab/GraphLASSO | 7 | 0| 
 | 20240207T01:11:27Z | Burp Suite Professional is a web security testing platform that provides a comprehensive set of tools for discovering, exploiting, and remediating security vulnerabilities in web applications. It is the world%s most popular web penetration testing toolkit, used by over 70,000 security professionals worldwide. | https://github.com/20MH1A04H9/Burpsuitepro | 0 | 0| 
-| 20240207T00:05:28Z | Null | https://github.com/B1naryo/Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -113,7 +113,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240207T02:38:20Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 451 | 50| 
+| 20240207T02:56:51Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 452 | 50| 
 | 20240207T02:06:30Z | Null | https://github.com/theu4eva/fuzzy-stream | 0 | 0| 
 | 20240207T01:54:18Z | A vst3 and au fuzz plugin for use in a DAW or other audio software. | https://github.com/mattanikiej/pandamonium-fuzz | 0 | 0| 
 | 20240207T01:45:07Z | Null | https://github.com/pasha-kyper/fuzzy-memory | 0 | 0| 
