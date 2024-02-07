@@ -76,7 +76,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240207T12:53:35Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 484 | 53| 
+| 20240207T13:11:21Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 485 | 53| 
 | 20240207T12:32:32Z |  Technique of finding strings that match a pattern approximately. | https://github.com/raphsenn/fuzzy-string-searching | 0 | 0| 
 | 20240207T12:27:56Z | Config files for my GitHub profile. | https://github.com/FuzzMC/FuzzMC | 0 | 0| 
 | 20240207T11:26:22Z | QR codes fuzzing toolkit for mobile apps | https://github.com/albertolazari/cns-project | 0 | 0| 
