@@ -113,7 +113,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240207T02:21:17Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 450 | 50| 
+| 20240207T02:38:20Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 451 | 50| 
 | 20240207T02:06:30Z | Null | https://github.com/theu4eva/fuzzy-stream | 0 | 0| 
 | 20240207T01:54:18Z | A vst3 and au fuzz plugin for use in a DAW or other audio software. | https://github.com/mattanikiej/pandamonium-fuzz | 0 | 0| 
 | 20240207T01:45:07Z | Null | https://github.com/pasha-kyper/fuzzy-memory | 0 | 0| 
