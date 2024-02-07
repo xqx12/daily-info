@@ -61,6 +61,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240207T02:31:25Z | :exclamation: This is a read-only mirror of the CRAN R package repository.  tsdataleaks — Exploit Data Leakages in Time Series Forecasting Competitions. Homepage: https://github.com/thiyangt/tsdataleaks  Report bugs for this package: https://github.com/thiyangt/tsdataleaks/issues | https://github.com/cran/tsdataleaks | 0 | 0| 
+| 20240207T02:29:55Z | Null | https://github.com/Usama79/trustme_exploit | 0 | 0| 
+| 20240207T02:29:07Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6383 | 835| 
 | 20240207T01:32:19Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0003-app-Obw6I-exploit-realize | 0 | 0| 
 | 20240207T01:19:13Z | Sparsity exploitation via discovering graphical models in multi-variate time-series forecasting | https://github.com/HySonLab/GraphLASSO | 7 | 0| 
 | 20240207T01:11:27Z | Burp Suite Professional is a web security testing platform that provides a comprehensive set of tools for discovering, exploiting, and remediating security vulnerabilities in web applications. It is the world%s most popular web penetration testing toolkit, used by over 70,000 security professionals worldwide. | https://github.com/20MH1A04H9/Burpsuitepro | 0 | 0| 
@@ -68,9 +71,6 @@
 | 20240206T21:47:53Z | Each audit includes an audit report summarizing the findings and recommendations, as well as any relevant code, tests, and exploits. | https://github.com/LoadingALIAS/Audits | 0 | 0| 
 | 20240206T20:11:50Z | edited block page used on the exploit url | https://github.com/bypas-si/edit-block-page | 0 | 0| 
 | 20240206T17:34:42Z | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | 6708 | 1130| 
-| 20240206T16:46:44Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5756 | 1106| 
-| 20240206T16:24:13Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 96 | 34| 
-| 20240206T13:38:09Z | Exploiting Mongo express and mongo db using k8s objects | https://github.com/Sud94arshan/kubernetes_project1 | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -106,8 +106,8 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240207T02:29:45Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 132 | 13| 
 | 20240204T12:53:36Z | (NDSS 2024) Optimizing Decompiler Output with LLM | https://github.com/PeiweiHu/DeGPT | 6 | 0| 
-| 20240203T22:38:39Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 131 | 13| 
 
 
 # fuzz on Github 推荐
