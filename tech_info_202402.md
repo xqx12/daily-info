@@ -61,6 +61,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240207T01:19:13Z | Sparsity exploitation via discovering graphical models in multi-variate time-series forecasting | https://github.com/HySonLab/GraphLASSO | 7 | 0| 
+| 20240207T01:11:27Z | Burp Suite Professional is a web security testing platform that provides a comprehensive set of tools for discovering, exploiting, and remediating security vulnerabilities in web applications. It is the world%s most popular web penetration testing toolkit, used by over 70,000 security professionals worldwide. | https://github.com/20MH1A04H9/Burpsuitepro | 0 | 0| 
 | 20240207T00:05:28Z | Null | https://github.com/B1naryo/Exploit | 0 | 0| 
 | 20240206T21:47:53Z | Each audit includes an audit report summarizing the findings and recommendations, as well as any relevant code, tests, and exploits. | https://github.com/LoadingALIAS/Audits | 0 | 0| 
 | 20240206T20:11:50Z | edited block page used on the exploit url | https://github.com/bypas-si/edit-block-page | 0 | 0| 
@@ -69,8 +71,6 @@
 | 20240206T16:24:13Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 96 | 34| 
 | 20240206T13:38:09Z | Exploiting Mongo express and mongo db using k8s objects | https://github.com/Sud94arshan/kubernetes_project1 | 0 | 0| 
 | 20240206T13:27:24Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-8h5aW-establish-exploit | 0 | 0| 
-| 20240206T12:45:16Z | G-Tomo (Galactic Tomography) app for exploitation of 3d dust extinction in the local galaxy. Extraction of 1d profiles and 2d maps (slices) | https://github.com/explore-platform/g-tomo | 0 | 0| 
-| 20240206T08:33:31Z | The Anti-Exploitation License (AEL) is a license for people who are sick of their work being exploited or used to cause harm. | https://github.com/SparkliTwizzl/anti-exploitation-license | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -113,7 +113,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240207T01:19:07Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 440 | 48| 
+| 20240207T01:21:05Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 441 | 48| 
 | 20240207T00:26:35Z | Null | https://github.com/hxu65/Mult-target-directed-fuzzing-main | 0 | 0| 
 | 20240206T23:34:32Z | minimalist selector in shell, inspired by fzf | https://github.com/yazgoo/fuzzysh | 0 | 0| 
 | 20240206T23:02:12Z | Null | https://github.com/Saad55555/fuzzy-wuzzy | 1 | 0| 
