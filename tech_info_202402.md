@@ -61,6 +61,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240207T01:32:19Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0003-app-Obw6I-exploit-realize | 0 | 0| 
 | 20240207T01:19:13Z | Sparsity exploitation via discovering graphical models in multi-variate time-series forecasting | https://github.com/HySonLab/GraphLASSO | 7 | 0| 
 | 20240207T01:11:27Z | Burp Suite Professional is a web security testing platform that provides a comprehensive set of tools for discovering, exploiting, and remediating security vulnerabilities in web applications. It is the world%s most popular web penetration testing toolkit, used by over 70,000 security professionals worldwide. | https://github.com/20MH1A04H9/Burpsuitepro | 0 | 0| 
 | 20240207T00:05:28Z | Null | https://github.com/B1naryo/Exploit | 0 | 0| 
@@ -70,7 +71,6 @@
 | 20240206T16:46:44Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5756 | 1106| 
 | 20240206T16:24:13Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 96 | 34| 
 | 20240206T13:38:09Z | Exploiting Mongo express and mongo db using k8s objects | https://github.com/Sud94arshan/kubernetes_project1 | 0 | 0| 
-| 20240206T13:27:24Z | GitOps Repository | https://github.com/redhat-appstudio-qe/appstudio-8h5aW-establish-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
