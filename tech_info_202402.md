@@ -113,6 +113,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240207T02:06:30Z | Null | https://github.com/theu4eva/fuzzy-stream | 0 | 0| 
 | 20240207T01:58:05Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 449 | 50| 
 | 20240207T01:54:18Z | A vst3 and au fuzz plugin for use in a DAW or other audio software. | https://github.com/mattanikiej/pandamonium-fuzz | 0 | 0| 
 | 20240207T01:45:07Z | Null | https://github.com/pasha-kyper/fuzzy-memory | 0 | 0| 
@@ -122,7 +123,6 @@
 | 20240206T22:45:42Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51945 | 23549| 
 | 20240206T15:22:43Z | A library used for test fuzzing. Uses Mirage and attaches to xUnit as a Theory data source to create random data based on the annotations placed on the class. By default it saves the information used in each test so you can go back and retest as needed. | https://github.com/JaCraig/TestFountain | 0 | 0| 
 | 20240206T13:52:34Z | Some task implementations from Data Structures and Algorithms course | https://github.com/Stillah/fuzzy-goggles | 0 | 0| 
-| 20240206T13:30:47Z | Null | https://github.com/umarovaibekplor/fuzzy-moon | 0 | 0| 
 
 
 
