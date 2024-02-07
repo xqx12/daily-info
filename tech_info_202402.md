@@ -113,7 +113,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240207T01:21:05Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 441 | 49| 
+| 20240207T01:36:55Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 442 | 49| 
 | 20240207T00:26:35Z | Null | https://github.com/hxu65/Mult-target-directed-fuzzing-main | 0 | 0| 
 | 20240206T23:34:32Z | minimalist selector in shell, inspired by fzf | https://github.com/yazgoo/fuzzysh | 0 | 0| 
 | 20240206T23:02:12Z | Null | https://github.com/Saad55555/fuzzy-wuzzy | 1 | 0| 
