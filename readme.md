@@ -79,6 +79,7 @@
 | 20240207T13:11:21Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 485 | 53| 
 | 20240207T12:32:32Z |  Technique of finding strings that match a pattern approximately. | https://github.com/raphsenn/fuzzy-string-searching | 0 | 0| 
 | 20240207T12:27:56Z | Config files for my GitHub profile. | https://github.com/FuzzMC/FuzzMC | 0 | 0| 
+| 20240207T12:00:47Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9414 | 2115| 
 | 20240207T11:26:22Z | QR codes fuzzing toolkit for mobile apps | https://github.com/albertolazari/cns-project | 0 | 0| 
 | 20240207T02:06:30Z | Null | https://github.com/theu4eva/fuzzy-stream | 0 | 0| 
 | 20240207T01:54:18Z | A vst3 and au fuzz plugin for use in a DAW or other audio software. | https://github.com/mattanikiej/pandamonium-fuzz | 0 | 0| 
