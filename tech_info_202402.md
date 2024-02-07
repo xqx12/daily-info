@@ -26,21 +26,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240207T12:23:06Z | CVE-2024-20931 | CVE-2024-20931 Oracle A RCE vuln based on Weblogic T3\IIOP protocol  | https://github.com/labesterOct/CVE-2024-20931 | | 
+| 20240207T07:08:55Z | CVE-2023-23397 | C implementation of Outlook 0-click vulnerability | https://github.com/alsaeroth/CVE-2023-23397-POC | | 
+| 20240207T06:58:17Z | CVE-2023-4863 | C implementation of libwebp 0-click vulnerability | https://github.com/alsaeroth/CVE-2023-4863-POC | | 
+| 20240207T06:56:53Z | CVE-2023-4450 | Null | https://github.com/ilikeoyt/CVE-2023-4450-Attack | | 
+| 20240207T04:50:48Z | CVE-2023-5178 | Null | https://github.com/rockrid3r/CVE-2023-5178 | | 
+| 20240207T03:31:05Z | CVE-2021-4034 | Null | https://github.com/wechicken456/CVE-2021-4034-CTF-writeup | | 
 | 20240207T00:00:11Z | CVE-2024-20931 | CVE-2024-20931, this is the bypass of the patch of CVE-2023-21839 | https://github.com/dinosn/CVE-2024-20931 | | 
 | 20240206T23:48:54Z | CVE-2024-21626 | PoC and Detection for CVE-2024-21626 | https://github.com/NitroCao/CVE-2024-21626 | | 
 | 20240206T22:32:43Z | CVE-2023-6553 | Backup Migration <= 1.3.7 - Unauthenticated Remote Code Execution | https://github.com/Chocapikk/CVE-2023-6553 | | 
 | 20240206T18:49:34Z | CVE-2024-24035 | Null | https://github.com/ELIZEUOPAIN/CVE-2024-24035 | | 
-| 20240206T16:47:07Z | CVE-2024-24034 | Null | https://github.com/ELIZEUOPAIN/CVE-2024-24034 | | 
-| 20240206T16:33:45Z | CVE-2024-24337 | Null | https://github.com/nitipoom-jar/CVE-2024-24337 | | 
-| 20240206T15:41:44Z | CVE-2024-20931 | Null | https://github.com/Leocodefocus/CVE-2024-20931-Poc | | 
-| 20240206T14:55:25Z | CVE-2024-24336 | Null | https://github.com/nitipoom-jar/CVE-2024-24336 | | 
-| 20240206T13:47:32Z | CVE-2023-4427 | Null | https://github.com/tianstcht/CVE-2023-4427 | | 
-| 20240206T11:52:22Z | CVE-2024-23897 | Nuclei template for CVE-2024-23897 (Jenkins LFI Vulnerability) | https://github.com/kaanatmacaa/CVE-2024-23897 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240207T11:34:03Z | Null | https://github.com/DanielleJadine/SneakyKleen | 0 | 4| 
 | 20240206T02:36:22Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15188 | 453| 
 | 20240205T19:57:37Z | Null | https://github.com/shafiuzzaman-md/edk2_klee | 0 | 0| 
 | 20240205T15:00:22Z | A Guix channel for reproducible symbolic execution research | https://github.com/nmeum/guix-symex | 0 | 0| 
@@ -54,28 +55,31 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240206T18:01:10Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 372 | 84| 
+| 20240207T04:37:28Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 374 | 84| 
 | 20240205T20:39:28Z | Null | https://github.com/mckfarm/obrien_s2ebpr_pub | 0 | 0| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240207T11:59:27Z | This Repository Is Dedicated To The TestNavWebExploit That Allows You To Visit Websites Unrestricted On A School Chromebook | https://github.com/ApplePieCodes/TestNavWebExploit | 1 | 0| 
+| 20240207T11:49:00Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6386 | 835| 
+| 20240207T11:42:13Z | Basic algos for implementation of machine learning. It contains exploiting various datasets and using different algorithms on those to make meaningful models  | https://github.com/sitaram077/ML-ALgos | 0 | 0| 
+| 20240207T10:57:37Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5757 | 1107| 
 | 20240207T02:58:32Z | Null | https://github.com/furious-tc/ExploitTool | 0 | 0| 
 | 20240207T02:53:58Z | GitOps Repository | https://github.com/pmacik-testing/max-poc-0075-0024-app-xqwzl-exploit-produce | 0 | 0| 
 | 20240207T02:51:20Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 11178 | 1689| 
 | 20240207T02:45:38Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0010-app-RJCcn-release-exploit | 0 | 0| 
 | 20240207T02:31:25Z | :exclamation: This is a read-only mirror of the CRAN R package repository.  tsdataleaks — Exploit Data Leakages in Time Series Forecasting Competitions. Homepage: https://github.com/thiyangt/tsdataleaks  Report bugs for this package: https://github.com/thiyangt/tsdataleaks/issues | https://github.com/cran/tsdataleaks | 0 | 0| 
 | 20240207T02:29:55Z | Null | https://github.com/Usama79/trustme_exploit | 0 | 0| 
-| 20240207T02:29:07Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6383 | 835| 
-| 20240207T01:32:19Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0003-app-Obw6I-exploit-realize | 0 | 0| 
-| 20240207T01:19:13Z | Sparsity exploitation via discovering graphical models in multi-variate time-series forecasting | https://github.com/HySonLab/GraphLASSO | 7 | 0| 
-| 20240207T01:11:27Z | Burp Suite Professional is a web security testing platform that provides a comprehensive set of tools for discovering, exploiting, and remediating security vulnerabilities in web applications. It is the world%s most popular web penetration testing toolkit, used by over 70,000 security professionals worldwide. | https://github.com/20MH1A04H9/Burpsuitepro | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240207T09:30:27Z | a skript for backdooring servers | https://github.com/iHategithub9000/qBackdoor | 0 | 0| 
+| 20240207T09:21:46Z | A graphical automation to monitor if backdoors/default settings are still active on the compromised machines over time.  | https://github.com/Drakiat/Checker | 28 | 4| 
+| 20240207T01:50:28Z | BackdoorSim: An Educational into Remote Administration Tools | https://github.com/HalilDeniz/BackDoorSim | 2 | 0| 
 | 20240207T00:24:57Z | Investigating the Vulnerability of 3D Point Cloud Classifiers to Backdoor Attacks Leveraging Transfer Learning | https://github.com/parkie0517/Transfer-Learning-Based-Backdoor-Attack-Vulnerabilities-in-3D-Point-Cloud-Classifiers | 1 | 0| 
 | 20240206T22:57:05Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 8001 | 1842| 
 | 20240206T20:12:25Z | AsyncRAT stands as a Remote Access Tool (RAT) conceived for the purpose of distant supervision and command over remote computers through an encrypted connection ensuring security. | https://github.com/MakShadow/AsyncRAT-Fud-Fixed-Dll-Remote-Administration-Tool-New | 2 | 1| 
@@ -83,9 +87,6 @@
 | 20240206T15:53:13Z | Sadece test amaçlı yazılmıştır. | https://github.com/iardaguler/Backdoor | 0 | 0| 
 | 20240206T12:53:01Z | Computing) capabilities. It boasts compatibility with a spectrum of 20 concealed browsers. Pegasus HVNC facet facilitates the orchestration of a concealed desktop environment | https://github.com/MakShadow/Pegasus-Pantheon-HVNC-V2-VNC-Hidden-Browser-Remote-Administration-Rat | 1 | 3| 
 | 20240206T11:24:50Z | An automation to monitor if backdoors/default settings are still active on the compromised machines over time.  | https://github.com/Drakiat/RedTeam-Checker | 27 | 4| 
-| 20240205T22:18:39Z | The best backdoor scanner there is. | https://github.com/k4scripts/backdoor.exe | 38 | 32| 
-| 20240205T05:41:29Z | Null | https://github.com/Huang-yihao/Personalization-based_backdoor | 0 | 0| 
-| 20240205T04:02:38Z | The S-500 G2 Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/Maskiow/S500-RAT-HVNC-HAPP-HIdden-BROWSER-HRDP-REVERSE-PROXY-CRYPTO-MONITOR | 3 | 1| 
 
 
 # symbolic execution on Github 推荐
@@ -113,16 +114,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240207T02:56:51Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 452 | 50| 
+| 20240207T12:53:35Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 484 | 53| 
+| 20240207T12:32:32Z |  Technique of finding strings that match a pattern approximately. | https://github.com/raphsenn/fuzzy-string-searching | 0 | 0| 
+| 20240207T12:27:56Z | Config files for my GitHub profile. | https://github.com/FuzzMC/FuzzMC | 0 | 0| 
+| 20240207T11:26:22Z | QR codes fuzzing toolkit for mobile apps | https://github.com/albertolazari/cns-project | 0 | 0| 
 | 20240207T02:06:30Z | Null | https://github.com/theu4eva/fuzzy-stream | 0 | 0| 
 | 20240207T01:54:18Z | A vst3 and au fuzz plugin for use in a DAW or other audio software. | https://github.com/mattanikiej/pandamonium-fuzz | 0 | 0| 
 | 20240207T01:45:07Z | Null | https://github.com/pasha-kyper/fuzzy-memory | 0 | 0| 
 | 20240207T00:26:35Z | Null | https://github.com/hxu65/Mult-target-directed-fuzzing-main | 0 | 0| 
 | 20240206T23:34:32Z | minimalist selector in shell, inspired by fzf | https://github.com/yazgoo/fuzzysh | 0 | 0| 
 | 20240206T23:02:12Z | Null | https://github.com/Saad55555/fuzzy-wuzzy | 1 | 0| 
-| 20240206T22:45:42Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51945 | 23549| 
-| 20240206T15:22:43Z | A library used for test fuzzing. Uses Mirage and attaches to xUnit as a Theory data source to create random data based on the annotations placed on the class. By default it saves the information used in each test so you can go back and retest as needed. | https://github.com/JaCraig/TestFountain | 0 | 0| 
-| 20240206T13:52:34Z | Some task implementations from Data Structures and Algorithms course | https://github.com/Stillah/fuzzy-goggles | 0 | 0| 
 
 
 
