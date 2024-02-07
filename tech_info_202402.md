@@ -62,11 +62,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240207T13:46:37Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5756 | 1107| 
 | 20240207T13:11:27Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-golang-nested-q90Tz-exclude-exploit | 0 | 0| 
 | 20240207T11:59:27Z | This Repository Is Dedicated To The TestNavWebExploit That Allows You To Visit Websites Unrestricted On A School Chromebook | https://github.com/ApplePieCodes/TestNavWebExploit | 1 | 0| 
 | 20240207T11:49:00Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6386 | 835| 
 | 20240207T11:42:13Z | Basic algos for implementation of machine learning. It contains exploiting various datasets and using different algorithms on those to make meaningful models  | https://github.com/sitaram077/ML-ALgos | 0 | 0| 
-| 20240207T10:57:37Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5757 | 1107| 
 | 20240207T02:58:32Z | Null | https://github.com/furious-tc/ExploitTool | 0 | 0| 
 | 20240207T02:53:58Z | GitOps Repository | https://github.com/pmacik-testing/max-poc-0075-0024-app-xqwzl-exploit-produce | 0 | 0| 
 | 20240207T02:51:20Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 11178 | 1689| 
