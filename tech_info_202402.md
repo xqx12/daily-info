@@ -63,6 +63,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240208T02:07:36Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 253 | 20| 
+| 20240208T02:05:51Z | Patch for Travertine to fix Exploits and add new functionalities | https://github.com/WhCraftMC/WhCord | 0 | 0| 
 | 20240208T01:11:04Z | 375+ UNRESTRICTED unblockers, games, cheats, exploits, AI, bypasses, and social media | https://github.com/wea-f/ByePassHub | 14 | 12| 
 | 20240208T00:14:57Z | This is a collection of CTF challenges I have solved, mostly in the field of Web Exploitation | https://github.com/SeanMinnick/CTF | 0 | 0| 
 | 20240207T23:09:56Z | Null | https://github.com/Soheilprs/curve-finance-exploit | 0 | 0| 
@@ -71,8 +73,6 @@
 | 20240207T13:46:43Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/GhostTroops/TOP | 601 | 120| 
 | 20240207T13:46:37Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5756 | 1107| 
 | 20240207T13:11:27Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-golang-nested-q90Tz-exclude-exploit | 0 | 0| 
-| 20240207T11:59:27Z | This Repository Is Dedicated To The TestNavWebExploit That Allows You To Visit Websites Unrestricted On A School Chromebook | https://github.com/ApplePieCodes/TestNavWebExploit | 1 | 0| 
-| 20240207T11:49:00Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6386 | 835| 
 
 
 # backdoor on Github 推荐
