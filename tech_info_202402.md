@@ -11,6 +11,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20240207 | 2023 年 GreyNoise 在野大规模漏洞利用报告 | https://mp.weixin.qq.com/s/pCr9u3Ta_6N8b3tdwgbLJg| 
+| 20240207 | OPSWAT 2023 年恶意软件分析调查报告 | https://mp.weixin.qq.com/s/mTMavYsNEJTnyrzoNrFhsw| 
 | 20240205 | AsyncRAT攻防技术对抗 | https://mp.weixin.qq.com/s/aucFppit72WgNLBT6HQTVQ| 
 | 20240205 | 2023年国家网络安全总体态势分析与趋势研判 | https://mp.weixin.qq.com/s/qfLWptctB4VK39RcDE9IfQ| 
 | 20240205 | SecWiki周刊（第518期) | https://www.sec-wiki.com/weekly/518| 
@@ -19,8 +21,6 @@
 | 20240204 | AsyncRAT通信模型剖析及自动化解密脚本实现 | https://mp.weixin.qq.com/s/fPMgeB_9yKGQt-Vd1QKuRw| 
 | 20240204 | 2023 年攻击基础设施跟踪报告 | https://mp.weixin.qq.com/s/0Ln_xJOXgOiruzjnsKeUFw| 
 | 20240203 | 2023 年 Any.Run 恶意软件趋势报告 | https://mp.weixin.qq.com/s/pzIusJA6-CW0Qxw0s5O6vA| 
-| 20240202 | 基于本体论的信息抽取：用于自动化法律论证 | https://mp.weixin.qq.com/s/7t5ttWN3JtmzZTQC95m4oA| 
-| 20240202 | 一种基于安全大模型的EDR告警研判机器人 | https://xlab.tencent.com/cn/2024/01/26/edr-alert-analysis-robot/| 
 
 
 # CVE Github 推荐
@@ -41,6 +41,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240207T19:16:59Z | Null | https://github.com/fchamicapereira/synapse-klee | 0 | 3| 
 | 20240207T11:34:03Z | Null | https://github.com/DanielleJadine/SneakyKleen | 0 | 4| 
 | 20240206T02:36:22Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15188 | 453| 
 | 20240205T19:57:37Z | Null | https://github.com/shafiuzzaman-md/edk2_klee | 0 | 0| 
@@ -48,45 +49,45 @@
 | 20240204T17:18:40Z | 基於 Klee One 改造的字型，以傳承字形風格為主。 | https://github.com/Ayaginu-Sue/Astalia | 13 | 0| 
 | 20240203T11:15:01Z | Null | https://github.com/geregrassi12/klee-games | 1 | 0| 
 | 20240203T07:44:39Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 107 | 22| 
-| 20240202T16:15:54Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2406 | 652| 
+| 20240202T16:15:54Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2406 | 653| 
 | 20240201T21:48:32Z | Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE | https://github.com/staticafi/symbiotic | 294 | 54| 
 
 
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240207T04:37:28Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 374 | 84| 
+| 20240207T16:26:36Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 375 | 84| 
 | 20240205T20:39:28Z | Null | https://github.com/mckfarm/obrien_s2ebpr_pub | 0 | 0| 
 
 
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240208T00:14:57Z | This is a collection of CTF challenges I have solved, mostly in the field of Web Exploitation | https://github.com/SeanMinnick/CTF | 0 | 0| 
+| 20240207T23:09:56Z | Null | https://github.com/Soheilprs/curve-finance-exploit | 0 | 0| 
+| 20240207T17:59:53Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 93 | 14| 
+| 20240207T15:04:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 97 | 34| 
+| 20240207T13:46:43Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/GhostTroops/TOP | 601 | 120| 
 | 20240207T13:46:37Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5756 | 1107| 
 | 20240207T13:11:27Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-golang-nested-q90Tz-exclude-exploit | 0 | 0| 
 | 20240207T11:59:27Z | This Repository Is Dedicated To The TestNavWebExploit That Allows You To Visit Websites Unrestricted On A School Chromebook | https://github.com/ApplePieCodes/TestNavWebExploit | 1 | 0| 
 | 20240207T11:49:00Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6386 | 835| 
 | 20240207T11:42:13Z | Basic algos for implementation of machine learning. It contains exploiting various datasets and using different algorithms on those to make meaningful models  | https://github.com/sitaram077/ML-ALgos | 0 | 0| 
-| 20240207T02:58:32Z | Null | https://github.com/furious-tc/ExploitTool | 0 | 0| 
-| 20240207T02:53:58Z | GitOps Repository | https://github.com/pmacik-testing/max-poc-0075-0024-app-xqwzl-exploit-produce | 0 | 0| 
-| 20240207T02:51:20Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 11178 | 1689| 
-| 20240207T02:45:38Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0010-app-RJCcn-release-exploit | 0 | 0| 
-| 20240207T02:31:25Z | :exclamation: This is a read-only mirror of the CRAN R package repository.  tsdataleaks — Exploit Data Leakages in Time Series Forecasting Competitions. Homepage: https://github.com/thiyangt/tsdataleaks  Report bugs for this package: https://github.com/thiyangt/tsdataleaks/issues | https://github.com/cran/tsdataleaks | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240207T18:06:01Z | Mod Lists and Configs for the Boys | https://github.com/DaisyAge12/Backdoor-Boys | 0 | 0| 
+| 20240207T15:57:38Z | A graphical automation to monitor if backdoors/default settings are still active on the compromised machines over time.  | https://github.com/Drakiat/Checker | 29 | 4| 
+| 20240207T14:07:56Z | Detect potentially malicious PHP files based on token | https://github.com/Cvar1984/sussyfinder | 9 | 4| 
 | 20240207T09:30:27Z | a skript for backdooring servers | https://github.com/iHategithub9000/qBackdoor | 0 | 0| 
-| 20240207T09:21:46Z | A graphical automation to monitor if backdoors/default settings are still active on the compromised machines over time.  | https://github.com/Drakiat/Checker | 28 | 4| 
 | 20240207T01:50:28Z | BackdoorSim: An Educational into Remote Administration Tools | https://github.com/HalilDeniz/BackDoorSim | 2 | 0| 
 | 20240207T00:24:57Z | Investigating the Vulnerability of 3D Point Cloud Classifiers to Backdoor Attacks Leveraging Transfer Learning | https://github.com/parkie0517/Transfer-Learning-Based-Backdoor-Attack-Vulnerabilities-in-3D-Point-Cloud-Classifiers | 1 | 0| 
 | 20240206T22:57:05Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 8001 | 1842| 
 | 20240206T20:12:25Z | AsyncRAT stands as a Remote Access Tool (RAT) conceived for the purpose of distant supervision and command over remote computers through an encrypted connection ensuring security. | https://github.com/MakShadow/AsyncRAT-Fud-Fixed-Dll-Remote-Administration-Tool-New | 2 | 1| 
 | 20240206T18:04:35Z | This is a shell script for unix systems that can be shot or downloaded to a server and run it secretly | https://github.com/K3rnel-Dev/Php-Shell | 0 | 1| 
 | 20240206T15:53:13Z | Sadece test amaçlı yazılmıştır. | https://github.com/iardaguler/Backdoor | 0 | 0| 
-| 20240206T12:53:01Z | Computing) capabilities. It boasts compatibility with a spectrum of 20 concealed browsers. Pegasus HVNC facet facilitates the orchestration of a concealed desktop environment | https://github.com/MakShadow/Pegasus-Pantheon-HVNC-V2-VNC-Hidden-Browser-Remote-Administration-Rat | 1 | 3| 
-| 20240206T11:24:50Z | An automation to monitor if backdoors/default settings are still active on the compromised machines over time.  | https://github.com/Drakiat/RedTeam-Checker | 27 | 4| 
 
 
 # symbolic execution on Github 推荐
@@ -114,16 +115,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240208T00:59:43Z | Null | https://github.com/toio00/fuzzy-moon | 0 | 0| 
+| 20240208T00:36:04Z | Throughout the %Intelligent Manufacturing Systems% course, our objective was to develop and improve a PID and a Fuzzy Logic Controller for a ship course angle control, using Matlab Simulink. Unfortunately, the technical report file is only available in Greek. | https://github.com/TasosTsoulfaidis/PID-vs.-FUZZY-controller-for-ship-navigation | 0 | 0| 
+| 20240208T00:11:58Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51959 | 23556| 
+| 20240208T00:02:33Z | Null | https://github.com/g3rda/robocon2024-fuzzing | 0 | 0| 
+| 20240208T00:01:50Z | Null | https://github.com/janbu12/FuzzyWuzzy | 0 | 0| 
+| 20240207T23:43:52Z | Null | https://github.com/amaosunday/fuzzy-octo-goggle | 0 | 0| 
+| 20240207T22:56:09Z | Null | https://github.com/Kevin14612/fuzzy-bassoon | 0 | 0| 
+| 20240207T22:43:03Z | Sistem Penunjang Keputusan Jurusan Siswa SMK - Metode Fuzzy | https://github.com/upimariani/fuzzy-sekolah | 0 | 0| 
+| 20240207T22:07:44Z | Null | https://github.com/google/fuzztest | 545 | 48| 
 | 20240207T13:46:41Z | A proof-of-concept WordPress plugin fuzzer | https://github.com/kazet/wpgarlic | 160 | 17| 
-| 20240207T13:25:19Z | Null | https://github.com/velikovaglusidaj/fuzzy-moon | 0 | 0| 
-| 20240207T13:11:21Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 485 | 53| 
-| 20240207T12:32:32Z |  Technique of finding strings that match a pattern approximately. | https://github.com/raphsenn/fuzzy-string-searching | 0 | 0| 
-| 20240207T12:27:56Z | Config files for my GitHub profile. | https://github.com/FuzzMC/FuzzMC | 0 | 0| 
-| 20240207T12:00:47Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9414 | 2115| 
-| 20240207T11:26:22Z | QR codes fuzzing toolkit for mobile apps | https://github.com/albertolazari/cns-project | 0 | 0| 
-| 20240207T02:06:30Z | Null | https://github.com/theu4eva/fuzzy-stream | 0 | 0| 
-| 20240207T01:54:18Z | A vst3 and au fuzz plugin for use in a DAW or other audio software. | https://github.com/mattanikiej/pandamonium-fuzz | 0 | 0| 
-| 20240207T01:45:07Z | Null | https://github.com/pasha-kyper/fuzzy-memory | 0 | 0| 
 
 
 
