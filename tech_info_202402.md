@@ -115,10 +115,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240208T02:04:44Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 503 | 54| 
 | 20240208T01:45:49Z | Null | https://github.com/YeonHui829/Fuzz_pit | 0 | 0| 
 | 20240208T01:44:35Z | wtf is a distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and / or kernel-mode targets running on Microsoft Windows. | https://github.com/0vercl0k/wtf | 1292 | 122| 
 | 20240208T01:43:55Z | Null | https://github.com/valentinsavelev75/fuzzy-stream | 0 | 0| 
-| 20240208T01:41:27Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 501 | 54| 
 | 20240208T00:59:43Z | Null | https://github.com/toio00/fuzzy-moon | 0 | 0| 
 | 20240208T00:36:04Z | Throughout the %Intelligent Manufacturing Systems% course, our objective was to develop and improve a PID and a Fuzzy Logic Controller for a ship course angle control, using Matlab Simulink. Unfortunately, the technical report file is only available in Greek. | https://github.com/TasosTsoulfaidis/PID-vs.-FUZZY-controller-for-ship-navigation | 0 | 0| 
 | 20240208T00:11:58Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51959 | 23556| 
