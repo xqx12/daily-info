@@ -86,11 +86,11 @@
 | 20240207T22:43:03Z | Sistem Penunjang Keputusan Jurusan Siswa SMK - Metode Fuzzy | https://github.com/upimariani/fuzzy-sekolah | 0 | 0| 
 | 20240207T22:07:44Z | Null | https://github.com/google/fuzztest | 545 | 48| 
 | 20240207T19:07:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9416 | 2116| 
+| 20240207T16:59:29Z | github mirror. see https://codeberg.org/gecotron/fuzzbucket/ | https://github.com/mdwmage/fuzzbucket | 1 | 0| 
 | 20240207T13:46:41Z | A proof-of-concept WordPress plugin fuzzer | https://github.com/kazet/wpgarlic | 160 | 17| 
 | 20240207T13:25:19Z | Null | https://github.com/velikovaglusidaj/fuzzy-moon | 0 | 0| 
 | 20240207T12:32:32Z |  Technique of finding strings that match a pattern approximately. | https://github.com/raphsenn/fuzzy-string-searching | 0 | 0| 
 | 20240207T12:27:56Z | Config files for my GitHub profile. | https://github.com/FuzzMC/FuzzMC | 0 | 0| 
-| 20240207T11:26:22Z | QR codes fuzzing toolkit for mobile apps | https://github.com/albertolazari/cns-project | 0 | 0| 
 
 
 
