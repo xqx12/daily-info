@@ -115,13 +115,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240208T02:29:10Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51960 | 23556| 
 | 20240208T02:04:44Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 503 | 54| 
 | 20240208T01:45:49Z | Null | https://github.com/YeonHui829/Fuzz_pit | 0 | 0| 
 | 20240208T01:44:35Z | wtf is a distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and / or kernel-mode targets running on Microsoft Windows. | https://github.com/0vercl0k/wtf | 1292 | 122| 
 | 20240208T01:43:55Z | Null | https://github.com/valentinsavelev75/fuzzy-stream | 0 | 0| 
 | 20240208T00:59:43Z | Null | https://github.com/toio00/fuzzy-moon | 0 | 0| 
 | 20240208T00:36:04Z | Throughout the %Intelligent Manufacturing Systems% course, our objective was to develop and improve a PID and a Fuzzy Logic Controller for a ship course angle control, using Matlab Simulink. Unfortunately, the technical report file is only available in Greek. | https://github.com/TasosTsoulfaidis/PID-vs.-FUZZY-controller-for-ship-navigation | 0 | 0| 
-| 20240208T00:11:58Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51959 | 23556| 
 | 20240208T00:02:33Z | Null | https://github.com/g3rda/robocon2024-fuzzing | 0 | 0| 
 | 20240208T00:01:50Z | Null | https://github.com/janbu12/FuzzyWuzzy | 0 | 0| 
 | 20240207T23:43:52Z | Null | https://github.com/amaosunday/fuzzy-octo-goggle | 0 | 0| 
