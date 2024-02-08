@@ -11,6 +11,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20240208 | Apktool任意文件写入漏洞分析 CVE-2024-21633 | https://mp.weixin.qq.com/s/FsftX4ETZ5NLGvV8DfYkGQ| 
 | 20240207 | 2023 年 GreyNoise 在野大规模漏洞利用报告 | https://mp.weixin.qq.com/s/pCr9u3Ta_6N8b3tdwgbLJg| 
 | 20240207 | OPSWAT 2023 年恶意软件分析调查报告 | https://mp.weixin.qq.com/s/mTMavYsNEJTnyrzoNrFhsw| 
 | 20240205 | AsyncRAT攻防技术对抗 | https://mp.weixin.qq.com/s/aucFppit72WgNLBT6HQTVQ| 
@@ -20,12 +21,12 @@
 | 20240204 | 入侵检测之流量分析--识别常见恶意行为 | https://mp.weixin.qq.com/s/ij_4NtN_IH4DHgzUThYVEQ| 
 | 20240204 | AsyncRAT通信模型剖析及自动化解密脚本实现 | https://mp.weixin.qq.com/s/fPMgeB_9yKGQt-Vd1QKuRw| 
 | 20240204 | 2023 年攻击基础设施跟踪报告 | https://mp.weixin.qq.com/s/0Ln_xJOXgOiruzjnsKeUFw| 
-| 20240203 | 2023 年 Any.Run 恶意软件趋势报告 | https://mp.weixin.qq.com/s/pzIusJA6-CW0Qxw0s5O6vA| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240208T08:07:53Z | CVE-2023-30547 | PoC to CVE-2023-30547 (Library vm2) | https://github.com/user0x1337/CVE-2023-30547 | | 
 | 20240207T12:23:06Z | CVE-2024-20931 | CVE-2024-20931 Oracle A RCE vuln based on Weblogic T3\IIOP protocol  | https://github.com/labesterOct/CVE-2024-20931 | | 
 | 20240207T07:08:55Z | CVE-2023-23397 | C implementation of Outlook 0-click vulnerability | https://github.com/alsaeroth/CVE-2023-23397-POC | | 
 | 20240207T06:58:17Z | CVE-2023-4863 | C implementation of libwebp 0-click vulnerability | https://github.com/alsaeroth/CVE-2023-4863-POC | | 
@@ -35,7 +36,6 @@
 | 20240207T00:00:11Z | CVE-2024-20931 | CVE-2024-20931, this is the bypass of the patch of CVE-2023-21839 | https://github.com/dinosn/CVE-2024-20931 | | 
 | 20240206T23:48:54Z | CVE-2024-21626 | PoC and Detection for CVE-2024-21626 | https://github.com/NitroCao/CVE-2024-21626 | | 
 | 20240206T22:32:43Z | CVE-2023-6553 | Backup Migration <= 1.3.7 - Unauthenticated Remote Code Execution | https://github.com/Chocapikk/CVE-2023-6553 | | 
-| 20240206T18:49:34Z | CVE-2024-24035 | Null | https://github.com/ELIZEUOPAIN/CVE-2024-24035 | | 
 
 
 # klee on Github 推荐
@@ -63,31 +63,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240208T12:20:49Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5758 | 1108| 
+| 20240208T11:28:14Z | Military Tycoon Exploit Beta | https://github.com/NpChaadow/ChaadHub | 1 | 0| 
 | 20240208T02:39:05Z | MultiDump is a post-exploitation tool for dumping and extracting LSASS memory discreetly. | https://github.com/Xre0uS/MultiDump | 73 | 8| 
 | 20240208T02:14:49Z | Patch for Travertine to fix Exploits and add new functionalities | https://github.com/WhCraftMC/WhCord | 0 | 0| 
 | 20240208T02:07:36Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 253 | 20| 
 | 20240208T01:11:04Z | 375+ UNRESTRICTED unblockers, games, cheats, exploits, AI, bypasses, and social media | https://github.com/wea-f/ByePassHub | 14 | 12| 
 | 20240208T00:14:57Z | This is a collection of CTF challenges I have solved, mostly in the field of Web Exploitation | https://github.com/SeanMinnick/CTF | 0 | 0| 
 | 20240207T23:09:56Z | Null | https://github.com/Soheilprs/curve-finance-exploit | 0 | 0| 
+| 20240207T22:17:46Z | Null | https://github.com/B1naryo/Guide-to-Buffer-Overflow-Exploit- | 0 | 0| 
 | 20240207T17:59:53Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 93 | 14| 
-| 20240207T15:04:41Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 97 | 34| 
-| 20240207T13:46:43Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/GhostTroops/TOP | 601 | 120| 
-| 20240207T13:46:37Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5756 | 1107| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240208T12:36:29Z | Null | https://github.com/hbrachemi/efficiency_backdoor | 0 | 0| 
+| 20240208T07:18:06Z | Code for paper %Universal Jailbreak Backdoors from Poisoned Human Feedback% | https://github.com/ethz-spylab/rlhf-poisoning | 20 | 2| 
+| 20240208T03:59:18Z | Single PHP file to detect potentially malicious threats based on token and hash with web interface | https://github.com/Cvar1984/sussyfinder | 9 | 4| 
 | 20240207T18:06:01Z | Mod Lists and Configs for the Boys | https://github.com/DaisyAge12/Backdoor-Boys | 0 | 0| 
 | 20240207T15:57:38Z | A graphical automation to monitor if backdoors/default settings are still active on the compromised machines over time.  | https://github.com/Drakiat/Checker | 29 | 4| 
-| 20240207T14:07:56Z | Detect potentially malicious PHP files based on token | https://github.com/Cvar1984/sussyfinder | 9 | 4| 
 | 20240207T09:30:27Z | a skript for backdooring servers | https://github.com/iHategithub9000/qBackdoor | 0 | 0| 
 | 20240207T01:50:28Z | BackdoorSim: An Educational into Remote Administration Tools | https://github.com/HalilDeniz/BackDoorSim | 2 | 0| 
 | 20240207T00:24:57Z | Investigating the Vulnerability of 3D Point Cloud Classifiers to Backdoor Attacks Leveraging Transfer Learning | https://github.com/parkie0517/Transfer-Learning-Based-Backdoor-Attack-Vulnerabilities-in-3D-Point-Cloud-Classifiers | 1 | 0| 
 | 20240206T22:57:05Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 8001 | 1842| 
 | 20240206T20:12:25Z | AsyncRAT stands as a Remote Access Tool (RAT) conceived for the purpose of distant supervision and command over remote computers through an encrypted connection ensuring security. | https://github.com/MakShadow/AsyncRAT-Fud-Fixed-Dll-Remote-Administration-Tool-New | 2 | 1| 
-| 20240206T18:04:35Z | This is a shell script for unix systems that can be shot or downloaded to a server and run it secretly | https://github.com/K3rnel-Dev/Php-Shell | 0 | 1| 
-| 20240206T15:53:13Z | Sadece test amaçlı yazılmıştır. | https://github.com/iardaguler/Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -115,16 +115,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240208T12:46:20Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 509 | 56| 
+| 20240208T11:50:50Z | Null | https://github.com/usenishcoa/fuzzy-stream | 0 | 0| 
+| 20240208T03:51:58Z | Searching/Fuzzing for a quine style regex which matches itself | https://github.com/micsthepick/quinegex | 0 | 0| 
 | 20240208T02:49:58Z | HackerSpace_Project | https://github.com/jwjung1108/fuzzer | 0 | 0| 
 | 20240208T02:29:10Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51960 | 23556| 
-| 20240208T02:04:44Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 503 | 54| 
 | 20240208T01:45:49Z | Null | https://github.com/YeonHui829/Fuzz_pit | 0 | 0| 
 | 20240208T01:44:35Z | wtf is a distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and / or kernel-mode targets running on Microsoft Windows. | https://github.com/0vercl0k/wtf | 1292 | 122| 
 | 20240208T01:43:55Z | Null | https://github.com/valentinsavelev75/fuzzy-stream | 0 | 0| 
 | 20240208T00:59:43Z | Null | https://github.com/toio00/fuzzy-moon | 0 | 0| 
 | 20240208T00:36:04Z | Throughout the %Intelligent Manufacturing Systems% course, our objective was to develop and improve a PID and a Fuzzy Logic Controller for a ship course angle control, using Matlab Simulink. Unfortunately, the technical report file is only available in Greek. | https://github.com/TasosTsoulfaidis/PID-vs.-FUZZY-controller-for-ship-navigation | 0 | 0| 
-| 20240208T00:02:33Z | Null | https://github.com/g3rda/robocon2024-fuzzing | 0 | 0| 
-| 20240208T00:01:50Z | Null | https://github.com/janbu12/FuzzyWuzzy | 0 | 0| 
 
 
 
