@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240208T01:11:04Z | 375+ UNRESTRICTED unblockers, games, cheats, exploits, AI, bypasses, and social media | https://github.com/wea-f/ByePassHub | 14 | 12| 
 | 20240208T00:14:57Z | This is a collection of CTF challenges I have solved, mostly in the field of Web Exploitation | https://github.com/SeanMinnick/CTF | 0 | 0| 
 | 20240207T23:09:56Z | Null | https://github.com/Soheilprs/curve-finance-exploit | 0 | 0| 
 | 20240207T17:59:53Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 93 | 14| 
@@ -72,7 +73,6 @@
 | 20240207T13:11:27Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-golang-nested-q90Tz-exclude-exploit | 0 | 0| 
 | 20240207T11:59:27Z | This Repository Is Dedicated To The TestNavWebExploit That Allows You To Visit Websites Unrestricted On A School Chromebook | https://github.com/ApplePieCodes/TestNavWebExploit | 1 | 0| 
 | 20240207T11:49:00Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6386 | 835| 
-| 20240207T11:42:13Z | Basic algos for implementation of machine learning. It contains exploiting various datasets and using different algorithms on those to make meaningful models  | https://github.com/sitaram077/ML-ALgos | 0 | 0| 
 
 
 # backdoor on Github 推荐
