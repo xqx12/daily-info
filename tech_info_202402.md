@@ -115,6 +115,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240208T01:45:49Z | Null | https://github.com/YeonHui829/Fuzz_pit | 0 | 0| 
 | 20240208T01:44:35Z | wtf is a distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and / or kernel-mode targets running on Microsoft Windows. | https://github.com/0vercl0k/wtf | 1292 | 122| 
 | 20240208T01:43:55Z | Null | https://github.com/valentinsavelev75/fuzzy-stream | 0 | 0| 
 | 20240208T01:41:27Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 501 | 54| 
@@ -124,7 +125,6 @@
 | 20240208T00:02:33Z | Null | https://github.com/g3rda/robocon2024-fuzzing | 0 | 0| 
 | 20240208T00:01:50Z | Null | https://github.com/janbu12/FuzzyWuzzy | 0 | 0| 
 | 20240207T23:43:52Z | Null | https://github.com/amaosunday/fuzzy-octo-goggle | 0 | 0| 
-| 20240207T22:56:09Z | Null | https://github.com/Kevin14612/fuzzy-bassoon | 0 | 0| 
 
 
 
