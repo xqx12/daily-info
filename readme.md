@@ -85,12 +85,12 @@
 | 20240207T22:56:09Z | Null | https://github.com/Kevin14612/fuzzy-bassoon | 0 | 0| 
 | 20240207T22:43:03Z | Sistem Penunjang Keputusan Jurusan Siswa SMK - Metode Fuzzy | https://github.com/upimariani/fuzzy-sekolah | 0 | 0| 
 | 20240207T22:07:44Z | Null | https://github.com/google/fuzztest | 545 | 48| 
+| 20240207T19:07:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9416 | 2116| 
 | 20240207T13:46:41Z | A proof-of-concept WordPress plugin fuzzer | https://github.com/kazet/wpgarlic | 160 | 17| 
 | 20240207T13:25:19Z | Null | https://github.com/velikovaglusidaj/fuzzy-moon | 0 | 0| 
 | 20240207T13:11:21Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 485 | 53| 
 | 20240207T12:32:32Z |  Technique of finding strings that match a pattern approximately. | https://github.com/raphsenn/fuzzy-string-searching | 0 | 0| 
 | 20240207T12:27:56Z | Config files for my GitHub profile. | https://github.com/FuzzMC/FuzzMC | 0 | 0| 
-| 20240207T12:00:47Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9414 | 2115| 
 
 
 

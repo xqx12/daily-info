@@ -124,7 +124,7 @@
 | 20240207T22:56:09Z | Null | https://github.com/Kevin14612/fuzzy-bassoon | 0 | 0| 
 | 20240207T22:43:03Z | Sistem Penunjang Keputusan Jurusan Siswa SMK - Metode Fuzzy | https://github.com/upimariani/fuzzy-sekolah | 0 | 0| 
 | 20240207T22:07:44Z | Null | https://github.com/google/fuzztest | 545 | 48| 
-| 20240207T13:46:41Z | A proof-of-concept WordPress plugin fuzzer | https://github.com/kazet/wpgarlic | 160 | 17| 
+| 20240207T19:07:52Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9416 | 2116| 
 
 
 
