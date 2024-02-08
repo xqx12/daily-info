@@ -34,9 +34,11 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240208T13:14:48Z | Basic Keylogger Webhook Exploit | https://github.com/moyosito/BKWE | 0 | 0| 
 | 20240208T13:12:36Z | Null | https://github.com/B1naryo/Guide-to-Buffer-Overflow-Exploit- | 0 | 0| 
 | 20240208T12:20:49Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5758 | 1108| 
 | 20240208T11:28:14Z | Military Tycoon Exploit Beta | https://github.com/NpChaadow/ChaadHub | 1 | 0| 
+| 20240208T07:24:54Z | Null | https://github.com/Sundsvallskommun/pw-land-and-exploitation | 0 | 0| 
 | 20240208T02:39:05Z | MultiDump is a post-exploitation tool for dumping and extracting LSASS memory discreetly. | https://github.com/Xre0uS/MultiDump | 73 | 8| 
 | 20240208T02:14:49Z | Patch for Travertine to fix Exploits and add new functionalities | https://github.com/WhCraftMC/WhCord | 0 | 0| 
 | 20240208T02:07:36Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 253 | 20| 
