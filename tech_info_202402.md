@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240209T01:18:53Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-golang-nested-Fg4x6-exploit-qualify | 0 | 0| 
 | 20240209T00:16:32Z | TJM rush was a old minecraft server inspired by pizza tower were you would collect treasure and escape before the timer ran out, in this you have to exploit the glitches in order to get the emerald and escape at the end, good luck! (dc: R6tZTDssbD) | https://github.com/JMMC101/TJM-rush-but-scuffed | 0 | 0| 
 | 20240208T23:55:36Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-cw | 1 | 0| 
 | 20240208T22:50:49Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 185 | 15| 
@@ -72,7 +73,6 @@
 | 20240208T13:14:48Z | Basic Keylogger Webhook Exploit | https://github.com/moyosito/BKWE | 0 | 0| 
 | 20240208T13:12:36Z | Null | https://github.com/B1naryo/Guide-to-Buffer-Overflow-Exploit- | 0 | 0| 
 | 20240208T11:28:14Z | Military Tycoon Exploit Beta | https://github.com/NpChaadow/ChaadHub | 1 | 0| 
-| 20240208T07:24:54Z | Null | https://github.com/Sundsvallskommun/pw-land-and-exploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
