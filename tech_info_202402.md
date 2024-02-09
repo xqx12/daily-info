@@ -11,6 +11,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20240209 | QuasarRAT与AsyncRAT同源对比及分析 | https://mp.weixin.qq.com/s/57myst-8ftFS_ASgOgFuOA| 
 | 20240208 | Apktool任意文件写入漏洞分析 CVE-2024-21633 | https://mp.weixin.qq.com/s/FsftX4ETZ5NLGvV8DfYkGQ| 
 | 20240207 | 2023 年 GreyNoise 在野大规模漏洞利用报告 | https://mp.weixin.qq.com/s/pCr9u3Ta_6N8b3tdwgbLJg| 
 | 20240207 | OPSWAT 2023 年恶意软件分析调查报告 | https://mp.weixin.qq.com/s/mTMavYsNEJTnyrzoNrFhsw| 
@@ -20,7 +21,6 @@
 | 20240205 | 2023 年度 APT 威胁分析总结报告 | https://images.seebug.org/archive/%E5%B1%B1%E9%9B%A8%E6%AC%B2%E6%9D%A5-%E7%9F%A5%E9%81%93%E5%88%9B%E5%AE%872023%E5%B9%B4%E5%BA%A6APT%E5%A8%81%E8%83%81%E5%88%86%E6%9E%90%E6%80%BB%E7%BB%93%E6%8A%A5%E5%91%8A.pdf| 
 | 20240204 | 入侵检测之流量分析--识别常见恶意行为 | https://mp.weixin.qq.com/s/ij_4NtN_IH4DHgzUThYVEQ| 
 | 20240204 | AsyncRAT通信模型剖析及自动化解密脚本实现 | https://mp.weixin.qq.com/s/fPMgeB_9yKGQt-Vd1QKuRw| 
-| 20240204 | 2023 年攻击基础设施跟踪报告 | https://mp.weixin.qq.com/s/0Ln_xJOXgOiruzjnsKeUFw| 
 
 
 # CVE Github 推荐
@@ -41,7 +41,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240209T01:02:55Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15227 | 455| 
+| 20240209T12:45:26Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15229 | 455| 
 | 20240208T19:22:44Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 433 | 9| 
 | 20240208T17:53:25Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2408 | 654| 
 | 20240207T19:16:59Z | Null | https://github.com/fchamicapereira/synapse-klee | 0 | 3| 
@@ -63,6 +63,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240209T10:48:50Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 791 | 186| 
+| 20240209T03:46:59Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 73 | 35| 
 | 20240209T02:50:15Z | Null | https://github.com/ZerpStvn/exploit | 0 | 0| 
 | 20240209T02:46:16Z | Null | https://github.com/peter-lgxj/Exploiting_Doubly_Adversarial_Examples_for_Improving_Adversarial_Robustness | 2 | 0| 
 | 20240209T02:11:45Z | Null | https://github.com/gabriel-nadalin/proxmark-exploits | 0 | 0| 
@@ -71,23 +73,21 @@
 | 20240208T23:55:36Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-cw | 1 | 0| 
 | 20240208T22:50:49Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 185 | 15| 
 | 20240208T16:39:21Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5759 | 1108| 
-| 20240208T13:33:32Z | GitOps Repository | https://github.com/redhat-appstudio-qe/test-app-eeel-6sjps-exploit-fill | 0 | 0| 
-| 20240208T13:30:29Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-three-scenarios-CvoBj-argue-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240208T17:56:47Z | Android Mobile | https://github.com/RENANZG/My-Mobile | 4 | 1| 
+| 20240209T09:07:22Z | Allows you to see if there is a backdoor or virus in your FiveM server before launching. | https://github.com/M4lwqrex0/M4lScanner | 0 | 0| 
+| 20240209T08:42:24Z | Android Mobile | https://github.com/RENANZG/My-Mobile | 5 | 1| 
+| 20240209T08:32:29Z | Single PHP file to detect potentially malicious threats based on token and hash with web interface | https://github.com/Cvar1984/sussyfinder | 10 | 4| 
+| 20240209T06:20:03Z | project source code for %MHBAT: Malicious Head Backdoor Attack on Transformers% | https://github.com/ztb-35/MHBAT | 0 | 0| 
 | 20240208T12:36:29Z | Null | https://github.com/hbrachemi/efficiency_backdoor | 0 | 0| 
 | 20240208T07:18:06Z | Code for paper %Universal Jailbreak Backdoors from Poisoned Human Feedback% | https://github.com/ethz-spylab/rlhf-poisoning | 20 | 2| 
-| 20240208T03:59:18Z | Single PHP file to detect potentially malicious threats based on token and hash with web interface | https://github.com/Cvar1984/sussyfinder | 9 | 4| 
 | 20240207T18:06:01Z | Mod Lists and Configs for the Boys | https://github.com/DaisyAge12/Backdoor-Boys | 0 | 0| 
 | 20240207T15:57:38Z | A graphical automation to monitor if backdoors/default settings are still active on the compromised machines over time.  | https://github.com/Drakiat/Checker | 29 | 4| 
 | 20240207T09:30:27Z | a skript for backdooring servers | https://github.com/iHategithub9000/qBackdoor | 0 | 0| 
 | 20240207T01:50:28Z | BackdoorSim: An Educational into Remote Administration Tools | https://github.com/HalilDeniz/BackDoorSim | 2 | 0| 
-| 20240207T00:24:57Z | Investigating the Vulnerability of 3D Point Cloud Classifiers to Backdoor Attacks Leveraging Transfer Learning | https://github.com/parkie0517/Transfer-Learning-Based-Backdoor-Attack-Vulnerabilities-in-3D-Point-Cloud-Classifiers | 1 | 0| 
-| 20240206T22:57:05Z | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C | https://github.com/n1nj4sec/pupy | 8001 | 1842| 
 
 
 # symbolic execution on Github 推荐
@@ -108,23 +108,23 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240208T17:51:44Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 135 | 14| 
+| 20240209T03:41:34Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 136 | 14| 
 | 20240204T12:53:36Z | (NDSS 2024) Optimizing Decompiler Output with LLM | https://github.com/PeiweiHu/DeGPT | 6 | 0| 
 
 
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240209T11:59:33Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4441 | 923| 
+| 20240209T11:29:02Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 131 | 15| 
+| 20240209T10:57:30Z | For testing ci | https://github.com/Chandra158/test-fuzz | 0 | 0| 
+| 20240209T08:41:07Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9427 | 2117| 
+| 20240209T08:12:36Z | Null | https://github.com/http-shubjit/Csv-Fuzzy-Sorting | 0 | 0| 
 | 20240209T02:54:31Z | Null | https://github.com/Shashiawari/FuzzySets | 0 | 0| 
 | 20240209T02:54:01Z | Differential testing and fuzzing of HTTP servers and proxies | https://github.com/narfindustries/http-garden | 303 | 15| 
 | 20240209T01:56:37Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51984 | 23558| 
 | 20240209T01:39:51Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 517 | 56| 
 | 20240209T01:30:37Z | Fuzzing | https://github.com/kymcglyn/eecs481_hw2 | 0 | 0| 
-| 20240208T22:59:48Z | A complete social media app: front-end with React, CRUD functionality with Prisma & chat integration with websockets. | https://github.com/DaaimAliSheikh/Social-Fuzz | 0 | 0| 
-| 20240208T22:43:02Z | Python API fuzzer | https://github.com/skurrrrr/Python_API_Fuzzer | 0 | 0| 
-| 20240208T21:58:14Z | Null | https://github.com/eymengo/Fuzzy-Logic-Based-File-Security-Evaluation-System | 0 | 0| 
-| 20240208T20:51:53Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9426 | 2117| 
-| 20240208T18:30:53Z | First game implementation | https://github.com/albert-boersen/fuzzy-octo-guacamole | 0 | 0| 
 
 
 
