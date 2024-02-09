@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240209T02:50:15Z | Null | https://github.com/ZerpStvn/exploit | 0 | 0| 
 | 20240209T02:46:16Z | Null | https://github.com/peter-lgxj/Exploiting_Doubly_Adversarial_Examples_for_Improving_Adversarial_Robustness | 2 | 0| 
 | 20240209T02:11:45Z | Null | https://github.com/gabriel-nadalin/proxmark-exploits | 0 | 0| 
 | 20240209T01:18:53Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-golang-nested-Fg4x6-exploit-qualify | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20240208T16:39:21Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5759 | 1108| 
 | 20240208T13:33:32Z | GitOps Repository | https://github.com/redhat-appstudio-qe/test-app-eeel-6sjps-exploit-fill | 0 | 0| 
 | 20240208T13:30:29Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-three-scenarios-CvoBj-argue-exploit | 0 | 0| 
-| 20240208T13:14:48Z | Basic Keylogger Webhook Exploit | https://github.com/moyosito/BKWE | 0 | 0| 
 
 
 # backdoor on Github 推荐
