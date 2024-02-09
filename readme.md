@@ -80,13 +80,13 @@
 | 20240208T22:59:48Z | A complete social media app: front-end with React, CRUD functionality with Prisma & chat integration with websockets. | https://github.com/DaaimAliSheikh/Social-Fuzz | 0 | 0| 
 | 20240208T22:43:02Z | Python API fuzzer | https://github.com/skurrrrr/Python_API_Fuzzer | 0 | 0| 
 | 20240208T21:58:14Z | Null | https://github.com/eymengo/Fuzzy-Logic-Based-File-Security-Evaluation-System | 0 | 0| 
-| 20240208T21:43:17Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 516 | 56| 
 | 20240208T20:51:53Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9426 | 2117| 
 | 20240208T18:30:53Z | First game implementation | https://github.com/albert-boersen/fuzzy-octo-guacamole | 0 | 0| 
 | 20240208T11:50:50Z | Null | https://github.com/usenishcoa/fuzzy-stream | 0 | 0| 
 | 20240208T03:51:58Z | Searching/Fuzzing for a quine style regex which matches itself | https://github.com/micsthepick/quinegex | 0 | 0| 
 | 20240208T02:49:58Z | HackerSpace_Project | https://github.com/jwjung1108/fuzzer | 0 | 0| 
 | 20240208T01:45:49Z | Null | https://github.com/YeonHui829/Fuzz_pit | 0 | 0| 
+| 20240208T01:44:35Z | wtf is a distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and / or kernel-mode targets running on Microsoft Windows. | https://github.com/0vercl0k/wtf | 1292 | 122| 
 
 
 
