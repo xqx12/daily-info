@@ -66,13 +66,13 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240209T13:34:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9428 | 2117| 
 | 20240209T13:19:36Z | Fuzz App is a revolutionary open-source Flutter UI designed to streamline the food ordering process and enhance the dining experience for users worldwide. With a sleek and intuitive interface, Fuzz App offers a seamless platform for users to browse menus, place orders, and track deliveries with ease. | https://github.com/muhammad-fiaz/FuzzApp | 1 | 0| 
 | 20240209T13:18:11Z | Rust crate for string fuzzy matching (using Levenshtein,  Jaro-Winkler and other algorithms)  | https://github.com/luizvbo/fuzzt | 0 | 0| 
 | 20240209T11:59:33Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4441 | 923| 
 | 20240209T11:29:02Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 131 | 15| 
 | 20240209T10:57:30Z | For testing ci | https://github.com/Chandra158/test-fuzz | 0 | 0| 
 | 20240209T10:25:10Z | Null | https://github.com/AdityaPurswani/COMP4033---Fuzzy-System-to-Assist-Doctors | 0 | 1| 
-| 20240209T08:41:07Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9427 | 2117| 
 | 20240209T08:12:36Z | Null | https://github.com/http-shubjit/Csv-Fuzzy-Sorting | 0 | 0| 
 | 20240209T02:54:31Z | Null | https://github.com/Shashiawari/FuzzySets | 0 | 0| 
 | 20240209T02:54:01Z | Differential testing and fuzzing of HTTP servers and proxies | https://github.com/narfindustries/http-garden | 303 | 15| 
