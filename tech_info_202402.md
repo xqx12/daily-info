@@ -63,8 +63,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240209T02:46:16Z | Null | https://github.com/peter-lgxj/Exploiting_Doubly_Adversarial_Examples_for_Improving_Adversarial_Robustness | 2 | 0| 
 | 20240209T02:11:45Z | Null | https://github.com/gabriel-nadalin/proxmark-exploits | 0 | 0| 
-| 20240209T02:03:26Z | Null | https://github.com/peter-lgxj/Exploiting_Doubly_Adversarial_Examples_for_Improving_Adversarial_Robustness | 1 | 0| 
 | 20240209T01:18:53Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-golang-nested-Fg4x6-exploit-qualify | 0 | 0| 
 | 20240209T00:16:32Z | TJM rush was a old minecraft server inspired by pizza tower were you would collect treasure and escape before the timer ran out, in this you have to exploit the glitches in order to get the emerald and escape at the end, good luck! (dc: R6tZTDssbD) | https://github.com/JMMC101/TJM-rush-but-scuffed | 0 | 0| 
 | 20240208T23:55:36Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-cw | 1 | 0| 
