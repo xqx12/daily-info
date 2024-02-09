@@ -93,6 +93,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240209T13:37:21Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 733 | 132| 
 | 20240208T17:53:25Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2408 | 654| 
 | 20240208T02:49:07Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 510 | 44| 
 | 20240207T16:26:36Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 375 | 84| 
@@ -102,7 +103,6 @@
 | 20240205T15:00:22Z | A Guix channel for reproducible symbolic execution research | https://github.com/nmeum/guix-symex | 0 | 0| 
 | 20240204T10:07:08Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 222 | 22| 
 | 20240202T12:41:38Z | A symbolic execution engine for EVM smart contract binaries | https://github.com/ucsb-seclab/greed | 22 | 1| 
-| 20240202T05:45:01Z | Recent symbolic execution papers and tools. | https://github.com/XMUsuny/symbolic-execution-papers | 106 | 10| 
 
 
 # big4 on Github 推荐
