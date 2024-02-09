@@ -115,7 +115,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240209T02:29:05Z | Differential testing and fuzzing of HTTP servers and proxies | https://github.com/narfindustries/http-garden | 302 | 15| 
+| 20240209T02:54:31Z | Null | https://github.com/Shashiawari/FuzzySets | 0 | 0| 
+| 20240209T02:54:01Z | Differential testing and fuzzing of HTTP servers and proxies | https://github.com/narfindustries/http-garden | 303 | 15| 
 | 20240209T01:56:37Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51984 | 23558| 
 | 20240209T01:39:51Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 517 | 56| 
 | 20240209T01:30:37Z | Fuzzing | https://github.com/kymcglyn/eecs481_hw2 | 0 | 0| 
@@ -124,7 +125,6 @@
 | 20240208T21:58:14Z | Null | https://github.com/eymengo/Fuzzy-Logic-Based-File-Security-Evaluation-System | 0 | 0| 
 | 20240208T20:51:53Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9426 | 2117| 
 | 20240208T18:30:53Z | First game implementation | https://github.com/albert-boersen/fuzzy-octo-guacamole | 0 | 0| 
-| 20240208T11:50:50Z | Null | https://github.com/usenishcoa/fuzzy-stream | 0 | 0| 
 
 
 
