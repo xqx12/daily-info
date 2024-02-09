@@ -115,6 +115,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240209T13:02:47Z | Fuzz App is a revolutionary open-source Flutter UI designed to streamline the food ordering process and enhance the dining experience for users worldwide. With a sleek and intuitive interface, Fuzz App offers a seamless platform for users to browse menus, place orders, and track deliveries with ease. | https://github.com/muhammad-fiaz/FuzzApp | 1 | 0| 
 | 20240209T11:59:33Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4441 | 923| 
 | 20240209T11:29:02Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 131 | 15| 
 | 20240209T10:57:30Z | For testing ci | https://github.com/Chandra158/test-fuzz | 0 | 0| 
@@ -124,7 +125,6 @@
 | 20240209T02:54:01Z | Differential testing and fuzzing of HTTP servers and proxies | https://github.com/narfindustries/http-garden | 303 | 15| 
 | 20240209T01:56:37Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51984 | 23558| 
 | 20240209T01:39:51Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 517 | 56| 
-| 20240209T01:30:37Z | Fuzzing | https://github.com/kymcglyn/eecs481_hw2 | 0 | 0| 
 
 
 
