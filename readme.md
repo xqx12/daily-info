@@ -33,6 +33,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240209T13:29:55Z | Make Uploader ASP Line By Line Use Input Text CMD > Bypass Quotes | https://github.com/Zorritaaa/mssql_exec-exploit-upload-asp | 0 | 0| 
 | 20240209T10:51:50Z | Hash collisions and exploitations | https://github.com/corkami/collisions | 2837 | 176| 
 | 20240209T10:48:50Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 791 | 186| 
 | 20240209T03:46:59Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 73 | 35| 
