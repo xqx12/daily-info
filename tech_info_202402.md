@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240209T23:01:27Z | CVE-2024-22024 | Check for CVE-2024-22024 vulnerability in Ivanti Connect Secure | https://github.com/0dteam/CVE-2024-22024 | | 
+| 20240210T02:16:28Z | CVE-2024-22024 | Check for CVE-2024-22024 vulnerability in Ivanti Connect Secure | https://github.com/0dteam/CVE-2024-22024 | | 
 | 20240209T18:08:57Z | CVE-2024-21887 | Ivanti Connect Secure &  Ivanti Policy Secure allows an authenticated administrator to send specially crafted requests and execute arbitrary commands on the appliance. (RCE Exploits) | https://github.com/imhunterand/CVE-2024-21887 | | 
 | 20240209T14:20:54Z | CVE-2023-5178 | Null | https://github.com/rockrid3r/CVE-2023-5178 | | 
 | 20240208T20:55:23Z | cve-2022-42889 | Null | https://github.com/MendDemo-josh/cve-2022-42889-text4shell | | 
