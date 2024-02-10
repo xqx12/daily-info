@@ -42,6 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240210T13:15:13Z | Official Discord Raider , a Discord raider with various features Its ALWAYS UpToDate 100% SAFE ENJOY RAIDING :) | https://github.com/Tips-Discord/Cwelium | 24 | 1| 
 | 20240210T13:06:33Z | Null | https://github.com/agenduit168/exploit | 0 | 0| 
 | 20240210T12:46:24Z | A major patch for Splinter Cell: Double Agent%s Online mode, fixing bugs and exploits while improving gameplay and map balance. | https://github.com/Joshhhuaaa/EnhancedSCDAOnline | 0 | 0| 
 | 20240210T12:08:31Z | Un nuevo exploit de ChatGPT o una alternativa a D.A.N. Las siglas de RFSR son RE.FU.SE.R. Que se salta la política de OpenAI. | https://github.com/Danucosukosuko/RFSRCexploit | 3 | 0| 
@@ -51,16 +52,15 @@
 | 20240210T09:54:43Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 94 | 14| 
 | 20240210T01:48:54Z | Null | https://github.com/codingcore13/Silent-JPG-Exploit-NEW- | 1 | 0| 
 | 20240210T01:48:07Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-bii | 1 | 0| 
-| 20240210T01:47:15Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-bi | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240210T13:39:55Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 211 | 57| 
 | 20240210T12:09:22Z | Single PHP file to detect potentially malicious threats based on token and hash with web interface | https://github.com/Cvar1984/sussyfinder | 15 | 4| 
 | 20240210T11:48:59Z | Null | https://github.com/PrinciMixtiy/Backdoor | 0 | 0| 
 | 20240210T08:47:15Z | assistant tool | https://github.com/ZaseRgb/amoreBackdoor | 0 | 0| 
-| 20240210T08:30:31Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 210 | 57| 
 
 
 # symbolic execution on Github 推荐
