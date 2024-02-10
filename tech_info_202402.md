@@ -16,11 +16,11 @@
 | 20240210 | 2023网络安全威胁的回顾与展望 | https://mp.weixin.qq.com/s/B3UaosD4e6zvJALS1Esjjg| 
 | 20240210 | 2023太空安全报告 | https://mp.weixin.qq.com/s/SnP1ABStv3FGW3PXse6tzQ| 
 | 20240210 | 美SDA太空七层发布技术路线架构 | https://mp.weixin.qq.com/s/jVgOLU-Wfsmx4Cl80CeP5g| 
+| 20240210 | CTF 丛林的秘密：算法分析 | https://mp.weixin.qq.com/s/3cpQYcwm4y0RFkWBhFMVwA| 
 | 20240209 | QuasarRAT与AsyncRAT同源对比及分析 | https://mp.weixin.qq.com/s/57myst-8ftFS_ASgOgFuOA| 
 | 20240208 | Apktool任意文件写入漏洞分析 CVE-2024-21633 | https://mp.weixin.qq.com/s/FsftX4ETZ5NLGvV8DfYkGQ| 
 | 20240207 | 2023 年 GreyNoise 在野大规模漏洞利用报告 | https://mp.weixin.qq.com/s/pCr9u3Ta_6N8b3tdwgbLJg| 
 | 20240207 | OPSWAT 2023 年恶意软件分析调查报告 | https://mp.weixin.qq.com/s/mTMavYsNEJTnyrzoNrFhsw| 
-| 20240205 | AsyncRAT攻防技术对抗 | https://mp.weixin.qq.com/s/aucFppit72WgNLBT6HQTVQ| 
 
 
 # CVE Github 推荐
@@ -82,12 +82,12 @@
 | 20240210T11:48:59Z | Null | https://github.com/PrinciMixtiy/Backdoor | 0 | 0| 
 | 20240210T08:47:15Z | assistant tool | https://github.com/ZaseRgb/amoreBackdoor | 0 | 0| 
 | 20240210T08:30:31Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 210 | 57| 
+| 20240209T17:37:13Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 260 | 31| 
 | 20240209T09:07:22Z | Allows you to see if there is a backdoor or virus in your FiveM server before launching. | https://github.com/M4lwqrex0/M4lScanner | 0 | 0| 
 | 20240209T08:42:24Z | Android Mobile | https://github.com/RENANZG/My-Mobile | 5 | 1| 
 | 20240209T06:20:03Z | project source code for %MHBAT: Malicious Head Backdoor Attack on Transformers% | https://github.com/ztb-35/MHBAT | 0 | 0| 
 | 20240208T12:36:29Z | Null | https://github.com/hbrachemi/efficiency_backdoor | 0 | 0| 
 | 20240208T11:04:14Z | The C2 Cloud is a robust web-based C2 framework, designed to simplify the life of penetration testers. It allows easy access to compromised backdoors, just like accessing an EC2 instance in the AWS cloud. It can manage several simultaneous backdoor sessions with a user-friendly interface.  | https://github.com/govindasamyarun/c2-cloud | 11 | 0| 
-| 20240208T07:18:06Z | Code for paper %Universal Jailbreak Backdoors from Poisoned Human Feedback% | https://github.com/ethz-spylab/rlhf-poisoning | 20 | 2| 
 
 
 # symbolic execution on Github 推荐
