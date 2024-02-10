@@ -36,6 +36,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20240209T22:45:03Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5760 | 1108| 
+| 20240209T20:02:15Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5836 | 732| 
 | 20240209T17:18:28Z | Introduction to the exploitation of (elf-like) binary | https://github.com/AndreIglesias/Rainfall | 1 | 0| 
 | 20240209T13:29:55Z | Make Uploader ASP Line By Line Use Input Text CMD > Bypass Quotes | https://github.com/Zorritaaa/mssql_exec-exploit-upload-asp | 0 | 0| 
 | 20240209T13:26:27Z | PSFree WebKit Exploit for PS4 6.xx to 9.60 and PS5 1.xx to 5.xx | https://github.com/kmeps4/PSFree | 32 | 1| 
@@ -44,7 +45,6 @@
 | 20240209T03:46:59Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 73 | 35| 
 | 20240209T02:50:15Z | Null | https://github.com/ZerpStvn/exploit | 0 | 0| 
 | 20240209T02:46:16Z | Null | https://github.com/peter-lgxj/Exploiting_Doubly_Adversarial_Examples_for_Improving_Adversarial_Robustness | 2 | 0| 
-| 20240209T02:11:45Z | Null | https://github.com/gabriel-nadalin/proxmark-exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐

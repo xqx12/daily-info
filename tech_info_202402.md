@@ -70,9 +70,9 @@
 | 20240210T01:42:07Z | Test web page that show a user%s files | https://github.com/LucasFaudman/pixee-safe-command-exploit-example-and-fix | 0 | 0| 
 | 20240210T01:13:16Z | Null | https://github.com/matrixjaen18/exploit | 0 | 0| 
 | 20240209T22:45:03Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5760 | 1108| 
+| 20240209T20:02:15Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5836 | 732| 
 | 20240209T17:18:28Z | Introduction to the exploitation of (elf-like) binary | https://github.com/AndreIglesias/Rainfall | 1 | 0| 
 | 20240209T13:29:55Z | Make Uploader ASP Line By Line Use Input Text CMD > Bypass Quotes | https://github.com/Zorritaaa/mssql_exec-exploit-upload-asp | 0 | 0| 
-| 20240209T13:26:27Z | PSFree WebKit Exploit for PS4 6.xx to 9.60 and PS5 1.xx to 5.xx | https://github.com/kmeps4/PSFree | 32 | 1| 
 
 
 # backdoor on Github 推荐
