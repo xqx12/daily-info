@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240210T01:46:28Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-bi | 1 | 0| 
 | 20240210T01:42:07Z | Test web page that show a user%s files | https://github.com/LucasFaudman/pixee-safe-command-exploit-example-and-fix | 0 | 0| 
 | 20240210T01:13:16Z | Null | https://github.com/matrixjaen18/exploit | 0 | 0| 
 | 20240209T22:45:03Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5760 | 1108| 
@@ -72,7 +73,6 @@
 | 20240209T10:51:50Z | Hash collisions and exploitations | https://github.com/corkami/collisions | 2837 | 176| 
 | 20240209T10:48:50Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 791 | 186| 
 | 20240209T03:46:59Z | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | 73 | 35| 
-| 20240209T02:50:15Z | Null | https://github.com/ZerpStvn/exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
