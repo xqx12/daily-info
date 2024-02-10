@@ -26,8 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240210T13:49:37Z | CVE-2024-22024 | Check for CVE-2024-22024 vulnerability in Ivanti Connect Secure | https://github.com/0dteam/CVE-2024-22024 | | 
 | 20240210T10:26:36Z | CVE-2024-24816 | CKEditor 4 < 4.24.0-lts - XSS vulnerability in samples that use the "preview" feature. | https://github.com/afine-com/CVE-2024-24816 | | 
-| 20240210T09:11:55Z | CVE-2024-22024 | Check for CVE-2024-22024 vulnerability in Ivanti Connect Secure | https://github.com/0dteam/CVE-2024-22024 | | 
 | 20240210T06:37:03Z | CVE-2024-22024 | CVE-2024-22024 vulnerability in Ivanti Connect Secure | https://github.com/labesterOct/CVE-2024-22024 | | 
 | 20240209T18:08:57Z | CVE-2024-21887 | Ivanti Connect Secure &  Ivanti Policy Secure allows an authenticated administrator to send specially crafted requests and execute arbitrary commands on the appliance. (RCE Exploits) | https://github.com/imhunterand/CVE-2024-21887 | | 
 | 20240209T14:20:54Z | CVE-2023-5178 | Null | https://github.com/rockrid3r/CVE-2023-5178 | | 
@@ -116,6 +116,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240210T13:50:11Z | Null | https://github.com/Baragsen/Api-fuzzer | 0 | 0| 
 | 20240210T13:10:41Z | fuzzy geometries for xyzcad | https://github.com/TheTesla/Fuzzyoemtry | 0 | 0| 
 | 20240210T09:57:28Z | experience-primer-copilot-HunterFuzzo created by GitHub Classroom | https://github.com/Exp-Primer-Copilot-Cohort-1/experience-primer-copilot-HunterFuzzo | 0 | 0| 
 | 20240210T09:01:27Z | Fuzzer integrated with ConStaBL | https://github.com/karthiv/ConstaBL-Fuzz | 0 | 0| 
@@ -125,7 +126,6 @@
 | 20240210T02:26:57Z | Null | https://github.com/NicolasDuranGarces/fuzzy-octo-fortnight | 0 | 0| 
 | 20240210T01:13:34Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51997 | 23565| 
 | 20240210T00:37:00Z | Null | https://github.com/wendylundy/fuzzy-moon | 0 | 0| 
-| 20240210T00:10:47Z | Minimal Fuzzy Search Implementation in C. | https://github.com/deter0/minimal-fuzzy-search-in-c | 1 | 0| 
 
 
 
