@@ -26,7 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240210T02:16:28Z | CVE-2024-22024 | Check for CVE-2024-22024 vulnerability in Ivanti Connect Secure | https://github.com/0dteam/CVE-2024-22024 | | 
+| 20240210T10:26:36Z | CVE-2024-24816 | CKEditor 4 < 4.24.0-lts - XSS vulnerability in samples that use the "preview" feature. | https://github.com/afine-com/CVE-2024-24816 | | 
+| 20240210T09:11:55Z | CVE-2024-22024 | Check for CVE-2024-22024 vulnerability in Ivanti Connect Secure | https://github.com/0dteam/CVE-2024-22024 | | 
+| 20240210T06:37:03Z | CVE-2024-22024 | CVE-2024-22024 vulnerability in Ivanti Connect Secure | https://github.com/labesterOct/CVE-2024-22024 | | 
 | 20240209T18:08:57Z | CVE-2024-21887 | Ivanti Connect Secure &  Ivanti Policy Secure allows an authenticated administrator to send specially crafted requests and execute arbitrary commands on the appliance. (RCE Exploits) | https://github.com/imhunterand/CVE-2024-21887 | | 
 | 20240209T14:20:54Z | CVE-2023-5178 | Null | https://github.com/rockrid3r/CVE-2023-5178 | | 
 | 20240208T20:55:23Z | cve-2022-42889 | Null | https://github.com/MendDemo-josh/cve-2022-42889-text4shell | | 
@@ -34,16 +36,14 @@
 | 20240208T19:04:47Z | CVE-2021-32789 | Authenticated Blind SQL Injection. Wordpress woocommerce plugin versions >= 2.5.0 | https://github.com/DonVorrin/CVE-2021-32789 | | 
 | 20240208T16:00:54Z | CVE-2021-41773 | CVE-2021-41773, CVE-2021-42013 | https://github.com/OpenCVEs/CVE-2021-41773 | | 
 | 20240208T15:42:59Z | CVE-2021-4034 | CVE-2021-4034 | https://github.com/OpenCVEs/CVE-2021-4034 | | 
-| 20240208T08:07:53Z | CVE-2023-30547 | PoC to CVE-2023-30547 (Library vm2) | https://github.com/user0x1337/CVE-2023-30547 | | 
-| 20240207T12:23:06Z | CVE-2024-20931 | CVE-2024-20931 Oracle A RCE vuln based on Weblogic T3\IIOP protocol  | https://github.com/labesterOct/CVE-2024-20931 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240210T01:37:42Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 435 | 9| 
-| 20240210T01:35:42Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15227 | 455| 
-| 20240208T17:53:25Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2408 | 654| 
+| 20240210T12:50:21Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15238 | 455| 
+| 20240210T05:00:12Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 439 | 9| 
+| 20240208T17:53:25Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2408 | 653| 
 | 20240207T19:16:59Z | Null | https://github.com/fchamicapereira/synapse-klee | 0 | 3| 
 | 20240207T11:34:03Z | Null | https://github.com/DanielleJadine/SneakyKleen | 0 | 4| 
 | 20240205T19:57:37Z | Null | https://github.com/shafiuzzaman-md/edk2_klee | 0 | 0| 
@@ -63,31 +63,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240210T12:46:24Z | A major patch for Splinter Cell: Double Agent%s Online mode, fixing bugs and exploits while improving gameplay and map balance. | https://github.com/Joshhhuaaa/EnhancedSCDAOnline | 0 | 0| 
+| 20240210T12:08:31Z | Un nuevo exploit de ChatGPT o una alternativa a D.A.N. Las siglas de RFSR son RE.FU.SE.R. Que se salta la política de OpenAI. | https://github.com/Danucosukosuko/RFSRCexploit | 3 | 0| 
+| 20240210T12:03:06Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5763 | 1108| 
+| 20240210T11:56:04Z | A major patch for Splinter Cell: Pandora Tomorrow%s Versus mode, fixing bugs and exploits while improving gameplay. | https://github.com/Joshhhuaaa/EnhancedSCPTVersus | 0 | 0| 
+| 20240210T11:55:44Z | A major patch for Splinter Cell: Chaos Theory%s Versus mode, fixing bugs and exploits while improving gameplay and map balance. | https://github.com/Joshhhuaaa/EnhancedSCCTVersus | 0 | 0| 
 | 20240210T01:48:54Z | Null | https://github.com/codingcore13/Silent-JPG-Exploit-NEW- | 1 | 0| 
 | 20240210T01:48:07Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-bii | 1 | 0| 
 | 20240210T01:47:15Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-bi | 1 | 0| 
 | 20240210T01:46:28Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-bi | 1 | 0| 
 | 20240210T01:42:07Z | Test web page that show a user%s files | https://github.com/LucasFaudman/pixee-safe-command-exploit-example-and-fix | 0 | 0| 
-| 20240210T01:13:16Z | Null | https://github.com/matrixjaen18/exploit | 0 | 0| 
-| 20240209T22:45:03Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5760 | 1108| 
-| 20240209T20:02:15Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5836 | 732| 
-| 20240209T17:18:28Z | Introduction to the exploitation of (elf-like) binary | https://github.com/AndreIglesias/Rainfall | 1 | 0| 
-| 20240209T13:29:55Z | Make Uploader ASP Line By Line Use Input Text CMD > Bypass Quotes | https://github.com/Zorritaaa/mssql_exec-exploit-upload-asp | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240210T00:27:32Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 208 | 57| 
+| 20240210T12:09:22Z | Single PHP file to detect potentially malicious threats based on token and hash with web interface | https://github.com/Cvar1984/sussyfinder | 15 | 4| 
+| 20240210T11:48:59Z | Null | https://github.com/PrinciMixtiy/Backdoor | 0 | 0| 
+| 20240210T08:47:15Z | assistant tool | https://github.com/ZaseRgb/amoreBackdoor | 0 | 0| 
+| 20240210T08:30:31Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 210 | 57| 
 | 20240209T09:07:22Z | Allows you to see if there is a backdoor or virus in your FiveM server before launching. | https://github.com/M4lwqrex0/M4lScanner | 0 | 0| 
 | 20240209T08:42:24Z | Android Mobile | https://github.com/RENANZG/My-Mobile | 5 | 1| 
-| 20240209T08:32:29Z | Single PHP file to detect potentially malicious threats based on token and hash with web interface | https://github.com/Cvar1984/sussyfinder | 10 | 4| 
 | 20240209T06:20:03Z | project source code for %MHBAT: Malicious Head Backdoor Attack on Transformers% | https://github.com/ztb-35/MHBAT | 0 | 0| 
 | 20240208T12:36:29Z | Null | https://github.com/hbrachemi/efficiency_backdoor | 0 | 0| 
 | 20240208T11:04:14Z | The C2 Cloud is a robust web-based C2 framework, designed to simplify the life of penetration testers. It allows easy access to compromised backdoors, just like accessing an EC2 instance in the AWS cloud. It can manage several simultaneous backdoor sessions with a user-friendly interface.  | https://github.com/govindasamyarun/c2-cloud | 11 | 0| 
 | 20240208T07:18:06Z | Code for paper %Universal Jailbreak Backdoors from Poisoned Human Feedback% | https://github.com/ethz-spylab/rlhf-poisoning | 20 | 2| 
-| 20240207T18:06:01Z | Mod Lists and Configs for the Boys | https://github.com/DaisyAge12/Backdoor-Boys | 0 | 0| 
-| 20240207T15:57:38Z | A graphical automation to monitor if backdoors/default settings are still active on the compromised machines over time.  | https://github.com/Drakiat/Checker | 29 | 4| 
 
 
 # symbolic execution on Github 推荐
@@ -116,16 +116,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240210T09:57:28Z | experience-primer-copilot-HunterFuzzo created by GitHub Classroom | https://github.com/Exp-Primer-Copilot-Cohort-1/experience-primer-copilot-HunterFuzzo | 0 | 0| 
+| 20240210T09:01:27Z | Fuzzer integrated with ConStaBL | https://github.com/karthiv/ConstaBL-Fuzz | 0 | 0| 
+| 20240210T08:27:15Z | Null | https://github.com/i3301/Domain-Fuzzer | 0 | 0| 
+| 20240210T05:33:19Z | Null | https://github.com/mahi397/fuzzy-memory | 0 | 0| 
 | 20240210T02:27:08Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 529 | 55| 
 | 20240210T02:26:57Z | Null | https://github.com/NicolasDuranGarces/fuzzy-octo-fortnight | 0 | 0| 
 | 20240210T01:13:34Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51997 | 23565| 
 | 20240210T00:37:00Z | Null | https://github.com/wendylundy/fuzzy-moon | 0 | 0| 
 | 20240210T00:10:47Z | Minimal Fuzzy Search Implementation in C. | https://github.com/deter0/minimal-fuzzy-search-in-c | 1 | 0| 
 | 20240209T23:23:43Z | Null | https://github.com/tomsew/fuzzy-sweater | 0 | 0| 
-| 20240209T23:04:04Z | Null | https://github.com/ubmit/fuzzy-movie | 0 | 0| 
-| 20240209T22:31:35Z | Null | https://github.com/william36t/fuzzy-stream | 0 | 0| 
-| 20240209T20:50:30Z | Null | https://github.com/ThandoDev/fuzzy-funicular | 0 | 0| 
-| 20240209T20:09:00Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9429 | 2118| 
 
 
 
