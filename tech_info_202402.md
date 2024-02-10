@@ -116,6 +116,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240210T02:27:08Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 529 | 55| 
+| 20240210T02:26:57Z | Null | https://github.com/NicolasDuranGarces/fuzzy-octo-fortnight | 0 | 0| 
 | 20240210T01:13:34Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51997 | 23565| 
 | 20240210T00:37:00Z | Null | https://github.com/wendylundy/fuzzy-moon | 0 | 0| 
 | 20240210T00:10:47Z | Minimal Fuzzy Search Implementation in C. | https://github.com/deter0/minimal-fuzzy-search-in-c | 1 | 0| 
@@ -124,8 +126,6 @@
 | 20240209T22:31:35Z | Null | https://github.com/william36t/fuzzy-stream | 0 | 0| 
 | 20240209T20:50:30Z | Null | https://github.com/ThandoDev/fuzzy-funicular | 0 | 0| 
 | 20240209T20:09:00Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9429 | 2118| 
-| 20240209T13:19:36Z | Fuzz App is a revolutionary open-source Flutter UI designed to streamline the food ordering process and enhance the dining experience for users worldwide. With a sleek and intuitive interface, Fuzz App offers a seamless platform for users to browse menus, place orders, and track deliveries with ease. | https://github.com/muhammad-fiaz/FuzzApp | 1 | 0| 
-| 20240209T13:18:11Z | Rust crate for string fuzzy matching (using Levenshtein,  Jaro-Winkler and other algorithms)  | https://github.com/luizvbo/fuzzt | 0 | 0| 
 
 
 
