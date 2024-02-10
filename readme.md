@@ -76,7 +76,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20240209T23:23:43Z | Null | https://github.com/tomsew/fuzzy-sweater | 0 | 0| 
-| 20240209T23:16:23Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51996 | 23565| 
 | 20240209T23:04:04Z | Null | https://github.com/ubmit/fuzzy-movie | 0 | 0| 
 | 20240209T22:31:35Z | Null | https://github.com/william36t/fuzzy-stream | 0 | 0| 
 | 20240209T20:50:30Z | Null | https://github.com/ThandoDev/fuzzy-funicular | 0 | 0| 
@@ -85,6 +84,7 @@
 | 20240209T13:18:11Z | Rust crate for string fuzzy matching (using Levenshtein,  Jaro-Winkler and other algorithms)  | https://github.com/luizvbo/fuzzt | 0 | 0| 
 | 20240209T11:59:33Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4441 | 923| 
 | 20240209T11:29:02Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 131 | 15| 
+| 20240209T10:57:30Z | For testing ci | https://github.com/Chandra158/test-fuzz | 0 | 0| 
 
 
 

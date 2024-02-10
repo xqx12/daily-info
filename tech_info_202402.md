@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240210T01:13:16Z | Null | https://github.com/matrixjaen18/exploit | 0 | 0| 
 | 20240209T22:45:03Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5760 | 1108| 
 | 20240209T17:18:28Z | Introduction to the exploitation of (elf-like) binary | https://github.com/AndreIglesias/Rainfall | 1 | 0| 
 | 20240209T13:29:55Z | Make Uploader ASP Line By Line Use Input Text CMD > Bypass Quotes | https://github.com/Zorritaaa/mssql_exec-exploit-upload-asp | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20240209T02:50:15Z | Null | https://github.com/ZerpStvn/exploit | 0 | 0| 
 | 20240209T02:46:16Z | Null | https://github.com/peter-lgxj/Exploiting_Doubly_Adversarial_Examples_for_Improving_Adversarial_Robustness | 2 | 0| 
 | 20240209T02:11:45Z | Null | https://github.com/gabriel-nadalin/proxmark-exploits | 0 | 0| 
-| 20240209T01:18:53Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-golang-nested-Fg4x6-exploit-qualify | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -116,10 +116,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240210T01:13:34Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51997 | 23565| 
 | 20240210T00:37:00Z | Null | https://github.com/wendylundy/fuzzy-moon | 0 | 0| 
 | 20240210T00:10:47Z | Minimal Fuzzy Search Implementation in C. | https://github.com/deter0/minimal-fuzzy-search-in-c | 1 | 0| 
 | 20240209T23:23:43Z | Null | https://github.com/tomsew/fuzzy-sweater | 0 | 0| 
-| 20240209T23:16:23Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51996 | 23565| 
 | 20240209T23:04:04Z | Null | https://github.com/ubmit/fuzzy-movie | 0 | 0| 
 | 20240209T22:31:35Z | Null | https://github.com/william36t/fuzzy-stream | 0 | 0| 
 | 20240209T20:50:30Z | Null | https://github.com/ThandoDev/fuzzy-funicular | 0 | 0| 
