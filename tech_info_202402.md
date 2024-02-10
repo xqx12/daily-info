@@ -26,6 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240209T23:01:27Z | CVE-2024-22024 | Check for CVE-2024-22024 vulnerability in Ivanti Connect Secure | https://github.com/0dteam/CVE-2024-22024 | | 
+| 20240209T18:08:57Z | CVE-2024-21887 | Ivanti Connect Secure &  Ivanti Policy Secure allows an authenticated administrator to send specially crafted requests and execute arbitrary commands on the appliance. (RCE Exploits) | https://github.com/imhunterand/CVE-2024-21887 | | 
+| 20240209T14:20:54Z | CVE-2023-5178 | Null | https://github.com/rockrid3r/CVE-2023-5178 | | 
 | 20240208T20:55:23Z | cve-2022-42889 | Null | https://github.com/MendDemo-josh/cve-2022-42889-text4shell | | 
 | 20240208T20:54:36Z | cve-2022-42889 | Null | https://github.com/joshbnewton31080/cve-2022-42889-text4shell | | 
 | 20240208T19:04:47Z | CVE-2021-32789 | Authenticated Blind SQL Injection. Wordpress woocommerce plugin versions >= 2.5.0 | https://github.com/DonVorrin/CVE-2021-32789 | | 
@@ -33,16 +36,13 @@
 | 20240208T15:42:59Z | CVE-2021-4034 | CVE-2021-4034 | https://github.com/OpenCVEs/CVE-2021-4034 | | 
 | 20240208T08:07:53Z | CVE-2023-30547 | PoC to CVE-2023-30547 (Library vm2) | https://github.com/user0x1337/CVE-2023-30547 | | 
 | 20240207T12:23:06Z | CVE-2024-20931 | CVE-2024-20931 Oracle A RCE vuln based on Weblogic T3\IIOP protocol  | https://github.com/labesterOct/CVE-2024-20931 | | 
-| 20240207T07:08:55Z | CVE-2023-23397 | C implementation of Outlook 0-click vulnerability | https://github.com/alsaeroth/CVE-2023-23397-POC | | 
-| 20240207T06:58:17Z | CVE-2023-4863 | C implementation of libwebp 0-click vulnerability | https://github.com/alsaeroth/CVE-2023-4863-POC | | 
-| 20240207T06:56:53Z | CVE-2023-4450 | Null | https://github.com/ilikeoyt/CVE-2023-4450-Attack | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240209T12:45:26Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15229 | 455| 
-| 20240208T19:22:44Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 433 | 9| 
+| 20240209T22:42:01Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15228 | 455| 
+| 20240209T19:17:30Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 434 | 9| 
 | 20240208T17:53:25Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2408 | 654| 
 | 20240207T19:16:59Z | Null | https://github.com/fchamicapereira/synapse-klee | 0 | 3| 
 | 20240207T11:34:03Z | Null | https://github.com/DanielleJadine/SneakyKleen | 0 | 4| 
@@ -63,6 +63,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240209T22:45:03Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5760 | 1108| 
+| 20240209T17:18:28Z | Introduction to the exploitation of (elf-like) binary | https://github.com/AndreIglesias/Rainfall | 1 | 0| 
 | 20240209T13:29:55Z | Make Uploader ASP Line By Line Use Input Text CMD > Bypass Quotes | https://github.com/Zorritaaa/mssql_exec-exploit-upload-asp | 0 | 0| 
 | 20240209T10:51:50Z | Hash collisions and exploitations | https://github.com/corkami/collisions | 2837 | 176| 
 | 20240209T10:48:50Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 791 | 186| 
@@ -71,23 +73,21 @@
 | 20240209T02:46:16Z | Null | https://github.com/peter-lgxj/Exploiting_Doubly_Adversarial_Examples_for_Improving_Adversarial_Robustness | 2 | 0| 
 | 20240209T02:11:45Z | Null | https://github.com/gabriel-nadalin/proxmark-exploits | 0 | 0| 
 | 20240209T01:18:53Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-golang-nested-Fg4x6-exploit-qualify | 0 | 0| 
-| 20240209T00:16:32Z | TJM rush was a old minecraft server inspired by pizza tower were you would collect treasure and escape before the timer ran out, in this you have to exploit the glitches in order to get the emerald and escape at the end, good luck! (dc: R6tZTDssbD) | https://github.com/JMMC101/TJM-rush-but-scuffed | 0 | 0| 
-| 20240208T23:55:36Z | Null | https://github.com/codingcore13/Extremely-Silent-JPG-Exploit-NEW-cw | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240210T00:27:32Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 208 | 57| 
 | 20240209T09:07:22Z | Allows you to see if there is a backdoor or virus in your FiveM server before launching. | https://github.com/M4lwqrex0/M4lScanner | 0 | 0| 
 | 20240209T08:42:24Z | Android Mobile | https://github.com/RENANZG/My-Mobile | 5 | 1| 
 | 20240209T08:32:29Z | Single PHP file to detect potentially malicious threats based on token and hash with web interface | https://github.com/Cvar1984/sussyfinder | 10 | 4| 
 | 20240209T06:20:03Z | project source code for %MHBAT: Malicious Head Backdoor Attack on Transformers% | https://github.com/ztb-35/MHBAT | 0 | 0| 
 | 20240208T12:36:29Z | Null | https://github.com/hbrachemi/efficiency_backdoor | 0 | 0| 
+| 20240208T11:04:14Z | The C2 Cloud is a robust web-based C2 framework, designed to simplify the life of penetration testers. It allows easy access to compromised backdoors, just like accessing an EC2 instance in the AWS cloud. It can manage several simultaneous backdoor sessions with a user-friendly interface.  | https://github.com/govindasamyarun/c2-cloud | 11 | 0| 
 | 20240208T07:18:06Z | Code for paper %Universal Jailbreak Backdoors from Poisoned Human Feedback% | https://github.com/ethz-spylab/rlhf-poisoning | 20 | 2| 
 | 20240207T18:06:01Z | Mod Lists and Configs for the Boys | https://github.com/DaisyAge12/Backdoor-Boys | 0 | 0| 
 | 20240207T15:57:38Z | A graphical automation to monitor if backdoors/default settings are still active on the compromised machines over time.  | https://github.com/Drakiat/Checker | 29 | 4| 
-| 20240207T09:30:27Z | a skript for backdooring servers | https://github.com/iHategithub9000/qBackdoor | 0 | 0| 
-| 20240207T01:50:28Z | BackdoorSim: An Educational into Remote Administration Tools | https://github.com/HalilDeniz/BackDoorSim | 2 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -115,16 +115,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240209T13:34:06Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9428 | 2117| 
+| 20240210T00:37:00Z | Null | https://github.com/wendylundy/fuzzy-moon | 0 | 0| 
+| 20240210T00:10:47Z | Minimal Fuzzy Search Implementation in C. | https://github.com/deter0/minimal-fuzzy-search-in-c | 1 | 0| 
+| 20240209T23:23:43Z | Null | https://github.com/tomsew/fuzzy-sweater | 0 | 0| 
+| 20240209T23:16:23Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51996 | 23565| 
+| 20240209T23:04:04Z | Null | https://github.com/ubmit/fuzzy-movie | 0 | 0| 
+| 20240209T22:31:35Z | Null | https://github.com/william36t/fuzzy-stream | 0 | 0| 
+| 20240209T20:50:30Z | Null | https://github.com/ThandoDev/fuzzy-funicular | 0 | 0| 
+| 20240209T20:09:00Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9429 | 2118| 
 | 20240209T13:19:36Z | Fuzz App is a revolutionary open-source Flutter UI designed to streamline the food ordering process and enhance the dining experience for users worldwide. With a sleek and intuitive interface, Fuzz App offers a seamless platform for users to browse menus, place orders, and track deliveries with ease. | https://github.com/muhammad-fiaz/FuzzApp | 1 | 0| 
 | 20240209T13:18:11Z | Rust crate for string fuzzy matching (using Levenshtein,  Jaro-Winkler and other algorithms)  | https://github.com/luizvbo/fuzzt | 0 | 0| 
-| 20240209T11:59:33Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4441 | 923| 
-| 20240209T11:29:02Z | To make fuzzing Rust easy | https://github.com/trailofbits/test-fuzz | 131 | 15| 
-| 20240209T10:57:30Z | For testing ci | https://github.com/Chandra158/test-fuzz | 0 | 0| 
-| 20240209T10:25:10Z | Null | https://github.com/AdityaPurswani/COMP4033---Fuzzy-System-to-Assist-Doctors | 0 | 1| 
-| 20240209T08:12:36Z | Null | https://github.com/http-shubjit/Csv-Fuzzy-Sorting | 0 | 0| 
-| 20240209T02:54:31Z | Null | https://github.com/Shashiawari/FuzzySets | 0 | 0| 
-| 20240209T02:54:01Z | Differential testing and fuzzing of HTTP servers and proxies | https://github.com/narfindustries/http-garden | 303 | 15| 
 
 
 
