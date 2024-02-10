@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240210T01:48:54Z | Null | https://github.com/codingcore13/Silent-JPG-Exploit-NEW- | 1 | 0| 
 | 20240210T01:48:07Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-bii | 1 | 0| 
 | 20240210T01:47:15Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-bi | 1 | 0| 
 | 20240210T01:46:28Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-bi | 1 | 0| 
@@ -72,7 +73,6 @@
 | 20240209T17:18:28Z | Introduction to the exploitation of (elf-like) binary | https://github.com/AndreIglesias/Rainfall | 1 | 0| 
 | 20240209T13:29:55Z | Make Uploader ASP Line By Line Use Input Text CMD > Bypass Quotes | https://github.com/Zorritaaa/mssql_exec-exploit-upload-asp | 0 | 0| 
 | 20240209T13:26:27Z | PSFree WebKit Exploit for PS4 6.xx to 9.60 and PS5 1.xx to 5.xx | https://github.com/kmeps4/PSFree | 32 | 1| 
-| 20240209T10:51:50Z | Hash collisions and exploitations | https://github.com/corkami/collisions | 2837 | 176| 
 
 
 # backdoor on Github 推荐
