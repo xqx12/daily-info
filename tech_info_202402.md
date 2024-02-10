@@ -93,6 +93,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240209T23:37:56Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 201 | 42| 
 | 20240209T13:37:21Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 733 | 132| 
 | 20240208T17:53:25Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2408 | 654| 
 | 20240208T02:49:07Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 510 | 44| 
@@ -102,12 +103,12 @@
 | 20240205T16:29:37Z | Null | https://github.com/holdenbrown/Compression-of-Symbolic-Execution-Trees | 0 | 0| 
 | 20240205T15:00:22Z | A Guix channel for reproducible symbolic execution research | https://github.com/nmeum/guix-symex | 0 | 0| 
 | 20240204T10:07:08Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 222 | 22| 
-| 20240202T12:41:38Z | A symbolic execution engine for EVM smart contract binaries | https://github.com/ucsb-seclab/greed | 22 | 1| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240209T17:40:06Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 111 | 4| 
 | 20240209T03:41:34Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 136 | 14| 
 | 20240204T12:53:36Z | (NDSS 2024) Optimizing Decompiler Output with LLM | https://github.com/PeiweiHu/DeGPT | 6 | 0| 
 
