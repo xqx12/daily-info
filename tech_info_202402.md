@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240210T13:06:33Z | Null | https://github.com/agenduit168/exploit | 0 | 0| 
 | 20240210T12:46:24Z | A major patch for Splinter Cell: Double Agent%s Online mode, fixing bugs and exploits while improving gameplay and map balance. | https://github.com/Joshhhuaaa/EnhancedSCDAOnline | 0 | 0| 
 | 20240210T12:08:31Z | Un nuevo exploit de ChatGPT o una alternativa a D.A.N. Las siglas de RFSR son RE.FU.SE.R. Que se salta la política de OpenAI. | https://github.com/Danucosukosuko/RFSRCexploit | 3 | 0| 
 | 20240210T12:03:06Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5763 | 1108| 
@@ -72,7 +73,6 @@
 | 20240210T01:48:07Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-bii | 1 | 0| 
 | 20240210T01:47:15Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-bi | 1 | 0| 
 | 20240210T01:46:28Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-bi | 1 | 0| 
-| 20240210T01:42:07Z | Test web page that show a user%s files | https://github.com/LucasFaudman/pixee-safe-command-exploit-example-and-fix | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -93,13 +93,13 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240210T10:37:26Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 53 | 9| 
 | 20240209T23:37:56Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 201 | 42| 
 | 20240209T13:37:21Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 733 | 132| 
-| 20240208T17:53:25Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2408 | 654| 
+| 20240208T17:53:25Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2408 | 653| 
 | 20240208T02:49:07Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 510 | 44| 
 | 20240207T16:26:36Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 375 | 84| 
 | 20240206T13:30:24Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 495 | 34| 
-| 20240205T21:50:16Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 52 | 9| 
 | 20240205T16:29:37Z | Null | https://github.com/holdenbrown/Compression-of-Symbolic-Execution-Trees | 0 | 0| 
 | 20240205T15:00:22Z | A Guix channel for reproducible symbolic execution research | https://github.com/nmeum/guix-symex | 0 | 0| 
 | 20240204T10:07:08Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 222 | 22| 
