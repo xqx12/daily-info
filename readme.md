@@ -71,6 +71,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240210T13:09:38Z | fuzzy geometries for xyzcad | https://github.com/TheTesla/Fuzzyoemtry | 0 | 0| 
 | 20240210T09:57:28Z | experience-primer-copilot-HunterFuzzo created by GitHub Classroom | https://github.com/Exp-Primer-Copilot-Cohort-1/experience-primer-copilot-HunterFuzzo | 0 | 0| 
 | 20240210T09:01:27Z | Fuzzer integrated with ConStaBL | https://github.com/karthiv/ConstaBL-Fuzz | 0 | 0| 
 | 20240210T08:27:15Z | Null | https://github.com/i3301/Domain-Fuzzer | 0 | 0| 

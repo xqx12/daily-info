@@ -116,6 +116,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240210T13:09:38Z | fuzzy geometries for xyzcad | https://github.com/TheTesla/Fuzzyoemtry | 0 | 0| 
 | 20240210T09:57:28Z | experience-primer-copilot-HunterFuzzo created by GitHub Classroom | https://github.com/Exp-Primer-Copilot-Cohort-1/experience-primer-copilot-HunterFuzzo | 0 | 0| 
 | 20240210T09:01:27Z | Fuzzer integrated with ConStaBL | https://github.com/karthiv/ConstaBL-Fuzz | 0 | 0| 
 | 20240210T08:27:15Z | Null | https://github.com/i3301/Domain-Fuzzer | 0 | 0| 
@@ -125,7 +126,6 @@
 | 20240210T01:13:34Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51997 | 23565| 
 | 20240210T00:37:00Z | Null | https://github.com/wendylundy/fuzzy-moon | 0 | 0| 
 | 20240210T00:10:47Z | Minimal Fuzzy Search Implementation in C. | https://github.com/deter0/minimal-fuzzy-search-in-c | 1 | 0| 
-| 20240209T23:23:43Z | Null | https://github.com/tomsew/fuzzy-sweater | 0 | 0| 
 
 
 
