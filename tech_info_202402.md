@@ -63,8 +63,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240211T02:23:02Z | PSFree WebKit Exploit & ChendoChap ROP and Kernel Exploit For PS4 7.02 Firmware | https://github.com/kmeps4/psfree700 | 3 | 0| 
 | 20240211T02:13:09Z | iOS 15-17,18,19… Customization Toolbox (No Exploits, No PC, Untethered) | https://github.com/Broco8Dev/Gogh-Repositories | 12 | 1| 
-| 20240211T01:38:36Z | PSFree WebKit Exploit & ChendoChap ROP and Kernel Exploit For PS4 7.02 Firmware | https://github.com/kmeps4/psfree700 | 2 | 0| 
 | 20240211T00:29:37Z | A Web Exploitation CTF challenge inspired by CSAW23%s %Rainbow Notes% | https://github.com/kdeary/ctf_rainbow_posts | 0 | 0| 
 | 20240210T18:56:02Z | JavaScript payload and supporting software to be used as XSS payload or post exploitation implant to monitor users as they use the targeted application. | https://github.com/hoodoer/JS-Tap | 160 | 14| 
 | 20240210T13:15:13Z | Official Discord Raider , a Discord raider with various features Its ALWAYS UpToDate 100% SAFE ENJOY RAIDING :) | https://github.com/Tips-Discord/Cwelium | 24 | 1| 
