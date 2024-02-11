@@ -116,6 +116,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240211T13:57:35Z | Null | https://github.com/pfpt-stg-pinwheel/fuzzy-train | 0 | 0| 
 | 20240211T13:30:23Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52017 | 23573| 
 | 20240211T13:22:54Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 535 | 55| 
 | 20240211T13:02:44Z | Null | https://github.com/karlowiczpl/Guitar-fuzz | 0 | 0| 
@@ -125,7 +126,6 @@
 | 20240211T09:58:24Z | UPN Veteran Jatim , Aquaponic pH Control-Monitoring with Type-2 Fuzzy Method Based on IoT Bot , S1 Thesis Project | https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot | 2 | 0| 
 | 20240211T02:49:03Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9431 | 2119| 
 | 20240210T23:08:37Z | My precious work for the %Fuzzy modelling% course in PCZ. | https://github.com/furkansimsekli/pcz-fuzzy-modelling | 0 | 0| 
-| 20240210T22:22:29Z | Null | https://github.com/SaidGuerazem/Vision-based-autonomous-path-tracking-of-a-mobile-robot-using-fuzzy-logic | 0 | 0| 
 
 
 

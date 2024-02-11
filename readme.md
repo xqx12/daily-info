@@ -69,6 +69,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240211T13:57:35Z | Null | https://github.com/pfpt-stg-pinwheel/fuzzy-train | 0 | 0| 
 | 20240211T13:30:23Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52017 | 23573| 
 | 20240211T13:22:54Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 535 | 55| 
 | 20240211T13:02:44Z | Null | https://github.com/karlowiczpl/Guitar-fuzz | 0 | 0| 
