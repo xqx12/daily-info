@@ -78,6 +78,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240211T02:19:44Z | Null | https://github.com/hypoxia125/faf_coop_operation_backdoor | 0 | 0| 
 | 20240210T15:00:26Z | Tired of Todo apps having backdoors to the E-Corp? Meet EyeNoMo Todo app built on Rust and SvelteKit. | https://github.com/mr-robot-1757/eyenomo-todo | 0 | 0| 
 | 20240210T13:39:55Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 211 | 57| 
 | 20240210T12:09:22Z | Single PHP file to detect potentially malicious threats based on token and hash with web interface | https://github.com/Cvar1984/sussyfinder | 15 | 4| 
@@ -87,7 +88,6 @@
 | 20240209T09:07:22Z | Allows you to see if there is a backdoor or virus in your FiveM server before launching. | https://github.com/M4lwqrex0/M4lScanner | 0 | 0| 
 | 20240209T08:42:24Z | Android Mobile | https://github.com/RENANZG/My-Mobile | 5 | 1| 
 | 20240209T06:20:03Z | project source code for %MHBAT: Malicious Head Backdoor Attack on Transformers% | https://github.com/ztb-35/MHBAT | 0 | 0| 
-| 20240208T12:36:29Z | Null | https://github.com/hbrachemi/efficiency_backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
