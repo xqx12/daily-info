@@ -68,6 +68,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240211T13:02:44Z | Null | https://github.com/karlowiczpl/Guitar-fuzz | 0 | 0| 
 | 20240211T12:34:58Z | In this repository we set some information related to the paper entitled %Multiple fuzzy Sugeno lambda-measures in networks. An application% | https://github.com/inmaggp/Multiple-fuzzy-Sugeno-lambda-measures-in-networks.-An-application | 0 | 0| 
 | 20240211T12:33:54Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52016 | 23573| 
 | 20240211T12:12:11Z | Null | https://github.com/akhileshchary/A-Fuzzy-preference | 0 | 0| 
