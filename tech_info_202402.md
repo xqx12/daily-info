@@ -63,7 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240211T01:13:25Z | PSFree WebKit Exploit & ChendoChap ROP and Kernel Exploit For PS4 7.02 Firmware | https://github.com/kmeps4/psfree700 | 1 | 0| 
+| 20240211T01:38:36Z | PSFree WebKit Exploit & ChendoChap ROP and Kernel Exploit For PS4 7.02 Firmware | https://github.com/kmeps4/psfree700 | 2 | 0| 
 | 20240211T00:29:37Z | A Web Exploitation CTF challenge inspired by CSAW23%s %Rainbow Notes% | https://github.com/kdeary/ctf_rainbow_posts | 0 | 0| 
 | 20240210T13:15:13Z | Official Discord Raider , a Discord raider with various features Its ALWAYS UpToDate 100% SAFE ENJOY RAIDING :) | https://github.com/Tips-Discord/Cwelium | 24 | 1| 
 | 20240210T13:06:33Z | Null | https://github.com/agenduit168/exploit | 0 | 0| 
