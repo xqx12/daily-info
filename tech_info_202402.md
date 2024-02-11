@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240211T12:35:11Z | CVE-2022-4262 | Full Chain Analysis of CVE-2022-4262, a non-trivial feedback slot type confusion in V8. | https://github.com/bjrjk/CVE-2022-4262 | | 
+| 20240211T13:14:48Z | CVE-2022-4262 | Full Chain Analysis of CVE-2022-4262, a non-trivial feedback slot type confusion in V8. | https://github.com/bjrjk/CVE-2022-4262 | | 
 | 20240211T11:10:59Z | CVE-2024-22024 | Check for CVE-2024-22024 vulnerability in Ivanti Connect Secure | https://github.com/0dteam/CVE-2024-22024 | | 
 | 20240211T04:57:28Z | CVE-2022-38694 | This is a one-time signature verification bypass. For persistent signature verification bypass, check https://github.com/TomKing062/CVE-2022-38691_38692 | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20240211T01:52:52Z | CVE-2024-22867 | Null | https://github.com/brandon-t-elliott/CVE-2024-22867 | | 
