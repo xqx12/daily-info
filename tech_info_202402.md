@@ -65,6 +65,7 @@
 | --- | --- | --- | --- | ---| 
 | 20240211T01:38:36Z | PSFree WebKit Exploit & ChendoChap ROP and Kernel Exploit For PS4 7.02 Firmware | https://github.com/kmeps4/psfree700 | 2 | 0| 
 | 20240211T00:29:37Z | A Web Exploitation CTF challenge inspired by CSAW23%s %Rainbow Notes% | https://github.com/kdeary/ctf_rainbow_posts | 0 | 0| 
+| 20240210T18:56:02Z | JavaScript payload and supporting software to be used as XSS payload or post exploitation implant to monitor users as they use the targeted application. | https://github.com/hoodoer/JS-Tap | 160 | 14| 
 | 20240210T13:15:13Z | Official Discord Raider , a Discord raider with various features Its ALWAYS UpToDate 100% SAFE ENJOY RAIDING :) | https://github.com/Tips-Discord/Cwelium | 24 | 1| 
 | 20240210T13:06:33Z | Null | https://github.com/agenduit168/exploit | 0 | 0| 
 | 20240210T12:46:24Z | A major patch for Splinter Cell: Double Agent%s Online mode, fixing bugs and exploits while improving gameplay and map balance. | https://github.com/Joshhhuaaa/EnhancedSCDAOnline | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20240210T12:03:06Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5763 | 1108| 
 | 20240210T11:56:04Z | A major patch for Splinter Cell: Pandora Tomorrow%s Versus mode, fixing bugs and exploits while improving gameplay. | https://github.com/Joshhhuaaa/EnhancedSCPTVersus | 0 | 0| 
 | 20240210T11:55:44Z | A major patch for Splinter Cell: Chaos Theory%s Versus mode, fixing bugs and exploits while improving gameplay and map balance. | https://github.com/Joshhhuaaa/EnhancedSCCTVersus | 0 | 0| 
-| 20240210T09:54:43Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 94 | 14| 
 
 
 # backdoor on Github 推荐

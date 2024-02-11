@@ -42,6 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240210T18:56:02Z | JavaScript payload and supporting software to be used as XSS payload or post exploitation implant to monitor users as they use the targeted application. | https://github.com/hoodoer/JS-Tap | 160 | 14| 
 | 20240210T13:15:13Z | Official Discord Raider , a Discord raider with various features Its ALWAYS UpToDate 100% SAFE ENJOY RAIDING :) | https://github.com/Tips-Discord/Cwelium | 24 | 1| 
 | 20240210T13:06:33Z | Null | https://github.com/agenduit168/exploit | 0 | 0| 
 | 20240210T12:46:24Z | A major patch for Splinter Cell: Double Agent%s Online mode, fixing bugs and exploits while improving gameplay and map balance. | https://github.com/Joshhhuaaa/EnhancedSCDAOnline | 0 | 0| 
@@ -51,7 +52,6 @@
 | 20240210T11:55:44Z | A major patch for Splinter Cell: Chaos Theory%s Versus mode, fixing bugs and exploits while improving gameplay and map balance. | https://github.com/Joshhhuaaa/EnhancedSCCTVersus | 0 | 0| 
 | 20240210T09:54:43Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 94 | 14| 
 | 20240210T01:48:54Z | Null | https://github.com/codingcore13/Silent-JPG-Exploit-NEW- | 1 | 0| 
-| 20240210T01:48:07Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-bii | 1 | 0| 
 
 
 # backdoor on Github 推荐
