@@ -63,7 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240211T11:48:21Z | psfree new exploit | https://github.com/ps4xploit900/psfree | 0 | 0| 
+| 20240211T13:02:12Z | psfree new exploit | https://github.com/ps4xploit900/psfree | 0 | 0| 
 | 20240211T11:13:55Z | Bug Bounty Tricks and useful payloads and bypasses for Web Application Security. | https://github.com/Mehdi0x90/Web_Hacking | 140 | 12| 
 | 20240211T02:35:58Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5764 | 1108| 
 | 20240211T02:23:02Z | PSFree WebKit Exploit & ChendoChap ROP and Kernel Exploit For PS4 7.02 Firmware | https://github.com/kmeps4/psfree700 | 3 | 0| 
