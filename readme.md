@@ -22,7 +22,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240210T13:49:37Z | CVE-2024-22024 | Check for CVE-2024-22024 vulnerability in Ivanti Connect Secure | https://github.com/0dteam/CVE-2024-22024 | | 
+| 20240210T16:13:07Z | CVE-2023-35080 | Null | https://github.com/HopHouse/Ivanti-Pulse_VPN-Client_Exploit-CVE-2023-35080_Privilege-escalation | | 
 | 20240210T10:26:36Z | CVE-2024-24816 | CKEditor 4 < 4.24.0-lts - XSS vulnerability in samples that use the "preview" feature. | https://github.com/afine-com/CVE-2024-24816 | | 
 | 20240210T06:37:03Z | CVE-2024-22024 | CVE-2024-22024 vulnerability in Ivanti Connect Secure | https://github.com/labesterOct/CVE-2024-22024 | | 
 
@@ -30,7 +30,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240210T13:50:29Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15240 | 456| 
+| 20240210T22:07:21Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2410 | 653| 
 | 20240210T13:50:13Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 440 | 9| 
 
 
@@ -57,6 +57,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240210T15:00:26Z | Tired of Todo apps having backdoors to the E-Corp? Meet EyeNoMo Todo app built on Rust and SvelteKit. | https://github.com/mr-robot-1757/eyenomo-todo | 0 | 0| 
 | 20240210T13:39:55Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 211 | 57| 
 | 20240210T12:09:22Z | Single PHP file to detect potentially malicious threats based on token and hash with web interface | https://github.com/Cvar1984/sussyfinder | 15 | 4| 
 | 20240210T11:48:59Z | Null | https://github.com/PrinciMixtiy/Backdoor | 0 | 0| 
@@ -78,16 +79,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240210T23:22:13Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52011 | 23570| 
+| 20240210T23:08:37Z | My precious work for the %Fuzzy modelling% course in PCZ. | https://github.com/furkansimsekli/pcz-fuzzy-modelling | 0 | 0| 
+| 20240210T22:22:29Z | Null | https://github.com/SaidGuerazem/Vision-based-autonomous-path-tracking-of-a-mobile-robot-using-fuzzy-logic | 0 | 0| 
 | 20240210T13:50:31Z | Null | https://github.com/Baragsen/Api-fuzzer | 0 | 0| 
 | 20240210T13:10:41Z | fuzzy geometries for xyzcad | https://github.com/TheTesla/Fuzzyoemtry | 0 | 0| 
 | 20240210T09:57:28Z | experience-primer-copilot-HunterFuzzo created by GitHub Classroom | https://github.com/Exp-Primer-Copilot-Cohort-1/experience-primer-copilot-HunterFuzzo | 0 | 0| 
 | 20240210T09:01:27Z | Fuzzer integrated with ConStaBL | https://github.com/karthiv/ConstaBL-Fuzz | 0 | 0| 
 | 20240210T08:27:15Z | Null | https://github.com/i3301/Domain-Fuzzer | 0 | 0| 
 | 20240210T05:33:19Z | Null | https://github.com/mahi397/fuzzy-memory | 0 | 0| 
-| 20240210T02:27:08Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 529 | 55| 
-| 20240210T02:26:57Z | Null | https://github.com/NicolasDuranGarces/fuzzy-octo-fortnight | 0 | 0| 
-| 20240210T01:13:34Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 51997 | 23565| 
-| 20240210T00:37:00Z | Null | https://github.com/wendylundy/fuzzy-moon | 0 | 0| 
+| 20240210T03:43:19Z | CATS is a REST API Fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and reports tests with minimum configuration and no coding effort. Tests are self-healing and do not require maintenance. | https://github.com/Endava/cats | 1045 | 73| 
 
 
 
