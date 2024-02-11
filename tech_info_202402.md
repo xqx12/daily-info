@@ -78,6 +78,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240211T13:30:13Z | Official implementation of Resisting Backdoor Attacks in Federated Learning via Bidirectional Elections and Individual Perspective | https://github.com/zhenqincn/Snowball | 0 | 0| 
 | 20240211T12:15:50Z | backdoor | https://github.com/deusnotam/backdoor | 0 | 0| 
 | 20240211T09:55:04Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 212 | 57| 
 | 20240211T06:24:50Z | [IEEE Transactions on Information Forensics & Security 2023] Imperceptible and Robust Backdoor Attack in 3D Point Cloud | https://github.com/KuofengGao/IRBA | 8 | 1| 
@@ -87,7 +88,6 @@
 | 20240210T12:09:22Z | Single PHP file to detect potentially malicious threats based on token and hash with web interface | https://github.com/Cvar1984/sussyfinder | 15 | 4| 
 | 20240210T11:48:59Z | Null | https://github.com/PrinciMixtiy/Backdoor | 0 | 0| 
 | 20240210T08:47:15Z | assistant tool | https://github.com/ZaseRgb/amoreBackdoor | 0 | 0| 
-| 20240209T17:37:13Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 260 | 31| 
 
 
 # symbolic execution on Github 推荐
@@ -116,10 +116,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240211T13:30:23Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52017 | 23573| 
 | 20240211T13:22:54Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 535 | 55| 
 | 20240211T13:02:44Z | Null | https://github.com/karlowiczpl/Guitar-fuzz | 0 | 0| 
 | 20240211T12:34:58Z | In this repository we set some information related to the paper entitled %Multiple fuzzy Sugeno lambda-measures in networks. An application% | https://github.com/inmaggp/Multiple-fuzzy-Sugeno-lambda-measures-in-networks.-An-application | 0 | 0| 
-| 20240211T12:33:54Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52016 | 23573| 
 | 20240211T12:12:11Z | Null | https://github.com/akhileshchary/A-Fuzzy-preference | 0 | 0| 
 | 20240211T10:03:49Z | Project 1  | https://github.com/Syntax-Error-1337/fuzzy-train | 0 | 0| 
 | 20240211T09:58:24Z | UPN Veteran Jatim , Aquaponic pH Control-Monitoring with Type-2 Fuzzy Method Based on IoT Bot , S1 Thesis Project | https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot | 2 | 0| 
