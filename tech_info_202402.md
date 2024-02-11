@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240211T02:13:09Z | iOS 15-17,18,19… Customization Toolbox (No Exploits, No PC, Untethered) | https://github.com/Broco8Dev/Gogh-Repositories | 12 | 1| 
 | 20240211T01:38:36Z | PSFree WebKit Exploit & ChendoChap ROP and Kernel Exploit For PS4 7.02 Firmware | https://github.com/kmeps4/psfree700 | 2 | 0| 
 | 20240211T00:29:37Z | A Web Exploitation CTF challenge inspired by CSAW23%s %Rainbow Notes% | https://github.com/kdeary/ctf_rainbow_posts | 0 | 0| 
 | 20240210T18:56:02Z | JavaScript payload and supporting software to be used as XSS payload or post exploitation implant to monitor users as they use the targeted application. | https://github.com/hoodoer/JS-Tap | 160 | 14| 
@@ -72,7 +73,6 @@
 | 20240210T12:08:31Z | Un nuevo exploit de ChatGPT o una alternativa a D.A.N. Las siglas de RFSR son RE.FU.SE.R. Que se salta la política de OpenAI. | https://github.com/Danucosukosuko/RFSRCexploit | 3 | 0| 
 | 20240210T12:03:06Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5763 | 1108| 
 | 20240210T11:56:04Z | A major patch for Splinter Cell: Pandora Tomorrow%s Versus mode, fixing bugs and exploits while improving gameplay. | https://github.com/Joshhhuaaa/EnhancedSCPTVersus | 0 | 0| 
-| 20240210T11:55:44Z | A major patch for Splinter Cell: Chaos Theory%s Versus mode, fixing bugs and exploits while improving gameplay and map balance. | https://github.com/Joshhhuaaa/EnhancedSCCTVersus | 0 | 0| 
 
 
 # backdoor on Github 推荐
