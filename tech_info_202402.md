@@ -28,6 +28,7 @@
 | --- | --- | --- | --- | ---| 
 | 20240211T01:52:52Z | CVE-2024-22867 | Null | https://github.com/brandon-t-elliott/CVE-2024-22867 | | 
 | 20240211T00:42:37Z | CVE-2024-22024 | Check for CVE-2024-22024 vulnerability in Ivanti Connect Secure | https://github.com/0dteam/CVE-2024-22024 | | 
+| 20240210T16:30:08Z | CVE-2022-38694 | This is a one-time signature verification bypass. For persistent signature verification bypass, check https://github.com/TomKing062/CVE-2022-38691_38692 | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20240210T16:13:07Z | CVE-2023-35080 | Null | https://github.com/HopHouse/Ivanti-Pulse_VPN-Client_Exploit-CVE-2023-35080_Privilege-escalation | | 
 | 20240210T10:26:36Z | CVE-2024-24816 | CKEditor 4 < 4.24.0-lts - XSS vulnerability in samples that use the "preview" feature. | https://github.com/afine-com/CVE-2024-24816 | | 
 | 20240210T06:37:03Z | CVE-2024-22024 | CVE-2024-22024 vulnerability in Ivanti Connect Secure | https://github.com/labesterOct/CVE-2024-22024 | | 
@@ -35,7 +36,6 @@
 | 20240209T14:20:54Z | CVE-2023-5178 | Null | https://github.com/rockrid3r/CVE-2023-5178 | | 
 | 20240208T20:55:23Z | cve-2022-42889 | Null | https://github.com/MendDemo-josh/cve-2022-42889-text4shell | | 
 | 20240208T20:54:36Z | cve-2022-42889 | Null | https://github.com/joshbnewton31080/cve-2022-42889-text4shell | | 
-| 20240208T19:04:47Z | CVE-2021-32789 | Authenticated Blind SQL Injection. Wordpress woocommerce plugin versions >= 2.5.0 | https://github.com/DonVorrin/CVE-2021-32789 | | 
 
 
 # klee on Github 推荐

@@ -22,6 +22,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240210T16:30:08Z | CVE-2022-38694 | This is a one-time signature verification bypass. For persistent signature verification bypass, check https://github.com/TomKing062/CVE-2022-38691_38692 | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20240210T16:13:07Z | CVE-2023-35080 | Null | https://github.com/HopHouse/Ivanti-Pulse_VPN-Client_Exploit-CVE-2023-35080_Privilege-escalation | | 
 | 20240210T10:26:36Z | CVE-2024-24816 | CKEditor 4 < 4.24.0-lts - XSS vulnerability in samples that use the "preview" feature. | https://github.com/afine-com/CVE-2024-24816 | | 
 | 20240210T06:37:03Z | CVE-2024-22024 | CVE-2024-22024 vulnerability in Ivanti Connect Secure | https://github.com/labesterOct/CVE-2024-22024 | | 
