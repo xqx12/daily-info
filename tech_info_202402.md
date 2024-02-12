@@ -26,22 +26,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240211T13:14:48Z | CVE-2022-4262 | Full Chain Analysis of CVE-2022-4262, a non-trivial feedback slot type confusion in V8. | https://github.com/bjrjk/CVE-2022-4262 | | 
-| 20240211T11:10:59Z | CVE-2024-22024 | Check for CVE-2024-22024 vulnerability in Ivanti Connect Secure | https://github.com/0dteam/CVE-2024-22024 | | 
+| 20240212T00:52:29Z | CVE-2022-4262 | Full Chain Analysis of CVE-2022-4262, a non-trivial feedback slot type confusion in V8. | https://github.com/bjrjk/CVE-2022-4262 | | 
+| 20240212T00:11:14Z | CVE-2023-22527 | CVE-2023-22527 内存马注入工具 | https://github.com/Boogipop/CVE-2023-22527-Godzilla-MEMSHELL | | 
+| 20240211T18:53:05Z | CVE-2022-4262 | Null | https://github.com/quangnh89/CVE-2022-4262 | | 
+| 20240211T16:02:01Z | CVE-2024-22024 | Check for CVE-2024-22024 vulnerability in Ivanti Connect Secure | https://github.com/0dteam/CVE-2024-22024 | | 
+| 20240211T14:40:39Z | cve-2023-46747 | Null | https://github.com/vidura2/cve-2023-46747 | | 
 | 20240211T04:57:28Z | CVE-2022-38694 | This is a one-time signature verification bypass. For persistent signature verification bypass, check https://github.com/TomKing062/CVE-2022-38691_38692 | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20240211T01:52:52Z | CVE-2024-22867 | Null | https://github.com/brandon-t-elliott/CVE-2024-22867 | | 
 | 20240210T16:13:07Z | CVE-2023-35080 | Null | https://github.com/HopHouse/Ivanti-Pulse_VPN-Client_Exploit-CVE-2023-35080_Privilege-escalation | | 
 | 20240210T10:26:36Z | CVE-2024-24816 | CKEditor 4 < 4.24.0-lts - XSS vulnerability in samples that use the "preview" feature. | https://github.com/afine-com/CVE-2024-24816 | | 
 | 20240210T06:37:03Z | CVE-2024-22024 | CVE-2024-22024 vulnerability in Ivanti Connect Secure | https://github.com/labesterOct/CVE-2024-22024 | | 
-| 20240209T18:08:57Z | CVE-2024-21887 | Ivanti Connect Secure &  Ivanti Policy Secure allows an authenticated administrator to send specially crafted requests and execute arbitrary commands on the appliance. (RCE Exploits) | https://github.com/imhunterand/CVE-2024-21887 | | 
-| 20240209T14:20:54Z | CVE-2023-5178 | Null | https://github.com/rockrid3r/CVE-2023-5178 | | 
-| 20240208T20:55:23Z | cve-2022-42889 | Null | https://github.com/MendDemo-josh/cve-2022-42889-text4shell | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240211T13:53:20Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15247 | 456| 
+| 20240212T00:32:15Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15256 | 457| 
+| 20240211T14:38:37Z | 本字体基于Klee one字体及其衍生的霞鹜文楷系列字体进行改做，基于文楷TC修改的字体 | https://github.com/Steve-Yuu/YshiShuti | 16 | 0| 
 | 20240211T07:59:48Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 442 | 9| 
 | 20240210T22:07:21Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2410 | 653| 
 | 20240207T19:16:59Z | Null | https://github.com/fchamicapereira/synapse-klee | 0 | 3| 
@@ -49,8 +50,7 @@
 | 20240205T19:57:37Z | Null | https://github.com/shafiuzzaman-md/edk2_klee | 0 | 0| 
 | 20240205T15:00:22Z | A Guix channel for reproducible symbolic execution research | https://github.com/nmeum/guix-symex | 0 | 0| 
 | 20240204T17:18:40Z | 基於 Klee One 改造的字型，以傳承字形風格為主。 | https://github.com/Ayaginu-Sue/Astalia | 13 | 0| 
-| 20240203T11:15:01Z | Null | https://github.com/geregrassi12/klee-games | 1 | 0| 
-| 20240203T07:44:39Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 107 | 22| 
+| 20240203T11:57:34Z | Null | https://github.com/Melvin-Emmanuel/unicornKleenBackend | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -63,21 +63,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240212T00:21:18Z | Null | https://github.com/codingcore13/Silent-JPG-Exploit-NEW-ea | 1 | 0| 
+| 20240212T00:20:48Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ea | 1 | 0| 
+| 20240212T00:19:58Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-ea | 1 | 0| 
+| 20240212T00:19:25Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-ea | 1 | 0| 
+| 20240212T00:18:24Z | Mostly ctf%s exploits  | https://github.com/daltzinn/HackTheBox | 0 | 0| 
+| 20240211T23:03:25Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5765 | 1108| 
 | 20240211T13:42:53Z | psfree new exploit | https://github.com/ps4xploit900/psfree | 0 | 0| 
 | 20240211T11:13:55Z | Bug Bounty Tricks and useful payloads and bypasses for Web Application Security. | https://github.com/Mehdi0x90/Web_Hacking | 140 | 12| 
-| 20240211T02:35:58Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5764 | 1108| 
 | 20240211T02:23:02Z | PSFree WebKit Exploit & ChendoChap ROP and Kernel Exploit For PS4 7.02 Firmware | https://github.com/kmeps4/psfree700 | 3 | 0| 
 | 20240211T02:13:09Z | iOS 15-17,18,19… Customization Toolbox (No Exploits, No PC, Untethered) | https://github.com/Broco8Dev/Gogh-Repositories | 12 | 1| 
-| 20240211T00:29:37Z | A Web Exploitation CTF challenge inspired by CSAW23%s %Rainbow Notes% | https://github.com/kdeary/ctf_rainbow_posts | 0 | 0| 
-| 20240210T18:56:02Z | JavaScript payload and supporting software to be used as XSS payload or post exploitation implant to monitor users as they use the targeted application. | https://github.com/hoodoer/JS-Tap | 160 | 14| 
-| 20240210T13:15:13Z | Official Discord Raider , a Discord raider with various features Its ALWAYS UpToDate 100% SAFE ENJOY RAIDING :) | https://github.com/Tips-Discord/Cwelium | 24 | 1| 
-| 20240210T13:06:33Z | Null | https://github.com/agenduit168/exploit | 0 | 0| 
-| 20240210T12:46:24Z | A major patch for Splinter Cell: Double Agent%s Online mode, fixing bugs and exploits while improving gameplay and map balance. | https://github.com/Joshhhuaaa/EnhancedSCDAOnline | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240211T16:37:20Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 261 | 31| 
 | 20240211T13:30:13Z | Official implementation of Resisting Backdoor Attacks in Federated Learning via Bidirectional Elections and Individual Perspective | https://github.com/zhenqincn/Snowball | 0 | 0| 
 | 20240211T12:15:50Z | backdoor | https://github.com/deusnotam/backdoor | 0 | 0| 
 | 20240211T09:55:04Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 212 | 57| 
@@ -87,7 +88,6 @@
 | 20240210T15:00:26Z | Tired of Todo apps having backdoors to the E-Corp? Meet EyeNoMo Todo app built on Rust and SvelteKit. | https://github.com/mr-robot-1757/eyenomo-todo | 0 | 0| 
 | 20240210T12:09:22Z | Single PHP file to detect potentially malicious threats based on token and hash with web interface | https://github.com/Cvar1984/sussyfinder | 15 | 4| 
 | 20240210T11:48:59Z | Null | https://github.com/PrinciMixtiy/Backdoor | 0 | 0| 
-| 20240210T08:47:15Z | assistant tool | https://github.com/ZaseRgb/amoreBackdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -116,16 +116,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240212T00:50:41Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52029 | 23574| 
+| 20240211T23:19:45Z | wtf is a distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and / or kernel-mode targets running on Microsoft Windows. | https://github.com/0vercl0k/wtf | 1297 | 123| 
+| 20240211T23:10:33Z | Fuzzy Sabi: Functional storytelling | https://github.com/fuzzysabi/fuzzysabi.github.io | 0 | 0| 
+| 20240211T21:32:57Z | Null | https://github.com/makstsar17/fuzzy_search | 0 | 0| 
+| 20240211T19:41:29Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 537 | 55| 
 | 20240211T13:57:35Z | Null | https://github.com/pfpt-stg-pinwheel/fuzzy-train | 0 | 0| 
-| 20240211T13:30:23Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52017 | 23573| 
-| 20240211T13:22:54Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 535 | 55| 
 | 20240211T13:02:44Z | Null | https://github.com/karlowiczpl/Guitar-fuzz | 0 | 0| 
 | 20240211T12:34:58Z | In this repository we set some information related to the paper entitled %Multiple fuzzy Sugeno lambda-measures in networks. An application% | https://github.com/inmaggp/Multiple-fuzzy-Sugeno-lambda-measures-in-networks.-An-application | 0 | 0| 
 | 20240211T12:12:11Z | Null | https://github.com/akhileshchary/A-Fuzzy-preference | 0 | 0| 
 | 20240211T10:03:49Z | Project 1  | https://github.com/Syntax-Error-1337/fuzzy-train | 0 | 0| 
-| 20240211T09:58:24Z | UPN Veteran Jatim , Aquaponic pH Control-Monitoring with Type-2 Fuzzy Method Based on IoT Bot , S1 Thesis Project | https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot | 2 | 0| 
-| 20240211T02:49:03Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9431 | 2119| 
-| 20240210T23:08:37Z | My precious work for the %Fuzzy modelling% course in PCZ. | https://github.com/furkansimsekli/pcz-fuzzy-modelling | 0 | 0| 
 
 
 
