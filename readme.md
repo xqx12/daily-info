@@ -18,9 +18,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240212T13:33:56Z | CVE-2022-4262 | Full Chain Analysis of CVE-2022-4262, a non-trivial feedback slot type confusion in V8. | https://github.com/bjrjk/CVE-2022-4262 | | 
 | 20240212T12:06:08Z | CVE-2023-51000 | Null | https://github.com/Team-Byerus/CVE-2023-51000 | | 
 | 20240212T11:24:32Z | CVE-2021-3156 | Null | https://github.com/SamTruss/LMU-CVE-2021-3156 | | 
-| 20240212T10:19:40Z | CVE-2022-4262 | Full Chain Analysis of CVE-2022-4262, a non-trivial feedback slot type confusion in V8. | https://github.com/bjrjk/CVE-2022-4262 | | 
 | 20240212T08:22:45Z | CVE-2024-22567 | File Upload vulnerability in MCMS 5.3.5 | https://github.com/labesterOct/CVE-2024-22567 | | 
 | 20240212T06:44:21Z | CVE-2022-38694 | This is a one-time signature verification bypass. For persistent signature verification bypass, check https://github.com/TomKing062/CVE-2022-38691_38692 | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20240212T02:49:00Z | CVE-2023-22527 | CVE-2023-22527 内存马注入工具 | https://github.com/Boogipop/CVE-2023-22527-Godzilla-MEMSHELL | | 
