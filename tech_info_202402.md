@@ -41,7 +41,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240212T00:32:15Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15256 | 457| 
+| 20240212T02:46:18Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15257 | 457| 
 | 20240211T14:38:37Z | 本字体基于Klee one字体及其衍生的霞鹜文楷系列字体进行改做，基于文楷TC修改的字体 | https://github.com/Steve-Yuu/YshiShuti | 16 | 0| 
 | 20240211T07:59:48Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 442 | 9| 
 | 20240210T22:07:21Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2410 | 653| 
@@ -116,6 +116,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240212T02:35:26Z | Differential testing and fuzzing of HTTP servers and proxies | https://github.com/narfindustries/http-garden | 454 | 46| 
 | 20240212T02:28:31Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52032 | 23574| 
 | 20240212T01:38:28Z | UPN Veteran Jatim , Aquaponic pH Control-Monitoring with Type-2 Fuzzy Method Based on IoT Bot , S1 Thesis Project | https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot | 2 | 0| 
 | 20240211T23:19:45Z | wtf is a distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and / or kernel-mode targets running on Microsoft Windows. | https://github.com/0vercl0k/wtf | 1297 | 123| 
@@ -125,7 +126,6 @@
 | 20240211T13:57:35Z | Null | https://github.com/pfpt-stg-pinwheel/fuzzy-train | 0 | 0| 
 | 20240211T13:02:44Z | Null | https://github.com/karlowiczpl/Guitar-fuzz | 0 | 0| 
 | 20240211T12:34:58Z | In this repository we set some information related to the paper entitled %Multiple fuzzy Sugeno lambda-measures in networks. An application% | https://github.com/inmaggp/Multiple-fuzzy-Sugeno-lambda-measures-in-networks.-An-application | 0 | 0| 
-| 20240211T12:12:11Z | Null | https://github.com/akhileshchary/A-Fuzzy-preference | 0 | 0| 
 
 
 
