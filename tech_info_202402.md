@@ -78,6 +78,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240212T01:43:22Z | C2 extensible for post-explotation and remote control | https://github.com/aniko33/Unicorn | 3 | 1| 
 | 20240211T16:37:20Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 261 | 31| 
 | 20240211T13:30:13Z | Official implementation of Resisting Backdoor Attacks in Federated Learning via Bidirectional Elections and Individual Perspective | https://github.com/zhenqincn/Snowball | 0 | 0| 
 | 20240211T12:15:50Z | backdoor | https://github.com/deusnotam/backdoor | 0 | 0| 
@@ -87,7 +88,6 @@
 | 20240211T02:19:44Z | Null | https://github.com/hypoxia125/faf_coop_operation_backdoor | 0 | 0| 
 | 20240210T15:00:26Z | Tired of Todo apps having backdoors to the E-Corp? Meet EyeNoMo Todo app built on Rust and SvelteKit. | https://github.com/mr-robot-1757/eyenomo-todo | 0 | 0| 
 | 20240210T12:09:22Z | Single PHP file to detect potentially malicious threats based on token and hash with web interface | https://github.com/Cvar1984/sussyfinder | 15 | 4| 
-| 20240210T11:48:59Z | Null | https://github.com/PrinciMixtiy/Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
