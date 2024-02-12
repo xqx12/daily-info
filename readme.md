@@ -39,6 +39,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20240211T23:03:25Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5765 | 1108| 
+| 20240211T21:37:26Z | MultiDump is a post-exploitation tool for dumping and extracting LSASS memory discreetly. | https://github.com/Xre0uS/MultiDump | 165 | 16| 
 | 20240211T20:11:12Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 254 | 20| 
 | 20240211T13:42:53Z | psfree new exploit | https://github.com/ps4xploit900/psfree | 0 | 0| 
 | 20240211T12:19:36Z | JavaScript payload and supporting software to be used as XSS payload or post exploitation implant to monitor users as they use the targeted application. | https://github.com/hoodoer/JS-Tap | 161 | 14| 
