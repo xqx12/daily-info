@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240212T01:23:50Z | GitOps Repository | https://github.com/redhat-appstudio-qe/integ-app-qulp-FFhSb-abandon-exploit | 0 | 0| 
 | 20240212T00:21:18Z | Null | https://github.com/codingcore13/Silent-JPG-Exploit-NEW-ea | 1 | 0| 
 | 20240212T00:20:48Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ea | 1 | 0| 
 | 20240212T00:19:58Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-ea | 1 | 0| 
@@ -72,7 +73,6 @@
 | 20240211T20:11:12Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 254 | 20| 
 | 20240211T13:42:53Z | psfree new exploit | https://github.com/ps4xploit900/psfree | 0 | 0| 
 | 20240211T11:13:55Z | Bug Bounty Tricks and useful payloads and bypasses for Web Application Security. | https://github.com/Mehdi0x90/Web_Hacking | 140 | 12| 
-| 20240211T02:23:02Z | PSFree WebKit Exploit & ChendoChap ROP and Kernel Exploit For PS4 7.02 Firmware | https://github.com/kmeps4/psfree700 | 3 | 0| 
 
 
 # backdoor on Github 推荐
