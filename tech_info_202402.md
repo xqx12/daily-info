@@ -117,6 +117,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20240212T01:14:20Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52030 | 23574| 
+| 20240212T01:13:43Z | UPN Veteran Jatim , Aquaponic pH Control-Monitoring with Type-2 Fuzzy Method Based on IoT Bot , S1 Thesis Project | https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot | 2 | 0| 
 | 20240211T23:19:45Z | wtf is a distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and / or kernel-mode targets running on Microsoft Windows. | https://github.com/0vercl0k/wtf | 1297 | 123| 
 | 20240211T23:10:33Z | Fuzzy Sabi: Functional storytelling | https://github.com/fuzzysabi/fuzzysabi.github.io | 0 | 0| 
 | 20240211T21:32:57Z | Null | https://github.com/makstsar17/fuzzy_search | 0 | 0| 
@@ -125,7 +126,6 @@
 | 20240211T13:02:44Z | Null | https://github.com/karlowiczpl/Guitar-fuzz | 0 | 0| 
 | 20240211T12:34:58Z | In this repository we set some information related to the paper entitled %Multiple fuzzy Sugeno lambda-measures in networks. An application% | https://github.com/inmaggp/Multiple-fuzzy-Sugeno-lambda-measures-in-networks.-An-application | 0 | 0| 
 | 20240211T12:12:11Z | Null | https://github.com/akhileshchary/A-Fuzzy-preference | 0 | 0| 
-| 20240211T10:03:49Z | Project 1  | https://github.com/Syntax-Error-1337/fuzzy-train | 0 | 0| 
 
 
 
