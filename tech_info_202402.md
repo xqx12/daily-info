@@ -26,8 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240212T02:49:00Z | CVE-2023-22527 | CVE-2023-22527 内存马注入工具 | https://github.com/Boogipop/CVE-2023-22527-Godzilla-MEMSHELL | | 
 | 20240212T02:32:56Z | CVE-2022-4262 | Full Chain Analysis of CVE-2022-4262, a non-trivial feedback slot type confusion in V8. | https://github.com/bjrjk/CVE-2022-4262 | | 
-| 20240212T00:11:14Z | CVE-2023-22527 | CVE-2023-22527 内存马注入工具 | https://github.com/Boogipop/CVE-2023-22527-Godzilla-MEMSHELL | | 
 | 20240211T18:53:05Z | CVE-2022-4262 | Null | https://github.com/quangnh89/CVE-2022-4262 | | 
 | 20240211T16:02:01Z | CVE-2024-22024 | Check for CVE-2024-22024 vulnerability in Ivanti Connect Secure | https://github.com/0dteam/CVE-2024-22024 | | 
 | 20240211T14:40:39Z | cve-2023-46747 | Null | https://github.com/vidura2/cve-2023-46747 | | 
