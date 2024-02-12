@@ -40,6 +40,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240212T13:59:28Z | CraxsRat最新中文版，调整部分界面，显示更美观。 # 软件授权 🔥终身授权🔥 🔥CRAXSRAT-LIFETIME🔥  | https://github.com/Fasubo/Craxsrat-Hook-Botnet-APK-CRYPTER-PDF-EXPLOIT | 1 | 0| 
 | 20240212T11:44:06Z | A caching layer for LLMs that exploits Elasticsearch, fully compatible with Langchain caching | https://github.com/SpazioDati/llm-elasticsearch-cache | 0 | 0| 
 | 20240212T11:35:16Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5768 | 1108| 
 | 20240212T02:23:20Z | Null | https://github.com/QuitCrypt0/NFTTraderExploit | 0 | 0| 
