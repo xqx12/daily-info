@@ -117,6 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240213T02:29:48Z | :exclamation: This is a read-only mirror of the CRAN R package repository.  FuzzyPovertyR — Estimation of Fuzzy Poverty Measures   | https://github.com/cran/FuzzyPovertyR | 0 | 0| 
 | 20240213T02:12:22Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52052 | 23579| 
 | 20240213T02:09:52Z | Mushroom cultivation environment control utilizing fuzzy logic to determine watering duration | https://github.com/satyaadhiyaksaardy/fuzzy-watering-mushroom | 0 | 0| 
 | 20240213T00:33:09Z | Null | https://github.com/mdrahmed/afl--fuzzing101 | 0 | 0| 
@@ -126,7 +127,6 @@
 | 20240212T23:27:05Z | Null | https://github.com/GrafVonTee/fuzzy-shooter | 0 | 0| 
 | 20240212T20:36:43Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5161 | 557| 
 | 20240212T20:24:56Z | Null | https://github.com/google/fuzztest | 548 | 48| 
-| 20240212T17:28:50Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9434 | 2122| 
 
 
 
