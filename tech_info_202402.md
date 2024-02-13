@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240213T13:27:05Z | In this GitHub Repository, we%re showing Nese-Based operating systems lifecycle to get notify end of support | https://github.com/NeseOSCorporation/neseos-end-of-suppor | 0 | 0| 
 | 20240213T13:07:42Z | GitOps Repository | https://github.com/pmacik-testing/tkwch-fix-0075-0048-app-occqy-exploit-retain | 0 | 0| 
 | 20240213T13:05:43Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5772 | 1108| 
 | 20240213T13:03:23Z | Null | https://github.com/itsanirbanbain/Exploit-Finder | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20240213T11:40:39Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 250 | 48| 
 | 20240213T07:06:28Z | programım için | https://github.com/HeadShotXx/data-base-pdf-exploit | 0 | 0| 
 | 20240213T00:56:54Z | Stuxnet or possibly better or just a sample on your own computer(s) taught in CS50 | https://github.com/apt6969/cs50exploit | 0 | 0| 
-| 20240213T00:51:35Z | Null | https://github.com/taha-ishaq/exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
