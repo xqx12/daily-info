@@ -39,8 +39,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240213T13:48:53Z | In this GitHub Repository, we%re showing Nese-Based operating systems lifecycle to get notify end of support | https://github.com/NeseOSCorporation/neseos-end-of-support | 1 | 0| 
 | 20240213T13:42:49Z | National Vulnerability Database (NVD) implemented by rust | https://github.com/emo-crab/nvd-rs | 6 | 0| 
-| 20240213T13:42:17Z | In this GitHub Repository, we%re showing Nese-Based operating systems lifecycle to get notify end of support | https://github.com/NeseOSCorporation/neseos-end-of-support | 0 | 0| 
 | 20240213T13:27:44Z | A project that offers cheats developed with C++ for DayZ. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/MadasTrue/PROOFCORE-Dayz-Cheat-Hack-Aimbot-Esp-Exploit-Magic-Bullet-Spoofer-Misc | 0 | 0| 
 | 20240213T13:27:05Z | In this GitHub Repository, we%re showing Nese-Based operating systems lifecycle to get notify end of support | https://github.com/NeseOSCorporation/neseos-end-of-suppor | 0 | 0| 
 | 20240213T13:07:42Z | GitOps Repository | https://github.com/pmacik-testing/tkwch-fix-0075-0048-app-occqy-exploit-retain | 0 | 0| 
@@ -77,7 +77,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240213T13:45:32Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52065 | 23578| 
+| 20240213T13:49:25Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52066 | 23578| 
 | 20240213T13:43:02Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9437 | 2122| 
 | 20240213T13:35:08Z | Null | https://github.com/mrpouderkarapuz31/fuzzy-octo-broccoli | 0 | 0| 
 | 20240213T13:07:59Z | Null | https://github.com/Abinadd/fuzzy-umbrella | 0 | 0| 
