@@ -117,16 +117,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240213T02:56:30Z | Tugas aplikasi fuzzy | https://github.com/himatulafifah2/app_fuzzy | 0 | 0| 
+| 20240213T02:56:29Z | Halaman yang ditujukan untuk Tugas Pemodelan Fuzzy | https://github.com/therealita17/app_fuzzy | 0 | 0| 
+| 20240213T02:56:23Z | Tugas app fuzzy | https://github.com/berlianvani/app_fuzzy | 0 | 0| 
+| 20240213T02:56:20Z | Halo... Jadi ini adalah folder menggunakan GitHub yang baru dicoba oleh para mahasiswa Matematika 2020 FSM UKSW (Percobaan -1 tanggal 13 Februari 2024) | https://github.com/NadyaGit15/app_fuzzy | 0 | 0| 
+| 20240213T02:56:20Z | Hari ini 13 Februaru 2024, Pak Lennox menyuruh membuat Github untuk monitoring tugas akhir Pemodelan Fuzzy. | https://github.com/zabcdefghij50/app_fuzzy | 0 | 0| 
+| 20240213T02:56:17Z | halaman ini berisi tentang tugas-tugas pak lennox, pada semester antara. | https://github.com/sabatania123/app_fuzzy | 0 | 0| 
+| 20240213T02:56:17Z | Tugas pemdolan fuzzy mengenai aplikasi | https://github.com/titusantoniusdavid/app_Fuzzy | 0 | 0| 
+| 20240213T02:56:14Z | Halaman terlampir merupakan tugas Pemodelan Fuzzy  Prodi Matematika FSM UKSW  | https://github.com/Ciangel/app_fuzzy | 0 | 0| 
 | 20240213T02:56:13Z | Tugas app Fuzzy mata kuliah Pemodelan Fuzzy | https://github.com/fikahanafi/app_fuzzy | 0 | 0| 
 | 20240213T02:56:11Z | Tugas app Fuzzy | https://github.com/gitlnx05/app_fuzzy | 0 | 0| 
-| 20240213T02:29:48Z | :exclamation: This is a read-only mirror of the CRAN R package repository.  FuzzyPovertyR — Estimation of Fuzzy Poverty Measures   | https://github.com/cran/FuzzyPovertyR | 0 | 0| 
-| 20240213T02:12:22Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52052 | 23579| 
-| 20240213T02:09:52Z | Mushroom cultivation environment control utilizing fuzzy logic to determine watering duration | https://github.com/satyaadhiyaksaardy/fuzzy-watering-mushroom | 0 | 0| 
-| 20240213T00:33:09Z | Null | https://github.com/mdrahmed/afl--fuzzing101 | 0 | 0| 
-| 20240213T00:27:13Z | Null | https://github.com/sergiupascal/fuzzy-octo-memory | 0 | 0| 
-| 20240213T00:09:33Z | Null | https://github.com/MPTGits/Satellite-Collision-Fuzzy-Sets | 0 | 0| 
-| 20240213T00:01:47Z | Using fuzzy logic to operate within an asteroids environment | https://github.com/kuhnph/fuzzyAsteroids | 0 | 0| 
-| 20240212T23:27:05Z | Null | https://github.com/GrafVonTee/fuzzy-shooter | 0 | 0| 
 
 
 
