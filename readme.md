@@ -44,6 +44,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20240212T22:31:13Z | Our methods/exploits is for educational purposes. Please note that running unsupported software on GeForceNOW is strictly prohibited. Our video is executed on a Virtual Machine and not within an actual GeForceNOW session.  | https://github.com/Holifkly/Holifkly | 0 | 0| 
+| 20240212T21:52:04Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5840 | 733| 
 | 20240212T19:20:09Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5770 | 1108| 
 | 20240212T18:00:02Z | External cheat for Rainbow Six Siege offering ESP, aimbot, and various tactical advantages. | https://github.com/mantacodex/Klar-gg-Rainbow-Six-Siege-RS6-Esp-NoRroil-Hwid-Spoofer-Exploit | 0 | 0| 
 | 20240212T17:58:52Z | Developed for Escape From Tarkov and written in C++ and C#. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/mantacodex/Escape-From-Tarkov-Eft-Aimbot-esp-Loots-Exploits-Max-Skills-High-Jump | 0 | 0| 
@@ -52,7 +53,6 @@
 | 20240212T10:07:03Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 255 | 20| 
 | 20240212T02:23:20Z | Null | https://github.com/QuitCrypt0/NFTTraderExploit | 0 | 0| 
 | 20240212T01:23:50Z | GitOps Repository | https://github.com/redhat-appstudio-qe/integ-app-qulp-FFhSb-abandon-exploit | 0 | 0| 
-| 20240212T00:21:18Z | Null | https://github.com/codingcore13/Silent-JPG-Exploit-NEW-ea | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -89,13 +89,13 @@
 | 20240212T23:27:05Z | Null | https://github.com/GrafVonTee/fuzzy-shooter | 0 | 0| 
 | 20240212T20:36:43Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5161 | 557| 
 | 20240212T20:24:56Z | Null | https://github.com/google/fuzztest | 548 | 48| 
+| 20240212T17:28:50Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9434 | 2122| 
 | 20240212T12:40:32Z | Null | https://github.com/ymh0000123/fuzzy-octo-palm-tree | 0 | 0| 
 | 20240212T12:30:23Z | Null | https://github.com/SNTSVV/FuzzSDN | 0 | 0| 
 | 20240212T10:56:34Z | Null | https://github.com/Oleg200606/fuzzy-guide | 0 | 0| 
 | 20240212T10:08:02Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 5022 | 1197| 
 | 20240212T09:36:54Z | Null | https://github.com/akshaypardeshi5/fuzzy-memory | 0 | 0| 
 | 20240212T09:22:57Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 540 | 55| 
-| 20240212T02:35:26Z | Differential testing and fuzzing of HTTP servers and proxies | https://github.com/narfindustries/http-garden | 454 | 46| 
 
 
 

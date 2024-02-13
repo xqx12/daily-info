@@ -67,12 +67,12 @@
 | 20240213T00:51:35Z | Null | https://github.com/taha-ishaq/exploits | 0 | 0| 
 | 20240213T00:11:10Z | Null | https://github.com/exploitkali-lap/exploitkali-lap.github.io | 0 | 0| 
 | 20240212T22:31:13Z | Our methods/exploits is for educational purposes. Please note that running unsupported software on GeForceNOW is strictly prohibited. Our video is executed on a Virtual Machine and not within an actual GeForceNOW session.  | https://github.com/Holifkly/Holifkly | 0 | 0| 
+| 20240212T21:52:04Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5840 | 733| 
 | 20240212T19:20:09Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5770 | 1108| 
 | 20240212T18:00:02Z | External cheat for Rainbow Six Siege offering ESP, aimbot, and various tactical advantages. | https://github.com/mantacodex/Klar-gg-Rainbow-Six-Siege-RS6-Esp-NoRroil-Hwid-Spoofer-Exploit | 0 | 0| 
 | 20240212T17:58:52Z | Developed for Escape From Tarkov and written in C++ and C#. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/mantacodex/Escape-From-Tarkov-Eft-Aimbot-esp-Loots-Exploits-Max-Skills-High-Jump | 0 | 0| 
 | 20240212T13:59:28Z | CraxsRat最新中文版，调整部分界面，显示更美观。 # 软件授权 🔥终身授权🔥 🔥CRAXSRAT-LIFETIME🔥  | https://github.com/Fasubo/Craxsrat-Hook-Botnet-APK-CRYPTER-PDF-EXPLOIT | 1 | 0| 
 | 20240212T11:44:06Z | A caching layer for LLMs that exploits Elasticsearch, fully compatible with Langchain caching | https://github.com/SpazioDati/llm-elasticsearch-cache | 0 | 0| 
-| 20240212T10:07:03Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 255 | 20| 
 
 
 # backdoor on Github 推荐
@@ -117,6 +117,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240213T02:04:05Z | Mushroom cultivation environment control using fuzzy logic to determine watering duration | https://github.com/satyaadhiyaksaardy/fuzzy-watering-mushroom | 0 | 0| 
 | 20240213T01:29:57Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52051 | 23579| 
 | 20240213T00:33:09Z | Null | https://github.com/mdrahmed/afl--fuzzing101 | 0 | 0| 
 | 20240213T00:27:13Z | Null | https://github.com/sergiupascal/fuzzy-octo-memory | 0 | 0| 
@@ -125,8 +126,7 @@
 | 20240212T23:27:05Z | Null | https://github.com/GrafVonTee/fuzzy-shooter | 0 | 0| 
 | 20240212T20:36:43Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5161 | 557| 
 | 20240212T20:24:56Z | Null | https://github.com/google/fuzztest | 548 | 48| 
-| 20240212T12:40:32Z | Null | https://github.com/ymh0000123/fuzzy-octo-palm-tree | 0 | 0| 
-| 20240212T12:30:23Z | Null | https://github.com/SNTSVV/FuzzSDN | 0 | 0| 
+| 20240212T17:28:50Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9434 | 2122| 
 
 
 
