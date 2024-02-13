@@ -80,6 +80,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240212T18:22:41Z | NDSS 2024 - CamPro: Camera-based Anti-Facial Recognition | https://github.com/forget2save/CamPro | 1 | 1| 
 
 
 # fuzz on Github 推荐

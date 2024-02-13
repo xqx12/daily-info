@@ -108,6 +108,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240212T18:22:41Z | NDSS 2024 - CamPro: Camera-based Anti-Facial Recognition | https://github.com/forget2save/CamPro | 1 | 1| 
 | 20240209T17:40:06Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 111 | 4| 
 | 20240209T03:41:34Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 136 | 14| 
 | 20240204T12:53:36Z | (NDSS 2024) Optimizing Decompiler Output with LLM | https://github.com/PeiweiHu/DeGPT | 6 | 0| 
