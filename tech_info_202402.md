@@ -117,6 +117,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240213T02:56:13Z | Tugas app Fuzzy mata kuliah Pemodelan Fuzzy | https://github.com/fikahanafi/app_fuzzy | 0 | 0| 
+| 20240213T02:56:11Z | Tugas app Fuzzy | https://github.com/gitlnx05/app_fuzzy | 0 | 0| 
 | 20240213T02:29:48Z | :exclamation: This is a read-only mirror of the CRAN R package repository.  FuzzyPovertyR — Estimation of Fuzzy Poverty Measures   | https://github.com/cran/FuzzyPovertyR | 0 | 0| 
 | 20240213T02:12:22Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52052 | 23579| 
 | 20240213T02:09:52Z | Mushroom cultivation environment control utilizing fuzzy logic to determine watering duration | https://github.com/satyaadhiyaksaardy/fuzzy-watering-mushroom | 0 | 0| 
@@ -125,8 +127,6 @@
 | 20240213T00:09:33Z | Null | https://github.com/MPTGits/Satellite-Collision-Fuzzy-Sets | 0 | 0| 
 | 20240213T00:01:47Z | Using fuzzy logic to operate within an asteroids environment | https://github.com/kuhnph/fuzzyAsteroids | 0 | 0| 
 | 20240212T23:27:05Z | Null | https://github.com/GrafVonTee/fuzzy-shooter | 0 | 0| 
-| 20240212T20:36:43Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5161 | 557| 
-| 20240212T20:24:56Z | Null | https://github.com/google/fuzztest | 548 | 48| 
 
 
 
