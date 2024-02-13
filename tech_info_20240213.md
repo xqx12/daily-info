@@ -39,7 +39,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240213T13:53:05Z | POC Pdf-exploit builder on C#  | https://github.com/K3rnel-Dev/pdf-exploit | 0 | 0| 
+| 20240213T13:59:14Z | POC Pdf-exploit builder on C#  | https://github.com/K3rnel-Dev/pdf-exploit | 0 | 0| 
 | 20240213T13:48:53Z | In this GitHub Repository, we%re showing Nese-Based operating systems lifecycle to get notify end of support | https://github.com/NeseOSCorporation/neseos-end-of-support | 1 | 0| 
 | 20240213T13:42:49Z | National Vulnerability Database (NVD) implemented by rust | https://github.com/emo-crab/nvd-rs | 6 | 0| 
 | 20240213T13:27:44Z | A project that offers cheats developed with C++ for DayZ. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/MadasTrue/PROOFCORE-Dayz-Cheat-Hack-Aimbot-Esp-Exploit-Magic-Bullet-Spoofer-Misc | 0 | 0| 
@@ -54,6 +54,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240213T13:58:21Z | AnyDoor: Test-Time Backdoor Attacks on Multimodal Large Language Models | https://github.com/sail-sg/AnyDoor | 0 | 0| 
 | 20240213T13:00:14Z | backdoor | https://github.com/deusnotam/protect | 0 | 0| 
 | 20240213T10:59:06Z | Null | https://github.com/xzionn/simply-backdoor | 0 | 0| 
 | 20240213T09:59:03Z | A simple backdoor using Public API | https://github.com/jychp/shameleon | 2 | 0| 
