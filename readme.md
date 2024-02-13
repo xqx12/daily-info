@@ -73,7 +73,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240212T10:34:23Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 504 | 34| 
+| 20240212T19:55:19Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 505 | 34| 
+| 20240212T16:32:28Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 734 | 132| 
 
 
 # big4 on Github 推荐
