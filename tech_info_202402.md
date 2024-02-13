@@ -117,12 +117,12 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240213T01:29:57Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52051 | 23579| 
 | 20240213T00:33:09Z | Null | https://github.com/mdrahmed/afl--fuzzing101 | 0 | 0| 
 | 20240213T00:27:13Z | Null | https://github.com/sergiupascal/fuzzy-octo-memory | 0 | 0| 
 | 20240213T00:09:33Z | Null | https://github.com/MPTGits/Satellite-Collision-Fuzzy-Sets | 0 | 0| 
 | 20240213T00:01:47Z | Using fuzzy logic to operate within an asteroids environment | https://github.com/kuhnph/fuzzyAsteroids | 0 | 0| 
 | 20240212T23:27:05Z | Null | https://github.com/GrafVonTee/fuzzy-shooter | 0 | 0| 
-| 20240212T23:23:33Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52050 | 23579| 
 | 20240212T20:36:43Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5161 | 557| 
 | 20240212T20:24:56Z | Null | https://github.com/google/fuzztest | 548 | 48| 
 | 20240212T12:40:32Z | Null | https://github.com/ymh0000123/fuzzy-octo-palm-tree | 0 | 0| 

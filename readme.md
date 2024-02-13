@@ -87,7 +87,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20240212T23:27:05Z | Null | https://github.com/GrafVonTee/fuzzy-shooter | 0 | 0| 
-| 20240212T23:23:33Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52050 | 23579| 
 | 20240212T20:36:43Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5161 | 557| 
 | 20240212T20:24:56Z | Null | https://github.com/google/fuzztest | 548 | 48| 
 | 20240212T12:40:32Z | Null | https://github.com/ymh0000123/fuzzy-octo-palm-tree | 0 | 0| 
@@ -96,6 +95,7 @@
 | 20240212T10:08:02Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 5022 | 1197| 
 | 20240212T09:36:54Z | Null | https://github.com/akshaypardeshi5/fuzzy-memory | 0 | 0| 
 | 20240212T09:22:57Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 540 | 55| 
+| 20240212T02:35:26Z | Differential testing and fuzzing of HTTP servers and proxies | https://github.com/narfindustries/http-garden | 454 | 46| 
 
 
 
