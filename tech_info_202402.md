@@ -78,6 +78,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240213T02:24:07Z | C2 extensible for post-explotation and remote control | https://github.com/aniko33/Unicorn | 4 | 1| 
 | 20240212T18:44:14Z | %From Trojan Horses to Castle Walls: Unveiling Bilateral Backdoor Effects in Diffusion Models% by Zhuoshi Pan*, Yuguang Yao*, Gaowen Liu, Bingquan Shen, H. Vicky Zhao, Ramana Rao Kompella, Sijia Liu | https://github.com/OPTML-Group/BiBadDiff | 1 | 0| 
 | 20240212T18:16:14Z | AsyncRAT stands as a Remote Access Tool (RAT) conceived for the purpose of distant supervision and command over remote computers through an encrypted connection ensuring security. | https://github.com/Tikosktaki/AsyncRAT-Fud-Fixed-Dll-Remote-Administration-Tool-New | 0 | 0| 
 | 20240212T18:16:03Z | BitRAT CrackedIt is meticulously constructed utilizing the C++ programming language. It stands as the most recent iteration of the premier PC RAT for the year 2023. Regarded as a prized tool | https://github.com/Tikosktaki/Bitrat-Hvnc-Rat-Remote-Control-Av-Bypass | 0 | 0| 
@@ -87,7 +88,6 @@
 | 20240212T15:52:46Z | backdoor | https://github.com/deusnotam/backdoor | 0 | 0| 
 | 20240212T12:36:34Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 215 | 57| 
 | 20240212T08:30:34Z | A Free MCBE Client Backdoor Example | https://github.com/Pilgrimeuas/MCBE-BackDoor | 0 | 0| 
-| 20240212T07:49:55Z | Null | https://github.com/hbrachemi/energy_backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
