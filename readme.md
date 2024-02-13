@@ -70,6 +70,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240213T13:37:37Z | Artifacts for NDSS%24 paper %Efficient and Timely Revocation of V2X Credentials% | https://github.com/EricssonResearch/v2x-self-revocation | 4 | 0| 
 
 
 # fuzz on Github 推荐
