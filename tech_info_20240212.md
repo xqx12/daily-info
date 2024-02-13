@@ -43,6 +43,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240212T22:31:13Z | Our methods/exploits is for educational purposes. Please note that running unsupported software on GeForceNOW is strictly prohibited. Our video is executed on a Virtual Machine and not within an actual GeForceNOW session.  | https://github.com/Holifkly/Holifkly | 0 | 0| 
 | 20240212T19:20:09Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5770 | 1108| 
 | 20240212T18:00:02Z | External cheat for Rainbow Six Siege offering ESP, aimbot, and various tactical advantages. | https://github.com/mantacodex/Klar-gg-Rainbow-Six-Siege-RS6-Esp-NoRroil-Hwid-Spoofer-Exploit | 0 | 0| 
 | 20240212T13:59:28Z | CraxsRat最新中文版，调整部分界面，显示更美观。 # 软件授权 🔥终身授权🔥 🔥CRAXSRAT-LIFETIME🔥  | https://github.com/Fasubo/Craxsrat-Hook-Botnet-APK-CRYPTER-PDF-EXPLOIT | 1 | 0| 
@@ -52,7 +53,6 @@
 | 20240212T01:23:50Z | GitOps Repository | https://github.com/redhat-appstudio-qe/integ-app-qulp-FFhSb-abandon-exploit | 0 | 0| 
 | 20240212T00:21:18Z | Null | https://github.com/codingcore13/Silent-JPG-Exploit-NEW-ea | 1 | 0| 
 | 20240212T00:20:48Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ea | 1 | 0| 
-| 20240212T00:19:58Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-ea | 1 | 0| 
 
 
 # backdoor on Github 推荐
