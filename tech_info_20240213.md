@@ -39,6 +39,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240213T13:07:42Z | GitOps Repository | https://github.com/pmacik-testing/tkwch-fix-0075-0048-app-occqy-exploit-retain | 0 | 0| 
 | 20240213T13:05:43Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5772 | 1108| 
 | 20240213T13:03:23Z | Null | https://github.com/itsanirbanbain/Exploit-Finder | 0 | 0| 
 | 20240213T12:42:59Z | GitOps Repository | https://github.com/pmacik-testing/tkwch-fix-0075-0043-app-iXSk--exploit-drive | 0 | 0| 
@@ -74,6 +75,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240213T13:07:59Z | Null | https://github.com/Abinadd/fuzzy-umbrella | 0 | 0| 
 | 20240213T12:43:29Z | Null | https://github.com/deadmorose21bull34/fuzzy-computing-machine | 0 | 0| 
 | 20240213T12:33:03Z | Null | https://github.com/sherinksaji/fuzzing | 0 | 0| 
 | 20240213T12:28:44Z | Null | https://github.com/vova-dmitrpia/fuzzy-sweater | 0 | 0| 
@@ -83,7 +85,6 @@
 | 20240213T12:07:00Z | Null | https://github.com/chewmaxwell199237/fuzzy-funicular | 0 | 0| 
 | 20240213T11:54:52Z | Null | https://github.com/vzm00701/fuzzy-sweater | 0 | 0| 
 | 20240213T11:17:54Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9436 | 2122| 
-| 20240213T02:56:30Z | Tugas aplikasi fuzzy | https://github.com/himatulafifah2/app_fuzzy | 0 | 0| 
 
 
 
