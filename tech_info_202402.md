@@ -63,12 +63,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240213T13:05:43Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5772 | 1108| 
 | 20240213T13:03:23Z | Null | https://github.com/itsanirbanbain/Exploit-Finder | 0 | 0| 
 | 20240213T12:42:59Z | GitOps Repository | https://github.com/pmacik-testing/tkwch-fix-0075-0043-app-iXSk--exploit-drive | 0 | 0| 
 | 20240213T12:42:47Z | The popular GENIE Generator product is used by nearly all accelerator neutrino experiments and it plays a key role in the exploitation of neutrino data. The Generator implements a modern software framework and it includes state-of-the-art physics modules. It captures the latest results of the GENIE global analysis of neutrino scattering data and includes several tunes that were produced using the proprietary Comparisons and Tuning products. The GENIE physics model is universal and comprehensive:  It handles all neutrinos and targets, and all processes relevant from MeV to PeV energy scales. The Generator includes several tools (flux drivers, detector geometry navigators, specialized event generation apps, event reweighting engines) to simulate complex experimental setups in full detail and to support generator-related analysis tasks.  | https://github.com/GENIE-MC/Generator | 37 | 84| 
 | 20240213T11:40:39Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 250 | 48| 
 | 20240213T07:06:28Z | programım için | https://github.com/HeadShotXx/data-base-pdf-exploit | 0 | 0| 
-| 20240213T05:58:15Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5771 | 1108| 
 | 20240213T00:56:54Z | Stuxnet or possibly better or just a sample on your own computer(s) taught in CS50 | https://github.com/apt6969/cs50exploit | 0 | 0| 
 | 20240213T00:51:35Z | Null | https://github.com/taha-ishaq/exploits | 0 | 0| 
 | 20240213T00:11:10Z | Null | https://github.com/exploitkali-lap/exploitkali-lap.github.io | 0 | 0| 
