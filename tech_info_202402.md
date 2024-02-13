@@ -26,13 +26,13 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240213T13:03:01Z | CVE-2023-22527 | CVE-2023-22527 内存马注入工具 | https://github.com/Boogipop/CVE-2023-22527-Godzilla-MEMSHELL | | 
 | 20240213T09:58:28Z | CVE-2022-38694 | This is a one-time signature verification bypass. For persistent signature verification bypass, check https://github.com/TomKing062/CVE-2022-38691_38692 | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20240213T04:47:37Z | CVE-2021-4034 | CVE-2021-4034 | https://github.com/azazelm3dj3d/CVE-2021-4034 | | 
 | 20240212T23:20:54Z | CVE-2024-22567 | File Upload vulnerability in MCMS 5.3.5 | https://github.com/labesterOct/CVE-2024-22567 | | 
 | 20240212T20:59:21Z | CVE-2021-1675 | Null | https://github.com/whoami-chmod777/CVE-2021-1675---PrintNightmare-LPE-PowerShell- | | 
 | 20240212T20:55:03Z | CVE-2021-1675 | Null | https://github.com/whoami-chmod777/CVE-2021-1675-CVE-2021-34527 | | 
 | 20240212T18:46:44Z | CVE-2022-4262 | Full Chain Analysis of CVE-2022-4262, a non-trivial feedback slot type confusion in V8. | https://github.com/bjrjk/CVE-2022-4262 | | 
-| 20240212T13:43:06Z | CVE-2023-22527 | CVE-2023-22527 内存马注入工具 | https://github.com/Boogipop/CVE-2023-22527-Godzilla-MEMSHELL | | 
 | 20240212T12:06:08Z | CVE-2023-51000 | Null | https://github.com/Team-Byerus/CVE-2023-51000 | | 
 | 20240212T11:24:32Z | CVE-2021-3156 | Null | https://github.com/SamTruss/LMU-CVE-2021-3156 | | 
 | 20240211T18:53:05Z | CVE-2022-4262 | Null | https://github.com/quangnh89/CVE-2022-4262 | | 
@@ -63,9 +63,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240213T13:03:23Z | Null | https://github.com/itsanirbanbain/Exploit-Finder | 0 | 0| 
 | 20240213T12:42:59Z | GitOps Repository | https://github.com/pmacik-testing/tkwch-fix-0075-0043-app-iXSk--exploit-drive | 0 | 0| 
 | 20240213T12:42:47Z | The popular GENIE Generator product is used by nearly all accelerator neutrino experiments and it plays a key role in the exploitation of neutrino data. The Generator implements a modern software framework and it includes state-of-the-art physics modules. It captures the latest results of the GENIE global analysis of neutrino scattering data and includes several tunes that were produced using the proprietary Comparisons and Tuning products. The GENIE physics model is universal and comprehensive:  It handles all neutrinos and targets, and all processes relevant from MeV to PeV energy scales. The Generator includes several tools (flux drivers, detector geometry navigators, specialized event generation apps, event reweighting engines) to simulate complex experimental setups in full detail and to support generator-related analysis tasks.  | https://github.com/GENIE-MC/Generator | 37 | 84| 
-| 20240213T12:25:47Z | Null | https://github.com/itsanirbanbain/Exploit-Finder | 0 | 0| 
 | 20240213T11:40:39Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 250 | 48| 
 | 20240213T07:06:28Z | programım için | https://github.com/HeadShotXx/data-base-pdf-exploit | 0 | 0| 
 | 20240213T05:58:15Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5771 | 1108| 
