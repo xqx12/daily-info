@@ -39,6 +39,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240213T13:42:49Z | National Vulnerability Database (NVD) implemented by rust | https://github.com/emo-crab/nvd-rs | 6 | 0| 
 | 20240213T13:42:17Z | In this GitHub Repository, we%re showing Nese-Based operating systems lifecycle to get notify end of support | https://github.com/NeseOSCorporation/neseos-end-of-support | 0 | 0| 
 | 20240213T13:27:44Z | A project that offers cheats developed with C++ for DayZ. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/MadasTrue/PROOFCORE-Dayz-Cheat-Hack-Aimbot-Esp-Exploit-Magic-Bullet-Spoofer-Misc | 0 | 0| 
 | 20240213T13:27:05Z | In this GitHub Repository, we%re showing Nese-Based operating systems lifecycle to get notify end of support | https://github.com/NeseOSCorporation/neseos-end-of-suppor | 0 | 0| 
@@ -48,7 +49,6 @@
 | 20240213T12:58:50Z | 一款Jenkins的综合漏洞利用工具 | https://github.com/TheBeastofwar/JenkinsExploit-GUI | 149 | 11| 
 | 20240213T12:42:59Z | GitOps Repository | https://github.com/pmacik-testing/tkwch-fix-0075-0043-app-iXSk--exploit-drive | 0 | 0| 
 | 20240213T12:42:47Z | The popular GENIE Generator product is used by nearly all accelerator neutrino experiments and it plays a key role in the exploitation of neutrino data. The Generator implements a modern software framework and it includes state-of-the-art physics modules. It captures the latest results of the GENIE global analysis of neutrino scattering data and includes several tunes that were produced using the proprietary Comparisons and Tuning products. The GENIE physics model is universal and comprehensive:  It handles all neutrinos and targets, and all processes relevant from MeV to PeV energy scales. The Generator includes several tools (flux drivers, detector geometry navigators, specialized event generation apps, event reweighting engines) to simulate complex experimental setups in full detail and to support generator-related analysis tasks.  | https://github.com/GENIE-MC/Generator | 37 | 84| 
-| 20240213T11:40:39Z | Fix exploits on anarchy Minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | 250 | 48| 
 
 
 # backdoor on Github 推荐
@@ -76,6 +76,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240213T13:43:02Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9437 | 2122| 
 | 20240213T13:40:39Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52063 | 23578| 
 | 20240213T13:35:08Z | Null | https://github.com/mrpouderkarapuz31/fuzzy-octo-broccoli | 0 | 0| 
 | 20240213T13:07:59Z | Null | https://github.com/Abinadd/fuzzy-umbrella | 0 | 0| 
@@ -85,7 +86,6 @@
 | 20240213T12:27:39Z | XSS Fuzzer | https://github.com/nemesis1695/XSS-Fuzzer | 0 | 0| 
 | 20240213T12:20:08Z | Null | https://github.com/duelistkintus94258/fuzzy-fortnight | 0 | 0| 
 | 20240213T12:18:22Z | Null | https://github.com/Forrest-Jones/fuzzy-parakeet2.0 | 0 | 0| 
-| 20240213T12:07:00Z | Null | https://github.com/chewmaxwell199237/fuzzy-funicular | 0 | 0| 
 
 
 
