@@ -70,9 +70,9 @@
 | 20240212T18:00:02Z | External cheat for Rainbow Six Siege offering ESP, aimbot, and various tactical advantages. | https://github.com/mantacodex/Klar-gg-Rainbow-Six-Siege-RS6-Esp-NoRroil-Hwid-Spoofer-Exploit | 0 | 0| 
 | 20240212T13:59:28Z | CraxsRat最新中文版，调整部分界面，显示更美观。 # 软件授权 🔥终身授权🔥 🔥CRAXSRAT-LIFETIME🔥  | https://github.com/Fasubo/Craxsrat-Hook-Botnet-APK-CRYPTER-PDF-EXPLOIT | 1 | 0| 
 | 20240212T11:44:06Z | A caching layer for LLMs that exploits Elasticsearch, fully compatible with Langchain caching | https://github.com/SpazioDati/llm-elasticsearch-cache | 0 | 0| 
+| 20240212T10:07:03Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 255 | 20| 
 | 20240212T02:23:20Z | Null | https://github.com/QuitCrypt0/NFTTraderExploit | 0 | 0| 
 | 20240212T01:23:50Z | GitOps Repository | https://github.com/redhat-appstudio-qe/integ-app-qulp-FFhSb-abandon-exploit | 0 | 0| 
-| 20240212T00:21:18Z | Null | https://github.com/codingcore13/Silent-JPG-Exploit-NEW-ea | 1 | 0| 
 
 
 # backdoor on Github 推荐
