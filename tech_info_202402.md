@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240214T02:32:00Z | GitOps Repository | https://github.com/pmacik-testing/tkwch-fix-0075-0062-app-73nG6-exploit-vote | 0 | 0| 
 | 20240214T02:24:20Z | Resources which mix the starter articles to advanced articles | https://github.com/KotaHemanthUC/cryptography_exploitation | 0 | 0| 
 | 20240214T02:16:58Z | [AAAI 2024] Official code for                    %Hyp-OW: Exploiting Hierarchical Structure Learning with Hyperbolic Distance Enhances Open World Object Detection% | https://github.com/boschresearch/Hyp-OW | 0 | 0| 
 | 20240214T01:43:15Z | A python script designed to drastically speed up exploit development time for TryHackMe or HackTheBox CTFs. | https://github.com/x256-64/bof-ctf-simple | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20240214T00:09:47Z | Null | https://github.com/codingcore13/Silent-JPG-Exploit-NEW-t | 1 | 0| 
 | 20240213T22:19:23Z | Scraper for daily renewal of the Known Exploited Vulnerabilities Catalog by CISA | https://github.com/BenjiTrapp/cisa-known-vuln-scraper | 3 | 1| 
 | 20240213T15:00:22Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/dusktuka/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
-| 20240213T15:00:20Z | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/dusktuka/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 
 
 # backdoor on Github 推荐
