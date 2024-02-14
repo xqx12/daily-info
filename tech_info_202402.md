@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240214T02:16:58Z | [AAAI 2024] Official code for                    %Hyp-OW: Exploiting Hierarchical Structure Learning with Hyperbolic Distance Enhances Open World Object Detection% | https://github.com/boschresearch/Hyp-OW | 0 | 0| 
 | 20240214T01:43:15Z | A python script designed to drastically speed up exploit development time for TryHackMe or HackTheBox CTFs. | https://github.com/x256-64/bof-ctf-simple | 0 | 0| 
 | 20240214T01:02:19Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0048-app-Q9cST-reject-exploit | 0 | 0| 
 | 20240214T00:53:12Z | GitOps Repository | https://github.com/pmacik-testing/tkwch-fix-0075-0060-app-6pkKK-exploit-count | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20240213T15:00:22Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/dusktuka/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 | 20240213T15:00:20Z | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/dusktuka/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 | 20240213T15:00:19Z | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/dusktuka/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
-| 20240213T15:00:18Z | Ephemeral discourse is embodied by the likes of Messenger Sessions, the digital portraits of Accounts, and the enigmatic Token | https://github.com/dusktuka/Discord-Image-Logger-Slient-Exploit-Builder-Grabber-Stealer | 0 | 0| 
 
 
 # backdoor on Github 推荐
