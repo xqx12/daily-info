@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240214T13:05:57Z | CVE-2023-30547 | Tool for exploring CVE-2023-30547 | https://github.com/Cur1iosity/CVE-2023-30547 | | 
 | 20240214T11:32:37Z | CVE-2024-25092 | NextMove Lite < 2.18.0 - Subscriber+ Arbitrary Plugin Installation/Activation | https://github.com/RandomRobbieBF/CVE-2024-25092 | | 
 | 20240214T09:51:22Z | CVE-2021-46362 | CVE-2021-46362: FreeMarker Server-Side Template Injection in Magnolia CMS | https://github.com/mbadanoiu/CVE-2021-46362 | | 
 | 20240214T06:45:40Z | CVE-2023-36845 | CVES  | https://github.com/ak1t4/CVE-2023-36845 | | 
@@ -35,7 +36,6 @@
 | 20240213T20:50:51Z | CVE-2021-46363 | CVE-2021-46363: Formula Injection in Magnolia CMS | https://github.com/mbadanoiu/CVE-2021-46363 | | 
 | 20240213T19:40:31Z | CVE-2022-38694 | This is a one-time signature verification bypass. For persistent signature verification bypass, check https://github.com/TomKing062/CVE-2022-38691_38692 | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader | | 
 | 20240213T15:11:24Z | CVE-2023-36845 | CVE-2023-36845 и CVE-2023-36846 Juniper Junos OS J-Web RCE | https://github.com/iveresk/CVE-2023-36845-6- | | 
-| 20240213T15:00:22Z | Cve-2023- | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/dusktuka/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 
 
 # klee on Github 推荐
