@@ -40,6 +40,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240214T13:25:33Z | A collection of various exploits | https://github.com/uf0o/exploit_dev | 0 | 0| 
 | 20240214T13:01:10Z | GitOps Repository | https://github.com/pmacik-testing/tkwch-fix-0075-0010-app-UXlcc-occur-exploit | 0 | 0| 
 | 20240214T02:32:00Z | GitOps Repository | https://github.com/pmacik-testing/tkwch-fix-0075-0062-app-73nG6-exploit-vote | 0 | 0| 
 | 20240214T02:24:20Z | Resources which mix the starter articles to advanced articles | https://github.com/KotaHemanthUC/cryptography_exploitation | 0 | 0| 
