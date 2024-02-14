@@ -17,6 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240214T13:50:39Z | CVE-2024-24386 | Null | https://github.com/erick-duarte/CVE-2024-24386 | | 
 | 20240214T13:25:25Z | CVE-2023-30547 | Tool for exploring CVE-2023-30547 | https://github.com/Cur1iosity/CVE-2023-30547 | | 
 | 20240214T11:32:37Z | CVE-2024-25092 | NextMove Lite < 2.18.0 - Subscriber+ Arbitrary Plugin Installation/Activation | https://github.com/RandomRobbieBF/CVE-2024-25092 | | 
 | 20240214T09:51:22Z | CVE-2021-46362 | CVE-2021-46362: FreeMarker Server-Side Template Injection in Magnolia CMS | https://github.com/mbadanoiu/CVE-2021-46362 | | 
