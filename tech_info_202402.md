@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240214T01:43:15Z | A python script designed to drastically speed up exploit development time for TryHackMe or HackTheBox CTFs. | https://github.com/x256-64/bof-ctf-simple | 0 | 0| 
 | 20240214T01:02:19Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0048-app-Q9cST-reject-exploit | 0 | 0| 
 | 20240214T00:53:12Z | GitOps Repository | https://github.com/pmacik-testing/tkwch-fix-0075-0060-app-6pkKK-exploit-count | 0 | 0| 
 | 20240214T00:20:29Z | Zaafiyetli firebase veri tabanlarını test eden araç | https://github.com/Beratblm/Firebase-exploit | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20240213T13:59:14Z | POC Pdf-exploit builder on C#  | https://github.com/K3rnel-Dev/pdf-exploit | 0 | 0| 
 | 20240213T13:48:53Z | In this GitHub Repository, we%re showing Nese-Based operating systems lifecycle to get notify end of support | https://github.com/NeseOSCorporation/neseos-end-of-support | 1 | 0| 
 | 20240213T13:45:12Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/GhostTroops/TOP | 603 | 121| 
-| 20240213T13:42:49Z | National Vulnerability Database (NVD) implemented by rust | https://github.com/emo-crab/nvd-rs | 6 | 0| 
 
 
 # backdoor on Github 推荐
