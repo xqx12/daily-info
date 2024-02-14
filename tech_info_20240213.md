@@ -18,7 +18,6 @@
 | --- | --- | --- | --- | ---| 
 | 20240213T22:40:08Z | CVE-2024-23897 | CVE-2024-23897 | https://github.com/B4CK4TT4CK/CVE-2024-23897 | | 
 | 20240213T21:25:46Z | CVE-2021-46366 | CVE-2021-46366: Credential Bruteforce Attack via CSRF + Open Redirect in Magnolia CMS | https://github.com/mbadanoiu/CVE-2021-46366 | | 
-| 20240213T21:18:11Z | CVE-2023-36845 | CVES  | https://github.com/ak1t4/CVE-2023-36845 | | 
 | 20240213T21:05:16Z | CVE-2021-46365 | CVE-2021-46365: Unsafe XML Parsing in Magnolia CMS | https://github.com/mbadanoiu/CVE-2021-46365 | | 
 | 20240213T20:50:51Z | CVE-2021-46363 | CVE-2021-46363: Formula Injection in Magnolia CMS | https://github.com/mbadanoiu/CVE-2021-46363 | | 
 | 20240213T15:11:24Z | CVE-2023-36845 | CVE-2023-36845 и CVE-2023-36846 Juniper Junos OS J-Web RCE | https://github.com/iveresk/CVE-2023-36845-6- | | 
@@ -26,6 +25,7 @@
 | 20240213T15:00:20Z | Cve-2023- | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/dusktuka/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 | 20240213T15:00:19Z | Cve-2023- | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/dusktuka/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 | 20240213T15:00:16Z | Cve-2023- | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/dusktuka/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
+| 20240213T13:03:01Z | CVE-2023-22527 | CVE-2023-22527 内存马注入工具 | https://github.com/Boogipop/CVE-2023-22527-Godzilla-MEMSHELL | | 
 
 
 # klee on Github 推荐

@@ -26,9 +26,9 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240214T01:29:04Z | CVE-2023-36845 | CVES  | https://github.com/ak1t4/CVE-2023-36845 | | 
 | 20240213T22:40:08Z | CVE-2024-23897 | CVE-2024-23897 | https://github.com/B4CK4TT4CK/CVE-2024-23897 | | 
 | 20240213T21:25:46Z | CVE-2021-46366 | CVE-2021-46366: Credential Bruteforce Attack via CSRF + Open Redirect in Magnolia CMS | https://github.com/mbadanoiu/CVE-2021-46366 | | 
-| 20240213T21:18:11Z | CVE-2023-36845 | CVES  | https://github.com/ak1t4/CVE-2023-36845 | | 
 | 20240213T21:05:16Z | CVE-2021-46365 | CVE-2021-46365: Unsafe XML Parsing in Magnolia CMS | https://github.com/mbadanoiu/CVE-2021-46365 | | 
 | 20240213T20:50:51Z | CVE-2021-46363 | CVE-2021-46363: Formula Injection in Magnolia CMS | https://github.com/mbadanoiu/CVE-2021-46363 | | 
 | 20240213T15:11:24Z | CVE-2023-36845 | CVE-2023-36845 и CVE-2023-36846 Juniper Junos OS J-Web RCE | https://github.com/iveresk/CVE-2023-36845-6- | | 
