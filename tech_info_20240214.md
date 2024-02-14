@@ -40,6 +40,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240214T13:42:07Z | Real-time detection and defense against malicious network activity and policy violations (exploits, port-scanners, advertising, telemetry, state surveillance, etc.) | https://github.com/ClarkFieseln/IPRadar2ForLinux | 7 | 0| 
 | 20240214T13:25:33Z | A collection of various exploits | https://github.com/uf0o/exploit_dev | 0 | 0| 
 | 20240214T13:01:10Z | GitOps Repository | https://github.com/pmacik-testing/tkwch-fix-0075-0010-app-UXlcc-occur-exploit | 0 | 0| 
 | 20240214T02:32:00Z | GitOps Repository | https://github.com/pmacik-testing/tkwch-fix-0075-0062-app-73nG6-exploit-vote | 0 | 0| 
@@ -49,7 +50,6 @@
 | 20240214T01:02:19Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0048-app-Q9cST-reject-exploit | 0 | 0| 
 | 20240214T00:53:12Z | GitOps Repository | https://github.com/pmacik-testing/tkwch-fix-0075-0060-app-6pkKK-exploit-count | 0 | 0| 
 | 20240214T00:20:29Z | Zaafiyetli firebase veri tabanlarını test eden araç | https://github.com/Beratblm/Firebase-exploit | 0 | 0| 
-| 20240214T00:09:47Z | Null | https://github.com/codingcore13/Silent-JPG-Exploit-NEW-t | 1 | 0| 
 
 
 # backdoor on Github 推荐
