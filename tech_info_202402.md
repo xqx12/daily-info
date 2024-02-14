@@ -78,6 +78,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240214T02:39:36Z | AnyDoor: Test-Time Backdoor Attacks on Multimodal Large Language Models | https://github.com/sail-sg/AnyDoor | 4 | 0| 
 | 20240213T19:55:51Z | Jupyter notebooks used in our paper %On the (In)feasibility of ML Backdoor Detection as an Hypothesis Testing Problem% | https://github.com/g-pichler/in_feasibility_of_ml_backdoor_detection | 0 | 0| 
 | 20240213T18:29:35Z | C2 extensible for post-explotation and remote control | https://github.com/aniko33/Unicorn | 5 | 1| 
 | 20240213T15:00:22Z | Hidden VNC constitutes an ingenious stratagem harnessed by the most adept connoisseurs of technology. This method, by far, presents an exhilarating modality to govern the operation | https://github.com/dusktuka/Pandora-HVNC-2FABypass-WebGL-Hidden-Desktop-Outlook-Foxmail-Stealer-Hidden-Browser | 0 | 0| 
@@ -85,7 +86,6 @@
 | 20240213T15:00:17Z | Remote Administration Either you are a private user wanting to control your PC from afar, or a big company which wants to administrate hundreds of machines from a single computer, | https://github.com/dusktuka/ICARUS-NET2-NET4-BAT-VBS-VBA-HVNC-BINDER-PHP-FTPLOGS-RECOVERY-KEYLOG-WEBGL-ROOKIT | 0 | 0| 
 | 20240213T15:00:15Z | The S-500 G2 Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/dusktuka/S500-RAT-HVNC-HAPP-HIdden-BROWSER-HRDP-REVERSE-PROXY-CRYPTO-MONITOR | 0 | 0| 
 | 20240213T14:57:44Z | backdoor | https://github.com/deusnotam/protect | 0 | 0| 
-| 20240213T13:58:21Z | AnyDoor: Test-Time Backdoor Attacks on Multimodal Large Language Models | https://github.com/sail-sg/AnyDoor | 0 | 0| 
 | 20240213T13:58:15Z | Digital Forensics and Incident Response (DFIR) | https://github.com/RENANZG/My-Forensics | 72 | 10| 
 | 20240213T10:59:06Z | Null | https://github.com/xzionn/simply-backdoor | 0 | 0| 
 

@@ -66,9 +66,9 @@
 | 20240213T15:00:17Z | Remote Administration Either you are a private user wanting to control your PC from afar, or a big company which wants to administrate hundreds of machines from a single computer, | https://github.com/dusktuka/ICARUS-NET2-NET4-BAT-VBS-VBA-HVNC-BINDER-PHP-FTPLOGS-RECOVERY-KEYLOG-WEBGL-ROOKIT | 0 | 0| 
 | 20240213T15:00:15Z | The S-500 G2 Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/dusktuka/S500-RAT-HVNC-HAPP-HIdden-BROWSER-HRDP-REVERSE-PROXY-CRYPTO-MONITOR | 0 | 0| 
 | 20240213T14:57:44Z | backdoor | https://github.com/deusnotam/protect | 0 | 0| 
-| 20240213T13:58:21Z | AnyDoor: Test-Time Backdoor Attacks on Multimodal Large Language Models | https://github.com/sail-sg/AnyDoor | 0 | 0| 
 | 20240213T13:58:15Z | Digital Forensics and Incident Response (DFIR) | https://github.com/RENANZG/My-Forensics | 72 | 10| 
 | 20240213T10:59:06Z | Null | https://github.com/xzionn/simply-backdoor | 0 | 0| 
+| 20240213T09:59:03Z | A simple backdoor using Public API | https://github.com/jychp/shameleon | 2 | 0| 
 
 
 # symbolic execution on Github 推荐
