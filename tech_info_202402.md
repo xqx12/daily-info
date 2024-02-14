@@ -118,6 +118,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240214T13:23:17Z | Null | https://github.com/Demepreqd/fuzzy-carnival | 0 | 0| 
 | 20240214T11:15:04Z | Null | https://github.com/Micropue/fuzzy-octo-bassoon | 0 | 0| 
 | 20240214T10:53:45Z | Predicts heart risk disease risk using Fuzzy-GA approach | https://github.com/EimanAzzam/FuzzyGA-HeartRiskPredict-Python | 0 | 0| 
 | 20240214T09:55:35Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 5026 | 1197| 
@@ -127,7 +128,6 @@
 | 20240214T09:17:24Z | qfuzz( QwekuFuzzer ), web fuzzer and more written in Go | https://github.com/SpeedyQweku/qfuzz | 0 | 0| 
 | 20240214T08:11:00Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1766 | 268| 
 | 20240214T02:25:40Z | fuzzy-sniffle | https://github.com/web3bi/fuzzy-sniffle | 1 | 0| 
-| 20240214T02:25:07Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52080 | 23586| 
 
 
 
