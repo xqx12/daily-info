@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240214T13:01:10Z | GitOps Repository | https://github.com/pmacik-testing/tkwch-fix-0075-0010-app-UXlcc-occur-exploit | 0 | 0| 
 | 20240214T02:32:00Z | GitOps Repository | https://github.com/pmacik-testing/tkwch-fix-0075-0062-app-73nG6-exploit-vote | 0 | 0| 
 | 20240214T02:24:20Z | Resources which mix the starter articles to advanced articles | https://github.com/KotaHemanthUC/cryptography_exploitation | 0 | 0| 
 | 20240214T02:16:58Z | [AAAI 2024] Official code for                    %Hyp-OW: Exploiting Hierarchical Structure Learning with Hyperbolic Distance Enhances Open World Object Detection% | https://github.com/boschresearch/Hyp-OW | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20240214T00:20:29Z | Zaafiyetli firebase veri tabanlarını test eden araç | https://github.com/Beratblm/Firebase-exploit | 0 | 0| 
 | 20240214T00:09:47Z | Null | https://github.com/codingcore13/Silent-JPG-Exploit-NEW-t | 1 | 0| 
 | 20240213T22:19:23Z | Scraper for daily renewal of the Known Exploited Vulnerabilities Catalog by CISA | https://github.com/BenjiTrapp/cisa-known-vuln-scraper | 3 | 1| 
-| 20240213T15:00:22Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/dusktuka/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -93,11 +93,11 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240214T04:05:54Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 202 | 42| 
+| 20240214T03:12:38Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 54 | 9| 
 | 20240214T01:35:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2411 | 654| 
 | 20240213T12:52:22Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 506 | 34| 
 | 20240212T16:32:28Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 734 | 132| 
-| 20240210T10:37:26Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 53 | 9| 
-| 20240209T23:37:56Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 201 | 42| 
 | 20240208T02:49:07Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 510 | 44| 
 | 20240207T16:26:36Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 375 | 84| 
 | 20240205T16:29:37Z | Null | https://github.com/holdenbrown/Compression-of-Symbolic-Execution-Trees | 0 | 0| 

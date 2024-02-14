@@ -39,6 +39,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240214T13:01:10Z | GitOps Repository | https://github.com/pmacik-testing/tkwch-fix-0075-0010-app-UXlcc-occur-exploit | 0 | 0| 
 | 20240214T02:32:00Z | GitOps Repository | https://github.com/pmacik-testing/tkwch-fix-0075-0062-app-73nG6-exploit-vote | 0 | 0| 
 | 20240214T02:24:20Z | Resources which mix the starter articles to advanced articles | https://github.com/KotaHemanthUC/cryptography_exploitation | 0 | 0| 
 | 20240214T02:16:58Z | [AAAI 2024] Official code for                    %Hyp-OW: Exploiting Hierarchical Structure Learning with Hyperbolic Distance Enhances Open World Object Detection% | https://github.com/boschresearch/Hyp-OW | 0 | 0| 
@@ -60,6 +61,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240214T04:05:54Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 202 | 42| 
+| 20240214T03:12:38Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 54 | 9| 
 | 20240214T01:35:10Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2411 | 654| 
 
 
