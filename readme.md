@@ -40,6 +40,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240214T13:48:57Z | Null | https://github.com/kkhanmohammadi/ExploitabilityBirthMark | 0 | 0| 
 | 20240214T13:45:33Z | A collection of ChromeOS exploits free for the public | https://github.com/3kh0/ext-remover | 332 | 345| 
 | 20240214T13:42:07Z | Real-time detection and defense against malicious network activity and policy violations (exploits, port-scanners, advertising, telemetry, state surveillance, etc.) | https://github.com/ClarkFieseln/IPRadar2ForLinux | 7 | 0| 
 | 20240214T13:25:33Z | A collection of various exploits | https://github.com/uf0o/exploit_dev | 0 | 0| 
@@ -49,7 +50,6 @@
 | 20240214T02:16:58Z | [AAAI 2024] Official code for                    %Hyp-OW: Exploiting Hierarchical Structure Learning with Hyperbolic Distance Enhances Open World Object Detection% | https://github.com/boschresearch/Hyp-OW | 0 | 0| 
 | 20240214T01:43:15Z | A python script designed to drastically speed up exploit development time for TryHackMe or HackTheBox CTFs. | https://github.com/x256-64/bof-ctf-simple | 0 | 0| 
 | 20240214T01:02:19Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0048-app-Q9cST-reject-exploit | 0 | 0| 
-| 20240214T00:53:12Z | GitOps Repository | https://github.com/pmacik-testing/tkwch-fix-0075-0060-app-6pkKK-exploit-count | 0 | 0| 
 
 
 # backdoor on Github 推荐
