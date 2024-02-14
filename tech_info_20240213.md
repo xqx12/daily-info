@@ -46,15 +46,15 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20240213T22:19:23Z | Scraper for daily renewal of the Known Exploited Vulnerabilities Catalog by CISA | https://github.com/BenjiTrapp/cisa-known-vuln-scraper | 3 | 1| 
+| 20240213T15:00:22Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/dusktuka/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
+| 20240213T15:00:20Z | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/dusktuka/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
+| 20240213T15:00:19Z | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/dusktuka/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
+| 20240213T15:00:18Z | Ephemeral discourse is embodied by the likes of Messenger Sessions, the digital portraits of Accounts, and the enigmatic Token | https://github.com/dusktuka/Discord-Image-Logger-Slient-Exploit-Builder-Grabber-Stealer | 0 | 0| 
 | 20240213T14:17:55Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5771 | 1108| 
 | 20240213T13:59:14Z | POC Pdf-exploit builder on C#  | https://github.com/K3rnel-Dev/pdf-exploit | 0 | 0| 
 | 20240213T13:48:53Z | In this GitHub Repository, we%re showing Nese-Based operating systems lifecycle to get notify end of support | https://github.com/NeseOSCorporation/neseos-end-of-support | 1 | 0| 
 | 20240213T13:45:12Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/GhostTroops/TOP | 603 | 121| 
 | 20240213T13:42:49Z | National Vulnerability Database (NVD) implemented by rust | https://github.com/emo-crab/nvd-rs | 6 | 0| 
-| 20240213T13:27:44Z | A project that offers cheats developed with C++ for DayZ. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/MadasTrue/PROOFCORE-Dayz-Cheat-Hack-Aimbot-Esp-Exploit-Magic-Bullet-Spoofer-Misc | 0 | 0| 
-| 20240213T13:27:05Z | In this GitHub Repository, we%re showing Nese-Based operating systems lifecycle to get notify end of support | https://github.com/NeseOSCorporation/neseos-end-of-suppor | 0 | 0| 
-| 20240213T13:07:42Z | GitOps Repository | https://github.com/pmacik-testing/tkwch-fix-0075-0048-app-occqy-exploit-retain | 0 | 0| 
-| 20240213T13:03:23Z | Null | https://github.com/itsanirbanbain/Exploit-Finder | 0 | 0| 
 
 
 # backdoor on Github 推荐
