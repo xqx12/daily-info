@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240214T02:24:20Z | Resources which mix the starter articles to advanced articles | https://github.com/KotaHemanthUC/cryptography_exploitation | 0 | 0| 
 | 20240214T02:16:58Z | [AAAI 2024] Official code for                    %Hyp-OW: Exploiting Hierarchical Structure Learning with Hyperbolic Distance Enhances Open World Object Detection% | https://github.com/boschresearch/Hyp-OW | 0 | 0| 
 | 20240214T01:43:15Z | A python script designed to drastically speed up exploit development time for TryHackMe or HackTheBox CTFs. | https://github.com/x256-64/bof-ctf-simple | 0 | 0| 
 | 20240214T01:02:19Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0048-app-Q9cST-reject-exploit | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20240213T22:19:23Z | Scraper for daily renewal of the Known Exploited Vulnerabilities Catalog by CISA | https://github.com/BenjiTrapp/cisa-known-vuln-scraper | 3 | 1| 
 | 20240213T15:00:22Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/dusktuka/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 | 20240213T15:00:20Z | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/dusktuka/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
-| 20240213T15:00:19Z | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/dusktuka/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -118,16 +118,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240214T02:25:40Z | fuzzy-sniffle | https://github.com/web3bi/fuzzy-sniffle | 1 | 0| 
+| 20240214T02:25:07Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52080 | 23586| 
 | 20240214T02:14:41Z | Null | https://github.com/wa3aaa/fuzzy-moon | 0 | 0| 
 | 20240213T23:51:32Z | Null | https://github.com/alasalamont/Fuzzing-LFI | 0 | 0| 
-| 20240213T23:50:24Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52079 | 23586| 
 | 20240213T21:18:06Z | Rapid fuzzy string matching using the Levenshtein Distance | https://github.com/Stinger05189/UnrealEngine_RapidFuzz_FuzzySearch | 0 | 0| 
 | 20240213T16:48:40Z | Null | https://github.com/google/fuzztest | 550 | 48| 
 | 20240213T14:02:57Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 552 | 55| 
 | 20240213T13:43:02Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9437 | 2122| 
 | 20240213T13:35:08Z | Null | https://github.com/mrpouderkarapuz31/fuzzy-octo-broccoli | 0 | 0| 
 | 20240213T13:07:59Z | Null | https://github.com/Abinadd/fuzzy-umbrella | 0 | 0| 
-| 20240213T12:43:29Z | Null | https://github.com/deadmorose21bull34/fuzzy-computing-machine | 0 | 0| 
 
 
 
