@@ -118,6 +118,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240215T01:41:50Z | Automated Penetration Testing for Block Game | https://github.com/Dinhero21/node-minecraft-fuzzer | 0 | 0| 
 | 20240215T01:33:30Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52102 | 23587| 
 | 20240215T00:56:59Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 556 | 55| 
 | 20240214T23:09:13Z | Null | https://github.com/ChiefSi/fuzzy-umbrella | 0 | 0| 
@@ -127,7 +128,6 @@
 | 20240214T15:08:40Z | Differential testing and fuzzing of HTTP servers and proxies | https://github.com/narfindustries/http-garden | 473 | 47| 
 | 20240214T13:28:07Z | Null | https://github.com/Demepreqd/fuzzy-carnival | 0 | 0| 
 | 20240214T11:15:04Z | Null | https://github.com/Micropue/fuzzy-octo-bassoon | 0 | 0| 
-| 20240214T09:55:35Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 5026 | 1197| 
 
 
 
