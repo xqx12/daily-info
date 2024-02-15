@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240215T13:17:56Z | Repository that contains some exploits and PoC that i wrote..  | https://github.com/sysevil/CVES | 0 | 0| 
 | 20240215T10:36:47Z | VW Golf Mk 6 radio exploits | https://github.com/willnotwish/golf-radio | 0 | 0| 
 | 20240215T10:30:47Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr712-0075-0075-app-goEa--clean-exploit | 0 | 0| 
 | 20240215T06:27:39Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5773 | 1108| 
@@ -72,7 +73,6 @@
 | 20240215T01:39:35Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0081-app-Kd4XF-allow-exploit | 0 | 0| 
 | 20240215T01:14:34Z | Null | https://github.com/SleepyVibe/Mobile-Exploit-Hub | 0 | 0| 
 | 20240215T00:57:33Z | Null | https://github.com/SleepyVibe/Mobile-Exploit-ScriptHub | 0 | 0| 
-| 20240215T00:50:12Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr712-0075-0063-app-l5I_d-exploit-follow | 0 | 0| 
 
 
 # backdoor on Github 推荐
