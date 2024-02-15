@@ -118,8 +118,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240215T01:33:30Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52102 | 23587| 
 | 20240215T00:56:59Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 556 | 55| 
-| 20240215T00:42:48Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52101 | 23587| 
 | 20240214T23:09:13Z | Null | https://github.com/ChiefSi/fuzzy-umbrella | 0 | 0| 
 | 20240214T21:35:57Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1768 | 268| 
 | 20240214T21:18:51Z | A powerful approach to fuzzy data matching using GPT-based embeddings and Nearest Neighbors | https://github.com/yossilevi94/FuzzMatchGPT | 0 | 0| 
