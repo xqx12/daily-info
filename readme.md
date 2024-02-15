@@ -45,6 +45,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20240214T22:09:00Z | Plugin for prevent UUID spoof (https://github.com/wodxgod/Griefing-Methods/blob/master/Exploitation/UUID%20Spoofing.md) | https://github.com/SenCraftServer/AntiUUIDSpoof | 0 | 0| 
+| 20240214T20:37:21Z | UAC bypass, Elevate, Persistence methods | https://github.com/MckMasters/UAC-Bypass-FUD | 0 | 0| 
 | 20240214T14:06:33Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5772 | 1108| 
 | 20240214T13:48:57Z | Null | https://github.com/kkhanmohammadi/ExploitabilityBirthMark | 0 | 0| 
 | 20240214T13:45:33Z | A collection of ChromeOS exploits free for the public | https://github.com/3kh0/ext-remover | 332 | 345| 
@@ -53,7 +54,6 @@
 | 20240214T13:01:10Z | GitOps Repository | https://github.com/pmacik-testing/tkwch-fix-0075-0010-app-UXlcc-occur-exploit | 0 | 0| 
 | 20240214T05:42:35Z | A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware | https://github.com/hack-different/apple-knowledge | 758 | 69| 
 | 20240214T02:32:00Z | GitOps Repository | https://github.com/pmacik-testing/tkwch-fix-0075-0062-app-73nG6-exploit-vote | 0 | 0| 
-| 20240214T02:24:20Z | Resources which mix the starter articles to advanced articles | https://github.com/KotaHemanthUC/cryptography_exploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
