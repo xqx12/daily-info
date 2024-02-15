@@ -41,7 +41,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240215T12:18:18Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15295 | 459| 
+| 20240215T13:39:43Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15296 | 459| 
 | 20240215T11:37:54Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2412 | 654| 
 | 20240215T06:39:46Z | Null | https://github.com/kioni808/SeanKLee | 0 | 0| 
 | 20240214T23:42:14Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 448 | 9| 
@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240215T13:40:00Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-python-personal-s5D_D-exploit-suffer | 0 | 0| 
 | 20240215T13:25:19Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 95 | 14| 
 | 20240215T13:25:07Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5774 | 1108| 
 | 20240215T13:17:56Z | Repository that contains some exploits and PoC that i wrote..  | https://github.com/sysevil/CVES | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20240215T01:47:16Z | GitOps Repository | https://github.com/redhat-appstudio-qe/integ-app-mjfm-dKyNu-exploit-love | 0 | 0| 
 | 20240215T01:39:46Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0042-app-1FzAZ-watch-exploit | 0 | 0| 
 | 20240215T01:39:35Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0081-app-Kd4XF-allow-exploit | 0 | 0| 
-| 20240215T01:14:34Z | Null | https://github.com/SleepyVibe/Mobile-Exploit-Hub | 0 | 0| 
 
 
 # backdoor on Github 推荐
