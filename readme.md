@@ -16,6 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240215T13:53:21Z | CVE-2024-20666 |  PowerShell script that can help you automate updating the Windows Recovery Environment (WinRE) on deployed devices to address the security vulnerabilities in [CVE-2024-20666](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-20666). | https://github.com/nnotwen/Script-For-CVE-2024-20666 | | 
 | 20240215T12:37:34Z | CVE-2024-23897 | Null | https://github.com/abdomagdy0/CVE-2024-23897-htb | | 
 | 20240215T07:47:14Z | CVE-2024-25466 | Description for CVE-2024-25466 | https://github.com/FixedOctocat/CVE-2024-25466 | | 
 | 20240215T03:55:27Z | CVE-2023-47464 | CVE-2023-47464 POC | https://github.com/HadessCS/CVE-2023-47464 | | 

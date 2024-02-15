@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240215T13:53:21Z | CVE-2024-20666 |  PowerShell script that can help you automate updating the Windows Recovery Environment (WinRE) on deployed devices to address the security vulnerabilities in [CVE-2024-20666](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-20666). | https://github.com/nnotwen/Script-For-CVE-2024-20666 | | 
 | 20240215T12:37:34Z | CVE-2024-23897 | Null | https://github.com/abdomagdy0/CVE-2024-23897-htb | | 
 | 20240215T07:47:14Z | CVE-2024-25466 | Description for CVE-2024-25466 | https://github.com/FixedOctocat/CVE-2024-25466 | | 
 | 20240215T03:55:27Z | CVE-2023-47464 | CVE-2023-47464 POC | https://github.com/HadessCS/CVE-2023-47464 | | 
@@ -35,7 +36,6 @@
 | 20240214T14:51:34Z | CVE-2023-36845 | This Python script automates the Proof of Concept (PoC) for CVE-2023-36845, a vulnerability impacting Juniper Networks Junos OS on EX and SRX Series devices. The vulnerability resides in the J-Web component, allowing remote manipulation of the PHPRC variable, potentially leading to code injection. | https://github.com/0xNehru/CVE-2023-36845-Juniper-Vulnerability | | 
 | 20240214T13:50:39Z | CVE-2024-24386 | Null | https://github.com/erick-duarte/CVE-2024-24386 | | 
 | 20240214T13:25:25Z | CVE-2023-30547 | Tool for exploring CVE-2023-30547 | https://github.com/Cur1iosity/CVE-2023-30547 | | 
-| 20240214T11:32:37Z | CVE-2024-25092 | NextMove Lite < 2.18.0 - Subscriber+ Arbitrary Plugin Installation/Activation | https://github.com/RandomRobbieBF/CVE-2024-25092 | | 
 
 
 # klee on Github 推荐
