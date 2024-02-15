@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240215T01:47:16Z | GitOps Repository | https://github.com/redhat-appstudio-qe/integ-app-mjfm-dKyNu-exploit-love | 0 | 0| 
 | 20240215T01:39:46Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0042-app-1FzAZ-watch-exploit | 0 | 0| 
 | 20240215T01:39:35Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0081-app-Kd4XF-allow-exploit | 0 | 0| 
 | 20240215T01:14:34Z | Null | https://github.com/SleepyVibe/Mobile-Exploit-Hub | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20240215T00:38:37Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-vi | 1 | 0| 
 | 20240215T00:37:19Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-vi | 1 | 0| 
 | 20240215T00:34:53Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-vi | 1 | 0| 
-| 20240215T00:15:29Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr712-0075-0004-app-ZaHmu-result-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
