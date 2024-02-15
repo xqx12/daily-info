@@ -78,6 +78,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240215T13:48:12Z | Null | https://github.com/Jaikumar96/BackDoor | 0 | 0| 
 | 20240215T09:36:53Z | Backdoor attack in NLP | https://github.com/alekseevskaia/OrderBkd | 0 | 0| 
 | 20240215T08:49:51Z | AnyDoor: Test-Time Backdoor Attacks on Multimodal Large Language Models | https://github.com/sail-sg/AnyDoor | 16 | 0| 
 | 20240215T00:58:47Z | The most advanced Android Rat 2024 | https://github.com/cryptoixer/AndroidBotnet | 2 | 0| 
@@ -87,7 +88,6 @@
 | 20240213T21:52:47Z | Persistent Powershell backdoor tool  | https://github.com/ELMERIKH/Keres | 87 | 10| 
 | 20240213T19:55:51Z | Jupyter notebooks used in our paper %On the (In)feasibility of ML Backdoor Detection as an Hypothesis Testing Problem% | https://github.com/g-pichler/in_feasibility_of_ml_backdoor_detection | 0 | 0| 
 | 20240213T18:29:35Z | C2 extensible for post-explotation and remote control | https://github.com/aniko33/Unicorn | 5 | 1| 
-| 20240213T15:00:22Z | Hidden VNC constitutes an ingenious stratagem harnessed by the most adept connoisseurs of technology. This method, by far, presents an exhilarating modality to govern the operation | https://github.com/dusktuka/Pandora-HVNC-2FABypass-WebGL-Hidden-Desktop-Outlook-Foxmail-Stealer-Hidden-Browser | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
