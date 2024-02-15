@@ -118,6 +118,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240215T02:31:32Z | :exclamation: This is a read-only mirror of the CRAN R package repository.  FuzzyPovertyR — Estimation of Fuzzy Poverty Measures   | https://github.com/cran/FuzzyPovertyR | 0 | 0| 
+| 20240215T02:31:30Z | :exclamation: This is a read-only mirror of the CRAN R package repository.  FuzzyClass — Fuzzy and Non-Fuzzy Classifiers. Homepage: https://github.com/leapigufpb/FuzzyClass  Report bugs for this package: https://github.com/leapigufpb/FuzzyClass/issues | https://github.com/cran/FuzzyClass | 0 | 0| 
 | 20240215T01:41:50Z | Automated Penetration Testing for Block Game | https://github.com/Dinhero21/node-minecraft-fuzzer | 0 | 0| 
 | 20240215T01:33:30Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52102 | 23587| 
 | 20240215T00:56:59Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 556 | 55| 
@@ -126,8 +128,6 @@
 | 20240214T21:18:51Z | A powerful approach to fuzzy data matching using GPT-based embeddings and Nearest Neighbors | https://github.com/yossilevi94/FuzzMatchGPT | 0 | 0| 
 | 20240214T20:39:46Z | Predicts heart risk disease risk using Fuzzy-GA approach | https://github.com/EimanAzzam/FuzzyGA-HeartRiskPredict-Python | 0 | 0| 
 | 20240214T15:08:40Z | Differential testing and fuzzing of HTTP servers and proxies | https://github.com/narfindustries/http-garden | 473 | 47| 
-| 20240214T13:28:07Z | Null | https://github.com/Demepreqd/fuzzy-carnival | 0 | 0| 
-| 20240214T11:15:04Z | Null | https://github.com/Micropue/fuzzy-octo-bassoon | 0 | 0| 
 
 
 
