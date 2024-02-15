@@ -25,6 +25,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240215T13:50:13Z | 本字体基于Klee one字体及其衍生的霞鹜文楷系列字体进行改做，基于文楷TC修改的字体 | https://github.com/Steve-Yuu/YshiShuti | 17 | 0| 
+| 20240215T13:50:05Z | 基於 Klee One 改造的字型，以傳承字形風格為主。 | https://github.com/Ayaginu-Sue/Astalia | 14 | 0| 
 | 20240215T13:39:43Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15296 | 459| 
 | 20240215T11:37:54Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2412 | 654| 
 | 20240215T06:39:46Z | Null | https://github.com/kioni808/SeanKLee | 0 | 0| 

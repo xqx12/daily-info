@@ -41,16 +41,16 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240215T13:50:13Z | 本字体基于Klee one字体及其衍生的霞鹜文楷系列字体进行改做，基于文楷TC修改的字体 | https://github.com/Steve-Yuu/YshiShuti | 17 | 0| 
+| 20240215T13:50:05Z | 基於 Klee One 改造的字型，以傳承字形風格為主。 | https://github.com/Ayaginu-Sue/Astalia | 14 | 0| 
 | 20240215T13:39:43Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15296 | 459| 
 | 20240215T11:37:54Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2412 | 654| 
 | 20240215T06:39:46Z | Null | https://github.com/kioni808/SeanKLee | 0 | 0| 
 | 20240214T23:42:14Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 448 | 9| 
 | 20240214T10:56:45Z | Config files for my GitHub profile. | https://github.com/marKLee213/marKLee213 | 0 | 0| 
 | 20240213T12:50:48Z | Running KLEE on coreutils | https://github.com/riesentoaster/klee-coreutils-experiments | 0 | 0| 
-| 20240213T10:14:37Z | 基於 Klee One 改造的字型，以傳承字形風格為主。 | https://github.com/Ayaginu-Sue/Astalia | 13 | 0| 
 | 20240213T09:00:12Z | Null | https://github.com/DanielleJadine/SneakyKleen | 0 | 4| 
 | 20240212T14:08:53Z | Null | https://github.com/Glacox/11-KleePHPpublic | 0 | 0| 
-| 20240212T14:03:00Z | Null | https://github.com/Glacox/Kleestore | 0 | 0| 
 
 
 # s2e on Github 推荐
