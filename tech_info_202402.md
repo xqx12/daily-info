@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240215T02:28:36Z | CVE-2022-0847 | Null | https://github.com/letsr00t/CVE-2022-0847 | | 
 | 20240214T19:35:49Z | CVE-2023-36845 | CVES  | https://github.com/ak1t4/CVE-2023-36845 | | 
 | 20240214T19:20:54Z | CVE-2023-46604 | Null | https://github.com/ST3G4N05/ExploitScript-CVE-2023-46604 | | 
 | 20240214T15:40:38Z | CVE-2023-47464 | CVE-2023-47464 POC | https://github.com/HadessCS/CVE-2023-47464 | | 
@@ -35,7 +36,6 @@
 | 20240214T11:32:37Z | CVE-2024-25092 | NextMove Lite < 2.18.0 - Subscriber+ Arbitrary Plugin Installation/Activation | https://github.com/RandomRobbieBF/CVE-2024-25092 | | 
 | 20240214T09:51:22Z | CVE-2021-46362 | CVE-2021-46362: FreeMarker Server-Side Template Injection in Magnolia CMS | https://github.com/mbadanoiu/CVE-2021-46362 | | 
 | 20240213T22:40:08Z | CVE-2024-23897 | CVE-2024-23897 | https://github.com/B4CK4TT4CK/CVE-2024-23897 | | 
-| 20240213T21:25:46Z | CVE-2021-46366 | CVE-2021-46366: Credential Bruteforce Attack via CSRF + Open Redirect in Magnolia CMS | https://github.com/mbadanoiu/CVE-2021-46366 | | 
 
 
 # klee on Github 推荐
