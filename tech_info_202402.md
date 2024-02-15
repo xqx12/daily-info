@@ -41,9 +41,9 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240215T13:53:29Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15295 | 459| 
 | 20240215T13:50:13Z | 本字体基于Klee one字体及其衍生的霞鹜文楷系列字体进行改做，基于文楷TC修改的字体 | https://github.com/Steve-Yuu/YshiShuti | 17 | 0| 
 | 20240215T13:50:05Z | 基於 Klee One 改造的字型，以傳承字形風格為主。 | https://github.com/Ayaginu-Sue/Astalia | 14 | 0| 
-| 20240215T13:39:43Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15296 | 459| 
 | 20240215T11:37:54Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2412 | 654| 
 | 20240215T06:39:46Z | Null | https://github.com/kioni808/SeanKLee | 0 | 0| 
 | 20240214T23:42:14Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 448 | 9| 
@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240215T13:47:05Z | This repository contains the explout that we need to escalate our previlages and get the root shell.This is a code written in c that helps us escalate our previlages. | https://github.com/muaaz232005/LD_PRELOAD-exploit | 0 | 0| 
 | 20240215T13:45:22Z | Sentinel Policy to prevent the exploit of local-exec within Terraform | https://github.com/hashicorp-terraform-cloud/null-resource-exploit-mitigation | 0 | 0| 
 | 20240215T13:40:00Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-python-personal-s5D_D-exploit-suffer | 0 | 0| 
 | 20240215T13:25:19Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 95 | 14| 
@@ -72,7 +73,6 @@
 | 20240215T10:30:47Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr712-0075-0075-app-goEa--clean-exploit | 0 | 0| 
 | 20240215T02:04:41Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0095-app-H7Uyd-exploit-assess | 0 | 0| 
 | 20240215T01:47:16Z | GitOps Repository | https://github.com/redhat-appstudio-qe/integ-app-mjfm-dKyNu-exploit-love | 0 | 0| 
-| 20240215T01:39:46Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0042-app-1FzAZ-watch-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
