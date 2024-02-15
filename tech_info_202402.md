@@ -118,6 +118,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240215T02:48:37Z | Tugas 1 app Fuzzy mata kuliah Pemodelan Fuzzy | https://github.com/fikahanafi/app_fuzzy | 0 | 0| 
 | 20240215T02:31:32Z | :exclamation: This is a read-only mirror of the CRAN R package repository.  FuzzyPovertyR — Estimation of Fuzzy Poverty Measures   | https://github.com/cran/FuzzyPovertyR | 0 | 0| 
 | 20240215T02:31:30Z | :exclamation: This is a read-only mirror of the CRAN R package repository.  FuzzyClass — Fuzzy and Non-Fuzzy Classifiers. Homepage: https://github.com/leapigufpb/FuzzyClass  Report bugs for this package: https://github.com/leapigufpb/FuzzyClass/issues | https://github.com/cran/FuzzyClass | 0 | 0| 
 | 20240215T01:41:50Z | Automated Penetration Testing for Block Game | https://github.com/Dinhero21/node-minecraft-fuzzer | 0 | 0| 
@@ -127,7 +128,6 @@
 | 20240214T21:35:57Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1768 | 268| 
 | 20240214T21:18:51Z | A powerful approach to fuzzy data matching using GPT-based embeddings and Nearest Neighbors | https://github.com/yossilevi94/FuzzMatchGPT | 0 | 0| 
 | 20240214T20:39:46Z | Predicts heart risk disease risk using Fuzzy-GA approach | https://github.com/EimanAzzam/FuzzyGA-HeartRiskPredict-Python | 0 | 0| 
-| 20240214T15:08:40Z | Differential testing and fuzzing of HTTP servers and proxies | https://github.com/narfindustries/http-garden | 473 | 47| 
 
 
 
