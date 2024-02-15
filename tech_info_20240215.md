@@ -76,6 +76,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240215T13:35:33Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9440 | 2125| 
+| 20240215T13:35:25Z | Null | https://github.com/urzala/fuzzy-stream | 0 | 0| 
 | 20240215T11:08:08Z | Null | https://github.com/ntua-el19119/NeuroFuzzy_Diffuser | 0 | 0| 
 | 20240215T10:12:45Z | Null | https://github.com/LOKESVARA/fuzzy-octo-chainsaw | 0 | 0| 
 | 20240215T10:09:11Z | Null | https://github.com/Tonmoy-Sarker-17/fuzzy-octo-waffle | 0 | 0| 
@@ -84,8 +86,6 @@
 | 20240215T08:37:26Z | Null | https://github.com/FredMokami/fuzzyfactory_conversion | 0 | 0| 
 | 20240215T02:48:37Z | Tugas 1 app Fuzzy mata kuliah Pemodelan Fuzzy | https://github.com/fikahanafi/app_fuzzy | 0 | 0| 
 | 20240215T02:31:32Z | :exclamation: This is a read-only mirror of the CRAN R package repository.  FuzzyPovertyR — Estimation of Fuzzy Poverty Measures   | https://github.com/cran/FuzzyPovertyR | 0 | 0| 
-| 20240215T02:31:30Z | :exclamation: This is a read-only mirror of the CRAN R package repository.  FuzzyClass — Fuzzy and Non-Fuzzy Classifiers. Homepage: https://github.com/leapigufpb/FuzzyClass  Report bugs for this package: https://github.com/leapigufpb/FuzzyClass/issues | https://github.com/cran/FuzzyClass | 0 | 0| 
-| 20240215T01:41:50Z | Automated Penetration Testing for Block Game | https://github.com/Dinhero21/node-minecraft-fuzzer | 0 | 0| 
 
 
 
