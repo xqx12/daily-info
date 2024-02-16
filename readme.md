@@ -72,6 +72,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240216T13:25:13Z | Fuzzy search tool made with javascript | https://github.com/pedrodimarco/fuzzy-search-tool | 0 | 0| 
 | 20240216T13:21:15Z | Null | https://github.com/orion160/A-Tour-into-Fuzzing | 0 | 0| 
 | 20240216T13:18:44Z | A tool to automatically generate Foundry unit test cases from Echidna and Medusa failed properties | https://github.com/crytic/fuzz-utils | 1 | 1| 
 | 20240216T11:41:48Z | Script de Python para hacer Fuzzing Web  | https://github.com/juliangordon88/Script_Fuzzing_Web | 0 | 0| 
@@ -81,7 +82,6 @@
 | 20240216T02:37:08Z | Null | https://github.com/HenzoKadabra/fuzzy-carnival | 0 | 0| 
 | 20240216T02:26:15Z | Null | https://github.com/anarosaklinke/Fuzzy | 0 | 0| 
 | 20240216T02:06:30Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52130 | 23592| 
-| 20240216T00:37:18Z | Null | https://github.com/yS6QT6seo/fuzzy-moon | 0 | 0| 
 
 
 
