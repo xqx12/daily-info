@@ -72,9 +72,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240216T13:18:44Z | A tool to automatically generate Foundry unit test cases from Echidna and Medusa failed properties | https://github.com/crytic/fuzz-utils | 1 | 1| 
 | 20240216T11:41:48Z | Script de Python para hacer Fuzzing Web  | https://github.com/juliangordon88/Script_Fuzzing_Web | 0 | 0| 
 | 20240216T11:06:11Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4457 | 926| 
-| 20240216T10:24:03Z | A tool to automatically generate Foundry unit test cases from Echidna and Medusa failed properties | https://github.com/crytic/fuzz-utils | 0 | 1| 
 | 20240216T04:46:02Z | Artifacts for Cascade: CPU Fuzzing via Intricate Program Generation (USENIX Security 2024) | https://github.com/comsec-group/cascade-artifacts | 86 | 5| 
 | 20240216T02:56:54Z | Null | https://github.com/alexanderthebadatcoding/fuzzy-spork | 0 | 0| 
 | 20240216T02:37:08Z | Null | https://github.com/HenzoKadabra/fuzzy-carnival | 0 | 0| 
