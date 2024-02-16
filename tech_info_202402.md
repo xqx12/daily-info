@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240216T13:22:52Z | constantiam oldchunk exploit that renders old ores. useful for basehunting (meteor addon) | https://github.com/Vekzhivi/const-oldchunks-exploit | 0 | 0| 
 | 20240216T13:11:26Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5776 | 1108| 
 | 20240216T12:46:02Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr712-0075-0019-app-DvJdq-hide-exploit | 0 | 0| 
 | 20240216T12:08:10Z | Null | https://github.com/5O4R3S/OutSystems-Exploit | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20240216T02:37:55Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0008-app-Hj0qp-exploit-answer | 0 | 0| 
 | 20240216T02:35:48Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0083-app-4y-ha-relax-exploit | 0 | 0| 
 | 20240216T02:32:24Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr712-0075-0004-app-ZaHmu-paint-exploit | 0 | 0| 
-| 20240216T02:11:02Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0008-app-CADOz-exploit-resolve | 0 | 0| 
 
 
 # backdoor on Github 推荐
