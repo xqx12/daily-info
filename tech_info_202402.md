@@ -121,7 +121,7 @@
 | --- | --- | --- | --- | ---| 
 | 20240216T02:37:08Z | Null | https://github.com/HenzoKadabra/fuzzy-carnival | 0 | 0| 
 | 20240216T02:26:15Z | Null | https://github.com/anarosaklinke/Fuzzy | 0 | 0| 
-| 20240216T02:06:30Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52130 | 23593| 
+| 20240216T02:06:30Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52130 | 23592| 
 | 20240216T02:05:53Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4455 | 926| 
 | 20240216T00:37:18Z | Null | https://github.com/yS6QT6seo/fuzzy-moon | 0 | 0| 
 | 20240215T22:17:01Z | Differential testing and fuzzing of HTTP servers and proxies | https://github.com/narfindustries/http-garden | 479 | 48| 
