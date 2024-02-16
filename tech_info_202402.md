@@ -26,26 +26,26 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240215T21:36:33Z | CVE-2024-21413 | Microsoft Outlook Information Disclosure Vulnerability (leak password hash) - Expect Script POC | https://github.com/duy-31/CVE-2024-21413 | | 
+| 20240216T12:51:52Z | CVE-2024-21413 | Microsoft Outlook Information Disclosure Vulnerability (leak password hash) - Expect Script POC | https://github.com/duy-31/CVE-2024-21413 | | 
+| 20240216T12:06:31Z | CVE-2024-25735 | CVE-2024-25735 - WyreStorm Apollo VX20 - Information Disclosure | https://github.com/codeb0ss/CVE-2024-25735-PoC | | 
+| 20240216T08:29:25Z | CVE-2023-25203 | CVE-2023-25203: Application Vulnerable to SSRF (Server Side Request Forgery) Attacks | https://github.com/Trackflaw/CVE-2023-25203 | | 
+| 20240216T08:22:48Z | CVE-2023-25202 | CVE-2023-25202: Insecure file upload mechanism | https://github.com/Trackflaw/CVE-2023-25202 | | 
+| 20240216T07:50:14Z | cve-2022-22555 | Null | https://github.com/colaoo123/cve-2022-22555 | | 
+| 20240216T07:29:40Z | CVE-2024-23897 | POC for CVE-2024-23897 Jenkins File-Read  | https://github.com/godylockz/CVE-2024-23897 | | 
 | 20240215T20:22:10Z | CVE-2023-36845 | Juniper - Remote Code Execution (CVE-2023-36845) PreAuth-RCE Exploits | https://github.com/imhunterand/CVE-2023-36845 | | 
 | 20240215T16:39:41Z | CVE-2023-2023 | Null | https://github.com/druxter-x/PHP-CVE-2023-2023-2640-POC-Escalation | | 
 | 20240215T14:05:50Z | CVE-2024-20666 |  PowerShell script that can help you automate updating the Windows Recovery Environment (WinRE) on deployed devices to address the security vulnerabilities in CVE-2024-20666. | https://github.com/nnotwen/Script-For-CVE-2024-20666 | | 
 | 20240215T12:37:34Z | CVE-2024-23897 | Null | https://github.com/abdomagdy0/CVE-2024-23897-htb | | 
-| 20240215T07:47:14Z | CVE-2024-25466 | Description for CVE-2024-25466 | https://github.com/FixedOctocat/CVE-2024-25466 | | 
-| 20240215T03:55:27Z | CVE-2023-47464 | CVE-2023-47464 POC | https://github.com/HadessCS/CVE-2023-47464 | | 
-| 20240215T02:28:36Z | CVE-2022-0847 | Null | https://github.com/letsr00t/CVE-2022-0847 | | 
-| 20240214T19:35:49Z | CVE-2023-36845 | CVES  | https://github.com/ak1t4/CVE-2023-36845 | | 
-| 20240214T19:20:54Z | CVE-2023-46604 | Null | https://github.com/ST3G4N05/ExploitScript-CVE-2023-46604 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240216T12:31:49Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15304 | 459| 
+| 20240216T08:33:24Z | 1 | https://github.com/Klee203/Klee2031 | 0 | 0| 
 | 20240215T21:49:03Z | Install and run KLEE on edk2 | https://github.com/shafiuzzaman-md/install-klee-edk2 | 1 | 0| 
-| 20240215T21:02:54Z | 1 | https://github.com/Klee203/Klee2031 | 0 | 0| 
 | 20240215T16:23:28Z | Null | https://github.com/HuyDeveloper/KLEE_Simple | 0 | 0| 
 | 20240215T15:51:58Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2413 | 654| 
-| 20240215T15:48:39Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15298 | 459| 
 | 20240215T13:50:13Z | 本字体基于Klee one字体及其衍生的霞鹜文楷系列字体进行改做，基于文楷TC修改的字体 | https://github.com/Steve-Yuu/YshiShuti | 17 | 0| 
 | 20240215T13:50:05Z | 基於 Klee One 改造的字型，以傳承字形風格為主。 | https://github.com/Ayaginu-Sue/Astalia | 14 | 0| 
 | 20240215T06:39:46Z | Null | https://github.com/kioni808/SeanKLee | 0 | 0| 
@@ -63,21 +63,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240216T12:46:02Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr712-0075-0019-app-DvJdq-hide-exploit | 0 | 0| 
+| 20240216T12:08:10Z | Null | https://github.com/5O4R3S/OutSystems-Exploit | 0 | 0| 
+| 20240216T12:06:31Z | CVE-2024-25735 - WyreStorm Apollo VX20 - Information Disclosure | https://github.com/codeb0ss/CVE-2024-25735-PoC | 0 | 0| 
+| 20240216T10:31:01Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5775 | 1108| 
+| 20240216T08:35:02Z | A caching layer for LLMs that exploits Elasticsearch, fully compatible with Langchain caching | https://github.com/SpazioDati/llm-elasticsearch-cache | 2 | 0| 
 | 20240216T02:52:04Z | Null | https://github.com/jamesser/exploitdb-reduced | 0 | 0| 
 | 20240216T02:37:55Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0008-app-Hj0qp-exploit-answer | 0 | 0| 
 | 20240216T02:35:48Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0083-app-4y-ha-relax-exploit | 0 | 0| 
 | 20240216T02:32:24Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr712-0075-0004-app-ZaHmu-paint-exploit | 0 | 0| 
 | 20240216T02:11:02Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0008-app-CADOz-exploit-resolve | 0 | 0| 
-| 20240216T00:48:56Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr712-0075-0039-app-Gz1CW-improve-exploit | 0 | 0| 
-| 20240216T00:46:01Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr712-0075-0004-app-ZaHmu-exploit-affect | 0 | 0| 
-| 20240216T00:33:00Z | GitOps Repository | https://github.com/redhat-appstudio-qe/build-suite-component-update-vmab-jSt8U-exploit-release | 0 | 0| 
-| 20240216T00:14:37Z | Null | https://github.com/codingcore13/Silent-JPG-Exploit-NEW-b | 1 | 0| 
-| 20240216T00:14:02Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-by | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240216T08:07:45Z | Single PHP file to detect potentially malicious threats based on token and hash with web interface | https://github.com/Cvar1984/sussyfinder | 33 | 6| 
 | 20240216T01:01:15Z | Ceci est un script Python de porte dérobée conçu pour établir une connexion de shell inversé entre une machine cible (la victime) et la machine de l%attaquant | https://github.com/Diamondijah/Backdoor | 0 | 0| 
 | 20240215T21:08:59Z | AsyncRAT stands as a Remote Access Tool (RAT) conceived for the purpose of distant supervision and command over remote computers through an encrypted connection ensuring security. | https://github.com/MastersTms/AsyncRAT-Fud-Fixed-Dll-Remote-Administration-Tool-New | 0 | 0| 
 | 20240215T21:08:36Z | BitRAT CrackedIt is meticulously constructed utilizing the C++ programming language. It stands as the most recent iteration of the premier PC RAT for the year 2023. Regarded as a prized tool | https://github.com/MastersTms/Bitrat-Hvnc-Rat-Remote-Control-Av-Bypass | 0 | 0| 
@@ -87,7 +88,6 @@
 | 20240215T14:19:08Z | 🛡️ Browse every file carefully! Our Backdoor Scanner is here to protect your website from hidden webshell threats. With a thorough scan, we%ll ensure the safety of every corner of your site. Protect your data and online reputation now! 🔍💻 #BackdoorScanner #WebSecurity #WebsiteProtection | https://github.com/yon3zu/Backdoor-Scanner | 0 | 0| 
 | 20240215T13:51:56Z | Null | https://github.com/Jaikumar96/BackDoor | 0 | 0| 
 | 20240215T09:36:53Z | Backdoor attack in NLP | https://github.com/alekseevskaia/OrderBkd | 0 | 0| 
-| 20240215T08:49:51Z | AnyDoor: Test-Time Backdoor Attacks on Multimodal Large Language Models | https://github.com/sail-sg/AnyDoor | 16 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -119,16 +119,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240216T11:41:48Z | Script de Python para hacer Fuzzing Web  | https://github.com/juliangordon88/Script_Fuzzing_Web | 0 | 0| 
+| 20240216T11:06:11Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4457 | 926| 
+| 20240216T10:24:03Z | A tool to automatically generate Foundry unit test cases from Echidna and Medusa failed properties | https://github.com/crytic/fuzz-utils | 0 | 1| 
+| 20240216T04:46:02Z | Artifacts for Cascade: CPU Fuzzing via Intricate Program Generation (USENIX Security 2024) | https://github.com/comsec-group/cascade-artifacts | 86 | 5| 
 | 20240216T02:56:54Z | Null | https://github.com/alexanderthebadatcoding/fuzzy-spork | 0 | 0| 
 | 20240216T02:37:08Z | Null | https://github.com/HenzoKadabra/fuzzy-carnival | 0 | 0| 
 | 20240216T02:26:15Z | Null | https://github.com/anarosaklinke/Fuzzy | 0 | 0| 
 | 20240216T02:06:30Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52130 | 23592| 
-| 20240216T02:05:53Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4455 | 926| 
 | 20240216T00:37:18Z | Null | https://github.com/yS6QT6seo/fuzzy-moon | 0 | 0| 
 | 20240215T22:17:01Z | Differential testing and fuzzing of HTTP servers and proxies | https://github.com/narfindustries/http-garden | 479 | 48| 
-| 20240215T20:58:37Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 113 | 14| 
-| 20240215T19:28:48Z | a practice project for development with Fulcro RAD | https://github.com/randallard/fuzzy-doodle-01 | 0 | 0| 
-| 20240215T15:58:36Z | Java Fuzzy Search Library based on the Bitap algorithm with improvements | https://github.com/Productive-Edge/pe-fuzzy-search-java | 0 | 0| 
 
 
 
