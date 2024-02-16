@@ -109,7 +109,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20240215T21:39:14Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 152 | 13| 
-| 20240213T13:43:15Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 137 | 14| 
+| 20240213T13:43:15Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 137 | 15| 
 | 20240213T13:37:37Z | Artifacts for NDSS%24 paper %Efficient and Timely Revocation of V2X Credentials% | https://github.com/EricssonResearch/v2x-self-revocation | 4 | 0| 
 | 20240212T18:22:41Z | NDSS 2024 - CamPro: Camera-based Anti-Facial Recognition | https://github.com/forget2save/CamPro | 1 | 1| 
 | 20240209T17:40:06Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 111 | 4| 
