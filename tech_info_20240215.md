@@ -78,15 +78,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240215T11:37:54Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2412 | 654| 
+| 20240215T22:02:39Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 510 | 34| 
+| 20240215T15:51:58Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2413 | 654| 
 | 20240215T03:28:27Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 376 | 84| 
-| 20240215T00:48:45Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 511 | 44| 
+| 20240215T00:48:45Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 511 | 45| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240215T06:58:24Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 152 | 13| 
+| 20240215T21:39:14Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 152 | 13| 
 
 
 # fuzz on Github 推荐

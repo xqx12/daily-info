@@ -78,6 +78,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240216T01:01:15Z | Ceci est un script Python de porte dérobée conçu pour établir une connexion de shell inversé entre une machine cible (la victime) et la machine de l%attaquant | https://github.com/Diamondijah/Backdoor | 0 | 0| 
 | 20240215T21:08:59Z | AsyncRAT stands as a Remote Access Tool (RAT) conceived for the purpose of distant supervision and command over remote computers through an encrypted connection ensuring security. | https://github.com/MastersTms/AsyncRAT-Fud-Fixed-Dll-Remote-Administration-Tool-New | 0 | 0| 
 | 20240215T21:08:36Z | BitRAT CrackedIt is meticulously constructed utilizing the C++ programming language. It stands as the most recent iteration of the premier PC RAT for the year 2023. Regarded as a prized tool | https://github.com/MastersTms/Bitrat-Hvnc-Rat-Remote-Control-Av-Bypass | 0 | 0| 
 | 20240215T21:07:37Z | VenomControl Rat is a Remote Access Tool (RAT) designed to remotely monitor and control other computers through a secure encrypted connection | https://github.com/MastersTms/VenomControl-Rat-Crack-Source | 0 | 0| 
@@ -87,16 +88,15 @@
 | 20240215T13:51:56Z | Null | https://github.com/Jaikumar96/BackDoor | 0 | 0| 
 | 20240215T09:36:53Z | Backdoor attack in NLP | https://github.com/alekseevskaia/OrderBkd | 0 | 0| 
 | 20240215T08:49:51Z | AnyDoor: Test-Time Backdoor Attacks on Multimodal Large Language Models | https://github.com/sail-sg/AnyDoor | 16 | 0| 
-| 20240215T00:58:47Z | The most advanced Android Rat 2024 | https://github.com/cryptoixer/AndroidBotnet | 2 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240215T11:37:54Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2412 | 654| 
+| 20240215T22:02:39Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 510 | 34| 
+| 20240215T15:51:58Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2413 | 654| 
 | 20240215T03:28:27Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 376 | 84| 
-| 20240215T00:48:45Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 511 | 44| 
-| 20240214T23:32:14Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 508 | 34| 
+| 20240215T00:48:45Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 511 | 45| 
 | 20240214T04:05:54Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 202 | 42| 
 | 20240214T03:12:38Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 54 | 9| 
 | 20240212T16:32:28Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 734 | 132| 
@@ -108,7 +108,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240215T06:58:24Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 152 | 13| 
+| 20240215T21:39:14Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 152 | 13| 
 | 20240213T13:43:15Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 137 | 14| 
 | 20240213T13:37:37Z | Artifacts for NDSS%24 paper %Efficient and Timely Revocation of V2X Credentials% | https://github.com/EricssonResearch/v2x-self-revocation | 4 | 0| 
 | 20240212T18:22:41Z | NDSS 2024 - CamPro: Camera-based Anti-Facial Recognition | https://github.com/forget2save/CamPro | 1 | 1| 
