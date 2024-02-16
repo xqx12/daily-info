@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240216T12:51:52Z | CVE-2024-21413 | Microsoft Outlook Information Disclosure Vulnerability (leak password hash) - Expect Script POC | https://github.com/duy-31/CVE-2024-21413 | | 
+| 20240216T13:36:13Z | CVE-2024-21413 | Microsoft Outlook Information Disclosure Vulnerability (leak password hash) - Expect Script POC | https://github.com/duy-31/CVE-2024-21413 | | 
 | 20240216T12:06:31Z | CVE-2024-25735 | CVE-2024-25735 - WyreStorm Apollo VX20 - Information Disclosure | https://github.com/codeb0ss/CVE-2024-25735-PoC | | 
 | 20240216T08:29:25Z | CVE-2023-25203 | CVE-2023-25203: Application Vulnerable to SSRF (Server Side Request Forgery) Attacks | https://github.com/Trackflaw/CVE-2023-25203 | | 
 | 20240216T08:22:48Z | CVE-2023-25202 | CVE-2023-25202: Insecure file upload mechanism | https://github.com/Trackflaw/CVE-2023-25202 | | 
@@ -119,16 +119,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240216T13:36:12Z | Fuzzy search tool made with javascript | https://github.com/pedrodimarco/fuzzy-search-tool | 0 | 0| 
 | 20240216T13:35:01Z | A tool to automatically generate Foundry unit test cases from Echidna and Medusa failed properties | https://github.com/crytic/fuzz-utils | 2 | 1| 
-| 20240216T13:25:13Z | Fuzzy search tool made with javascript | https://github.com/pedrodimarco/fuzzy-search-tool | 0 | 0| 
 | 20240216T13:21:15Z | Null | https://github.com/orion160/A-Tour-into-Fuzzing | 0 | 0| 
+| 20240216T13:09:24Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52142 | 23596| 
 | 20240216T11:41:48Z | Script de Python para hacer Fuzzing Web  | https://github.com/juliangordon88/Script_Fuzzing_Web | 0 | 0| 
 | 20240216T11:06:11Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4457 | 926| 
 | 20240216T04:46:02Z | Artifacts for Cascade: CPU Fuzzing via Intricate Program Generation (USENIX Security 2024) | https://github.com/comsec-group/cascade-artifacts | 86 | 5| 
 | 20240216T02:56:54Z | Null | https://github.com/alexanderthebadatcoding/fuzzy-spork | 0 | 0| 
 | 20240216T02:37:08Z | Null | https://github.com/HenzoKadabra/fuzzy-carnival | 0 | 0| 
 | 20240216T02:26:15Z | Null | https://github.com/anarosaklinke/Fuzzy | 0 | 0| 
-| 20240216T02:06:30Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52130 | 23592| 
 
 
 
