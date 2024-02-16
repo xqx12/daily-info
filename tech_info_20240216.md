@@ -39,7 +39,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240216T13:22:52Z | constantiam oldchunk exploit that renders old ores. useful for basehunting (meteor addon) | https://github.com/Vekzhivi/const-oldchunks-exploit | 0 | 0| 
+| 20240216T13:28:25Z | constantiam oldchunk exploit that renders old ores. useful for basehunting (meteor addon) | https://github.com/Vekzhivi/const-oldchunks-exploit | 0 | 0| 
 | 20240216T13:11:26Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5776 | 1108| 
 | 20240216T12:46:02Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr712-0075-0019-app-DvJdq-hide-exploit | 0 | 0| 
 | 20240216T12:08:10Z | Null | https://github.com/5O4R3S/OutSystems-Exploit | 0 | 0| 
