@@ -119,8 +119,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240216T01:38:38Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52129 | 23592| 
 | 20240216T00:37:18Z | Null | https://github.com/yS6QT6seo/fuzzy-moon | 0 | 0| 
-| 20240216T00:09:13Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52128 | 23592| 
 | 20240215T22:17:01Z | Differential testing and fuzzing of HTTP servers and proxies | https://github.com/narfindustries/http-garden | 479 | 48| 
 | 20240215T20:58:37Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 113 | 14| 
 | 20240215T19:28:48Z | a practice project for development with Fulcro RAD | https://github.com/randallard/fuzzy-doodle-01 | 0 | 0| 
