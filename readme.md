@@ -48,6 +48,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240215T20:47:34Z | External cheat for Rainbow Six Siege offering ESP, aimbot, and various tactical advantages. | https://github.com/Pastiopn/Klar-gg-Rainbow-Six-Siege-RS6-Esp-NoRroil-Hwid-Spoofer-Exploit | 0 | 0| 
+| 20240215T20:46:42Z | Developed for Escape From Tarkov and written in C++ and C#. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/Pastiopn/Escape-From-Tarkov-Eft-Aimbot-esp-Loots-Exploits-Max-Skills-High-Jump | 0 | 0| 
 | 20240215T13:47:05Z | This repository contains the explout that we need to escalate our previlages and get the root shell.This is a code written in c that helps us escalate our previlages. | https://github.com/muaaz232005/LD_PRELOAD-exploit | 0 | 0| 
 | 20240215T13:45:22Z | Sentinel Policy to prevent the exploit of local-exec within Terraform | https://github.com/hashicorp-terraform-cloud/null-resource-exploit-mitigation | 0 | 0| 
 | 20240215T13:40:00Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-python-personal-s5D_D-exploit-suffer | 0 | 0| 
@@ -56,8 +58,6 @@
 | 20240215T13:17:56Z | Repository that contains some exploits and PoC that i wrote..  | https://github.com/sysevil/CVES | 0 | 0| 
 | 20240215T10:36:47Z | VW Golf Mk 6 radio exploits | https://github.com/willnotwish/golf-radio | 0 | 0| 
 | 20240215T10:30:47Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr712-0075-0075-app-goEa--clean-exploit | 0 | 0| 
-| 20240215T02:04:41Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0095-app-H7Uyd-exploit-assess | 0 | 0| 
-| 20240215T01:47:16Z | GitOps Repository | https://github.com/redhat-appstudio-qe/integ-app-mjfm-dKyNu-exploit-love | 0 | 0| 
 
 
 # backdoor on Github 推荐

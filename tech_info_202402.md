@@ -71,8 +71,8 @@
 | 20240216T00:14:02Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-by | 1 | 0| 
 | 20240216T00:13:18Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-by | 1 | 0| 
 | 20240216T00:12:43Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-by | 1 | 0| 
-| 20240215T13:47:05Z | This repository contains the explout that we need to escalate our previlages and get the root shell.This is a code written in c that helps us escalate our previlages. | https://github.com/muaaz232005/LD_PRELOAD-exploit | 0 | 0| 
-| 20240215T13:45:22Z | Sentinel Policy to prevent the exploit of local-exec within Terraform | https://github.com/hashicorp-terraform-cloud/null-resource-exploit-mitigation | 0 | 0| 
+| 20240215T20:47:34Z | External cheat for Rainbow Six Siege offering ESP, aimbot, and various tactical advantages. | https://github.com/Pastiopn/Klar-gg-Rainbow-Six-Siege-RS6-Esp-NoRroil-Hwid-Spoofer-Exploit | 0 | 0| 
+| 20240215T20:46:42Z | Developed for Escape From Tarkov and written in C++ and C#. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/Pastiopn/Escape-From-Tarkov-Eft-Aimbot-esp-Loots-Exploits-Max-Skills-High-Jump | 0 | 0| 
 
 
 # backdoor on Github 推荐
