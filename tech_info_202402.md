@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240216T02:35:48Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0083-app-4y-ha-relax-exploit | 0 | 0| 
 | 20240216T02:32:24Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr712-0075-0004-app-ZaHmu-paint-exploit | 0 | 0| 
 | 20240216T02:11:02Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0008-app-CADOz-exploit-resolve | 0 | 0| 
 | 20240216T00:48:56Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr712-0075-0039-app-Gz1CW-improve-exploit | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20240216T00:14:37Z | Null | https://github.com/codingcore13/Silent-JPG-Exploit-NEW-b | 1 | 0| 
 | 20240216T00:14:02Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-by | 1 | 0| 
 | 20240216T00:13:18Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-by | 1 | 0| 
-| 20240216T00:12:43Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-by | 1 | 0| 
 
 
 # backdoor on Github 推荐
