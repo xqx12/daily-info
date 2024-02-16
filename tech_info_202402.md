@@ -119,6 +119,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240216T02:26:15Z | Null | https://github.com/anarosaklinke/Fuzzy | 0 | 0| 
 | 20240216T02:06:30Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52130 | 23592| 
 | 20240216T02:05:53Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4455 | 926| 
 | 20240216T00:37:18Z | Null | https://github.com/yS6QT6seo/fuzzy-moon | 0 | 0| 
@@ -128,7 +129,6 @@
 | 20240215T15:58:36Z | Java Fuzzy Search Library based on the Bitap algorithm with improvements | https://github.com/Productive-Edge/pe-fuzzy-search-java | 0 | 0| 
 | 20240215T13:35:33Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9440 | 2125| 
 | 20240215T13:35:25Z | Null | https://github.com/urzala/fuzzy-stream | 0 | 0| 
-| 20240215T11:08:08Z | Null | https://github.com/ntua-el19119/NeuroFuzzy_Diffuser | 0 | 0| 
 
 
 
