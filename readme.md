@@ -16,8 +16,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240216T13:40:34Z | CVE-2024-25735 | CVE-2024-25735 - WyreStorm Apollo VX20 - Information Disclosure | https://github.com/codeb0ss/CVE-2024-25735-PoC | | 
 | 20240216T13:36:13Z | CVE-2024-21413 | Microsoft Outlook Information Disclosure Vulnerability (leak password hash) - Expect Script POC | https://github.com/duy-31/CVE-2024-21413 | | 
-| 20240216T12:06:31Z | CVE-2024-25735 | CVE-2024-25735 - WyreStorm Apollo VX20 - Information Disclosure | https://github.com/codeb0ss/CVE-2024-25735-PoC | | 
 | 20240216T08:29:25Z | CVE-2023-25203 | CVE-2023-25203: Application Vulnerable to SSRF (Server Side Request Forgery) Attacks | https://github.com/Trackflaw/CVE-2023-25203 | | 
 | 20240216T08:22:48Z | CVE-2023-25202 | CVE-2023-25202: Insecure file upload mechanism | https://github.com/Trackflaw/CVE-2023-25202 | | 
 | 20240216T07:50:14Z | cve-2022-22555 | Null | https://github.com/colaoo123/cve-2022-22555 | | 
