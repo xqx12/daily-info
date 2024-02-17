@@ -80,7 +80,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20240216T23:57:04Z | This repo adapts μAFL for the STM32F407VE Cortex M4 uC - contains firmware projects, vulnerable code samples and fuzzing workflow docs. Experiments leverage ETM tracing and breakpoints to uncover vulnerabilities in STM32F407VE firmware with μAFL. Demonstrates μAFL%s potential to secure embedded systems and enable research into specialized fuzzing. | https://github.com/sbhakim/uAFL-STM32F407VE-Applications | 0 | 0| 
-| 20240216T22:46:53Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52156 | 23597| 
+| 20240216T22:46:53Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52156 | 23598| 
 | 20240216T22:09:50Z | Python implementation of fuzzy search for myth2kodi style TV episode identification | https://github.com/szczys/myth2kodi-fuzzy-python | 1 | 0| 
 | 20240216T17:28:39Z | Null | https://github.com/google/fuzztest | 553 | 48| 
 | 20240216T13:36:12Z | Fuzzy search tool made with javascript | https://github.com/pedrodimarco/fuzzy-search-tool | 0 | 0| 
