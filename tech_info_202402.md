@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240217T01:20:28Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr712-0075-0023-app-_xR-v-decide-exploit | 0 | 0| 
 | 20240217T00:21:00Z | GitOps Repository | https://github.com/redhat-appstudio-qe/build-suite-component-update-xbwl-rc52e-attack-exploit | 0 | 0| 
 | 20240216T17:11:24Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 186 | 15| 
 | 20240216T17:00:58Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5778 | 1108| 
@@ -72,7 +73,6 @@
 | 20240216T13:50:19Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/M54S/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 | 20240216T13:50:18Z | Ephemeral discourse is embodied by the likes of Messenger Sessions, the digital portraits of Accounts, and the enigmatic Token | https://github.com/M54S/Discord-Image-Logger-Slient-Exploit-Builder-Grabber-Stealer | 0 | 0| 
 | 20240216T13:50:18Z | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/M54S/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
-| 20240216T13:46:38Z | A caching layer for LLMs that exploits Elasticsearch, fully compatible with LangChain caching. | https://github.com/SpazioDati/llm-elasticsearch-cache | 2 | 0| 
 
 
 # backdoor on Github 推荐
