@@ -119,6 +119,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240217T01:54:54Z | Null | https://github.com/mai033/fuzzy-eureka | 0 | 0| 
 | 20240217T01:12:20Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST, GraphQL and RPC (e.g., gRPC and Thrift). | https://github.com/EMResearch/EvoMaster | 405 | 75| 
 | 20240217T00:56:09Z | Django5_Web_fuzzy-carnival | https://github.com/BMVG-dev/fuzzy-carnival | 0 | 0| 
 | 20240216T23:57:04Z | This repo adapts μAFL for the STM32F407VE Cortex M4 uC - contains firmware projects, vulnerable code samples and fuzzing workflow docs. Experiments leverage ETM tracing and breakpoints to uncover vulnerabilities in STM32F407VE firmware with μAFL. Demonstrates μAFL%s potential to secure embedded systems and enable research into specialized fuzzing. | https://github.com/sbhakim/uAFL-STM32F407VE-Applications | 0 | 0| 
@@ -128,7 +129,6 @@
 | 20240216T13:36:12Z | Fuzzy search tool made with javascript | https://github.com/pedrodimarco/fuzzy-search-tool | 0 | 0| 
 | 20240216T13:35:01Z | A tool to automatically generate Foundry unit test cases from Echidna and Medusa failed properties | https://github.com/crytic/fuzz-utils | 2 | 1| 
 | 20240216T13:21:15Z | Null | https://github.com/orion160/A-Tour-into-Fuzzing | 0 | 0| 
-| 20240216T11:41:48Z | Script de Python para hacer Fuzzing Web  | https://github.com/juliangordon88/Script_Fuzzing_Web | 0 | 0| 
 
 
 
