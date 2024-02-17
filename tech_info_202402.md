@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240217T13:23:41Z | SploitScan is a sophisticated cybersecurity utility designed to provide detailed information on vulnerabilities and associated proof-of-concept (PoC) exploits. | https://github.com/xaitax/SploitScan | 280 | 46| 
 | 20240217T13:09:51Z | Null | https://github.com/sec-fortress/Exploits | 0 | 0| 
 | 20240217T12:53:16Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5781 | 1109| 
 | 20240217T12:10:12Z | A tool written in Go that scans files & directories for the Follina exploit (CVE-2022-30190) | https://github.com/shri142/ZipScan | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20240217T01:20:28Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr712-0075-0023-app-_xR-v-decide-exploit | 0 | 0| 
 | 20240217T00:21:00Z | GitOps Repository | https://github.com/redhat-appstudio-qe/build-suite-component-update-xbwl-rc52e-attack-exploit | 0 | 0| 
 | 20240216T22:57:47Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5851 | 735| 
-| 20240216T21:08:15Z | Null | https://github.com/AzuXC/AzuExploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
