@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240217T02:03:47Z | CVE-2024-21413 | Microsoft-Outlook-Remote-Code-Execution-Vulnerability | https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability | | 
+| 20240217T02:33:21Z | CVE-2024-21413 | Microsoft-Outlook-Remote-Code-Execution-Vulnerability | https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability | | 
 | 20240217T01:13:30Z | CVE-2024-21413 | Microsoft Outlook Information Disclosure Vulnerability (leak password hash) - Expect Script POC | https://github.com/duy-31/CVE-2024-21413 | | 
 | 20240216T23:54:33Z | CVE-2021-44228 | Log4Shell CVE Analysis | https://github.com/ItsCbass/CVE-2021-44228 | | 
 | 20240216T23:23:25Z | CVE-2024-23897 | Jenkins Arbitrary File Leak Vulnerability [CVE-2024-23897] | https://github.com/ifconfig-me/CVE-2024-23897 | | 
