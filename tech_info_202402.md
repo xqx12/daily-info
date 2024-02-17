@@ -41,7 +41,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240217T02:17:01Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15307 | 459| 
+| 20240217T02:53:37Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15308 | 459| 
 | 20240216T08:33:24Z | 1 | https://github.com/Klee203/Klee2031 | 0 | 0| 
 | 20240215T21:49:03Z | Install and run KLEE on edk2 | https://github.com/shafiuzzaman-md/install-klee-edk2 | 1 | 0| 
 | 20240215T16:23:28Z | Null | https://github.com/HuyDeveloper/KLEE_Simple | 0 | 0| 
@@ -119,6 +119,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240217T02:53:38Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 563 | 55| 
 | 20240217T02:42:36Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52157 | 23598| 
 | 20240217T01:54:54Z | Null | https://github.com/mai033/fuzzy-eureka | 0 | 0| 
 | 20240217T01:12:20Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST, GraphQL and RPC (e.g., gRPC and Thrift). | https://github.com/EMResearch/EvoMaster | 405 | 75| 
@@ -128,7 +129,6 @@
 | 20240216T17:28:39Z | Null | https://github.com/google/fuzztest | 553 | 48| 
 | 20240216T13:36:12Z | Fuzzy search tool made with javascript | https://github.com/pedrodimarco/fuzzy-search-tool | 0 | 0| 
 | 20240216T13:35:01Z | A tool to automatically generate Foundry unit test cases from Echidna and Medusa failed properties | https://github.com/crytic/fuzz-utils | 2 | 1| 
-| 20240216T13:21:15Z | Null | https://github.com/orion160/A-Tour-into-Fuzzing | 0 | 0| 
 
 
 
