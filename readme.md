@@ -77,11 +77,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240217T13:47:14Z | A fast, accurate and multilingual fuzzy search library for the frontend. | https://github.com/m31coding/fuzzy-search | 430 | 6| 
 | 20240217T13:11:21Z | Null | https://github.com/yhjuy/fuzzy-carnival | 0 | 0| 
 | 20240217T13:10:30Z | Null | https://github.com/Epicgamerxispro/Fuzzy-enigma | 0 | 0| 
 | 20240217T13:02:08Z | Null | https://github.com/xolodkoffserj/fuzzy-moon | 0 | 0| 
 | 20240217T12:06:55Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9447 | 2127| 
-| 20240217T11:00:46Z | A fast, accurate and multilingual fuzzy search library for the frontend. | https://github.com/m31coding/fuzzy-search | 429 | 6| 
 | 20240217T10:34:15Z | Null | https://github.com/uliyan96/fuzzy-sweater | 0 | 0| 
 | 20240217T10:19:04Z | It is a website named SSR which uses the fuzzy based model to to do extractive text summarization. | https://github.com/amoldeepSANDHU/Fuzzy-based_Text-Summarization | 0 | 0| 
 | 20240217T09:43:14Z | minimalist selector in shell, inspired by fzf | https://github.com/yazgoo/fuzzysh | 4 | 1| 
