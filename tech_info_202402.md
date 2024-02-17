@@ -78,6 +78,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240217T02:43:56Z | Null | https://github.com/lancopku/agent-backdoor-attacks | 0 | 0| 
 | 20240216T16:12:12Z | Single PHP file to detect potentially malicious threats based on token and hash with web interface | https://github.com/Cvar1984/sussyfinder | 34 | 6| 
 | 20240216T13:50:21Z | The S-500 G2 Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/M54S/S500-RAT-HVNC-HAPP-HIdden-BROWSER-HRDP-REVERSE-PROXY-CRYPTO-MONITOR | 0 | 0| 
 | 20240216T13:50:17Z | Hidden VNC constitutes an ingenious stratagem harnessed by the most adept connoisseurs of technology. This method, by far, presents an exhilarating modality to govern the operation | https://github.com/M54S/Pandora-HVNC-2FABypass-WebGL-Hidden-Desktop-Outlook-Foxmail-Stealer-Hidden-Browser | 0 | 0| 
@@ -87,7 +88,6 @@
 | 20240215T21:08:59Z | AsyncRAT stands as a Remote Access Tool (RAT) conceived for the purpose of distant supervision and command over remote computers through an encrypted connection ensuring security. | https://github.com/MastersTms/AsyncRAT-Fud-Fixed-Dll-Remote-Administration-Tool-New | 0 | 0| 
 | 20240215T21:08:36Z | BitRAT CrackedIt is meticulously constructed utilizing the C++ programming language. It stands as the most recent iteration of the premier PC RAT for the year 2023. Regarded as a prized tool | https://github.com/MastersTms/Bitrat-Hvnc-Rat-Remote-Control-Av-Bypass | 0 | 0| 
 | 20240215T21:07:37Z | VenomControl Rat is a Remote Access Tool (RAT) designed to remotely monitor and control other computers through a secure encrypted connection | https://github.com/MastersTms/VenomControl-Rat-Crack-Source | 0 | 0| 
-| 20240215T21:07:32Z | Computing) capabilities. It boasts compatibility with a spectrum of 20 concealed browsers. Pegasus HVNC facet facilitates the orchestration of a concealed desktop environment | https://github.com/MastersTms/Pegasus-Pantheon-HVNC-V2-VNC-Hidden-Browser-Remote-Administration-Rat | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -119,11 +119,11 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240217T02:42:36Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52157 | 23598| 
 | 20240217T01:54:54Z | Null | https://github.com/mai033/fuzzy-eureka | 0 | 0| 
 | 20240217T01:12:20Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST, GraphQL and RPC (e.g., gRPC and Thrift). | https://github.com/EMResearch/EvoMaster | 405 | 75| 
 | 20240217T00:56:09Z | Django5_Web_fuzzy-carnival | https://github.com/BMVG-dev/fuzzy-carnival | 0 | 0| 
 | 20240216T23:57:04Z | This repo adapts μAFL for the STM32F407VE Cortex M4 uC - contains firmware projects, vulnerable code samples and fuzzing workflow docs. Experiments leverage ETM tracing and breakpoints to uncover vulnerabilities in STM32F407VE firmware with μAFL. Demonstrates μAFL%s potential to secure embedded systems and enable research into specialized fuzzing. | https://github.com/sbhakim/uAFL-STM32F407VE-Applications | 0 | 0| 
-| 20240216T22:46:53Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52156 | 23598| 
 | 20240216T22:09:50Z | Python implementation of fuzzy search for myth2kodi style TV episode identification | https://github.com/szczys/myth2kodi-fuzzy-python | 1 | 0| 
 | 20240216T17:28:39Z | Null | https://github.com/google/fuzztest | 553 | 48| 
 | 20240216T13:36:12Z | Fuzzy search tool made with javascript | https://github.com/pedrodimarco/fuzzy-search-tool | 0 | 0| 
