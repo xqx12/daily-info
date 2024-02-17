@@ -66,13 +66,13 @@
 | 20240217T01:22:30Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr712-0075-0008-app-X9WnO-concentrate-exploit | 0 | 0| 
 | 20240217T01:20:28Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr712-0075-0023-app-_xR-v-decide-exploit | 0 | 0| 
 | 20240217T00:21:00Z | GitOps Repository | https://github.com/redhat-appstudio-qe/build-suite-component-update-xbwl-rc52e-attack-exploit | 0 | 0| 
+| 20240216T22:57:47Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5851 | 735| 
 | 20240216T17:11:24Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 186 | 15| 
 | 20240216T17:00:58Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5778 | 1108| 
 | 20240216T16:12:36Z | This is a small project to exploit Facebook page source to list your best relations on Facebook. | https://github.com/VuxNx/who-view-your-Facebook- | 10 | 3| 
 | 20240216T13:50:21Z | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/M54S/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 | 20240216T13:50:20Z | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/M54S/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 | 20240216T13:50:19Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/M54S/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
-| 20240216T13:50:18Z | Ephemeral discourse is embodied by the likes of Messenger Sessions, the digital portraits of Accounts, and the enigmatic Token | https://github.com/M54S/Discord-Image-Logger-Slient-Exploit-Builder-Grabber-Stealer | 0 | 0| 
 
 
 # backdoor on Github 推荐

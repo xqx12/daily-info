@@ -42,6 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240216T22:57:47Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5851 | 735| 
 | 20240216T17:11:24Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 186 | 15| 
 | 20240216T17:00:58Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5778 | 1108| 
 | 20240216T16:12:36Z | This is a small project to exploit Facebook page source to list your best relations on Facebook. | https://github.com/VuxNx/who-view-your-Facebook- | 10 | 3| 
@@ -51,7 +52,6 @@
 | 20240216T13:50:18Z | Ephemeral discourse is embodied by the likes of Messenger Sessions, the digital portraits of Accounts, and the enigmatic Token | https://github.com/M54S/Discord-Image-Logger-Slient-Exploit-Builder-Grabber-Stealer | 0 | 0| 
 | 20240216T13:50:18Z | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/M54S/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 | 20240216T13:46:38Z | A caching layer for LLMs that exploits Elasticsearch, fully compatible with LangChain caching. | https://github.com/SpazioDati/llm-elasticsearch-cache | 2 | 0| 
-| 20240216T13:40:34Z | CVE-2024-25735 - WyreStorm Apollo VX20 - Information Disclosure | https://github.com/codeb0ss/CVE-2024-25735-PoC | 1 | 1| 
 
 
 # backdoor on Github 推荐
