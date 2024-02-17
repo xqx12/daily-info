@@ -18,7 +18,6 @@
 | --- | --- | --- | --- | ---| 
 | 20240216T23:54:33Z | CVE-2021-44228 | Log4Shell CVE Analysis | https://github.com/ItsCbass/CVE-2021-44228 | | 
 | 20240216T23:23:25Z | CVE-2024-23897 | Jenkins Arbitrary File Leak Vulnerability [CVE-2024-23897] | https://github.com/ifconfig-me/CVE-2024-23897 | | 
-| 20240216T22:32:50Z | CVE-2024-21413 | Microsoft Outlook Information Disclosure Vulnerability (leak password hash) - Expect Script POC | https://github.com/duy-31/CVE-2024-21413 | | 
 | 20240216T22:31:30Z | CVE-2024-21413 | Microsoft Outlook Information Disclosure Vulnerability (leak password hash) - CVE-2024-21413 POC | https://github.com/r00tb1t/CVE-2024-21413-POC | | 
 | 20240216T19:37:57Z | CVE-2023-48777 | Null | https://github.com/AkuCyberSec/Elementor-3.18.0-Upload-Path-Traversal-RCE-CVE-2023-48777 | | 
 | 20240216T18:20:13Z | CVE-2023-38408 | Null | https://github.com/wxrdnx/CVE-2023-38408 | | 
@@ -26,6 +25,7 @@
 | 20240216T13:50:20Z | Cve-2023- | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/M54S/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 | 20240216T13:50:19Z | Cve-2023- | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/M54S/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 | 20240216T13:50:18Z | Cve-2023- | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/M54S/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
+| 20240216T13:40:34Z | CVE-2024-25735 | CVE-2024-25735 - WyreStorm Apollo VX20 - Information Disclosure | https://github.com/codeb0ss/CVE-2024-25735-PoC | | 
 
 
 # klee on Github 推荐
