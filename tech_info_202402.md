@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240217T02:31:47Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr712-0075-0067-app-bFhMq-increase-exploit | 0 | 0| 
 | 20240217T02:15:55Z | External cheat for Rainbow Six Siege offering ESP, aimbot, and various tactical advantages. | https://github.com/Pastiopn/Klar-gg-Rainbow-Six-Siege-RS6-Esp-NoRroil-Hwid-Spoofer-Exploit | 0 | 0| 
 | 20240217T01:22:30Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr712-0075-0008-app-X9WnO-concentrate-exploit | 0 | 0| 
 | 20240217T01:20:28Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr712-0075-0023-app-_xR-v-decide-exploit | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20240216T17:00:58Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5778 | 1108| 
 | 20240216T16:12:36Z | This is a small project to exploit Facebook page source to list your best relations on Facebook. | https://github.com/VuxNx/who-view-your-Facebook- | 10 | 3| 
 | 20240216T13:50:21Z | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/M54S/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
-| 20240216T13:50:20Z | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/M54S/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 
 
 # backdoor on Github 推荐
