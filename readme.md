@@ -16,7 +16,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240217T12:25:25Z | CVE-2024-21413 | Microsoft Outlook Information Disclosure Vulnerability (leak password hash) - Expect Script POC | https://github.com/duy-31/CVE-2024-21413 | | 
+| 20240217T13:39:49Z | CVE-2024-21413 | Microsoft Outlook Information Disclosure Vulnerability (leak password hash) - Expect Script POC | https://github.com/duy-31/CVE-2024-21413 | | 
 | 20240217T12:21:18Z | CVE-2024-1269 | (XSS) | https://github.com/sajaljat/CVE-2024-1269 | | 
 | 20240217T12:16:29Z | CVE-2024-25809 | (XSS) | https://github.com/sajaljat/CVE-2024-25809 | | 
 | 20240217T12:14:56Z | CVE-2024-25281 | (XSS) | https://github.com/sajaljat/CVE-2024-25281 | | 
