@@ -26,22 +26,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240217T02:33:21Z | CVE-2024-21413 | Microsoft-Outlook-Remote-Code-Execution-Vulnerability | https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability | | 
-| 20240217T01:13:30Z | CVE-2024-21413 | Microsoft Outlook Information Disclosure Vulnerability (leak password hash) - Expect Script POC | https://github.com/duy-31/CVE-2024-21413 | | 
-| 20240216T23:54:33Z | CVE-2021-44228 | Log4Shell CVE Analysis | https://github.com/ItsCbass/CVE-2021-44228 | | 
-| 20240216T23:23:25Z | CVE-2024-23897 | Jenkins Arbitrary File Leak Vulnerability [CVE-2024-23897] | https://github.com/ifconfig-me/CVE-2024-23897 | | 
-| 20240216T22:31:30Z | CVE-2024-21413 | Microsoft Outlook Information Disclosure Vulnerability (leak password hash) - CVE-2024-21413 POC | https://github.com/r00tb1t/CVE-2024-21413-POC | | 
-| 20240216T19:37:57Z | CVE-2023-48777 | Null | https://github.com/AkuCyberSec/Elementor-3.18.0-Upload-Path-Traversal-RCE-CVE-2023-48777 | | 
-| 20240216T18:20:13Z | CVE-2023-38408 | Null | https://github.com/wxrdnx/CVE-2023-38408 | | 
-| 20240216T13:50:21Z | Cve-2023- | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/M54S/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
-| 20240216T13:50:20Z | Cve-2023- | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/M54S/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
-| 20240216T13:50:19Z | Cve-2023- | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/M54S/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
+| 20240217T12:25:25Z | CVE-2024-21413 | Microsoft Outlook Information Disclosure Vulnerability (leak password hash) - Expect Script POC | https://github.com/duy-31/CVE-2024-21413 | | 
+| 20240217T12:21:18Z | CVE-2024-1269 | (XSS) | https://github.com/sajaljat/CVE-2024-1269 | | 
+| 20240217T12:16:29Z | CVE-2024-25809 | (XSS) | https://github.com/sajaljat/CVE-2024-25809 | | 
+| 20240217T12:14:56Z | CVE-2024-25281 | (XSS) | https://github.com/sajaljat/CVE-2024-25281 | | 
+| 20240217T12:13:43Z | CVE-2024-25280 | Broken Access control | https://github.com/sajaljat/CVE-2024-25280 | | 
+| 20240217T12:10:13Z | CVE-2024-25279 | (XSS) | https://github.com/sajaljat/CVE-2024-25279 | | 
+| 20240217T11:59:51Z | CVE-2024-25278 | Null | https://github.com/sajaljat/CVE-2024-25278 | | 
+| 20240217T11:44:00Z | CVE-2021-46361 | CVE-2021-46361: FreeMarker Restriction Bypass in Magnolia CMS | https://github.com/mbadanoiu/CVE-2021-46361 | | 
+| 20240217T11:27:45Z | CVE-2024-21413 | Microsoft Outlook Information Disclosure Vulnerability (leak password hash) | https://github.com/labesterOct/CVE-2024-21413 | | 
+| 20240217T08:16:33Z | CVE-2023-36845 | A PHP External Variable Modification vulnerability in J-Web of Juniper Networks Junos OS on EX Series and SRX Series allows an unauthenticated, network-based attacker to remotely execute code.  | https://github.com/ifconfig-me/CVE-2023-36845 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240217T02:53:37Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15308 | 459| 
+| 20240217T09:59:49Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15308 | 459| 
 | 20240216T08:33:24Z | 1 | https://github.com/Klee203/Klee2031 | 0 | 0| 
 | 20240215T21:49:03Z | Install and run KLEE on edk2 | https://github.com/shafiuzzaman-md/install-klee-edk2 | 1 | 0| 
 | 20240215T16:23:28Z | Null | https://github.com/HuyDeveloper/KLEE_Simple | 0 | 0| 
@@ -63,31 +63,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240217T12:53:16Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5781 | 1109| 
+| 20240217T12:10:12Z | A tool written in Go that scans files & directories for the Follina exploit (CVE-2022-30190) | https://github.com/shri142/ZipScan | 0 | 0| 
 | 20240217T02:31:47Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr712-0075-0067-app-bFhMq-increase-exploit | 0 | 0| 
 | 20240217T02:15:55Z | External cheat for Rainbow Six Siege offering ESP, aimbot, and various tactical advantages. | https://github.com/Pastiopn/Klar-gg-Rainbow-Six-Siege-RS6-Esp-NoRroil-Hwid-Spoofer-Exploit | 0 | 0| 
 | 20240217T01:22:30Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr712-0075-0008-app-X9WnO-concentrate-exploit | 0 | 0| 
 | 20240217T01:20:28Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr712-0075-0023-app-_xR-v-decide-exploit | 0 | 0| 
 | 20240217T00:21:00Z | GitOps Repository | https://github.com/redhat-appstudio-qe/build-suite-component-update-xbwl-rc52e-attack-exploit | 0 | 0| 
 | 20240216T22:57:47Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5851 | 735| 
+| 20240216T21:08:15Z | Null | https://github.com/AzuXC/AzuExploit | 0 | 0| 
 | 20240216T17:11:24Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 186 | 15| 
-| 20240216T17:00:58Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5778 | 1108| 
-| 20240216T16:12:36Z | This is a small project to exploit Facebook page source to list your best relations on Facebook. | https://github.com/VuxNx/who-view-your-Facebook- | 10 | 3| 
-| 20240216T13:50:21Z | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/M54S/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240217T12:52:12Z | backdoor | https://github.com/deusnotam/system | 0 | 0| 
+| 20240217T12:30:19Z | what is a shell scanner? So a shell scanner is a shell that looks for the existence of a backdoor shell (php) on a website. | https://github.com/OnlyAstaaa/ShellScanner | 0 | 0| 
+| 20240217T10:41:47Z | АПИ для работы с бекдором | https://github.com/knyazevi81/backdoor-api | 0 | 0| 
+| 20240217T07:02:52Z | My take on a backdoor written entirely in python | https://github.com/maxbarkouras/Python-FUD | 0 | 0| 
 | 20240217T02:43:56Z | Null | https://github.com/lancopku/agent-backdoor-attacks | 0 | 0| 
 | 20240216T16:12:12Z | Single PHP file to detect potentially malicious threats based on token and hash with web interface | https://github.com/Cvar1984/sussyfinder | 34 | 6| 
 | 20240216T13:50:21Z | The S-500 G2 Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/M54S/S500-RAT-HVNC-HAPP-HIdden-BROWSER-HRDP-REVERSE-PROXY-CRYPTO-MONITOR | 0 | 0| 
 | 20240216T13:50:17Z | Hidden VNC constitutes an ingenious stratagem harnessed by the most adept connoisseurs of technology. This method, by far, presents an exhilarating modality to govern the operation | https://github.com/M54S/Pandora-HVNC-2FABypass-WebGL-Hidden-Desktop-Outlook-Foxmail-Stealer-Hidden-Browser | 0 | 0| 
 | 20240216T13:50:16Z | Remote Administration Either you are a private user wanting to control your PC from afar, or a big company which wants to administrate hundreds of machines from a single computer, | https://github.com/M54S/ICARUS-NET2-NET4-BAT-VBS-VBA-HVNC-BINDER-PHP-FTPLOGS-RECOVERY-KEYLOG-WEBGL-ROOKIT | 0 | 0| 
 | 20240216T13:50:15Z | The X-Worm Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/M54S/XWorm-V5.2-Edition-HVNC-RAT-DDOS-PASSWORDS-RANSOMWARE-CLIPPER-KEYLOGGER-UAC-BYPASS | 0 | 0| 
-| 20240216T01:01:15Z | Ceci est un script Python de porte dérobée conçu pour établir une connexion de shell inversé entre une machine cible (la victime) et la machine de l%attaquant | https://github.com/Diamondijah/Backdoor | 0 | 0| 
-| 20240215T21:08:59Z | AsyncRAT stands as a Remote Access Tool (RAT) conceived for the purpose of distant supervision and command over remote computers through an encrypted connection ensuring security. | https://github.com/MastersTms/AsyncRAT-Fud-Fixed-Dll-Remote-Administration-Tool-New | 0 | 0| 
-| 20240215T21:08:36Z | BitRAT CrackedIt is meticulously constructed utilizing the C++ programming language. It stands as the most recent iteration of the premier PC RAT for the year 2023. Regarded as a prized tool | https://github.com/MastersTms/Bitrat-Hvnc-Rat-Remote-Control-Av-Bypass | 0 | 0| 
-| 20240215T21:07:37Z | VenomControl Rat is a Remote Access Tool (RAT) designed to remotely monitor and control other computers through a secure encrypted connection | https://github.com/MastersTms/VenomControl-Rat-Crack-Source | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -119,16 +119,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240217T12:06:55Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9447 | 2127| 
+| 20240217T10:34:15Z | Null | https://github.com/uliyan96/fuzzy-sweater | 0 | 0| 
+| 20240217T10:19:04Z | It is a website named SSR which uses the fuzzy based model to to do extractive text summarization. | https://github.com/amoldeepSANDHU/Fuzzy-based_Text-Summarization | 0 | 0| 
+| 20240217T09:43:14Z | minimalist selector in shell, inspired by fzf | https://github.com/yazgoo/fuzzysh | 4 | 1| 
 | 20240217T02:53:38Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 563 | 55| 
 | 20240217T02:42:36Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52157 | 23598| 
 | 20240217T01:54:54Z | Null | https://github.com/mai033/fuzzy-eureka | 0 | 0| 
 | 20240217T01:12:20Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST, GraphQL and RPC (e.g., gRPC and Thrift). | https://github.com/EMResearch/EvoMaster | 405 | 75| 
 | 20240217T00:56:09Z | Django5_Web_fuzzy-carnival | https://github.com/BMVG-dev/fuzzy-carnival | 0 | 0| 
 | 20240216T23:57:04Z | This repo adapts μAFL for the STM32F407VE Cortex M4 uC - contains firmware projects, vulnerable code samples and fuzzing workflow docs. Experiments leverage ETM tracing and breakpoints to uncover vulnerabilities in STM32F407VE firmware with μAFL. Demonstrates μAFL%s potential to secure embedded systems and enable research into specialized fuzzing. | https://github.com/sbhakim/uAFL-STM32F407VE-Applications | 0 | 0| 
-| 20240216T22:09:50Z | Python implementation of fuzzy search for myth2kodi style TV episode identification | https://github.com/szczys/myth2kodi-fuzzy-python | 1 | 0| 
-| 20240216T17:28:39Z | Null | https://github.com/google/fuzztest | 553 | 48| 
-| 20240216T13:36:12Z | Fuzzy search tool made with javascript | https://github.com/pedrodimarco/fuzzy-search-tool | 0 | 0| 
-| 20240216T13:35:01Z | A tool to automatically generate Foundry unit test cases from Echidna and Medusa failed properties | https://github.com/crytic/fuzz-utils | 2 | 1| 
 
 
 
