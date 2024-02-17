@@ -42,6 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240217T13:09:51Z | Null | https://github.com/sec-fortress/Exploits | 0 | 0| 
 | 20240217T12:53:16Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5781 | 1109| 
 | 20240217T12:10:12Z | A tool written in Go that scans files & directories for the Follina exploit (CVE-2022-30190) | https://github.com/shri142/ZipScan | 0 | 0| 
 | 20240217T02:31:47Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr712-0075-0067-app-bFhMq-increase-exploit | 0 | 0| 
@@ -75,6 +76,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240217T13:10:30Z | Null | https://github.com/Epicgamerxispro/Fuzzy-enigma | 0 | 0| 
 | 20240217T13:02:08Z | Null | https://github.com/xolodkoffserj/fuzzy-moon | 0 | 0| 
 | 20240217T12:06:55Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9447 | 2127| 
 | 20240217T11:00:46Z | A fast, accurate and multilingual fuzzy search library for the frontend. | https://github.com/m31coding/fuzzy-search | 429 | 6| 
@@ -84,7 +86,6 @@
 | 20240217T02:53:38Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 563 | 55| 
 | 20240217T02:42:36Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52157 | 23598| 
 | 20240217T01:54:54Z | Null | https://github.com/mai033/fuzzy-eureka | 0 | 0| 
-| 20240217T01:12:20Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST, GraphQL and RPC (e.g., gRPC and Thrift). | https://github.com/EMResearch/EvoMaster | 405 | 75| 
 
 
 
