@@ -74,7 +74,6 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240216T22:30:59Z | (NDSS 2024) Optimizing Decompiler Output with LLM | https://github.com/PeiweiHu/DeGPT | 8 | 0| 
 
 
 # fuzz on Github 推荐
