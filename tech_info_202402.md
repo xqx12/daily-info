@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240218T12:58:24Z | CVE-2022-24785 | Proof of concept code for CVE-2022-24785 | https://github.com/isira-adithya/CVE-2022-24785-POC | | 
+| 20240218T13:23:14Z | CVE-2022-24785 | Proof of concept code for CVE-2022-24785 | https://github.com/isira-adithya/CVE-2022-24785-POC | | 
 | 20240218T10:07:49Z | CVE-2023-42115 | PoC for Exim CVE-2023-42115  | https://github.com/cammclain/CVE-2023-42115 | | 
 | 20240218T07:10:42Z | cve-2024-25423 | Cinema 4D out-of-bounds write vulnerability when parsing c4d files | https://github.com/DriverUnload/cve-2024-25423 | | 
 | 20240218T00:53:22Z | CVE-2024-21413 | Microsoft Outlook Information Disclosure Vulnerability (leak password hash) - Expect Script POC | https://github.com/duy-31/CVE-2024-21413 | | 
@@ -41,10 +41,10 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240218T13:23:15Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 450 | 9| 
 | 20240218T12:52:39Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15316 | 459| 
 | 20240218T09:42:14Z | Null | https://github.com/kleemproductions/kleemproductions.github.io | 0 | 0| 
 | 20240218T07:20:58Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2414 | 654| 
-| 20240218T02:27:32Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 449 | 9| 
 | 20240216T08:33:24Z | 1 | https://github.com/Klee203/Klee2031 | 0 | 0| 
 | 20240215T21:49:03Z | Install and run KLEE on edk2 | https://github.com/shafiuzzaman-md/install-klee-edk2 | 1 | 0| 
 | 20240215T16:23:28Z | Null | https://github.com/HuyDeveloper/KLEE_Simple | 0 | 0| 
