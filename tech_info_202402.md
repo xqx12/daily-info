@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240218T02:01:14Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0038-app-ihp6O-catch-exploit | 0 | 0| 
 | 20240218T01:57:19Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-0-9-1-0075-0009-app-Oydd_-exploit-bet | 0 | 0| 
 | 20240218T01:27:29Z | Null | https://github.com/codingcore13/Silent-JPG-Exploit-NEW-gt | 1 | 0| 
 | 20240218T01:26:53Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-gt | 1 | 0| 
@@ -72,7 +73,6 @@
 | 20240217T18:33:59Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5782 | 1109| 
 | 20240217T17:23:24Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 96 | 14| 
 | 20240217T17:22:38Z | Explore simulated server scenarios in the GuardianMaua_WebHackingLab repository, designed for practical exercises in Web Hacking training. Enhance skills in penetration testing and vulnerability exploitation. A valuable resource for cybersecurity learning. | https://github.com/JoaoVitorBranco/GuardianMaua_WebHackingLab | 0 | 0| 
-| 20240217T13:57:01Z | Zero Exploitation Unified System for Entity Security: Cyber Resilience Controls Framework for Finance  | https://github.com/rogue0xbyte/zeus | 0 | 0| 
 
 
 # backdoor on Github 推荐
