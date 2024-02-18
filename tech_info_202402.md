@@ -41,8 +41,8 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240218T01:55:32Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 450 | 9| 
 | 20240217T18:51:08Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15309 | 459| 
-| 20240217T13:51:53Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 449 | 9| 
 | 20240216T08:33:24Z | 1 | https://github.com/Klee203/Klee2031 | 0 | 0| 
 | 20240215T21:49:03Z | Install and run KLEE on edk2 | https://github.com/shafiuzzaman-md/install-klee-edk2 | 1 | 0| 
 | 20240215T16:23:28Z | Null | https://github.com/HuyDeveloper/KLEE_Simple | 0 | 0| 
@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240218T01:57:19Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-0-9-1-0075-0009-app-Oydd_-exploit-bet | 0 | 0| 
 | 20240218T01:27:29Z | Null | https://github.com/codingcore13/Silent-JPG-Exploit-NEW-gt | 1 | 0| 
 | 20240218T01:26:53Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-gt | 1 | 0| 
 | 20240218T01:26:20Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-gt | 1 | 0| 
@@ -72,7 +73,6 @@
 | 20240217T17:23:24Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 96 | 14| 
 | 20240217T13:57:01Z | Zero Exploitation Unified System for Entity Security: Cyber Resilience Controls Framework for Finance  | https://github.com/rogue0xbyte/zeus | 0 | 0| 
 | 20240217T13:23:41Z | SploitScan is a sophisticated cybersecurity utility designed to provide detailed information on vulnerabilities and associated proof-of-concept (PoC) exploits. | https://github.com/xaitax/SploitScan | 280 | 46| 
-| 20240217T13:09:51Z | Null | https://github.com/sec-fortress/Exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
