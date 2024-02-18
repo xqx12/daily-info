@@ -45,13 +45,13 @@
 | 20240217T22:14:54Z | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/M54S/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 | 20240217T18:33:59Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5782 | 1109| 
 | 20240217T17:23:24Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 96 | 14| 
+| 20240217T17:22:38Z | Explore simulated server scenarios in the GuardianMaua_WebHackingLab repository, designed for practical exercises in Web Hacking training. Enhance skills in penetration testing and vulnerability exploitation. A valuable resource for cybersecurity learning. | https://github.com/JoaoVitorBranco/GuardianMaua_WebHackingLab | 0 | 0| 
 | 20240217T13:57:01Z | Zero Exploitation Unified System for Entity Security: Cyber Resilience Controls Framework for Finance  | https://github.com/rogue0xbyte/zeus | 0 | 0| 
 | 20240217T13:23:41Z | SploitScan is a sophisticated cybersecurity utility designed to provide detailed information on vulnerabilities and associated proof-of-concept (PoC) exploits. | https://github.com/xaitax/SploitScan | 280 | 46| 
 | 20240217T13:09:51Z | Null | https://github.com/sec-fortress/Exploits | 0 | 0| 
 | 20240217T12:10:12Z | A tool written in Go that scans files & directories for the Follina exploit (CVE-2022-30190) | https://github.com/shri142/ZipScan | 0 | 0| 
 | 20240217T02:31:47Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr712-0075-0067-app-bFhMq-increase-exploit | 0 | 0| 
 | 20240217T02:15:55Z | External cheat for Rainbow Six Siege offering ESP, aimbot, and various tactical advantages. | https://github.com/Pastiopn/Klar-gg-Rainbow-Six-Siege-RS6-Esp-NoRroil-Hwid-Spoofer-Exploit | 0 | 0| 
-| 20240217T01:22:30Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr712-0075-0008-app-X9WnO-concentrate-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
