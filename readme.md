@@ -79,7 +79,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20240217T23:44:40Z | Simple script for combining multiple wfuzz with different wordlist to be ran at the same time | https://github.com/chappie0/fuzz_script | 0 | 0| 
-| 20240217T23:25:14Z | Sub-Octave Fuzz VST inspired by the EQD Bit Commander pedal for Windows/Mac/Linux | https://github.com/astriiddev/Sub_Dominant-VST | 1 | 0| 
 | 20240217T19:11:13Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 541 | 72| 
 | 20240217T18:28:17Z | Proviesec Fuzz Scanner - dir/path web scanner | https://github.com/Proviesec/PSFuzz | 71 | 25| 
 | 20240217T18:02:50Z | minimalist selector in shell, inspired by fzf | https://github.com/yazgoo/fuzzysh | 5 | 1| 
@@ -88,6 +87,7 @@
 | 20240217T13:11:21Z | Null | https://github.com/yhjuy/fuzzy-carnival | 0 | 0| 
 | 20240217T13:10:30Z | Null | https://github.com/Epicgamerxispro/Fuzzy-enigma | 0 | 0| 
 | 20240217T13:02:08Z | Null | https://github.com/xolodkoffserj/fuzzy-moon | 0 | 0| 
+| 20240217T12:06:55Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9447 | 2127| 
 
 
 
