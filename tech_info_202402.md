@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240218T02:32:35Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-0-9-1-0075-0025-app-VFI0S-knock-exploit | 0 | 0| 
 | 20240218T02:32:27Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-0-9-1-0075-0015-app-bmMgm-exploit-participate | 0 | 0| 
 | 20240218T02:31:12Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0007-app-cEIr_-exercise-exploit | 0 | 0| 
 | 20240218T02:01:14Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0038-app-ihp6O-catch-exploit | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20240218T01:26:20Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-gt | 1 | 0| 
 | 20240218T01:25:52Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-gt | 1 | 0| 
 | 20240218T01:16:19Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5856 | 737| 
-| 20240217T22:14:54Z | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/M54S/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 
 
 # backdoor on Github 推荐
