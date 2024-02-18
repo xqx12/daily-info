@@ -119,7 +119,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240218T00:06:20Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52169 | 23598| 
+| 20240218T01:09:08Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52170 | 23598| 
 | 20240217T23:44:40Z | Simple script for combining multiple wfuzz with different wordlist to be ran at the same time | https://github.com/chappie0/fuzz_script | 0 | 0| 
 | 20240217T23:25:14Z | Sub-Octave Fuzz VST inspired by the EQD Bit Commander pedal for Windows/Mac/Linux | https://github.com/astriiddev/Sub_Dominant-VST | 1 | 0| 
 | 20240217T19:11:13Z | Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts | https://github.com/fuzzland/ityfuzz | 541 | 72| 
