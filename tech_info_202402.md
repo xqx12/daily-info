@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240218T13:46:44Z | Exploit Database%s Papers | https://github.com/JitPatro/exploitdb-papers | 0 | 0| 
 | 20240218T13:03:43Z | Null | https://github.com/md2hussain/exploitation | 0 | 0| 
 | 20240218T12:54:21Z | This repository is primarily maintained by amirsamrez and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/ChiefInformationSecurityOfficer/hacker.dev | 0 | 0| 
 | 20240218T12:52:34Z | Null | https://github.com/fay0026/Exploitation_bdd | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20240218T02:32:27Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-0-9-1-0075-0015-app-bmMgm-exploit-participate | 0 | 0| 
 | 20240218T02:31:12Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0090-0007-app-cEIr_-exercise-exploit | 0 | 0| 
 | 20240218T02:01:14Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0070-0038-app-ihp6O-catch-exploit | 0 | 0| 
-| 20240218T01:57:19Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-0-9-1-0075-0009-app-Oydd_-exploit-bet | 0 | 0| 
 
 
 # backdoor on Github 推荐
