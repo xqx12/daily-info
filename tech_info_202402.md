@@ -69,10 +69,10 @@
 | 20240218T01:26:53Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-gt | 1 | 0| 
 | 20240218T01:26:20Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-gt | 1 | 0| 
 | 20240218T01:25:52Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-gt | 1 | 0| 
+| 20240218T01:16:19Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5856 | 737| 
 | 20240217T22:14:54Z | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/M54S/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 | 20240217T18:33:59Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5782 | 1109| 
 | 20240217T17:23:24Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 96 | 14| 
-| 20240217T17:22:38Z | Explore simulated server scenarios in the GuardianMaua_WebHackingLab repository, designed for practical exercises in Web Hacking training. Enhance skills in penetration testing and vulnerability exploitation. A valuable resource for cybersecurity learning. | https://github.com/JoaoVitorBranco/GuardianMaua_WebHackingLab | 0 | 0| 
 
 
 # backdoor on Github 推荐
