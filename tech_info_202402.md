@@ -26,8 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240219T13:02:25Z | CVE-2024-21413 | Microsoft-Outlook-Remote-Code-Execution-Vulnerability | https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability | | 
 | 20240219T12:53:27Z | CVE-2023-50387 | KeyTrap (DNSSEC) | https://github.com/knqyf263/CVE-2023-50387 | | 
-| 20240219T12:39:09Z | CVE-2024-21413 | Microsoft-Outlook-Remote-Code-Execution-Vulnerability | https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability | | 
 | 20240219T11:04:34Z | CVE-2024-22369 | CVE-2024-22369 Reproducer | https://github.com/oscerd/CVE-2024-22369 | | 
 | 20240219T10:27:35Z | CVE-2023-23752 | Joomla! < 4.2.8 - Unauthenticated information disclosure exploit | https://github.com/Rival420/CVE-2023-23752 | | 
 | 20240219T02:30:40Z | CVE-2024-23897 | Perform with massive Jenkins Reading-2-RCE | https://github.com/ThatNotEasy/CVE-2024-23897 | | 
@@ -78,6 +78,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240219T10:44:06Z | Single PHP file to detect potentially malicious threats based on token and hash with web interface | https://github.com/Cvar1984/sussyfinder | 37 | 6| 
+| 20240219T07:07:55Z | Null | https://github.com/Victor-Floyd/backdoor | 0 | 0| 
 | 20240218T17:59:59Z | Null | https://github.com/Kepterv/BackdoorPlugin | 0 | 0| 
 | 20240218T17:40:49Z | Source code of paper %FlowMur: A Stealthy and Practical Audio Backdoor Attack with Limited Knowledge% | https://github.com/cristinalan/FlowMur | 3 | 0| 
 | 20240218T17:23:28Z | Pentesting, Python, Socket, Flask... I am just learning.   | https://github.com/sousou15/Backdoor | 0 | 0| 
@@ -86,14 +88,12 @@
 | 20240218T14:14:55Z | A Python-based client-server framework for educational network management. Control client devices remotely, stream webcams, execute shell commands, and more. Developed for learning about networking and cybersecurity. | https://github.com/Lucas310302/StrayNet | 1 | 0| 
 | 20240217T22:35:16Z | backdoor | https://github.com/deusnotam/system | 0 | 0| 
 | 20240217T22:15:41Z | Null | https://github.com/Trapnatized/pam-backdoor | 0 | 0| 
-| 20240217T20:27:07Z | The C2 Cloud is a robust web-based C2 framework, designed to simplify the life of penetration testers. It allows easy access to compromised backdoors, just like accessing an EC2 instance in the AWS cloud. It can manage several simultaneous backdoor sessions with a user-friendly interface.  | https://github.com/govindasamyarun/c2-cloud | 11 | 0| 
-| 20240217T12:30:19Z | what is a shell scanner? So a shell scanner is a shell that looks for the existence of a backdoor shell (php) on a website. | https://github.com/OnlyAstaaa/ShellScanner | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240218T20:58:16Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 516 | 34| 
+| 20240219T10:24:26Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 517 | 34| 
 | 20240218T19:50:03Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 596 | 40| 
 | 20240218T17:16:01Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2415 | 654| 
 | 20240215T03:28:27Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 376 | 84| 
@@ -108,7 +108,7 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240218T20:36:08Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 153 | 13| 
+| 20240219T03:13:26Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 154 | 13| 
 | 20240218T15:18:37Z | (NDSS 2024) Optimizing Decompiler Output with LLM | https://github.com/PeiweiHu/DeGPT | 24 | 0| 
 | 20240218T07:12:46Z | ndss & usenix security papers | https://github.com/wqmsybpw/security_papers_collection | 0 | 0| 
 | 20240213T13:43:15Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 137 | 15| 
