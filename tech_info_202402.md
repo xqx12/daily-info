@@ -26,31 +26,31 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240219T00:52:06Z | CVE-2024-21413 | Microsoft-Outlook-Remote-Code-Execution-Vulnerability | https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability | | 
+| 20240218T22:19:13Z | CVE-2023-50387 | KeyTrap (DNS) | https://github.com/knqyf263/CVE-2023-50387 | | 
+| 20240218T20:51:17Z | CVE-2023-49209 | Null | https://github.com/Kaue-Navarro/POC-CVE-2023-49209 | | 
+| 20240218T18:31:24Z | CVE-2023-36845 | CVE-2023-36845 – Unauthenticated Juniper Remote Code Execution Vulnerability Scanner | https://github.com/e11i0t4lders0n/CVE-2023-36845 | | 
+| 20240218T18:25:22Z | CVE-2023-42115 | PoC for Exim CVE-2023-42115  | https://github.com/cammclain/CVE-2023-42115 | | 
 | 20240218T13:23:14Z | CVE-2022-24785 | Proof of concept code for CVE-2022-24785 | https://github.com/isira-adithya/CVE-2022-24785-POC | | 
-| 20240218T10:07:49Z | CVE-2023-42115 | PoC for Exim CVE-2023-42115  | https://github.com/cammclain/CVE-2023-42115 | | 
 | 20240218T07:10:42Z | cve-2024-25423 | Cinema 4D out-of-bounds write vulnerability when parsing c4d files | https://github.com/DriverUnload/cve-2024-25423 | | 
 | 20240218T00:53:22Z | CVE-2024-21413 | Microsoft Outlook Information Disclosure Vulnerability (leak password hash) - Expect Script POC | https://github.com/duy-31/CVE-2024-21413 | | 
 | 20240217T22:14:54Z | Cve-2023- | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/M54S/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 | 20240217T16:35:59Z | CVE-2024-23897 | POC for CVE-2024-23897 Jenkins File-Read  | https://github.com/godylockz/CVE-2024-23897 | | 
-| 20240217T16:22:34Z | CVE-2024-21413 | Microsoft Outlook Information Disclosure Vulnerability (leak password hash) - CVE-2024-21413 POC | https://github.com/r00tb1t/CVE-2024-21413-POC | | 
-| 20240217T14:52:57Z | CVE-2024-21413 | CVE-2024-21413 PoC for THM Lab | https://github.com/CMNatic/CVE-2024-21413 | | 
-| 20240217T12:21:18Z | CVE-2024-1269 | (XSS) | https://github.com/sajaljat/CVE-2024-1269 | | 
-| 20240217T12:16:29Z | CVE-2024-25809 | (XSS) | https://github.com/sajaljat/CVE-2024-25809 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240218T17:49:52Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 108 | 22| 
+| 20240218T17:16:01Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2415 | 654| 
 | 20240218T13:23:15Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 450 | 9| 
 | 20240218T12:52:39Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15316 | 459| 
 | 20240218T09:42:14Z | Null | https://github.com/kleemproductions/kleemproductions.github.io | 0 | 0| 
-| 20240218T07:20:58Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2414 | 654| 
 | 20240216T08:33:24Z | 1 | https://github.com/Klee203/Klee2031 | 0 | 0| 
 | 20240215T21:49:03Z | Install and run KLEE on edk2 | https://github.com/shafiuzzaman-md/install-klee-edk2 | 1 | 0| 
 | 20240215T16:23:28Z | Null | https://github.com/HuyDeveloper/KLEE_Simple | 0 | 0| 
 | 20240215T13:50:13Z | 本字体基于Klee one字体及其衍生的霞鹜文楷系列字体进行改做，基于文楷TC修改的字体 | https://github.com/Steve-Yuu/YshiShuti | 17 | 0| 
 | 20240215T13:50:05Z | 基於 Klee One 改造的字型，以傳承字形風格為主。 | https://github.com/Ayaginu-Sue/Astalia | 14 | 0| 
-| 20240215T06:39:46Z | Null | https://github.com/kioni808/SeanKLee | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -63,31 +63,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240219T00:46:09Z | Null | https://github.com/codingcore13/Silent-JPG-Exploit-NEW-bf | 1 | 0| 
+| 20240219T00:45:33Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-bf | 1 | 0| 
+| 20240219T00:44:44Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-bf | 1 | 0| 
+| 20240219T00:44:06Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-bf | 1 | 0| 
+| 20240219T00:30:37Z | Null | https://github.com/yunweiwu/exploittest.github.io | 0 | 0| 
+| 20240218T16:55:24Z | Null | https://github.com/Jyny/go-race-to-exploit | 0 | 0| 
 | 20240218T13:52:05Z | Null | https://github.com/OracleNep/nday-exploit | 1 | 1| 
 | 20240218T13:46:44Z | Exploit Database%s Papers | https://github.com/JitPatro/exploitdb-papers | 0 | 0| 
 | 20240218T13:14:37Z | A python program that%s make a discord bot get a animated profile discord | https://github.com/TheCuteOwl/discord-bot-animated-pfp | 5 | 4| 
 | 20240218T13:03:43Z | Null | https://github.com/md2hussain/exploitation | 0 | 0| 
-| 20240218T12:54:21Z | This repository is primarily maintained by amirsamrez and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/ChiefInformationSecurityOfficer/hacker.dev | 0 | 0| 
-| 20240218T12:52:34Z | Null | https://github.com/fay0026/Exploitation_bdd | 0 | 0| 
-| 20240218T08:52:59Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 792 | 186| 
-| 20240218T08:47:46Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5783 | 1109| 
-| 20240218T02:32:35Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-0-9-1-0075-0025-app-VFI0S-knock-exploit | 0 | 0| 
-| 20240218T02:32:27Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-0-9-1-0075-0015-app-bmMgm-exploit-participate | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240218T17:59:59Z | Null | https://github.com/Kepterv/BackdoorPlugin | 0 | 0| 
+| 20240218T17:40:49Z | Source code of paper %FlowMur: A Stealthy and Practical Audio Backdoor Attack with Limited Knowledge% | https://github.com/cristinalan/FlowMur | 3 | 0| 
+| 20240218T17:23:28Z | Pentesting, Python, Socket, Flask... I am just learning.   | https://github.com/sousou15/Backdoor | 0 | 0| 
+| 20240218T16:42:43Z | Null | https://github.com/Hjel2/arch-neural-backdoor-first-principles | 0 | 0| 
+| 20240218T16:22:44Z | Null | https://github.com/Hjel2/backdoor-taxonomy | 0 | 0| 
+| 20240218T14:14:55Z | A Python-based client-server framework for educational network management. Control client devices remotely, stream webcams, execute shell commands, and more. Developed for learning about networking and cybersecurity. | https://github.com/Lucas310302/StrayNet | 1 | 0| 
 | 20240217T22:35:16Z | backdoor | https://github.com/deusnotam/system | 0 | 0| 
 | 20240217T22:15:41Z | Null | https://github.com/Trapnatized/pam-backdoor | 0 | 0| 
 | 20240217T20:27:07Z | The C2 Cloud is a robust web-based C2 framework, designed to simplify the life of penetration testers. It allows easy access to compromised backdoors, just like accessing an EC2 instance in the AWS cloud. It can manage several simultaneous backdoor sessions with a user-friendly interface.  | https://github.com/govindasamyarun/c2-cloud | 11 | 0| 
 | 20240217T12:30:19Z | what is a shell scanner? So a shell scanner is a shell that looks for the existence of a backdoor shell (php) on a website. | https://github.com/OnlyAstaaa/ShellScanner | 0 | 0| 
-| 20240217T10:41:47Z | АПИ для работы с бекдором | https://github.com/knyazevi81/backdoor-api | 0 | 0| 
-| 20240217T07:02:52Z | My take on a backdoor written entirely in python | https://github.com/maxbarkouras/Python-FUD | 0 | 0| 
-| 20240217T02:43:56Z | Null | https://github.com/lancopku/agent-backdoor-attacks | 0 | 0| 
-| 20240216T16:12:12Z | Single PHP file to detect potentially malicious threats based on token and hash with web interface | https://github.com/Cvar1984/sussyfinder | 34 | 6| 
-| 20240216T13:50:21Z | The S-500 G2 Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/M54S/S500-RAT-HVNC-HAPP-HIdden-BROWSER-HRDP-REVERSE-PROXY-CRYPTO-MONITOR | 0 | 0| 
-| 20240216T13:50:17Z | Hidden VNC constitutes an ingenious stratagem harnessed by the most adept connoisseurs of technology. This method, by far, presents an exhilarating modality to govern the operation | https://github.com/M54S/Pandora-HVNC-2FABypass-WebGL-Hidden-Desktop-Outlook-Foxmail-Stealer-Hidden-Browser | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -120,16 +120,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240218T12:59:32Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52180 | 23598| 
+| 20240218T23:19:13Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52192 | 23597| 
+| 20240218T22:57:17Z | Skeleton Code & Fuzzer For Buffer Overflow Attacks Written in Ruby | https://github.com/BypassASLR/Ruby-Stack-Buffer-Overflow | 1 | 0| 
+| 20240218T21:57:17Z | Null | https://github.com/MOMDAD1234/fuzzy-rotary-phone | 0 | 0| 
+| 20240218T20:33:22Z | Null | https://github.com/t0ret3/FuzzerScan | 0 | 0| 
+| 20240218T18:17:51Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9449 | 2127| 
+| 20240218T16:31:51Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 570 | 57| 
+| 20240218T15:58:51Z | Differential testing and fuzzing of HTTP servers and proxies | https://github.com/narfindustries/http-garden | 487 | 49| 
+| 20240218T14:28:22Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 114 | 14| 
 | 20240218T12:13:06Z | Fuzzy chatbot built with Pharaoh Dart & Google Generative API | https://github.com/codekeyz/fuzzy-chatbot | 0 | 0| 
 | 20240218T11:48:11Z | [FUZZLST] : Another fuzzing list... | https://github.com/Rbcafe/FUZZLST | 3 | 0| 
-| 20240218T10:25:01Z | Null | https://github.com/ashishhbhharti/Fuzzing | 0 | 0| 
-| 20240218T08:34:22Z | Null | https://github.com/PromptFuzz/PromptFuzz | 55 | 2| 
-| 20240218T08:06:20Z | Null | https://github.com/rif42/RatingDota2PlayersPerformanceUsingFuzzyLogic | 0 | 0| 
-| 20240218T07:20:45Z | I organize telegram stickies :3 | https://github.com/avoonix/fuzzle-bot | 0 | 0| 
-| 20240218T02:47:25Z | Sub-Octave Fuzz VST inspired by the EQD Bit Commander pedal for Windows/Mac/Linux | https://github.com/astriiddev/Sub_Dominant-VST | 2 | 0| 
-| 20240218T02:06:18Z | Null | https://github.com/valeron-svathei/fuzzy-sweater | 0 | 0| 
-| 20240218T01:18:56Z | Null | https://github.com/Darshana-Das-K/BinaryFuzzer | 0 | 0| 
 
 
 
