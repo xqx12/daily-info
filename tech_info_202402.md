@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240219T01:57:02Z | CVE-2024-21413 | Microsoft-Outlook-Remote-Code-Execution-Vulnerability | https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability | | 
+| 20240219T02:12:24Z | CVE-2024-21413 | Microsoft-Outlook-Remote-Code-Execution-Vulnerability | https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability | | 
 | 20240219T01:48:52Z | CVE-2023-50387 | KeyTrap (DNS) | https://github.com/knqyf263/CVE-2023-50387 | | 
 | 20240219T01:48:46Z | CVE-2024-21413 | CVE-2024-21413 Açığını Kullanarak Giriş Bilgilerini Alma | https://github.com/MSeymenD/CVE-2024-21413 | | 
 | 20240218T20:51:17Z | CVE-2023-49209 | Null | https://github.com/Kaue-Navarro/POC-CVE-2023-49209 | | 
