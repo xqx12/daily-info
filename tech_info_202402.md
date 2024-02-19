@@ -11,6 +11,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20240219 | SecWiki周刊（第520期) | https://www.sec-wiki.com/weekly/520| 
 | 20240218 | 代码审计思路经验谈 | https://mp.weixin.qq.com/s/P3HUq0e68nFsyQXWQ7t0JA| 
 | 20240218 | AI与网络安全：从传统到生成式 | https://mp.weixin.qq.com/s/CgJA2CKjScrDgYz0-XDNSQ| 
 | 20240214 | SecWiki周刊（第519期) | https://www.sec-wiki.com/weekly/519| 
@@ -20,37 +21,36 @@
 | 20240210 | 美网络安全威胁能力分析报告 | https://cdn.isc.360.com/iscvideo-bucket/Analysis_of_Cyber_Security_Threat.pdf| 
 | 20240210 | 2023网络安全威胁的回顾与展望 | https://mp.weixin.qq.com/s/B3UaosD4e6zvJALS1Esjjg| 
 | 20240210 | 2023太空安全报告 | https://mp.weixin.qq.com/s/SnP1ABStv3FGW3PXse6tzQ| 
-| 20240210 | 美SDA太空七层发布技术路线架构 | https://mp.weixin.qq.com/s/jVgOLU-Wfsmx4Cl80CeP5g| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240219T02:57:54Z | CVE-2024-21413 | Microsoft-Outlook-Remote-Code-Execution-Vulnerability | https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability | | 
-| 20240219T02:34:34Z | CVE-2023-50387 | KeyTrap (DNS) | https://github.com/knqyf263/CVE-2023-50387 | | 
+| 20240219T12:53:27Z | CVE-2023-50387 | KeyTrap (DNSSEC) | https://github.com/knqyf263/CVE-2023-50387 | | 
+| 20240219T12:39:09Z | CVE-2024-21413 | Microsoft-Outlook-Remote-Code-Execution-Vulnerability | https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability | | 
+| 20240219T11:04:34Z | CVE-2024-22369 | CVE-2024-22369 Reproducer | https://github.com/oscerd/CVE-2024-22369 | | 
+| 20240219T10:27:35Z | CVE-2023-23752 | Joomla! < 4.2.8 - Unauthenticated information disclosure exploit | https://github.com/Rival420/CVE-2023-23752 | | 
 | 20240219T02:30:40Z | CVE-2024-23897 | Perform with massive Jenkins Reading-2-RCE | https://github.com/ThatNotEasy/CVE-2024-23897 | | 
 | 20240219T02:15:22Z | CVE-2023-47218 | CVE-2023-47218: QNAP QTS and QuTS Hero Unauthenticated Command Injection (FIXED) | https://github.com/passwa11/CVE-2023-47218 | | 
 | 20240219T01:48:46Z | CVE-2024-21413 | CVE-2024-21413 Açığını Kullanarak Giriş Bilgilerini Alma | https://github.com/MSeymenD/CVE-2024-21413 | | 
 | 20240218T20:51:17Z | CVE-2023-49209 | Null | https://github.com/Kaue-Navarro/POC-CVE-2023-49209 | | 
 | 20240218T18:31:24Z | CVE-2023-36845 | CVE-2023-36845 – Unauthenticated Juniper Remote Code Execution Vulnerability Scanner | https://github.com/e11i0t4lders0n/CVE-2023-36845 | | 
 | 20240218T18:25:22Z | CVE-2023-42115 | PoC for Exim CVE-2023-42115  | https://github.com/cammclain/CVE-2023-42115 | | 
-| 20240218T13:23:14Z | CVE-2022-24785 | Proof of concept code for CVE-2022-24785 | https://github.com/isira-adithya/CVE-2022-24785-POC | | 
-| 20240218T07:10:42Z | cve-2024-25423 | Cinema 4D out-of-bounds write vulnerability when parsing c4d files | https://github.com/DriverUnload/cve-2024-25423 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240219T11:53:30Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 451 | 9| 
+| 20240219T04:11:26Z |  This Master%s Software Engineering project repository focuses on utilizing LLVM to develop tools for program testing and range validation. It includes an implementation of KLEE for automatic test generation and LLVM-based tools for C++ vector and memory range checking, promoting software safety and quality. | https://github.com/timhwang777/llvm-ecs260 | 0 | 0| 
 | 20240219T01:06:10Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 109 | 22| 
 | 20240218T17:16:01Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2415 | 654| 
-| 20240218T13:23:15Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 450 | 9| 
 | 20240218T12:52:39Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15316 | 459| 
 | 20240218T09:42:14Z | Null | https://github.com/kleemproductions/kleemproductions.github.io | 0 | 0| 
 | 20240216T08:33:24Z | 1 | https://github.com/Klee203/Klee2031 | 0 | 0| 
 | 20240215T21:49:03Z | Install and run KLEE on edk2 | https://github.com/shafiuzzaman-md/install-klee-edk2 | 1 | 0| 
 | 20240215T16:23:28Z | Null | https://github.com/HuyDeveloper/KLEE_Simple | 0 | 0| 
 | 20240215T13:50:13Z | 本字体基于Klee one字体及其衍生的霞鹜文楷系列字体进行改做，基于文楷TC修改的字体 | https://github.com/Steve-Yuu/YshiShuti | 17 | 0| 
-| 20240215T13:50:05Z | 基於 Klee One 改造的字型，以傳承字形風格為主。 | https://github.com/Ayaginu-Sue/Astalia | 14 | 0| 
 
 
 # s2e on Github 推荐
@@ -63,16 +63,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240219T12:58:26Z | This is done to prevent malicious users from exploiting periods in certain contexts, such as in email addresses or URLs, as they might be misinterpreted as part of the domain name. | https://github.com/Bashini23/IP_Address-Defanger | 0 | 0| 
+| 20240219T12:58:25Z | 历史漏洞的细节以及利用方法汇总收集 | https://github.com/OracleNep/Nday-Exploit-Plan | 26 | 5| 
+| 20240219T12:44:43Z | A plugin for Counter-Strike 2 that fixes the rapid fire exploit | https://github.com/HvH-gg/RapidFireFix | 0 | 0| 
+| 20240219T12:14:08Z | Put Hack The Box machines in Notion Database with ready-made template for easier exploitation notes | https://github.com/spllat-00/hackthebox-notion | 0 | 0| 
+| 20240219T11:31:36Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 792 | 186| 
+| 20240219T06:43:09Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5785 | 1109| 
 | 20240219T02:52:58Z | Null | https://github.com/OracleNep/nday-exploit | 18 | 4| 
 | 20240219T02:48:49Z | JavaScript payload and supporting software to be used as XSS payload or post exploitation implant to monitor users as they use the targeted application. | https://github.com/hoodoer/JS-Tap | 169 | 15| 
 | 20240219T02:21:42Z | Null | https://github.com/Wle21/Roblox-Exploit | 0 | 0| 
 | 20240219T01:24:17Z | Null | https://github.com/colerusson/exploit-and-patch-handout | 0 | 0| 
-| 20240219T01:15:27Z | Null | https://github.com/g0dsecurity/exploit | 0 | 0| 
-| 20240219T01:03:09Z | создан | https://github.com/LoveIsTheAnswer51/exploit-plug-and-play-users | 0 | 0| 
-| 20240219T00:46:09Z | Null | https://github.com/codingcore13/Silent-JPG-Exploit-NEW-bf | 1 | 0| 
-| 20240219T00:45:33Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-bf | 1 | 0| 
-| 20240219T00:44:44Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-bf | 1 | 0| 
-| 20240219T00:44:06Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-bf | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -120,16 +120,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240219T12:15:48Z | Null | https://github.com/fuzzy-james/fuzzy-james.github.io | 0 | 0| 
+| 20240219T12:14:59Z | Automatic generation of test cases for web APIs using large language models | https://github.com/Neroxeles/fuzzing-web-api-with-llm | 0 | 0| 
+| 20240219T12:09:51Z | Null | https://github.com/cynthiaimcharles/fuzzy-octo-sniffle | 0 | 0| 
+| 20240219T11:40:37Z | Null | https://github.com/berserkin1337/fuzzy-waffle | 0 | 0| 
+| 20240219T09:04:13Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 5029 | 1199| 
+| 20240219T04:48:52Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1541 | 112| 
 | 20240219T02:46:18Z | taegi-market/client-React/NodeJS | https://github.com/pth9899/fuzzy-spork | 0 | 0| 
 | 20240219T02:35:18Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9450 | 2127| 
+| 20240219T02:33:24Z | Adaptive fuzzing of Hypothesis tests | https://github.com/Zac-HD/hypofuzz | 49 | 3| 
 | 20240219T02:20:32Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52193 | 23596| 
-| 20240219T01:42:26Z | A chrome extension and server to collect requests made by your browser for fuzzing. | https://github.com/lexsai/Observer | 0 | 0| 
-| 20240218T22:57:17Z | Skeleton Code & Fuzzer For Buffer Overflow Attacks Written in Ruby | https://github.com/BypassASLR/Ruby-Stack-Buffer-Overflow | 1 | 0| 
-| 20240218T21:57:17Z | Null | https://github.com/MOMDAD1234/fuzzy-rotary-phone | 0 | 0| 
-| 20240218T20:33:22Z | Null | https://github.com/t0ret3/FuzzerScan | 0 | 0| 
-| 20240218T16:31:51Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 570 | 58| 
-| 20240218T15:58:51Z | Differential testing and fuzzing of HTTP servers and proxies | https://github.com/narfindustries/http-garden | 487 | 49| 
-| 20240218T14:28:22Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 114 | 14| 
 
 
 
