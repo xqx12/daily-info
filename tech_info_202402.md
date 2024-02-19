@@ -26,8 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240219T01:42:34Z | CVE-2024-21413 | Microsoft-Outlook-Remote-Code-Execution-Vulnerability | https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability | | 
 | 20240219T01:37:16Z | CVE-2024-21413 | CVE-2024-21413 Açığını Kullanarak Giriş Bilgilerini Alma | https://github.com/MSeymenD/CVE-2024-21413 | | 
-| 20240219T01:22:21Z | CVE-2024-21413 | Microsoft-Outlook-Remote-Code-Execution-Vulnerability | https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability | | 
 | 20240218T22:19:13Z | CVE-2023-50387 | KeyTrap (DNS) | https://github.com/knqyf263/CVE-2023-50387 | | 
 | 20240218T20:51:17Z | CVE-2023-49209 | Null | https://github.com/Kaue-Navarro/POC-CVE-2023-49209 | | 
 | 20240218T18:31:24Z | CVE-2023-36845 | CVE-2023-36845 – Unauthenticated Juniper Remote Code Execution Vulnerability Scanner | https://github.com/e11i0t4lders0n/CVE-2023-36845 | | 
@@ -120,6 +120,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240219T01:42:26Z | A chrome extension and server to collect requests made by your browser for fuzzing. | https://github.com/lexsai/Observer | 0 | 0| 
 | 20240218T23:19:13Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52192 | 23597| 
 | 20240218T22:57:17Z | Skeleton Code & Fuzzer For Buffer Overflow Attacks Written in Ruby | https://github.com/BypassASLR/Ruby-Stack-Buffer-Overflow | 1 | 0| 
 | 20240218T21:57:17Z | Null | https://github.com/MOMDAD1234/fuzzy-rotary-phone | 0 | 0| 
@@ -129,7 +130,6 @@
 | 20240218T15:58:51Z | Differential testing and fuzzing of HTTP servers and proxies | https://github.com/narfindustries/http-garden | 487 | 49| 
 | 20240218T14:28:22Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 114 | 14| 
 | 20240218T12:13:06Z | Fuzzy chatbot built with Pharaoh Dart & Google Generative API | https://github.com/codekeyz/fuzzy-chatbot | 0 | 0| 
-| 20240218T11:48:11Z | [FUZZLST] : Another fuzzing list... | https://github.com/Rbcafe/FUZZLST | 3 | 0| 
 
 
 
