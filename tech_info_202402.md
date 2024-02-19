@@ -120,6 +120,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240219T13:33:33Z | Null | https://github.com/waalge/aiken-fuzz | 0 | 0| 
 | 20240219T13:17:02Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 5030 | 1199| 
 | 20240219T12:15:48Z | Null | https://github.com/fuzzy-james/fuzzy-james.github.io | 0 | 0| 
 | 20240219T12:14:59Z | Automatic generation of test cases for web APIs using large language models | https://github.com/Neroxeles/fuzzing-web-api-with-llm | 0 | 0| 
@@ -129,7 +130,6 @@
 | 20240219T02:46:18Z | taegi-market/client-React/NodeJS | https://github.com/pth9899/fuzzy-spork | 0 | 0| 
 | 20240219T02:35:18Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9450 | 2127| 
 | 20240219T02:33:24Z | Adaptive fuzzing of Hypothesis tests | https://github.com/Zac-HD/hypofuzz | 49 | 3| 
-| 20240219T02:20:32Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52193 | 23596| 
 
 
 
