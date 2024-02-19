@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240219T01:03:09Z | создан | https://github.com/LoveIsTheAnswer51/exploit-plug-and-play-users | 0 | 0| 
 | 20240219T00:46:09Z | Null | https://github.com/codingcore13/Silent-JPG-Exploit-NEW-bf | 1 | 0| 
 | 20240219T00:45:33Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-bf | 1 | 0| 
 | 20240219T00:44:44Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-bf | 1 | 0| 
@@ -72,7 +73,6 @@
 | 20240218T13:52:05Z | Null | https://github.com/OracleNep/nday-exploit | 1 | 1| 
 | 20240218T13:46:44Z | Exploit Database%s Papers | https://github.com/JitPatro/exploitdb-papers | 0 | 0| 
 | 20240218T13:14:37Z | A python program that%s make a discord bot get a animated profile discord | https://github.com/TheCuteOwl/discord-bot-animated-pfp | 5 | 4| 
-| 20240218T13:03:43Z | Null | https://github.com/md2hussain/exploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
