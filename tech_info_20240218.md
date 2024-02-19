@@ -46,13 +46,13 @@
 | 20240218T18:15:28Z | UAC bypass, Elevate, Persistence methods | https://github.com/MaskTron/UAC-Bypass-FUD | 0 | 0| 
 | 20240218T16:55:24Z | Null | https://github.com/Jyny/go-race-to-exploit | 0 | 0| 
 | 20240218T16:32:36Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5859 | 739| 
-| 20240218T13:52:05Z | Null | https://github.com/OracleNep/nday-exploit | 1 | 1| 
 | 20240218T13:46:44Z | Exploit Database%s Papers | https://github.com/JitPatro/exploitdb-papers | 0 | 0| 
 | 20240218T13:14:37Z | A python program that%s make a discord bot get a animated profile discord | https://github.com/TheCuteOwl/discord-bot-animated-pfp | 5 | 4| 
 | 20240218T13:03:43Z | Null | https://github.com/md2hussain/exploitation | 0 | 0| 
 | 20240218T12:54:21Z | This repository is primarily maintained by amirsamrez and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. | https://github.com/ChiefInformationSecurityOfficer/hacker.dev | 0 | 0| 
 | 20240218T12:52:34Z | Null | https://github.com/fay0026/Exploitation_bdd | 0 | 0| 
 | 20240218T08:52:59Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 792 | 186| 
+| 20240218T08:47:46Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5783 | 1109| 
 
 
 # backdoor on Github 推荐

@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240219T02:52:58Z | Null | https://github.com/OracleNep/nday-exploit | 18 | 4| 
 | 20240219T02:48:49Z | JavaScript payload and supporting software to be used as XSS payload or post exploitation implant to monitor users as they use the targeted application. | https://github.com/hoodoer/JS-Tap | 169 | 15| 
 | 20240219T02:21:42Z | Null | https://github.com/Wle21/Roblox-Exploit | 0 | 0| 
 | 20240219T01:24:17Z | Null | https://github.com/colerusson/exploit-and-patch-handout | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20240219T00:45:33Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-bf | 1 | 0| 
 | 20240219T00:44:44Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-bf | 1 | 0| 
 | 20240219T00:44:06Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-bf | 1 | 0| 
-| 20240219T00:30:37Z | Null | https://github.com/yunweiwu/exploittest.github.io | 0 | 0| 
 
 
 # backdoor on Github 推荐
