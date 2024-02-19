@@ -44,6 +44,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240219T13:18:52Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr712-0075-0020-app-Ie49u-consider-exploit | 0 | 0| 
 | 20240219T12:58:26Z | This is done to prevent malicious users from exploiting periods in certain contexts, such as in email addresses or URLs, as they might be misinterpreted as part of the domain name. | https://github.com/Bashini23/IP_Address-Defanger | 0 | 0| 
 | 20240219T12:58:25Z | 历史漏洞的细节以及利用方法汇总收集 | https://github.com/OracleNep/Nday-Exploit-Plan | 26 | 5| 
 | 20240219T12:44:43Z | A plugin for Counter-Strike 2 that fixes the rapid fire exploit | https://github.com/HvH-gg/RapidFireFix | 0 | 0| 
@@ -53,7 +54,6 @@
 | 20240219T02:52:58Z | Null | https://github.com/OracleNep/nday-exploit | 18 | 4| 
 | 20240219T02:48:49Z | JavaScript payload and supporting software to be used as XSS payload or post exploitation implant to monitor users as they use the targeted application. | https://github.com/hoodoer/JS-Tap | 169 | 15| 
 | 20240219T02:21:42Z | Null | https://github.com/Wle21/Roblox-Exploit | 0 | 0| 
-| 20240219T01:24:17Z | Null | https://github.com/colerusson/exploit-and-patch-handout | 0 | 0| 
 
 
 # backdoor on Github 推荐
