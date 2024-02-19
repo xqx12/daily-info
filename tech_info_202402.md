@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240219T01:15:27Z | Null | https://github.com/g0dsecurity/exploit | 0 | 0| 
 | 20240219T01:03:09Z | создан | https://github.com/LoveIsTheAnswer51/exploit-plug-and-play-users | 0 | 0| 
 | 20240219T00:46:09Z | Null | https://github.com/codingcore13/Silent-JPG-Exploit-NEW-bf | 1 | 0| 
 | 20240219T00:45:33Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-bf | 1 | 0| 
@@ -72,7 +73,6 @@
 | 20240218T16:55:24Z | Null | https://github.com/Jyny/go-race-to-exploit | 0 | 0| 
 | 20240218T13:52:05Z | Null | https://github.com/OracleNep/nday-exploit | 1 | 1| 
 | 20240218T13:46:44Z | Exploit Database%s Papers | https://github.com/JitPatro/exploitdb-papers | 0 | 0| 
-| 20240218T13:14:37Z | A python program that%s make a discord bot get a animated profile discord | https://github.com/TheCuteOwl/discord-bot-animated-pfp | 5 | 4| 
 
 
 # backdoor on Github 推荐
@@ -125,7 +125,7 @@
 | 20240218T21:57:17Z | Null | https://github.com/MOMDAD1234/fuzzy-rotary-phone | 0 | 0| 
 | 20240218T20:33:22Z | Null | https://github.com/t0ret3/FuzzerScan | 0 | 0| 
 | 20240218T18:17:51Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9449 | 2127| 
-| 20240218T16:31:51Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 570 | 57| 
+| 20240218T16:31:51Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 570 | 58| 
 | 20240218T15:58:51Z | Differential testing and fuzzing of HTTP servers and proxies | https://github.com/narfindustries/http-garden | 487 | 49| 
 | 20240218T14:28:22Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 114 | 14| 
 | 20240218T12:13:06Z | Fuzzy chatbot built with Pharaoh Dart & Google Generative API | https://github.com/codekeyz/fuzzy-chatbot | 0 | 0| 
