@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240219T02:15:22Z | CVE-2023-47218 | CVE-2023-47218: QNAP QTS and QuTS Hero Unauthenticated Command Injection (FIXED) | https://github.com/passwa11/CVE-2023-47218 | | 
 | 20240219T02:12:24Z | CVE-2024-21413 | Microsoft-Outlook-Remote-Code-Execution-Vulnerability | https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability | | 
 | 20240219T01:48:52Z | CVE-2023-50387 | KeyTrap (DNS) | https://github.com/knqyf263/CVE-2023-50387 | | 
 | 20240219T01:48:46Z | CVE-2024-21413 | CVE-2024-21413 Açığını Kullanarak Giriş Bilgilerini Alma | https://github.com/MSeymenD/CVE-2024-21413 | | 
@@ -35,7 +36,6 @@
 | 20240218T13:23:14Z | CVE-2022-24785 | Proof of concept code for CVE-2022-24785 | https://github.com/isira-adithya/CVE-2022-24785-POC | | 
 | 20240218T07:10:42Z | cve-2024-25423 | Cinema 4D out-of-bounds write vulnerability when parsing c4d files | https://github.com/DriverUnload/cve-2024-25423 | | 
 | 20240218T00:53:22Z | CVE-2024-21413 | Microsoft Outlook Information Disclosure Vulnerability (leak password hash) - Expect Script POC | https://github.com/duy-31/CVE-2024-21413 | | 
-| 20240217T22:14:54Z | Cve-2023- | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/M54S/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 
 
 # klee on Github 推荐
