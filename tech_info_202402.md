@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240219T02:29:12Z | CVE-2024-23897 | Perform with massive Jenkins Reading-2-RCE | https://github.com/ThatNotEasy/CVE-2024-23897 | | 
 | 20240219T02:17:06Z | CVE-2024-21413 | Microsoft-Outlook-Remote-Code-Execution-Vulnerability | https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability | | 
 | 20240219T02:15:22Z | CVE-2023-47218 | CVE-2023-47218: QNAP QTS and QuTS Hero Unauthenticated Command Injection (FIXED) | https://github.com/passwa11/CVE-2023-47218 | | 
 | 20240219T01:48:52Z | CVE-2023-50387 | KeyTrap (DNS) | https://github.com/knqyf263/CVE-2023-50387 | | 
@@ -35,7 +36,6 @@
 | 20240218T18:25:22Z | CVE-2023-42115 | PoC for Exim CVE-2023-42115  | https://github.com/cammclain/CVE-2023-42115 | | 
 | 20240218T13:23:14Z | CVE-2022-24785 | Proof of concept code for CVE-2022-24785 | https://github.com/isira-adithya/CVE-2022-24785-POC | | 
 | 20240218T07:10:42Z | cve-2024-25423 | Cinema 4D out-of-bounds write vulnerability when parsing c4d files | https://github.com/DriverUnload/cve-2024-25423 | | 
-| 20240218T00:53:22Z | CVE-2024-21413 | Microsoft Outlook Information Disclosure Vulnerability (leak password hash) - Expect Script POC | https://github.com/duy-31/CVE-2024-21413 | | 
 
 
 # klee on Github 推荐
