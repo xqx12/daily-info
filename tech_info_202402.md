@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240219T02:44:14Z | CVE-2024-21413 | Microsoft-Outlook-Remote-Code-Execution-Vulnerability | https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability | | 
+| 20240219T02:45:30Z | CVE-2024-21413 | Microsoft-Outlook-Remote-Code-Execution-Vulnerability | https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability | | 
 | 20240219T02:34:34Z | CVE-2023-50387 | KeyTrap (DNS) | https://github.com/knqyf263/CVE-2023-50387 | | 
 | 20240219T02:30:40Z | CVE-2024-23897 | Perform with massive Jenkins Reading-2-RCE | https://github.com/ThatNotEasy/CVE-2024-23897 | | 
 | 20240219T02:15:22Z | CVE-2023-47218 | CVE-2023-47218: QNAP QTS and QuTS Hero Unauthenticated Command Injection (FIXED) | https://github.com/passwa11/CVE-2023-47218 | | 
@@ -120,6 +120,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240219T02:46:18Z | taegi-market/client-React/NodeJS | https://github.com/pth9899/fuzzy-spork | 0 | 0| 
 | 20240219T02:35:18Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9450 | 2127| 
 | 20240219T02:20:32Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52193 | 23596| 
 | 20240219T01:42:26Z | A chrome extension and server to collect requests made by your browser for fuzzing. | https://github.com/lexsai/Observer | 0 | 0| 
@@ -129,7 +130,6 @@
 | 20240218T16:31:51Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 570 | 58| 
 | 20240218T15:58:51Z | Differential testing and fuzzing of HTTP servers and proxies | https://github.com/narfindustries/http-garden | 487 | 49| 
 | 20240218T14:28:22Z | Linux Kernel Fuzzer Corpus | https://github.com/cmu-pasta/linux-kernel-enriched-corpus | 114 | 14| 
-| 20240218T12:13:06Z | Fuzzy chatbot built with Pharaoh Dart & Google Generative API | https://github.com/codekeyz/fuzzy-chatbot | 0 | 0| 
 
 
 
