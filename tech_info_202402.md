@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240219T01:24:17Z | Null | https://github.com/colerusson/exploit-and-patch-handout | 0 | 0| 
 | 20240219T01:15:27Z | Null | https://github.com/g0dsecurity/exploit | 0 | 0| 
 | 20240219T01:03:09Z | создан | https://github.com/LoveIsTheAnswer51/exploit-plug-and-play-users | 0 | 0| 
 | 20240219T00:46:09Z | Null | https://github.com/codingcore13/Silent-JPG-Exploit-NEW-bf | 1 | 0| 
@@ -72,7 +73,6 @@
 | 20240219T00:30:37Z | Null | https://github.com/yunweiwu/exploittest.github.io | 0 | 0| 
 | 20240218T16:55:24Z | Null | https://github.com/Jyny/go-race-to-exploit | 0 | 0| 
 | 20240218T13:52:05Z | Null | https://github.com/OracleNep/nday-exploit | 1 | 1| 
-| 20240218T13:46:44Z | Exploit Database%s Papers | https://github.com/JitPatro/exploitdb-papers | 0 | 0| 
 
 
 # backdoor on Github 推荐
