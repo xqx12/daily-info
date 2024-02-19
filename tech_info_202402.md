@@ -12,6 +12,7 @@
 | ts | title | url| 
 | --- | --- | ---| 
 | 20240219 | SecWiki周刊（第520期) | https://www.sec-wiki.com/weekly/520| 
+| 20240219 | 安全会议PDF读后随笔 | https://www.coco413.com/archives/145/| 
 | 20240218 | 代码审计思路经验谈 | https://mp.weixin.qq.com/s/P3HUq0e68nFsyQXWQ7t0JA| 
 | 20240218 | AI与网络安全：从传统到生成式 | https://mp.weixin.qq.com/s/CgJA2CKjScrDgYz0-XDNSQ| 
 | 20240214 | SecWiki周刊（第519期) | https://www.sec-wiki.com/weekly/519| 
@@ -20,7 +21,6 @@
 | 20240210 | 美相关APT组织分析报告 | https://cdn.isc.360.com/iscvideo-bucket/APT_organization_analysis.pdf| 
 | 20240210 | 美网络安全威胁能力分析报告 | https://cdn.isc.360.com/iscvideo-bucket/Analysis_of_Cyber_Security_Threat.pdf| 
 | 20240210 | 2023网络安全威胁的回顾与展望 | https://mp.weixin.qq.com/s/B3UaosD4e6zvJALS1Esjjg| 
-| 20240210 | 2023太空安全报告 | https://mp.weixin.qq.com/s/SnP1ABStv3FGW3PXse6tzQ| 
 
 
 # CVE Github 推荐
