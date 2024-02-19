@@ -71,8 +71,8 @@
 | 20240219T00:44:44Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-bf | 1 | 0| 
 | 20240219T00:44:06Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-bf | 1 | 0| 
 | 20240219T00:30:37Z | Null | https://github.com/yunweiwu/exploittest.github.io | 0 | 0| 
+| 20240218T18:15:28Z | UAC bypass, Elevate, Persistence methods | https://github.com/MaskTron/UAC-Bypass-FUD | 0 | 0| 
 | 20240218T16:55:24Z | Null | https://github.com/Jyny/go-race-to-exploit | 0 | 0| 
-| 20240218T13:52:05Z | Null | https://github.com/OracleNep/nday-exploit | 1 | 1| 
 
 
 # backdoor on Github 推荐

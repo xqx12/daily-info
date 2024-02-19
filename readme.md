@@ -43,6 +43,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240218T18:15:28Z | UAC bypass, Elevate, Persistence methods | https://github.com/MaskTron/UAC-Bypass-FUD | 0 | 0| 
 | 20240218T16:55:24Z | Null | https://github.com/Jyny/go-race-to-exploit | 0 | 0| 
 | 20240218T13:52:05Z | Null | https://github.com/OracleNep/nday-exploit | 1 | 1| 
 | 20240218T13:46:44Z | Exploit Database%s Papers | https://github.com/JitPatro/exploitdb-papers | 0 | 0| 
@@ -52,7 +53,6 @@
 | 20240218T12:52:34Z | Null | https://github.com/fay0026/Exploitation_bdd | 0 | 0| 
 | 20240218T08:52:59Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 792 | 186| 
 | 20240218T08:47:46Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5783 | 1109| 
-| 20240218T02:32:35Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-0-9-1-0075-0025-app-VFI0S-knock-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
