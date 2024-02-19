@@ -71,14 +71,16 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240218T11:15:06Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 515 | 34| 
-| 20240218T07:20:58Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2414 | 654| 
+| 20240218T20:58:16Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 516 | 34| 
+| 20240218T19:50:03Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 596 | 40| 
+| 20240218T17:16:01Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2415 | 654| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240218T07:47:33Z | (NDSS 2024) Optimizing Decompiler Output with LLM | https://github.com/PeiweiHu/DeGPT | 23 | 0| 
+| 20240218T20:36:08Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 153 | 13| 
+| 20240218T15:18:37Z | (NDSS 2024) Optimizing Decompiler Output with LLM | https://github.com/PeiweiHu/DeGPT | 24 | 0| 
 | 20240218T07:12:46Z | ndss & usenix security papers | https://github.com/wqmsybpw/security_papers_collection | 0 | 0| 
 
 
