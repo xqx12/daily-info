@@ -14,6 +14,7 @@
 | 20240219 | SecWiki周刊（第520期) | https://www.sec-wiki.com/weekly/520| 
 | 20240219 | 安全会议PDF读后随笔 | https://www.coco413.com/archives/145/| 
 | 20240219 | PHP deserialization attacks and a new gadget chain in Lara... | https://blog.quarkslab.com/php-deserialization-attacks-and-a-new-gadget-chain-in-laravel.html| 
+| 20240219 | 零基础从 0 到 1 掌握 Java 内存马（上篇） | https://paper.seebug.org/3120/| 
 
 
 # CVE Github 推荐

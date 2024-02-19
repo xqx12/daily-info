@@ -14,13 +14,13 @@
 | 20240219 | SecWiki周刊（第520期) | https://www.sec-wiki.com/weekly/520| 
 | 20240219 | 安全会议PDF读后随笔 | https://www.coco413.com/archives/145/| 
 | 20240219 | PHP deserialization attacks and a new gadget chain in Lara... | https://blog.quarkslab.com/php-deserialization-attacks-and-a-new-gadget-chain-in-laravel.html| 
+| 20240219 | 零基础从 0 到 1 掌握 Java 内存马（上篇） | https://paper.seebug.org/3120/| 
 | 20240218 | 代码审计思路经验谈 | https://mp.weixin.qq.com/s/P3HUq0e68nFsyQXWQ7t0JA| 
 | 20240218 | AI与网络安全：从传统到生成式 | https://mp.weixin.qq.com/s/CgJA2CKjScrDgYz0-XDNSQ| 
 | 20240214 | SecWiki周刊（第519期) | https://www.sec-wiki.com/weekly/519| 
 | 20240212 | RASP大规模研发部署实践总结 | https://tech.meituan.com/2024/01/19/runtime-application-self-protection-practice-in-meituan.html| 
 | 20240212 | CTF中原型链污染位点探究 | https://xz.aliyun.com/t/13617| 
 | 20240210 | 美相关APT组织分析报告 | https://cdn.isc.360.com/iscvideo-bucket/APT_organization_analysis.pdf| 
-| 20240210 | 美网络安全威胁能力分析报告 | https://cdn.isc.360.com/iscvideo-bucket/Analysis_of_Cyber_Security_Threat.pdf| 
 
 
 # CVE Github 推荐
