@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240219T02:29:12Z | CVE-2024-23897 | Perform with massive Jenkins Reading-2-RCE | https://github.com/ThatNotEasy/CVE-2024-23897 | | 
+| 20240219T02:30:40Z | CVE-2024-23897 | Perform with massive Jenkins Reading-2-RCE | https://github.com/ThatNotEasy/CVE-2024-23897 | | 
 | 20240219T02:17:06Z | CVE-2024-21413 | Microsoft-Outlook-Remote-Code-Execution-Vulnerability | https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability | | 
 | 20240219T02:15:22Z | CVE-2023-47218 | CVE-2023-47218: QNAP QTS and QuTS Hero Unauthenticated Command Injection (FIXED) | https://github.com/passwa11/CVE-2023-47218 | | 
 | 20240219T01:48:52Z | CVE-2023-50387 | KeyTrap (DNS) | https://github.com/knqyf263/CVE-2023-50387 | | 
