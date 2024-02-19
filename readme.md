@@ -81,6 +81,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240219T13:52:24Z | Null | https://github.com/AbdullahMustafa040/FuzzyWuzzy | 0 | 0| 
 | 20240219T13:33:33Z | Null | https://github.com/waalge/aiken-fuzz | 0 | 0| 
 | 20240219T13:17:02Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 5030 | 1199| 
 | 20240219T12:15:48Z | Null | https://github.com/fuzzy-james/fuzzy-james.github.io | 0 | 0| 
@@ -90,7 +91,6 @@
 | 20240219T04:48:52Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1541 | 112| 
 | 20240219T02:46:18Z | taegi-market/client-React/NodeJS | https://github.com/pth9899/fuzzy-spork | 0 | 0| 
 | 20240219T02:35:18Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9450 | 2127| 
-| 20240219T02:33:24Z | Adaptive fuzzing of Hypothesis tests | https://github.com/Zac-HD/hypofuzz | 49 | 3| 
 
 
 
