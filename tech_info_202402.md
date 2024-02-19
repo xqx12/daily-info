@@ -120,7 +120,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240219T02:20:32Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52193 | 23597| 
+| 20240219T02:20:32Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52193 | 23596| 
 | 20240219T01:42:26Z | A chrome extension and server to collect requests made by your browser for fuzzing. | https://github.com/lexsai/Observer | 0 | 0| 
 | 20240218T22:57:17Z | Skeleton Code & Fuzzer For Buffer Overflow Attacks Written in Ruby | https://github.com/BypassASLR/Ruby-Stack-Buffer-Overflow | 1 | 0| 
 | 20240218T21:57:17Z | Null | https://github.com/MOMDAD1234/fuzzy-rotary-phone | 0 | 0| 
