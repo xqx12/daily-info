@@ -26,11 +26,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240220T02:18:43Z | CVE-2023-50387 | KeyTrap (DNSSEC) | https://github.com/knqyf263/CVE-2023-50387 | | 
 | 20240220T02:16:10Z | CVE-2024-21413 | Microsoft-Outlook-Remote-Code-Execution-Vulnerability | https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability | | 
 | 20240220T01:54:06Z | CVE-2023-38646 | Null | https://github.com/acesoyeo/METABASE-RCE-CVE-2023-38646- | | 
 | 20240220T01:23:40Z | CVE-2024-22369 | CVE-2024-22369 Reproducer | https://github.com/oscerd/CVE-2024-22369 | | 
 | 20240220T00:11:52Z | CVE-2023-49496 | Null | https://github.com/HuangYanQwQ/CVE-2023-49496 | | 
-| 20240219T15:52:42Z | CVE-2023-50387 | KeyTrap (DNSSEC) | https://github.com/knqyf263/CVE-2023-50387 | | 
 | 20240219T10:27:35Z | CVE-2023-23752 | Joomla! < 4.2.8 - Unauthenticated information disclosure exploit | https://github.com/Rival420/CVE-2023-23752 | | 
 | 20240219T02:30:40Z | CVE-2024-23897 | Perform with massive Jenkins Reading-2-RCE | https://github.com/ThatNotEasy/CVE-2024-23897 | | 
 | 20240219T02:15:22Z | CVE-2023-47218 | CVE-2023-47218: QNAP QTS and QuTS Hero Unauthenticated Command Injection (FIXED) | https://github.com/passwa11/CVE-2023-47218 | | 
@@ -122,7 +122,7 @@
 | --- | --- | --- | --- | ---| 
 | 20240220T02:13:02Z | This project aims to replicate and reconstruct the research presented in the paper titled %Modelling of Palm Oil Production using Fuzzy Expert System.% By adopting the methods and concepts proposed in the paper, the project focuses on developing a fuzzy expert system to model palm oil production. | https://github.com/andikariskysururi/Re-creating-Paper-Modelling-of-Palm-Oil-Production-using-Fuzzy-Expert-System- | 0 | 0| 
 | 20240220T02:06:37Z | Null | https://github.com/SaerTrial/Ext-fuzzware-experiment | 0 | 0| 
-| 20240220T02:04:19Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52219 | 23596| 
+| 20240220T02:04:19Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52219 | 23597| 
 | 20240220T01:58:40Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 578 | 61| 
 | 20240220T01:53:47Z | Null | https://github.com/21fyaeish/Fuzzing-Lab | 0 | 0| 
 | 20240220T01:46:25Z | an api fuzzer | https://github.com/ItsCbass/saint | 0 | 0| 
