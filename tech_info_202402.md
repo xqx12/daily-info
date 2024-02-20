@@ -63,7 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240220T01:48:12Z | 历史漏洞的细节以及利用方法汇总收集 | https://github.com/OracleNep/Nday-Exploit-Plan | 28 | 5| 
+| 20240220T02:00:37Z | 历史漏洞的细节以及利用方法汇总收集 | https://github.com/OracleNep/Nday-Exploit-Plan | 29 | 5| 
 | 20240220T00:47:24Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5788 | 1109| 
 | 20240220T00:41:39Z | Null | https://github.com/codingcore13/Silent-JPG-Exploit-NEW-ol | 1 | 0| 
 | 20240220T00:40:56Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ol | 1 | 0| 
@@ -120,9 +120,9 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240220T01:58:40Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 578 | 61| 
 | 20240220T01:53:47Z | Null | https://github.com/21fyaeish/Fuzzing-Lab | 0 | 0| 
 | 20240220T01:50:35Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52218 | 23596| 
-| 20240220T01:47:26Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 577 | 61| 
 | 20240220T01:46:25Z | an api fuzzer | https://github.com/ItsCbass/saint | 0 | 0| 
 | 20240220T01:42:26Z | an api fuzzer | https://github.com/diabloclub/pimp | 0 | 0| 
 | 20240220T00:02:13Z | Fuzzing with AFL | https://github.com/RA-curryfish/SoS-afl | 0 | 0| 
