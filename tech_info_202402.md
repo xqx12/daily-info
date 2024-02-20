@@ -63,7 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240220T13:37:30Z | Null | https://github.com/edgerunner0x01/dvwa_exploits | 0 | 0| 
+| 20240220T13:39:42Z | Null | https://github.com/edgerunner0x01/dvwa_exploits | 0 | 0| 
 | 20240220T12:52:02Z | Null | https://github.com/itspramod21/Active-Directory-Exploitation-CheatSheet | 0 | 0| 
 | 20240220T12:51:20Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr712-0075-0064-app-2SvfC-exploit-grant | 0 | 0| 
 | 20240220T12:37:33Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr714-0075-0012-app-xNW9h-recognise-exploit | 0 | 0| 
