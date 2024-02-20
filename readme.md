@@ -50,11 +50,11 @@
 | 20240219T12:44:43Z | A plugin for Counter-Strike 2 that fixes the rapid fire exploit | https://github.com/HvH-gg/RapidFireFix | 0 | 0| 
 | 20240219T12:14:08Z | Put Hack The Box machines in Notion Database with ready-made template for easier exploitation notes | https://github.com/spllat-00/hackthebox-notion | 0 | 0| 
 | 20240219T11:50:12Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/GhostTroops/TOP | 604 | 121| 
-| 20240219T11:31:36Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 792 | 186| 
 | 20240219T03:47:46Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 257 | 20| 
 | 20240219T02:52:58Z | Null | https://github.com/OracleNep/nday-exploit | 18 | 4| 
 | 20240219T02:48:49Z | JavaScript payload and supporting software to be used as XSS payload or post exploitation implant to monitor users as they use the targeted application. | https://github.com/hoodoer/JS-Tap | 169 | 15| 
 | 20240219T02:21:42Z | Null | https://github.com/Wle21/Roblox-Exploit | 0 | 0| 
+| 20240219T01:24:17Z | Null | https://github.com/colerusson/exploit-and-patch-handout | 0 | 0| 
 
 
 # backdoor on Github 推荐

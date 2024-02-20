@@ -63,16 +63,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240220T02:43:21Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr712-0075-0050-app-EJ0pe-argue-exploit | 0 | 0| 
+| 20240220T02:42:36Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 793 | 186| 
+| 20240220T02:41:55Z | 历史漏洞的细节以及利用方法汇总收集 | https://github.com/OracleNep/Nday-Exploit-Plan | 30 | 5| 
 | 20240220T02:21:39Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 97 | 14| 
-| 20240220T02:00:37Z | 历史漏洞的细节以及利用方法汇总收集 | https://github.com/OracleNep/Nday-Exploit-Plan | 29 | 5| 
 | 20240220T01:32:13Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5862 | 741| 
 | 20240220T00:47:24Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5788 | 1109| 
 | 20240220T00:41:39Z | Null | https://github.com/codingcore13/Silent-JPG-Exploit-NEW-ol | 1 | 0| 
 | 20240220T00:40:56Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ol | 1 | 0| 
 | 20240220T00:39:49Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-ol | 1 | 0| 
 | 20240220T00:39:11Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-ol | 1 | 0| 
-| 20240220T00:20:03Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr712-0075-0034-app-NNlfm-match-exploit | 0 | 0| 
-| 20240219T13:18:52Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr712-0075-0020-app-Ie49u-consider-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
