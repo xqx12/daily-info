@@ -120,7 +120,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240220T01:48:25Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52219 | 23596| 
+| 20240220T01:50:35Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52218 | 23596| 
 | 20240220T01:47:26Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 577 | 61| 
 | 20240220T01:46:25Z | an api fuzzer | https://github.com/ItsCbass/saint | 0 | 0| 
 | 20240220T01:42:26Z | an api fuzzer | https://github.com/diabloclub/pimp | 0 | 0| 
