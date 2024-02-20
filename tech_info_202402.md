@@ -11,6 +11,9 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20240220 | LoFP：Living off the False Positive! | https://br0k3nlab.com/LoFP/| 
+| 20240220 | 浅谈微信小程序测试技巧 | https://mp.weixin.qq.com/s/nLHEBRSAupAinpBHZG-Ebg| 
+| 20240220 | 美国网络安全与基础设施安全局 2023 年度工作回顾 | https://mp.weixin.qq.com/s/YZvG4a1fG6NsFFMNA5hkwg| 
 | 20240219 | SecWiki周刊（第520期) | https://www.sec-wiki.com/weekly/520| 
 | 20240219 | 安全会议PDF读后随笔 | https://www.coco413.com/archives/145/| 
 | 20240219 | PHP deserialization attacks and a new gadget chain in Lara... | https://blog.quarkslab.com/php-deserialization-attacks-and-a-new-gadget-chain-in-laravel.html| 
@@ -18,37 +21,34 @@
 | 20240218 | 代码审计思路经验谈 | https://mp.weixin.qq.com/s/P3HUq0e68nFsyQXWQ7t0JA| 
 | 20240218 | AI与网络安全：从传统到生成式 | https://mp.weixin.qq.com/s/CgJA2CKjScrDgYz0-XDNSQ| 
 | 20240214 | SecWiki周刊（第519期) | https://www.sec-wiki.com/weekly/519| 
-| 20240212 | RASP大规模研发部署实践总结 | https://tech.meituan.com/2024/01/19/runtime-application-self-protection-practice-in-meituan.html| 
-| 20240212 | CTF中原型链污染位点探究 | https://xz.aliyun.com/t/13617| 
-| 20240210 | 美相关APT组织分析报告 | https://cdn.isc.360.com/iscvideo-bucket/APT_organization_analysis.pdf| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240220T02:19:26Z | CVE-2023-50387 | KeyTrap (DNSSEC) | https://github.com/knqyf263/CVE-2023-50387 | | 
-| 20240220T02:16:10Z | CVE-2024-21413 | Microsoft-Outlook-Remote-Code-Execution-Vulnerability | https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability | | 
-| 20240220T01:54:06Z | CVE-2023-38646 | Null | https://github.com/acesoyeo/METABASE-RCE-CVE-2023-38646- | | 
-| 20240220T01:23:40Z | CVE-2024-22369 | CVE-2024-22369 Reproducer | https://github.com/oscerd/CVE-2024-22369 | | 
-| 20240220T00:11:52Z | CVE-2023-49496 | Null | https://github.com/HuangYanQwQ/CVE-2023-49496 | | 
-| 20240219T10:27:35Z | CVE-2023-23752 | Joomla! < 4.2.8 - Unauthenticated information disclosure exploit | https://github.com/Rival420/CVE-2023-23752 | | 
-| 20240219T02:30:40Z | CVE-2024-23897 | Perform with massive Jenkins Reading-2-RCE | https://github.com/ThatNotEasy/CVE-2024-23897 | | 
-| 20240219T02:15:22Z | CVE-2023-47218 | CVE-2023-47218: QNAP QTS and QuTS Hero Unauthenticated Command Injection (FIXED) | https://github.com/passwa11/CVE-2023-47218 | | 
-| 20240219T01:48:46Z | CVE-2024-21413 | CVE-2024-21413 Açığını Kullanarak Giriş Bilgilerini Alma | https://github.com/MSeymenD/CVE-2024-21413 | | 
-| 20240218T20:51:17Z | CVE-2023-49209 | Null | https://github.com/Kaue-Navarro/POC-CVE-2023-49209 | | 
+| 20240220T12:42:47Z | CVE-2024-21413 | Null | https://github.com/Mdusmandasthaheer/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability | | 
+| 20240220T10:03:29Z | CVE-2024-25251 | Null | https://github.com/ASR511-OO7/CVE-2024-25251 | | 
+| 20240220T08:36:47Z | CVE-2024-25381 | Null | https://github.com/Ox130e07d/CVE-2024-25381 | | 
+| 20240220T08:35:46Z | CVE-2024-24103 | Null | https://github.com/ASR511-OO7/CVE-2024-24103 | | 
+| 20240220T08:34:50Z | CVE-2024-24102 | Null | https://github.com/ASR511-OO7/CVE-2024-24102 | | 
+| 20240220T08:34:02Z | CVE-2024-24101 | Null | https://github.com/ASR511-OO7/CVE-2024-24101 | | 
+| 20240220T08:33:11Z | CVE-2024-24098 | Null | https://github.com/ASR511-OO7/CVE-2024-24098 | | 
+| 20240220T08:32:14Z | CVE-2024-24097 | Null | https://github.com/ASR511-OO7/CVE-2024-24097 | | 
+| 20240220T08:30:37Z | CVE-2024-24094 | Null | https://github.com/ASR511-OO7/CVE-2024-24094 | | 
+| 20240220T08:29:44Z | CVE-2024-24093 | Null | https://github.com/ASR511-OO7/CVE-2024-24093 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240219T22:03:27Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 453 | 9| 
+| 20240220T12:38:09Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 454 | 9| 
+| 20240220T05:26:09Z | Null | https://github.com/kleemproductions/kleemproductions.github.io | 0 | 0| 
 | 20240219T13:09:31Z | Null | https://github.com/opqe31/kleeaio | 0 | 0| 
 | 20240219T13:05:21Z | Null | https://github.com/opqe31/kleeutility | 0 | 0| 
 | 20240219T04:11:26Z |  This Master%s Software Engineering project repository focuses on utilizing LLVM to develop tools for program testing and range validation. It includes an implementation of KLEE for automatic test generation and LLVM-based tools for C++ vector and memory range checking, promoting software safety and quality. | https://github.com/timhwang777/llvm-ecs260 | 0 | 0| 
 | 20240219T01:06:10Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 109 | 22| 
 | 20240218T17:16:01Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2415 | 654| 
 | 20240218T12:52:39Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15316 | 459| 
-| 20240218T09:42:14Z | Null | https://github.com/kleemproductions/kleemproductions.github.io | 0 | 0| 
 | 20240216T08:33:24Z | 1 | https://github.com/Klee203/Klee2031 | 0 | 0| 
 | 20240215T21:49:03Z | Install and run KLEE on edk2 | https://github.com/shafiuzzaman-md/install-klee-edk2 | 1 | 0| 
 
@@ -63,31 +63,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240220T12:52:02Z | Null | https://github.com/itspramod21/Active-Directory-Exploitation-CheatSheet | 0 | 0| 
+| 20240220T12:51:20Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr712-0075-0064-app-2SvfC-exploit-grant | 0 | 0| 
+| 20240220T12:37:33Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr714-0075-0012-app-xNW9h-recognise-exploit | 0 | 0| 
+| 20240220T12:30:10Z | Config files for my GitHub profile. | https://github.com/NightmareShadow4Exploit/NightmareShadow4Exploit | 0 | 0| 
+| 20240220T11:41:27Z | Exploits  | https://github.com/Jaikumar96/Backdoor | 0 | 0| 
+| 20240220T09:25:34Z | National Vulnerability Database (NVD) implemented by rust | https://github.com/emo-crab/scap-rs | 7 | 0| 
+| 20240220T07:02:27Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5788 | 1109| 
 | 20240220T02:51:47Z | 历史漏洞的细节以及利用方法汇总收集 | https://github.com/OracleNep/Nday-Exploit-Plan | 31 | 5| 
 | 20240220T02:43:21Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr712-0075-0050-app-EJ0pe-argue-exploit | 0 | 0| 
 | 20240220T02:42:36Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 793 | 186| 
-| 20240220T02:21:39Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 97 | 14| 
-| 20240220T01:32:13Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5862 | 741| 
-| 20240220T00:47:24Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5788 | 1109| 
-| 20240220T00:41:39Z | Null | https://github.com/codingcore13/Silent-JPG-Exploit-NEW-ol | 1 | 0| 
-| 20240220T00:40:56Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ol | 1 | 0| 
-| 20240220T00:39:49Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-ol | 1 | 0| 
-| 20240220T00:39:11Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-ol | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240220T12:57:44Z | Null | https://github.com/dbarisic00/deep-learning-backdoor-attack-detection | 0 | 0| 
+| 20240220T12:40:10Z | MANGGA MAMAM | https://github.com/YOg-XD/backdoor | 0 | 0| 
+| 20240220T11:41:27Z | Exploits  | https://github.com/Jaikumar96/Backdoor | 0 | 0| 
+| 20240220T10:57:59Z | [ICLR%24] Code for our ICLR 2024 paper %Adversarial Feature Map Pruning for Backdoor% | https://github.com/retsuh-bqw/FMP | 2 | 0| 
+| 20240220T09:07:41Z | An implementation of the hidden trigger backdoor attack introduced by Saha et al.  | https://github.com/arm-on/hidden-trigger-backdoor-attack | 0 | 0| 
 | 20240219T23:15:46Z |   Backdoor est un MOBA (Arène de Bataille Multijoueur en Ligne) se déroulant dans un environnement de bureau simulé, où l%objectif principal est de capturer des zones appelées Proxies en les piratant. | https://github.com/BDoryan/BackdoorGame | 1 | 0| 
 | 20240219T22:51:10Z | Efficient Backdoor Attacks on Graph Neural Networks | https://github.com/andersontruong/GNN-Backdoor | 0 | 0| 
 | 20240219T16:39:15Z | Null | https://github.com/quanruirao/Rethinking-CNN-s-Generalization-to-Backdoor-Attack-from-Frequency-Domain | 0 | 0| 
 | 20240219T16:33:51Z | Simple backdoor to execute commands in Windows | https://github.com/Leksa667IsBack/Simple-Windows-BackDoor | 0 | 0| 
 | 20240219T10:44:06Z | Single PHP file to detect potentially malicious threats based on token and hash with web interface | https://github.com/Cvar1984/sussyfinder | 37 | 6| 
-| 20240219T07:07:55Z | Null | https://github.com/Victor-Floyd/backdoor | 0 | 0| 
-| 20240218T17:59:59Z | Null | https://github.com/Kepterv/BackdoorPlugin | 0 | 0| 
-| 20240218T17:40:49Z | Source code of paper %FlowMur: A Stealthy and Practical Audio Backdoor Attack with Limited Knowledge% | https://github.com/cristinalan/FlowMur | 3 | 0| 
-| 20240218T17:23:28Z | Pentesting, Python, Socket, Flask... I am just learning.   | https://github.com/sousou15/Backdoor | 0 | 0| 
-| 20240218T16:42:43Z | Null | https://github.com/Hjel2/arch-neural-backdoor-first-principles | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
