@@ -120,6 +120,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240220T02:13:02Z | This project aims to replicate and reconstruct the research presented in the paper titled %Modelling of Palm Oil Production using Fuzzy Expert System.% By adopting the methods and concepts proposed in the paper, the project focuses on developing a fuzzy expert system to model palm oil production. | https://github.com/andikariskysururi/Re-creating-Paper-Modelling-of-Palm-Oil-Production-using-Fuzzy-Expert-System- | 0 | 0| 
 | 20240220T02:06:37Z | Null | https://github.com/SaerTrial/Ext-fuzzware-experiment | 0 | 0| 
 | 20240220T02:04:19Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52219 | 23596| 
 | 20240220T01:58:40Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 578 | 61| 
@@ -129,7 +130,6 @@
 | 20240220T00:02:13Z | Fuzzing with AFL | https://github.com/RA-curryfish/SoS-afl | 0 | 0| 
 | 20240219T23:27:16Z | Null | https://github.com/m0rd3caii/fuzzer | 0 | 0| 
 | 20240219T23:03:42Z | Ruzz is a high-performance, memory-safe web fuzzer written entirely in Rust. | https://github.com/snowcra5h/ruzz | 0 | 0| 
-| 20240219T23:01:14Z | Python LDAP fuzzer and LDAP Brute Force to help find attributes and brute force - made for HTB%s Analysis Box | https://github.com/alfiebrown5/LDAP-brute-analysis-htb | 0 | 0| 
 
 
 
