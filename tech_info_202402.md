@@ -120,6 +120,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240220T01:42:26Z | an api fuzzer | https://github.com/diabloclub/pimp | 0 | 0| 
 | 20240220T00:02:13Z | Fuzzing with AFL | https://github.com/RA-curryfish/SoS-afl | 0 | 0| 
 | 20240219T23:27:16Z | Null | https://github.com/m0rd3caii/fuzzer | 0 | 0| 
 | 20240219T23:03:42Z | Ruzz is a high-performance, memory-safe web fuzzer written entirely in Rust. | https://github.com/snowcra5h/ruzz | 0 | 0| 
@@ -129,7 +130,6 @@
 | 20240219T21:16:06Z | A directory bruteforce tool | https://github.com/tomasilluminati/FuzzX | 13 | 0| 
 | 20240219T20:54:38Z | Fuzzy machine learning for classification of droplet digital PCR data | https://github.com/michaelgelliot/FuzzyDroplets | 0 | 0| 
 | 20240219T19:38:18Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9450 | 2127| 
-| 20240219T17:08:14Z | Null | https://github.com/veedubb/cs478-fuzz-ddos | 0 | 0| 
 
 
 
