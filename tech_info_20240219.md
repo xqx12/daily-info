@@ -94,8 +94,8 @@
 | 20240219T21:16:06Z | A directory bruteforce tool | https://github.com/tomasilluminati/FuzzX | 13 | 0| 
 | 20240219T20:54:38Z | Fuzzy machine learning for classification of droplet digital PCR data | https://github.com/michaelgelliot/FuzzyDroplets | 0 | 0| 
 | 20240219T19:38:18Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9450 | 2127| 
+| 20240219T17:08:14Z | Null | https://github.com/veedubb/cs478-fuzz-ddos | 0 | 0| 
 | 20240219T13:52:24Z | Null | https://github.com/AbdullahMustafa040/FuzzyWuzzy | 0 | 0| 
-| 20240219T13:33:33Z | Null | https://github.com/waalge/aiken-fuzz | 0 | 0| 
 
 
 
