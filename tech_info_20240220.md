@@ -14,6 +14,8 @@
 | 20240220 | LoFP：Living off the False Positive! | https://br0k3nlab.com/LoFP/| 
 | 20240220 | 浅谈微信小程序测试技巧 | https://mp.weixin.qq.com/s/nLHEBRSAupAinpBHZG-Ebg| 
 | 20240220 | 美国网络安全与基础设施安全局 2023 年度工作回顾 | https://mp.weixin.qq.com/s/YZvG4a1fG6NsFFMNA5hkwg| 
+| 20240220 | 浅谈侧信道流量检测技术【补】 | https://mp.weixin.qq.com/s/vuOhn_LNVANRBl1DOCMLNQ| 
+| 20240220 | 浅谈侧信道流量检测技术 | https://mp.weixin.qq.com/s/6VJWBVMGkBk4C37QICeb7A| 
 
 
 # CVE Github 推荐

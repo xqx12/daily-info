@@ -14,13 +14,13 @@
 | 20240220 | LoFP：Living off the False Positive! | https://br0k3nlab.com/LoFP/| 
 | 20240220 | 浅谈微信小程序测试技巧 | https://mp.weixin.qq.com/s/nLHEBRSAupAinpBHZG-Ebg| 
 | 20240220 | 美国网络安全与基础设施安全局 2023 年度工作回顾 | https://mp.weixin.qq.com/s/YZvG4a1fG6NsFFMNA5hkwg| 
+| 20240220 | 浅谈侧信道流量检测技术【补】 | https://mp.weixin.qq.com/s/vuOhn_LNVANRBl1DOCMLNQ| 
+| 20240220 | 浅谈侧信道流量检测技术 | https://mp.weixin.qq.com/s/6VJWBVMGkBk4C37QICeb7A| 
 | 20240219 | SecWiki周刊（第520期) | https://www.sec-wiki.com/weekly/520| 
 | 20240219 | 安全会议PDF读后随笔 | https://www.coco413.com/archives/145/| 
 | 20240219 | PHP deserialization attacks and a new gadget chain in Lara... | https://blog.quarkslab.com/php-deserialization-attacks-and-a-new-gadget-chain-in-laravel.html| 
 | 20240219 | 零基础从 0 到 1 掌握 Java 内存马（上篇） | https://paper.seebug.org/3120/| 
 | 20240218 | 代码审计思路经验谈 | https://mp.weixin.qq.com/s/P3HUq0e68nFsyQXWQ7t0JA| 
-| 20240218 | AI与网络安全：从传统到生成式 | https://mp.weixin.qq.com/s/CgJA2CKjScrDgYz0-XDNSQ| 
-| 20240214 | SecWiki周刊（第519期) | https://www.sec-wiki.com/weekly/519| 
 
 
 # CVE Github 推荐
