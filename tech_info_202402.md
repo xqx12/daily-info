@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240220T02:07:16Z | CVE-2024-21413 | Microsoft-Outlook-Remote-Code-Execution-Vulnerability | https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability | | 
+| 20240220T02:16:10Z | CVE-2024-21413 | Microsoft-Outlook-Remote-Code-Execution-Vulnerability | https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability | | 
 | 20240220T01:54:06Z | CVE-2023-38646 | Null | https://github.com/acesoyeo/METABASE-RCE-CVE-2023-38646- | | 
 | 20240220T01:23:40Z | CVE-2024-22369 | CVE-2024-22369 Reproducer | https://github.com/oscerd/CVE-2024-22369 | | 
 | 20240220T00:11:52Z | CVE-2023-49496 | Null | https://github.com/HuangYanQwQ/CVE-2023-49496 | | 
