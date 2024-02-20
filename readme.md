@@ -83,14 +83,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240220T13:00:45Z | Null | https://github.com/drew-byte/fuzz1 | 0 | 0| 
+| 20240220T12:54:08Z | fuzzing harness for gbajpeg (from blocksds) | https://github.com/micsthepick/gbajpeg-harness | 0 | 0| 
+| 20240220T12:12:29Z | Null | https://github.com/trener-21centcris/fuzzy-stream | 0 | 0| 
+| 20240220T12:05:23Z | Training data used in the %Learning-Based Dynamic Takagi-Sugeno Fuzzy Modeling of Nonlinear Systems% paper | https://github.com/oguzcanbek/TS-Fuzzy-Modeling | 0 | 0| 
+| 20240220T11:48:28Z | Null | https://github.com/FuzzingLabs/fuzzinglabs.github.io | 0 | 0| 
+| 20240220T11:02:43Z | Null | https://github.com/Darshana-Das-K/BinaryFuzzer | 1 | 0| 
 | 20240220T02:39:19Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 579 | 61| 
 | 20240220T02:13:02Z | This project aims to replicate and reconstruct the research presented in the paper titled %Modelling of Palm Oil Production using Fuzzy Expert System.% By adopting the methods and concepts proposed in the paper, the project focuses on developing a fuzzy expert system to model palm oil production. | https://github.com/andikariskysururi/Re-creating-Paper-Modelling-of-Palm-Oil-Production-using-Fuzzy-Expert-System- | 0 | 0| 
 | 20240220T02:06:37Z | Null | https://github.com/SaerTrial/Ext-fuzzware-experiment | 0 | 0| 
 | 20240220T02:04:19Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52219 | 23597| 
-| 20240220T01:53:47Z | Null | https://github.com/21fyaeish/Fuzzing-Lab | 0 | 0| 
-| 20240220T01:46:25Z | an api fuzzer | https://github.com/ItsCbass/saint | 0 | 0| 
-| 20240220T01:42:26Z | an api fuzzer | https://github.com/diabloclub/pimp | 0 | 0| 
-| 20240220T00:02:13Z | Fuzzing with AFL | https://github.com/RA-curryfish/SoS-afl | 0 | 0| 
 
 
 
