@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240220T01:49:15Z | CVE-2023-38646 | Null | https://github.com/acesoyeo/METABASE-RCE-CVE-2023-38646- | | 
 | 20240220T01:38:46Z | CVE-2024-21413 | Microsoft-Outlook-Remote-Code-Execution-Vulnerability | https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability | | 
 | 20240220T01:23:40Z | CVE-2024-22369 | CVE-2024-22369 Reproducer | https://github.com/oscerd/CVE-2024-22369 | | 
 | 20240220T00:11:52Z | CVE-2023-49496 | Null | https://github.com/HuangYanQwQ/CVE-2023-49496 | | 
@@ -35,7 +36,6 @@
 | 20240219T02:15:22Z | CVE-2023-47218 | CVE-2023-47218: QNAP QTS and QuTS Hero Unauthenticated Command Injection (FIXED) | https://github.com/passwa11/CVE-2023-47218 | | 
 | 20240219T01:48:46Z | CVE-2024-21413 | CVE-2024-21413 Açığını Kullanarak Giriş Bilgilerini Alma | https://github.com/MSeymenD/CVE-2024-21413 | | 
 | 20240218T20:51:17Z | CVE-2023-49209 | Null | https://github.com/Kaue-Navarro/POC-CVE-2023-49209 | | 
-| 20240218T18:31:24Z | CVE-2023-36845 | CVE-2023-36845 – Unauthenticated Juniper Remote Code Execution Vulnerability Scanner | https://github.com/e11i0t4lders0n/CVE-2023-36845 | | 
 
 
 # klee on Github 推荐
@@ -63,13 +63,13 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240220T01:48:12Z | 历史漏洞的细节以及利用方法汇总收集 | https://github.com/OracleNep/Nday-Exploit-Plan | 28 | 5| 
 | 20240220T00:47:24Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5788 | 1109| 
 | 20240220T00:41:39Z | Null | https://github.com/codingcore13/Silent-JPG-Exploit-NEW-ol | 1 | 0| 
 | 20240220T00:40:56Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ol | 1 | 0| 
 | 20240220T00:39:49Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-ol | 1 | 0| 
 | 20240220T00:39:11Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-ol | 1 | 0| 
 | 20240220T00:20:03Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr712-0075-0034-app-NNlfm-match-exploit | 0 | 0| 
-| 20240219T17:10:03Z | 历史漏洞的细节以及利用方法汇总收集 | https://github.com/OracleNep/Nday-Exploit-Plan | 27 | 5| 
 | 20240219T13:18:52Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr712-0075-0020-app-Ie49u-consider-exploit | 0 | 0| 
 | 20240219T12:58:26Z | This is done to prevent malicious users from exploiting periods in certain contexts, such as in email addresses or URLs, as they might be misinterpreted as part of the domain name. | https://github.com/Bashini23/IP_Address-Defanger | 0 | 0| 
 | 20240219T12:44:43Z | A plugin for Counter-Strike 2 that fixes the rapid fire exploit | https://github.com/HvH-gg/RapidFireFix | 0 | 0| 
@@ -120,16 +120,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240220T01:48:25Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52219 | 23596| 
+| 20240220T01:47:26Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 577 | 61| 
+| 20240220T01:46:25Z | an api fuzzer | https://github.com/ItsCbass/saint | 0 | 0| 
 | 20240220T01:42:26Z | an api fuzzer | https://github.com/diabloclub/pimp | 0 | 0| 
 | 20240220T00:02:13Z | Fuzzing with AFL | https://github.com/RA-curryfish/SoS-afl | 0 | 0| 
 | 20240219T23:27:16Z | Null | https://github.com/m0rd3caii/fuzzer | 0 | 0| 
 | 20240219T23:03:42Z | Ruzz is a high-performance, memory-safe web fuzzer written entirely in Rust. | https://github.com/snowcra5h/ruzz | 0 | 0| 
 | 20240219T23:01:14Z | Python LDAP fuzzer and LDAP Brute Force to help find attributes and brute force - made for HTB%s Analysis Box | https://github.com/alfiebrown5/LDAP-brute-analysis-htb | 0 | 0| 
-| 20240219T22:22:08Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52218 | 23596| 
-| 20240219T22:14:09Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 576 | 61| 
 | 20240219T21:16:06Z | A directory bruteforce tool | https://github.com/tomasilluminati/FuzzX | 13 | 0| 
 | 20240219T20:54:38Z | Fuzzy machine learning for classification of droplet digital PCR data | https://github.com/michaelgelliot/FuzzyDroplets | 0 | 0| 
-| 20240219T19:38:18Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9450 | 2127| 
 
 
 

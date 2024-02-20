@@ -46,7 +46,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240219T17:10:03Z | 历史漏洞的细节以及利用方法汇总收集 | https://github.com/OracleNep/Nday-Exploit-Plan | 27 | 5| 
 | 20240219T13:18:52Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr712-0075-0020-app-Ie49u-consider-exploit | 0 | 0| 
 | 20240219T12:58:26Z | This is done to prevent malicious users from exploiting periods in certain contexts, such as in email addresses or URLs, as they might be misinterpreted as part of the domain name. | https://github.com/Bashini23/IP_Address-Defanger | 0 | 0| 
 | 20240219T12:44:43Z | A plugin for Counter-Strike 2 that fixes the rapid fire exploit | https://github.com/HvH-gg/RapidFireFix | 0 | 0| 
@@ -56,6 +55,7 @@
 | 20240219T03:47:46Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 257 | 20| 
 | 20240219T02:52:58Z | Null | https://github.com/OracleNep/nday-exploit | 18 | 4| 
 | 20240219T02:48:49Z | JavaScript payload and supporting software to be used as XSS payload or post exploitation implant to monitor users as they use the targeted application. | https://github.com/hoodoer/JS-Tap | 169 | 15| 
+| 20240219T02:21:42Z | Null | https://github.com/Wle21/Roblox-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -88,13 +88,13 @@
 | 20240219T23:27:16Z | Null | https://github.com/m0rd3caii/fuzzer | 0 | 0| 
 | 20240219T23:03:42Z | Ruzz is a high-performance, memory-safe web fuzzer written entirely in Rust. | https://github.com/snowcra5h/ruzz | 0 | 0| 
 | 20240219T23:01:14Z | Python LDAP fuzzer and LDAP Brute Force to help find attributes and brute force - made for HTB%s Analysis Box | https://github.com/alfiebrown5/LDAP-brute-analysis-htb | 0 | 0| 
-| 20240219T22:22:08Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52218 | 23596| 
-| 20240219T22:14:09Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 576 | 61| 
 | 20240219T21:16:06Z | A directory bruteforce tool | https://github.com/tomasilluminati/FuzzX | 13 | 0| 
 | 20240219T20:54:38Z | Fuzzy machine learning for classification of droplet digital PCR data | https://github.com/michaelgelliot/FuzzyDroplets | 0 | 0| 
 | 20240219T19:38:18Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9450 | 2127| 
 | 20240219T17:08:14Z | Null | https://github.com/veedubb/cs478-fuzz-ddos | 0 | 0| 
 | 20240219T13:52:24Z | Null | https://github.com/AbdullahMustafa040/FuzzyWuzzy | 0 | 0| 
+| 20240219T13:33:33Z | Null | https://github.com/waalge/aiken-fuzz | 0 | 0| 
+| 20240219T13:17:02Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 5030 | 1199| 
 
 
 
