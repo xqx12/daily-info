@@ -26,8 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240220T02:07:16Z | CVE-2024-21413 | Microsoft-Outlook-Remote-Code-Execution-Vulnerability | https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability | | 
 | 20240220T01:54:06Z | CVE-2023-38646 | Null | https://github.com/acesoyeo/METABASE-RCE-CVE-2023-38646- | | 
-| 20240220T01:54:01Z | CVE-2024-21413 | Microsoft-Outlook-Remote-Code-Execution-Vulnerability | https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability | | 
 | 20240220T01:23:40Z | CVE-2024-22369 | CVE-2024-22369 Reproducer | https://github.com/oscerd/CVE-2024-22369 | | 
 | 20240220T00:11:52Z | CVE-2023-49496 | Null | https://github.com/HuangYanQwQ/CVE-2023-49496 | | 
 | 20240219T15:52:42Z | CVE-2023-50387 | KeyTrap (DNSSEC) | https://github.com/knqyf263/CVE-2023-50387 | | 
@@ -120,6 +120,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240220T02:06:37Z | Null | https://github.com/SaerTrial/Ext-fuzzware-experiment | 0 | 0| 
 | 20240220T02:04:19Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52219 | 23596| 
 | 20240220T01:58:40Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 578 | 61| 
 | 20240220T01:53:47Z | Null | https://github.com/21fyaeish/Fuzzing-Lab | 0 | 0| 
@@ -129,7 +130,6 @@
 | 20240219T23:27:16Z | Null | https://github.com/m0rd3caii/fuzzer | 0 | 0| 
 | 20240219T23:03:42Z | Ruzz is a high-performance, memory-safe web fuzzer written entirely in Rust. | https://github.com/snowcra5h/ruzz | 0 | 0| 
 | 20240219T23:01:14Z | Python LDAP fuzzer and LDAP Brute Force to help find attributes and brute force - made for HTB%s Analysis Box | https://github.com/alfiebrown5/LDAP-brute-analysis-htb | 0 | 0| 
-| 20240219T21:16:06Z | A directory bruteforce tool | https://github.com/tomasilluminati/FuzzX | 13 | 0| 
 
 
 
