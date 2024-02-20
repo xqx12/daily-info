@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240220T13:37:30Z | Null | https://github.com/edgerunner0x01/dvwa_exploits | 0 | 0| 
 | 20240220T12:52:02Z | Null | https://github.com/itspramod21/Active-Directory-Exploitation-CheatSheet | 0 | 0| 
 | 20240220T12:51:20Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr712-0075-0064-app-2SvfC-exploit-grant | 0 | 0| 
 | 20240220T12:37:33Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr714-0075-0012-app-xNW9h-recognise-exploit | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20240220T07:02:27Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5788 | 1109| 
 | 20240220T02:51:47Z | 历史漏洞的细节以及利用方法汇总收集 | https://github.com/OracleNep/Nday-Exploit-Plan | 31 | 5| 
 | 20240220T02:43:21Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr712-0075-0050-app-EJ0pe-argue-exploit | 0 | 0| 
-| 20240220T02:42:36Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 793 | 186| 
 
 
 # backdoor on Github 推荐
