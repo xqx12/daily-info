@@ -120,6 +120,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240220T01:53:47Z | Null | https://github.com/21fyaeish/Fuzzing-Lab | 0 | 0| 
 | 20240220T01:50:35Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52218 | 23596| 
 | 20240220T01:47:26Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 577 | 61| 
 | 20240220T01:46:25Z | an api fuzzer | https://github.com/ItsCbass/saint | 0 | 0| 
@@ -129,7 +130,6 @@
 | 20240219T23:03:42Z | Ruzz is a high-performance, memory-safe web fuzzer written entirely in Rust. | https://github.com/snowcra5h/ruzz | 0 | 0| 
 | 20240219T23:01:14Z | Python LDAP fuzzer and LDAP Brute Force to help find attributes and brute force - made for HTB%s Analysis Box | https://github.com/alfiebrown5/LDAP-brute-analysis-htb | 0 | 0| 
 | 20240219T21:16:06Z | A directory bruteforce tool | https://github.com/tomasilluminati/FuzzX | 13 | 0| 
-| 20240219T20:54:38Z | Fuzzy machine learning for classification of droplet digital PCR data | https://github.com/michaelgelliot/FuzzyDroplets | 0 | 0| 
 
 
 
