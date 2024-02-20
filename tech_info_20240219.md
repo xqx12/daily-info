@@ -47,9 +47,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240219T17:10:03Z | 历史漏洞的细节以及利用方法汇总收集 | https://github.com/OracleNep/Nday-Exploit-Plan | 27 | 5| 
 | 20240219T13:18:52Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr712-0075-0020-app-Ie49u-consider-exploit | 0 | 0| 
 | 20240219T12:58:26Z | This is done to prevent malicious users from exploiting periods in certain contexts, such as in email addresses or URLs, as they might be misinterpreted as part of the domain name. | https://github.com/Bashini23/IP_Address-Defanger | 0 | 0| 
-| 20240219T12:58:25Z | 历史漏洞的细节以及利用方法汇总收集 | https://github.com/OracleNep/Nday-Exploit-Plan | 26 | 5| 
 | 20240219T12:44:43Z | A plugin for Counter-Strike 2 that fixes the rapid fire exploit | https://github.com/HvH-gg/RapidFireFix | 0 | 0| 
 | 20240219T12:14:08Z | Put Hack The Box machines in Notion Database with ready-made template for easier exploitation notes | https://github.com/spllat-00/hackthebox-notion | 0 | 0| 
 | 20240219T11:50:12Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/GhostTroops/TOP | 604 | 121| 
