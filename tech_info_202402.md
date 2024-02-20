@@ -120,6 +120,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240220T13:39:00Z | Null | https://github.com/fzincv4k346/fuzzy-barnacle | 0 | 0| 
 | 20240220T13:23:31Z | Topic/dictionary specific fuzzy search up to multiple words using levenshtein-distance | https://github.com/antongigele/fuzzy_search | 0 | 0| 
 | 20240220T13:00:45Z | Null | https://github.com/drew-byte/fuzz1 | 0 | 0| 
 | 20240220T12:54:08Z | fuzzing harness for gbajpeg (from blocksds) | https://github.com/micsthepick/gbajpeg-harness | 0 | 0| 
@@ -129,7 +130,6 @@
 | 20240220T11:02:43Z | Null | https://github.com/Darshana-Das-K/BinaryFuzzer | 1 | 0| 
 | 20240220T04:35:26Z | Extended fuzzware that supports PIC32MZ/X processor families | https://github.com/SaerTrial/Ext-fuzzware-experiment | 0 | 0| 
 | 20240220T02:39:19Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 579 | 61| 
-| 20240220T02:13:02Z | This project aims to replicate and reconstruct the research presented in the paper titled %Modelling of Palm Oil Production using Fuzzy Expert System.% By adopting the methods and concepts proposed in the paper, the project focuses on developing a fuzzy expert system to model palm oil production. | https://github.com/andikariskysururi/Re-creating-Paper-Modelling-of-Palm-Oil-Production-using-Fuzzy-Expert-System- | 0 | 0| 
 
 
 
