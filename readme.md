@@ -93,11 +93,11 @@
 | 20240220T22:54:13Z | É uma tool CLI feita criada para simulações de fuzzings e de payloads para auxiliar profissionais de OffSec. :) | https://github.com/d3moon/Bitstream-Ninja | 0 | 0| 
 | 20240220T22:43:29Z | A machine learning program simulating Car Trafficking using Fuzzy Logic Controller. | https://github.com/NikolaosGazis/Fuzzy-Logic-Traffic-Controller | 0 | 0| 
 | 20240220T19:40:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9448 | 2129| 
+| 20240220T17:10:32Z | A tiny, efficient fuzzy search that doesn%t suck | https://github.com/leeoniya/uFuzzy | 2446 | 43| 
 | 20240220T15:24:34Z | fuzzing harness for gbajpeg (from blocksds) | https://github.com/micsthepick/gbajpeg-harness | 0 | 0| 
 | 20240220T13:57:13Z | Null | https://github.com/FuzzingLabs/fuzzinglabs.github.io | 1 | 0| 
 | 20240220T13:54:19Z | Null | https://github.com/Flerudit/fuzzy-octo-rotary-phone | 0 | 0| 
 | 20240220T13:39:00Z | Null | https://github.com/fzincv4k346/fuzzy-barnacle | 0 | 0| 
-| 20240220T13:23:31Z | Topic/dictionary specific fuzzy search up to multiple words using levenshtein-distance | https://github.com/antongigele/fuzzy_search | 0 | 0| 
 
 
 
