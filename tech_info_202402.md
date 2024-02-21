@@ -120,7 +120,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240221T00:52:20Z | A new repository for testing | https://github.com/KharlAbban/fuzzy-fiesta | 0 | 0| 
+| 20240221T01:16:53Z | A new repository for testing | https://github.com/KharlAbban/fuzzy-fiesta | 0 | 0| 
 | 20240221T00:39:46Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52235 | 23601| 
 | 20240221T00:19:48Z | XNU Image Fuzzer - iOS App for Fuzzing with C++ Code covering 12 CGCreateBitmap & CGColorSpace Functions working with Raw Data. | https://github.com/xsscx/xnuimagefuzzer | 4 | 0| 
 | 20240220T23:51:41Z | aplikasi fuzzy | https://github.com/Rnandto27/aplikasi_fuzzy | 0 | 0| 
