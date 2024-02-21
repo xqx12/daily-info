@@ -77,6 +77,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240221T13:33:13Z | Fuzzing book의 내용을 번역하고, 실습해본 리포지토리 | https://github.com/fault2000/Fuzzing_book | 0 | 0| 
 | 20240221T12:46:56Z | TR-Fuzz: A fuzzer specifically designed for C compilers. | https://github.com/Zhangc2024/TR-Fuzz | 0 | 0| 
 | 20240221T12:14:24Z | Null | https://github.com/SQLouco/fuzzy-telegram | 0 | 0| 
 | 20240221T02:33:36Z | Null | https://github.com/vkasimovskii/fuzzy-stream | 0 | 0| 
