@@ -63,9 +63,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240221T01:13:52Z | A modern dashboard exploit for the original Microsoft Xbox. | https://github.com/XboxDev/endgame-exploit | 347 | 11| 
 | 20240221T01:07:20Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5790 | 1109| 
 | 20240221T01:06:16Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr712-0075-0024-app-FNBH5-pursue-exploit | 0 | 0| 
-| 20240221T00:56:37Z | A modern dashboard exploit for the original Microsoft Xbox. | https://github.com/XboxDev/endgame-exploit | 346 | 11| 
 | 20240221T00:30:45Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr712-0075-0007-app-PxjW6-exploit-pursue | 0 | 0| 
 | 20240220T17:48:08Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/GhostTroops/TOP | 603 | 121| 
 | 20240220T14:06:12Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 98 | 34| 
