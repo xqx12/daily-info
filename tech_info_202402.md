@@ -63,7 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240221T13:44:39Z | Battery Depletion Attack Through Packet Injection on IoT Thread Mesh Network , A practical attack on a thread-mesh network, exploiting vulnerabilities in various components of the Thread network stack. | https://github.com/SystronLab/ThreadBatteryAttack | 0 | 0| 
+| 20240221T13:46:53Z | Battery Depletion Attack Through Packet Injection on IoT Thread Mesh Network , A practical attack on a thread-mesh network, exploiting vulnerabilities in various components of the Thread network stack. | https://github.com/SystronLab/ThreadBatteryAttack | 0 | 0| 
 | 20240221T13:33:12Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 187 | 15| 
 | 20240221T12:40:27Z | Exploit Zenith  - Sell 1k Robux | https://github.com/Zenith0x2/Babaji | 0 | 0| 
 | 20240221T12:39:10Z | #The problem Medical Cost Prognosis: Bed and Procedure Analys solves • Unavailability of critical emergency information like availability of beds, PPE kits, etc • Non-ransparency of Medical Rates & their subdivisions • Emergency facilities system • Exploitation of Patients by Overcharging . • Grievance Addressal of Patients  | https://github.com/Dwijx12/Hospital-cost-and-bed-management-system.com | 1 | 0| 
@@ -124,10 +124,10 @@
 | 20240221T12:46:56Z | TR-Fuzz: A fuzzer specifically designed for C compilers. | https://github.com/Zhangc2024/TR-Fuzz | 0 | 0| 
 | 20240221T12:14:24Z | Null | https://github.com/SQLouco/fuzzy-telegram | 0 | 0| 
 | 20240221T06:03:35Z | A comparison of solidity fuzzing tools Foundry, Echidna & Medusa | https://github.com/devdacian/solidity-fuzzing-comparison | 80 | 9| 
+| 20240221T04:03:39Z | XNU Image Fuzzer - iOS App for Fuzzing with Objective-C Code covering 12 CGCreateBitmap & CGColorSpace Functions working with Raw Data. | https://github.com/xsscx/xnuimagefuzzer | 7 | 0| 
 | 20240221T02:33:36Z | Null | https://github.com/vkasimovskii/fuzzy-stream | 0 | 0| 
 | 20240221T02:32:45Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52235 | 23601| 
 | 20240221T02:13:23Z | Null | https://github.com/Jaywjwksuowok/fuzzy-garbanzo | 0 | 0| 
-| 20240221T02:02:54Z | XNU Image Fuzzer - iOS App for Fuzzing with C++ Code covering 12 CGCreateBitmap & CGColorSpace Functions working with Raw Data. | https://github.com/xsscx/xnuimagefuzzer | 5 | 0| 
 | 20240221T01:37:22Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 580 | 61| 
 | 20240221T01:16:53Z | A new repository for testing | https://github.com/KharlAbban/fuzzy-fiesta | 0 | 0| 
 
