@@ -69,10 +69,10 @@
 | 20240221T01:06:16Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr712-0075-0024-app-FNBH5-pursue-exploit | 0 | 0| 
 | 20240221T00:30:45Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr712-0075-0007-app-PxjW6-exploit-pursue | 0 | 0| 
 | 20240220T17:48:08Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/GhostTroops/TOP | 603 | 121| 
+| 20240220T17:31:43Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5867 | 742| 
 | 20240220T14:06:12Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 98 | 34| 
 | 20240220T13:39:42Z | Null | https://github.com/edgerunner0x01/dvwa_exploits | 0 | 0| 
 | 20240220T12:52:02Z | Null | https://github.com/itspramod21/Active-Directory-Exploitation-CheatSheet | 0 | 0| 
-| 20240220T12:51:20Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr712-0075-0064-app-2SvfC-exploit-grant | 0 | 0| 
 
 
 # backdoor on Github 推荐
