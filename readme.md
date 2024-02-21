@@ -23,7 +23,6 @@
 | --- | --- | --- | --- | ---| 
 | 20240220T21:18:15Z | CVE-2024-25600 | Unauthenticated Remote Code Execution – Bricks <= 1.9.6 | https://github.com/Chocapikk/CVE-2024-25600 | | 
 | 20240220T18:39:31Z | CVE-2024-21410 | Null | https://github.com/sk2wie/CVE-2024-21410-CITRIX | | 
-| 20240220T18:24:18Z | CVE-2024-21413 | Null | https://github.com/Mdusmandasthaheer/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability | | 
 | 20240220T18:23:27Z | CVE-2024-25202 | Null | https://github.com/Agampreet-Singh/CVE-2024-25202 | | 
 | 20240220T18:21:18Z | CVE-2020-3580 | Additional exploits for XSS in Cisco ASA devices discovered by @Pwn0sec | https://github.com/imhunterand/CVE-2020-3580 | | 
 | 20240220T16:48:29Z | CVE-2020-23968 | CVE-2020-23968 | https://github.com/ricardojba/CVE-2020-23968-ILEX-SignGo-EoP | | 
@@ -31,6 +30,7 @@
 | 20240220T10:03:29Z | CVE-2024-25251 | Null | https://github.com/ASR511-OO7/CVE-2024-25251 | | 
 | 20240220T08:36:47Z | CVE-2024-25381 | Null | https://github.com/Ox130e07d/CVE-2024-25381 | | 
 | 20240220T08:35:46Z | CVE-2024-24103 | Null | https://github.com/ASR511-OO7/CVE-2024-24103 | | 
+| 20240220T08:34:50Z | CVE-2024-24102 | Null | https://github.com/ASR511-OO7/CVE-2024-24102 | | 
 
 
 # klee on Github 推荐
