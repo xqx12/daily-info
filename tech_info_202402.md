@@ -120,6 +120,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240221T01:37:22Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 580 | 61| 
 | 20240221T01:16:53Z | A new repository for testing | https://github.com/KharlAbban/fuzzy-fiesta | 0 | 0| 
 | 20240221T00:39:46Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52235 | 23601| 
 | 20240221T00:19:48Z | XNU Image Fuzzer - iOS App for Fuzzing with C++ Code covering 12 CGCreateBitmap & CGColorSpace Functions working with Raw Data. | https://github.com/xsscx/xnuimagefuzzer | 4 | 0| 
@@ -129,7 +130,6 @@
 | 20240220T22:43:29Z | A machine learning program simulating Car Trafficking using Fuzzy Logic Controller. | https://github.com/NikolaosGazis/Fuzzy-Logic-Traffic-Controller | 0 | 0| 
 | 20240220T19:40:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9448 | 2129| 
 | 20240220T15:24:34Z | fuzzing harness for gbajpeg (from blocksds) | https://github.com/micsthepick/gbajpeg-harness | 0 | 0| 
-| 20240220T13:57:13Z | Null | https://github.com/FuzzingLabs/fuzzinglabs.github.io | 1 | 0| 
 
 
 
