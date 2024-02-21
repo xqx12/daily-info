@@ -17,8 +17,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240221T13:56:18Z | CVE-2024-25600 | Nuclei template and information about the POC for CVE-2024-25600 | https://github.com/Christbowel/CVE-2024-25600_Nuclei-Template | | 
 | 20240221T13:46:40Z | CVE-2024-25600 | Unauthenticated Remote Code Execution – Bricks <= 1.9.6 | https://github.com/Chocapikk/CVE-2024-25600 | | 
-| 20240221T12:59:37Z | CVE-2024-25600 | Nuclei template and information about the POC for CVE-2024-25600 | https://github.com/Christbowel/CVE-2024-25600_Nuclei-Template | | 
 | 20240221T09:58:01Z | CVE-2023-22527 | CVE-2023-22527 内存马注入工具 | https://github.com/Boogipop/CVE-2023-22527-Godzilla-MEMSHELL | | 
 | 20240221T08:19:01Z | CVE-2024-25249 | An issue in He3 App for macOS version 2.0.17, allows remote attackers  to execute arbitrary code via the RunAsNode and  enableNodeClilnspectArguments settings. | https://github.com/intbjw/CVE-2024-25249 | | 
 | 20240221T07:47:16Z | CVE-2021-2394 | Null | https://github.com/fasanhlieu/CVE-2021-2394 | | 
@@ -40,6 +40,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240221T13:56:42Z | Here are a bunch of scripts you can use for exploitation purposes. | https://github.com/gaelbresson/ExploitationTools | 0 | 0| 
 | 20240221T13:46:53Z | Battery Depletion Attack Through Packet Injection on IoT Thread Mesh Network , A practical attack on a thread-mesh network, exploiting vulnerabilities in various components of the Thread network stack. | https://github.com/SystronLab/ThreadBatteryAttack | 0 | 0| 
 | 20240221T13:33:12Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 187 | 15| 
 | 20240221T12:40:27Z | Exploit Zenith  - Sell 1k Robux | https://github.com/Zenith0x2/Babaji | 0 | 0| 
@@ -49,7 +50,6 @@
 | 20240221T09:25:33Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5792 | 1084| 
 | 20240221T03:13:46Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 99 | 34| 
 | 20240221T02:38:59Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 98 | 14| 
-| 20240221T01:51:25Z | Exploit bypassing monitoring restrections | https://github.com/Alonecoder2011/pwaHUB | 0 | 0| 
 
 
 # backdoor on Github 推荐
