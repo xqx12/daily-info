@@ -120,6 +120,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240221T02:13:23Z | Null | https://github.com/Jaywjwksuowok/fuzzy-garbanzo | 0 | 0| 
 | 20240221T02:02:54Z | XNU Image Fuzzer - iOS App for Fuzzing with C++ Code covering 12 CGCreateBitmap & CGColorSpace Functions working with Raw Data. | https://github.com/xsscx/xnuimagefuzzer | 5 | 0| 
 | 20240221T01:37:22Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 580 | 61| 
 | 20240221T01:16:53Z | A new repository for testing | https://github.com/KharlAbban/fuzzy-fiesta | 0 | 0| 
@@ -129,7 +130,6 @@
 | 20240220T22:54:13Z | É uma tool CLI feita criada para simulações de fuzzings e de payloads para auxiliar profissionais de OffSec. :) | https://github.com/d3moon/Bitstream-Ninja | 0 | 0| 
 | 20240220T22:43:29Z | A machine learning program simulating Car Trafficking using Fuzzy Logic Controller. | https://github.com/NikolaosGazis/Fuzzy-Logic-Traffic-Controller | 0 | 0| 
 | 20240220T19:40:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9448 | 2129| 
-| 20240220T15:24:34Z | fuzzing harness for gbajpeg (from blocksds) | https://github.com/micsthepick/gbajpeg-harness | 0 | 0| 
 
 
 
