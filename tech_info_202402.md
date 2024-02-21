@@ -26,30 +26,30 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240220T12:42:47Z | CVE-2024-21413 | Null | https://github.com/Mdusmandasthaheer/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability | | 
+| 20240221T00:45:00Z | CVE-2024-25600 | Nuclei template and information about the POC for CVE-2024-25600 | https://github.com/Christbowel/CVE-2024-25600_Nuclei-Template | | 
+| 20240220T21:18:15Z | CVE-2024-25600 | Unauthenticated Remote Code Execution – Bricks <= 1.9.6 | https://github.com/Chocapikk/CVE-2024-25600 | | 
+| 20240220T18:39:31Z | CVE-2024-21410 | Null | https://github.com/sk2wie/CVE-2024-21410-CITRIX | | 
+| 20240220T18:24:18Z | CVE-2024-21413 | Null | https://github.com/Mdusmandasthaheer/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability | | 
+| 20240220T18:23:27Z | CVE-2024-25202 | Null | https://github.com/Agampreet-Singh/CVE-2024-25202 | | 
+| 20240220T18:21:18Z | CVE-2020-3580 | Additional exploits for XSS in Cisco ASA devices discovered by @Pwn0sec | https://github.com/imhunterand/CVE-2020-3580 | | 
+| 20240220T16:48:29Z | CVE-2020-23968 | CVE-2020-23968 | https://github.com/ricardojba/CVE-2020-23968-ILEX-SignGo-EoP | | 
+| 20240220T15:38:30Z | CVE-2024-23897 | Un script realizado en python para atumatizar la vulnerabilidad CVE-2024-23897  | https://github.com/pulentoski/CVE-2024-23897-Arbitrary-file-read | | 
 | 20240220T10:03:29Z | CVE-2024-25251 | Null | https://github.com/ASR511-OO7/CVE-2024-25251 | | 
 | 20240220T08:36:47Z | CVE-2024-25381 | Null | https://github.com/Ox130e07d/CVE-2024-25381 | | 
-| 20240220T08:35:46Z | CVE-2024-24103 | Null | https://github.com/ASR511-OO7/CVE-2024-24103 | | 
-| 20240220T08:34:50Z | CVE-2024-24102 | Null | https://github.com/ASR511-OO7/CVE-2024-24102 | | 
-| 20240220T08:34:02Z | CVE-2024-24101 | Null | https://github.com/ASR511-OO7/CVE-2024-24101 | | 
-| 20240220T08:33:11Z | CVE-2024-24098 | Null | https://github.com/ASR511-OO7/CVE-2024-24098 | | 
-| 20240220T08:32:14Z | CVE-2024-24097 | Null | https://github.com/ASR511-OO7/CVE-2024-24097 | | 
-| 20240220T08:30:37Z | CVE-2024-24094 | Null | https://github.com/ASR511-OO7/CVE-2024-24094 | | 
-| 20240220T08:29:44Z | CVE-2024-24093 | Null | https://github.com/ASR511-OO7/CVE-2024-24093 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240220T15:08:26Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 110 | 22| 
+| 20240220T14:24:00Z | 1 | https://github.com/Klee203/Klee2031 | 0 | 0| 
 | 20240220T12:38:09Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 454 | 9| 
 | 20240220T05:26:09Z | Null | https://github.com/kleemproductions/kleemproductions.github.io | 0 | 0| 
 | 20240219T13:09:31Z | Null | https://github.com/opqe31/kleeaio | 0 | 0| 
 | 20240219T13:05:21Z | Null | https://github.com/opqe31/kleeutility | 0 | 0| 
 | 20240219T04:11:26Z |  This Master%s Software Engineering project repository focuses on utilizing LLVM to develop tools for program testing and range validation. It includes an implementation of KLEE for automatic test generation and LLVM-based tools for C++ vector and memory range checking, promoting software safety and quality. | https://github.com/timhwang777/llvm-ecs260 | 0 | 0| 
-| 20240219T01:06:10Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 109 | 22| 
-| 20240218T17:16:01Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2415 | 654| 
+| 20240218T17:16:01Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2415 | 655| 
 | 20240218T12:52:39Z | An open-source Chinese font derived from Fontworks% Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | https://github.com/lxgw/LxgwWenKai | 15316 | 459| 
-| 20240216T08:33:24Z | 1 | https://github.com/Klee203/Klee2031 | 0 | 0| 
 | 20240215T21:49:03Z | Install and run KLEE on edk2 | https://github.com/shafiuzzaman-md/install-klee-edk2 | 1 | 0| 
 
 
@@ -63,21 +63,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240221T00:56:37Z | A modern dashboard exploit for the original Microsoft Xbox. | https://github.com/XboxDev/endgame-exploit | 346 | 11| 
+| 20240221T00:30:45Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr712-0075-0007-app-PxjW6-exploit-pursue | 0 | 0| 
+| 20240220T22:28:36Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5789 | 1109| 
+| 20240220T17:48:08Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/GhostTroops/TOP | 603 | 121| 
+| 20240220T14:06:12Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 98 | 34| 
 | 20240220T13:39:42Z | Null | https://github.com/edgerunner0x01/dvwa_exploits | 0 | 0| 
 | 20240220T12:52:02Z | Null | https://github.com/itspramod21/Active-Directory-Exploitation-CheatSheet | 0 | 0| 
 | 20240220T12:51:20Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr712-0075-0064-app-2SvfC-exploit-grant | 0 | 0| 
 | 20240220T12:37:33Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr714-0075-0012-app-xNW9h-recognise-exploit | 0 | 0| 
 | 20240220T12:30:10Z | Config files for my GitHub profile. | https://github.com/NightmareShadow4Exploit/NightmareShadow4Exploit | 0 | 0| 
-| 20240220T11:41:27Z | Exploits  | https://github.com/Jaikumar96/Backdoor | 0 | 0| 
-| 20240220T09:25:34Z | National Vulnerability Database (NVD) implemented by rust | https://github.com/emo-crab/scap-rs | 7 | 0| 
-| 20240220T07:02:27Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5788 | 1109| 
-| 20240220T02:51:47Z | 历史漏洞的细节以及利用方法汇总收集 | https://github.com/OracleNep/Nday-Exploit-Plan | 31 | 5| 
-| 20240220T02:43:21Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr712-0075-0050-app-EJ0pe-argue-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240221T00:36:57Z | Null | https://github.com/DigitalNinja00/BackdoorPython3 | 0 | 0| 
+| 20240221T00:17:41Z | All in one beacon to drop on a compromised host | https://github.com/BuildAndDestroy/backdoorBoi | 0 | 0| 
+| 20240220T21:43:51Z | Tiny SHell - An open-source UNIX backdoor (I%m not the author!) | https://github.com/creaktive/tsh | 517 | 136| 
 | 20240220T12:57:44Z | Null | https://github.com/dbarisic00/deep-learning-backdoor-attack-detection | 0 | 0| 
 | 20240220T12:40:10Z | MANGGA MAMAM | https://github.com/YOg-XD/backdoor | 0 | 0| 
 | 20240220T11:41:27Z | Exploits  | https://github.com/Jaikumar96/Backdoor | 0 | 0| 
@@ -85,9 +88,6 @@
 | 20240220T09:07:41Z | An implementation of the hidden trigger backdoor attack introduced by Saha et al.  | https://github.com/arm-on/hidden-trigger-backdoor-attack | 0 | 0| 
 | 20240219T23:15:46Z |   Backdoor est un MOBA (Arène de Bataille Multijoueur en Ligne) se déroulant dans un environnement de bureau simulé, où l%objectif principal est de capturer des zones appelées Proxies en les piratant. | https://github.com/BDoryan/BackdoorGame | 1 | 0| 
 | 20240219T22:51:10Z | Efficient Backdoor Attacks on Graph Neural Networks | https://github.com/andersontruong/GNN-Backdoor | 0 | 0| 
-| 20240219T16:39:15Z | Null | https://github.com/quanruirao/Rethinking-CNN-s-Generalization-to-Backdoor-Attack-from-Frequency-Domain | 0 | 0| 
-| 20240219T16:33:51Z | Simple backdoor to execute commands in Windows | https://github.com/Leksa667IsBack/Simple-Windows-BackDoor | 0 | 0| 
-| 20240219T10:44:06Z | Single PHP file to detect potentially malicious threats based on token and hash with web interface | https://github.com/Cvar1984/sussyfinder | 37 | 6| 
 
 
 # symbolic execution on Github 推荐
@@ -120,16 +120,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240221T00:52:20Z | A new repository for testing | https://github.com/KharlAbban/fuzzy-fiesta | 0 | 0| 
+| 20240221T00:39:46Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52235 | 23601| 
+| 20240221T00:19:48Z | XNU Image Fuzzer - iOS App for Fuzzing with C++ Code covering 12 CGCreateBitmap & CGColorSpace Functions working with Raw Data. | https://github.com/xsscx/xnuimagefuzzer | 4 | 0| 
+| 20240220T23:51:41Z | aplikasi fuzzy | https://github.com/Rnandto27/aplikasi_fuzzy | 0 | 0| 
+| 20240220T23:45:58Z | Null | https://github.com/MidnightsPride/fuzzy-couscous | 0 | 0| 
+| 20240220T22:54:13Z | É uma tool CLI feita criada para simulações de fuzzings e de payloads para auxiliar profissionais de OffSec. :) | https://github.com/d3moon/Bitstream-Ninja | 0 | 0| 
+| 20240220T22:43:29Z | A machine learning program simulating Car Trafficking using Fuzzy Logic Controller. | https://github.com/NikolaosGazis/Fuzzy-Logic-Traffic-Controller | 0 | 0| 
+| 20240220T19:40:35Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9448 | 2129| 
+| 20240220T15:24:34Z | fuzzing harness for gbajpeg (from blocksds) | https://github.com/micsthepick/gbajpeg-harness | 0 | 0| 
 | 20240220T13:57:13Z | Null | https://github.com/FuzzingLabs/fuzzinglabs.github.io | 1 | 0| 
-| 20240220T13:54:19Z | Null | https://github.com/Flerudit/fuzzy-octo-rotary-phone | 0 | 0| 
-| 20240220T13:39:00Z | Null | https://github.com/fzincv4k346/fuzzy-barnacle | 0 | 0| 
-| 20240220T13:23:31Z | Topic/dictionary specific fuzzy search up to multiple words using levenshtein-distance | https://github.com/antongigele/fuzzy_search | 0 | 0| 
-| 20240220T13:00:45Z | Null | https://github.com/drew-byte/fuzz1 | 0 | 0| 
-| 20240220T12:54:08Z | fuzzing harness for gbajpeg (from blocksds) | https://github.com/micsthepick/gbajpeg-harness | 0 | 0| 
-| 20240220T12:12:29Z | Null | https://github.com/trener-21centcris/fuzzy-stream | 0 | 0| 
-| 20240220T12:05:23Z | Training data used in the %Learning-Based Dynamic Takagi-Sugeno Fuzzy Modeling of Nonlinear Systems% paper | https://github.com/oguzcanbek/TS-Fuzzy-Modeling | 0 | 0| 
-| 20240220T11:02:43Z | Null | https://github.com/Darshana-Das-K/BinaryFuzzer | 1 | 0| 
-| 20240220T04:35:26Z | Extended fuzzware that supports PIC32MZ/X processor families | https://github.com/SaerTrial/Ext-fuzzware-experiment | 0 | 0| 
 
 
 
