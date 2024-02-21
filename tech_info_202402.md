@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240221T02:38:59Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 98 | 14| 
 | 20240221T01:51:25Z | Exploit bypassing monitoring restrections | https://github.com/Alonecoder2011/pwaHUB | 0 | 0| 
 | 20240221T01:48:36Z | A modern dashboard exploit for the original Microsoft Xbox. | https://github.com/XboxDev/endgame-exploit | 348 | 11| 
 | 20240221T01:07:20Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5790 | 1109| 
@@ -72,7 +73,6 @@
 | 20240220T17:31:43Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5867 | 742| 
 | 20240220T14:06:12Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 98 | 34| 
 | 20240220T13:39:42Z | Null | https://github.com/edgerunner0x01/dvwa_exploits | 0 | 0| 
-| 20240220T12:52:02Z | Null | https://github.com/itspramod21/Active-Directory-Exploitation-CheatSheet | 0 | 0| 
 
 
 # backdoor on Github 推荐
