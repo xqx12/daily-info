@@ -26,12 +26,12 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240221T13:46:40Z | CVE-2024-25600 | Unauthenticated Remote Code Execution – Bricks <= 1.9.6 | https://github.com/Chocapikk/CVE-2024-25600 | | 
 | 20240221T12:59:37Z | CVE-2024-25600 | Nuclei template and information about the POC for CVE-2024-25600 | https://github.com/Christbowel/CVE-2024-25600_Nuclei-Template | | 
 | 20240221T09:58:01Z | CVE-2023-22527 | CVE-2023-22527 内存马注入工具 | https://github.com/Boogipop/CVE-2023-22527-Godzilla-MEMSHELL | | 
 | 20240221T08:19:01Z | CVE-2024-25249 | An issue in He3 App for macOS version 2.0.17, allows remote attackers  to execute arbitrary code via the RunAsNode and  enableNodeClilnspectArguments settings. | https://github.com/intbjw/CVE-2024-25249 | | 
 | 20240221T07:47:16Z | CVE-2021-2394 | Null | https://github.com/fasanhlieu/CVE-2021-2394 | | 
 | 20240221T02:48:08Z | CVE-2024-21413 | Null | https://github.com/Mdusmandasthaheer/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability | | 
-| 20240220T21:18:15Z | CVE-2024-25600 | Unauthenticated Remote Code Execution – Bricks <= 1.9.6 | https://github.com/Chocapikk/CVE-2024-25600 | | 
 | 20240220T18:39:31Z | CVE-2024-21410 | Null | https://github.com/sk2wie/CVE-2024-21410-CITRIX | | 
 | 20240220T18:23:27Z | CVE-2024-25202 | Null | https://github.com/Agampreet-Singh/CVE-2024-25202 | | 
 | 20240220T18:21:18Z | CVE-2020-3580 | Additional exploits for XSS in Cisco ASA devices discovered by @Pwn0sec | https://github.com/imhunterand/CVE-2020-3580 | | 

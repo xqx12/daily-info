@@ -17,6 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240221T13:46:40Z | CVE-2024-25600 | Unauthenticated Remote Code Execution – Bricks <= 1.9.6 | https://github.com/Chocapikk/CVE-2024-25600 | | 
 | 20240221T12:59:37Z | CVE-2024-25600 | Nuclei template and information about the POC for CVE-2024-25600 | https://github.com/Christbowel/CVE-2024-25600_Nuclei-Template | | 
 | 20240221T09:58:01Z | CVE-2023-22527 | CVE-2023-22527 内存马注入工具 | https://github.com/Boogipop/CVE-2023-22527-Godzilla-MEMSHELL | | 
 | 20240221T08:19:01Z | CVE-2024-25249 | An issue in He3 App for macOS version 2.0.17, allows remote attackers  to execute arbitrary code via the RunAsNode and  enableNodeClilnspectArguments settings. | https://github.com/intbjw/CVE-2024-25249 | | 
