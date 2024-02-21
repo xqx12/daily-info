@@ -50,7 +50,6 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240220T22:28:36Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5789 | 1109| 
 | 20240220T17:48:08Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/GhostTroops/TOP | 603 | 121| 
 | 20240220T14:06:12Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 98 | 34| 
 | 20240220T13:39:42Z | Null | https://github.com/edgerunner0x01/dvwa_exploits | 0 | 0| 
@@ -60,6 +59,7 @@
 | 20240220T12:30:10Z | Config files for my GitHub profile. | https://github.com/NightmareShadow4Exploit/NightmareShadow4Exploit | 0 | 0| 
 | 20240220T11:41:27Z | Exploits  | https://github.com/Jaikumar96/Backdoor | 0 | 0| 
 | 20240220T09:25:34Z | National Vulnerability Database (NVD) implemented by rust | https://github.com/emo-crab/scap-rs | 7 | 0| 
+| 20240220T02:51:47Z | 历史漏洞的细节以及利用方法汇总收集 | https://github.com/OracleNep/Nday-Exploit-Plan | 31 | 5| 
 
 
 # backdoor on Github 推荐
