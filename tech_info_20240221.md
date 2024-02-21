@@ -39,6 +39,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240221T13:33:12Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 187 | 15| 
 | 20240221T12:40:27Z | Exploit Zenith  - Sell 1k Robux | https://github.com/Zenith0x2/Babaji | 0 | 0| 
 | 20240221T12:39:10Z | #The problem Medical Cost Prognosis: Bed and Procedure Analys solves • Unavailability of critical emergency information like availability of beds, PPE kits, etc • Non-ransparency of Medical Rates & their subdivisions • Emergency facilities system • Exploitation of Patients by Overcharging . • Grievance Addressal of Patients  | https://github.com/Dwijx12/Hospital-cost-and-bed-management-system.com | 1 | 0| 
 | 20240221T11:57:37Z | Exploit POC of HTTP Parsers Inconsistency | https://github.com/VitorDominguesR/http-parser-inconsistency | 0 | 0| 
@@ -48,7 +49,6 @@
 | 20240221T02:38:59Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 98 | 14| 
 | 20240221T01:51:25Z | Exploit bypassing monitoring restrections | https://github.com/Alonecoder2011/pwaHUB | 0 | 0| 
 | 20240221T01:48:36Z | A modern dashboard exploit for the original Microsoft Xbox. | https://github.com/XboxDev/endgame-exploit | 348 | 11| 
-| 20240221T01:06:16Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr712-0075-0024-app-FNBH5-pursue-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
