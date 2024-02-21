@@ -11,6 +11,7 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20240221 | WebAssembly安全研究总结 | https://mp.weixin.qq.com/s/cPUaDQaCWpZiBEgZqbqvPg| 
 | 20240220 | LoFP：Living off the False Positive! | https://br0k3nlab.com/LoFP/| 
 | 20240220 | 浅谈微信小程序测试技巧 | https://mp.weixin.qq.com/s/nLHEBRSAupAinpBHZG-Ebg| 
 | 20240220 | 美国网络安全与基础设施安全局 2023 年度工作回顾 | https://mp.weixin.qq.com/s/YZvG4a1fG6NsFFMNA5hkwg| 
@@ -20,31 +21,30 @@
 | 20240219 | 安全会议PDF读后随笔 | https://www.coco413.com/archives/145/| 
 | 20240219 | PHP deserialization attacks and a new gadget chain in Lara... | https://blog.quarkslab.com/php-deserialization-attacks-and-a-new-gadget-chain-in-laravel.html| 
 | 20240219 | 零基础从 0 到 1 掌握 Java 内存马（上篇） | https://paper.seebug.org/3120/| 
-| 20240218 | 代码审计思路经验谈 | https://mp.weixin.qq.com/s/P3HUq0e68nFsyQXWQ7t0JA| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240221T12:59:37Z | CVE-2024-25600 | Nuclei template and information about the POC for CVE-2024-25600 | https://github.com/Christbowel/CVE-2024-25600_Nuclei-Template | | 
+| 20240221T09:58:01Z | CVE-2023-22527 | CVE-2023-22527 内存马注入工具 | https://github.com/Boogipop/CVE-2023-22527-Godzilla-MEMSHELL | | 
+| 20240221T08:19:01Z | CVE-2024-25249 | An issue in He3 App for macOS version 2.0.17, allows remote attackers  to execute arbitrary code via the RunAsNode and  enableNodeClilnspectArguments settings. | https://github.com/intbjw/CVE-2024-25249 | | 
+| 20240221T07:47:16Z | CVE-2021-2394 | Null | https://github.com/fasanhlieu/CVE-2021-2394 | | 
 | 20240221T02:48:08Z | CVE-2024-21413 | Null | https://github.com/Mdusmandasthaheer/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability | | 
-| 20240221T00:45:00Z | CVE-2024-25600 | Nuclei template and information about the POC for CVE-2024-25600 | https://github.com/Christbowel/CVE-2024-25600_Nuclei-Template | | 
 | 20240220T21:18:15Z | CVE-2024-25600 | Unauthenticated Remote Code Execution – Bricks <= 1.9.6 | https://github.com/Chocapikk/CVE-2024-25600 | | 
 | 20240220T18:39:31Z | CVE-2024-21410 | Null | https://github.com/sk2wie/CVE-2024-21410-CITRIX | | 
 | 20240220T18:23:27Z | CVE-2024-25202 | Null | https://github.com/Agampreet-Singh/CVE-2024-25202 | | 
 | 20240220T18:21:18Z | CVE-2020-3580 | Additional exploits for XSS in Cisco ASA devices discovered by @Pwn0sec | https://github.com/imhunterand/CVE-2020-3580 | | 
 | 20240220T16:48:29Z | CVE-2020-23968 | CVE-2020-23968 | https://github.com/ricardojba/CVE-2020-23968-ILEX-SignGo-EoP | | 
-| 20240220T15:38:30Z | CVE-2024-23897 | Un script realizado en python para atumatizar la vulnerabilidad CVE-2024-23897  | https://github.com/pulentoski/CVE-2024-23897-Arbitrary-file-read | | 
-| 20240220T10:03:29Z | CVE-2024-25251 | Null | https://github.com/ASR511-OO7/CVE-2024-25251 | | 
-| 20240220T08:36:47Z | CVE-2024-25381 | Null | https://github.com/Ox130e07d/CVE-2024-25381 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240221T12:05:51Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 455 | 9| 
 | 20240221T02:38:07Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 33 | 2| 
 | 20240220T15:08:26Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 110 | 22| 
 | 20240220T14:24:00Z | 1 | https://github.com/Klee203/Klee2031 | 0 | 0| 
-| 20240220T12:38:09Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 454 | 9| 
 | 20240220T05:26:09Z | Null | https://github.com/kleemproductions/kleemproductions.github.io | 0 | 0| 
 | 20240219T13:09:31Z | Null | https://github.com/opqe31/kleeaio | 0 | 0| 
 | 20240219T13:05:21Z | Null | https://github.com/opqe31/kleeutility | 0 | 0| 
@@ -63,21 +63,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240221T12:40:27Z | Exploit Zenith  - Sell 1k Robux | https://github.com/Zenith0x2/Babaji | 0 | 0| 
+| 20240221T12:39:10Z | #The problem Medical Cost Prognosis: Bed and Procedure Analys solves • Unavailability of critical emergency information like availability of beds, PPE kits, etc • Non-ransparency of Medical Rates & their subdivisions • Emergency facilities system • Exploitation of Patients by Overcharging . • Grievance Addressal of Patients  | https://github.com/Dwijx12/Hospital-cost-and-bed-management-system.com | 1 | 0| 
+| 20240221T11:57:37Z | Exploit POC of HTTP Parsers Inconsistency | https://github.com/VitorDominguesR/http-parser-inconsistency | 0 | 0| 
+| 20240221T11:42:03Z | Full-stack ecommerce site built on Next.js and TypeScript. Data is fetched from the file and displayed on the UI. Exploit Next.js features such as page routing for the routing functionality. | https://github.com/varunpats/audioPhile | 0 | 0| 
+| 20240221T09:25:33Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5792 | 1084| 
+| 20240221T03:13:46Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 99 | 34| 
 | 20240221T02:38:59Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 98 | 14| 
 | 20240221T01:51:25Z | Exploit bypassing monitoring restrections | https://github.com/Alonecoder2011/pwaHUB | 0 | 0| 
 | 20240221T01:48:36Z | A modern dashboard exploit for the original Microsoft Xbox. | https://github.com/XboxDev/endgame-exploit | 348 | 11| 
-| 20240221T01:07:20Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5790 | 1109| 
 | 20240221T01:06:16Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr712-0075-0024-app-FNBH5-pursue-exploit | 0 | 0| 
-| 20240221T00:30:45Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr712-0075-0007-app-PxjW6-exploit-pursue | 0 | 0| 
-| 20240220T17:48:08Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/GhostTroops/TOP | 603 | 121| 
-| 20240220T17:31:43Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5867 | 742| 
-| 20240220T14:06:12Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 98 | 34| 
-| 20240220T13:39:42Z | Null | https://github.com/edgerunner0x01/dvwa_exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240221T08:22:53Z | VenomControl Rat is a Remote Access Tool (RAT) designed to remotely monitor and control other computers through a secure encrypted connection | https://github.com/MastersTms/VenomControl-Rat-Crack-Source | 0 | 1| 
+| 20240221T04:22:19Z | Null | https://github.com/ruyue0001/Backdoor_DPR | 0 | 0| 
+| 20240221T03:30:52Z | Computing) capabilities. It boasts compatibility with a spectrum of 20 concealed browsers. Pegasus HVNC facet facilitates the orchestration of a concealed desktop environment | https://github.com/Tikosktaki/Pegasus-Pantheon-HVNC-V2-VNC-Hidden-Browser-Remote-Administration-Rat | 1 | 1| 
 | 20240221T00:36:57Z | Null | https://github.com/DigitalNinja00/BackdoorPython3 | 0 | 0| 
 | 20240221T00:17:41Z | All in one beacon to drop on a compromised host | https://github.com/BuildAndDestroy/backdoorBoi | 0 | 0| 
 | 20240220T21:43:51Z | Tiny SHell - An open-source UNIX backdoor (I%m not the author!) | https://github.com/creaktive/tsh | 517 | 136| 
@@ -85,9 +88,6 @@
 | 20240220T12:40:10Z | MANGGA MAMAM | https://github.com/YOg-XD/backdoor | 0 | 0| 
 | 20240220T11:41:27Z | Exploits  | https://github.com/Jaikumar96/Backdoor | 0 | 0| 
 | 20240220T10:57:59Z | [ICLR%24] Code for our ICLR 2024 paper %Adversarial Feature Map Pruning for Backdoor% | https://github.com/retsuh-bqw/FMP | 2 | 0| 
-| 20240220T09:07:41Z | An implementation of the hidden trigger backdoor attack introduced by Saha et al.  | https://github.com/arm-on/hidden-trigger-backdoor-attack | 0 | 0| 
-| 20240219T23:15:46Z |   Backdoor est un MOBA (Arène de Bataille Multijoueur en Ligne) se déroulant dans un environnement de bureau simulé, où l%objectif principal est de capturer des zones appelées Proxies en les piratant. | https://github.com/BDoryan/BackdoorGame | 1 | 0| 
-| 20240219T22:51:10Z | Efficient Backdoor Attacks on Graph Neural Networks | https://github.com/andersontruong/GNN-Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -120,6 +120,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240221T12:46:56Z | TR-Fuzz: A fuzzer specifically designed for C compilers. | https://github.com/Zhangc2024/TR-Fuzz | 0 | 0| 
+| 20240221T12:14:24Z | Null | https://github.com/SQLouco/fuzzy-telegram | 0 | 0| 
 | 20240221T02:33:36Z | Null | https://github.com/vkasimovskii/fuzzy-stream | 0 | 0| 
 | 20240221T02:32:45Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52235 | 23601| 
 | 20240221T02:13:23Z | Null | https://github.com/Jaywjwksuowok/fuzzy-garbanzo | 0 | 0| 
@@ -128,8 +130,6 @@
 | 20240221T01:16:53Z | A new repository for testing | https://github.com/KharlAbban/fuzzy-fiesta | 0 | 0| 
 | 20240220T23:51:41Z | aplikasi fuzzy | https://github.com/Rnandto27/aplikasi_fuzzy | 0 | 0| 
 | 20240220T23:45:58Z | Null | https://github.com/MidnightsPride/fuzzy-couscous | 0 | 0| 
-| 20240220T22:54:13Z | É uma tool CLI feita criada para simulações de fuzzings e de payloads para auxiliar profissionais de OffSec. :) | https://github.com/d3moon/Bitstream-Ninja | 0 | 0| 
-| 20240220T22:43:29Z | A machine learning program simulating Car Trafficking using Fuzzy Logic Controller. | https://github.com/NikolaosGazis/Fuzzy-Logic-Traffic-Controller | 0 | 0| 
 
 
 
