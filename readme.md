@@ -45,7 +45,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240222T13:06:03Z | A Python package for tracking IP addresses and their locations. | https://github.com/Ishanoshada/iptracker | 0 | 0| 
+| 20240222T13:17:46Z | A Python package for tracking IP addresses and their locations. | https://github.com/Ishanoshada/iptracker | 1 | 0| 
 | 20240222T13:03:42Z | Null | https://github.com/sebelino-karolinska-threat-agent/exploit | 0 | 0| 
 | 20240222T02:56:27Z | Exploit for the Remote Code Execution (RCE) vulnerability identified in Metabase versions before 0.46.6.1 (open source) and 1.46.6.1 (Enterprise). Authentication is not required for exploitation. | https://github.com/UserConnecting/Exploit-CVE-2023-38646-Metabase | 0 | 0| 
 | 20240222T02:50:57Z | Chrome OS Exploits is an website that has everything you need for unblocking games or proxies or just websites in general! | https://github.com/i8mb/Chrome-OSU | 1 | 1| 
