@@ -45,6 +45,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240222T13:06:03Z | A Python package for tracking IP addresses and their locations. | https://github.com/Ishanoshada/iptracker | 0 | 0| 
+| 20240222T13:03:42Z | Null | https://github.com/sebelino-karolinska-threat-agent/exploit | 0 | 0| 
 | 20240222T02:56:27Z | Exploit for the Remote Code Execution (RCE) vulnerability identified in Metabase versions before 0.46.6.1 (open source) and 1.46.6.1 (Enterprise). Authentication is not required for exploitation. | https://github.com/UserConnecting/Exploit-CVE-2023-38646-Metabase | 0 | 0| 
 | 20240222T02:50:57Z | Chrome OS Exploits is an website that has everything you need for unblocking games or proxies or just websites in general! | https://github.com/i8mb/Chrome-OSU | 1 | 1| 
 | 20240222T02:31:28Z | Null | https://github.com/alexchong/exploits | 0 | 0| 
@@ -53,7 +55,6 @@
 | 20240222T00:59:37Z | Null | https://github.com/MihirK21/CyberVulnerabilityExploitation-Ransomware | 0 | 0| 
 | 20240222T00:56:09Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5795 | 1084| 
 | 20240222T00:53:55Z | Null | https://github.com/kevin-9871/ExploitKit | 0 | 0| 
-| 20240222T00:42:38Z | This repository holds the code used for Red and Blue team exploits for educational purposes | https://github.com/MihirK21/CyberVulnerabilityExploitation | 0 | 0| 
 
 
 # backdoor on Github 推荐
