@@ -26,8 +26,8 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240222T13:56:37Z | CVE-2024-25600 | Unauthenticated Remote Code Execution – Bricks <= 1.9.6 | https://github.com/Chocapikk/CVE-2024-25600 | | 
 | 20240222T13:47:33Z | CVE-2023-5204 | AI ChatBot <= 4.8.9 - Unauthenticated SQL Injection via qc_wpbo_search_response | https://github.com/RandomRobbieBF/CVE-2023-5204 | | 
-| 20240222T13:34:42Z | CVE-2024-25600 | Unauthenticated Remote Code Execution – Bricks <= 1.9.6 | https://github.com/Chocapikk/CVE-2024-25600 | | 
 | 20240222T10:56:55Z | CVE-2024-25600 | This tool is designed to exploit the CVE-2024-25600 vulnerability found in the Bricks Builder plugin for WordPress. The vulnerability allows for unauthenticated remote code execution on affected websites. The tool automates the exploitation process by retrieving nonces and sending specially crafted requests to execute arbitrary commands. | https://github.com/Tornad0007/CVE-2024-25600-Bricks-Builder-plugin-for-WordPress | | 
 | 20240222T10:44:38Z | CVE-2024-22532 | Null | https://github.com/pwndorei/CVE-2024-22532 | | 
 | 20240222T08:18:48Z | CVE-2024-25270 | for future article of research vulnerability in MIRAPOLIS LMS | https://github.com/fbkcs/CVE-2024-25270 | | 
@@ -129,8 +129,8 @@
 | 20240222T11:34:57Z | This program exploits the format string C vulnerability. | https://github.com/MateiMartin/Printf_Fuzzer | 0 | 0| 
 | 20240222T11:00:39Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 5035 | 1155| 
 | 20240222T10:45:18Z | Null | https://github.com/p-warner/fuzz | 0 | 0| 
+| 20240222T07:23:53Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1773 | 267| 
 | 20240222T02:58:56Z | XNU Image Fuzzer - iOS App for Fuzzing with Objective-C Code covering 12 CGCreateBitmap & CGColorSpace Functions working with Raw Data. | https://github.com/xsscx/xnuimagefuzzer | 13 | 0| 
-| 20240222T02:30:28Z | Null | https://github.com/anandaashish74711/fuzzy-potato | 0 | 0| 
 
 
 
