@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240222T13:30:36Z | CVE-2024-25600 | Unauthenticated Remote Code Execution – Bricks <= 1.9.6 | https://github.com/Chocapikk/CVE-2024-25600 | | 
+| 20240222T13:34:42Z | CVE-2024-25600 | Unauthenticated Remote Code Execution – Bricks <= 1.9.6 | https://github.com/Chocapikk/CVE-2024-25600 | | 
 | 20240222T10:56:55Z | CVE-2024-25600 | This tool is designed to exploit the CVE-2024-25600 vulnerability found in the Bricks Builder plugin for WordPress. The vulnerability allows for unauthenticated remote code execution on affected websites. The tool automates the exploitation process by retrieving nonces and sending specially crafted requests to execute arbitrary commands. | https://github.com/Tornad0007/CVE-2024-25600-Bricks-Builder-plugin-for-WordPress | | 
 | 20240222T10:44:38Z | CVE-2024-22532 | Null | https://github.com/pwndorei/CVE-2024-22532 | | 
 | 20240222T08:18:48Z | CVE-2024-25270 | for future article of research vulnerability in MIRAPOLIS LMS | https://github.com/fbkcs/CVE-2024-25270 | | 
@@ -121,7 +121,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240222T13:31:38Z | Null | https://github.com/manolina-13/fuzzy-doodle | 0 | 0| 
+| 20240222T13:35:13Z | Null | https://github.com/manolina-13/fuzzy-doodle | 0 | 0| 
 | 20240222T12:54:21Z | This is still in early stages of development. This repo hosts a Python Shiny application designed to enable the user to: use fuzzy logic to see the most relevant matching pairs between two datasets, while also using coordinate points to further determine whether the matching pairs represent the same location. | https://github.com/Assad-AC/Fuzzy-Matching-and-GIS | 0 | 0| 
 | 20240222T12:51:23Z | String matcher to ignore whitespace. | https://github.com/winebarrel/rspec-match_fuzzy | 2 | 1| 
 | 20240222T12:49:50Z | Null | https://github.com/vladdmitrii/fuzzy-sweater | 0 | 0| 
