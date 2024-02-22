@@ -39,6 +39,7 @@
 # s2e on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240222T05:09:20Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 376 | 84| 
 
 
 # exploit on Github 推荐
@@ -67,11 +68,17 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240222T08:03:48Z | A symbolic execution engine for EVM smart contract binaries | https://github.com/ucsb-seclab/greed | 23 | 1| 
+| 20240222T05:09:20Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 376 | 84| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240222T12:38:24Z | Release of the Dataset accompanying the poster at NDSS 2024 | https://github.com/cybergreen-net/Scanner-Dataset-NDSS-Release | 0 | 0| 
+| 20240222T11:56:07Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 138 | 15| 
+| 20240222T08:15:37Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 114 | 6| 
+| 20240222T06:50:14Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 155 | 14| 
 
 
 # fuzz on Github 推荐
