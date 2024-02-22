@@ -121,6 +121,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240222T13:31:38Z | Null | https://github.com/manolina-13/fuzzy-doodle | 0 | 0| 
 | 20240222T12:54:21Z | This is still in early stages of development. This repo hosts a Python Shiny application designed to enable the user to: use fuzzy logic to see the most relevant matching pairs between two datasets, while also using coordinate points to further determine whether the matching pairs represent the same location. | https://github.com/Assad-AC/Fuzzy-Matching-and-GIS | 0 | 0| 
 | 20240222T12:51:23Z | String matcher to ignore whitespace. | https://github.com/winebarrel/rspec-match_fuzzy | 2 | 1| 
 | 20240222T12:49:50Z | Null | https://github.com/vladdmitrii/fuzzy-sweater | 0 | 0| 
@@ -130,7 +131,6 @@
 | 20240222T10:45:18Z | Null | https://github.com/p-warner/fuzz | 0 | 0| 
 | 20240222T02:58:56Z | XNU Image Fuzzer - iOS App for Fuzzing with Objective-C Code covering 12 CGCreateBitmap & CGColorSpace Functions working with Raw Data. | https://github.com/xsscx/xnuimagefuzzer | 13 | 0| 
 | 20240222T02:30:28Z | Null | https://github.com/anandaashish74711/fuzzy-potato | 0 | 0| 
-| 20240222T01:08:11Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 582 | 61| 
 
 
 
