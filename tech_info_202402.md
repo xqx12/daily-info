@@ -63,7 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240222T02:50:22Z | Chrome OS Exploits is an website that has everything you need for unblocking games or proxies or just websites in general! | https://github.com/i8mb/Chrome-OSU | 1 | 1| 
+| 20240222T02:50:57Z | Chrome OS Exploits is an website that has everything you need for unblocking games or proxies or just websites in general! | https://github.com/i8mb/Chrome-OSU | 1 | 1| 
 | 20240222T02:31:28Z | Null | https://github.com/alexchong/exploits | 0 | 0| 
 | 20240222T01:44:13Z | XNU Image Fuzzer - iOS App for Fuzzing with Objective-C Code covering 12 CGCreateBitmap & CGColorSpace Functions working with Raw Data. | https://github.com/xsscx/xnuimagefuzzer | 11 | 0| 
 | 20240222T01:40:49Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5871 | 728| 
