@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240222T01:34:31Z | XNU Image Fuzzer - iOS App for Fuzzing with Objective-C Code covering 12 CGCreateBitmap & CGColorSpace Functions working with Raw Data. | https://github.com/xsscx/xnuimagefuzzer | 10 | 0| 
 | 20240222T00:59:37Z | Null | https://github.com/MihirK21/CyberVulnerabilityExploitation-Ransomware | 0 | 0| 
 | 20240222T00:56:09Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5795 | 1084| 
 | 20240222T00:53:55Z | Null | https://github.com/kevin-9871/ExploitKit | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20240221T18:32:54Z | Ephemeral discourse is embodied by the likes of Messenger Sessions, the digital portraits of Accounts, and the enigmatic Token | https://github.com/Maddataroez/Discord-Image-Logger-Slient-Exploit-Builder-Grabber-Stealer | 0 | 0| 
 | 20240221T18:32:53Z | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/Maddataroez/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 | 20240221T18:32:50Z | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/Maddataroez/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
-| 20240221T18:32:49Z | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/Maddataroez/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -120,16 +120,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240222T01:26:04Z | XNU Image Fuzzer - iOS App for Fuzzing with Objective-C Code covering 12 CGCreateBitmap & CGColorSpace Functions working with Raw Data. | https://github.com/xsscx/xnuimagefuzzer | 10 | 0| 
+| 20240222T01:35:15Z | XNU Image Fuzzer - iOS App for Fuzzing with Objective-C Code covering 12 CGCreateBitmap & CGColorSpace Functions working with Raw Data. | https://github.com/xsscx/xnuimagefuzzer | 10 | 0| 
 | 20240222T01:08:11Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 582 | 60| 
 | 20240222T00:53:37Z | SQL data analysis on an e-commerce business | https://github.com/JuniorNyoumssi/Maven-Fuzzy-facotory | 0 | 0| 
 | 20240222T00:36:06Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52260 | 23164| 
 | 20240221T23:22:33Z | Null | https://github.com/ysraltn/fuzzer | 0 | 0| 
 | 20240221T22:17:39Z | Null | https://github.com/tojoos/fuzzy-queries-kafka | 0 | 0| 
 | 20240221T22:09:21Z | Azərbaycan  | https://github.com/Azerbaijanj/fuzzy-computing-machine | 0 | 0| 
+| 20240221T20:55:15Z | Null | https://github.com/calixo888/prompt-fuzz-testing | 0 | 0| 
 | 20240221T19:58:51Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5162 | 530| 
 | 20240221T13:37:03Z | vscode-fuzzy-yaml-sercher | https://github.com/tamazon/vscode-fuzzy-yaml-searcher | 0 | 0| 
-| 20240221T13:33:13Z | Fuzzing book의 내용을 번역하고, 실습해본 리포지토리 | https://github.com/fault2000/Fuzzing_book | 0 | 0| 
 
 
 
