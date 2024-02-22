@@ -17,13 +17,11 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240221T20:32:42Z | CVE-2023-5204 | AI ChatBot <= 4.8.9 - Unauthenticated SQL Injection via qc_wpbo_search_response | https://github.com/RandomRobbieBF/CVE-2023-5204 | | 
 | 20240221T18:50:05Z | CVE-2024-23897 | Scraping tool to ennumerate directories or files with the CVE-2024-23897 vulnerability in Jenkins. | https://github.com/Nebian/CVE-2024-23897 | | 
 | 20240221T18:32:55Z | Cve-2023- | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Maddataroez/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 | 20240221T18:32:53Z | Cve-2023- | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/Maddataroez/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 | 20240221T18:32:50Z | Cve-2023- | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/Maddataroez/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 | 20240221T18:32:49Z | Cve-2023- | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/Maddataroez/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
-| 20240221T09:58:01Z | CVE-2023-22527 | CVE-2023-22527 内存马注入工具 | https://github.com/Boogipop/CVE-2023-22527-Godzilla-MEMSHELL | | 
 | 20240221T08:19:01Z | CVE-2024-25249 | An issue in He3 App for macOS version 2.0.17, allows remote attackers  to execute arbitrary code via the RunAsNode and  enableNodeClilnspectArguments settings. | https://github.com/intbjw/CVE-2024-25249 | | 
 | 20240221T07:47:16Z | CVE-2021-2394 | Null | https://github.com/fasanhlieu/CVE-2021-2394 | | 
 | 20240221T02:48:08Z | CVE-2024-21413 | Null | https://github.com/Mdusmandasthaheer/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability | | 
