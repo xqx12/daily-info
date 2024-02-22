@@ -64,6 +64,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20240222T01:44:13Z | XNU Image Fuzzer - iOS App for Fuzzing with Objective-C Code covering 12 CGCreateBitmap & CGColorSpace Functions working with Raw Data. | https://github.com/xsscx/xnuimagefuzzer | 11 | 0| 
+| 20240222T01:40:49Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5871 | 728| 
 | 20240222T00:59:37Z | Null | https://github.com/MihirK21/CyberVulnerabilityExploitation-Ransomware | 0 | 0| 
 | 20240222T00:56:09Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5795 | 1084| 
 | 20240222T00:53:55Z | Null | https://github.com/kevin-9871/ExploitKit | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20240221T18:32:55Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Maddataroez/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 | 20240221T18:32:54Z | Ephemeral discourse is embodied by the likes of Messenger Sessions, the digital portraits of Accounts, and the enigmatic Token | https://github.com/Maddataroez/Discord-Image-Logger-Slient-Exploit-Builder-Grabber-Stealer | 0 | 0| 
 | 20240221T18:32:53Z | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/Maddataroez/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
-| 20240221T18:32:50Z | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/Maddataroez/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 
 
 # backdoor on Github 推荐
