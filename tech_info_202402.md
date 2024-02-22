@@ -63,7 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240222T01:34:31Z | XNU Image Fuzzer - iOS App for Fuzzing with Objective-C Code covering 12 CGCreateBitmap & CGColorSpace Functions working with Raw Data. | https://github.com/xsscx/xnuimagefuzzer | 10 | 0| 
+| 20240222T01:35:15Z | XNU Image Fuzzer - iOS App for Fuzzing with Objective-C Code covering 12 CGCreateBitmap & CGColorSpace Functions working with Raw Data. | https://github.com/xsscx/xnuimagefuzzer | 10 | 0| 
 | 20240222T00:59:37Z | Null | https://github.com/MihirK21/CyberVulnerabilityExploitation-Ransomware | 0 | 0| 
 | 20240222T00:56:09Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5795 | 1084| 
 | 20240222T00:53:55Z | Null | https://github.com/kevin-9871/ExploitKit | 0 | 0| 
