@@ -124,7 +124,7 @@
 | 20240222T01:44:13Z | XNU Image Fuzzer - iOS App for Fuzzing with Objective-C Code covering 12 CGCreateBitmap & CGColorSpace Functions working with Raw Data. | https://github.com/xsscx/xnuimagefuzzer | 11 | 0| 
 | 20240222T01:08:11Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 582 | 60| 
 | 20240222T00:53:37Z | SQL data analysis on an e-commerce business | https://github.com/JuniorNyoumssi/Maven-Fuzzy-facotory | 0 | 0| 
-| 20240222T00:36:06Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52260 | 23165| 
+| 20240222T00:36:06Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52260 | 23166| 
 | 20240221T23:22:33Z | Null | https://github.com/ysraltn/fuzzer | 0 | 0| 
 | 20240221T22:17:39Z | Null | https://github.com/tojoos/fuzzy-queries-kafka | 0 | 0| 
 | 20240221T22:09:21Z | Azərbaycan  | https://github.com/Azerbaijanj/fuzzy-computing-machine | 0 | 0| 
