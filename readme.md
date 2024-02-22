@@ -17,6 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240222T13:47:33Z | CVE-2023-5204 | AI ChatBot <= 4.8.9 - Unauthenticated SQL Injection via qc_wpbo_search_response | https://github.com/RandomRobbieBF/CVE-2023-5204 | | 
 | 20240222T13:34:42Z | CVE-2024-25600 | Unauthenticated Remote Code Execution – Bricks <= 1.9.6 | https://github.com/Chocapikk/CVE-2024-25600 | | 
 | 20240222T10:56:55Z | CVE-2024-25600 | This tool is designed to exploit the CVE-2024-25600 vulnerability found in the Bricks Builder plugin for WordPress. The vulnerability allows for unauthenticated remote code execution on affected websites. The tool automates the exploitation process by retrieving nonces and sending specially crafted requests to execute arbitrary commands. | https://github.com/Tornad0007/CVE-2024-25600-Bricks-Builder-plugin-for-WordPress | | 
 | 20240222T10:44:38Z | CVE-2024-22532 | Null | https://github.com/pwndorei/CVE-2024-22532 | | 
@@ -24,7 +25,6 @@
 | 20240222T07:36:56Z | CVE-2023-22527 | CVE-2023-22527 内存马注入工具 | https://github.com/Boogipop/CVE-2023-22527-Godzilla-MEMSHELL | | 
 | 20240222T02:56:27Z | CVE-2023-38646 | Exploit for the Remote Code Execution (RCE) vulnerability identified in Metabase versions before 0.46.6.1 (open source) and 1.46.6.1 (Enterprise). Authentication is not required for exploitation. | https://github.com/UserConnecting/Exploit-CVE-2023-38646-Metabase | | 
 | 20240222T02:21:11Z | CVE-2024-25600 | Nuclei template and information about the POC for CVE-2024-25600 | https://github.com/Christbowel/CVE-2024-25600_Nuclei-Template | | 
-| 20240222T01:42:42Z | CVE-2023-5204 | AI ChatBot <= 4.8.9 - Unauthenticated SQL Injection via qc_wpbo_search_response | https://github.com/RandomRobbieBF/CVE-2023-5204 | | 
 | 20240222T00:07:19Z | CVE-2020-3580 | Additional exploits for XSS in Cisco ASA devices discovered by @Pwn0sec | https://github.com/imhunterand/CVE-2020-3580 | | 
 
 
