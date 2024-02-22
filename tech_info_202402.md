@@ -120,6 +120,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240222T02:30:28Z | Null | https://github.com/anandaashish74711/fuzzy-potato | 0 | 0| 
 | 20240222T01:44:13Z | XNU Image Fuzzer - iOS App for Fuzzing with Objective-C Code covering 12 CGCreateBitmap & CGColorSpace Functions working with Raw Data. | https://github.com/xsscx/xnuimagefuzzer | 11 | 0| 
 | 20240222T01:08:11Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 582 | 60| 
 | 20240222T00:53:37Z | SQL data analysis on an e-commerce business | https://github.com/JuniorNyoumssi/Maven-Fuzzy-facotory | 0 | 0| 
@@ -129,7 +130,6 @@
 | 20240221T22:09:21Z | Azərbaycan  | https://github.com/Azerbaijanj/fuzzy-computing-machine | 0 | 0| 
 | 20240221T20:55:15Z | Null | https://github.com/calixo888/prompt-fuzz-testing | 0 | 0| 
 | 20240221T19:58:51Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5162 | 530| 
-| 20240221T13:37:03Z | vscode-fuzzy-yaml-sercher | https://github.com/tamazon/vscode-fuzzy-yaml-searcher | 0 | 0| 
 
 
 
