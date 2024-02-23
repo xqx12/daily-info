@@ -33,6 +33,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240223T13:48:29Z | An open-source font for Unified Ideographic Extension derived from Fontworks% Klee One. | https://github.com/Des-Magmeta/PlanKai | 10 | 0| 
 | 20240223T03:47:01Z |  This Master%s Software Engineering project repository focuses on utilizing LLVM to develop tools for program testing and range validation. It includes an implementation of KLEE for automatic test generation and LLVM-based tools for C++ vector and memory range checking, promoting software safety and quality. | https://github.com/timhwang777/llvm-ecs260 | 1 | 0| 
 
 

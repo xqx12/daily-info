@@ -41,6 +41,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240223T13:48:29Z | An open-source font for Unified Ideographic Extension derived from Fontworks% Klee One. | https://github.com/Des-Magmeta/PlanKai | 10 | 0| 
 | 20240223T03:47:01Z |  This Master%s Software Engineering project repository focuses on utilizing LLVM to develop tools for program testing and range validation. It includes an implementation of KLEE for automatic test generation and LLVM-based tools for C++ vector and memory range checking, promoting software safety and quality. | https://github.com/timhwang777/llvm-ecs260 | 1 | 0| 
 | 20240222T10:04:58Z | a CJK font based on Klee One, LXGW Wenkai, Iansui, Jyunsaikaai, and Plan Kai. | https://github.com/Des-Magmeta/Astgene | 0 | 0| 
 | 20240222T09:02:04Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 456 | 9| 
@@ -50,7 +51,6 @@
 | 20240220T14:24:00Z | 1 | https://github.com/Klee203/Klee2031 | 0 | 0| 
 | 20240220T05:26:09Z | Null | https://github.com/kleemproductions/kleemproductions.github.io | 0 | 0| 
 | 20240219T13:09:31Z | Null | https://github.com/opqe31/kleeaio | 0 | 0| 
-| 20240219T13:05:21Z | Null | https://github.com/opqe31/kleeutility | 0 | 0| 
 
 
 # s2e on Github 推荐
