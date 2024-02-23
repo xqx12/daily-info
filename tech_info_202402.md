@@ -121,6 +121,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240223T02:27:19Z | A MakeCode project | https://github.com/nutcracker42359/fuzzy | 0 | 0| 
 | 20240223T01:11:12Z | UPN Veteran Jatim , Aquaponic pH Control-Monitoring with Type-2 Fuzzy Method Based on IoT Bot , S1 Thesis Project | https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot | 2 | 0| 
 | 20240223T00:25:35Z | XNU Image Fuzzer - iOS App for Fuzzing with Objective-C Code covering 12 CGCreateBitmap & CGColorSpace Functions working with Raw Data. | https://github.com/xsscx/xnuimagefuzzer | 16 | 0| 
 | 20240223T00:23:54Z | Null | https://github.com/wauwau1crook/fuzzy-sweater | 0 | 0| 
@@ -130,7 +131,6 @@
 | 20240222T22:00:03Z | Null | https://github.com/tyt34ruscu/fuzzy-moon | 0 | 0| 
 | 20240222T20:25:57Z | Null | https://github.com/thnikk/fuzzel-scripts | 0 | 0| 
 | 20240222T13:35:13Z | Null | https://github.com/manolina-13/fuzzy-doodle | 0 | 0| 
-| 20240222T12:54:21Z | This is still in early stages of development. This repo hosts a Python Shiny application designed to enable the user to: use fuzzy logic to see the most relevant matching pairs between two datasets, while also using coordinate points to further determine whether the matching pairs represent the same location. | https://github.com/Assad-AC/Fuzzy-Matching-and-GIS | 0 | 0| 
 
 
 
