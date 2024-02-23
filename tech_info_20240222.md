@@ -50,6 +50,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20240222T23:16:02Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5877 | 734| 
+| 20240222T15:27:24Z | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | 5841 | 778| 
 | 20240222T13:17:46Z | A Python package for tracking IP addresses and their locations. | https://github.com/Ishanoshada/iptracker | 1 | 0| 
 | 20240222T13:03:42Z | Null | https://github.com/sebelino-karolinska-threat-agent/exploit | 0 | 0| 
 | 20240222T02:56:27Z | Exploit for the Remote Code Execution (RCE) vulnerability identified in Metabase versions before 0.46.6.1 (open source) and 1.46.6.1 (Enterprise). Authentication is not required for exploitation. | https://github.com/UserConnecting/Exploit-CVE-2023-38646-Metabase | 0 | 0| 
