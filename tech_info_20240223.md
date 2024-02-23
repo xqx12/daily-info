@@ -53,7 +53,7 @@
 | 20240223T11:51:47Z | External cheat for Rainbow Six Siege offering ESP, aimbot, and various tactical advantages. | https://github.com/Makarax2/Klar-gg-Rainbow-Six-Siege-RS6-Esp-NoRroil-Hwid-Spoofer-Exploit | 0 | 0| 
 | 20240223T11:51:41Z | Developed for Escape From Tarkov and written in C++ and C#. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/Makarax2/Escape-From-Tarkov-Eft-Aimbot-esp-Loots-Exploits-Max-Skills-High-Jump | 0 | 0| 
 | 20240223T11:49:57Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5798 | 1086| 
-| 20240223T03:01:29Z | A Golang library for interacting with the EPSS (Exploit Prediction Scoring System). | https://github.com/KaanSK/go-epss | 8 | 0| 
+| 20240223T07:41:23Z | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | 6289 | 710| 
 
 
 # backdoor on Github 推荐
