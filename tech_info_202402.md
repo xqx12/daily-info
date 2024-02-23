@@ -78,6 +78,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240223T01:16:05Z | VenomControl Rat is a Remote Access Tool (RAT) designed to remotely monitor and control other computers through a secure encrypted connection | https://github.com/Tikosktaki/VenomControl-Rat-Crack-Source | 1 | 0| 
 | 20240222T14:47:28Z | Null | https://github.com/SJTUHaiyangYu/BackdoorMMT | 0 | 0| 
 | 20240222T11:54:08Z | Backdoor Proj | https://github.com/MrKLD00/OpenBackdoor | 0 | 0| 
 | 20240222T11:02:30Z | Null | https://github.com/SotivoldiyevSuhrobjon/backdoor | 0 | 0| 
@@ -87,7 +88,6 @@
 | 20240221T18:32:52Z | Remote Administration Either you are a private user wanting to control your PC from afar, or a big company which wants to administrate hundreds of machines from a single computer, | https://github.com/Maddataroez/ICARUS-NET2-NET4-BAT-VBS-VBA-HVNC-BINDER-PHP-FTPLOGS-RECOVERY-KEYLOG-WEBGL-ROOKIT | 0 | 1| 
 | 20240221T18:32:51Z | The S-500 G2 Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/Maddataroez/S500-RAT-HVNC-HAPP-HIdden-BROWSER-HRDP-REVERSE-PROXY-CRYPTO-MONITOR | 0 | 1| 
 | 20240221T08:22:53Z | VenomControl Rat is a Remote Access Tool (RAT) designed to remotely monitor and control other computers through a secure encrypted connection | https://github.com/MastersTms/VenomControl-Rat-Crack-Source | 0 | 1| 
-| 20240221T04:22:19Z | Null | https://github.com/ruyue0001/Backdoor_DPR | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
