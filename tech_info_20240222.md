@@ -74,6 +74,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240222T23:23:15Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 512 | 45| 
+| 20240222T18:47:35Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 281 | 37| 
 | 20240222T08:03:48Z | A symbolic execution engine for EVM smart contract binaries | https://github.com/ucsb-seclab/greed | 23 | 1| 
 | 20240222T05:09:20Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 376 | 84| 
 
