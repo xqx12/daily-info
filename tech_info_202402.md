@@ -65,6 +65,7 @@
 | --- | --- | --- | --- | ---| 
 | 20240223T00:54:34Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5796 | 1086| 
 | 20240223T00:25:35Z | XNU Image Fuzzer - iOS App for Fuzzing with Objective-C Code covering 12 CGCreateBitmap & CGColorSpace Functions working with Raw Data. | https://github.com/xsscx/xnuimagefuzzer | 16 | 0| 
+| 20240222T16:38:47Z | 550+ UNRESTRICTED unblockers, games, cheats, exploits, AI, bypasses, and social media | https://github.com/wea-f/ByePassHub | 18 | 15| 
 | 20240222T13:17:46Z | A Python package for tracking IP addresses and their locations. | https://github.com/Ishanoshada/iptracker | 1 | 0| 
 | 20240222T13:03:42Z | Null | https://github.com/sebelino-karolinska-threat-agent/exploit | 0 | 0| 
 | 20240222T02:56:27Z | Exploit for the Remote Code Execution (RCE) vulnerability identified in Metabase versions before 0.46.6.1 (open source) and 1.46.6.1 (Enterprise). Authentication is not required for exploitation. | https://github.com/UserConnecting/Exploit-CVE-2023-38646-Metabase | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20240222T02:31:28Z | Null | https://github.com/alexchong/exploits | 0 | 0| 
 | 20240222T01:40:49Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5871 | 728| 
 | 20240222T00:59:37Z | Null | https://github.com/MihirK21/CyberVulnerabilityExploitation-Ransomware | 0 | 0| 
-| 20240222T00:53:55Z | Null | https://github.com/kevin-9871/ExploitKit | 0 | 0| 
 
 
 # backdoor on Github 推荐
