@@ -63,12 +63,12 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240223T02:25:01Z | 550+ UNRESTRICTED unblockers, games, cheats, exploits, AI, bypasses, and social media | https://github.com/wea-f/ByePassHub | 19 | 15| 
 | 20240223T02:11:36Z | Protects server from godmode exploit (changing team) | https://github.com/daffyyyy/CS2-FixGodExploit | 3 | 0| 
 | 20240223T02:08:41Z | Auth Hero is a complete login system using credentials and OAuth providers developed with React, Typescript, Next.js, ShadCN/UI, Tailwind CSS, Prisma, PostgreSQL, Node.js, Zod, React Hook Form and Vercel. This project was developed with the aim of exploiting and taking full advantage of the resources provided by the Auth.js library. | https://github.com/luffyui/auth-hero | 0 | 0| 
 | 20240223T00:54:34Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5796 | 1086| 
 | 20240223T00:25:35Z | XNU Image Fuzzer - iOS App for Fuzzing with Objective-C Code covering 12 CGCreateBitmap & CGColorSpace Functions working with Raw Data. | https://github.com/xsscx/xnuimagefuzzer | 16 | 0| 
 | 20240222T23:16:02Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5877 | 734| 
-| 20240222T16:38:47Z | 550+ UNRESTRICTED unblockers, games, cheats, exploits, AI, bypasses, and social media | https://github.com/wea-f/ByePassHub | 18 | 15| 
 | 20240222T13:17:46Z | A Python package for tracking IP addresses and their locations. | https://github.com/Ishanoshada/iptracker | 1 | 0| 
 | 20240222T13:03:42Z | Null | https://github.com/sebelino-karolinska-threat-agent/exploit | 0 | 0| 
 | 20240222T02:56:27Z | Exploit for the Remote Code Execution (RCE) vulnerability identified in Metabase versions before 0.46.6.1 (open source) and 1.46.6.1 (Enterprise). Authentication is not required for exploitation. | https://github.com/UserConnecting/Exploit-CVE-2023-38646-Metabase | 0 | 0| 
