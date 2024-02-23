@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240223T02:03:56Z | CVE-2024-21413 | CVE-2024-21413 PoC for THM Lab | https://github.com/CMNatic/CVE-2024-21413 | | 
 | 20240223T01:51:34Z | CVE-2024-25600 | Unauthenticated Remote Code Execution – Bricks <= 1.9.6 | https://github.com/Chocapikk/CVE-2024-25600 | | 
 | 20240222T21:18:00Z | Cve-2023- | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/ek3nk4r/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 | 20240222T21:17:59Z | Cve-2023- | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/ek3nk4r/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
@@ -35,7 +36,6 @@
 | 20240222T16:30:56Z | CVE-2022-33891 | A PoC exploit for CVE-2022-33891 - Apache Spark UI Remote Code Execution (RCE) | https://github.com/K3ysTr0K3R/CVE-2022-33891-EXPLOIT | | 
 | 20240222T16:26:58Z | CVE-2023-51409 | AI Engine: ChatGPT Chatbot <= 1.9.98 - Unauthenticated Arbitrary File Upload via rest_upload | https://github.com/RandomRobbieBF/CVE-2023-51409 | | 
 | 20240222T13:47:33Z | CVE-2023-5204 | AI ChatBot <= 4.8.9 - Unauthenticated SQL Injection via qc_wpbo_search_response | https://github.com/RandomRobbieBF/CVE-2023-5204 | | 
-| 20240222T10:56:55Z | CVE-2024-25600 | This tool is designed to exploit the CVE-2024-25600 vulnerability found in the Bricks Builder plugin for WordPress. The vulnerability allows for unauthenticated remote code execution on affected websites. The tool automates the exploitation process by retrieving nonces and sending specially crafted requests to execute arbitrary commands. | https://github.com/Tornad0007/CVE-2024-25600-Bricks-Builder-plugin-for-WordPress | | 
 
 
 # klee on Github 推荐
