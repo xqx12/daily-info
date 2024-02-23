@@ -26,7 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240222T23:04:00Z | CVE-2024-25600 | Unauthenticated Remote Code Execution – Bricks <= 1.9.6 | https://github.com/Chocapikk/CVE-2024-25600 | | 
+| 20240223T01:05:24Z | CVE-2024-25600 | Unauthenticated Remote Code Execution – Bricks <= 1.9.6 | https://github.com/Chocapikk/CVE-2024-25600 | | 
 | 20240222T21:18:00Z | Cve-2023- | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/ek3nk4r/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 | 20240222T21:17:59Z | Cve-2023- | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/ek3nk4r/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 | 20240222T21:17:59Z | Cve-2023- | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/ek3nk4r/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
@@ -64,12 +64,12 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20240223T00:54:34Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5796 | 1086| 
+| 20240223T00:25:35Z | XNU Image Fuzzer - iOS App for Fuzzing with Objective-C Code covering 12 CGCreateBitmap & CGColorSpace Functions working with Raw Data. | https://github.com/xsscx/xnuimagefuzzer | 16 | 0| 
 | 20240222T13:17:46Z | A Python package for tracking IP addresses and their locations. | https://github.com/Ishanoshada/iptracker | 1 | 0| 
 | 20240222T13:03:42Z | Null | https://github.com/sebelino-karolinska-threat-agent/exploit | 0 | 0| 
 | 20240222T02:56:27Z | Exploit for the Remote Code Execution (RCE) vulnerability identified in Metabase versions before 0.46.6.1 (open source) and 1.46.6.1 (Enterprise). Authentication is not required for exploitation. | https://github.com/UserConnecting/Exploit-CVE-2023-38646-Metabase | 0 | 0| 
 | 20240222T02:50:57Z | Chrome OS Exploits is an website that has everything you need for unblocking games or proxies or just websites in general! | https://github.com/i8mb/Chrome-OSU | 1 | 1| 
 | 20240222T02:31:28Z | Null | https://github.com/alexchong/exploits | 0 | 0| 
-| 20240222T01:44:13Z | XNU Image Fuzzer - iOS App for Fuzzing with Objective-C Code covering 12 CGCreateBitmap & CGColorSpace Functions working with Raw Data. | https://github.com/xsscx/xnuimagefuzzer | 11 | 0| 
 | 20240222T01:40:49Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5871 | 728| 
 | 20240222T00:59:37Z | Null | https://github.com/MihirK21/CyberVulnerabilityExploitation-Ransomware | 0 | 0| 
 | 20240222T00:53:55Z | Null | https://github.com/kevin-9871/ExploitKit | 0 | 0| 
@@ -121,6 +121,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240223T01:02:38Z | UPN Veteran Jatim , Aquaponic pH Control-Monitoring with Type-2 Fuzzy Method Based on IoT Bot , S1 Thesis Project | https://github.com/devancakra/Aquaponic-pH-Control-Monitoring-with-Type-2-Fuzzy-Method-Based-on-IoT-Bot | 2 | 0| 
 | 20240223T00:25:35Z | XNU Image Fuzzer - iOS App for Fuzzing with Objective-C Code covering 12 CGCreateBitmap & CGColorSpace Functions working with Raw Data. | https://github.com/xsscx/xnuimagefuzzer | 16 | 0| 
 | 20240223T00:23:54Z | Null | https://github.com/wauwau1crook/fuzzy-sweater | 0 | 0| 
 | 20240222T23:42:05Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52278 | 23168| 
@@ -130,7 +131,6 @@
 | 20240222T20:25:57Z | Null | https://github.com/thnikk/fuzzel-scripts | 0 | 0| 
 | 20240222T13:35:13Z | Null | https://github.com/manolina-13/fuzzy-doodle | 0 | 0| 
 | 20240222T12:54:21Z | This is still in early stages of development. This repo hosts a Python Shiny application designed to enable the user to: use fuzzy logic to see the most relevant matching pairs between two datasets, while also using coordinate points to further determine whether the matching pairs represent the same location. | https://github.com/Assad-AC/Fuzzy-Matching-and-GIS | 0 | 0| 
-| 20240222T12:51:23Z | String matcher to ignore whitespace. | https://github.com/winebarrel/rspec-match_fuzzy | 2 | 1| 
 
 
 

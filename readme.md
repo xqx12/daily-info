@@ -19,7 +19,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240222T23:04:00Z | CVE-2024-25600 | Unauthenticated Remote Code Execution – Bricks <= 1.9.6 | https://github.com/Chocapikk/CVE-2024-25600 | | 
 | 20240222T21:18:00Z | Cve-2023- | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/ek3nk4r/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 | 20240222T21:17:59Z | Cve-2023- | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/ek3nk4r/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 | 20240222T21:17:59Z | Cve-2023- | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/ek3nk4r/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
@@ -29,6 +28,7 @@
 | 20240222T16:26:58Z | CVE-2023-51409 | AI Engine: ChatGPT Chatbot <= 1.9.98 - Unauthenticated Arbitrary File Upload via rest_upload | https://github.com/RandomRobbieBF/CVE-2023-51409 | | 
 | 20240222T13:47:33Z | CVE-2023-5204 | AI ChatBot <= 4.8.9 - Unauthenticated SQL Injection via qc_wpbo_search_response | https://github.com/RandomRobbieBF/CVE-2023-5204 | | 
 | 20240222T10:56:55Z | CVE-2024-25600 | This tool is designed to exploit the CVE-2024-25600 vulnerability found in the Bricks Builder plugin for WordPress. The vulnerability allows for unauthenticated remote code execution on affected websites. The tool automates the exploitation process by retrieving nonces and sending specially crafted requests to execute arbitrary commands. | https://github.com/Tornad0007/CVE-2024-25600-Bricks-Builder-plugin-for-WordPress | | 
+| 20240222T10:44:38Z | CVE-2024-22532 | Null | https://github.com/pwndorei/CVE-2024-22532 | | 
 
 
 # klee on Github 推荐
@@ -54,7 +54,6 @@
 | 20240222T02:56:27Z | Exploit for the Remote Code Execution (RCE) vulnerability identified in Metabase versions before 0.46.6.1 (open source) and 1.46.6.1 (Enterprise). Authentication is not required for exploitation. | https://github.com/UserConnecting/Exploit-CVE-2023-38646-Metabase | 0 | 0| 
 | 20240222T02:50:57Z | Chrome OS Exploits is an website that has everything you need for unblocking games or proxies or just websites in general! | https://github.com/i8mb/Chrome-OSU | 1 | 1| 
 | 20240222T02:31:28Z | Null | https://github.com/alexchong/exploits | 0 | 0| 
-| 20240222T01:44:13Z | XNU Image Fuzzer - iOS App for Fuzzing with Objective-C Code covering 12 CGCreateBitmap & CGColorSpace Functions working with Raw Data. | https://github.com/xsscx/xnuimagefuzzer | 11 | 0| 
 | 20240222T01:40:49Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5871 | 728| 
 | 20240222T00:59:37Z | Null | https://github.com/MihirK21/CyberVulnerabilityExploitation-Ransomware | 0 | 0| 
 | 20240222T00:53:55Z | Null | https://github.com/kevin-9871/ExploitKit | 0 | 0| 
