@@ -72,7 +72,7 @@
 | 20240224T00:22:34Z | создан | https://github.com/Firsweb3/exploit-cross-platform-experiences | 0 | 0| 
 | 20240223T23:05:08Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5878 | 734| 
 | 20240223T21:11:29Z | Null | https://github.com/ssikja/exploit | 0 | 0| 
-| 20240223T15:46:21Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 258 | 20| 
+| 20240223T19:43:16Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3862 | 553| 
 
 
 # backdoor on Github 推荐
