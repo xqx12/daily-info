@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240224T01:04:42Z | A python program that%s make a discord bot get a animated profile discord | https://github.com/TheCuteOwl/discord-bot-animated-pfp | 7 | 5| 
 | 20240224T00:22:34Z | создан | https://github.com/Firsweb3/exploit-cross-platform-experiences | 0 | 0| 
 | 20240223T21:11:29Z | Null | https://github.com/ssikja/exploit | 0 | 0| 
 | 20240223T16:48:16Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5796 | 1086| 
@@ -72,7 +73,6 @@
 | 20240223T12:39:20Z | Ephemeral discourse is embodied by the likes of Messenger Sessions, the digital portraits of Accounts, and the enigmatic Token | https://github.com/Twroza2/Discord-Image-Logger-Slient-Exploit-Builder-Grabber-Stealer | 0 | 0| 
 | 20240223T12:39:19Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Twroza2/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 | 20240223T12:39:17Z | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/Twroza2/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
-| 20240223T11:51:47Z | External cheat for Rainbow Six Siege offering ESP, aimbot, and various tactical advantages. | https://github.com/Makarax2/Klar-gg-Rainbow-Six-Siege-RS6-Esp-NoRroil-Hwid-Spoofer-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
