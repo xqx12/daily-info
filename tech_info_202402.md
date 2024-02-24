@@ -121,6 +121,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240224T13:44:42Z | recon formatter | https://github.com/Majestic9169/fuzzy-chainsaw | 0 | 0| 
 | 20240224T13:02:32Z | Fuzz action for tree-sitter parsers | https://github.com/tree-sitter/fuzz-action | 0 | 0| 
 | 20240224T12:25:33Z | Null | https://github.com/viktor992/fuzzy-octo-parakeet | 0 | 0| 
 | 20240224T10:55:52Z | Null | https://github.com/0xe6e6fa/fuzzy-sniffle | 0 | 0| 
@@ -130,7 +131,6 @@
 | 20240224T02:30:52Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52300 | 23171| 
 | 20240224T01:39:22Z | Null | https://github.com/fuzzpots/fuzzpots.github.io | 0 | 0| 
 | 20240223T23:28:11Z | Null | https://github.com/aleksandraStasa/fuzzy-invention | 0 | 0| 
-| 20240223T22:25:35Z | Null | https://github.com/KaminariOS/fuzzing-libarchive | 0 | 0| 
 
 
 

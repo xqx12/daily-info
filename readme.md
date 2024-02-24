@@ -74,6 +74,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240224T13:44:42Z | recon formatter | https://github.com/Majestic9169/fuzzy-chainsaw | 0 | 0| 
 | 20240224T13:02:32Z | Fuzz action for tree-sitter parsers | https://github.com/tree-sitter/fuzz-action | 0 | 0| 
 | 20240224T12:25:33Z | Null | https://github.com/viktor992/fuzzy-octo-parakeet | 0 | 0| 
 | 20240224T10:55:52Z | Null | https://github.com/0xe6e6fa/fuzzy-sniffle | 0 | 0| 
