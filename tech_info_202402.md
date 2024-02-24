@@ -65,6 +65,7 @@
 | --- | --- | --- | --- | ---| 
 | 20240224T01:04:42Z | A python program that%s make a discord bot get a animated profile discord | https://github.com/TheCuteOwl/discord-bot-animated-pfp | 7 | 5| 
 | 20240224T00:22:34Z | создан | https://github.com/Firsweb3/exploit-cross-platform-experiences | 0 | 0| 
+| 20240223T23:05:08Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5878 | 734| 
 | 20240223T21:11:29Z | Null | https://github.com/ssikja/exploit | 0 | 0| 
 | 20240223T16:48:16Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5796 | 1086| 
 | 20240223T15:46:21Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 258 | 20| 
@@ -72,7 +73,6 @@
 | 20240223T12:39:22Z | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/Twroza2/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 | 20240223T12:39:21Z | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/Twroza2/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 | 20240223T12:39:20Z | Ephemeral discourse is embodied by the likes of Messenger Sessions, the digital portraits of Accounts, and the enigmatic Token | https://github.com/Twroza2/Discord-Image-Logger-Slient-Exploit-Builder-Grabber-Stealer | 0 | 0| 
-| 20240223T12:39:19Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Twroza2/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 
 
 # backdoor on Github 推荐
