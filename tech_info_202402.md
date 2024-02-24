@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240224T13:41:41Z | demo flask app to demonstrate reverse shell and exploit s3 data | https://github.com/AmitKulkarni9/flask-app-reverse-shell-s3 | 0 | 0| 
 | 20240224T13:28:50Z | Scripts for discord | https://github.com/TarBabyOnTop/Discord-Console-Hacks | 0 | 0| 
 | 20240224T13:26:30Z | Null | https://github.com/nickespro1305/ExploitHub | 0 | 0| 
 | 20240224T13:04:07Z | CVE-2024-21887 Exploitation with Ngrok Reverse Shell | https://github.com/pwniel/ivanti_shell | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20240224T08:24:06Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5797 | 1086| 
 | 20240224T01:04:42Z | A python program that%s make a discord bot get a animated profile discord | https://github.com/TheCuteOwl/discord-bot-animated-pfp | 7 | 5| 
 | 20240224T00:22:34Z | создан | https://github.com/Firsweb3/exploit-cross-platform-experiences | 0 | 0| 
-| 20240223T23:05:08Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5878 | 734| 
 
 
 # backdoor on Github 推荐
@@ -101,7 +101,7 @@
 | 20240221T06:11:07Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 225 | 22| 
 | 20240220T08:37:30Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 518 | 34| 
 | 20240218T19:50:03Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 596 | 40| 
-| 20240218T17:16:01Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2415 | 644| 
+| 20240218T17:16:01Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2415 | 645| 
 | 20240214T03:12:38Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 54 | 9| 
 
 
