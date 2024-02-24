@@ -26,10 +26,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240224T02:02:42Z | CVE-2024-1651 | Torrentpier v2.4.1. CVE-2024-1651. Remote Code Execution (RCE). | https://github.com/sharpicx/CVE-2024-1651-PoC | | 
 | 20240223T22:56:25Z | CVE-2024-21413 | CVE-2024-21413 PoC for THM Lab | https://github.com/CMNatic/CVE-2024-21413 | | 
 | 20240223T22:24:42Z | CVE-2024-25600 | Unauthenticated Remote Code Execution – Bricks <= 1.9.6 | https://github.com/Chocapikk/CVE-2024-25600 | | 
 | 20240223T17:37:20Z | CVE-2024-1709 | A Scanner for CVE-2024-1709 - ConnectWise SecureConnect Authentication Bypass Vulnerability | https://github.com/HussainFathy/CVE-2024-1709 | | 
-| 20240223T15:41:25Z | CVE-2024-1651 | Torrentpier v2.4.1. CVE-2024-1651. Remote Code Execution (RCE). | https://github.com/sharpicx/CVE-2024-1651-PoC | | 
 | 20240223T15:35:05Z | CVE-2020-36730 | CMP - Coming Soon & Maintenance < 3.8.2 - Improper Access Controls on AJAX Calls (Subscriber+) | https://github.com/RandomRobbieBF/CVE-2020-36730 | | 
 | 20240223T12:39:22Z | Cve-2023- | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/Twroza2/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 | 20240223T12:39:21Z | Cve-2023- | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/Twroza2/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
