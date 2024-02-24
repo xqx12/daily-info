@@ -41,6 +41,7 @@
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240224T01:19:58Z | The famous algorithm was created to generate the Kleene lock, in such a way that the user specifies the number of words that will be needed, the words it will have, and the level of lock that is desired. | https://github.com/JIQC15/CerraduraKleene | 0 | 0| 
 | 20240223T20:31:10Z | 1 | https://github.com/Klee203/Klee2031 | 0 | 0| 
 | 20240223T13:48:29Z | An open-source font for Unified Ideographic Extension derived from Fontworks% Klee One. | https://github.com/Des-Magmeta/PlanKai | 10 | 0| 
 | 20240223T03:47:01Z |  This Master%s Software Engineering project repository focuses on utilizing LLVM to develop tools for program testing and range validation. It includes an implementation of KLEE for automatic test generation and LLVM-based tools for C++ vector and memory range checking, promoting software safety and quality. | https://github.com/timhwang777/llvm-ecs260 | 1 | 0| 
@@ -50,7 +51,6 @@
 | 20240222T03:55:57Z | Null | https://github.com/HuyDeveloper/KLEE_Simple | 0 | 0| 
 | 20240221T02:38:07Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 33 | 2| 
 | 20240220T05:26:09Z | Null | https://github.com/kleemproductions/kleemproductions.github.io | 0 | 0| 
-| 20240219T13:09:31Z | Null | https://github.com/opqe31/kleeaio | 0 | 0| 
 
 
 # s2e on Github 推荐
