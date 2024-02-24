@@ -39,7 +39,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240224T12:55:43Z | CVE-2024-21887 Exploitation with Ngrok Reverse Shell | https://github.com/pwniel/ivanti_shell | 0 | 0| 
+| 20240224T13:04:07Z | CVE-2024-21887 Exploitation with Ngrok Reverse Shell | https://github.com/pwniel/ivanti_shell | 0 | 0| 
 | 20240224T11:46:30Z | Experience the future of Roblox exploiting with Nezur Roblox Hack, offering a safe and comprehensive suite of cheats including ESP, Aimbot, and more. | https://github.com/wiederholtzmotogp/Nezur | 2 | 0| 
 | 20240224T11:43:05Z | Null | https://github.com/bamlightutool/SILENT-EXCEL-XLS-EXPLOIT-CLEAN | 1 | 0| 
 | 20240224T11:33:21Z | Null | https://github.com/bamlightutool/-SILENT-PDF-EXPLOIT-CLEAN | 1 | 0| 
@@ -71,10 +71,10 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240224T13:02:32Z | Fuzz action for tree-sitter parsers | https://github.com/tree-sitter/fuzz-action | 0 | 0| 
 | 20240224T12:25:33Z | Null | https://github.com/viktor992/fuzzy-octo-parakeet | 0 | 0| 
 | 20240224T10:55:52Z | Null | https://github.com/0xe6e6fa/fuzzy-sniffle | 0 | 0| 
 | 20240224T10:15:02Z | main website | https://github.com/intuitem/fuzzy-octo-invention | 0 | 0| 
-| 20240224T10:07:39Z | Fuzz Action for tree-sitter grammars | https://github.com/tree-sitter/fuzz-action | 0 | 0| 
 | 20240224T07:53:47Z | CMPUT 656 Term project | https://github.com/alex-l-f/Evaluating-Knowledge-Fusion-and-Reasoning-on-Fuzzy-Knowledge-Graphs | 0 | 0| 
 | 20240224T06:58:46Z | Null | https://github.com/ahmadara/Fuzzy-Classification-with-python | 0 | 0| 
 | 20240224T02:30:52Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52300 | 23171| 
