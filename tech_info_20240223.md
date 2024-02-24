@@ -49,6 +49,7 @@
 | --- | --- | --- | --- | ---| 
 | 20240223T21:11:29Z | Null | https://github.com/ssikja/exploit | 0 | 0| 
 | 20240223T16:48:16Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5796 | 1086| 
+| 20240223T15:46:21Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 258 | 20| 
 | 20240223T13:18:22Z | Unlock the essence of Porsche greatness with this comprehensive database, encompassing customer profiles, dealership details, sales transactions, racing exploits, R&D projects, and the brilliance of Porsche employees and vehicles. | https://github.com/iiiiOreo/SQL-PORSCHE-DATABASE | 0 | 0| 
 | 20240223T12:39:22Z | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/Twroza2/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 | 20240223T12:39:21Z | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/Twroza2/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
@@ -56,7 +57,6 @@
 | 20240223T12:39:19Z | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Twroza2/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 | 20240223T12:39:17Z | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/Twroza2/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | 0 | 0| 
 | 20240223T11:51:47Z | External cheat for Rainbow Six Siege offering ESP, aimbot, and various tactical advantages. | https://github.com/Makarax2/Klar-gg-Rainbow-Six-Siege-RS6-Esp-NoRroil-Hwid-Spoofer-Exploit | 0 | 0| 
-| 20240223T11:51:41Z | Developed for Escape From Tarkov and written in C++ and C#. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/Makarax2/Escape-From-Tarkov-Eft-Aimbot-esp-Loots-Exploits-Max-Skills-High-Jump | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -91,12 +91,12 @@
 | 20240223T22:26:46Z | main website | https://github.com/intuitem/fuzzy-octo-invention | 0 | 0| 
 | 20240223T22:25:35Z | Null | https://github.com/KaminariOS/fuzzing-libarchive | 0 | 0| 
 | 20240223T18:14:30Z | Null | https://github.com/google/fuzztest | 558 | 51| 
+| 20240223T18:10:46Z | Differential testing and fuzzing of HTTP servers and proxies | https://github.com/narfindustries/http-garden | 509 | 49| 
 | 20240223T15:42:02Z | Scalable fuzzing infrastructure. | https://github.com/google/clusterfuzz | 5162 | 530| 
 | 20240223T12:27:55Z | Null | https://github.com/uvso7p57/fuzzy-adventure | 0 | 0| 
 | 20240223T11:27:43Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1777 | 267| 
 | 20240223T10:42:17Z | Null | https://github.com/0xr2r/WordList-Fuzz | 0 | 0| 
 | 20240223T02:52:38Z | Null | https://github.com/retguard/fuzzy-octo-disco | 0 | 0| 
-| 20240223T02:27:19Z | A MakeCode project | https://github.com/nutcracker42359/fuzzy | 0 | 0| 
 
 
 
