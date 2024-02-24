@@ -78,6 +78,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240224T02:35:22Z | LKM that provides remote backdoor using netfilters, file and pid hiding | https://github.com/whirIpool/rk | 2 | 1| 
 | 20240223T22:13:22Z | My take on a backdoor written entirely in python | https://github.com/maxbarkouras/Python-C2 | 0 | 0| 
 | 20240223T19:13:49Z | Backdoor adalah skrip atau kode yang disisipkan sengaja dalam sistem untuk memberikan akses tidak sah | https://github.com/alphaprimagalatheoqallbu/backdoor | 0 | 0| 
 | 20240223T16:41:40Z | backdoor | https://github.com/deusnotam/system | 0 | 0| 
@@ -87,7 +88,6 @@
 | 20240223T12:39:15Z | The S-500 G2 Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/Twroza2/S500-RAT-HVNC-HAPP-HIdden-BROWSER-HRDP-REVERSE-PROXY-CRYPTO-MONITOR | 0 | 0| 
 | 20240223T11:52:23Z | Null | https://github.com/SJTUHaiyangYu/BackdoorMMT | 0 | 0| 
 | 20240223T01:16:05Z | VenomControl Rat is a Remote Access Tool (RAT) designed to remotely monitor and control other computers through a secure encrypted connection | https://github.com/Tikosktaki/VenomControl-Rat-Crack-Source | 1 | 0| 
-| 20240222T11:54:08Z | Backdoor Proj | https://github.com/MrKLD00/OpenBackdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
