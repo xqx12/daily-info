@@ -39,6 +39,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240224T13:26:30Z | Null | https://github.com/nickespro1305/ExploitHub | 0 | 0| 
 | 20240224T13:04:07Z | CVE-2024-21887 Exploitation with Ngrok Reverse Shell | https://github.com/pwniel/ivanti_shell | 0 | 0| 
 | 20240224T11:46:30Z | Experience the future of Roblox exploiting with Nezur Roblox Hack, offering a safe and comprehensive suite of cheats including ESP, Aimbot, and more. | https://github.com/wiederholtzmotogp/Nezur | 2 | 0| 
 | 20240224T11:43:05Z | Null | https://github.com/bamlightutool/SILENT-EXCEL-XLS-EXPLOIT-CLEAN | 1 | 0| 

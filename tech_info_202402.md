@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240224T13:26:30Z | Null | https://github.com/nickespro1305/ExploitHub | 0 | 0| 
 | 20240224T13:04:07Z | CVE-2024-21887 Exploitation with Ngrok Reverse Shell | https://github.com/pwniel/ivanti_shell | 0 | 0| 
 | 20240224T11:46:30Z | Experience the future of Roblox exploiting with Nezur Roblox Hack, offering a safe and comprehensive suite of cheats including ESP, Aimbot, and more. | https://github.com/wiederholtzmotogp/Nezur | 2 | 0| 
 | 20240224T11:43:05Z | Null | https://github.com/bamlightutool/SILENT-EXCEL-XLS-EXPLOIT-CLEAN | 1 | 0| 
@@ -72,7 +73,6 @@
 | 20240224T00:22:34Z | создан | https://github.com/Firsweb3/exploit-cross-platform-experiences | 0 | 0| 
 | 20240223T23:05:08Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5878 | 734| 
 | 20240223T21:11:29Z | Null | https://github.com/ssikja/exploit | 0 | 0| 
-| 20240223T19:43:16Z | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | 3862 | 553| 
 
 
 # backdoor on Github 推荐
