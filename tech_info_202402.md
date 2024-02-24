@@ -78,6 +78,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240224T13:57:57Z | Null | https://github.com/FelixRiddle/backdoor-server-access | 0 | 0| 
 | 20240224T08:12:56Z | The open-sourced Python toolbox for backdoor attacks and defenses. | https://github.com/THUYimingLi/BackdoorBox | 350 | 59| 
 | 20240224T03:35:55Z | Code&Data for the paper %Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agents% | https://github.com/lancopku/agent-backdoor-attacks | 5 | 0| 
 | 20240224T02:37:19Z | LKM that provides remote backdoor using netfilters, file and pid hiding | https://github.com/whirIpool/rk | 6 | 3| 
@@ -87,7 +88,6 @@
 | 20240223T12:39:19Z | Remote Administration Either you are a private user wanting to control your PC from afar, or a big company which wants to administrate hundreds of machines from a single computer, | https://github.com/Twroza2/ICARUS-NET2-NET4-BAT-VBS-VBA-HVNC-BINDER-PHP-FTPLOGS-RECOVERY-KEYLOG-WEBGL-ROOKIT | 0 | 0| 
 | 20240223T12:39:17Z | The X-Worm Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/Twroza2/XWorm-V5.2-Edition-HVNC-RAT-DDOS-PASSWORDS-RANSOMWARE-CLIPPER-KEYLOGGER-UAC-BYPASS | 0 | 0| 
 | 20240223T12:39:16Z | Hidden VNC constitutes an ingenious stratagem harnessed by the most adept connoisseurs of technology. This method, by far, presents an exhilarating modality to govern the operation | https://github.com/Twroza2/Pandora-HVNC-2FABypass-WebGL-Hidden-Desktop-Outlook-Foxmail-Stealer-Hidden-Browser | 0 | 0| 
-| 20240223T12:39:15Z | The S-500 G2 Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/Twroza2/S500-RAT-HVNC-HAPP-HIdden-BROWSER-HRDP-REVERSE-PROXY-CRYPTO-MONITOR | 0 | 0| 
 
 
 # symbolic execution on Github 推荐

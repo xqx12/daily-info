@@ -54,6 +54,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240224T13:57:57Z | Null | https://github.com/FelixRiddle/backdoor-server-access | 0 | 0| 
 | 20240224T08:12:56Z | The open-sourced Python toolbox for backdoor attacks and defenses. | https://github.com/THUYimingLi/BackdoorBox | 350 | 59| 
 | 20240224T03:35:55Z | Code&Data for the paper %Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agents% | https://github.com/lancopku/agent-backdoor-attacks | 5 | 0| 
 | 20240224T02:37:19Z | LKM that provides remote backdoor using netfilters, file and pid hiding | https://github.com/whirIpool/rk | 6 | 3| 
