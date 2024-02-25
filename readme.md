@@ -85,12 +85,12 @@
 | 20240224T23:21:42Z | Fuzz action for tree-sitter parsers | https://github.com/tree-sitter/fuzz-action | 3 | 0| 
 | 20240224T22:39:09Z | Null | https://github.com/vov789456123/fuzzy-sweater | 0 | 0| 
 | 20240224T21:10:22Z | Null | https://github.com/theorker/fuzzy-moon | 0 | 0| 
+| 20240224T21:09:03Z | fuzzy search using Damerau-Levenshtein distance | https://github.com/raphaelpthibeault/fuzzyfinder | 0 | 0| 
 | 20240224T13:44:42Z | recon formatter | https://github.com/Majestic9169/fuzzy-chainsaw | 0 | 0| 
 | 20240224T12:25:33Z | Null | https://github.com/viktor992/fuzzy-octo-parakeet | 0 | 0| 
 | 20240224T10:55:52Z | Null | https://github.com/0xe6e6fa/fuzzy-sniffle | 0 | 0| 
 | 20240224T10:15:02Z | main website | https://github.com/intuitem/fuzzy-octo-invention | 0 | 0| 
 | 20240224T07:53:47Z | CMPUT 656 Term project | https://github.com/alex-l-f/Evaluating-Knowledge-Fusion-and-Reasoning-on-Fuzzy-Knowledge-Graphs | 0 | 0| 
-| 20240224T06:58:46Z | Null | https://github.com/ahmadara/Fuzzy-Classification-with-python | 0 | 0| 
 
 
 
