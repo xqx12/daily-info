@@ -26,16 +26,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240224T09:57:56Z | CVE-2024-25600 | Unauthenticated Remote Code Execution – Bricks <= 1.9.6 | https://github.com/Chocapikk/CVE-2024-25600 | | 
+| 20240224T19:28:38Z | CVE-2024-25600 | Unauthenticated Remote Code Execution – Bricks <= 1.9.6 | https://github.com/Chocapikk/CVE-2024-25600 | | 
+| 20240224T16:04:35Z | CVE-2023-22515 | Passive version detection method for CVE-2023-22515 using Nuclei scanner | https://github.com/rxerium/CVE-2023-22515 | | 
+| 20240224T15:16:43Z | CVE-2024-1651 | Torrentpier v2.4.1. CVE-2024-1651. Remote Code Execution (RCE). | https://github.com/sharpicx/CVE-2024-1651-PoC | | 
 | 20240224T09:31:39Z | CVE-2024-25376 | Null | https://github.com/ewilded/CVE-2024-25376-POC | | 
 | 20240224T08:30:06Z | cve-2023-39320 | Null | https://github.com/ayrustogaru/cve-2023-39320 | | 
-| 20240224T07:50:16Z | CVE-2024-1651 | Torrentpier v2.4.1. CVE-2024-1651. Remote Code Execution (RCE). | https://github.com/sharpicx/CVE-2024-1651-PoC | | 
 | 20240224T04:41:27Z | CVE-2021-3560 | Null | https://github.com/markyu0401/CVE-2021-3560-Polkit-Privilege-Escalation | | 
 | 20240223T22:56:25Z | CVE-2024-21413 | CVE-2024-21413 PoC for THM Lab | https://github.com/CMNatic/CVE-2024-21413 | | 
 | 20240223T17:37:20Z | CVE-2024-1709 | A Scanner for CVE-2024-1709 - ConnectWise SecureConnect Authentication Bypass Vulnerability | https://github.com/HussainFathy/CVE-2024-1709 | | 
 | 20240223T15:35:05Z | CVE-2020-36730 | CMP - Coming Soon & Maintenance < 3.8.2 - Improper Access Controls on AJAX Calls (Subscriber+) | https://github.com/RandomRobbieBF/CVE-2020-36730 | | 
 | 20240223T12:39:22Z | Cve-2023- | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/Twroza2/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
-| 20240223T12:39:21Z | Cve-2023- | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/Twroza2/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 
 
 # klee on Github 推荐
@@ -63,31 +63,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240225T00:45:19Z | Null | https://github.com/codingcore13/Silent-JPG-Exploit-NEW-br | 1 | 0| 
+| 20240225T00:44:34Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-br | 1 | 0| 
+| 20240225T00:43:31Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-br | 1 | 0| 
+| 20240225T00:42:32Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-br | 1 | 0| 
+| 20240225T00:42:26Z | This repo exploits Opera GX%s free nitro promotion in order to create an infinite amount of working nitro codes, This program is very basic and it was made as educational material to study the effects of not having csrf validation and such. | https://github.com/Gam3rrXD/OperaNitro | 0 | 0| 
+| 20240225T00:28:03Z | something fr | https://github.com/orphanlol/Nosama | 2 | 1| 
+| 20240224T22:11:07Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6447 | 821| 
 | 20240224T13:45:23Z | demo flask app to demonstrate reverse shell and exploit s3 data | https://github.com/AmitKulkarni9/flask-app-reverse-shell-s3 | 0 | 0| 
 | 20240224T13:28:50Z | Scripts for discord | https://github.com/TarBabyOnTop/Discord-Console-Hacks | 0 | 0| 
 | 20240224T13:26:30Z | Null | https://github.com/nickespro1305/ExploitHub | 0 | 0| 
-| 20240224T13:04:07Z | CVE-2024-21887 Exploitation with Ngrok Reverse Shell | https://github.com/pwniel/ivanti_shell | 0 | 0| 
-| 20240224T11:46:30Z | Experience the future of Roblox exploiting with Nezur Roblox Hack, offering a safe and comprehensive suite of cheats including ESP, Aimbot, and more. | https://github.com/wiederholtzmotogp/Nezur | 2 | 0| 
-| 20240224T11:43:05Z | Null | https://github.com/bamlightutool/SILENT-EXCEL-XLS-EXPLOIT-CLEAN | 1 | 0| 
-| 20240224T11:33:21Z | Null | https://github.com/bamlightutool/-SILENT-PDF-EXPLOIT-CLEAN | 1 | 0| 
-| 20240224T08:24:06Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5797 | 1086| 
-| 20240224T01:04:42Z | A python program that%s make a discord bot get a animated profile discord | https://github.com/TheCuteOwl/discord-bot-animated-pfp | 7 | 5| 
-| 20240224T00:22:34Z | создан | https://github.com/Firsweb3/exploit-cross-platform-experiences | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240224T13:57:57Z | Null | https://github.com/FelixRiddle/backdoor-server-access | 0 | 0| 
-| 20240224T08:12:56Z | The open-sourced Python toolbox for backdoor attacks and defenses. | https://github.com/THUYimingLi/BackdoorBox | 350 | 59| 
+| 20240224T23:52:39Z | Repo containing cracked red teaming tools. | https://github.com/Ixve/Red-Team-Tools | 30 | 9| 
+| 20240224T22:12:46Z | Null | https://github.com/tde-nico/backdoor_ctf_2023 | 0 | 0| 
+| 20240224T20:24:15Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 225 | 58| 
+| 20240224T18:26:00Z | The open-sourced Python toolbox for backdoor attacks and defenses. | https://github.com/THUYimingLi/BackdoorBox | 351 | 59| 
+| 20240224T14:49:39Z | Null | https://github.com/FelixRiddle/backdoor-server-access | 0 | 0| 
 | 20240224T03:35:55Z | Code&Data for the paper %Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agents% | https://github.com/lancopku/agent-backdoor-attacks | 5 | 0| 
 | 20240224T02:37:19Z | LKM that provides remote backdoor using netfilters, file and pid hiding | https://github.com/whirIpool/rk | 6 | 3| 
+| 20240224T02:37:19Z | LKM that provides remote backdoor using netfilters, file and pid hiding | https://github.com/vmpool/rk | 6 | 3| 
 | 20240223T22:13:22Z | My take on a backdoor written entirely in python | https://github.com/maxbarkouras/Python-C2 | 0 | 0| 
 | 20240223T19:13:49Z | Backdoor adalah skrip atau kode yang disisipkan sengaja dalam sistem untuk memberikan akses tidak sah | https://github.com/alphaprimagalatheoqallbu/backdoor | 0 | 0| 
-| 20240223T16:41:40Z | backdoor | https://github.com/deusnotam/system | 0 | 0| 
-| 20240223T12:39:19Z | Remote Administration Either you are a private user wanting to control your PC from afar, or a big company which wants to administrate hundreds of machines from a single computer, | https://github.com/Twroza2/ICARUS-NET2-NET4-BAT-VBS-VBA-HVNC-BINDER-PHP-FTPLOGS-RECOVERY-KEYLOG-WEBGL-ROOKIT | 0 | 0| 
-| 20240223T12:39:17Z | The X-Worm Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/Twroza2/XWorm-V5.2-Edition-HVNC-RAT-DDOS-PASSWORDS-RANSOMWARE-CLIPPER-KEYLOGGER-UAC-BYPASS | 0 | 0| 
-| 20240223T12:39:16Z | Hidden VNC constitutes an ingenious stratagem harnessed by the most adept connoisseurs of technology. This method, by far, presents an exhilarating modality to govern the operation | https://github.com/Twroza2/Pandora-HVNC-2FABypass-WebGL-Hidden-Desktop-Outlook-Foxmail-Stealer-Hidden-Browser | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -121,16 +121,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240225T00:10:09Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52313 | 23174| 
+| 20240224T23:46:57Z | Null | https://github.com/tysya1416/fuzzy-sweater | 0 | 0| 
+| 20240224T23:21:42Z | Fuzz action for tree-sitter parsers | https://github.com/tree-sitter/fuzz-action | 3 | 0| 
+| 20240224T22:39:09Z | Null | https://github.com/vov789456123/fuzzy-sweater | 0 | 0| 
+| 20240224T21:10:22Z | Null | https://github.com/theorker/fuzzy-moon | 0 | 0| 
 | 20240224T13:44:42Z | recon formatter | https://github.com/Majestic9169/fuzzy-chainsaw | 0 | 0| 
-| 20240224T13:02:32Z | Fuzz action for tree-sitter parsers | https://github.com/tree-sitter/fuzz-action | 0 | 0| 
 | 20240224T12:25:33Z | Null | https://github.com/viktor992/fuzzy-octo-parakeet | 0 | 0| 
 | 20240224T10:55:52Z | Null | https://github.com/0xe6e6fa/fuzzy-sniffle | 0 | 0| 
 | 20240224T10:15:02Z | main website | https://github.com/intuitem/fuzzy-octo-invention | 0 | 0| 
 | 20240224T07:53:47Z | CMPUT 656 Term project | https://github.com/alex-l-f/Evaluating-Knowledge-Fusion-and-Reasoning-on-Fuzzy-Knowledge-Graphs | 0 | 0| 
-| 20240224T06:58:46Z | Null | https://github.com/ahmadara/Fuzzy-Classification-with-python | 0 | 0| 
-| 20240224T02:30:52Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52300 | 23171| 
-| 20240224T01:39:22Z | Null | https://github.com/fuzzpots/fuzzpots.github.io | 0 | 0| 
-| 20240223T23:28:11Z | Null | https://github.com/aleksandraStasa/fuzzy-invention | 0 | 0| 
 
 
 
