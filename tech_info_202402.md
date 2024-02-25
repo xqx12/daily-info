@@ -93,6 +93,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240224T19:54:04Z | Prototype ASM symbolic execution tool. | https://github.com/constructum/asm-symbolic-execution | 0 | 0| 
 | 20240224T09:12:11Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 201 | 42| 
 | 20240223T18:06:44Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 376 | 85| 
 | 20240222T23:23:15Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 512 | 45| 
@@ -102,7 +103,6 @@
 | 20240220T08:37:30Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 518 | 34| 
 | 20240218T19:50:03Z | Open-source symbolic execution framework: https://maat.re | https://github.com/trailofbits/maat | 596 | 40| 
 | 20240218T17:16:01Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2415 | 645| 
-| 20240214T03:12:38Z | Symbolic execution tool for Sail ISA specifications | https://github.com/rems-project/isla | 54 | 9| 
 
 
 # big4 on Github 推荐

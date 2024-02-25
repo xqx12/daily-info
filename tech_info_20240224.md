@@ -68,6 +68,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240224T19:54:04Z | Prototype ASM symbolic execution tool. | https://github.com/constructum/asm-symbolic-execution | 0 | 0| 
 | 20240224T09:12:11Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 201 | 42| 
 
 
