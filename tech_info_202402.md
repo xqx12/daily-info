@@ -78,6 +78,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240225T01:21:36Z | Detecting backdoor attacks using DL models for anomaly detection. | https://github.com/SharathRajMohan/BackDoorAnomaly | 0 | 0| 
 | 20240224T23:52:39Z | Repo containing cracked red teaming tools. | https://github.com/Ixve/Red-Team-Tools | 30 | 9| 
 | 20240224T22:12:46Z | Null | https://github.com/tde-nico/backdoor_ctf_2023 | 0 | 0| 
 | 20240224T20:24:15Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 225 | 58| 
@@ -87,7 +88,6 @@
 | 20240224T02:37:19Z | LKM that provides remote backdoor using netfilters, file and pid hiding | https://github.com/whirIpool/rk | 6 | 3| 
 | 20240224T02:37:19Z | LKM that provides remote backdoor using netfilters, file and pid hiding | https://github.com/vmpool/rk | 6 | 3| 
 | 20240223T22:13:22Z | My take on a backdoor written entirely in python | https://github.com/maxbarkouras/Python-C2 | 0 | 0| 
-| 20240223T19:13:49Z | Backdoor adalah skrip atau kode yang disisipkan sengaja dalam sistem untuk memberikan akses tidak sah | https://github.com/alphaprimagalatheoqallbu/backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
