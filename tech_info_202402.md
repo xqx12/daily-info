@@ -121,6 +121,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240225T13:35:22Z | Null | https://github.com/Abdelrahman-ammar/fuzzy-octo-umbrella | 0 | 0| 
 | 20240225T12:27:07Z | Null | https://github.com/oofoghlu/fuzzycron | 0 | 0| 
 | 20240225T12:05:58Z | Null | https://github.com/wesley-reboucasdar/fuzzy-stream | 0 | 0| 
 | 20240225T10:27:11Z | Null | https://github.com/vnivanov-39/fuzzy-sweater | 0 | 0| 
@@ -130,7 +131,6 @@
 | 20240225T08:38:44Z | fun | https://github.com/YAKDUD/FUZZY | 0 | 0| 
 | 20240225T08:32:07Z | FUN | https://github.com/YAKDUD/fuzzy-barnacle | 0 | 0| 
 | 20240225T08:29:02Z | Null | https://github.com/YAKDUD/FUZZYD | 0 | 0| 
-| 20240225T07:52:04Z | Null | https://github.com/Drizzyryn/fuzzy-meme | 0 | 0| 
 
 
 
