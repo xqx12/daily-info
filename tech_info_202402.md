@@ -26,21 +26,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240224T19:28:38Z | CVE-2024-25600 | Unauthenticated Remote Code Execution – Bricks <= 1.9.6 | https://github.com/Chocapikk/CVE-2024-25600 | | 
-| 20240224T16:04:35Z | CVE-2023-22515 | Passive version detection method for CVE-2023-22515 using Nuclei scanner | https://github.com/rxerium/CVE-2023-22515 | | 
-| 20240224T15:16:43Z | CVE-2024-1651 | Torrentpier v2.4.1. CVE-2024-1651. Remote Code Execution (RCE). | https://github.com/sharpicx/CVE-2024-1651-PoC | | 
-| 20240224T09:31:39Z | CVE-2024-25376 | Null | https://github.com/ewilded/CVE-2024-25376-POC | | 
-| 20240224T08:30:06Z | cve-2023-39320 | Null | https://github.com/ayrustogaru/cve-2023-39320 | | 
-| 20240224T04:41:27Z | CVE-2021-3560 | Null | https://github.com/markyu0401/CVE-2021-3560-Polkit-Privilege-Escalation | | 
-| 20240223T22:56:25Z | CVE-2024-21413 | CVE-2024-21413 PoC for THM Lab | https://github.com/CMNatic/CVE-2024-21413 | | 
-| 20240223T17:37:20Z | CVE-2024-1709 | A Scanner for CVE-2024-1709 - ConnectWise SecureConnect Authentication Bypass Vulnerability | https://github.com/HussainFathy/CVE-2024-1709 | | 
-| 20240223T15:35:05Z | CVE-2020-36730 | CMP - Coming Soon & Maintenance < 3.8.2 - Improper Access Controls on AJAX Calls (Subscriber+) | https://github.com/RandomRobbieBF/CVE-2020-36730 | | 
-| 20240223T12:39:22Z | Cve-2023- | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/Twroza2/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
+| 20240225T12:28:50Z | CVE-2024-25170 | Null | https://github.com/shenhav12/CVE-2024-25170-Mezzanine-v6.0.0 | | 
+| 20240225T12:27:53Z | CVE-2024-25169 | Null | https://github.com/shenhav12/CVE-2024-25169-Mezzanine-v6.0.0 | | 
+| 20240225T11:55:24Z | CVE-2024-1346 | Weak MySQL database root password in LaborOfficeFree affects version 19.10. This vulnerability allows an attacker to calculate the root password of the MySQL database used by LaborOfficeFree using two constants. | https://github.com/PeterGabaldon/CVE-2024-1346 | | 
+| 20240225T09:24:51Z | CVE-2022-46088 | Null | https://github.com/ASR511-OO7/CVE-2022-46088 | | 
+| 20240225T09:23:52Z | CVE-2022-46089 | Null | https://github.com/ASR511-OO7/CVE-2022-46089 | | 
+| 20240225T09:23:02Z | CVE-2022-46091 | Null | https://github.com/ASR511-OO7/CVE-2022-46091 | | 
+| 20240225T09:21:30Z | CVE-2022-46497 | Null | https://github.com/ASR511-OO7/CVE-2022-46497 | | 
+| 20240225T09:20:32Z | CVE-2022-46498 | Null | https://github.com/ASR511-OO7/CVE-2022-46498 | | 
+| 20240225T09:19:33Z | CVE-2022-46499 | Null | https://github.com/ASR511-OO7/CVE-2022-46499 | | 
+| 20240225T09:18:38Z | CVE-2023-33676 | Null | https://github.com/ASR511-OO7/CVE-2023-33676 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240225T10:15:19Z | Null | https://github.com/CPTCIC5/kleenestar | 0 | 0| 
+| 20240225T06:50:23Z | KLEE test repository /w tests, build script, etc. | https://github.com/lunal1ght/klee_test_rep | 0 | 0| 
 | 20240224T06:37:44Z | An open-source font for Unified Ideographic Extension derived from Fontworks% Klee One. | https://github.com/Des-Magmeta/PlanKai | 11 | 0| 
 | 20240224T01:22:13Z | The famous algorithm was created to generate the Kleene lock, in such a way that the user specifies the number of words that will be needed, the words it will have, and the level of lock that is desired. | https://github.com/JIQC15/CerraduraKleene | 0 | 0| 
 | 20240223T20:31:10Z | 1 | https://github.com/Klee203/Klee2031 | 0 | 0| 
@@ -49,8 +51,6 @@
 | 20240222T09:02:04Z | An open-source Simplified Chinese font derived from Klee One. | https://github.com/lxgw/LxgwWenkaiGB | 456 | 9| 
 | 20240222T08:35:38Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 110 | 22| 
 | 20240222T03:55:57Z | Null | https://github.com/HuyDeveloper/KLEE_Simple | 0 | 0| 
-| 20240221T02:38:07Z | Create CFGs and compute complexity metrics for Python, C++, and Java code. | https://github.com/hmc-alpaqa/metrinome | 33 | 2| 
-| 20240220T05:26:09Z | Null | https://github.com/kleemproductions/kleemproductions.github.io | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -63,6 +63,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240225T10:43:43Z | local root | https://github.com/hearsecurity/Exploits | 0 | 0| 
+| 20240225T05:26:06Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5798 | 1086| 
 | 20240225T02:42:23Z | Null | https://github.com/N3M3S1Spy/exploits | 0 | 0| 
 | 20240225T02:35:16Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0110-0073-app-V36Vw-turn-exploit | 0 | 0| 
 | 20240225T02:11:26Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0100-0012-app-ccJy9-slip-exploit | 0 | 0| 
@@ -71,23 +73,21 @@
 | 20240225T01:31:37Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 259 | 20| 
 | 20240225T01:26:30Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0056-app-InMz0-alter-exploit | 0 | 0| 
 | 20240225T00:45:19Z | Null | https://github.com/codingcore13/Silent-JPG-Exploit-NEW-br | 1 | 0| 
-| 20240225T00:44:34Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-br | 1 | 0| 
-| 20240225T00:43:31Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-br | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240225T08:15:27Z | This repository contains an advanced Python backdoor capable of establishing a covert communication channel between an attacker and a victim machine. The backdoor consists of two main components: attacker.py and backdoor.py, each serving distinct roles in the operation. | https://github.com/abhi261995/Advanced-Python-Backdoor | 0 | 0| 
+| 20240225T07:47:36Z | Repo containing cracked red teaming tools. | https://github.com/Ixve/Red-Team-Tools | 31 | 9| 
+| 20240225T07:22:50Z | Shell Backdoor  | https://github.com/X-Projetion/WAIFU-Shell-Team | 0 | 0| 
 | 20240225T01:21:36Z | Detecting backdoor attacks using DL models for anomaly detection. | https://github.com/SharathRajMohan/BackDoorAnomaly | 0 | 0| 
-| 20240224T23:52:39Z | Repo containing cracked red teaming tools. | https://github.com/Ixve/Red-Team-Tools | 30 | 9| 
 | 20240224T22:12:46Z | Null | https://github.com/tde-nico/backdoor_ctf_2023 | 0 | 0| 
 | 20240224T20:24:15Z | For educational purposes only, samples of old & new malware builders including screenshots! | https://github.com/yuankong666/Ultimate-RAT-Collection | 225 | 58| 
 | 20240224T18:26:00Z | The open-sourced Python toolbox for backdoor attacks and defenses. | https://github.com/THUYimingLi/BackdoorBox | 351 | 59| 
 | 20240224T14:49:39Z | Null | https://github.com/FelixRiddle/backdoor-server-access | 0 | 0| 
 | 20240224T03:35:55Z | Code&Data for the paper %Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agents% | https://github.com/lancopku/agent-backdoor-attacks | 5 | 0| 
 | 20240224T02:37:19Z | LKM that provides remote backdoor using netfilters, file and pid hiding | https://github.com/whirIpool/rk | 6 | 3| 
-| 20240224T02:37:19Z | LKM that provides remote backdoor using netfilters, file and pid hiding | https://github.com/vmpool/rk | 6 | 3| 
-| 20240223T22:13:22Z | My take on a backdoor written entirely in python | https://github.com/maxbarkouras/Python-C2 | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -121,16 +121,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240225T00:10:09Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52313 | 23174| 
-| 20240224T23:46:57Z | Null | https://github.com/tysya1416/fuzzy-sweater | 0 | 0| 
-| 20240224T23:21:42Z | Fuzz action for tree-sitter parsers | https://github.com/tree-sitter/fuzz-action | 3 | 0| 
-| 20240224T22:39:09Z | Null | https://github.com/vov789456123/fuzzy-sweater | 0 | 0| 
-| 20240224T21:10:22Z | Null | https://github.com/theorker/fuzzy-moon | 0 | 0| 
-| 20240224T21:09:03Z | fuzzy search using Damerau-Levenshtein distance | https://github.com/raphaelpthibeault/fuzzyfinder | 0 | 0| 
-| 20240224T13:44:42Z | recon formatter | https://github.com/Majestic9169/fuzzy-chainsaw | 0 | 0| 
-| 20240224T12:25:33Z | Null | https://github.com/viktor992/fuzzy-octo-parakeet | 0 | 0| 
-| 20240224T10:55:52Z | Null | https://github.com/0xe6e6fa/fuzzy-sniffle | 0 | 0| 
-| 20240224T10:15:02Z | main website | https://github.com/intuitem/fuzzy-octo-invention | 0 | 0| 
+| 20240225T12:27:07Z | Null | https://github.com/oofoghlu/fuzzycron | 0 | 0| 
+| 20240225T12:05:58Z | Null | https://github.com/wesley-reboucasdar/fuzzy-stream | 0 | 0| 
+| 20240225T10:27:11Z | Null | https://github.com/vnivanov-39/fuzzy-sweater | 0 | 0| 
+| 20240225T09:43:47Z | Null | https://github.com/vstelth5/fuzzy-sweater | 0 | 0| 
+| 20240225T09:09:22Z | Null | https://github.com/tryoneerie/fuzzy-sweater | 0 | 0| 
+| 20240225T09:08:50Z | Null | https://github.com/timkam88/fuzzy-moon | 0 | 0| 
+| 20240225T08:38:44Z | fun | https://github.com/YAKDUD/FUZZY | 0 | 0| 
+| 20240225T08:32:07Z | FUN | https://github.com/YAKDUD/fuzzy-barnacle | 0 | 0| 
+| 20240225T08:29:02Z | Null | https://github.com/YAKDUD/FUZZYD | 0 | 0| 
+| 20240225T07:52:04Z | Null | https://github.com/Drizzyryn/fuzzy-meme | 0 | 0| 
 
 
 
