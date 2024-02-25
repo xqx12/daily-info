@@ -63,6 +63,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240225T01:31:53Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0009-app-sECo7-exploit-put | 0 | 0| 
+| 20240225T01:31:37Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 259 | 20| 
 | 20240225T01:26:30Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0056-app-InMz0-alter-exploit | 0 | 0| 
 | 20240225T00:45:19Z | Null | https://github.com/codingcore13/Silent-JPG-Exploit-NEW-br | 1 | 0| 
 | 20240225T00:44:34Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-br | 1 | 0| 
@@ -71,8 +73,6 @@
 | 20240225T00:42:26Z | This repo exploits Opera GX%s free nitro promotion in order to create an infinite amount of working nitro codes, This program is very basic and it was made as educational material to study the effects of not having csrf validation and such. | https://github.com/Gam3rrXD/OperaNitro | 0 | 0| 
 | 20240225T00:28:03Z | something fr | https://github.com/orphanlol/Nosama | 2 | 1| 
 | 20240224T22:11:07Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6447 | 821| 
-| 20240224T13:45:23Z | demo flask app to demonstrate reverse shell and exploit s3 data | https://github.com/AmitKulkarni9/flask-app-reverse-shell-s3 | 0 | 0| 
-| 20240224T13:28:50Z | Scripts for discord | https://github.com/TarBabyOnTop/Discord-Console-Hacks | 0 | 0| 
 
 
 # backdoor on Github 推荐
