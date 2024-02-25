@@ -67,11 +67,14 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240225T06:00:30Z | A symbolic execution engine for EVM smart contract binaries | https://github.com/ucsb-seclab/greed | 24 | 1| 
+| 20240225T04:33:14Z | Prototype ASM symbolic execution tool. | https://github.com/constructum/asm-symbolic-execution | 1 | 0| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240225T12:03:02Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 140 | 16| 
 
 
 # fuzz on Github 推荐
