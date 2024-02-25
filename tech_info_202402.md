@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240225T01:26:30Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0056-app-InMz0-alter-exploit | 0 | 0| 
 | 20240225T00:45:19Z | Null | https://github.com/codingcore13/Silent-JPG-Exploit-NEW-br | 1 | 0| 
 | 20240225T00:44:34Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-br | 1 | 0| 
 | 20240225T00:43:31Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-br | 1 | 0| 
@@ -72,7 +73,6 @@
 | 20240224T22:11:07Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6447 | 821| 
 | 20240224T13:45:23Z | demo flask app to demonstrate reverse shell and exploit s3 data | https://github.com/AmitKulkarni9/flask-app-reverse-shell-s3 | 0 | 0| 
 | 20240224T13:28:50Z | Scripts for discord | https://github.com/TarBabyOnTop/Discord-Console-Hacks | 0 | 0| 
-| 20240224T13:26:30Z | Null | https://github.com/nickespro1305/ExploitHub | 0 | 0| 
 
 
 # backdoor on Github 推荐
