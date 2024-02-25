@@ -63,6 +63,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240225T13:27:50Z | classic rolling codes have a problem... The rolljam exploit. That%s why I thought why not make something better. | https://github.com/ICantMakeThings/BetterRollingCodesSystem | 0 | 0| 
+| 20240225T11:26:14Z | Install Metasploit In Termux 2023, No Error, Maintained, Termux | https://github.com/h4ck3r0/Metasploit-termux | 163 | 11| 
 | 20240225T10:43:43Z | local root | https://github.com/hearsecurity/Exploits | 0 | 0| 
 | 20240225T05:26:06Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5798 | 1086| 
 | 20240225T02:42:23Z | Null | https://github.com/N3M3S1Spy/exploits | 0 | 0| 
@@ -71,8 +73,6 @@
 | 20240225T01:59:49Z | Matrix Calculator aims to revolutionize matrix operations by exploiting the sparseness of matrix operands. By utilizing innovative data structures and algorithms, this calculator performs lightning-fast calculations on large matrices, significantly reducing computational time and memory usage. | https://github.com/kritibhargava1/Matrix-Calculator-Leveraging-Data-Structures-for-Fast-Operation | 0 | 0| 
 | 20240225T01:31:53Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0080-0009-app-sECo7-exploit-put | 0 | 0| 
 | 20240225T01:31:37Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 259 | 20| 
-| 20240225T01:26:30Z | GitOps Repository | https://github.com/rhtap-perf-test/cimb-0080-0056-app-InMz0-alter-exploit | 0 | 0| 
-| 20240225T00:45:19Z | Null | https://github.com/codingcore13/Silent-JPG-Exploit-NEW-br | 1 | 0| 
 
 
 # backdoor on Github 推荐
