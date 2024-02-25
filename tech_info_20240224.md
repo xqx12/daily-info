@@ -40,6 +40,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240224T22:29:31Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5879 | 735| 
 | 20240224T22:11:07Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6447 | 821| 
 | 20240224T13:45:23Z | demo flask app to demonstrate reverse shell and exploit s3 data | https://github.com/AmitKulkarni9/flask-app-reverse-shell-s3 | 0 | 0| 
 | 20240224T13:28:50Z | Scripts for discord | https://github.com/TarBabyOnTop/Discord-Console-Hacks | 0 | 0| 
@@ -49,7 +50,6 @@
 | 20240224T11:43:05Z | Null | https://github.com/bamlightutool/SILENT-EXCEL-XLS-EXPLOIT-CLEAN | 1 | 0| 
 | 20240224T11:33:21Z | Null | https://github.com/bamlightutool/-SILENT-PDF-EXPLOIT-CLEAN | 1 | 0| 
 | 20240224T08:24:06Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5797 | 1086| 
-| 20240224T01:04:42Z | A python program that%s make a discord bot get a animated profile discord | https://github.com/TheCuteOwl/discord-bot-animated-pfp | 7 | 5| 
 
 
 # backdoor on Github 推荐
