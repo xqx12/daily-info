@@ -122,8 +122,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240226T13:33:54Z | VoiceMod0S | https://github.com/ReKi-Sa/fuzzy-umbrella | 1 | 0| 
 | 20240226T13:30:58Z | Null | https://github.com/tatyanagulcheeva/fuzzy-moon | 0 | 0| 
-| 20240226T13:29:18Z | VoiceMod0S | https://github.com/ReKi-Sa/fuzzy-umbrella | 0 | 0| 
 | 20240226T12:34:44Z | Null | https://github.com/VikalpVerma31/fuzzy-giggle | 0 | 0| 
 | 20240226T11:52:05Z | Null | https://github.com/thahn1608/fuzzy-stream | 0 | 0| 
 | 20240226T11:38:22Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 5045 | 1155| 
