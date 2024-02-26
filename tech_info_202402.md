@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240226T01:45:30Z | Uncover the true IP address of websites safeguarded by Cloudflare & Others | https://github.com/spyboy-productions/CloakQuest3r | 911 | 121| 
 | 20240226T01:33:41Z | The useful exploit finder | https://github.com/justakazh/sicat | 519 | 57| 
 | 20240226T01:12:31Z | Null | https://github.com/MovByte/pr-exploit | 0 | 0| 
 | 20240226T00:45:31Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6449 | 823| 
@@ -72,7 +73,6 @@
 | 20240226T00:27:01Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-ds | 1 | 0| 
 | 20240225T21:28:26Z | Developed for Escape From Tarkov and written in C++ and C#. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/MarcousM/Escape-From-Tarkov-Eft-Aimbot-esp-Loots-Exploits-Max-Skills-High-Jump | 0 | 0| 
 | 20240225T21:28:22Z | External cheat for Rainbow Six Siege offering ESP, aimbot, and various tactical advantages. | https://github.com/MarcousM/Klar-gg-Rainbow-Six-Siege-RS6-Esp-NoRroil-Hwid-Spoofer-Exploit | 0 | 0| 
-| 20240225T20:04:05Z | 🤖🛡️🔍🔒🔑 Tiny package designed to support red teams and penetration testers in exploiting large language model AI solutions. | https://github.com/hupe1980/aisploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
