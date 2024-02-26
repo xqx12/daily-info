@@ -121,7 +121,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240226T02:32:13Z | An educational Bochs-based snapshot fuzzer project | https://github.com/h0mbre/Lucid | 58 | 6| 
+| 20240226T02:41:11Z | An educational Bochs-based snapshot fuzzer project | https://github.com/h0mbre/Lucid | 59 | 6| 
 | 20240226T02:12:57Z | Null | https://github.com/FuzzzyYeti/FuzzyYeti | 0 | 0| 
 | 20240226T01:37:35Z | Null | https://github.com/Amir-saied12/fuzzy-octo-tribble | 0 | 0| 
 | 20240226T01:29:38Z | Null | https://github.com/Sr-Mxr/fuzzing | 0 | 0| 
