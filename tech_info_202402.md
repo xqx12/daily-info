@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240226T01:12:31Z | Null | https://github.com/MovByte/pr-exploit | 0 | 0| 
 | 20240226T00:28:49Z | Null | https://github.com/codingcore13/Silent-JPG-Exploit-NEW-ds | 1 | 0| 
 | 20240226T00:28:12Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ds | 1 | 0| 
 | 20240226T00:27:34Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-ds | 1 | 0| 
@@ -72,7 +73,6 @@
 | 20240225T20:04:05Z | 🤖🛡️🔍🔒🔑 Tiny package designed to support red teams and penetration testers in exploiting large language model AI solutions. | https://github.com/hupe1980/aisploit | 0 | 0| 
 | 20240225T13:27:50Z | classic rolling codes have a problem... The rolljam exploit. That%s why I thought why not make something better. | https://github.com/ICantMakeThings/BetterRollingCodesSystem | 0 | 0| 
 | 20240225T13:09:48Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 11232 | 1646| 
-| 20240225T13:02:51Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/GhostTroops/TOP | 606 | 121| 
 
 
 # backdoor on Github 推荐
