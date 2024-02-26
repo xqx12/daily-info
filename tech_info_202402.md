@@ -64,6 +64,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240226T13:50:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 100 | 34| 
+| 20240226T13:45:03Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 99 | 14| 
 | 20240226T13:36:12Z | Null | https://github.com/HergonX/Growdice-Crash-Exploit | 0 | 0| 
 | 20240226T13:12:48Z | A curated list of open-source projects that help exploit Intel SGX technology | https://github.com/Maxul/Awesome-SGX-Open-Source | 305 | 50| 
 | 20240226T12:07:03Z | In this project, we presented the acceleration of a C++ library for Bounded Algorithmic Numbers (BAN) by exploiting vector instructions. We also presented a non-Archimedean optimization benchmark with numerous iterations, used to evaluate the goodness of vector acceleration with respect to the BAN library. | https://github.com/LandiSimone/Vectorization-of-Ban-library | 1 | 0| 
@@ -72,8 +74,6 @@
 | 20240226T02:53:35Z | 一款Spring综合漏洞的利用工具，工具支持多个Spring相关漏洞的检测以及利用 | https://github.com/charonlight/SpringExploitGUI | 30 | 2| 
 | 20240226T02:49:55Z | Uncover the true IP address of websites safeguarded by Cloudflare & Others | https://github.com/spyboy-productions/CloakQuest3r | 914 | 121| 
 | 20240226T02:00:48Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5880 | 735| 
-| 20240226T01:33:41Z | The useful exploit finder | https://github.com/justakazh/sicat | 519 | 57| 
-| 20240226T01:12:31Z | Null | https://github.com/MovByte/pr-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
