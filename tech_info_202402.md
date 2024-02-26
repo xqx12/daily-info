@@ -63,8 +63,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240226T02:53:35Z | 一款Spring综合漏洞的利用工具，工具支持多个Spring相关漏洞的检测以及利用 | https://github.com/charonlight/SpringExploitGUI | 30 | 2| 
 | 20240226T02:49:55Z | Uncover the true IP address of websites safeguarded by Cloudflare & Others | https://github.com/spyboy-productions/CloakQuest3r | 914 | 121| 
-| 20240226T02:42:34Z | 一款Spring综合漏洞的利用工具，工具支持多个Spring相关漏洞的检测以及利用 | https://github.com/charonlight/SpringExploitGUI | 29 | 2| 
 | 20240226T02:00:48Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5880 | 735| 
 | 20240226T01:33:41Z | The useful exploit finder | https://github.com/justakazh/sicat | 519 | 57| 
 | 20240226T01:12:31Z | Null | https://github.com/MovByte/pr-exploit | 0 | 0| 
@@ -126,7 +126,7 @@
 | 20240226T01:37:35Z | Null | https://github.com/Amir-saied12/fuzzy-octo-tribble | 0 | 0| 
 | 20240226T01:29:38Z | Null | https://github.com/Sr-Mxr/fuzzing | 0 | 0| 
 | 20240226T01:26:48Z | Null | https://github.com/alfianherianto04/Algo-Fuzzy-C-Means | 0 | 0| 
-| 20240226T01:00:43Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52330 | 23178| 
+| 20240226T01:00:43Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52330 | 23179| 
 | 20240225T23:38:58Z | Null | https://github.com/Safkat-Khan/fuzzy-potato | 0 | 0| 
 | 20240225T23:26:28Z | Null | https://github.com/robertausweeney/fuzzy-octo-dollop | 0 | 0| 
 | 20240225T21:56:45Z | fuzzy matching implementation for origin_code database merges | https://github.com/AndyLAndrew/freelance_fuzzy_match_for_debs | 0 | 0| 
