@@ -79,6 +79,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240226T13:55:46Z | FILTER FOR BACKDOOR | https://github.com/Kurotodev/FIVEM-CHECK-BACKDOOR | 0 | 0| 
 | 20240226T09:55:59Z | Null | https://github.com/SJTUHaiyangYu/BackdoorMMT | 1 | 0| 
 | 20240226T09:47:00Z | Null | https://github.com/hansaskov1/backdoor | 0 | 0| 
 | 20240226T01:05:03Z | Null | https://github.com/mranv/rshell-backdoor | 1 | 0| 
@@ -88,7 +89,6 @@
 | 20240225T21:43:06Z | VenomControl Rat is a Remote Access Tool (RAT) designed to remotely monitor and control other computers through a secure encrypted connection | https://github.com/Boykaos/VenomControl-Rat-Crack-Source | 0 | 0| 
 | 20240225T21:43:04Z | Computing) capabilities. It boasts compatibility with a spectrum of 20 concealed browsers. Pegasus HVNC facet facilitates the orchestration of a concealed desktop environment | https://github.com/Boykaos/Pegasus-Pantheon-HVNC-V2-VNC-Hidden-Browser-Remote-Administration-Rat | 0 | 0| 
 | 20240225T08:15:27Z | This repository contains an advanced Python backdoor capable of establishing a covert communication channel between an attacker and a victim machine. The backdoor consists of two main components: attacker.py and backdoor.py, each serving distinct roles in the operation. | https://github.com/abhi261995/Advanced-Python-Backdoor | 0 | 0| 
-| 20240225T07:47:36Z | Repo containing cracked red teaming tools. | https://github.com/Ixve/Red-Team-Tools | 31 | 9| 
 
 
 # symbolic execution on Github 推荐
@@ -109,9 +109,9 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240226T13:54:12Z | (NDSS 2024) Optimizing Decompiler Output with LLM | https://github.com/PeiweiHu/DeGPT | 25 | 0| 
 | 20240226T11:52:47Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 141 | 16| 
 | 20240226T09:22:23Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 115 | 6| 
-| 20240224T12:36:30Z | (NDSS 2024) Optimizing Decompiler Output with LLM | https://github.com/PeiweiHu/DeGPT | 24 | 0| 
 | 20240222T12:38:24Z | Release of the Dataset accompanying the poster at NDSS 2024 | https://github.com/cybergreen-net/Scanner-Dataset-NDSS-Release | 0 | 0| 
 | 20240222T06:50:14Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 155 | 14| 
 | 20240218T07:12:46Z | ndss & usenix security papers | https://github.com/wqmsybpw/security_papers_collection | 0 | 0| 
