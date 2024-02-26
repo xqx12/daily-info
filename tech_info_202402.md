@@ -122,6 +122,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240226T13:30:58Z | Null | https://github.com/tatyanagulcheeva/fuzzy-moon | 0 | 0| 
+| 20240226T13:29:18Z | VoiceMod0S | https://github.com/ReKi-Sa/fuzzy-umbrella | 0 | 0| 
 | 20240226T12:34:44Z | Null | https://github.com/VikalpVerma31/fuzzy-giggle | 0 | 0| 
 | 20240226T11:52:05Z | Null | https://github.com/thahn1608/fuzzy-stream | 0 | 0| 
 | 20240226T11:38:22Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 5045 | 1155| 
@@ -130,8 +132,6 @@
 | 20240226T08:45:40Z | Null | https://github.com/belongtothenight/fuzzy_ctl_code | 0 | 0| 
 | 20240226T05:58:06Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1545 | 112| 
 | 20240226T04:52:29Z | A static html portfolio site | https://github.com/Agustine-dev/fuzzy-goggles | 0 | 0| 
-| 20240226T02:41:11Z | An educational Bochs-based snapshot fuzzer project | https://github.com/h0mbre/Lucid | 59 | 6| 
-| 20240226T02:12:57Z | Null | https://github.com/FuzzzyYeti/FuzzyYeti | 0 | 0| 
 
 
 
