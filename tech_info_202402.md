@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240226T02:34:44Z | CVE-2023-22527 | confluence CVE-2023-22527 漏洞利用工具，支持冰蝎/哥斯拉内存马注入，支持设置 http 代理 | https://github.com/M0untainShley/CVE-2023-22527-MEMSHELL | | 
 | 20240226T01:22:18Z | CVE-2024-25600 | Unauthenticated Remote Code Execution – Bricks <= 1.9.6 | https://github.com/Chocapikk/CVE-2024-25600 | | 
 | 20240225T12:28:50Z | CVE-2024-25170 | Null | https://github.com/shenhav12/CVE-2024-25170-Mezzanine-v6.0.0 | | 
 | 20240225T12:27:53Z | CVE-2024-25169 | Null | https://github.com/shenhav12/CVE-2024-25169-Mezzanine-v6.0.0 | | 
@@ -35,7 +36,6 @@
 | 20240225T09:23:02Z | CVE-2022-46091 | Null | https://github.com/ASR511-OO7/CVE-2022-46091 | | 
 | 20240225T09:21:30Z | CVE-2022-46497 | Null | https://github.com/ASR511-OO7/CVE-2022-46497 | | 
 | 20240225T09:20:32Z | CVE-2022-46498 | Null | https://github.com/ASR511-OO7/CVE-2022-46498 | | 
-| 20240225T09:19:33Z | CVE-2022-46499 | Null | https://github.com/ASR511-OO7/CVE-2022-46499 | | 
 
 
 # klee on Github 推荐
