@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240226T02:42:34Z | 一款Spring综合漏洞的利用工具，工具支持多个Spring相关漏洞的检测以及利用 | https://github.com/charonlight/SpringExploitGUI | 29 | 2| 
 | 20240226T02:07:30Z | Uncover the true IP address of websites safeguarded by Cloudflare & Others | https://github.com/spyboy-productions/CloakQuest3r | 912 | 121| 
 | 20240226T02:00:48Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5880 | 734| 
 | 20240226T01:33:41Z | The useful exploit finder | https://github.com/justakazh/sicat | 519 | 57| 
@@ -72,7 +73,6 @@
 | 20240226T00:28:12Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ds | 1 | 0| 
 | 20240226T00:27:34Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-ds | 1 | 0| 
 | 20240226T00:27:01Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-ds | 1 | 0| 
-| 20240225T21:28:26Z | Developed for Escape From Tarkov and written in C++ and C#. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/MarcousM/Escape-From-Tarkov-Eft-Aimbot-esp-Loots-Exploits-Max-Skills-High-Jump | 0 | 0| 
 
 
 # backdoor on Github 推荐
