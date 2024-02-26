@@ -63,6 +63,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240226T01:33:41Z | The useful exploit finder | https://github.com/justakazh/sicat | 519 | 57| 
 | 20240226T01:12:31Z | Null | https://github.com/MovByte/pr-exploit | 0 | 0| 
 | 20240226T00:28:49Z | Null | https://github.com/codingcore13/Silent-JPG-Exploit-NEW-ds | 1 | 0| 
 | 20240226T00:28:12Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ds | 1 | 0| 
@@ -72,7 +73,6 @@
 | 20240225T21:28:22Z | External cheat for Rainbow Six Siege offering ESP, aimbot, and various tactical advantages. | https://github.com/MarcousM/Klar-gg-Rainbow-Six-Siege-RS6-Esp-NoRroil-Hwid-Spoofer-Exploit | 0 | 0| 
 | 20240225T20:04:05Z | 🤖🛡️🔍🔒🔑 Tiny package designed to support red teams and penetration testers in exploiting large language model AI solutions. | https://github.com/hupe1980/aisploit | 0 | 0| 
 | 20240225T15:06:47Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 260 | 20| 
-| 20240225T13:27:50Z | classic rolling codes have a problem... The rolljam exploit. That%s why I thought why not make something better. | https://github.com/ICantMakeThings/BetterRollingCodesSystem | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -121,6 +121,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240226T01:33:22Z | Null | https://github.com/Amir-saied12/fuzzy-octo-tribble | 0 | 0| 
 | 20240226T01:29:38Z | Null | https://github.com/Sr-Mxr/fuzzing | 0 | 0| 
 | 20240226T01:26:48Z | Null | https://github.com/alfianherianto04/Algo-Fuzzy-C-Means | 0 | 0| 
 | 20240226T01:17:52Z | My clone repository | https://github.com/FuzzzyYeti/FuzzyYeti | 0 | 0| 
@@ -130,7 +131,6 @@
 | 20240225T21:56:45Z | fuzzy matching implementation for origin_code database merges | https://github.com/AndyLAndrew/freelance_fuzzy_match_for_debs | 0 | 0| 
 | 20240225T21:56:31Z | Null | https://github.com/tundruu/fuzzy-stream | 0 | 0| 
 | 20240225T16:24:21Z | My clone repository | https://github.com/FuzzzyYeti/FuzzyYeti-s-Blog | 0 | 0| 
-| 20240225T13:35:22Z | Null | https://github.com/Abdelrahman-ammar/fuzzy-octo-umbrella | 0 | 0| 
 
 
 
