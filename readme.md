@@ -42,6 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240226T13:36:12Z | Null | https://github.com/HergonX/Growdice-Crash-Exploit | 0 | 0| 
 | 20240226T13:12:48Z | A curated list of open-source projects that help exploit Intel SGX technology | https://github.com/Maxul/Awesome-SGX-Open-Source | 305 | 50| 
 | 20240226T12:07:03Z | In this project, we presented the acceleration of a C++ library for Bounded Algorithmic Numbers (BAN) by exploiting vector instructions. We also presented a non-Archimedean optimization benchmark with numerous iterations, used to evaluate the goodness of vector acceleration with respect to the BAN library. | https://github.com/LandiSimone/Vectorization-of-Ban-library | 1 | 0| 
 | 20240226T10:02:53Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5801 | 1087| 
@@ -51,7 +52,6 @@
 | 20240226T02:00:48Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5880 | 735| 
 | 20240226T01:33:41Z | The useful exploit finder | https://github.com/justakazh/sicat | 519 | 57| 
 | 20240226T01:12:31Z | Null | https://github.com/MovByte/pr-exploit | 0 | 0| 
-| 20240226T00:45:31Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6449 | 823| 
 
 
 # backdoor on Github 推荐
