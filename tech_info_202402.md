@@ -79,6 +79,8 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240226T09:55:59Z | Null | https://github.com/SJTUHaiyangYu/BackdoorMMT | 1 | 0| 
+| 20240226T09:47:00Z | Null | https://github.com/hansaskov1/backdoor | 0 | 0| 
 | 20240226T01:05:03Z | Null | https://github.com/mranv/rshell-backdoor | 1 | 0| 
 | 20240225T22:01:32Z | Basic-ass clock with messaging backdoor | https://github.com/mattshapiro/ESP32_Clock | 0 | 0| 
 | 20240225T21:44:08Z | AsyncRAT stands as a Remote Access Tool (RAT) conceived for the purpose of distant supervision and command over remote computers through an encrypted connection ensuring security. | https://github.com/Boykaos/AsyncRAT-Fud-Fixed-Dll-Remote-Administration-Tool-New | 0 | 0| 
@@ -87,32 +89,30 @@
 | 20240225T21:43:04Z | Computing) capabilities. It boasts compatibility with a spectrum of 20 concealed browsers. Pegasus HVNC facet facilitates the orchestration of a concealed desktop environment | https://github.com/Boykaos/Pegasus-Pantheon-HVNC-V2-VNC-Hidden-Browser-Remote-Administration-Rat | 0 | 0| 
 | 20240225T08:15:27Z | This repository contains an advanced Python backdoor capable of establishing a covert communication channel between an attacker and a victim machine. The backdoor consists of two main components: attacker.py and backdoor.py, each serving distinct roles in the operation. | https://github.com/abhi261995/Advanced-Python-Backdoor | 0 | 0| 
 | 20240225T07:47:36Z | Repo containing cracked red teaming tools. | https://github.com/Ixve/Red-Team-Tools | 31 | 9| 
-| 20240225T07:22:50Z | Shell Backdoor  | https://github.com/X-Projetion/WAIFU-Shell-Team | 0 | 0| 
-| 20240225T01:21:36Z | Detecting backdoor attacks using DL models for anomaly detection. | https://github.com/SharathRajMohan/BackDoorAnomaly | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240226T12:05:12Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 282 | 37| 
+| 20240226T05:23:14Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 377 | 85| 
 | 20240225T22:42:06Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 735 | 128| 
 | 20240225T22:10:47Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2417 | 645| 
 | 20240225T15:53:58Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 226 | 22| 
 | 20240225T06:00:30Z | A symbolic execution engine for EVM smart contract binaries | https://github.com/ucsb-seclab/greed | 24 | 1| 
 | 20240225T04:33:14Z | Prototype ASM symbolic execution tool. | https://github.com/constructum/asm-symbolic-execution | 1 | 0| 
 | 20240224T09:12:11Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 201 | 42| 
-| 20240223T18:06:44Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 376 | 85| 
 | 20240222T23:23:15Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 512 | 45| 
-| 20240222T18:47:35Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 281 | 37| 
 | 20240220T08:37:30Z | radius2 is a fast binary emulation and symbolic execution framework using radare2 | https://github.com/aemmitt-ns/radius | 518 | 34| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240225T12:03:02Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 140 | 16| 
+| 20240226T11:52:47Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 141 | 16| 
+| 20240226T09:22:23Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 115 | 6| 
 | 20240224T12:36:30Z | (NDSS 2024) Optimizing Decompiler Output with LLM | https://github.com/PeiweiHu/DeGPT | 24 | 0| 
 | 20240222T12:38:24Z | Release of the Dataset accompanying the poster at NDSS 2024 | https://github.com/cybergreen-net/Scanner-Dataset-NDSS-Release | 0 | 0| 
-| 20240222T08:15:37Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 114 | 6| 
 | 20240222T06:50:14Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 155 | 14| 
 | 20240218T07:12:46Z | ndss & usenix security papers | https://github.com/wqmsybpw/security_papers_collection | 0 | 0| 
 | 20240213T13:37:37Z | Artifacts for NDSS%24 paper %Efficient and Timely Revocation of V2X Credentials% | https://github.com/EricssonResearch/v2x-self-revocation | 4 | 0| 

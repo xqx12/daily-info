@@ -57,17 +57,23 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240226T09:55:59Z | Null | https://github.com/SJTUHaiyangYu/BackdoorMMT | 1 | 0| 
+| 20240226T09:47:00Z | Null | https://github.com/hansaskov1/backdoor | 0 | 0| 
 | 20240226T01:05:03Z | Null | https://github.com/mranv/rshell-backdoor | 1 | 0| 
 
 
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240226T12:05:12Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 282 | 37| 
+| 20240226T05:23:14Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 377 | 85| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240226T11:52:47Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 141 | 16| 
+| 20240226T09:22:23Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 115 | 6| 
 
 
 # fuzz on Github 推荐
