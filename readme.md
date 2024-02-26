@@ -79,6 +79,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240226T13:48:10Z | A package to get fuzz a password.   | https://github.com/BalduinB/password-fuzzer | 0 | 0| 
 | 20240226T13:33:54Z | VoiceMod0S | https://github.com/ReKi-Sa/fuzzy-umbrella | 1 | 0| 
 | 20240226T13:30:58Z | Null | https://github.com/tatyanagulcheeva/fuzzy-moon | 0 | 0| 
 | 20240226T12:34:44Z | Null | https://github.com/VikalpVerma31/fuzzy-giggle | 0 | 0| 
@@ -88,7 +89,6 @@
 | 20240226T10:45:41Z | Null | https://github.com/wallinjk/fuzzy-stream | 0 | 0| 
 | 20240226T08:45:40Z | Null | https://github.com/belongtothenight/fuzzy_ctl_code | 0 | 0| 
 | 20240226T05:58:06Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1545 | 112| 
-| 20240226T04:52:29Z | A static html portfolio site | https://github.com/Agustine-dev/fuzzy-goggles | 0 | 0| 
 
 
 
