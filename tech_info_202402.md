@@ -121,7 +121,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240226T01:33:22Z | Null | https://github.com/Amir-saied12/fuzzy-octo-tribble | 0 | 0| 
+| 20240226T01:37:35Z | Null | https://github.com/Amir-saied12/fuzzy-octo-tribble | 0 | 0| 
 | 20240226T01:29:38Z | Null | https://github.com/Sr-Mxr/fuzzing | 0 | 0| 
 | 20240226T01:26:48Z | Null | https://github.com/alfianherianto04/Algo-Fuzzy-C-Means | 0 | 0| 
 | 20240226T01:17:52Z | My clone repository | https://github.com/FuzzzyYeti/FuzzyYeti | 0 | 0| 
