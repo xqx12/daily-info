@@ -78,7 +78,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240226T00:38:37Z | Null | https://github.com/mranv/rshell-backdoor | 0 | 0| 
+| 20240226T01:05:03Z | Null | https://github.com/mranv/rshell-backdoor | 1 | 0| 
 | 20240225T22:01:32Z | Basic-ass clock with messaging backdoor | https://github.com/mattshapiro/ESP32_Clock | 0 | 0| 
 | 20240225T21:44:08Z | AsyncRAT stands as a Remote Access Tool (RAT) conceived for the purpose of distant supervision and command over remote computers through an encrypted connection ensuring security. | https://github.com/Boykaos/AsyncRAT-Fud-Fixed-Dll-Remote-Administration-Tool-New | 0 | 0| 
 | 20240225T21:44:00Z | BitRAT CrackedIt is meticulously constructed utilizing the C++ programming language. It stands as the most recent iteration of the premier PC RAT for the year 2023. Regarded as a prized tool | https://github.com/Boykaos/Bitrat-Hvnc-Rat-Remote-Control-Av-Bypass | 0 | 0| 
@@ -121,6 +121,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240226T01:02:41Z | My clone repository | https://github.com/FuzzzyYeti/FuzzyYeti | 0 | 0| 
 | 20240226T01:00:43Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52330 | 23178| 
 | 20240226T00:54:09Z | Null | https://github.com/alfianherianto04/Algo-Fuzzy-C-Means | 0 | 0| 
 | 20240225T23:38:58Z | Null | https://github.com/Safkat-Khan/fuzzy-potato | 0 | 0| 
@@ -130,7 +131,6 @@
 | 20240225T16:24:21Z | My clone repository | https://github.com/FuzzzyYeti/FuzzyYeti-s-Blog | 0 | 0| 
 | 20240225T13:35:22Z | Null | https://github.com/Abdelrahman-ammar/fuzzy-octo-umbrella | 0 | 0| 
 | 20240225T12:27:07Z | Null | https://github.com/oofoghlu/fuzzycron | 0 | 0| 
-| 20240225T12:05:58Z | Null | https://github.com/wesley-reboucasdar/fuzzy-stream | 0 | 0| 
 
 
 
