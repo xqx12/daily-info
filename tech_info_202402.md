@@ -122,7 +122,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240227T01:51:27Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52341 | 23178| 
+| 20240227T02:03:29Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52340 | 23178| 
+| 20240227T02:03:17Z | untuk yang .m | https://github.com/Mei662020008/tugas_fuzzy | 0 | 0| 
 | 20240227T00:19:22Z | Testes primários da Lógica Fuzzy | https://github.com/victorfiu/FUZZY-LOGIC-MATLAB | 0 | 0| 
 | 20240227T00:17:31Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 1032 | 263| 
 | 20240226T22:49:52Z | Null | https://github.com/veliserdi/fuzzy-stream | 0 | 0| 
@@ -131,7 +132,6 @@
 | 20240226T13:33:54Z | VoiceMod0S | https://github.com/ReKi-Sa/fuzzy-umbrella | 1 | 0| 
 | 20240226T13:30:58Z | Null | https://github.com/tatyanagulcheeva/fuzzy-moon | 0 | 0| 
 | 20240226T12:34:44Z | Null | https://github.com/VikalpVerma31/fuzzy-giggle | 0 | 0| 
-| 20240226T11:52:05Z | Null | https://github.com/thahn1608/fuzzy-stream | 0 | 0| 
 
 
 
