@@ -26,23 +26,23 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240226T21:19:14Z | CVE-2024-24401 | Auto exploitation tool for CVE-2024-24401.  | https://github.com/MAWK0235/CVE-2024-24401 | | 
+| 20240226T18:34:15Z | CVE-2023-41892 | A Craft CMS vulnerability that allows Remote Code Execution (RCE). | https://github.com/acesoyeo/CVE-2023-41892 | | 
+| 20240226T16:28:05Z | CVE-2024-25600 | Unauthenticated Remote Code Execution – Bricks <= 1.9.6 | https://github.com/Chocapikk/CVE-2024-25600 | | 
+| 20240226T15:43:38Z | CVE-2024-26521 | Html Injection vulnearbility | https://github.com/hackervegas001/CVE-2024-26521 | | 
+| 20240226T15:07:49Z | CVE-2024-1651 | Torrentpier v2.4.1. CVE-2024-1651. Remote Code Execution (RCE). Exploit. | https://github.com/sharpicx/CVE-2024-1651-PoC | | 
 | 20240226T12:03:44Z | CVE-2024-26560 | (XSS) | https://github.com/sajaljat/CVE-2024-26560 | | 
 | 20240226T12:02:10Z | CVE-2024-26535 | (XSS) | https://github.com/sajaljat/CVE-2024-26535 | | 
 | 20240226T12:00:00Z | CVE-2024-26534 | Null | https://github.com/sajaljat/CVE-2024-26534 | | 
 | 20240226T10:17:49Z | CVE-2023-22527 | confluence CVE-2023-22527 漏洞利用工具，支持冰蝎/哥斯拉内存马注入，支持设置 http 代理 | https://github.com/M0untainShley/CVE-2023-22527-MEMSHELL | | 
-| 20240226T08:23:24Z | CVE-2024-25600 | Unauthenticated Remote Code Execution – Bricks <= 1.9.6 | https://github.com/Chocapikk/CVE-2024-25600 | | 
 | 20240226T04:01:30Z | CVE-2024-23897 | This is an exploit script for CVE-2024-23897, a vulnerability affecting certain systems. The script is intended for educational and testing purposes only. Ensure that you have the necessary permissions before using it. | https://github.com/Abo5/CVE-2024-23897 | | 
-| 20240225T12:28:50Z | CVE-2024-25170 | Null | https://github.com/shenhav12/CVE-2024-25170-Mezzanine-v6.0.0 | | 
-| 20240225T12:27:53Z | CVE-2024-25169 | Null | https://github.com/shenhav12/CVE-2024-25169-Mezzanine-v6.0.0 | | 
-| 20240225T11:55:24Z | CVE-2024-1346 | Weak MySQL database root password in LaborOfficeFree affects version 19.10. This vulnerability allows an attacker to calculate the root password of the MySQL database used by LaborOfficeFree using two constants. | https://github.com/PeterGabaldon/CVE-2024-1346 | | 
-| 20240225T09:24:51Z | CVE-2022-46088 | Null | https://github.com/ASR511-OO7/CVE-2022-46088 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240226T22:39:49Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2419 | 645| 
 | 20240225T23:11:26Z | Null | https://github.com/AlexaSantaCruz/cerraduraKleene | 0 | 0| 
-| 20240225T22:10:47Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2417 | 645| 
 | 20240225T16:35:06Z | Null | https://github.com/MATF-Software-Verification/2023_VLC-Media-Player_KLEE | 0 | 0| 
 | 20240225T16:09:12Z | Null | https://github.com/HuyDeveloper/KLEE_Simple | 0 | 0| 
 | 20240225T10:15:19Z | Null | https://github.com/CPTCIC5/kleenestar | 0 | 0| 
@@ -64,21 +64,22 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240227T00:53:29Z | Null | https://github.com/codingcore13/Silent-JPG-Exploit-NEW-GS | 1 | 0| 
+| 20240227T00:52:51Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-GS | 1 | 0| 
+| 20240227T00:52:13Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-GS | 1 | 0| 
+| 20240227T00:51:29Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-GS | 1 | 0| 
+| 20240227T00:10:41Z | experimental project feel free to test out or add to it, still a newb just trying something new  | https://github.com/BLACKpwn/remote-exploit-v2 | 0 | 0| 
+| 20240226T17:57:51Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5802 | 1087| 
+| 20240226T17:12:52Z | 550+ UNRESTRICTED unblockers, games, cheats, exploits, AI, bypasses, and social media | https://github.com/wea-f/ByePassHub | 21 | 15| 
 | 20240226T13:50:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 100 | 34| 
 | 20240226T13:45:03Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 99 | 14| 
 | 20240226T13:36:12Z | Null | https://github.com/HergonX/Growdice-Crash-Exploit | 0 | 0| 
-| 20240226T13:12:48Z | A curated list of open-source projects that help exploit Intel SGX technology | https://github.com/Maxul/Awesome-SGX-Open-Source | 305 | 50| 
-| 20240226T12:07:03Z | In this project, we presented the acceleration of a C++ library for Bounded Algorithmic Numbers (BAN) by exploiting vector instructions. We also presented a non-Archimedean optimization benchmark with numerous iterations, used to evaluate the goodness of vector acceleration with respect to the BAN library. | https://github.com/LandiSimone/Vectorization-of-Ban-library | 1 | 0| 
-| 20240226T10:02:53Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5801 | 1087| 
-| 20240226T08:56:47Z | Developed for Escape From Tarkov and written in C++ and C#. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/MarcousM/Escape-From-Tarkov-Eft-Aimbot-esp-Loots-Exploits-Max-Skills-High-Jump | 1 | 1| 
-| 20240226T02:53:35Z | 一款Spring综合漏洞的利用工具，工具支持多个Spring相关漏洞的检测以及利用 | https://github.com/charonlight/SpringExploitGUI | 30 | 2| 
-| 20240226T02:49:55Z | Uncover the true IP address of websites safeguarded by Cloudflare & Others | https://github.com/spyboy-productions/CloakQuest3r | 914 | 121| 
-| 20240226T02:00:48Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5880 | 735| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240227T00:14:39Z | [CVPR 2024] %Data Poisoning based Backdoor Attacks to Contrastive Learning%: official code implementation. | https://github.com/jzhang538/CorruptEncoder | 1 | 0| 
 | 20240226T13:55:46Z | FILTER FOR BACKDOOR | https://github.com/Kurotodev/FIVEM-CHECK-BACKDOOR | 0 | 0| 
 | 20240226T09:55:59Z | Null | https://github.com/SJTUHaiyangYu/BackdoorMMT | 1 | 0| 
 | 20240226T09:47:00Z | Null | https://github.com/hansaskov1/backdoor | 0 | 0| 
@@ -88,7 +89,6 @@
 | 20240225T21:44:00Z | BitRAT CrackedIt is meticulously constructed utilizing the C++ programming language. It stands as the most recent iteration of the premier PC RAT for the year 2023. Regarded as a prized tool | https://github.com/Boykaos/Bitrat-Hvnc-Rat-Remote-Control-Av-Bypass | 0 | 0| 
 | 20240225T21:43:06Z | VenomControl Rat is a Remote Access Tool (RAT) designed to remotely monitor and control other computers through a secure encrypted connection | https://github.com/Boykaos/VenomControl-Rat-Crack-Source | 0 | 0| 
 | 20240225T21:43:04Z | Computing) capabilities. It boasts compatibility with a spectrum of 20 concealed browsers. Pegasus HVNC facet facilitates the orchestration of a concealed desktop environment | https://github.com/Boykaos/Pegasus-Pantheon-HVNC-V2-VNC-Hidden-Browser-Remote-Administration-Rat | 0 | 0| 
-| 20240225T08:15:27Z | This repository contains an advanced Python backdoor capable of establishing a covert communication channel between an attacker and a victim machine. The backdoor consists of two main components: attacker.py and backdoor.py, each serving distinct roles in the operation. | https://github.com/abhi261995/Advanced-Python-Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -122,16 +122,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240227T00:19:22Z | Testes primários da Lógica Fuzzy | https://github.com/victorfiu/FUZZY-LOGIC-MATLAB | 0 | 0| 
+| 20240227T00:17:31Z | FuzzBench - Fuzzer benchmarking as a service. | https://github.com/google/fuzzbench | 1032 | 263| 
+| 20240226T23:10:00Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52340 | 23177| 
+| 20240226T22:49:52Z | Null | https://github.com/veliserdi/fuzzy-stream | 0 | 0| 
+| 20240226T20:14:16Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 592 | 65| 
 | 20240226T13:48:10Z | A package to get fuzz a password.   | https://github.com/BalduinB/password-fuzzer | 0 | 0| 
 | 20240226T13:33:54Z | VoiceMod0S | https://github.com/ReKi-Sa/fuzzy-umbrella | 1 | 0| 
 | 20240226T13:30:58Z | Null | https://github.com/tatyanagulcheeva/fuzzy-moon | 0 | 0| 
 | 20240226T12:34:44Z | Null | https://github.com/VikalpVerma31/fuzzy-giggle | 0 | 0| 
 | 20240226T11:52:05Z | Null | https://github.com/thahn1608/fuzzy-stream | 0 | 0| 
-| 20240226T11:38:22Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 5045 | 1155| 
-| 20240226T11:01:30Z | Null | https://github.com/vandan212/fuzzy-octo-curd | 0 | 0| 
-| 20240226T10:45:41Z | Null | https://github.com/wallinjk/fuzzy-stream | 0 | 0| 
-| 20240226T08:45:40Z | Null | https://github.com/belongtothenight/fuzzy_ctl_code | 0 | 0| 
-| 20240226T05:58:06Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1545 | 112| 
 
 
 
