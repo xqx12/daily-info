@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240227T02:00:33Z | Null | https://github.com/g0dsecurity/Exploit | 0 | 0| 
 | 20240227T01:18:47Z | Linux exploit Platform | https://github.com/lisploit/.github | 0 | 0| 
 | 20240227T01:09:11Z | Exploiting a vulnerable Active Directory | https://github.com/AmimMohammad/Active-Directory-Exploitation | 0 | 0| 
 | 20240227T00:53:29Z | Null | https://github.com/codingcore13/Silent-JPG-Exploit-NEW-GS | 1 | 0| 
@@ -73,7 +74,6 @@
 | 20240227T00:10:41Z | experimental project feel free to test out or add to it, still a newb just trying something new  | https://github.com/BLACKpwn/remote-exploit-v2 | 0 | 0| 
 | 20240226T20:30:17Z | A project that offers cheats developed with C++ for DayZ. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/MaridoaCode/PROOFCORE-Dayz-Cheat-Hack-Aimbot-Esp-Exploit-Magic-Bullet-Spoofer-Misc | 0 | 0| 
 | 20240226T18:54:07Z | SWAB (Solitude Without A Browser) - an unblocked Google Search exploit for school Chromebooks, with a read-only file explorer. Based on my Baghdad exploit (which is similar to @Brandon421-ops%s Incognito On The Sign-In Screen exploit). | https://github.com/Quartinal/SWAB | 0 | 1| 
-| 20240226T17:57:51Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5802 | 1087| 
 
 
 # backdoor on Github 推荐
