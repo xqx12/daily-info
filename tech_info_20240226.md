@@ -72,7 +72,6 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20240226T23:11:15Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 227 | 22| 
-| 20240226T22:39:49Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2419 | 645| 
 | 20240226T12:05:12Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 282 | 37| 
 | 20240226T05:23:14Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 377 | 85| 
 
