@@ -78,9 +78,9 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240227T13:52:08Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 160 | 14| 
 | 20240227T11:01:31Z | (NDSS 2024) Optimizing Decompiler Output with LLM | https://github.com/PeiweiHu/DeGPT | 26 | 0| 
 | 20240227T09:01:38Z | This repository contains the code that implements the Distributed and Oclussion-Robust Patch (DorPatch) described in our paper %DorPatch: Distributed and Occlusion-Robust adversarial Patch to Evade Certifiable Defenses% published at NDSS 2024. | https://github.com/CGCL-codes/DorPatch | 1 | 0| 
-| 20240227T04:54:34Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 159 | 14| 
 
 
 # fuzz on Github 推荐
