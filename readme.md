@@ -88,7 +88,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240226T23:10:00Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52340 | 23177| 
+| 20240226T23:10:00Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52340 | 23178| 
 | 20240226T22:49:52Z | Null | https://github.com/veliserdi/fuzzy-stream | 0 | 0| 
 | 20240226T20:14:16Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 592 | 65| 
 | 20240226T13:48:10Z | A package to get fuzz a password.   | https://github.com/BalduinB/password-fuzzer | 0 | 0| 
