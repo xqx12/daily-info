@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240227T02:17:56Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-three-scenarios-O6gkH-telephone-exploit | 0 | 0| 
 | 20240227T02:03:32Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 794 | 183| 
 | 20240227T02:00:33Z | Null | https://github.com/g0dsecurity/Exploit | 0 | 0| 
 | 20240227T01:37:09Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5887 | 736| 
@@ -73,7 +74,6 @@
 | 20240227T00:53:29Z | Null | https://github.com/codingcore13/Silent-JPG-Exploit-NEW-GS | 1 | 0| 
 | 20240227T00:52:51Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-GS | 1 | 0| 
 | 20240227T00:52:13Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-GS | 1 | 0| 
-| 20240227T00:51:29Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-GS | 1 | 0| 
 
 
 # backdoor on Github 推荐
