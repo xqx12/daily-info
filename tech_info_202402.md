@@ -69,11 +69,11 @@
 | 20240227T00:52:13Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-GS | 1 | 0| 
 | 20240227T00:51:29Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-GS | 1 | 0| 
 | 20240227T00:10:41Z | experimental project feel free to test out or add to it, still a newb just trying something new  | https://github.com/BLACKpwn/remote-exploit-v2 | 0 | 0| 
+| 20240226T18:54:07Z | SWAB (Solitude Without A Browser) - an unblocked Google Search exploit for school Chromebooks, with a read-only file explorer. Based on my Baghdad exploit (which is similar to @Brandon421-ops%s Incognito On The Sign-In Screen exploit). | https://github.com/Quartinal/SWAB | 0 | 1| 
 | 20240226T17:57:51Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5802 | 1087| 
 | 20240226T17:12:52Z | 550+ UNRESTRICTED unblockers, games, cheats, exploits, AI, bypasses, and social media | https://github.com/wea-f/ByePassHub | 21 | 15| 
 | 20240226T13:50:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 100 | 34| 
 | 20240226T13:45:03Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 99 | 14| 
-| 20240226T13:36:12Z | Null | https://github.com/HergonX/Growdice-Crash-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -94,11 +94,11 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240226T23:11:15Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 227 | 22| 
+| 20240226T22:39:49Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2419 | 645| 
 | 20240226T12:05:12Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 282 | 37| 
 | 20240226T05:23:14Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 377 | 85| 
 | 20240225T22:42:06Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 735 | 128| 
-| 20240225T22:10:47Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2417 | 645| 
-| 20240225T15:53:58Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 226 | 22| 
 | 20240225T06:00:30Z | A symbolic execution engine for EVM smart contract binaries | https://github.com/ucsb-seclab/greed | 24 | 1| 
 | 20240225T04:33:14Z | Prototype ASM symbolic execution tool. | https://github.com/constructum/asm-symbolic-execution | 1 | 0| 
 | 20240224T09:12:11Z | The symbolic execution engine powering the K Framework | https://github.com/runtimeverification/haskell-backend | 201 | 42| 
