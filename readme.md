@@ -19,7 +19,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240226T21:19:14Z | CVE-2024-24401 | Auto exploitation tool for CVE-2024-24401.  | https://github.com/MAWK0235/CVE-2024-24401 | | 
 | 20240226T18:34:15Z | CVE-2023-41892 | A Craft CMS vulnerability that allows Remote Code Execution (RCE). | https://github.com/acesoyeo/CVE-2023-41892 | | 
 | 20240226T16:28:05Z | CVE-2024-25600 | Unauthenticated Remote Code Execution – Bricks <= 1.9.6 | https://github.com/Chocapikk/CVE-2024-25600 | | 
 | 20240226T15:43:38Z | CVE-2024-26521 | Html Injection vulnearbility | https://github.com/hackervegas001/CVE-2024-26521 | | 
