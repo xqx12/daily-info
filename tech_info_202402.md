@@ -66,6 +66,7 @@
 | --- | --- | --- | --- | ---| 
 | 20240227T02:03:32Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 794 | 183| 
 | 20240227T02:00:33Z | Null | https://github.com/g0dsecurity/Exploit | 0 | 0| 
+| 20240227T01:37:09Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5887 | 736| 
 | 20240227T01:18:47Z | Linux exploit Platform | https://github.com/lisploit/.github | 0 | 0| 
 | 20240227T01:11:23Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 100 | 14| 
 | 20240227T01:09:11Z | Exploiting a vulnerable Active Directory | https://github.com/AmimMohammad/Active-Directory-Exploitation | 0 | 0| 
@@ -73,7 +74,6 @@
 | 20240227T00:52:51Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-GS | 1 | 0| 
 | 20240227T00:52:13Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-GS | 1 | 0| 
 | 20240227T00:51:29Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-GS | 1 | 0| 
-| 20240227T00:10:41Z | experimental project feel free to test out or add to it, still a newb just trying something new  | https://github.com/BLACKpwn/remote-exploit-v2 | 0 | 0| 
 
 
 # backdoor on Github 推荐
