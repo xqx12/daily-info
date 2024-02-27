@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240227T01:09:11Z | Exploiting a vulnerable Active Directory | https://github.com/AmimMohammad/Active-Directory-Exploitation | 0 | 0| 
 | 20240227T00:53:29Z | Null | https://github.com/codingcore13/Silent-JPG-Exploit-NEW-GS | 1 | 0| 
 | 20240227T00:52:51Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-GS | 1 | 0| 
 | 20240227T00:52:13Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-GS | 1 | 0| 
@@ -73,7 +74,6 @@
 | 20240226T17:57:51Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5802 | 1087| 
 | 20240226T17:12:52Z | 550+ UNRESTRICTED unblockers, games, cheats, exploits, AI, bypasses, and social media | https://github.com/wea-f/ByePassHub | 21 | 15| 
 | 20240226T13:50:59Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 100 | 34| 
-| 20240226T13:45:03Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 99 | 14| 
 
 
 # backdoor on Github 推荐
