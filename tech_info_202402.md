@@ -79,16 +79,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240227T01:21:12Z | Computing) capabilities. It boasts compatibility with a spectrum of 20 concealed browsers. Pegasus HVNC facet facilitates the orchestration of a concealed desktop environment | https://github.com/Boykaos/Pegasus-Pantheon-HVNC-V2-VNC-Hidden-Browser-Remote-Administration-Rat | 1 | 0| 
+| 20240227T01:21:10Z | VenomControl Rat is a Remote Access Tool (RAT) designed to remotely monitor and control other computers through a secure encrypted connection | https://github.com/Boykaos/VenomControl-Rat-Crack-Source | 1 | 0| 
+| 20240227T01:21:08Z | BitRAT CrackedIt is meticulously constructed utilizing the C++ programming language. It stands as the most recent iteration of the premier PC RAT for the year 2023. Regarded as a prized tool | https://github.com/Tikosktaki/Bitrat-Hvnc-Rat-Remote-Control-Av-Bypass | 1 | 0| 
+| 20240227T01:21:06Z | AsyncRAT stands as a Remote Access Tool (RAT) conceived for the purpose of distant supervision and command over remote computers through an encrypted connection ensuring security. | https://github.com/Tikosktaki/AsyncRAT-Fud-Fixed-Dll-Remote-Administration-Tool-New | 1 | 1| 
+| 20240227T01:21:02Z | AsyncRAT stands as a Remote Access Tool (RAT) conceived for the purpose of distant supervision and command over remote computers through an encrypted connection ensuring security. | https://github.com/Boykaos/AsyncRAT-Fud-Fixed-Dll-Remote-Administration-Tool-New | 1 | 0| 
+| 20240227T01:21:00Z | BitRAT CrackedIt is meticulously constructed utilizing the C++ programming language. It stands as the most recent iteration of the premier PC RAT for the year 2023. Regarded as a prized tool | https://github.com/Boykaos/Bitrat-Hvnc-Rat-Remote-Control-Av-Bypass | 1 | 0| 
+| 20240227T01:20:56Z | VenomControl Rat is a Remote Access Tool (RAT) designed to remotely monitor and control other computers through a secure encrypted connection | https://github.com/Tikosktaki/VenomControl-Rat-Crack-Source | 2 | 0| 
+| 20240227T01:20:49Z | Computing) capabilities. It boasts compatibility with a spectrum of 20 concealed browsers. Pegasus HVNC facet facilitates the orchestration of a concealed desktop environment | https://github.com/Tikosktaki/Pegasus-Pantheon-HVNC-V2-VNC-Hidden-Browser-Remote-Administration-Rat | 2 | 2| 
 | 20240227T00:14:39Z | [CVPR 2024] %Data Poisoning based Backdoor Attacks to Contrastive Learning%: official code implementation. | https://github.com/jzhang538/CorruptEncoder | 1 | 0| 
 | 20240226T13:55:46Z | FILTER FOR BACKDOOR | https://github.com/Kurotodev/FIVEM-CHECK-BACKDOOR | 0 | 0| 
-| 20240226T09:55:59Z | Null | https://github.com/SJTUHaiyangYu/BackdoorMMT | 1 | 0| 
-| 20240226T09:47:00Z | Null | https://github.com/hansaskov1/backdoor | 0 | 0| 
-| 20240226T01:05:03Z | Null | https://github.com/mranv/rshell-backdoor | 1 | 0| 
-| 20240225T22:01:32Z | Basic-ass clock with messaging backdoor | https://github.com/mattshapiro/ESP32_Clock | 0 | 0| 
-| 20240225T21:44:08Z | AsyncRAT stands as a Remote Access Tool (RAT) conceived for the purpose of distant supervision and command over remote computers through an encrypted connection ensuring security. | https://github.com/Boykaos/AsyncRAT-Fud-Fixed-Dll-Remote-Administration-Tool-New | 0 | 0| 
-| 20240225T21:44:00Z | BitRAT CrackedIt is meticulously constructed utilizing the C++ programming language. It stands as the most recent iteration of the premier PC RAT for the year 2023. Regarded as a prized tool | https://github.com/Boykaos/Bitrat-Hvnc-Rat-Remote-Control-Av-Bypass | 0 | 0| 
-| 20240225T21:43:06Z | VenomControl Rat is a Remote Access Tool (RAT) designed to remotely monitor and control other computers through a secure encrypted connection | https://github.com/Boykaos/VenomControl-Rat-Crack-Source | 0 | 0| 
-| 20240225T21:43:04Z | Computing) capabilities. It boasts compatibility with a spectrum of 20 concealed browsers. Pegasus HVNC facet facilitates the orchestration of a concealed desktop environment | https://github.com/Boykaos/Pegasus-Pantheon-HVNC-V2-VNC-Hidden-Browser-Remote-Administration-Rat | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
