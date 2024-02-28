@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240228T02:35:51Z | Code repository for the paper %Exploiting Multimodal Knowledge Graph for Multimodal Machine Translation% | https://github.com/NLP2CT/MMKG_MMT | 0 | 0| 
 | 20240228T02:32:28Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr715-0075-0067-app-om5pc-exploit-overcome | 0 | 0| 
 | 20240228T02:06:54Z | XNU Image Fuzzer - iOS App for Fuzzing with Objective-C Code covering 12 CGCreateBitmap & CGColorSpace Functions working with Raw Data and String Injection. | https://github.com/xsscx/xnuimagefuzzer | 19 | 0| 
 | 20240228T01:23:14Z | Dockerized labs with examples of various exploits | https://github.com/dlg1206/exploit-lab | 1 | 0| 
@@ -73,7 +74,6 @@
 | 20240228T00:44:15Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5813 | 1088| 
 | 20240228T00:15:48Z | Manipulating tokens for SeImpersonatePrivilege exploitation using Windows API | https://github.com/rthxr/Win32Api-Abusing-Tokens | 0 | 0| 
 | 20240227T23:41:35Z | Null | https://github.com/codingcore13/Silent-JPG-Exploit-NEW-ji | 1 | 0| 
-| 20240227T23:40:42Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ji | 1 | 0| 
 
 
 # backdoor on Github 推荐
