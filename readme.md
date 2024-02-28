@@ -41,16 +41,16 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240228T13:01:25Z | FIMjector is an exploit for OpenAI GPT models based on Fill-In-the-Middle (FIM) tokens. | https://github.com/wwa/FIMjector | 0 | 0| 
+| 20240228T12:57:38Z | Null | https://github.com/G01d3nW01f/wordpress-4.6-rce-exploit | 0 | 0| 
+| 20240228T12:29:53Z | A solution to the multi-armed bandit problem which is a classic reinforcement learning problem that exemplifies the exploration–exploitation tradeoff dilemma. | https://github.com/gyanantaran/epsilon-greedy | 0 | 0| 
+| 20240228T11:17:40Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5815 | 1089| 
+| 20240228T11:16:30Z | just a silly roblox exploiting scripts | https://github.com/Keori8Cheese/silly | 0 | 0| 
 | 20240228T02:42:00Z | Null | https://github.com/tsypesa/Explore_Exploit_SB | 0 | 0| 
 | 20240228T02:35:51Z | Code repository for the paper %Exploiting Multimodal Knowledge Graph for Multimodal Machine Translation% | https://github.com/NLP2CT/MMKG_MMT | 0 | 0| 
 | 20240228T02:32:28Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr715-0075-0067-app-om5pc-exploit-overcome | 0 | 0| 
 | 20240228T02:06:54Z | XNU Image Fuzzer - iOS App for Fuzzing with Objective-C Code covering 12 CGCreateBitmap & CGColorSpace Functions working with Raw Data and String Injection. | https://github.com/xsscx/xnuimagefuzzer | 19 | 0| 
 | 20240228T01:23:14Z | Dockerized labs with examples of various exploits | https://github.com/dlg1206/exploit-lab | 1 | 0| 
-| 20240228T00:59:41Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5891 | 737| 
-| 20240228T00:45:43Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 190 | 16| 
-| 20240228T00:44:47Z | Null | https://github.com/lakimancic/exploits | 0 | 0| 
-| 20240228T00:44:15Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5813 | 1088| 
-| 20240228T00:15:48Z | Manipulating tokens for SeImpersonatePrivilege exploitation using Windows API | https://github.com/rthxr/Win32Api-Abusing-Tokens | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -66,6 +66,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240228T06:10:29Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2421 | 646| 
 
 
 # big4 on Github 推荐
