@@ -26,6 +26,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240228T13:10:25Z | CVE-2024-1071 | Ultimate Member Unauthorized Database Access / SQLi | https://github.com/gbrsh/CVE-2024-1071 | | 
 | 20240228T09:37:24Z | CVE-2024-21413 | CVE-2024-21413 exploit | https://github.com/DevAkabari/CVE-2024-21413 | | 
 | 20240228T08:58:31Z | CVE-2023-43757 | Null | https://github.com/sharmashreejaa/CVE-2023-43757 | | 
 | 20240228T08:32:07Z | CVE-2023-41993 | Null | https://github.com/J3Ss0u/CVE-2023-41993 | | 
@@ -35,7 +36,6 @@
 | 20240227T15:10:39Z | CVE-2022-44877 | Null | https://github.com/G01d3nW01f/CVE-2022-44877 | | 
 | 20240227T14:50:26Z | CVE-2023-7016 | POC for the flaw in Thales SafeNet Authentication Client prior to 10.8 R10 on Windows that allows an attacker to execute code at a SYSTEM level via local access. | https://github.com/ewilded/CVE-2023-7016-POC | | 
 | 20240227T11:55:25Z | CVE-2024-24401 | Auto exploitation tool for CVE-2024-24401.  | https://github.com/MAWK0235/CVE-2024-24401 | | 
-| 20240227T11:45:54Z | CVE-2024-1071 | Ultimate Member Unauthorized Database Access / SQLi | https://github.com/gbrsh/CVE-2024-1071 | | 
 
 
 # klee on Github 推荐

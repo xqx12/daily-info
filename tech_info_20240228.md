@@ -18,6 +18,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240228T13:10:25Z | CVE-2024-1071 | Ultimate Member Unauthorized Database Access / SQLi | https://github.com/gbrsh/CVE-2024-1071 | | 
 | 20240228T09:37:24Z | CVE-2024-21413 | CVE-2024-21413 exploit | https://github.com/DevAkabari/CVE-2024-21413 | | 
 | 20240228T08:58:31Z | CVE-2023-43757 | Null | https://github.com/sharmashreejaa/CVE-2023-43757 | | 
 | 20240228T08:32:07Z | CVE-2023-41993 | Null | https://github.com/J3Ss0u/CVE-2023-41993 | | 
