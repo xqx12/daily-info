@@ -66,6 +66,7 @@
 | --- | --- | --- | --- | ---| 
 | 20240228T02:06:54Z | XNU Image Fuzzer - iOS App for Fuzzing with Objective-C Code covering 12 CGCreateBitmap & CGColorSpace Functions working with Raw Data and String Injection. | https://github.com/xsscx/xnuimagefuzzer | 19 | 0| 
 | 20240228T01:23:14Z | Dockerized labs with examples of various exploits | https://github.com/dlg1206/exploit-lab | 1 | 0| 
+| 20240228T00:59:41Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5891 | 737| 
 | 20240228T00:45:43Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 190 | 16| 
 | 20240228T00:44:47Z | Null | https://github.com/lakimancic/exploits | 0 | 0| 
 | 20240228T00:44:15Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5813 | 1088| 
@@ -73,7 +74,6 @@
 | 20240227T23:41:35Z | Null | https://github.com/codingcore13/Silent-JPG-Exploit-NEW-ji | 1 | 0| 
 | 20240227T23:40:42Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ji | 1 | 0| 
 | 20240227T23:39:37Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-ji | 1 | 0| 
-| 20240227T18:17:21Z | 550+ UNRESTRICTED unblockers, games, cheats, exploits, AI, bypasses, and social media | https://github.com/wea-f/ByePassHub | 23 | 15| 
 
 
 # backdoor on Github 推荐
