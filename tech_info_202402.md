@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240228T02:32:28Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr715-0075-0067-app-om5pc-exploit-overcome | 0 | 0| 
 | 20240228T02:06:54Z | XNU Image Fuzzer - iOS App for Fuzzing with Objective-C Code covering 12 CGCreateBitmap & CGColorSpace Functions working with Raw Data and String Injection. | https://github.com/xsscx/xnuimagefuzzer | 19 | 0| 
 | 20240228T01:23:14Z | Dockerized labs with examples of various exploits | https://github.com/dlg1206/exploit-lab | 1 | 0| 
 | 20240228T00:59:41Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5891 | 737| 
@@ -73,7 +74,6 @@
 | 20240228T00:15:48Z | Manipulating tokens for SeImpersonatePrivilege exploitation using Windows API | https://github.com/rthxr/Win32Api-Abusing-Tokens | 0 | 0| 
 | 20240227T23:41:35Z | Null | https://github.com/codingcore13/Silent-JPG-Exploit-NEW-ji | 1 | 0| 
 | 20240227T23:40:42Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ji | 1 | 0| 
-| 20240227T23:39:37Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-ji | 1 | 0| 
 
 
 # backdoor on Github 推荐
