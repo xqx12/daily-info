@@ -95,11 +95,11 @@
 | 20240227T23:34:13Z | Null | https://github.com/tits01/fuzzy-moon | 0 | 0| 
 | 20240227T22:20:44Z | Null | https://github.com/FuzzingMatter/fuzzingmatter.github.io | 0 | 0| 
 | 20240227T20:14:36Z | Null | https://github.com/paulomarian0/fuzzy-invention | 0 | 0| 
-| 20240227T20:09:13Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 595 | 65| 
 | 20240227T16:23:42Z | Null | https://github.com/victorlucass/fuzzy-invention-challenge | 0 | 0| 
 | 20240227T14:38:20Z | 基于veo师傅的漏扫工具vscan二次开发的版本，开源、轻量、快速、跨平台 的网站漏洞扫描工具，帮助您快速检测网站安全隐患。功能 端口扫描(port scan) 指纹识别(fingerprint) 漏洞检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/youki992/VscanPlus | 1 | 1| 
 | 20240227T13:10:12Z | Null | https://github.com/Tigran-Fahradyan/fuzzy-octo-giggle | 0 | 0| 
 | 20240227T12:47:39Z | Null | https://github.com/GrafVonTee/fuzzy-patrol | 0 | 0| 
+| 20240227T12:45:55Z | Null | https://github.com/GrafVonTee/fuzzy-lib | 0 | 0| 
 
 
 
