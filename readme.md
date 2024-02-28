@@ -81,6 +81,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240228T13:20:56Z | Null | https://github.com/ycka2/fuzzy-moon | 0 | 0| 
 | 20240228T12:35:18Z | Null | https://github.com/GrafVonTee/fuzzy-patrol | 0 | 0| 
 | 20240228T12:02:09Z | Go library that provides fuzzy string matching optimized for filenames and code symbols in the style of Sublime Text, VSCode, IntelliJ IDEA et al. | https://github.com/sahilm/fuzzy | 1266 | 63| 
 | 20240228T11:39:55Z | Null | https://github.com/maaz-kang-92/Fuzzy-wuzzy | 0 | 0| 
@@ -90,7 +91,6 @@
 | 20240228T10:01:51Z | Null | https://github.com/JoseMiguel01012570345/fuzzy-model | 0 | 0| 
 | 20240228T02:50:55Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52368 | 23186| 
 | 20240228T02:43:44Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 596 | 65| 
-| 20240228T02:06:54Z | XNU Image Fuzzer - iOS App for Fuzzing with Objective-C Code covering 12 CGCreateBitmap & CGColorSpace Functions working with Raw Data and String Injection. | https://github.com/xsscx/xnuimagefuzzer | 19 | 0| 
 
 
 
