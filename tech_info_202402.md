@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240228T02:06:54Z | XNU Image Fuzzer - iOS App for Fuzzing with Objective-C Code covering 12 CGCreateBitmap & CGColorSpace Functions working with Raw Data and String Injection. | https://github.com/xsscx/xnuimagefuzzer | 19 | 0| 
 | 20240228T01:23:14Z | Dockerized labs with examples of various exploits | https://github.com/dlg1206/exploit-lab | 1 | 0| 
 | 20240228T00:45:43Z | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | 190 | 16| 
 | 20240228T00:44:47Z | Null | https://github.com/lakimancic/exploits | 0 | 0| 
@@ -73,7 +74,6 @@
 | 20240227T23:40:42Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ji | 1 | 0| 
 | 20240227T23:39:37Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-ji | 1 | 0| 
 | 20240227T18:17:21Z | 550+ UNRESTRICTED unblockers, games, cheats, exploits, AI, bypasses, and social media | https://github.com/wea-f/ByePassHub | 23 | 15| 
-| 20240227T17:25:56Z | (its pronounced  Ah-n-k (no i didnt make the name but i still get to choose how you pronounce it)) | https://github.com/goblinious1/ONC-Exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
@@ -123,6 +123,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240228T02:06:54Z | XNU Image Fuzzer - iOS App for Fuzzing with Objective-C Code covering 12 CGCreateBitmap & CGColorSpace Functions working with Raw Data and String Injection. | https://github.com/xsscx/xnuimagefuzzer | 19 | 0| 
 | 20240228T01:37:31Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52368 | 23185| 
 | 20240228T00:26:00Z | Null | https://github.com/asset-group/U-Fuzz | 3 | 1| 
 | 20240227T23:43:37Z | Fuzzy searching csv data | https://github.com/paulgsc/fuzzy-search | 0 | 0| 
@@ -132,7 +133,6 @@
 | 20240227T20:14:36Z | Null | https://github.com/paulomarian0/fuzzy-invention | 0 | 0| 
 | 20240227T20:09:13Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 595 | 65| 
 | 20240227T16:23:42Z | Null | https://github.com/victorlucass/fuzzy-invention-challenge | 0 | 0| 
-| 20240227T15:13:29Z | XNU Image Fuzzer - iOS App for Fuzzing with Objective-C Code covering 12 CGCreateBitmap & CGColorSpace Functions working with Raw Data. | https://github.com/xsscx/xnuimagefuzzer | 19 | 0| 
 
 
 
