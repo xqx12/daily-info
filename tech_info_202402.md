@@ -131,8 +131,8 @@
 | 20240227T22:20:44Z | Null | https://github.com/FuzzingMatter/fuzzingmatter.github.io | 0 | 0| 
 | 20240227T20:14:36Z | Null | https://github.com/paulomarian0/fuzzy-invention | 0 | 0| 
 | 20240227T20:09:13Z | LLM powered fuzzing via OSS-Fuzz. | https://github.com/google/oss-fuzz-gen | 595 | 65| 
+| 20240227T16:23:42Z | Null | https://github.com/victorlucass/fuzzy-invention-challenge | 0 | 0| 
 | 20240227T15:13:29Z | XNU Image Fuzzer - iOS App for Fuzzing with Objective-C Code covering 12 CGCreateBitmap & CGColorSpace Functions working with Raw Data. | https://github.com/xsscx/xnuimagefuzzer | 19 | 0| 
-| 20240227T13:10:12Z | Null | https://github.com/Tigran-Fahradyan/fuzzy-octo-giggle | 0 | 0| 
 
 
 
