@@ -11,6 +11,8 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20240228 | 请求数据包加签的分析 | https://mp.weixin.qq.com/s/5DoPqc2ljrv23VHTpEk_0A| 
+| 20240228 | 人工智能系统用于作战的局限性——网络安全 | https://mp.weixin.qq.com/s/Xoi4nboA5NNSyylGJ6ZKBQ| 
 | 20240227 | PNG图片中植入PHP代码 | https://mp.weixin.qq.com/s?__biz=Mzg4Nzk3MTg3MA==&mid=2247485046&idx=1&sn=87df199b48e6d6d3ef08c09b399c5dad&chksm=cf830f07f8f486113f6b00d9dd106bdaf6aff2b0f47cd0508dc342218f1f9fe56d32046c8b27&mpshare=1&scene=1&srcid=0227ykZCStNSV3yPCYywTjUi&sharer_shar| 
 | 20240226 | 欧盟应急响应中心 2023 年度威胁回顾 | https://mp.weixin.qq.com/s/y0E0PUnS5yYHvg4js5-MRQ| 
 | 20240226 | LockBit勒索组织查封事件要点梳理 | https://mp.weixin.qq.com/s/IYDdXlZnyiPwD8SOdMkPPw| 
@@ -19,38 +21,36 @@
 | 20240223 | 一次有趣的锐捷EG易网关代码审计 | https://xz.aliyun.com/t/13759| 
 | 20240223 | Agent Tesla内存邮箱取证 | https://xz.aliyun.com/t/13726| 
 | 20240222 | 逆向开发Turla组织TinyTurla后门控制端 | https://mp.weixin.qq.com/s/ht0Tdpy-hjXsNYlktklaLQ| 
-| 20240222 | 全球头号勒索团伙 LockBit 谜案 | https://mp.weixin.qq.com/s/tkTyi8foWaOiqwMFIgU7SA| 
-| 20240222 | 一个网络安全创业者的2023 年总结 | https://mp.weixin.qq.com/s/mQu-_M8LVHj67lmnMpzGIA| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240228T09:37:24Z | CVE-2024-21413 | CVE-2024-21413 exploit | https://github.com/DevAkabari/CVE-2024-21413 | | 
+| 20240228T08:58:31Z | CVE-2023-43757 | Null | https://github.com/sharmashreejaa/CVE-2023-43757 | | 
+| 20240228T08:32:07Z | CVE-2023-41993 | Null | https://github.com/J3Ss0u/CVE-2023-41993 | | 
+| 20240228T07:34:30Z | CVE-2022-0847 | Null | https://github.com/nidhi7598/linux-4.19.72_lib_CVE-2022-0847 | | 
 | 20240227T22:07:01Z | CVE-2024-21762 | Null | https://github.com/Gh71m/CVE-2024-21762-POC | | 
 | 20240227T15:30:05Z | CVE-2024-0197 | Proof of concept for Local Privilege Escalation in Thales Sentinel HASP LDK. | https://github.com/ewilded/CVE-2024-0197-POC | | 
 | 20240227T15:10:39Z | CVE-2022-44877 | Null | https://github.com/G01d3nW01f/CVE-2022-44877 | | 
 | 20240227T14:50:26Z | CVE-2023-7016 | POC for the flaw in Thales SafeNet Authentication Client prior to 10.8 R10 on Windows that allows an attacker to execute code at a SYSTEM level via local access. | https://github.com/ewilded/CVE-2023-7016-POC | | 
 | 20240227T11:55:25Z | CVE-2024-24401 | Auto exploitation tool for CVE-2024-24401.  | https://github.com/MAWK0235/CVE-2024-24401 | | 
 | 20240227T11:45:54Z | CVE-2024-1071 | Ultimate Member Unauthorized Database Access / SQLi | https://github.com/gbrsh/CVE-2024-1071 | | 
-| 20240227T11:12:18Z | CVE-2024-23897 | CVE-2024-23897 , Jenkins <= 2.441 & <= LTS 2.426.2 PoC and scanner.  | https://github.com/xaitax/CVE-2024-23897 | | 
-| 20240227T09:51:59Z | CVE-2024-1651 | Torrentpier v2.4.1. CVE-2024-1651. Remote Code Execution (RCE). Exploit. | https://github.com/sharpicx/CVE-2024-1651-PoC | | 
-| 20240227T08:38:49Z | CVE-2023-6654 | CVE-2023-6654 EXP | https://github.com/qfmy1024/CVE-2023-6654 | | 
-| 20240227T05:22:47Z | CVE-2021-22555 | Null | https://github.com/letsr00t/CVE-2021-22555 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240228T12:37:30Z | Tool that generates unit test by C/C++ source code, trying to reach all branches and maximize code coverage | https://github.com/UnitTestBot/UTBotCpp | 111 | 22| 
+| 20240228T08:46:24Z | Null | https://github.com/Klee1453/klee1453.github.io | 0 | 0| 
+| 20240228T06:10:29Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2421 | 646| 
+| 20240228T05:53:05Z | Null | https://github.com/thomhughes/klee-runner | 0 | 0| 
 | 20240227T23:20:26Z | KleenSkan bot telegram bot | https://github.com/FOUREX/KleenSkan-bot | 0 | 0| 
-| 20240227T02:43:53Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2420 | 646| 
 | 20240225T23:11:26Z | Null | https://github.com/AlexaSantaCruz/cerraduraKleene | 0 | 0| 
 | 20240225T16:35:06Z | Null | https://github.com/MATF-Software-Verification/2023_VLC-Media-Player_KLEE | 0 | 0| 
 | 20240225T16:09:12Z | Null | https://github.com/HuyDeveloper/KLEE_Simple | 0 | 0| 
 | 20240225T10:15:19Z | Null | https://github.com/CPTCIC5/kleenestar | 0 | 0| 
 | 20240225T06:50:23Z | KLEE test repository /w tests, build script, etc. | https://github.com/lunal1ght/klee_test_rep | 0 | 0| 
-| 20240224T06:37:44Z | An open-source font for Unified Ideographic Extension derived from Fontworks% Klee One. | https://github.com/Des-Magmeta/PlanKai | 11 | 0| 
-| 20240224T01:22:13Z | The famous algorithm was created to generate the Kleene lock, in such a way that the user specifies the number of words that will be needed, the words it will have, and the level of lock that is desired. | https://github.com/JIQC15/CerraduraKleene | 0 | 0| 
-| 20240223T20:31:10Z | 1 | https://github.com/Klee203/Klee2031 | 0 | 0| 
 
 
 # s2e on Github 推荐
@@ -79,16 +79,16 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240228T11:31:21Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 241 | 48| 
+| 20240228T09:21:02Z | An implementation of the hidden trigger backdoor attack introduced by Saha et al.  | https://github.com/arm-on/hidden-trigger-backdoor-attack | 0 | 0| 
+| 20240228T09:06:57Z | Venomancer - An Imperceptible, Durable, and Target-On-Demand Backdoor Attack in Federated Learning | https://github.com/nguyenhongson1902/Venomancer | 1 | 0| 
+| 20240228T08:42:39Z | Step into the world of remote control mastery with Telegram Backdoor – where every chat becomes a gateway to  your compter%s command center | https://github.com/hack505/Telegram_BackDoor | 0 | 0| 
 | 20240228T00:46:50Z | Server Scanner detect rootkit and backdoor | https://github.com/sonofescobar1337/server-scanner | 40 | 7| 
 | 20240227T19:17:14Z | The project aims to detect the backdoor attacks on deep neural networks using the class difference method | https://github.com/YR973/Detetcting-backdoor-attacks-on-ai-models-using-class-difference-method | 1 | 0| 
 | 20240227T16:01:24Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 262 | 31| 
 | 20240227T15:35:48Z | Null | https://github.com/AhmadSavaiz03/Rotation_Backdoor | 0 | 0| 
 | 20240227T14:39:23Z | Null | https://github.com/AhmadSavaiz03/Label_Consistent_Backdoor | 0 | 0| 
 | 20240227T06:48:59Z | [CVPR 2024] %Data Poisoning based Backdoor Attacks to Contrastive Learning%: official code implementation. | https://github.com/jzhang538/CorruptEncoder | 2 | 0| 
-| 20240227T01:21:12Z | Computing) capabilities. It boasts compatibility with a spectrum of 20 concealed browsers. Pegasus HVNC facet facilitates the orchestration of a concealed desktop environment | https://github.com/Boykaos/Pegasus-Pantheon-HVNC-V2-VNC-Hidden-Browser-Remote-Administration-Rat | 1 | 0| 
-| 20240227T01:21:10Z | VenomControl Rat is a Remote Access Tool (RAT) designed to remotely monitor and control other computers through a secure encrypted connection | https://github.com/Boykaos/VenomControl-Rat-Crack-Source | 1 | 0| 
-| 20240227T01:21:08Z | BitRAT CrackedIt is meticulously constructed utilizing the C++ programming language. It stands as the most recent iteration of the premier PC RAT for the year 2023. Regarded as a prized tool | https://github.com/Tikosktaki/Bitrat-Hvnc-Rat-Remote-Control-Av-Bypass | 1 | 0| 
-| 20240227T01:21:06Z | AsyncRAT stands as a Remote Access Tool (RAT) conceived for the purpose of distant supervision and command over remote computers through an encrypted connection ensuring security. | https://github.com/Tikosktaki/AsyncRAT-Fud-Fixed-Dll-Remote-Administration-Tool-New | 1 | 1| 
 
 
 # symbolic execution on Github 推荐
