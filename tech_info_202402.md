@@ -64,6 +64,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240229T02:10:13Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 795 | 183| 
 | 20240229T01:46:03Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr715-0075-0063-app-WCzM5-ring-exploit | 0 | 0| 
 | 20240229T01:30:58Z | Unblocked sites, exploits and stuff for ACT public schools | https://github.com/Inglan2/ACTEDUDocs | 0 | 0| 
 | 20240229T00:40:06Z | Null | https://github.com/codingcore13/Silent-JPG-Exploit-NEW-gd | 1 | 0| 
@@ -73,7 +74,6 @@
 | 20240229T00:29:17Z | A high-performance ML model serving framework, offers dynamic batching and CPU/GPU pipelines to fully exploit your compute machine | https://github.com/mosecorg/mosec | 683 | 47| 
 | 20240228T23:48:52Z | Null | https://github.com/H644b/Exploits4Site | 0 | 0| 
 | 20240228T19:20:50Z | Experience the future of Roblox exploiting with Nezur Roblox Hack, offering a safe and comprehensive suite of cheats including ESP, Aimbot, and more. | https://github.com/wiederholtzmotogp/Nezur | 3 | 0| 
-| 20240228T18:53:12Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 260 | 20| 
 
 
 # backdoor on Github 推荐
