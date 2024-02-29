@@ -47,9 +47,9 @@
 | 20240229T12:35:53Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 11245 | 1650| 
 | 20240229T12:30:25Z | We present PETGUI: A user-friendly interface for training and testing a language model using Pattern-Exploiting Training (PET). | https://github.com/dieterich-lab/PETGUI | 0 | 0| 
 | 20240229T10:51:02Z | Experience the future of Roblox exploiting with Nezur Roblox Hack, offering a safe and comprehensive suite of cheats including ESP, Aimbot, and more. | https://github.com/kuldipaudibert/Nezur | 1 | 0| 
+| 20240229T10:14:42Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 1163 | 123| 
 | 20240229T08:43:09Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 796 | 184| 
 | 20240229T05:59:22Z | The best tool for finding one gadget RCE in libc.so.6 | https://github.com/david942j/one_gadget | 1924 | 132| 
-| 20240229T03:20:45Z | Attack surface mapping | https://github.com/gobysec/Goby | 1301 | 146| 
 
 
 # backdoor on Github 推荐
