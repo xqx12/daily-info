@@ -80,6 +80,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240229T13:37:50Z | Null | https://github.com/Heafold/security_backdoor1 | 0 | 0| 
 | 20240229T13:06:49Z | A collection of webshell | https://github.com/Peaky-XD/webshell | 28 | 5| 
 | 20240229T12:17:33Z | Venomancer: Towards Imperceptible and Target-on-Demand Backdoor Attack in Federated Learning | https://github.com/nguyenhongson1902/Venomancer | 1 | 0| 
 | 20240229T09:55:06Z | Null | https://github.com/AntigoneRandy/QuantBackdoor_EFRAP | 1 | 0| 
@@ -89,7 +90,6 @@
 | 20240228T11:31:21Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 241 | 48| 
 | 20240228T09:21:02Z | An implementation of the hidden trigger backdoor attack introduced by Saha et al.  | https://github.com/arm-on/hidden-trigger-backdoor-attack | 0 | 0| 
 | 20240228T08:42:39Z | Step into the world of remote control mastery with Telegram Backdoor – where every chat becomes a gateway to  your compter%s command center | https://github.com/hack505/Telegram_BackDoor | 0 | 0| 
-| 20240228T03:11:05Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 263 | 30| 
 
 
 # symbolic execution on Github 推荐
