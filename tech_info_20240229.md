@@ -18,7 +18,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240229T12:55:00Z | CVE-2023-50386 | Apache Solr Backup/Restore APIs RCE Poc (CVE-2023-50386) | https://github.com/vvmdx/Apache-Solr-RCE_CVE-2023-50386_POC | | 
+| 20240229T13:40:04Z | CVE-2023-50386 | Apache Solr Backup/Restore APIs RCE Poc (CVE-2023-50386) | https://github.com/vvmdx/Apache-Solr-RCE_CVE-2023-50386_POC | | 
 | 20240229T12:08:42Z | CVE-2024-21413 | Null | https://github.com/dshabani96/CVE-2024-21413 | | 
 | 20240229T06:22:51Z | CVE-2023-0386 | Null | https://github.com/letsr00t/CVE-2023-0386 | | 
 | 20240229T04:47:29Z | CVE-2024-21762 | FortiOS 6.0 - 7.4.2 Out of bound exploit --> RCE!!! | https://github.com/c0d3b3af/CVE-2024-21762-POC | | 
@@ -55,7 +55,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240229T13:37:50Z | Null | https://github.com/Heafold/security_backdoor1 | 0 | 0| 
+| 20240229T13:39:50Z | Null | https://github.com/Heafold/security_backdoor1 | 0 | 0| 
 | 20240229T13:06:49Z | A collection of webshell | https://github.com/Peaky-XD/webshell | 28 | 5| 
 | 20240229T12:17:33Z | Venomancer: Towards Imperceptible and Target-on-Demand Backdoor Attack in Federated Learning | https://github.com/nguyenhongson1902/Venomancer | 1 | 0| 
 | 20240229T09:55:06Z | Null | https://github.com/AntigoneRandy/QuantBackdoor_EFRAP | 1 | 0| 
