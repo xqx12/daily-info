@@ -39,6 +39,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240229T13:04:11Z | GitOps Repository | https://github.com/redhat-appstudio-qe/byoc-app-pign-eJYjl-exploit-differ | 0 | 0| 
 | 20240229T12:42:10Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5897 | 739| 
 | 20240229T12:41:19Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5818 | 1090| 
 | 20240229T12:37:59Z | Official implementation of %Exploiting the Signal-Leak Bias in Diffusion Models% (WACV 2024) | https://github.com/IVRL/signal-leak-bias | 2 | 0| 
@@ -48,7 +49,6 @@
 | 20240229T08:43:09Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 796 | 184| 
 | 20240229T05:59:22Z | The best tool for finding one gadget RCE in libc.so.6 | https://github.com/david942j/one_gadget | 1924 | 132| 
 | 20240229T03:20:45Z | Attack surface mapping | https://github.com/gobysec/Goby | 1301 | 146| 
-| 20240229T02:25:51Z | GitOps Repository | https://github.com/redhat-appstudio-qe/multi-platform-suite-application-uzgj-hb_RU-blow-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
