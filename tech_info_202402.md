@@ -133,7 +133,7 @@
 | 20240228T23:57:02Z | Null | https://github.com/ezvedda/fuzzy-train | 36 | 0| 
 | 20240228T23:14:55Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4488 | 912| 
 | 20240228T23:11:11Z | Null | https://github.com/emmesetweb/fuzzy-telegram | 0 | 0| 
-| 20240228T13:20:56Z | Null | https://github.com/ycka2/fuzzy-moon | 0 | 0| 
+| 20240228T17:55:19Z | 基于veo师傅的漏扫工具vscan二次开发的版本，开源、轻量、快速、跨平台 的网站漏洞扫描工具，帮助您快速检测网站安全隐患。功能 端口扫描(port scan) 指纹识别(fingerprint) 漏洞检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/youki992/VscanPlus | 2 | 1| 
 
 
 
