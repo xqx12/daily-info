@@ -124,6 +124,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240229T01:22:18Z | Null | https://github.com/Fuzzball24816/Fuzzball24816.github.io | 1 | 0| 
 | 20240229T01:16:25Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52402 | 23190| 
 | 20240229T01:02:41Z | Code for the %Predictive Context-sensitive Fuzzing% NDSS%24 paper | https://github.com/eurecom-s3/predictive-cs-fuzzing | 10 | 0| 
 | 20240229T00:47:40Z | CSC230 week06 assignment to build a full-stack MERN application | https://github.com/tylerteichmann/fuzzy-happiness | 0 | 0| 
@@ -133,7 +134,6 @@
 | 20240228T23:11:11Z | Null | https://github.com/emmesetweb/fuzzy-telegram | 0 | 0| 
 | 20240228T13:20:56Z | Null | https://github.com/ycka2/fuzzy-moon | 0 | 0| 
 | 20240228T12:35:18Z | Null | https://github.com/GrafVonTee/fuzzy-patrol | 0 | 0| 
-| 20240228T12:02:09Z | Go library that provides fuzzy string matching optimized for filenames and code symbols in the style of Sublime Text, VSCode, IntelliJ IDEA et al. | https://github.com/sahilm/fuzzy | 1266 | 63| 
 
 
 
