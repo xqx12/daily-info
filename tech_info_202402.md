@@ -79,7 +79,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240229T00:51:47Z | A collection of webshell | https://github.com/Peaky-XD/webshell | 12 | 0| 
+| 20240229T01:29:40Z | A collection of webshell | https://github.com/Peaky-XD/webshell | 13 | 0| 
 | 20240228T21:58:46Z | This repository contains the implementation and results of the %Backdoor Attacks%. It focuses on understanding and defending against backdoor attacks in machine learning models, a critical aspect of cybersecurity. | https://github.com/AmruthaPatil/NYU-Backdoor-Attacks | 0 | 0| 
 | 20240228T18:41:17Z | Venomancer - An Imperceptible and Target-on-Demand Backdoor Attack in Federated Learning | https://github.com/nguyenhongson1902/Venomancer | 1 | 0| 
 | 20240228T17:39:38Z | Null | https://github.com/AcronRK/backdoor-attacks | 1 | 0| 
@@ -132,8 +132,8 @@
 | 20240228T23:57:02Z | Null | https://github.com/ezvedda/fuzzy-train | 36 | 0| 
 | 20240228T23:14:55Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4488 | 912| 
 | 20240228T23:11:11Z | Null | https://github.com/emmesetweb/fuzzy-telegram | 0 | 0| 
+| 20240228T20:13:29Z | An educational Bochs-based snapshot fuzzer project | https://github.com/h0mbre/Lucid | 73 | 6| 
 | 20240228T13:20:56Z | Null | https://github.com/ycka2/fuzzy-moon | 0 | 0| 
-| 20240228T12:35:18Z | Null | https://github.com/GrafVonTee/fuzzy-patrol | 0 | 0| 
 
 
 
