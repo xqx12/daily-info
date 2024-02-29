@@ -70,10 +70,10 @@
 | 20240229T00:39:30Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-gd | 1 | 0| 
 | 20240229T00:35:12Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-gd | 1 | 0| 
 | 20240229T00:34:00Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-gd | 1 | 0| 
+| 20240229T00:29:17Z | A high-performance ML model serving framework, offers dynamic batching and CPU/GPU pipelines to fully exploit your compute machine | https://github.com/mosecorg/mosec | 683 | 47| 
 | 20240228T23:48:52Z | Null | https://github.com/H644b/Exploits4Site | 0 | 0| 
 | 20240228T19:20:50Z | Experience the future of Roblox exploiting with Nezur Roblox Hack, offering a safe and comprehensive suite of cheats including ESP, Aimbot, and more. | https://github.com/wiederholtzmotogp/Nezur | 3 | 0| 
 | 20240228T18:53:12Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 260 | 20| 
-| 20240228T16:18:49Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5817 | 1090| 
 
 
 # backdoor on Github 推荐
@@ -124,6 +124,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240229T02:04:43Z | An educational Bochs-based snapshot fuzzer project | https://github.com/h0mbre/Lucid | 74 | 6| 
 | 20240229T01:22:18Z | Null | https://github.com/Fuzzball24816/Fuzzball24816.github.io | 1 | 0| 
 | 20240229T01:16:25Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52402 | 23190| 
 | 20240229T01:02:41Z | Code for the %Predictive Context-sensitive Fuzzing% NDSS%24 paper | https://github.com/eurecom-s3/predictive-cs-fuzzing | 10 | 0| 
@@ -132,7 +133,6 @@
 | 20240228T23:57:02Z | Null | https://github.com/ezvedda/fuzzy-train | 36 | 0| 
 | 20240228T23:14:55Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4488 | 912| 
 | 20240228T23:11:11Z | Null | https://github.com/emmesetweb/fuzzy-telegram | 0 | 0| 
-| 20240228T20:13:29Z | An educational Bochs-based snapshot fuzzer project | https://github.com/h0mbre/Lucid | 73 | 6| 
 | 20240228T13:20:56Z | Null | https://github.com/ycka2/fuzzy-moon | 0 | 0| 
 
 

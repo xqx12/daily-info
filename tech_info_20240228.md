@@ -97,13 +97,13 @@
 | 20240228T23:57:02Z | Null | https://github.com/ezvedda/fuzzy-train | 36 | 0| 
 | 20240228T23:14:55Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4488 | 912| 
 | 20240228T23:11:11Z | Null | https://github.com/emmesetweb/fuzzy-telegram | 0 | 0| 
-| 20240228T20:13:29Z | An educational Bochs-based snapshot fuzzer project | https://github.com/h0mbre/Lucid | 73 | 6| 
 | 20240228T13:20:56Z | Null | https://github.com/ycka2/fuzzy-moon | 0 | 0| 
 | 20240228T12:35:18Z | Null | https://github.com/GrafVonTee/fuzzy-patrol | 0 | 0| 
 | 20240228T12:02:09Z | Go library that provides fuzzy string matching optimized for filenames and code symbols in the style of Sublime Text, VSCode, IntelliJ IDEA et al. | https://github.com/sahilm/fuzzy | 1266 | 63| 
 | 20240228T11:54:58Z | Null | https://github.com/reewardius/bbFuzzing.txt | 249 | 54| 
 | 20240228T11:39:55Z | Null | https://github.com/maaz-kang-92/Fuzzy-wuzzy | 0 | 0| 
 | 20240228T11:35:36Z | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... | https://github.com/AFLplusplus/LibAFL | 1778 | 267| 
+| 20240228T11:26:28Z | Null | https://github.com/GrafVonTee/fuzzy-lib | 0 | 0| 
 
 
 
