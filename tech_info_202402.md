@@ -65,6 +65,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240229T13:58:31Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr715-0075-0007-app--h36O-exploit-communicate | 0 | 0| 
+| 20240229T13:56:51Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr715-0075-0065-app-wMDxJ-assess-exploit | 0 | 0| 
 | 20240229T13:56:36Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr715-0075-0034-app-S6ZE9-exploit-discover | 0 | 0| 
 | 20240229T13:21:04Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5898 | 739| 
 | 20240229T13:04:11Z | GitOps Repository | https://github.com/redhat-appstudio-qe/byoc-app-pign-eJYjl-exploit-differ | 0 | 0| 
@@ -73,8 +75,6 @@
 | 20240229T12:35:53Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 11245 | 1650| 
 | 20240229T12:30:25Z | We present PETGUI: A user-friendly interface for training and testing a language model using Pattern-Exploiting Training (PET). | https://github.com/dieterich-lab/PETGUI | 0 | 0| 
 | 20240229T10:51:02Z | Experience the future of Roblox exploiting with Nezur Roblox Hack, offering a safe and comprehensive suite of cheats including ESP, Aimbot, and more. | https://github.com/kuldipaudibert/Nezur | 1 | 0| 
-| 20240229T10:14:42Z | A chronological and (hopefully) complete list of reentrancy attacks to date. | https://github.com/pcaversaccio/reentrancy-attacks | 1163 | 123| 
-| 20240229T08:43:09Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 796 | 184| 
 
 
 # backdoor on Github 推荐
