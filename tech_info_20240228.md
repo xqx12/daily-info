@@ -51,6 +51,7 @@
 | --- | --- | --- | --- | ---| 
 | 20240228T23:48:52Z | Null | https://github.com/H644b/Exploits4Site | 0 | 0| 
 | 20240228T19:20:50Z | Experience the future of Roblox exploiting with Nezur Roblox Hack, offering a safe and comprehensive suite of cheats including ESP, Aimbot, and more. | https://github.com/wiederholtzmotogp/Nezur | 3 | 0| 
+| 20240228T18:53:12Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 260 | 20| 
 | 20240228T16:18:49Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5817 | 1090| 
 | 20240228T13:45:31Z | Exploit QRGen v1.0 | https://github.com/anezatra/exploit-qrgen | 0 | 0| 
 | 20240228T13:34:56Z | A solution to the multi-armed bandit problem, which is a classic reinforcement learning problem that exemplifies the exploration–exploitation tradeoff dilemma. | https://github.com/gyanantaran/epsilon-greedy | 0 | 0| 
@@ -58,7 +59,6 @@
 | 20240228T13:01:25Z | FIMjector is an exploit for OpenAI GPT models based on Fill-In-the-Middle (FIM) tokens. | https://github.com/wwa/FIMjector | 0 | 0| 
 | 20240228T12:57:38Z | Null | https://github.com/G01d3nW01f/wordpress-4.6-rce-exploit | 0 | 0| 
 | 20240228T11:16:30Z | just a silly roblox exploiting scripts | https://github.com/Keori8Cheese/silly | 0 | 0| 
-| 20240228T04:37:18Z | This project aims to further your knowledge in the world of elf-like binary exploitation in i386 system. | https://github.com/thoberth/Rainfall | 0 | 0| 
 
 
 # backdoor on Github 推荐
