@@ -40,8 +40,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240229T13:21:04Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5898 | 739| 
 | 20240229T13:04:11Z | GitOps Repository | https://github.com/redhat-appstudio-qe/byoc-app-pign-eJYjl-exploit-differ | 0 | 0| 
-| 20240229T12:42:10Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5897 | 739| 
 | 20240229T12:41:19Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5818 | 1090| 
 | 20240229T12:37:59Z | Official implementation of %Exploiting the Signal-Leak Bias in Diffusion Models% (WACV 2024) | https://github.com/IVRL/signal-leak-bias | 2 | 0| 
 | 20240229T12:35:53Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 11245 | 1650| 
