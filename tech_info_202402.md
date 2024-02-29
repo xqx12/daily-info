@@ -79,7 +79,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240229T12:46:14Z | A collection of webshell | https://github.com/Peaky-XD/webshell | 27 | 5| 
+| 20240229T13:06:49Z | A collection of webshell | https://github.com/Peaky-XD/webshell | 28 | 5| 
 | 20240229T12:17:33Z | Venomancer: Towards Imperceptible and Target-on-Demand Backdoor Attack in Federated Learning | https://github.com/nguyenhongson1902/Venomancer | 1 | 0| 
 | 20240229T09:55:06Z | Null | https://github.com/AntigoneRandy/QuantBackdoor_EFRAP | 1 | 0| 
 | 20240228T21:58:46Z | This repository contains the implementation and results of the %Backdoor Attacks%. It focuses on understanding and defending against backdoor attacks in machine learning models, a critical aspect of cybersecurity. | https://github.com/AmruthaPatil/NYU-Backdoor-Attacks | 0 | 0| 
@@ -126,6 +126,7 @@
 | --- | --- | --- | --- | ---| 
 | 20240229T12:53:07Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4491 | 913| 
 | 20240229T12:45:55Z | enkiji | https://github.com/Jlenlen/fuzzy-system | 0 | 0| 
+| 20240229T12:38:43Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9471 | 2041| 
 | 20240229T12:37:57Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 5046 | 1155| 
 | 20240229T12:18:09Z | Fan speed control using fuzzy logic. | https://github.com/gracjanh/FuzzyLogicController | 0 | 0| 
 | 20240229T12:18:04Z | Null | https://github.com/MdSajid1044/NeuroFuzzy-RVFL_2024 | 0 | 0| 
@@ -133,7 +134,6 @@
 | 20240229T11:50:17Z | USSD stuff | https://github.com/Tiffany-kay/fuzzy-journey | 0 | 0| 
 | 20240229T11:44:31Z | Null | https://github.com/thalinta-miranda/fuzzy-moon | 0 | 0| 
 | 20240229T02:04:43Z | An educational Bochs-based snapshot fuzzer project | https://github.com/h0mbre/Lucid | 74 | 6| 
-| 20240229T01:22:18Z | Null | https://github.com/Fuzzball24816/Fuzzball24816.github.io | 1 | 0| 
 
 
 
