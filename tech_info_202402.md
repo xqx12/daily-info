@@ -124,8 +124,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240229T01:16:25Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52402 | 23190| 
 | 20240229T01:02:41Z | Code for the %Predictive Context-sensitive Fuzzing% NDSS%24 paper | https://github.com/eurecom-s3/predictive-cs-fuzzing | 10 | 0| 
-| 20240229T00:59:29Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52401 | 23189| 
 | 20240229T00:47:40Z | CSC230 week06 assignment to build a full-stack MERN application | https://github.com/tylerteichmann/fuzzy-happiness | 0 | 0| 
 | 20240229T00:46:24Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2507 | 314| 
 | 20240228T23:57:02Z | Null | https://github.com/ezvedda/fuzzy-train | 36 | 0| 
