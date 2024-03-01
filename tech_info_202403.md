@@ -87,10 +87,10 @@
 | 20240301T11:41:12Z | Null | https://github.com/cogoo/fuzzy-engine | 0 | 0| 
 | 20240301T11:24:02Z | Null | https://github.com/hotstuff89nosadtohappy3894/fuzzy-rotary-phone | 0 | 0| 
 | 20240301T11:11:24Z | Null | https://github.com/tbasslex/fuzzy-moon | 0 | 0| 
+| 20240301T09:56:23Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 5045 | 1155| 
 | 20240301T09:38:46Z | Null | https://github.com/heelins88doctor5725/fuzzy-train | 0 | 0| 
 | 20240301T09:25:14Z | Null | https://github.com/major-mcneil45/fuzzy-guide | 0 | 0| 
 | 20240301T06:53:31Z | Fuzzing corpoa for ref-fvm and connected libraries | https://github.com/filecoin-project/ref-fvm-fuzz-corpora | 3 | 1| 
-| 20240301T02:27:29Z | Null | https://github.com/slebetman/git-fuzzy-checkout | 0 | 0| 
 
 
 
