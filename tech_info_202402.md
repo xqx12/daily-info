@@ -110,7 +110,6 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240229T23:27:27Z | (NDSS 2024) Optimizing Decompiler Output with LLM | https://github.com/PeiweiHu/DeGPT | 33 | 0| 
 | 20240229T17:16:52Z | This repository contains the code that implements the Distributed and Oclussion-Robust Patch (DorPatch) described in our paper %DorPatch: Distributed and Occlusion-Robust adversarial Patch to Evade Certifiable Defenses% published at NDSS 2024. | https://github.com/CGCL-codes/DorPatch | 3 | 0| 
 | 20240229T05:28:24Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 143 | 16| 
 | 20240229T01:02:41Z | Code for the %Predictive Context-sensitive Fuzzing% NDSS%24 paper | https://github.com/eurecom-s3/predictive-cs-fuzzing | 10 | 0| 
@@ -120,6 +119,7 @@
 | 20240222T12:38:24Z | Release of the Dataset accompanying the poster at NDSS 2024 | https://github.com/cybergreen-net/Scanner-Dataset-NDSS-Release | 0 | 0| 
 | 20240218T07:12:46Z | ndss & usenix security papers | https://github.com/wqmsybpw/security_papers_collection | 0 | 0| 
 | 20240213T13:37:37Z | Artifacts for NDSS%24 paper %Efficient and Timely Revocation of V2X Credentials% | https://github.com/EricssonResearch/v2x-self-revocation | 4 | 0| 
+| 20240212T18:22:41Z | NDSS 2024 - CamPro: Camera-based Anti-Facial Recognition | https://github.com/forget2save/CamPro | 1 | 1| 
 
 
 # fuzz on Github 推荐
