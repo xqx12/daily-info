@@ -17,7 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240301T12:58:13Z | CVE-2023-50386 | Apache Solr Backup/Restore APIs RCE Poc (CVE-2023-50386) | https://github.com/vvmdx/Apache-Solr-RCE_CVE-2023-50386_POC | | 
+| 20240301T13:22:09Z | CVE-2023-50386 | Apache Solr Backup/Restore APIs RCE Poc (CVE-2023-50386) | https://github.com/vvmdx/Apache-Solr-RCE_CVE-2023-50386_POC | | 
 | 20240301T12:02:08Z | CVE-2023-51801 | Simple Student Attendance System v.1.0 - Multiple SQL injection vulnerabilities - student_form.php and class_form.php | https://github.com/geraldoalcantara/CVE-2023-51801 | | 
 | 20240301T11:35:47Z | CVE-2023-43318 | JetStream Smart Switch - TL-SG2210P v5.0/ Improper Access Control / CVE-2023-43318 | https://github.com/str2ver/CVE-2023-43318 | | 
 | 20240301T11:17:08Z | CVE-2024-1512 | PoC for CVE-2024-1512 in MasterStudy LMS WordPress Plugin. | https://github.com/rat-c/CVE-2024-1512 | | 
