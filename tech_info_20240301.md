@@ -81,6 +81,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240301T13:40:44Z | Null | https://github.com/CipherSnowden/tangent-fuzzy | 0 | 0| 
+| 20240301T13:40:20Z | Null | https://github.com/acmodey228/fuzzy-barnacle | 0 | 0| 
 | 20240301T12:44:40Z | Null | https://github.com/20hnu/fuzzy_logic_python | 0 | 0| 
 | 20240301T12:39:59Z | This is a demo repository | https://github.com/Alizaryoun/Fuzzy | 0 | 0| 
 | 20240301T12:34:18Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9473 | 2042| 
@@ -89,8 +91,6 @@
 | 20240301T11:11:24Z | Null | https://github.com/tbasslex/fuzzy-moon | 0 | 0| 
 | 20240301T09:56:23Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 5045 | 1155| 
 | 20240301T09:38:46Z | Null | https://github.com/heelins88doctor5725/fuzzy-train | 0 | 0| 
-| 20240301T09:25:14Z | Null | https://github.com/major-mcneil45/fuzzy-guide | 0 | 0| 
-| 20240301T06:53:31Z | Fuzzing corpoa for ref-fvm and connected libraries | https://github.com/filecoin-project/ref-fvm-fuzz-corpora | 3 | 1| 
 
 
 
