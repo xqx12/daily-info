@@ -26,22 +26,22 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240229T13:43:18Z | CVE-2023-50386 | Apache Solr Backup/Restore APIs RCE Poc (CVE-2023-50386) | https://github.com/vvmdx/Apache-Solr-RCE_CVE-2023-50386_POC | | 
+| 20240229T22:06:18Z | CVE-2021-3345 | Actual working exploit for CVE-2021-3345 | https://github.com/SpiralBL0CK/CVE-2021-3345 | | 
+| 20240229T21:26:34Z | CVE-2024-23897 | CVE-2024-23897 , Jenkins <= 2.441 & <= LTS 2.426.2 PoC and scanner.  | https://github.com/xaitax/CVE-2024-23897 | | 
+| 20240229T21:09:33Z | CVE-2024-1651 | (Mirorring) | https://github.com/hy011121/CVE-2024-1651-exploit-RCE | | 
+| 20240229T21:04:57Z | CVE-2024-25600 | (Mirorring) | https://github.com/hy011121/CVE-2024-25600-wordpress-Exploit-RCE | | 
 | 20240229T12:08:42Z | CVE-2024-21413 | Null | https://github.com/dshabani96/CVE-2024-21413 | | 
 | 20240229T06:22:51Z | CVE-2023-0386 | Null | https://github.com/letsr00t/CVE-2023-0386 | | 
 | 20240229T04:47:29Z | CVE-2024-21762 | FortiOS 6.0 - 7.4.2 Out of bound exploit --> RCE!!! | https://github.com/c0d3b3af/CVE-2024-21762-POC | | 
 | 20240229T03:55:28Z | CVE-2023-36407 | Null | https://github.com/pwndorei/CVE-2023-36407 | | 
 | 20240228T22:32:55Z | CVE-2024-23334 | CVE-2024-23334 | https://github.com/ox1111/CVE-2024-23334 | | 
 | 20240228T21:29:24Z | CVE-2020-35489 | Null | https://github.com/thebunjo/CVE-2020-35489 | | 
-| 20240228T21:12:50Z | CVE-2023-40000 | LiteSpeed Cache plugin for WordPress that could enable unauthenticated users to escalate their privileges | https://github.com/rxerium/CVE-2023-40000 | | 
-| 20240228T16:07:38Z | CVE-2023-39362 | Null | https://github.com/jakabakos/CVE-2023-39362-cacti-snmp-command-injection-poc | | 
-| 20240228T13:10:25Z | CVE-2024-1071 | Ultimate Member Unauthorized Database Access / SQLi | https://github.com/gbrsh/CVE-2024-1071 | | 
 
 
 # klee on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240229T09:50:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2422 | 646| 
+| 20240229T09:50:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2422 | 647| 
 | 20240228T16:38:48Z | Null | https://github.com/2khanh/kleetcode | 0 | 0| 
 | 20240228T15:30:50Z | Null | https://github.com/Klee1453/klee1453.github.io | 0 | 0| 
 | 20240228T14:28:48Z | A Guix channel for reproducible symbolic execution research | https://github.com/agra-uni-bremen/guix-symex | 0 | 0| 
@@ -65,31 +65,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240229T23:42:31Z | Collection of scripts for automated Vulnerability scaning/exploiting and report generation. [bash/python] | https://github.com/vaishnavucv/autoscan | 0 | 1| 
+| 20240229T19:31:22Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5820 | 1090| 
+| 20240229T19:21:31Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/GhostTroops/TOP | 607 | 121| 
 | 20240229T13:58:31Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr715-0075-0007-app--h36O-exploit-communicate | 0 | 0| 
 | 20240229T13:56:51Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr715-0075-0065-app-wMDxJ-assess-exploit | 0 | 0| 
 | 20240229T13:56:36Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr715-0075-0034-app-S6ZE9-exploit-discover | 0 | 0| 
 | 20240229T13:21:04Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5898 | 739| 
 | 20240229T13:04:11Z | GitOps Repository | https://github.com/redhat-appstudio-qe/byoc-app-pign-eJYjl-exploit-differ | 0 | 0| 
-| 20240229T12:41:19Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5818 | 1090| 
 | 20240229T12:37:59Z | Official implementation of %Exploiting the Signal-Leak Bias in Diffusion Models% (WACV 2024) | https://github.com/IVRL/signal-leak-bias | 2 | 0| 
 | 20240229T12:35:53Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 11245 | 1650| 
-| 20240229T12:30:25Z | We present PETGUI: A user-friendly interface for training and testing a language model using Pattern-Exploiting Training (PET). | https://github.com/dieterich-lab/PETGUI | 0 | 0| 
-| 20240229T10:51:02Z | Experience the future of Roblox exploiting with Nezur Roblox Hack, offering a safe and comprehensive suite of cheats including ESP, Aimbot, and more. | https://github.com/kuldipaudibert/Nezur | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240229T21:42:06Z | Pentesting self-written code. I am just learning. | https://github.com/sousou15/BackdoorRAT | 0 | 0| 
+| 20240229T21:31:45Z | A list of web shell, bind shell, and reverse shell that I have created. | https://github.com/whilmarbitoco/python-backdoor | 0 | 0| 
+| 20240229T21:30:57Z | Official Repo of ICLR 24 BadChain: Backdoor Chain-of-Thought Prompting for Large Language Models | https://github.com/Django-Jiang/BadChain | 2 | 0| 
+| 20240229T20:39:55Z | LD_PRELOAD rootkit | https://github.com/mav8557/Father | 114 | 26| 
+| 20240229T19:07:32Z | wow I reverse engineered it!! | https://github.com/ant-7802/smorenitez-backdoor.best | 0 | 0| 
+| 20240229T17:42:37Z | Static code analyser for backdoors and malicious code in git repos using OpenAI compatible LLM APIs | https://github.com/referefref/gitdoorcheck | 0 | 0| 
+| 20240229T16:11:05Z | BitRAT CrackedIt is meticulously constructed utilizing the C++ programming language. It stands as the most recent iteration of the premier PC RAT for the year 2023. Regarded as a prized tool | https://github.com/Boykaos/Bitrat-Hvnc-Rat-Remote-Control-Av-Bypass | 2 | 0| 
 | 20240229T13:40:35Z | Null | https://github.com/Heafold/security_backdoor1 | 0 | 0| 
-| 20240229T13:06:49Z | A collection of webshell | https://github.com/Peaky-XD/webshell | 28 | 6| 
 | 20240229T12:17:33Z | Venomancer: Towards Imperceptible and Target-on-Demand Backdoor Attack in Federated Learning | https://github.com/nguyenhongson1902/Venomancer | 1 | 0| 
 | 20240229T09:55:06Z | Null | https://github.com/AntigoneRandy/QuantBackdoor_EFRAP | 1 | 0| 
-| 20240228T21:58:46Z | This repository contains the implementation and results of the %Backdoor Attacks%. It focuses on understanding and defending against backdoor attacks in machine learning models, a critical aspect of cybersecurity. | https://github.com/AmruthaPatil/NYU-Backdoor-Attacks | 0 | 0| 
-| 20240228T17:39:38Z | Null | https://github.com/AcronRK/backdoor-attacks | 1 | 0| 
-| 20240228T17:03:05Z | Null | https://github.com/sekhriabdelali/Backdoor-project | 0 | 0| 
-| 20240228T11:31:21Z | AV evading OSX Backdoor and Crypter Framework | https://github.com/SubGlitch1/OSRipper | 241 | 48| 
-| 20240228T09:21:02Z | An implementation of the hidden trigger backdoor attack introduced by Saha et al.  | https://github.com/arm-on/hidden-trigger-backdoor-attack | 0 | 0| 
-| 20240228T08:42:39Z | Step into the world of remote control mastery with Telegram Backdoor – where every chat becomes a gateway to  your compter%s command center | https://github.com/hack505/Telegram_BackDoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -125,16 +125,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240229T23:26:36Z | Null | https://github.com/yangzao/fuzzCompilers | 0 | 0| 
+| 20240229T22:36:34Z | Null | https://github.com/Chiemezie123/FuzzyMusicApp | 0 | 0| 
+| 20240229T21:39:41Z | Null | https://github.com/weeseglobalbanan409/fuzzy-garbanzo | 3 | 0| 
+| 20240229T18:31:15Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9472 | 2041| 
 | 20240229T12:53:07Z | The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! | https://github.com/AFLplusplus/AFLplusplus | 4491 | 913| 
 | 20240229T12:45:55Z | enkiji | https://github.com/Jlenlen/fuzzy-system | 0 | 0| 
-| 20240229T12:38:43Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9471 | 2041| 
 | 20240229T12:37:57Z | syzkaller is an unsupervised coverage-guided kernel fuzzer | https://github.com/google/syzkaller | 5046 | 1155| 
 | 20240229T12:18:09Z | Fan speed control using fuzzy logic. | https://github.com/gracjanh/FuzzyLogicController | 0 | 0| 
 | 20240229T12:18:04Z | Null | https://github.com/MdSajid1044/NeuroFuzzy-RVFL_2024 | 0 | 0| 
 | 20240229T11:52:54Z | Null | https://github.com/alperenwebcoding/fuzzy-broccoli | 0 | 0| 
-| 20240229T11:50:17Z | USSD stuff | https://github.com/Tiffany-kay/fuzzy-journey | 0 | 0| 
-| 20240229T11:44:31Z | Null | https://github.com/thalinta-miranda/fuzzy-moon | 0 | 0| 
-| 20240229T02:04:43Z | An educational Bochs-based snapshot fuzzer project | https://github.com/h0mbre/Lucid | 74 | 6| 
 
 
 
