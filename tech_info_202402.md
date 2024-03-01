@@ -80,7 +80,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240229T21:42:06Z | Pentesting self-written code. I am just learning. | https://github.com/sousou15/BackdoorRAT | 0 | 0| 
 | 20240229T21:31:45Z | A list of web shell, bind shell, and reverse shell that I have created. | https://github.com/whilmarbitoco/python-backdoor | 0 | 0| 
 | 20240229T21:30:57Z | Official Repo of ICLR 24 BadChain: Backdoor Chain-of-Thought Prompting for Large Language Models | https://github.com/Django-Jiang/BadChain | 2 | 0| 
 | 20240229T20:39:55Z | LD_PRELOAD rootkit | https://github.com/mav8557/Father | 114 | 26| 
@@ -90,6 +89,7 @@
 | 20240229T13:40:35Z | Null | https://github.com/Heafold/security_backdoor1 | 0 | 0| 
 | 20240229T12:17:33Z | Venomancer: Towards Imperceptible and Target-on-Demand Backdoor Attack in Federated Learning | https://github.com/nguyenhongson1902/Venomancer | 1 | 0| 
 | 20240229T09:55:06Z | Null | https://github.com/AntigoneRandy/QuantBackdoor_EFRAP | 1 | 0| 
+| 20240228T21:58:46Z | This repository contains the implementation and results of the %Backdoor Attacks%. It focuses on understanding and defending against backdoor attacks in machine learning models, a critical aspect of cybersecurity. | https://github.com/AmruthaPatil/NYU-Backdoor-Attacks | 0 | 0| 
 
 
 # symbolic execution on Github 推荐

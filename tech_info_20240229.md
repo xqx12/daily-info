@@ -57,7 +57,6 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240229T21:42:06Z | Pentesting self-written code. I am just learning. | https://github.com/sousou15/BackdoorRAT | 0 | 0| 
 | 20240229T21:31:45Z | A list of web shell, bind shell, and reverse shell that I have created. | https://github.com/whilmarbitoco/python-backdoor | 0 | 0| 
 | 20240229T21:30:57Z | Official Repo of ICLR 24 BadChain: Backdoor Chain-of-Thought Prompting for Large Language Models | https://github.com/Django-Jiang/BadChain | 2 | 0| 
 | 20240229T20:39:55Z | LD_PRELOAD rootkit | https://github.com/mav8557/Father | 114 | 26| 
