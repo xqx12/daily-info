@@ -42,6 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240301T13:50:56Z | staatsspoorwegen website as a joke | https://github.com/hardworkingconductor/Maatschappij-tot-Exploitatie-van-Staatsspoorwegen-wesite-J | 0 | 0| 
 | 20240301T12:50:19Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 11248 | 1650| 
 | 20240301T12:48:09Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 797 | 184| 
 | 20240301T11:27:51Z | Application de suivi des opérations en exploitation | https://github.com/AlainTitus/FollowSmart | 0 | 0| 
@@ -51,7 +52,6 @@
 | 20240301T01:59:37Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr715-0075-0020-app-TYEdK-exploit-invest | 0 | 0| 
 | 20240301T01:54:02Z | Null | https://github.com/codingcore13/Silent-JPG-Exploit-NEW-tz | 1 | 0| 
 | 20240301T01:53:22Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-tz | 1 | 0| 
-| 20240301T01:52:35Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-tz | 1 | 0| 
 
 
 # backdoor on Github 推荐
@@ -81,7 +81,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240301T13:45:59Z | Null | https://github.com/CipherSnowden/tangent-fuzzy | 0 | 0| 
+| 20240301T13:52:09Z | Null | https://github.com/CipherSnowden/tangent-fuzzy | 0 | 0| 
 | 20240301T13:40:20Z | Null | https://github.com/acmodey228/fuzzy-barnacle | 0 | 0| 
 | 20240301T12:44:40Z | Null | https://github.com/20hnu/fuzzy_logic_python | 0 | 0| 
 | 20240301T12:39:59Z | This is a demo repository | https://github.com/Alizaryoun/Fuzzy | 0 | 0| 
