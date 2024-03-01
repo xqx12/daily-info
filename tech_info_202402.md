@@ -26,7 +26,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240229T22:06:18Z | CVE-2021-3345 | Actual working exploit for CVE-2021-3345 | https://github.com/SpiralBL0CK/CVE-2021-3345 | | 
 | 20240229T21:26:34Z | CVE-2024-23897 | CVE-2024-23897 , Jenkins <= 2.441 & <= LTS 2.426.2 PoC and scanner.  | https://github.com/xaitax/CVE-2024-23897 | | 
 | 20240229T21:09:33Z | CVE-2024-1651 | (Mirorring) | https://github.com/hy011121/CVE-2024-1651-exploit-RCE | | 
 | 20240229T21:04:57Z | CVE-2024-25600 | (Mirorring) | https://github.com/hy011121/CVE-2024-25600-wordpress-Exploit-RCE | | 
@@ -36,6 +35,7 @@
 | 20240229T03:55:28Z | CVE-2023-36407 | Null | https://github.com/pwndorei/CVE-2023-36407 | | 
 | 20240228T22:32:55Z | CVE-2024-23334 | CVE-2024-23334 | https://github.com/ox1111/CVE-2024-23334 | | 
 | 20240228T21:29:24Z | CVE-2020-35489 | Null | https://github.com/thebunjo/CVE-2020-35489 | | 
+| 20240228T21:12:50Z | CVE-2023-40000 | LiteSpeed Cache plugin for WordPress that could enable unauthenticated users to escalate their privileges | https://github.com/rxerium/CVE-2023-40000 | | 
 
 
 # klee on Github 推荐

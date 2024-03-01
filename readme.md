@@ -18,7 +18,6 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240229T22:06:18Z | CVE-2021-3345 | Actual working exploit for CVE-2021-3345 | https://github.com/SpiralBL0CK/CVE-2021-3345 | | 
 | 20240229T21:26:34Z | CVE-2024-23897 | CVE-2024-23897 , Jenkins <= 2.441 & <= LTS 2.426.2 PoC and scanner.  | https://github.com/xaitax/CVE-2024-23897 | | 
 | 20240229T21:09:33Z | CVE-2024-1651 | (Mirorring) | https://github.com/hy011121/CVE-2024-1651-exploit-RCE | | 
 | 20240229T21:04:57Z | CVE-2024-25600 | (Mirorring) | https://github.com/hy011121/CVE-2024-25600-wordpress-Exploit-RCE | | 
