@@ -42,6 +42,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240301T13:57:43Z | staatsspoorwegen website as a joke | https://github.com/hardworkingconductor/Maatschappij-tot-Exploitatie-van-Staatsspoorwegen.github.io | 0 | 0| 
 | 20240301T13:55:17Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr715-0075-0065-app-wMDxJ-exploit-carry | 0 | 0| 
 | 20240301T13:50:56Z | staatsspoorwegen website as a joke | https://github.com/hardworkingconductor/Maatschappij-tot-Exploitatie-van-Staatsspoorwegen-wesite-J | 0 | 0| 
 | 20240301T12:50:19Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 11248 | 1650| 
@@ -51,7 +52,6 @@
 | 20240301T11:02:27Z | Java libraries for working with available vulnerability data sources (GitHub Security Advisories, NVD, EPSS, CISA Known Exploited Vulnerabilities, etc.) | https://github.com/jeremylong/Open-Vulnerability-Project | 75 | 20| 
 | 20240301T02:27:44Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5821 | 1090| 
 | 20240301T01:59:37Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr715-0075-0020-app-TYEdK-exploit-invest | 0 | 0| 
-| 20240301T01:54:02Z | Null | https://github.com/codingcore13/Silent-JPG-Exploit-NEW-tz | 1 | 0| 
 
 
 # backdoor on Github 推荐
