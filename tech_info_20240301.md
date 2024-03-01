@@ -46,12 +46,12 @@
 | 20240301T12:48:09Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 797 | 184| 
 | 20240301T11:27:51Z | Application de suivi des opérations en exploitation | https://github.com/AlainTitus/FollowSmart | 0 | 0| 
 | 20240301T11:18:47Z | Personal repository related to Offensive and Defensive Cybersecurity 2023 course at Politecnico di Milano with practical challenges in areas such as shellcode, reverse engineering, ROP, exploit mitigations, heap exploitation, symbolic execution, race conditions, serialization vulnerabilities, XSS, and packer analysis. | https://github.com/giusegu/ODC_Challenges | 0 | 0| 
+| 20240301T11:02:27Z | Java libraries for working with available vulnerability data sources (GitHub Security Advisories, NVD, EPSS, CISA Known Exploited Vulnerabilities, etc.) | https://github.com/jeremylong/Open-Vulnerability-Project | 75 | 20| 
 | 20240301T02:27:44Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5821 | 1090| 
 | 20240301T01:59:37Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr715-0075-0020-app-TYEdK-exploit-invest | 0 | 0| 
 | 20240301T01:54:02Z | Null | https://github.com/codingcore13/Silent-JPG-Exploit-NEW-tz | 1 | 0| 
 | 20240301T01:53:22Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-tz | 1 | 0| 
 | 20240301T01:52:35Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-tz | 1 | 0| 
-| 20240301T01:51:41Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-tz | 1 | 0| 
 
 
 # backdoor on Github 推荐
