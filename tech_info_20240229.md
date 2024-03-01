@@ -73,7 +73,7 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240229T09:50:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2422 | 646| 
+| 20240229T09:50:07Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2422 | 647| 
 | 20240229T09:12:25Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 228 | 22| 
 | 20240229T01:19:20Z | Use angr in Ghidra | https://github.com/Nalen98/AngryGhidra | 513 | 45| 
 
@@ -81,6 +81,8 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240229T23:27:27Z | (NDSS 2024) Optimizing Decompiler Output with LLM | https://github.com/PeiweiHu/DeGPT | 33 | 0| 
+| 20240229T17:16:52Z | This repository contains the code that implements the Distributed and Oclussion-Robust Patch (DorPatch) described in our paper %DorPatch: Distributed and Occlusion-Robust adversarial Patch to Evade Certifiable Defenses% published at NDSS 2024. | https://github.com/CGCL-codes/DorPatch | 3 | 0| 
 | 20240229T05:28:24Z | find relevant security papers published in the top-4 conferences (S&P, USENIX, CCS, NDSS) | https://github.com/Kyle-Kyle/top4grep | 143 | 16| 
 | 20240229T01:02:41Z | Code for the %Predictive Context-sensitive Fuzzing% NDSS%24 paper | https://github.com/eurecom-s3/predictive-cs-fuzzing | 10 | 0| 
 
