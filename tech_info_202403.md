@@ -81,7 +81,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240301T13:40:44Z | Null | https://github.com/CipherSnowden/tangent-fuzzy | 0 | 0| 
+| 20240301T13:45:59Z | Null | https://github.com/CipherSnowden/tangent-fuzzy | 0 | 0| 
 | 20240301T13:40:20Z | Null | https://github.com/acmodey228/fuzzy-barnacle | 0 | 0| 
 | 20240301T12:44:40Z | Null | https://github.com/20hnu/fuzzy_logic_python | 0 | 0| 
 | 20240301T12:39:59Z | This is a demo repository | https://github.com/Alizaryoun/Fuzzy | 0 | 0| 
