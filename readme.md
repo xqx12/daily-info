@@ -67,11 +67,14 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240301T11:18:47Z | Personal repository related to Offensive and Defensive Cybersecurity 2023 course at Politecnico di Milano with practical challenges in areas such as shellcode, reverse engineering, ROP, exploit mitigations, heap exploitation, symbolic execution, race conditions, serialization vulnerabilities, XSS, and packer analysis. | https://github.com/giusegu/ODC_Challenges | 0 | 0| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240301T08:08:43Z | Large Language Model guided Protocol Fuzzing (NDSS%24) | https://github.com/ChatAFLndss/ChatAFL | 163 | 14| 
+| 20240301T07:15:44Z | Code for the %Predictive Context-sensitive Fuzzing% NDSS%24 paper | https://github.com/eurecom-s3/predictive-cs-fuzzing | 11 | 0| 
 | 20240301T01:58:07Z | (NDSS 2024) Optimizing Decompiler Output with LLM | https://github.com/PeiweiHu/DeGPT | 34 | 0| 
 
 
