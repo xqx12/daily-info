@@ -69,12 +69,12 @@
 | 20240229T20:20:32Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 262 | 20| 
 | 20240229T19:31:22Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5820 | 1090| 
 | 20240229T19:21:31Z | TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | https://github.com/GhostTroops/TOP | 607 | 121| 
+| 20240229T18:59:09Z | something fr | https://github.com/orphanlol/Nosama | 4 | 0| 
 | 20240229T14:42:08Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5899 | 740| 
 | 20240229T13:58:31Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr715-0075-0007-app--h36O-exploit-communicate | 0 | 0| 
 | 20240229T13:56:51Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr715-0075-0065-app-wMDxJ-assess-exploit | 0 | 0| 
 | 20240229T13:56:36Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr715-0075-0034-app-S6ZE9-exploit-discover | 0 | 0| 
 | 20240229T13:04:11Z | GitOps Repository | https://github.com/redhat-appstudio-qe/byoc-app-pign-eJYjl-exploit-differ | 0 | 0| 
-| 20240229T12:37:59Z | Official implementation of %Exploiting the Signal-Leak Bias in Diffusion Models% (WACV 2024) | https://github.com/IVRL/signal-leak-bias | 2 | 0| 
 
 
 # backdoor on Github 推荐
