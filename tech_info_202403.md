@@ -17,7 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240302T00:00:34Z | cve-2024-21762 | Safely detect whether a FortiGate SSL VPN is vulnerable to CVE-2024-21762 | https://github.com/BishopFox/cve-2024-21762-check | | 
+| 20240302T01:21:05Z | cve-2024-21762 | Safely detect whether a FortiGate SSL VPN is vulnerable to CVE-2024-21762 | https://github.com/BishopFox/cve-2024-21762-check | | 
 | 20240301T22:46:50Z | CVE-2023-47218 | POC for CVE-2023-47218 | https://github.com/gogobuster/CVE-2023-47218-POC | | 
 | 20240301T22:40:51Z | CVE-2024-0967 | ArcSight ESM up to 24.0 information disclosure proof-of-concept | https://github.com/Oxdestiny/CVE-2024-0967-exploit | | 
 | 20240301T22:38:57Z | CVE-2024-21672 | POC for CVE-2024-21672 | https://github.com/swagcrafted/CVE-2024-21672-POC | | 
