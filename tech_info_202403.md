@@ -46,6 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240302T13:20:58Z | This repository is for a Decision Making Course assignment, focusing on using Multi-Armed Bandit algorithms, specifically the epsilon-greedy algorithm, for optimizing click-through rates in digital advertising by balancing the exploration of new ads and the exploitation of successful ones. | https://github.com/prusrafal/Click-Through-Rate-Prediction-Model | 0 | 0| 
 | 20240302T12:24:09Z | Permissionless on-chain EXPLOIT bounties tied to a circuit breaker | https://github.com/merklejerk/honeypause | 0 | 0| 
 | 20240302T11:53:01Z | SploitScan is a sophisticated cybersecurity utility designed to provide detailed information on vulnerabilities and associated proof-of-concept (PoC) exploits. | https://github.com/xaitax/SploitScan | 386 | 55| 
 | 20240302T11:47:25Z | A new approach to late fusion that exploits XAI explanations of individual models to perform a dynamic and flexible weighted sum for solving binary and other tasks. Explusion stands for Explainable late fusion. | https://github.com/Fidirik17/Explusion_framework | 0 | 0| 
@@ -55,7 +56,6 @@
 | 20240302T09:16:26Z | Exploiting the pre-authentication code execution vulnerability found on RV130 cisco routers in 2019. | https://github.com/Oraxiage/CVE-2019-1663 | 0 | 0| 
 | 20240302T02:30:21Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-nodejs-x1IUP-exploit-require | 0 | 0| 
 | 20240302T02:15:04Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-unsupported-runtime-6FhA0-qualify-exploit | 0 | 0| 
-| 20240302T00:45:11Z | Null | https://github.com/codingcore13/Silent-JPG-Exploit-NEW-ra | 1 | 0| 
 
 
 # backdoor on Github 推荐
