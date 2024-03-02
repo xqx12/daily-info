@@ -92,13 +92,13 @@
 | 20240301T22:16:44Z | Null | https://github.com/galacticcouncil/HydraDX-fuzzers | 0 | 0| 
 | 20240301T20:55:42Z | OSS FUZZ TESTING | https://github.com/adibisoyi/OSS_FUZZ | 0 | 0| 
 | 20240301T20:31:08Z | Null | https://github.com/HuLkBUStEr007/Fuzz_Test | 0 | 0| 
+| 20240301T20:23:38Z | Null | https://github.com/reewardius/bbFuzzing.txt | 250 | 54| 
 | 20240301T19:51:13Z | Null | https://github.com/phatboislym/fuzzy-palm-tree | 0 | 0| 
 | 20240301T13:52:09Z | Null | https://github.com/CipherSnowden/tangent-fuzzy | 0 | 0| 
 | 20240301T13:40:20Z | Null | https://github.com/acmodey228/fuzzy-barnacle | 0 | 0| 
 | 20240301T12:44:40Z | Null | https://github.com/20hnu/fuzzy_logic_python | 0 | 0| 
 | 20240301T12:39:59Z | This is a demo repository | https://github.com/Alizaryoun/Fuzzy | 0 | 0| 
 | 20240301T12:34:18Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9473 | 2042| 
-| 20240301T11:41:12Z | Null | https://github.com/cogoo/fuzzy-engine | 0 | 0| 
 
 
 
