@@ -46,14 +46,14 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240302T13:56:04Z | Arbitrage-MEVbot is an automated system 🤖 for identifying and exploiting arbitrage opportunities in cryptocurrencies 💰 across different exchanges, allowing to profit from price discrepancies 🔀. | https://github.com/twarag/Arbitrage-Mevbot | 0 | 0| 
+| 20240302T13:57:58Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5905 | 742| 
+| 20240302T13:57:48Z | Arbitrage-MEVbot is an automated system 🤖 for identifying and exploiting arbitrage opportunities in cryptocurrencies 💰 across different exchanges, allowing to profit from price discrepancies 🔀. | https://github.com/twarag/Arbitrage-Mevbot | 1 | 0| 
 | 20240302T13:55:48Z | Offensive and Defensive Cybersecurity Course Challenges at polimi | https://github.com/gio-del/ODC-Challenges-CTF | 0 | 0| 
 | 20240302T13:41:07Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr715-0075-0001-app-6g1d--reduce-exploit | 0 | 0| 
 | 20240302T13:31:17Z | This repository is for a Decision Making Aarhus University Course assignment, focusing on using Multi-Armed Bandit algorithms, specifically the epsilon-greedy algorithm, for optimizing click-through rates in digital advertising by balancing the exploration of new ads and the exploitation of successful ones. | https://github.com/prusrafal/Click-Through-Rate-Prediction-Model | 0 | 0| 
 | 20240302T12:24:09Z | Permissionless on-chain EXPLOIT bounties tied to a circuit breaker | https://github.com/merklejerk/honeypause | 0 | 0| 
 | 20240302T11:53:01Z | SploitScan is a sophisticated cybersecurity utility designed to provide detailed information on vulnerabilities and associated proof-of-concept (PoC) exploits. | https://github.com/xaitax/SploitScan | 386 | 55| 
 | 20240302T11:47:25Z | A new approach to late fusion that exploits XAI explanations of individual models to perform a dynamic and flexible weighted sum for solving binary and other tasks. Explusion stands for Explainable late fusion. | https://github.com/Fidirik17/Explusion_framework | 0 | 0| 
-| 20240302T11:12:54Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5904 | 742| 
 | 20240302T09:29:55Z | Cybersecurity Intelligence: Pursuit, Hacking, and Exploitation Resource | https://github.com/Matti-Krebelder/CIPHER | 0 | 0| 
 | 20240302T09:21:57Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5821 | 1091| 
 
