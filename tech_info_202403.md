@@ -45,6 +45,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240302T02:30:21Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-nodejs-x1IUP-exploit-require | 0 | 0| 
 | 20240302T02:15:04Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-unsupported-runtime-6FhA0-qualify-exploit | 0 | 0| 
 | 20240302T00:45:11Z | Null | https://github.com/codingcore13/Silent-JPG-Exploit-NEW-ra | 1 | 0| 
 | 20240302T00:44:29Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ra | 1 | 0| 
@@ -54,7 +55,6 @@
 | 20240302T00:19:05Z | A Vuln Scaner By Java | https://github.com/adeljck/ExploitX | 1 | 0| 
 | 20240301T23:40:20Z | Null | https://github.com/etststts/exploit | 0 | 0| 
 | 20240301T22:40:51Z | ArcSight ESM up to 24.0 information disclosure proof-of-concept | https://github.com/Oxdestiny/CVE-2024-0967-exploit | 4 | 0| 
-| 20240301T21:53:25Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5822 | 1090| 
 
 
 # backdoor on Github 推荐
