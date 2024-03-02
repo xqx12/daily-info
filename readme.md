@@ -73,6 +73,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240301T23:42:12Z | SymCC: efficient compiler-based symbolic execution | https://github.com/eurecom-s3/symcc | 737 | 128| 
+| 20240301T17:31:14Z | KLEE Symbolic Execution Engine | https://github.com/klee/klee | 2422 | 647| 
 | 20240301T11:18:47Z | Personal repository related to Offensive and Defensive Cybersecurity 2023 course at Politecnico di Milano with practical challenges in areas such as shellcode, reverse engineering, ROP, exploit mitigations, heap exploitation, symbolic execution, race conditions, serialization vulnerabilities, XSS, and packer analysis. | https://github.com/giusegu/ODC_Challenges | 0 | 0| 
 
 
