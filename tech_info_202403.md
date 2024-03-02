@@ -53,7 +53,7 @@
 | 20240301T23:40:20Z | Null | https://github.com/etststts/exploit | 0 | 0| 
 | 20240301T22:40:51Z | ArcSight ESM up to 24.0 information disclosure proof-of-concept | https://github.com/Oxdestiny/CVE-2024-0967-exploit | 4 | 0| 
 | 20240301T21:53:25Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5822 | 1090| 
-| 20240301T13:57:43Z | staatsspoorwegen website as a joke | https://github.com/hardworkingconductor/Maatschappij-tot-Exploitatie-van-Staatsspoorwegen.github.io | 0 | 0| 
+| 20240301T19:54:31Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5902 | 741| 
 
 
 # backdoor on Github 推荐

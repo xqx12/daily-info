@@ -47,13 +47,13 @@
 | 20240301T23:40:20Z | Null | https://github.com/etststts/exploit | 0 | 0| 
 | 20240301T22:40:51Z | ArcSight ESM up to 24.0 information disclosure proof-of-concept | https://github.com/Oxdestiny/CVE-2024-0967-exploit | 4 | 0| 
 | 20240301T21:53:25Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5822 | 1090| 
+| 20240301T19:54:31Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5902 | 741| 
 | 20240301T13:57:43Z | staatsspoorwegen website as a joke | https://github.com/hardworkingconductor/Maatschappij-tot-Exploitatie-van-Staatsspoorwegen.github.io | 0 | 0| 
 | 20240301T13:55:17Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr715-0075-0065-app-wMDxJ-exploit-carry | 0 | 0| 
 | 20240301T13:50:56Z | staatsspoorwegen website as a joke | https://github.com/hardworkingconductor/Maatschappij-tot-Exploitatie-van-Staatsspoorwegen-wesite-J | 0 | 0| 
 | 20240301T12:50:19Z | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | 11248 | 1650| 
 | 20240301T12:48:09Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 797 | 184| 
 | 20240301T11:27:51Z | Application de suivi des opérations en exploitation | https://github.com/AlainTitus/FollowSmart | 0 | 0| 
-| 20240301T11:18:47Z | Personal repository related to Offensive and Defensive Cybersecurity 2023 course at Politecnico di Milano with practical challenges in areas such as shellcode, reverse engineering, ROP, exploit mitigations, heap exploitation, symbolic execution, race conditions, serialization vulnerabilities, XSS, and packer analysis. | https://github.com/giusegu/ODC_Challenges | 0 | 0| 
 
 
 # backdoor on Github 推荐
