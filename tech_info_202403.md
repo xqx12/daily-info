@@ -46,6 +46,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240302T13:34:51Z | Arbitrage-MEVbot is an automated system 🤖 for identifying and exploiting arbitrage opportunities in cryptocurrencies 💰 across different exchanges, allowing to profit from price discrepancies 🔀. | https://github.com/twarag/Arbitrage-Mevbot | 0 | 0| 
 | 20240302T13:31:17Z | This repository is for a Decision Making Aarhus University Course assignment, focusing on using Multi-Armed Bandit algorithms, specifically the epsilon-greedy algorithm, for optimizing click-through rates in digital advertising by balancing the exploration of new ads and the exploitation of successful ones. | https://github.com/prusrafal/Click-Through-Rate-Prediction-Model | 0 | 0| 
 | 20240302T12:24:09Z | Permissionless on-chain EXPLOIT bounties tied to a circuit breaker | https://github.com/merklejerk/honeypause | 0 | 0| 
 | 20240302T11:53:01Z | SploitScan is a sophisticated cybersecurity utility designed to provide detailed information on vulnerabilities and associated proof-of-concept (PoC) exploits. | https://github.com/xaitax/SploitScan | 386 | 55| 
@@ -55,7 +56,6 @@
 | 20240302T09:21:57Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5821 | 1091| 
 | 20240302T09:16:26Z | Exploiting the pre-authentication code execution vulnerability found on RV130 cisco routers in 2019. | https://github.com/Oraxiage/CVE-2019-1663 | 0 | 0| 
 | 20240302T02:30:21Z | GitOps Repository | https://github.com/redhat-appstudio-qe/e2e-nodejs-x1IUP-exploit-require | 0 | 0| 
-| 20240302T02:15:04Z | GitOps Repository | https://github.com/redhat-appstudio-qe/mc-unsupported-runtime-6FhA0-qualify-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
