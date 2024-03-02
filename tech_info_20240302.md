@@ -63,11 +63,15 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240302T12:28:36Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 229 | 22| 
+| 20240302T10:23:58Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 284 | 37| 
 
 
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240302T10:05:37Z | Code for the %Predictive Context-sensitive Fuzzing% NDSS%24 paper | https://github.com/eurecom-s3/predictive-cs-fuzzing | 12 | 0| 
+| 20240302T05:52:51Z | (NDSS 2024) Optimizing Decompiler Output with LLM | https://github.com/PeiweiHu/DeGPT | 35 | 0| 
 
 
 # fuzz on Github 推荐
