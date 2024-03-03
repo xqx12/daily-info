@@ -69,6 +69,8 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240303T09:31:34Z | (NDSS 2024) Optimizing Decompiler Output with LLM | https://github.com/PeiweiHu/DeGPT | 36 | 0| 
+| 20240303T08:17:19Z | Code for the %Predictive Context-sensitive Fuzzing% NDSS%24 paper | https://github.com/eurecom-s3/predictive-cs-fuzzing | 13 | 0| 
 | 20240303T00:56:12Z | Code for Sense (NDSS%24) | https://github.com/sslab-gatech/Sense | 6 | 0| 
 
 
