@@ -48,6 +48,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240303T02:42:52Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 263 | 20| 
 | 20240303T02:29:07Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0059-app-Rnrlw-join-exploit | 0 | 0| 
 | 20240303T02:03:04Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0083-app-0Xs9D-help-exploit | 0 | 0| 
 | 20240303T01:55:46Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr715-0075-0018-app-x6RyJ-exploit-re | 0 | 0| 
@@ -57,7 +58,6 @@
 | 20240303T01:03:10Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-vr | 1 | 0| 
 | 20240303T01:02:20Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-vr | 1 | 0| 
 | 20240303T00:04:40Z | CVE-2024-20291-POC exploit ---> RCE | https://github.com/greandfather/CVE-2024-20291-POC | 0 | 0| 
-| 20240302T23:42:11Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6471 | 827| 
 
 
 # backdoor on Github 推荐
