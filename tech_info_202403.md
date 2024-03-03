@@ -48,6 +48,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240303T02:51:56Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr715-0075-0063-app-WCzM5-differ-exploit | 0 | 0| 
 | 20240303T02:42:52Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 263 | 20| 
 | 20240303T02:29:07Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0059-app-Rnrlw-join-exploit | 0 | 0| 
 | 20240303T02:03:04Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0083-app-0Xs9D-help-exploit | 0 | 0| 
@@ -57,12 +58,12 @@
 | 20240303T01:03:42Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-vr | 1 | 0| 
 | 20240303T01:03:10Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-vr | 1 | 0| 
 | 20240303T01:02:20Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-vr | 1 | 0| 
-| 20240303T00:04:40Z | CVE-2024-20291-POC exploit ---> RCE | https://github.com/greandfather/CVE-2024-20291-POC | 0 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240302T22:33:04Z | Digital Forensics and Incident Response (DFIR) | https://github.com/RENANZG/My-Forensics | 77 | 11| 
 | 20240302T21:23:28Z | A collection of webshell | https://github.com/Peaky-XD/webshell | 43 | 10| 
 | 20240302T19:15:44Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 2570 | 895| 
 | 20240302T15:00:19Z | Null | https://github.com/Mick048/KIP-based-backdoor-attack | 0 | 0| 
@@ -72,7 +73,6 @@
 | 20240301T19:06:56Z | Static code analyser for backdoors and malicious code in git repos using OpenAI compatible LLM APIs | https://github.com/referefref/gitdoorcheck | 4 | 1| 
 | 20240301T17:56:03Z | VenomControl Rat is a Remote Access Tool (RAT) designed to remotely monitor and control other computers through a secure encrypted connection | https://github.com/Boykaos/VenomControl-Rat-Crack-Source | 2 | 0| 
 | 20240301T17:18:12Z | Null | https://github.com/curlytheses/Android-Backdoor | 1 | 0| 
-| 20240301T16:11:17Z | Null | https://github.com/CallMeBatosay/Backdoor | 0 | 0| 
 
 
 # symbolic execution on Github 推荐
