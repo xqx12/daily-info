@@ -17,10 +17,10 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240303T01:34:39Z | cve-2024-21762 | Safely detect whether a FortiGate SSL VPN is vulnerable to CVE-2024-21762 | https://github.com/BishopFox/cve-2024-21762-check | | 
 | 20240303T01:25:17Z | CVE-2024-21672 | POC for CVE-2024-21672 Confluence Data Center and Server RCE | https://github.com/swagcrafted/CVE-2024-21672-POC | | 
 | 20240303T00:04:40Z | CVE-2024-20291 | CVE-2024-20291-POC exploit ---> RCE | https://github.com/greandfather/CVE-2024-20291-POC | | 
 | 20240302T21:18:30Z | CVE-2023-2437 | Null | https://github.com/RxRCoder/CVE-2023-2437 | | 
-| 20240302T19:15:03Z | cve-2024-21762 | Safely detect whether a FortiGate SSL VPN is vulnerable to CVE-2024-21762 | https://github.com/BishopFox/cve-2024-21762-check | | 
 | 20240302T15:01:09Z | CVE-2024-1709 | CVE-2024-1709 ConnectWise ScreenConnect auth bypass patch WORK 2.0  | https://github.com/tr1pl3ight/POCv2.0-for-CVE-2024-1709 | | 
 | 20240302T11:05:13Z | CVE-2024-26521 | Html Injection vulnearbility in CE-Phoenix-v1.0.8.20 where malicious HTML code is inserted into a website. This can lead to a variety of issues, from minor website defacement to serious data breaches. | https://github.com/hackervegas001/CVE-2024-26521 | | 
 | 20240302T07:35:29Z | CVE-2023-6595 | Null | https://github.com/sharmashreejaa/CVE-2023-6595 | | 
