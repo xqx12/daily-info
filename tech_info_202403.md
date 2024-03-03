@@ -48,6 +48,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240303T01:55:46Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr715-0075-0018-app-x6RyJ-exploit-re | 0 | 0| 
 | 20240303T01:22:58Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 101 | 34| 
 | 20240303T01:04:15Z | Null | https://github.com/codingcore13/Silent-JPG-Exploit-NEW-vr | 1 | 0| 
 | 20240303T01:03:42Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-vr | 1 | 0| 
@@ -57,7 +58,6 @@
 | 20240302T23:42:11Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6471 | 827| 
 | 20240302T23:21:22Z | Null | https://github.com/EthicalSecurity-Agency/exploit-database-exploitdb. | 0 | 0| 
 | 20240302T22:45:07Z | This exploit is made for exploiters on Roblox. Lol. | https://github.com/TrollCodes/Admin | 0 | 0| 
-| 20240302T18:28:58Z | A project that offers cheats developed with C++ for DayZ. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/Keirosx/PROOFCORE-Dayz-Cheat-Hack-Aimbot-Esp-Exploit-Magic-Bullet-Spoofer-Misc | 0 | 0| 
 
 
 # backdoor on Github 推荐
