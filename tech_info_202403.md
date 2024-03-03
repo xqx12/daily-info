@@ -17,7 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240303T00:27:53Z | CVE-2024-21672 | POC for CVE-2024-21672 Confluence Data Center and Server RCE | https://github.com/swagcrafted/CVE-2024-21672-POC | | 
+| 20240303T01:25:17Z | CVE-2024-21672 | POC for CVE-2024-21672 Confluence Data Center and Server RCE | https://github.com/swagcrafted/CVE-2024-21672-POC | | 
 | 20240303T00:04:40Z | CVE-2024-20291 | CVE-2024-20291-POC exploit ---> RCE | https://github.com/greandfather/CVE-2024-20291-POC | | 
 | 20240302T21:18:30Z | CVE-2023-2437 | Null | https://github.com/RxRCoder/CVE-2023-2437 | | 
 | 20240302T19:15:03Z | cve-2024-21762 | Safely detect whether a FortiGate SSL VPN is vulnerable to CVE-2024-21762 | https://github.com/BishopFox/cve-2024-21762-check | | 
