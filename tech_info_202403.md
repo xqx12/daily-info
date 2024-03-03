@@ -48,7 +48,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240303T13:00:06Z | 若依最新定时任务SQL注入可导致RCE漏洞的一键利用工具 | https://github.com/charonlight/RuoYiExploitGUI | 0 | 0| 
+| 20240303T13:26:37Z | 若依最新定时任务SQL注入可导致RCE漏洞的一键利用工具 | https://github.com/charonlight/RuoYiExploitGUI | 1 | 0| 
 | 20240303T12:16:16Z | Arbitrage-MEVbot is an automated system 🤖 for identifying and exploiting arbitrage opportunities in cryptocurrencies 💰 across different exchanges, allowing to profit from price discrepancies 🔀.(JaredFromSubway’s) | https://github.com/twarag/ETH-MEV-BOT | 383 | 124| 
 | 20240303T12:01:31Z | Null | https://github.com/NicolasDaurios/Productions-agricoles-et-structures-des-exploitations-en-Nouvelle-Aquitaine-2020- | 0 | 0| 
 | 20240303T11:54:11Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 6461 | 602| 
