@@ -100,7 +100,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240303T02:51:51Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52481 | 23192| 
+| 20240303T02:55:10Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52482 | 23192| 
 | 20240303T02:13:44Z | Null | https://github.com/udpsunil/fuzzing_book | 0 | 0| 
 | 20240303T00:50:06Z | A Laravel package providing a fuzzy search trait for Eloquent models to easily implement search functionality with support for concatenated attributes. | https://github.com/soliyer/laravel-fuzzy-search | 0 | 0| 
 | 20240302T23:44:00Z | Null | https://github.com/haorandai/EvilPromptFuzzer | 0 | 0| 
