@@ -48,6 +48,9 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240303T01:04:15Z | Null | https://github.com/codingcore13/Silent-JPG-Exploit-NEW-vr | 1 | 0| 
+| 20240303T01:03:42Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-vr | 1 | 0| 
+| 20240303T01:03:10Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-vr | 1 | 0| 
 | 20240303T01:02:20Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-vr | 1 | 0| 
 | 20240303T00:04:40Z | CVE-2024-20291-POC exploit ---> RCE | https://github.com/greandfather/CVE-2024-20291-POC | 0 | 0| 
 | 20240302T23:42:11Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6471 | 827| 
@@ -55,9 +58,6 @@
 | 20240302T22:45:07Z | This exploit is made for exploiters on Roblox. Lol. | https://github.com/TrollCodes/Admin | 0 | 0| 
 | 20240302T18:28:58Z | A project that offers cheats developed with C++ for DayZ. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/Keirosx/PROOFCORE-Dayz-Cheat-Hack-Aimbot-Esp-Exploit-Magic-Bullet-Spoofer-Misc | 0 | 0| 
 | 20240302T17:11:03Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 798 | 184| 
-| 20240302T13:57:58Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5905 | 742| 
-| 20240302T13:57:48Z | Arbitrage-MEVbot is an automated system 🤖 for identifying and exploiting arbitrage opportunities in cryptocurrencies 💰 across different exchanges, allowing to profit from price discrepancies 🔀. | https://github.com/twarag/Arbitrage-Mevbot | 1 | 0| 
-| 20240302T13:55:48Z | Offensive and Defensive Cybersecurity Course Challenges at polimi | https://github.com/gio-del/ODC-Challenges-CTF | 0 | 0| 
 
 
 # backdoor on Github 推荐
