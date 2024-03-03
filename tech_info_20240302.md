@@ -66,6 +66,8 @@
 # symbolic execution on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240302T15:43:03Z | S2E: A platform for multi-path program analysis with selective symbolic execution. | https://github.com/S2E/s2e | 378 | 85| 
+| 20240302T14:35:09Z | Symbolic-execution-based verifier for the Viper intermediate verification language. | https://github.com/viperproject/silicon | 68 | 29| 
 | 20240302T12:28:36Z | symbolic execution plugin for binary ninja | https://github.com/borzacchiello/seninja | 229 | 22| 
 | 20240302T10:23:58Z | SymQEMU: Compilation-based symbolic execution for binaries | https://github.com/eurecom-s3/symqemu | 284 | 37| 
 
@@ -74,6 +76,7 @@
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
 | 20240302T10:05:37Z | Code for the %Predictive Context-sensitive Fuzzing% NDSS%24 paper | https://github.com/eurecom-s3/predictive-cs-fuzzing | 12 | 0| 
+| 20240302T08:32:47Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 116 | 7| 
 | 20240302T05:52:51Z | (NDSS 2024) Optimizing Decompiler Output with LLM | https://github.com/PeiweiHu/DeGPT | 35 | 0| 
 
 
