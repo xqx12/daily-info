@@ -52,7 +52,7 @@
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240303T12:45:22Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 2571 | 896| 
+| 20240303T13:45:51Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 2572 | 896| 
 | 20240303T11:42:58Z | Null | https://github.com/Sussybakabro/Maxx0rGui-Backdoor-incident-edition | 0 | 0| 
 | 20240303T11:08:19Z | Null | https://github.com/VY-Team-V/BackDoor-python | 0 | 0| 
 | 20240303T10:47:20Z | Reproduce for an USENIX Security 23 paper: datafree-backdoor | https://github.com/zjzhang1999/datafree-backdoor_reproduce | 0 | 0| 
