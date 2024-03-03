@@ -17,16 +17,16 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
-| 20240303T01:34:39Z | cve-2024-21762 | Safely detect whether a FortiGate SSL VPN is vulnerable to CVE-2024-21762 | https://github.com/BishopFox/cve-2024-21762-check | | 
+| 20240303T12:56:29Z | cve-2024-21762 | Safely detect whether a FortiGate SSL VPN is vulnerable to CVE-2024-21762 | https://github.com/BishopFox/cve-2024-21762-check | | 
+| 20240303T12:22:58Z | CVE-2023-47218 | POC for CVE-2023-47218 | https://github.com/gogobuster/CVE-2023-47218-POC | | 
+| 20240303T10:57:32Z | CVE-2024-20291 | CVE-2024-20291-POC exploit ---> RCE | https://github.com/greandfather/CVE-2024-20291-POC | | 
+| 20240303T10:50:17Z | CVE-2023-34845 | Vulnerability POC for CVE-2023-34845 | https://github.com/r4vanan/CVE-2023-34845 | | 
+| 20240303T08:03:17Z | CVE-2024-21410 | Microsoft Exchange server Privilege Escalation - WORK!! | https://github.com/FreakyM0ndy/CVE-2024-21410-poc | | 
 | 20240303T01:25:17Z | CVE-2024-21672 | POC for CVE-2024-21672 Confluence Data Center and Server RCE | https://github.com/swagcrafted/CVE-2024-21672-POC | | 
-| 20240303T00:04:40Z | CVE-2024-20291 | CVE-2024-20291-POC exploit ---> RCE | https://github.com/greandfather/CVE-2024-20291-POC | | 
 | 20240302T21:18:30Z | CVE-2023-2437 | Null | https://github.com/RxRCoder/CVE-2023-2437 | | 
 | 20240302T15:01:09Z | CVE-2024-1709 | CVE-2024-1709 ConnectWise ScreenConnect auth bypass patch WORK 2.0  | https://github.com/tr1pl3ight/POCv2.0-for-CVE-2024-1709 | | 
 | 20240302T11:05:13Z | CVE-2024-26521 | Html Injection vulnearbility in CE-Phoenix-v1.0.8.20 where malicious HTML code is inserted into a website. This can lead to a variety of issues, from minor website defacement to serious data breaches. | https://github.com/hackervegas001/CVE-2024-26521 | | 
 | 20240302T07:35:29Z | CVE-2023-6595 | Null | https://github.com/sharmashreejaa/CVE-2023-6595 | | 
-| 20240302T05:27:19Z | CVE-2023-47218 | POC for CVE-2023-47218 | https://github.com/gogobuster/CVE-2023-47218-POC | | 
-| 20240301T22:40:51Z | CVE-2024-0967 | ArcSight ESM up to 24.0 information disclosure proof-of-concept | https://github.com/Oxdestiny/CVE-2024-0967-exploit | | 
-| 20240301T22:38:44Z | CVE-2024-21410 | Microsoft Exchange server Privilege Escalation - WORK!! | https://github.com/FreakyM0ndy/CVE-2024-21410-poc | | 
 
 
 # klee on Github 推荐
@@ -48,31 +48,31 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240303T13:00:06Z | 若依最新定时任务SQL注入可导致RCE漏洞的一键利用工具 | https://github.com/charonlight/RuoYiExploitGUI | 0 | 0| 
+| 20240303T12:16:16Z | Arbitrage-MEVbot is an automated system 🤖 for identifying and exploiting arbitrage opportunities in cryptocurrencies 💰 across different exchanges, allowing to profit from price discrepancies 🔀.(JaredFromSubway’s) | https://github.com/twarag/ETH-MEV-BOT | 383 | 124| 
+| 20240303T12:01:31Z | Null | https://github.com/NicolasDaurios/Productions-agricoles-et-structures-des-exploitations-en-Nouvelle-Aquitaine-2020- | 0 | 0| 
+| 20240303T11:54:11Z | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | 6461 | 602| 
+| 20240303T11:39:32Z | Journey towards Bug Bounty Hunter, Defensive Security Analyist and Certified Web Exploitation Expert | https://github.com/C3LKO/HackTheBox | 1 | 0| 
+| 20240303T07:37:20Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5909 | 742| 
+| 20240303T04:15:19Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5822 | 1091| 
 | 20240303T02:51:56Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr715-0075-0063-app-WCzM5-differ-exploit | 0 | 0| 
 | 20240303T02:42:52Z | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository of extensions written by the user community to extend the capabilities of Cobalt Strike. The Cobalt Strike team acts as the curator and provides this kit to showcase this fantastic work. | https://github.com/Cobalt-Strike/community_kit | 263 | 20| 
 | 20240303T02:29:07Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0100-0059-app-Rnrlw-join-exploit | 0 | 0| 
-| 20240303T02:03:04Z | GitOps Repository | https://github.com/rhtap-perf-test/cima-0090-0083-app-0Xs9D-help-exploit | 0 | 0| 
-| 20240303T01:55:46Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr715-0075-0018-app-x6RyJ-exploit-re | 0 | 0| 
-| 20240303T01:22:58Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 101 | 34| 
-| 20240303T01:04:15Z | Null | https://github.com/codingcore13/Silent-JPG-Exploit-NEW-vr | 1 | 0| 
-| 20240303T01:03:42Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-vr | 1 | 0| 
-| 20240303T01:03:10Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-vr | 1 | 0| 
-| 20240303T01:02:20Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-vr | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240303T02:57:40Z | Null | https://github.com/huifeng3/adversarival_attack_and_backdoor_attack | 0 | 0| 
+| 20240303T12:45:22Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 2571 | 896| 
+| 20240303T11:42:58Z | Null | https://github.com/Sussybakabro/Maxx0rGui-Backdoor-incident-edition | 0 | 0| 
+| 20240303T11:08:19Z | Null | https://github.com/VY-Team-V/BackDoor-python | 0 | 0| 
+| 20240303T10:47:20Z | Reproduce for an USENIX Security 23 paper: datafree-backdoor | https://github.com/zjzhang1999/datafree-backdoor_reproduce | 0 | 0| 
+| 20240303T07:46:17Z | Backdoor Proj | https://github.com/MrKLD00/OpenBackdoor | 0 | 0| 
+| 20240303T03:11:46Z | Null | https://github.com/huifeng3/adversarival_attack_and_backdoor_attack | 0 | 0| 
+| 20240303T03:05:15Z | PounceKey%s is a Accessibility Service keylogger for Android 5 to 13! full launcher stealth. choose between receiving logs via IP, Gmail, or Discord. No txt files on device, straight buffer in logcat. Signal backdoor, best android keylogger! | https://github.com/NullPounce/pounce-keys | 164 | 49| 
 | 20240302T22:33:04Z | Digital Forensics and Incident Response (DFIR) | https://github.com/RENANZG/My-Forensics | 77 | 11| 
 | 20240302T21:23:28Z | A collection of webshell | https://github.com/Peaky-XD/webshell | 43 | 10| 
-| 20240302T19:15:44Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 2570 | 895| 
 | 20240302T15:00:19Z | Null | https://github.com/Mick048/KIP-based-backdoor-attack | 0 | 0| 
-| 20240302T11:41:48Z | PounceKey%s is a Accessibility Service keylogger for Android 5 to 13! full launcher stealth. choose between receiving logs via IP, Gmail, or Discord. No txt files on device, straight buffer in logcat. Signal backdoor, best android keylogger! | https://github.com/NullPounce/pounce-keys | 163 | 49| 
-| 20240302T09:03:16Z | Null | https://github.com/Enskc05/Backdoor-Listener | 0 | 0| 
-| 20240301T19:56:48Z | REMOTE ACCES TOOL. I am just learning. Modules only.   | https://github.com/sousou15/BackdoorRAT | 0 | 0| 
-| 20240301T19:06:56Z | Static code analyser for backdoors and malicious code in git repos using OpenAI compatible LLM APIs | https://github.com/referefref/gitdoorcheck | 4 | 1| 
-| 20240301T17:56:03Z | VenomControl Rat is a Remote Access Tool (RAT) designed to remotely monitor and control other computers through a secure encrypted connection | https://github.com/Boykaos/VenomControl-Rat-Crack-Source | 2 | 0| 
 
 
 # symbolic execution on Github 推荐
@@ -100,16 +100,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240303T12:56:29Z | Build an expert system to diagnose a patient%s illness based on symptoms, age, and medical history We built two systems for heart disease and diabetes based on Fuzzy logic | https://github.com/halalek/-Fuzzy-logic | 0 | 0| 
+| 20240303T12:17:55Z | Null | https://github.com/e4085/fuzzy-guide | 0 | 0| 
+| 20240303T12:10:16Z | The implementation of LSTM and RNN, as well as a comparison of their accuracy for sequential data, and an explanation of how LSTM is advantageous. Also, the construction of a neuro-fuzzy model and the influence of its observation.  | https://github.com/anktxox/The-implementation-of-RNN-LSTM-and-Neuro-Fuzzy-models-as-well-as-the-observation-of-their-influence. | 0 | 0| 
+| 20240303T12:05:46Z | Implementation of RNN & LSTM and comparing its accuracy for sequential data and how LSTM is benefited.  | https://github.com/anktxox/Instruction-and-Evaluation-of-the-Relationships-Between-RNN-LSTM-and-Neuro-fuzzy-Models | 0 | 0| 
+| 20240303T11:29:12Z | Null | https://github.com/EmilZhanChick/fuzzy-invention12 | 0 | 0| 
+| 20240303T10:29:26Z | The PHP package for calculate similarity and Levenshtein distance between strings | https://github.com/nullform/fuzzio | 1 | 0| 
+| 20240303T10:24:32Z | Null | https://github.com/akankshasingh2gr8/name_correction_with_fuzzy_logic | 0 | 0| 
+| 20240303T09:02:47Z | Null | https://github.com/bhalla02/fuzzy-potato | 0 | 0| 
 | 20240303T02:55:10Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52482 | 23192| 
 | 20240303T02:13:44Z | Null | https://github.com/udpsunil/fuzzing_book | 0 | 0| 
-| 20240303T00:50:06Z | A Laravel package providing a fuzzy search trait for Eloquent models to easily implement search functionality with support for concatenated attributes. | https://github.com/soliyer/laravel-fuzzy-search | 0 | 0| 
-| 20240302T23:44:00Z | Null | https://github.com/haorandai/EvilPromptFuzzer | 0 | 0| 
-| 20240302T22:51:21Z | Null | https://github.com/AkshithByju/fuzzy-doodle | 0 | 0| 
-| 20240302T22:51:16Z | Null | https://github.com/Bxcia/fuzzy-octo-train | 0 | 0| 
-| 20240302T22:43:05Z | Null | https://github.com/leivypatrikadams8539688/fuzzy-octo-system | 0 | 0| 
-| 20240302T21:59:11Z | software de control de alquiler de peliculas - practica/exploracion de java | https://github.com/damlop/fuzzy-broccoli | 0 | 0| 
-| 20240302T20:44:35Z | Null | https://github.com/bezumiecutie19928890/fuzzy-lamp | 0 | 0| 
-| 20240302T17:01:24Z | Null | https://github.com/iamdevmarcos/fuzzy-invention | 0 | 0| 
 
 
 
