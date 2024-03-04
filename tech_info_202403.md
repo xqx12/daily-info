@@ -48,7 +48,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240304T02:41:01Z | simple hack for brainpop.com | https://github.com/galaxqy/brainpop-skip | 0 | 0| 
+| 20240304T02:42:35Z | simple hack for brainpop.com | https://github.com/galaxqy/brainpop-skip | 0 | 0| 
 | 20240304T01:54:32Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5911 | 742| 
 | 20240304T01:34:26Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr715-0075-0060-app-O-LiL-mark-exploit | 0 | 0| 
 | 20240304T01:15:58Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr715-0075-0003-app-sSTtE-imagine-exploit | 0 | 0| 
