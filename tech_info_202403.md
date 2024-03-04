@@ -100,8 +100,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240304T02:13:06Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52508 | 23195| 
 | 20240304T01:37:21Z | Input fuzzing action for tree-sitter parsers | https://github.com/tree-sitter/fuzz-action | 5 | 0| 
-| 20240304T01:32:44Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52507 | 23195| 
 | 20240304T01:30:05Z | Null | https://github.com/Artistarasou/fuzzy-rotary-phone | 0 | 0| 
 | 20240304T00:45:42Z | Null | https://github.com/18006877440/fuzzy-octo-spork | 0 | 0| 
 | 20240303T23:31:04Z | A Rest API fuzz testing application built with Python and Django | https://github.com/Utkal97/api-fuzzer | 0 | 0| 
