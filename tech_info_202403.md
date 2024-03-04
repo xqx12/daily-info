@@ -17,6 +17,7 @@
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240304T02:31:35Z | CVE-2024-21672 | POC for CVE-2024-21672 Confluence Data Center and Server RCE | https://github.com/swagcrafted/CVE-2024-21672-POC | | 
 | 20240304T00:53:35Z | CVE-2024-24760 | mailcow: Docker Container Exposure to Local Network | https://github.com/killerbees19/CVE-2024-24760 | | 
 | 20240303T20:34:26Z | CVE-2024-20291 | CVE-2024-20291-POC exploit ---> RCE | https://github.com/greandfather/CVE-2024-20291-POC | | 
 | 20240303T19:44:29Z | Cve-2023- | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/Soradotos/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
@@ -26,7 +27,6 @@
 | 20240303T17:45:58Z | CVE-2024-21762 | CVE-2024-21762 POC Forti VPN SSL Out of Boundary RCE | https://github.com/tr1pl3ight/CVE-2024-21762-POC | | 
 | 20240303T12:56:29Z | cve-2024-21762 | Safely detect whether a FortiGate SSL VPN is vulnerable to CVE-2024-21762 | https://github.com/BishopFox/cve-2024-21762-check | | 
 | 20240303T12:22:58Z | CVE-2023-47218 | POC for CVE-2023-47218 | https://github.com/gogobuster/CVE-2023-47218-POC | | 
-| 20240303T10:50:17Z | CVE-2023-34845 | Vulnerability POC for CVE-2023-34845 | https://github.com/r4vanan/CVE-2023-34845 | | 
 
 
 # klee on Github 推荐
