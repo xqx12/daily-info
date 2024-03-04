@@ -86,8 +86,8 @@
 | 20240304T10:39:04Z | This is fuzzy-swan-java-quarkus | https://github.com/rhtap-hub/fuzzy-swan-java-quarkus | 0 | 0| 
 | 20240304T10:39:02Z | This is GitOps repository for fuzzy-swan-java-quarkus | https://github.com/rhtap-hub/fuzzy-swan-java-quarkus-gitops | 0 | 0| 
 | 20240304T10:17:20Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9481 | 2043| 
+| 20240304T09:56:24Z | Recent Fuzzing Paper | https://github.com/wcventure/FuzzingPaper | 2192 | 337| 
 | 20240304T09:30:08Z | Null | https://github.com/aiken-lang/fuzz | 1 | 0| 
-| 20240304T08:43:14Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2517 | 315| 
 
 
 
