@@ -69,6 +69,8 @@
 # big4 on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240304T12:29:26Z | A curated list of Meachine learning Security & Privacy papers published in security top-4 conferences (IEEE S&P, ACM CCS, USENIX Security and NDSS). | https://github.com/gnipping/Awesome-ML-SP-Papers | 118 | 7| 
+| 20240304T12:28:06Z | NDSS is a Java library for managing compressed file systems stored in a single file. It provides functionalities to serialize and deserialize directory structures and files, allowing for compact storage and easy sharing of data. | https://github.com/Nozyx59/ndss | 0 | 0| 
 
 
 # fuzz on Github 推荐
