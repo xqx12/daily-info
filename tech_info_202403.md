@@ -48,6 +48,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240304T01:34:26Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr715-0075-0060-app-O-LiL-mark-exploit | 0 | 0| 
 | 20240304T01:15:58Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr715-0075-0003-app-sSTtE-imagine-exploit | 0 | 0| 
 | 20240304T01:14:41Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr715-0075-0046-app-amPxn-exploit-visit | 0 | 0| 
 | 20240304T00:48:41Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6478 | 827| 
@@ -57,7 +58,6 @@
 | 20240303T23:10:39Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-al | 1 | 0| 
 | 20240303T23:09:54Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-al | 1 | 0| 
 | 20240303T22:51:16Z | Null | https://github.com/Jake123otte1/pgsql-extension-exploits | 0 | 0| 
-| 20240303T19:44:26Z | Ephemeral discourse is embodied by the likes of Messenger Sessions, the digital portraits of Accounts, and the enigmatic Token | https://github.com/Soradotos/Discord-Image-Logger-Slient-Exploit-Builder-Grabber-Stealer | 0 | 0| 
 
 
 # backdoor on Github 推荐
