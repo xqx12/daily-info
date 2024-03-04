@@ -48,6 +48,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240304T01:54:32Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5911 | 742| 
 | 20240304T01:34:26Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr715-0075-0060-app-O-LiL-mark-exploit | 0 | 0| 
 | 20240304T01:15:58Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr715-0075-0003-app-sSTtE-imagine-exploit | 0 | 0| 
 | 20240304T01:14:41Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr715-0075-0046-app-amPxn-exploit-visit | 0 | 0| 
@@ -57,7 +58,6 @@
 | 20240303T23:11:34Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-al | 1 | 0| 
 | 20240303T23:10:39Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-al | 1 | 0| 
 | 20240303T23:09:54Z | Null | https://github.com/codingcore13/SILENT-PDF-EXPLOIT-CLEAN-al | 1 | 0| 
-| 20240303T22:51:16Z | Null | https://github.com/Jake123otte1/pgsql-extension-exploits | 0 | 0| 
 
 
 # backdoor on Github 推荐
