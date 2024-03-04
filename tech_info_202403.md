@@ -48,6 +48,7 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240304T01:14:41Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr715-0075-0046-app-amPxn-exploit-visit | 0 | 0| 
 | 20240304T00:48:41Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6478 | 827| 
 | 20240303T23:26:34Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr715-0075-0062-app-TMNJu-exploit-give | 0 | 0| 
 | 20240303T23:12:11Z | Null | https://github.com/codingcore13/Silent-JPG-Exploit-NEW-al | 1 | 0| 
@@ -57,7 +58,6 @@
 | 20240303T22:51:16Z | Null | https://github.com/Jake123otte1/pgsql-extension-exploits | 0 | 0| 
 | 20240303T19:44:26Z | Ephemeral discourse is embodied by the likes of Messenger Sessions, the digital portraits of Accounts, and the enigmatic Token | https://github.com/Soradotos/Discord-Image-Logger-Slient-Exploit-Builder-Grabber-Stealer | 0 | 0| 
 | 20240303T16:21:27Z | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | 5824 | 1091| 
-| 20240303T13:26:37Z | 若依最新定时任务SQL注入可导致RCE漏洞的一键利用工具 | https://github.com/charonlight/RuoYiExploitGUI | 1 | 0| 
 
 
 # backdoor on Github 推荐
