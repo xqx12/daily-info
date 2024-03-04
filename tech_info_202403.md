@@ -100,6 +100,7 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240304T01:37:21Z | Input fuzzing action for tree-sitter parsers | https://github.com/tree-sitter/fuzz-action | 5 | 0| 
 | 20240304T01:32:44Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52507 | 23195| 
 | 20240304T01:30:05Z | Null | https://github.com/Artistarasou/fuzzy-rotary-phone | 0 | 0| 
 | 20240304T00:45:42Z | Null | https://github.com/18006877440/fuzzy-octo-spork | 0 | 0| 
@@ -109,7 +110,6 @@
 | 20240303T22:15:50Z | Null | https://github.com/Saurabh21041999/Smart-Contract-Fuzzing | 0 | 0| 
 | 20240303T20:25:06Z | Null | https://github.com/majdi-m01/FuzzingProjects | 1 | 0| 
 | 20240303T18:02:44Z | Null | https://github.com/rezendevictor/fuzzy-octo-chainsaw | 0 | 0| 
-| 20240303T14:34:31Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST, GraphQL and RPC (e.g., gRPC and Thrift). | https://github.com/EMResearch/EvoMaster | 409 | 73| 
 
 
 
