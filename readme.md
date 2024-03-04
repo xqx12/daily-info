@@ -39,6 +39,8 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240304T13:09:04Z | Just a link. A context escaping link. | https://github.com/5ncrypted/exploit | 0 | 0| 
+| 20240304T13:07:28Z | Project for the course %Remote sensing data: from sensor to large-scale geospatial data exploitation % : | https://github.com/PaulBorneP/contrastive_SLC | 0 | 0| 
 | 20240304T11:11:30Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5917 | 744| 
 | 20240304T11:04:46Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 799 | 184| 
 | 20240304T10:40:12Z | Execute arbitrary code on the victim’s device, compromising data security and system integrity in Chrome 120.0.6099 | https://github.com/JohnHormond/CVE-2024-0519-Chrome-exploit | 0 | 0| 
@@ -47,8 +49,6 @@
 | 20240304T04:27:03Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 103 | 14| 
 | 20240304T04:25:06Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 102 | 34| 
 | 20240304T02:42:35Z | simple hack for brainpop.com | https://github.com/galaxqy/brainpop-skip | 0 | 0| 
-| 20240304T01:34:26Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr715-0075-0060-app-O-LiL-mark-exploit | 0 | 0| 
-| 20240304T01:15:58Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr715-0075-0003-app-sSTtE-imagine-exploit | 0 | 0| 
 
 
 # backdoor on Github 推荐
