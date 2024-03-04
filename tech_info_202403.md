@@ -112,8 +112,8 @@
 | 20240304T10:39:04Z | This is fuzzy-swan-java-quarkus | https://github.com/rhtap-hub/fuzzy-swan-java-quarkus | 0 | 0| 
 | 20240304T10:39:02Z | This is GitOps repository for fuzzy-swan-java-quarkus | https://github.com/rhtap-hub/fuzzy-swan-java-quarkus-gitops | 0 | 0| 
 | 20240304T10:17:20Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9481 | 2043| 
+| 20240304T09:30:08Z | Null | https://github.com/aiken-lang/fuzz | 1 | 0| 
 | 20240304T08:43:14Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2517 | 315| 
-| 20240304T02:13:06Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52508 | 23195| 
 
 
 
