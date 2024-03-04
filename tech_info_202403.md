@@ -11,12 +11,17 @@
 # 安全维基 推荐
 | ts | title | url| 
 | --- | --- | ---| 
+| 20240304 | SecWiki周刊（第522期) | https://www.sec-wiki.com/weekly/522| 
+| 20240304 | NET环境下的多款同源RAT对比 | https://mp.weixin.qq.com/s/ON6YCJxliTjanvgzmQBKSA| 
 | 20240301 | 网络侦察的反溯源技术研究 | https://mp.weixin.qq.com/s/OrIliK1y9ZBKJAnohTYfkg| 
 
 
 # CVE Github 推荐
 | ts | cve_id | title | url | cve_detail| 
 | --- | --- | --- | --- | ---| 
+| 20240304T10:40:12Z | CVE-2024-0519 | Execute arbitrary code on the victim’s device, compromising data security and system integrity in Chrome 120.0.6099 | https://github.com/JohnHormond/CVE-2024-0519-Chrome-exploit | | 
+| 20240304T09:36:33Z | CVE-2023-6548 | 0day for Citrix Netscaler ADC and NetScaler Gateway latest versions | https://github.com/Roonye660/CVE-2023-6548-POC | | 
+| 20240304T05:57:41Z | CVE-2024-0001 | Roblox vulnerability that allows injection into the roblox client VIA P.A.N.C.R.A.B method , Add-MpPreference -ExclusionPath "C:\" #Enable Dll = True, Process = Roblox | https://github.com/RobloxSecurityResearcher/RobloxVulnerabilityCVE-2024-0001 | | 
 | 20240304T02:31:35Z | CVE-2024-21672 | POC for CVE-2024-21672 Confluence Data Center and Server RCE | https://github.com/swagcrafted/CVE-2024-21672-POC | | 
 | 20240304T00:53:35Z | CVE-2024-24760 | mailcow: Docker Container Exposure to Local Network | https://github.com/killerbees19/CVE-2024-24760 | | 
 | 20240303T20:34:26Z | CVE-2024-20291 | CVE-2024-20291-POC exploit ---> RCE | https://github.com/greandfather/CVE-2024-20291-POC | | 
@@ -24,9 +29,6 @@
 | 20240303T19:44:28Z | Cve-2023- | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Soradotos/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 | 20240303T19:44:26Z | Cve-2023- | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/Soradotos/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
 | 20240303T19:44:25Z | Cve-2023- | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/Soradotos/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | | 
-| 20240303T17:45:58Z | CVE-2024-21762 | CVE-2024-21762 POC Forti VPN SSL Out of Boundary RCE | https://github.com/tr1pl3ight/CVE-2024-21762-POC | | 
-| 20240303T12:56:29Z | cve-2024-21762 | Safely detect whether a FortiGate SSL VPN is vulnerable to CVE-2024-21762 | https://github.com/BishopFox/cve-2024-21762-check | | 
-| 20240303T12:22:58Z | CVE-2023-47218 | POC for CVE-2023-47218 | https://github.com/gogobuster/CVE-2023-47218-POC | | 
 
 
 # klee on Github 推荐
@@ -48,21 +50,24 @@
 # exploit on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240304T11:11:30Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5917 | 744| 
+| 20240304T11:04:46Z | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | 799 | 184| 
+| 20240304T10:40:12Z | Execute arbitrary code on the victim’s device, compromising data security and system integrity in Chrome 120.0.6099 | https://github.com/JohnHormond/CVE-2024-0519-Chrome-exploit | 0 | 0| 
+| 20240304T09:28:04Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6480 | 827| 
+| 20240304T07:00:19Z | Exploits Whaticket websocket bugs | https://github.com/allgood/WhaticketWebsocketExploit | 4 | 2| 
+| 20240304T04:27:03Z | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | 103 | 14| 
+| 20240304T04:25:06Z | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | 102 | 34| 
 | 20240304T02:42:35Z | simple hack for brainpop.com | https://github.com/galaxqy/brainpop-skip | 0 | 0| 
-| 20240304T01:54:32Z | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | 5911 | 742| 
 | 20240304T01:34:26Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr715-0075-0060-app-O-LiL-mark-exploit | 0 | 0| 
 | 20240304T01:15:58Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr715-0075-0003-app-sSTtE-imagine-exploit | 0 | 0| 
-| 20240304T01:14:41Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr715-0075-0046-app-amPxn-exploit-visit | 0 | 0| 
-| 20240304T00:48:41Z | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | 6478 | 827| 
-| 20240303T23:26:34Z | GitOps Repository | https://github.com/pmacik-testing/tkrw-pr715-0075-0062-app-TMNJu-exploit-give | 0 | 0| 
-| 20240303T23:12:11Z | Null | https://github.com/codingcore13/Silent-JPG-Exploit-NEW-al | 1 | 0| 
-| 20240303T23:11:34Z | Null | https://github.com/codingcore13/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-al | 1 | 0| 
-| 20240303T23:10:39Z | Null | https://github.com/codingcore13/SILENT-DOC-EXPLOIT-CLEAN-al | 1 | 0| 
 
 
 # backdoor on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240304T08:26:08Z | Null | https://github.com/Do2224/BackDoor | 0 | 0| 
+| 20240304T06:48:35Z | A curated list of trustworthy deep learning papers. Daily updating... | https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning | 264 | 30| 
+| 20240304T05:20:36Z | Global united armies have backdoors to github and can delete access logifles | https://github.com/HackersCardgame/hackerscardgame-notes-s24m01 | 0 | 0| 
 | 20240304T00:19:32Z | block game backdoor plugin | https://github.com/FFUV/intlink | 1 | 0| 
 | 20240303T20:27:23Z | KIZAGAN is a RAT,c2 command&control tool.It allows you to build executables and control infected machines. | https://github.com/st4inl3s5/kizagan | 79 | 15| 
 | 20240303T19:44:33Z | The S-500 G2 Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/Soradotos/S500-RAT-HVNC-HAPP-HIdden-BROWSER-HRDP-REVERSE-PROXY-CRYPTO-MONITOR | 0 | 0| 
@@ -70,9 +75,6 @@
 | 20240303T19:44:31Z | The X-Worm Rat Hvnc stands as a pinnacle of remote administration tools, complemented by its advanced Hvnc capabilities. | https://github.com/Soradotos/XWorm-V5.2-Edition-HVNC-RAT-DDOS-PASSWORDS-RANSOMWARE-CLIPPER-KEYLOGGER-UAC-BYPASS | 0 | 0| 
 | 20240303T19:44:22Z | Remote Administration Either you are a private user wanting to control your PC from afar, or a big company which wants to administrate hundreds of machines from a single computer, | https://github.com/Soradotos/ICARUS-NET2-NET4-BAT-VBS-VBA-HVNC-BINDER-PHP-FTPLOGS-RECOVERY-KEYLOG-WEBGL-ROOKIT | 0 | 0| 
 | 20240303T16:13:53Z | Backdoor coded in python | https://github.com/LordA2117/backdoor | 0 | 0| 
-| 20240303T16:08:39Z | Null | https://github.com/Lorenzinco/backdoorCTF | 0 | 0| 
-| 20240303T16:08:28Z | PounceKey%s is a Accessibility Service keylogger for Android 5 to 13! full launcher stealth. choose between receiving logs via IP, Gmail, or Discord. No txt files on device, straight buffer in logcat. Signal backdoor, best android keylogger! | https://github.com/NullPounce/pounce-keys | 164 | 49| 
-| 20240303T13:45:51Z | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | 2572 | 896| 
 
 
 # symbolic execution on Github 推荐
@@ -100,16 +102,16 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
+| 20240304T12:46:24Z | basic demonstration app | https://github.com/lekishas/fuzzy-goggles | 0 | 0| 
+| 20240304T12:35:26Z | Null | https://github.com/Forrest-Jones/fuzzy-octo-invention | 0 | 0| 
+| 20240304T11:26:29Z | 🐇 Fuzzing Rust code with American Fuzzy Lop | https://github.com/rust-fuzz/afl.rs | 1549 | 112| 
+| 20240304T10:45:29Z | ink! smart-contract fuzzer | https://github.com/kevin-valerio/phink | 0 | 0| 
+| 20240304T10:39:04Z | This is fuzzy-swan-java-quarkus | https://github.com/rhtap-hub/fuzzy-swan-java-quarkus | 0 | 0| 
+| 20240304T10:39:02Z | This is GitOps repository for fuzzy-swan-java-quarkus | https://github.com/rhtap-hub/fuzzy-swan-java-quarkus-gitops | 0 | 0| 
+| 20240304T10:17:20Z | OSS-Fuzz - continuous fuzzing for open source software. | https://github.com/google/oss-fuzz | 9481 | 2043| 
+| 20240304T08:43:14Z | Ethereum smart contract fuzzer | https://github.com/crytic/echidna | 2517 | 315| 
 | 20240304T02:13:06Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52508 | 23195| 
 | 20240304T01:37:21Z | Input fuzzing action for tree-sitter parsers | https://github.com/tree-sitter/fuzz-action | 5 | 0| 
-| 20240304T01:30:05Z | Null | https://github.com/Artistarasou/fuzzy-rotary-phone | 0 | 0| 
-| 20240304T00:45:42Z | Null | https://github.com/18006877440/fuzzy-octo-spork | 0 | 0| 
-| 20240303T23:31:04Z | A Rest API fuzz testing application built with Python and Django | https://github.com/Utkal97/api-fuzzer | 0 | 0| 
-| 20240303T23:20:04Z | Null | https://github.com/aiken-lang/fuzz | 0 | 0| 
-| 20240303T22:22:59Z | Extended fuzzware that supports PIC32MZ/X processor families | https://github.com/SaerTrial/Ext-fuzzware-experiment | 0 | 0| 
-| 20240303T22:15:50Z | Null | https://github.com/Saurabh21041999/Smart-Contract-Fuzzing | 0 | 0| 
-| 20240303T20:25:06Z | Null | https://github.com/majdi-m01/FuzzingProjects | 1 | 0| 
-| 20240303T18:02:44Z | Null | https://github.com/rezendevictor/fuzzy-octo-chainsaw | 0 | 0| 
 
 
 
