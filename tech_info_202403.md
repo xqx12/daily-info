@@ -100,7 +100,8 @@
 # fuzz on Github 推荐
 | ts | title | url | stars | forks| 
 | --- | --- | --- | --- | ---| 
-| 20240304T00:54:25Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52506 | 23195| 
+| 20240304T01:32:44Z | SecLists is the security tester%s companion. It%s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. | https://github.com/danielmiessler/SecLists | 52507 | 23195| 
+| 20240304T01:30:05Z | Null | https://github.com/Artistarasou/fuzzy-rotary-phone | 0 | 0| 
 | 20240304T00:45:42Z | Null | https://github.com/18006877440/fuzzy-octo-spork | 0 | 0| 
 | 20240303T23:31:04Z | A Rest API fuzz testing application built with Python and Django | https://github.com/Utkal97/api-fuzzer | 0 | 0| 
 | 20240303T23:20:04Z | Null | https://github.com/aiken-lang/fuzz | 0 | 0| 
@@ -109,7 +110,6 @@
 | 20240303T20:25:06Z | Null | https://github.com/majdi-m01/FuzzingProjects | 1 | 0| 
 | 20240303T18:02:44Z | Null | https://github.com/rezendevictor/fuzzy-octo-chainsaw | 0 | 0| 
 | 20240303T14:34:31Z | The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST, GraphQL and RPC (e.g., gRPC and Thrift). | https://github.com/EMResearch/EvoMaster | 409 | 73| 
-| 20240303T12:56:29Z | Build an expert system to diagnose a patient%s illness based on symptoms, age, and medical history We built two systems for heart disease and diabetes based on Fuzzy logic | https://github.com/halalek/-Fuzzy-logic | 0 | 0| 
 
 
 
